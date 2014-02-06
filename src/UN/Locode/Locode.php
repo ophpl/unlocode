@@ -4,13 +4,15 @@ namespace UN\Locode;
 
 use UN\Locode\Model;
 use UN\Locode\Reader\ReaderInterface;
+use UN\Locode\Reader\YamlReader;
 
 /**
  * Class Locode
  * @package UN\Locode
  * @description Locode API
  */
-class Locode {
+class Locode
+{
 
     /**
      * @var string $path path to data folder
@@ -21,6 +23,11 @@ class Locode {
      * @var ReaderInterface $reader data reader
      */
     private $reader;
+
+    /**
+     * @var Locode
+     */
+    private static $defaultInstance;
 
     /**
      * @param $path
@@ -89,6 +96,20 @@ class Locode {
         }
 
         return new Model\Locode($entry);
+    }
+
+    /**
+     * Get default instance
+     *
+     * @return Locode
+     */
+    public static function getDefaultInstance()
+    {
+        if (null === self::$defaultInstance) {
+            self::$defaultInstance = new Locode(__DIR__."/../../../data", new YamlReader());
+        }
+
+        return self::$defaultInstance;
     }
 
 }
