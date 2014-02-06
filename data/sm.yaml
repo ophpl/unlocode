@@ -1,0 +1,96 @@
+-
+    ch: ''
+    locode: 'SM ZAC'
+    name: Acquaviva
+    namewodiacritics: Acquaviva
+    subdiv: '01'
+    function: '--3--6--'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '4357N 01225E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SM BMG'
+    name: 'Borgo Maggiore'
+    namewodiacritics: 'Borgo Maggiore'
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '0907'
+    iata: ''
+    coordinates: '4356N 01226E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SM DSS'
+    name: Domagnano
+    namewodiacritics: Domagnano
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '1101'
+    iata: ''
+    coordinates: '4357N 01228E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SM FAE'
+    name: Faetano
+    namewodiacritics: Faetano
+    subdiv: '07'
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '4355N 01229E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SM FCO'
+    name: Falciano
+    namewodiacritics: Falciano
+    subdiv: '07'
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '4359N 01230E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SM GAL'
+    name: Galazzano
+    namewodiacritics: Galazzano
+    subdiv: '09'
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SM SAI'
+    name: 'San Marino'
+    namewodiacritics: 'San Marino'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SM SRV'
+    name: Serravalle
+    namewodiacritics: Serravalle
+    subdiv: '07'
+    function: '--3-----'
+    status: RL
+    date: '1207'
+    iata: ''
+    coordinates: '4357N 01230E'
+    remarks: ''

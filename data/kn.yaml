@@ -1,0 +1,48 @@
+-
+    ch: ''
+    locode: 'KN BAS'
+    name: 'Basseterre, Saint Kitts'
+    namewodiacritics: 'Basseterre, Saint Kitts'
+    subdiv: ''
+    function: 1---5---
+    status: AI
+    date: '1101'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'KN CHA'
+    name: Charlestown
+    namewodiacritics: Charlestown
+    subdiv: ''
+    function: 1--4----
+    status: RL
+    date: '1301'
+    iata: NEV
+    coordinates: '1708N 06237W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'KN NEV'
+    name: Nevis
+    namewodiacritics: Nevis
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '1301'
+    iata: ''
+    coordinates: '1709N 06235W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'KN SKB'
+    name: 'Saint Kitts'
+    namewodiacritics: 'Saint Kitts'
+    subdiv: ''
+    function: '---45---'
+    status: AI
+    date: '1101'
+    iata: ''
+    coordinates: ''
+    remarks: ''

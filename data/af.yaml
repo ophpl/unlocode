@@ -1,0 +1,768 @@
+-
+    ch: ¦
+    locode: 'AF ASH'
+    name: 'Ali Shirzayi'
+    namewodiacritics: 'Ali Shirzayi'
+    subdiv: URU
+    function: '--3-----'
+    status: RQ
+    date: '1307'
+    iata: ''
+    coordinates: '3252N 06603E'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'AF BAG'
+    name: Bagram
+    namewodiacritics: Bagram
+    subdiv: PAR
+    function: '--3-----'
+    status: RL
+    date: '0307'
+    iata: ''
+    coordinates: '3457N 06915E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AF BIN'
+    name: Bamian
+    namewodiacritics: Bamian
+    subdiv: ''
+    function: '--34----'
+    status: AI
+    date: '0907'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'AF BEP'
+    name: Bazar-E-Panjwai
+    namewodiacritics: Bazar-E-Panjwai
+    subdiv: KAN
+    function: '--3-----'
+    status: RQ
+    date: '1001'
+    iata: ''
+    coordinates: '3133N 06527E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AF BST'
+    name: Bost
+    namewodiacritics: Bost
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ¦
+    locode: 'AF CBN'
+    name: 'Camp Bastion'
+    namewodiacritics: 'Camp Bastion'
+    subdiv: HEL
+    function: '--34----'
+    status: RQ
+    date: '1307'
+    iata: OAZ
+    coordinates: '3151N 06413E'
+    remarks: '@Coo'
+-
+    ch: ''
+    locode: 'AF CDW'
+    name: 'Camp Dwyer'
+    namewodiacritics: 'Camp Dwyer'
+    subdiv: HEL
+    function: '--3-----'
+    status: RQ
+    date: '0907'
+    iata: ''
+    coordinates: '3107N 06411E'
+    remarks: ''
+-
+    ch: ¦
+    locode: 'AF CLN'
+    name: 'Camp Leatherneck'
+    namewodiacritics: 'Camp Leatherneck'
+    subdiv: HEL
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '3153N 06411E'
+    remarks: '@Coo'
+-
+    ch: ''
+    locode: 'AF CSO'
+    name: 'Camp Salerno'
+    namewodiacritics: 'Camp Salerno'
+    subdiv: KHO
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '3324N 07004E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AF CWO'
+    name: 'Camp Wolverine'
+    namewodiacritics: 'Camp Wolverine'
+    subdiv: ZAB
+    function: '--3-----'
+    status: RQ
+    date: '0907'
+    iata: ''
+    coordinates: '3204N 06712E'
+    remarks: ''
+-
+    ch: '#'
+    locode: 'AF CCN'
+    name: Chaghcharan
+    namewodiacritics: Chaghcharan
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '1307'
+    iata: ''
+    coordinates: '3431N 06515E'
+    remarks: '@Coo'
+-
+    ch: ''
+    locode: 'AF DAZ'
+    name: Darwaz
+    namewodiacritics: Darwaz
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'AF DHD'
+    name: Dehdadi
+    namewodiacritics: Dehdadi
+    subdiv: BAL
+    function: 1----6--
+    status: RL
+    date: '1201'
+    iata: ''
+    coordinates: '3639N 06659E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AF ISQ'
+    name: 'Eslam Qal''eh'
+    namewodiacritics: 'Eslam Qal''eh'
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0601'
+    iata: ''
+    coordinates: '3440N 06104E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AF FBD'
+    name: Faizabad
+    namewodiacritics: Faizabad
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'AF FAH'
+    name: Farah
+    namewodiacritics: Farah
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'AF FRO'
+    name: 'FOB Frontenac'
+    namewodiacritics: 'FOB Frontenac'
+    subdiv: KAN
+    function: '--3-----'
+    status: RQ
+    date: '0907'
+    iata: ''
+    coordinates: '3137N 06539E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AF RMD'
+    name: 'FOB Ramrod'
+    namewodiacritics: 'FOB Ramrod'
+    subdiv: KAN
+    function: '--3-----'
+    status: RQ
+    date: '0907'
+    iata: ''
+    coordinates: '3145N 06507E'
+    remarks: ''
+-
+    ch: ¦
+    locode: 'AF SHK'
+    name: 'FOB Shank'
+    namewodiacritics: 'FOB Shank'
+    subdiv: LOG
+    function: '--3-----'
+    status: RQ
+    date: '1307'
+    iata: ''
+    coordinates: '3400N 06917E'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'AF GRG'
+    name: Gardez
+    namewodiacritics: Gardez
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'AF GAR'
+    name: Gardiz
+    namewodiacritics: Gardiz
+    subdiv: PIA
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '3335N 06913E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AF GZI'
+    name: Ghazni
+    namewodiacritics: Ghazni
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'AF HRT'
+    name: Hairatan
+    namewodiacritics: Hairatan
+    subdiv: ''
+    function: 0-------
+    status: RQ
+    date: '9705'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'AF HEA'
+    name: Herat
+    namewodiacritics: Herat
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'AF JAA'
+    name: Jalalabad
+    namewodiacritics: Jalalabad
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'AF KBL'
+    name: Kabul
+    namewodiacritics: Kabul
+    subdiv: ''
+    function: '--345---'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'AF KMU'
+    name: Kamu
+    namewodiacritics: Kamu
+    subdiv: KNR
+    function: '--3-----'
+    status: RQ
+    date: '1001'
+    iata: ''
+    coordinates: '3524N 07125E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AF KDH'
+    name: Kandahar
+    namewodiacritics: Kandahar
+    subdiv: ''
+    function: '--34----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'AF KHT'
+    name: Khost
+    namewodiacritics: Khost
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'AF KHO'
+    name: Khowst
+    namewodiacritics: Khowst
+    subdiv: KNR
+    function: '--3-----'
+    status: RL
+    date: '0907'
+    iata: ''
+    coordinates: '3512N 07050E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AF KWT'
+    name: Khowst
+    namewodiacritics: Khowst
+    subdiv: PIA
+    function: '--3-----'
+    status: RL
+    date: '0907'
+    iata: ''
+    coordinates: '3320N 06955E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AF KWH'
+    name: Khwahan
+    namewodiacritics: Khwahan
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'AF UND'
+    name: Kunduz
+    namewodiacritics: Kunduz
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'AF KUR'
+    name: Kuran-O-Munjan
+    namewodiacritics: Kuran-O-Munjan
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'AF LAG'
+    name: 'Lashkar Gah'
+    namewodiacritics: 'Lashkar Gah'
+    subdiv: HEL
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '3135N 06421E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AF MMZ'
+    name: Maimana
+    namewodiacritics: Maimana
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'AF MWD'
+    name: Maiwand
+    namewodiacritics: Maiwand
+    subdiv: KAN
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '3144N 06508E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AF MAS'
+    name: Mashad
+    namewodiacritics: Mashad
+    subdiv: ''
+    function: 0-------
+    status: RQ
+    date: '8910'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'AF MZR'
+    name: Mazar-i-Sharif
+    namewodiacritics: Mazar-i-Sharif
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0212'
+    iata: ''
+    coordinates: '3642N 06706E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AF MEH'
+    name: 'Mehtar Lam'
+    namewodiacritics: 'Mehtar Lam'
+    subdiv: LAG
+    function: '--3-----'
+    status: RL
+    date: '1101'
+    iata: ''
+    coordinates: '3440N 07012E'
+    remarks: ''
+-
+    ch: +
+    locode: 'AF MEY'
+    name: Meydan
+    namewodiacritics: Meydan
+    subdiv: BAL
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '3654N 06655E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AF IMZ'
+    name: Nimroz
+    namewodiacritics: Nimroz
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ¦
+    locode: 'AF ORG'
+    name: 'Orgun-E Kalan'
+    namewodiacritics: 'Orgun-E Kalan'
+    subdiv: PKA
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '3254N 06913E'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'AF PSD'
+    name: Pasaband
+    namewodiacritics: Pasaband
+    subdiv: GHO
+    function: '--3-----'
+    status: RL
+    date: '1207'
+    iata: ''
+    coordinates: '3341N 06451E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AF LQN'
+    name: 'Qala Nau'
+    namewodiacritics: 'Qala Nau'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'AF QLT'
+    name: Qalat
+    namewodiacritics: Qalat
+    subdiv: ''
+    function: 1-3-----
+    status: RL
+    date: '0601'
+    iata: ''
+    coordinates: '3206N 06653E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AF QYN'
+    name: 'Qal''Eh-Ye Now'
+    namewodiacritics: 'Qal''Eh-Ye Now'
+    subdiv: BDG
+    function: '--3-----'
+    status: RQ
+    date: '1001'
+    iata: ''
+    coordinates: '3459N 06307E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AF QAM'
+    name: Qasim
+    namewodiacritics: Qasim
+    subdiv: ''
+    function: '-----6--'
+    status: RQ
+    date: '1007'
+    iata: ''
+    coordinates: '3502N 07132E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AF SBF'
+    name: 'Sardeh Band'
+    namewodiacritics: 'Sardeh Band'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'AF SRO'
+    name: Sharona
+    namewodiacritics: Sharona
+    subdiv: PKA
+    function: '-----6--'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '3313N 06883E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AF SGA'
+    name: Sheghnan
+    namewodiacritics: Sheghnan
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'AF SHE'
+    name: Sherhan-Bandar
+    namewodiacritics: Sherhan-Bandar
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '3712N 06905E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AF SDD'
+    name: Shindand
+    namewodiacritics: Shindand
+    subdiv: HER
+    function: '--3-----'
+    status: RQ
+    date: '0907'
+    iata: ''
+    coordinates: '3318N 06208E'
+    remarks: ''
+-
+    ch: '#'
+    locode: 'AF SBK'
+    name: 'Spin Boldak'
+    namewodiacritics: 'Spin Boldak'
+    subdiv: KAN
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '3100N 06624E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AF TQN'
+    name: Taluqan
+    namewodiacritics: Taluqan
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ¦
+    locode: 'AF TKO'
+    name: 'Tarin Kowt'
+    namewodiacritics: 'Tarin Kowt'
+    subdiv: URU
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '3237N 06552E'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'AF TII'
+    name: Tirinkot
+    namewodiacritics: Tirinkot
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'AF TGH'
+    name: Torghundi
+    namewodiacritics: Torghundi
+    subdiv: ''
+    function: 0-------
+    status: RQ
+    date: '9705'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'AF RKH'
+    name: Torkham
+    namewodiacritics: Torkham
+    subdiv: NAN
+    function: 1-------
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '3453N 07155E'
+    remarks: ''
+-
+    ch: ¦
+    locode: 'AF TOW'
+    name: Towraghondi
+    namewodiacritics: Towraghondi
+    subdiv: HER
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '3515N 06217E'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'AF URN'
+    name: Urgoon
+    namewodiacritics: Urgoon
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'AF URZ'
+    name: Uruzgan
+    namewodiacritics: Uruzgan
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'AF ZAJ'
+    name: Zaranj
+    namewodiacritics: Zaranj
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'AF ZHA'
+    name: 'Zhari Dasht'
+    namewodiacritics: 'Zhari Dasht'
+    subdiv: KAN
+    function: '--3-----'
+    status: RQ
+    date: '1001'
+    iata: ''
+    coordinates: '3138N 06531E'
+    remarks: ''

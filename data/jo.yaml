@@ -1,0 +1,204 @@
+-
+    ch: ''
+    locode: 'JO DAH'
+    name: 'Abu Alandah'
+    namewodiacritics: 'Abu Alandah'
+    subdiv: AM
+    function: 1----6--
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '3154N 03558E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'JO AQJ'
+    name: 'Al ''Aqabah'
+    namewodiacritics: 'Al ''Aqabah'
+    subdiv: ''
+    function: 1--4----
+    status: RL
+    date: '0212'
+    iata: ''
+    coordinates: '2932N 03500E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'JO AAQ'
+    name: 'Al Azraq'
+    namewodiacritics: 'Al Azraq'
+    subdiv: AZ
+    function: '--3-----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '3154N 03653E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'JO FUH'
+    name: 'Al Fuhays'
+    namewodiacritics: 'Al Fuhays'
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0601'
+    iata: ''
+    coordinates: '3201N 03546E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'JO AMM'
+    name: Amman
+    namewodiacritics: Amman
+    subdiv: ''
+    function: '---45---'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'JO AQB'
+    name: '''Aqaba'
+    namewodiacritics: '''Aqaba'
+    subdiv: ''
+    function: 1-3-----
+    status: RL
+    date: '0701'
+    iata: ''
+    coordinates: '2931N 03500E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'JO ASF'
+    name: 'As Safi'
+    namewodiacritics: 'As Safi'
+    subdiv: KA
+    function: '--3-----'
+    status: RL
+    date: '1101'
+    iata: ''
+    coordinates: '3102N 03528E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'JO ASA'
+    name: 'As Samra'''
+    namewodiacritics: 'As Samra'''
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '1207'
+    iata: ''
+    coordinates: '3122N 03545E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'JO ZAR'
+    name: 'Az Zarqa'''
+    namewodiacritics: 'Az Zarqa'''
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0212'
+    iata: QZA
+    coordinates: '3205N 03606E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'JO QIR'
+    name: Irbid
+    namewodiacritics: Irbid
+    subdiv: ''
+    function: '--3-----'
+    status: AI
+    date: '9901'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'JO MPQ'
+    name: 'Ma''an'
+    namewodiacritics: 'Ma''an'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0212'
+    iata: ''
+    coordinates: '3012N 03544E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'JO QMD'
+    name: Madaba
+    namewodiacritics: Madaba
+    subdiv: ''
+    function: '---4----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '3143N 03548E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'JO OMF'
+    name: Mafruq
+    namewodiacritics: Mafruq
+    subdiv: ''
+    function: '---4----'
+    status: RL
+    date: '0907'
+    iata: ''
+    coordinates: '3220N 03614E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'JO PHN'
+    name: 'Prince Hasan Air Base'
+    namewodiacritics: 'Prince Hasan Air Base'
+    subdiv: MA
+    function: '--34----'
+    status: RQ
+    date: '1001'
+    iata: ''
+    coordinates: '3210N 03709E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'JO QMO'
+    name: 'Qir Moav'
+    namewodiacritics: 'Qir Moav'
+    subdiv: KA
+    function: '-----6--'
+    status: RQ
+    date: '1007'
+    iata: ''
+    coordinates: '3111N 03542E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'JO SAH'
+    name: Sahab
+    namewodiacritics: Sahab
+    subdiv: AM
+    function: '--3-----'
+    status: RL
+    date: '1101'
+    iata: ''
+    coordinates: '3152N 03600E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'JO ZFZ'
+    name: 'Zarka Free Zone'
+    namewodiacritics: 'Zarka Free Zone'
+    subdiv: ''
+    function: '-----6--'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '3205N 03606E'
+    remarks: ''

@@ -1,0 +1,120 @@
+-
+    ch: ''
+    locode: 'SC ANS'
+    name: 'Anse Kerlan'
+    namewodiacritics: 'Anse Kerlan'
+    subdiv: ''
+    function: '-----6--'
+    status: RL
+    date: '1007'
+    iata: ''
+    coordinates: '0418S 05541E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SC BDI'
+    name: 'Bird Island'
+    namewodiacritics: 'Bird Island'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SC DEI'
+    name: 'Denis Island'
+    namewodiacritics: 'Denis Island'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SC FRK'
+    name: Frégate
+    namewodiacritics: Fregate
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0212'
+    iata: ''
+    coordinates: '0435S 05556E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SC DES'
+    name: 'Ile Desroches'
+    namewodiacritics: 'Ile Desroches'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0212'
+    iata: ''
+    coordinates: '0541S 05341E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SC MAW'
+    name: Mahe
+    namewodiacritics: Mahe
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SC SEZ'
+    name: 'Mahé Island Apt'
+    namewodiacritics: 'Mahe Island Apt'
+    subdiv: ''
+    function: '---45---'
+    status: AI
+    date: '0212'
+    iata: ''
+    coordinates: '0440S 05528E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SC POV'
+    name: 'Port Victoria'
+    namewodiacritics: 'Port Victoria'
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SC PRI'
+    name: 'Praslin Island'
+    namewodiacritics: 'Praslin Island'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SC VIC'
+    name: Victoria
+    namewodiacritics: Victoria
+    subdiv: '22'
+    function: 1-3-----
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '0437S 05527E'
+    remarks: ''

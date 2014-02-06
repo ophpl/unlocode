@@ -1,0 +1,300 @@
+-
+    ch: ''
+    locode: 'BW DUK'
+    name: Dukwi
+    namewodiacritics: Dukwi
+    subdiv: CE
+    function: 1----6--
+    status: RL
+    date: '1201'
+    iata: ''
+    coordinates: '2035S 02632E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BW FRW'
+    name: Francistown
+    namewodiacritics: Francistown
+    subdiv: NE
+    function: '-234-6--'
+    status: AI
+    date: '0407'
+    iata: ''
+    coordinates: '2110S 02731E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BW GAB'
+    name: 'Gaberones Camp'
+    namewodiacritics: 'Gaberones Camp'
+    subdiv: ''
+    function: '-----6--'
+    status: RL
+    date: '1007'
+    iata: ''
+    coordinates: '2440S 02555E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BW GBE'
+    name: Gaborone
+    namewodiacritics: Gaborone
+    subdiv: ''
+    function: '--3456--'
+    status: AI
+    date: '0907'
+    iata: ''
+    coordinates: '2440S 02555E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BW GNZ'
+    name: Ghanzi
+    namewodiacritics: Ghanzi
+    subdiv: ''
+    function: '--34----'
+    status: RL
+    date: '9901'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'BW HUK'
+    name: Hukuntsi
+    namewodiacritics: Hukuntsi
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'BW JWA'
+    name: Jwaneng
+    namewodiacritics: Jwaneng
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'BW BBK'
+    name: Kasane
+    namewodiacritics: Kasane
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'BW KHW'
+    name: 'Khwai River Lodge'
+    namewodiacritics: 'Khwai River Lodge'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'BW LET'
+    name: Letlhakane
+    namewodiacritics: Letlhakane
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0601'
+    iata: ''
+    coordinates: '2125S 02535E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BW LOQ'
+    name: Lobatse
+    namewodiacritics: Lobatse
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'BW MAH'
+    name: Mahalapye
+    namewodiacritics: Mahalapye
+    subdiv: ''
+    function: 123-----
+    status: RL
+    date: '0601'
+    iata: ''
+    coordinates: '2306S 02650E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BW MUB'
+    name: Maun
+    namewodiacritics: Maun
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'BW MGS'
+    name: Mogoditshane
+    namewodiacritics: Mogoditshane
+    subdiv: KW
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '2437S 02551E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BW ORP'
+    name: Orapa
+    namewodiacritics: Orapa
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'BW PAL'
+    name: Palapye
+    namewodiacritics: Palapye
+    subdiv: ''
+    function: '-23-----'
+    status: RL
+    date: '0601'
+    iata: ''
+    coordinates: '2234S 02708E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BW RSA'
+    name: Ramotswa
+    namewodiacritics: Ramotswa
+    subdiv: ''
+    function: '-23-----'
+    status: RL
+    date: '0401'
+    iata: ''
+    coordinates: '2452S 02549E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BW SVT'
+    name: Savuti
+    namewodiacritics: Savuti
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'BW PKW'
+    name: Selebi-Phikwe
+    namewodiacritics: Selebi-Phikwe
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'BW SER'
+    name: Serowe
+    namewodiacritics: Serowe
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0601'
+    iata: ''
+    coordinates: '2223S 02642E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BW SWX'
+    name: Shakawe
+    namewodiacritics: Shakawe
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'BW SXN'
+    name: Suapan
+    namewodiacritics: Suapan
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'BW SUN'
+    name: Sunnyside
+    namewodiacritics: Sunnyside
+    subdiv: ''
+    function: 0-------
+    status: RL
+    date: '9805'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'BW TBY'
+    name: Tsabong
+    namewodiacritics: Tsabong
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'BW TLD'
+    name: 'Tuli Lodge'
+    namewodiacritics: 'Tuli Lodge'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''

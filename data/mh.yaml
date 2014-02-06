@@ -1,0 +1,432 @@
+-
+    ch: ''
+    locode: 'MH AIP'
+    name: 'Ailinglapalap Island'
+    namewodiacritics: 'Ailinglapalap Island'
+    subdiv: ALL
+    function: '---4----'
+    status: RL
+    date: '0907'
+    iata: ''
+    coordinates: '0716N 16849E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MH AIM'
+    name: 'Ailuk Island'
+    namewodiacritics: 'Ailuk Island'
+    subdiv: ''
+    function: '---4----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '1011N 16959E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MH AIC'
+    name: Airok
+    namewodiacritics: Airok
+    subdiv: ''
+    function: '---4----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '0706N 17114E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MH AMR'
+    name: Arno
+    namewodiacritics: Arno
+    subdiv: ARN
+    function: '---4----'
+    status: RL
+    date: '0907'
+    iata: ''
+    coordinates: '0705N 17142E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MH AUL'
+    name: 'Aur Island'
+    namewodiacritics: 'Aur Island'
+    subdiv: AUR
+    function: '---4----'
+    status: RL
+    date: '0907'
+    iata: ''
+    coordinates: '0808N 17110E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MH EBN'
+    name: Ebadon
+    namewodiacritics: Ebadon
+    subdiv: KWA
+    function: '---4----'
+    status: RL
+    date: '0907'
+    iata: ''
+    coordinates: '0920N 16648E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MH QEE'
+    name: Ebeye
+    namewodiacritics: Ebeye
+    subdiv: KWA
+    function: '--3-----'
+    status: RL
+    date: '0907'
+    iata: ''
+    coordinates: '0847N 16744E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MH EBO'
+    name: Ebon
+    namewodiacritics: Ebon
+    subdiv: EBO
+    function: '---4----'
+    status: RL
+    date: '0907'
+    iata: ''
+    coordinates: '0438N 16343E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MH ENT'
+    name: 'Enewetak Island'
+    namewodiacritics: 'Enewetak Island'
+    subdiv: ENI
+    function: '---4----'
+    status: RL
+    date: '0907'
+    iata: ''
+    coordinates: '1121N 16220E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MH BII'
+    name: 'Enyu Airfield, Bikini'
+    namewodiacritics: 'Enyu Airfield, Bikini'
+    subdiv: ''
+    function: '---4----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '1130N 16533E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MH IMI'
+    name: 'Ine Island'
+    namewodiacritics: 'Ine Island'
+    subdiv: ''
+    function: '---4----'
+    status: RL
+    date: '0907'
+    iata: ''
+    coordinates: '0659N 17137E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MH JAT'
+    name: Jabot
+    namewodiacritics: Jabot
+    subdiv: ''
+    function: '---4----'
+    status: RL
+    date: '0907'
+    iata: ''
+    coordinates: '0700N 16859E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MH UIT'
+    name: 'Jaluit Island'
+    namewodiacritics: 'Jaluit Island'
+    subdiv: JAL
+    function: '---4----'
+    status: RL
+    date: '0907'
+    iata: ''
+    coordinates: '0556N 16938E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MH JEJ'
+    name: Jeh
+    namewodiacritics: Jeh
+    subdiv: ''
+    function: '---4----'
+    status: RL
+    date: '0907'
+    iata: ''
+    coordinates: '0735N 16855E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MH KBT'
+    name: Kaben
+    namewodiacritics: Kaben
+    subdiv: MAL
+    function: '---4----'
+    status: RL
+    date: '0907'
+    iata: ''
+    coordinates: '0845N 17050E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MH KIO'
+    name: 'Kili Island'
+    namewodiacritics: 'Kili Island'
+    subdiv: KIL
+    function: '---4----'
+    status: RL
+    date: '0907'
+    iata: ''
+    coordinates: '0537N 16907E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MH KWA'
+    name: Kwajalein
+    namewodiacritics: Kwajalein
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MH LML'
+    name: 'Lae Island'
+    namewodiacritics: 'Lae Island'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MH LIK'
+    name: 'Likiep Island'
+    namewodiacritics: 'Likiep Island'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MH LOF'
+    name: Loen
+    namewodiacritics: Loen
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MH MJE'
+    name: Majkin
+    namewodiacritics: Majkin
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MH MAJ'
+    name: Majuro
+    namewodiacritics: Majuro
+    subdiv: MAJ
+    function: 1--4----
+    status: AI
+    date: '1301'
+    iata: ''
+    coordinates: '0706N 17123E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MH MAV'
+    name: 'Maloelap Island'
+    namewodiacritics: 'Maloelap Island'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MH MJB'
+    name: 'Mejit Island'
+    namewodiacritics: 'Mejit Island'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MH MIJ'
+    name: 'Mili Island'
+    namewodiacritics: 'Mili Island'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MH NDK'
+    name: 'Namdrik Island'
+    namewodiacritics: 'Namdrik Island'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MH NMU'
+    name: Namu
+    namewodiacritics: Namu
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MH RNP'
+    name: 'Rongelap Island'
+    namewodiacritics: 'Rongelap Island'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MH TBV'
+    name: Tabal
+    namewodiacritics: Tabal
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MH TAR'
+    name: Taroa
+    namewodiacritics: Taroa
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '9506'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MH TIC'
+    name: 'Tinak Island'
+    namewodiacritics: 'Tinak Island'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MH UJE'
+    name: 'Ujae Island'
+    namewodiacritics: 'Ujae Island'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MH UTK'
+    name: 'Utirik Island'
+    namewodiacritics: 'Utirik Island'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MH WJA'
+    name: Woja
+    namewodiacritics: Woja
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MH WTO'
+    name: 'Wotho Island'
+    namewodiacritics: 'Wotho Island'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MH WTE'
+    name: 'Wotje Island'
+    namewodiacritics: 'Wotje Island'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''

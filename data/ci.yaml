@@ -1,0 +1,720 @@
+-
+    ch: ''
+    locode: 'CI OGO'
+    name: Abengourou
+    namewodiacritics: Abengourou
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'CI ABJ'
+    name: Abidjan
+    namewodiacritics: Abidjan
+    subdiv: ''
+    function: 1--45---
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'CI ABO'
+    name: Aboisso
+    namewodiacritics: Aboisso
+    subdiv: ''
+    function: '---4----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '0528N 00312W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CI ADZ'
+    name: Adzopé
+    namewodiacritics: Adzope
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0401'
+    iata: ''
+    coordinates: '0606N 00351W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CI AGB'
+    name: Agboville
+    namewodiacritics: Agboville
+    subdiv: ''
+    function: '-23-----'
+    status: RL
+    date: '0401'
+    iata: ''
+    coordinates: '0556N 00413W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CI AFI'
+    name: Amalfi
+    namewodiacritics: Amalfi
+    subdiv: ''
+    function: '---4----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'CI ASS'
+    name: Assinie-Mafia
+    namewodiacritics: Assinie-Mafia
+    subdiv: ''
+    function: 1-3-----
+    status: RL
+    date: '0701'
+    iata: ''
+    coordinates: '0507N 00317W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CI BAO'
+    name: 'Baobab Terminal'
+    namewodiacritics: 'Baobab Terminal'
+    subdiv: ''
+    function: 1-3-----
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '0457N 00433W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CI BBV'
+    name: Berenby
+    namewodiacritics: Berenby
+    subdiv: ''
+    function: '---4----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: +
+    locode: 'CI BGV'
+    name: Bingerville
+    namewodiacritics: Bingerville
+    subdiv: '01'
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '0521N 00354W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CI BDK'
+    name: Bondoukou
+    namewodiacritics: Bondoukou
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'CI BGG'
+    name: Bongouanou
+    namewodiacritics: Bongouanou
+    subdiv: ''
+    function: '---4----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '0639N 00412W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CI BON'
+    name: Bonoua
+    namewodiacritics: Bonoua
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0401'
+    iata: ''
+    coordinates: '0516N 00336W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CI BRZ'
+    name: Borotou
+    namewodiacritics: Borotou
+    subdiv: ''
+    function: '---4----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '0844N 00729W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CI BYK'
+    name: Bouaké
+    namewodiacritics: Bouake
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0212'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'CI BQO'
+    name: Bouna
+    namewodiacritics: Bouna
+    subdiv: ''
+    function: '---4----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '0916N 00300W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CI BXI'
+    name: Boundiali
+    namewodiacritics: Boundiali
+    subdiv: ''
+    function: '---4----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '0931N 00629W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CI BUU'
+    name: Buyo
+    namewodiacritics: Buyo
+    subdiv: ''
+    function: '---4----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '0616N 00703W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CI COD'
+    name: Cocody
+    namewodiacritics: Cocody
+    subdiv: ''
+    function: '-----6--'
+    status: RL
+    date: '1201'
+    iata: ''
+    coordinates: '0521N 00400W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CI DAB'
+    name: Dabou
+    namewodiacritics: Dabou
+    subdiv: ''
+    function: 1-3-----
+    status: RL
+    date: '0407'
+    iata: ''
+    coordinates: '0519N 00422W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CI DJO'
+    name: Daloa
+    namewodiacritics: Daloa
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'CI DNC'
+    name: Danane
+    namewodiacritics: Danane
+    subdiv: ''
+    function: '---4----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '0715N 00809W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CI DIM'
+    name: Dimbokro
+    namewodiacritics: Dimbokro
+    subdiv: ''
+    function: '---4----'
+    status: RL
+    date: '0907'
+    iata: ''
+    coordinates: '0639N 00440W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CI DIV'
+    name: Divo
+    namewodiacritics: Divo
+    subdiv: ''
+    function: '---4----'
+    status: RL
+    date: '0907'
+    iata: ''
+    coordinates: '0550N 00521W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CI ESP'
+    name: Espoir
+    namewodiacritics: Espoir
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '0907'
+    iata: ''
+    coordinates: '0504N 00423W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CI FEK'
+    name: Ferkessédougou
+    namewodiacritics: Ferkessedougou
+    subdiv: ''
+    function: '---45---'
+    status: AI
+    date: '0212'
+    iata: ''
+    coordinates: '0936N 00512W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CI FRE'
+    name: Fresco
+    namewodiacritics: Fresco
+    subdiv: ''
+    function: 1-3-----
+    status: RL
+    date: '0701'
+    iata: ''
+    coordinates: '0505N 00534W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CI GGN'
+    name: Gagnoa
+    namewodiacritics: Gagnoa
+    subdiv: ''
+    function: '--34----'
+    status: AI
+    date: '0401'
+    iata: ''
+    coordinates: '0608N 00556W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CI GBA'
+    name: Gbabam
+    namewodiacritics: Gbabam
+    subdiv: ''
+    function: 1-------
+    status: RL
+    date: '0212'
+    iata: ''
+    coordinates: '0528N 00535W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CI GLU'
+    name: 'Grand Lahou'
+    namewodiacritics: 'Grand Lahou'
+    subdiv: ''
+    function: 1-3-----
+    status: RL
+    date: '0701'
+    iata: ''
+    coordinates: '0508N 00501W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CI GGO'
+    name: Guiglo
+    namewodiacritics: Guiglo
+    subdiv: ''
+    function: '--34----'
+    status: AI
+    date: '0401'
+    iata: ''
+    coordinates: '0632N 00729W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CI JAC'
+    name: Jacqueville
+    namewodiacritics: Jacqueville
+    subdiv: ''
+    function: 1-------
+    status: RL
+    date: '0212'
+    iata: ''
+    coordinates: '0512N 00425W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CI KTC'
+    name: Katiola
+    namewodiacritics: Katiola
+    subdiv: ''
+    function: '---4----'
+    status: RL
+    date: '0907'
+    iata: ''
+    coordinates: '0939N 00737W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CI HGO'
+    name: Korhogo
+    namewodiacritics: Korhogo
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'CI KOS'
+    name: Kosagi
+    namewodiacritics: Kosagi
+    subdiv: ''
+    function: 1-------
+    status: RL
+    date: '0212'
+    iata: ''
+    coordinates: '0813N 00806W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CI KOU'
+    name: Koumassi
+    namewodiacritics: Koumassi
+    subdiv: '01'
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '0517N 00358W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CI LKT'
+    name: Lakota
+    namewodiacritics: Lakota
+    subdiv: ''
+    function: '---4----'
+    status: RL
+    date: '0907'
+    iata: ''
+    coordinates: '0551N 00541W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CI MJC'
+    name: Man
+    namewodiacritics: Man
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'CI MOK'
+    name: Mankono
+    namewodiacritics: Mankono
+    subdiv: ''
+    function: '---4----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '0801N 00609W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CI XMB'
+    name: 'M''Bahiakro'
+    namewodiacritics: 'M''Bahiakro'
+    subdiv: ''
+    function: '---4----'
+    status: RL
+    date: '0907'
+    iata: ''
+    coordinates: '0727N 00420W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CI NKL'
+    name: Nakala
+    namewodiacritics: Nakala
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0601'
+    iata: ''
+    coordinates: '0828N 00416W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CI KEO'
+    name: Odienné
+    namewodiacritics: Odienne
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0212'
+    iata: ''
+    coordinates: '0930N 00734W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CI OFI'
+    name: 'Ouango Fitni'
+    namewodiacritics: 'Ouango Fitni'
+    subdiv: ''
+    function: '---4----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '0936N 00401W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CI PBT'
+    name: Port-Bouët
+    namewodiacritics: Port-Bouet
+    subdiv: ''
+    function: 1-------
+    status: RL
+    date: '0212'
+    iata: ''
+    coordinates: '0515N 00358W'
+    remarks: ''
+-
+    ch: +
+    locode: 'CI SPR'
+    name: 'San Pédro'
+    namewodiacritics: 'San Pedro'
+    subdiv: '09'
+    function: '--3-----'
+    status: ''
+    date: '1307'
+    iata: ''
+    coordinates: '0445N 00638W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CI SPY'
+    name: San-Pédro
+    namewodiacritics: San-Pedro
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '0212'
+    iata: ''
+    coordinates: '0444N 00637W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CI ZSS'
+    name: Sassandra
+    namewodiacritics: Sassandra
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'CI SEQ'
+    name: Seguela
+    namewodiacritics: Seguela
+    subdiv: ''
+    function: '---4----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'CI SGL'
+    name: Séguéla
+    namewodiacritics: Seguela
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0601'
+    iata: ''
+    coordinates: '0757N 00640W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CI SFR'
+    name: Sinfra
+    namewodiacritics: Sinfra
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '1101'
+    iata: ''
+    coordinates: '0637N 00555W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CI TBX'
+    name: Taabo
+    namewodiacritics: Taabo
+    subdiv: ''
+    function: '---4----'
+    status: RL
+    date: '0907'
+    iata: ''
+    coordinates: '0613N 00507W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CI TXU'
+    name: Tabou
+    namewodiacritics: Tabou
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'CI TIA'
+    name: Tiassalé
+    namewodiacritics: Tiassale
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0401'
+    iata: ''
+    coordinates: '0553N 00449W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CI TGX'
+    name: Tingrela
+    namewodiacritics: Tingrela
+    subdiv: ''
+    function: '---4----'
+    status: RL
+    date: '0907'
+    iata: ''
+    coordinates: '1029N 00624W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CI TOZ'
+    name: Touba
+    namewodiacritics: Touba
+    subdiv: ''
+    function: '---4----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '0816N 00740W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CI VRD'
+    name: Vridi
+    namewodiacritics: Vridi
+    subdiv: '10'
+    function: '-----6--'
+    status: RL
+    date: '1201'
+    iata: ''
+    coordinates: '0515N 00359W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CI ASK'
+    name: Yamoussoukro
+    namewodiacritics: Yamoussoukro
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'CI YGN'
+    name: Yopougon
+    namewodiacritics: Yopougon
+    subdiv: '01'
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '0520N 00404W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CI YOA'
+    name: Yopougon-Attie
+    namewodiacritics: Yopougon-Attie
+    subdiv: '16'
+    function: '--3-----'
+    status: RL
+    date: '1207'
+    iata: ''
+    coordinates: '0521N 00404W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CI ZUE'
+    name: Zuenoula
+    namewodiacritics: Zuenoula
+    subdiv: ''
+    function: '---4----'
+    status: RL
+    date: '0907'
+    iata: ''
+    coordinates: '0725N 00602W'
+    remarks: ''

@@ -1,0 +1,900 @@
+-
+    ch: ''
+    locode: 'CD ANG'
+    name: Ango
+    namewodiacritics: Ango
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0701'
+    iata: ''
+    coordinates: '0401N 02552E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CD ARU'
+    name: Aru
+    namewodiacritics: Aru
+    subdiv: OR
+    function: '--3-----'
+    status: RL
+    date: '1207'
+    iata: ''
+    coordinates: '0252N 03050E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CD BNW'
+    name: Banana
+    namewodiacritics: Banana
+    subdiv: ''
+    function: 1-3-----
+    status: RL
+    date: '0701'
+    iata: ''
+    coordinates: '0601N 01224E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CD FDU'
+    name: Bandundu
+    namewodiacritics: Bandundu
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'CD BSU'
+    name: Basankusu
+    namewodiacritics: Basankusu
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'CD BAN'
+    name: Basongo
+    namewodiacritics: Basongo
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'CD BNC'
+    name: Beni
+    namewodiacritics: Beni
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'CD BNB'
+    name: Boende
+    namewodiacritics: Boende
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'CD BOA'
+    name: Boma
+    namewodiacritics: Boma
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'CD BKY'
+    name: Bukavu
+    namewodiacritics: Bukavu
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'CD BMB'
+    name: Bumba
+    namewodiacritics: Bumba
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'CD BUX'
+    name: Bunia
+    namewodiacritics: Bunia
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'CD BZU'
+    name: Buta
+    namewodiacritics: Buta
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'CD BUT'
+    name: Butembo
+    namewodiacritics: Butembo
+    subdiv: NK
+    function: '--3-----'
+    status: RL
+    date: '0401'
+    iata: ''
+    coordinates: '0009N 02917E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CD DIC'
+    name: Dili
+    namewodiacritics: Dili
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'CD GDJ'
+    name: Gandajika
+    namewodiacritics: Gandajika
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'CD BDT'
+    name: Gbadolite
+    namewodiacritics: Gbadolite
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'CD GMA'
+    name: Gemena
+    namewodiacritics: Gemena
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'CD GOM'
+    name: Goma
+    namewodiacritics: Goma
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'CD IDF'
+    name: Idiofa
+    namewodiacritics: Idiofa
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'CD IKL'
+    name: Ikela
+    namewodiacritics: Ikela
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'CD PFR'
+    name: Ilebo
+    namewodiacritics: Ilebo
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'CD INO'
+    name: Inongo
+    namewodiacritics: Inongo
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'CD IRP'
+    name: Isiro
+    namewodiacritics: Isiro
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'CD KBO'
+    name: Kabalo
+    namewodiacritics: Kabalo
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'CD KBN'
+    name: Kabinda
+    namewodiacritics: Kabinda
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'CD FMI'
+    name: Kalemie
+    namewodiacritics: Kalemie
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'CD KLY'
+    name: Kalima
+    namewodiacritics: Kalima
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'CD KMN'
+    name: Kamina
+    namewodiacritics: Kamina
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'CD KGA'
+    name: Kananga
+    namewodiacritics: Kananga
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'CD KNM'
+    name: Kaniama
+    namewodiacritics: Kaniama
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'CD KAP'
+    name: Kapanga
+    namewodiacritics: Kapanga
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'CD KEC'
+    name: Kasenga
+    namewodiacritics: Kasenga
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'CD KGN'
+    name: Kasongo-Lunda
+    namewodiacritics: Kasongo-Lunda
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0212'
+    iata: ''
+    coordinates: '0628S 01649E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CD KAS'
+    name: Kasumbalesa
+    namewodiacritics: Kasumbalesa
+    subdiv: KA
+    function: '----5---'
+    status: RL
+    date: '0307'
+    iata: ''
+    coordinates: '1211S 02747E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CD KKW'
+    name: Kikwit
+    namewodiacritics: Kikwit
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'CD KIL'
+    name: Kilwa
+    namewodiacritics: Kilwa
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'CD KND'
+    name: Kindu
+    namewodiacritics: Kindu
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'CD FIH'
+    name: Kinshasa
+    namewodiacritics: Kinshasa
+    subdiv: ''
+    function: 1--45---
+    status: AI
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'CD KPU'
+    name: Kipushi
+    namewodiacritics: Kipushi
+    subdiv: ''
+    function: '-23-----'
+    status: RL
+    date: '0607'
+    iata: ''
+    coordinates: '1145S 02714E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CD KRZ'
+    name: Kiri
+    namewodiacritics: Kiri
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'CD FKI'
+    name: Kisangani
+    namewodiacritics: Kisangani
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'CD KWZ'
+    name: Kolwezi
+    namewodiacritics: Kolwezi
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'CD KOO'
+    name: Kongolo
+    namewodiacritics: Kongolo
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'CD KLI'
+    name: 'Kota Koli'
+    namewodiacritics: 'Kota Koli'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'CD LIE'
+    name: Libenge
+    namewodiacritics: Libenge
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'CD LKS'
+    name: Likasi
+    namewodiacritics: Likasi
+    subdiv: KA
+    function: '-23-----'
+    status: RL
+    date: '0701'
+    iata: ''
+    coordinates: '1059S 02644E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CD LIQ'
+    name: Lisala
+    namewodiacritics: Lisala
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'CD LJA'
+    name: Lodja
+    namewodiacritics: Lodja
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'CD FBM'
+    name: Lubumbashi
+    namewodiacritics: Lubumbashi
+    subdiv: ''
+    function: '-2-45---'
+    status: AI
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'CD LZA'
+    name: Luiza
+    namewodiacritics: Luiza
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'CD LZI'
+    name: Luozi
+    namewodiacritics: Luozi
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'CD LBO'
+    name: Lusambo
+    namewodiacritics: Lusambo
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'CD LUS'
+    name: Lusanga
+    namewodiacritics: Lusanga
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'CD MKL'
+    name: Makala
+    namewodiacritics: Makala
+    subdiv: ''
+    function: 123-----
+    status: RL
+    date: '0701'
+    iata: ''
+    coordinates: '0249N 02443E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CD MNO'
+    name: Manono
+    namewodiacritics: Manono
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'CD MSM'
+    name: Masi-Manimba
+    namewodiacritics: Masi-Manimba
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0212'
+    iata: ''
+    coordinates: '0446S 01755E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CD MAT'
+    name: Matadi
+    namewodiacritics: Matadi
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'CD MDK'
+    name: Mbandaka
+    namewodiacritics: Mbandaka
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'CD MJM'
+    name: Mbuji-Mayi
+    namewodiacritics: Mbuji-Mayi
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0212'
+    iata: ''
+    coordinates: '0609S 02336E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CD MNB'
+    name: Moanda
+    namewodiacritics: Moanda
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'CD BDV'
+    name: Moba
+    namewodiacritics: Moba
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'CD MHB'
+    name: 'Moho Bilondo'
+    namewodiacritics: 'Moho Bilondo'
+    subdiv: ''
+    function: 1----6--
+    status: RQ
+    date: '1001'
+    iata: ''
+    coordinates: '0555S 01015E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CD MEW'
+    name: Mweka
+    namewodiacritics: Mweka
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'CD NLO'
+    name: 'N''dolo'
+    namewodiacritics: 'N''dolo'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'CD NIO'
+    name: Nioki
+    namewodiacritics: Nioki
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'CD NKL'
+    name: Nkolo
+    namewodiacritics: Nkolo
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'CD PUN'
+    name: Punia
+    namewodiacritics: Punia
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'CD PWO'
+    name: Pweto
+    namewodiacritics: Pweto
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'CD SKA'
+    name: Sakania
+    namewodiacritics: Sakania
+    subdiv: KA
+    function: '-23-----'
+    status: RL
+    date: '0701'
+    iata: ''
+    coordinates: '1245S 02833E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CD TNK'
+    name: Tenke
+    namewodiacritics: Tenke
+    subdiv: KA
+    function: '--3-----'
+    status: RL
+    date: '0701'
+    iata: ''
+    coordinates: '1122S 02642E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CD TSH'
+    name: Tshikapa
+    namewodiacritics: Tshikapa
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'CD UVI'
+    name: Uvira
+    namewodiacritics: Uvira
+    subdiv: ''
+    function: '----5---'
+    status: AI
+    date: '9805'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'CD YAN'
+    name: Yangambi
+    namewodiacritics: Yangambi
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'CD ZGQ'
+    name: Zongo
+    namewodiacritics: Zongo
+    subdiv: EQ
+    function: '-----6--'
+    status: RQ
+    date: '1001'
+    iata: ''
+    coordinates: '0421N 01836E'
+    remarks: ''

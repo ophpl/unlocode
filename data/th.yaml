@@ -1,0 +1,2172 @@
+-
+    ch: ''
+    locode: 'TH CAN'
+    name: 'Amnat Charoen'
+    namewodiacritics: 'Amnat Charoen'
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '9901'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH ATH'
+    name: 'Ang Thong'
+    namewodiacritics: 'Ang Thong'
+    subdiv: '15'
+    function: '--3-----'
+    status: RL
+    date: '0307'
+    iata: ''
+    coordinates: '1435N 10027E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH ARA'
+    name: Aranyaprathet
+    namewodiacritics: Aranyaprathet
+    subdiv: ''
+    function: 0-------
+    status: RQ
+    date: '9307'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH AYU'
+    name: Ayutthaya
+    namewodiacritics: Ayutthaya
+    subdiv: '10'
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '1420N 10032E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH BNK'
+    name: 'Ban Kantang'
+    namewodiacritics: 'Ban Kantang'
+    subdiv: ''
+    function: 1-3-----
+    status: RL
+    date: '9805'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH BKH'
+    name: 'Ban Khai'
+    namewodiacritics: 'Ban Khai'
+    subdiv: '21'
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '0941N 10003E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH BAO'
+    name: 'Ban Mak Khaen'
+    namewodiacritics: 'Ban Mak Khaen'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH MTP'
+    name: 'Ban Map Ta Phut'
+    namewodiacritics: 'Ban Map Ta Phut'
+    subdiv: '31'
+    function: 1-3-----
+    status: RL
+    date: '0401'
+    iata: ''
+    coordinates: '1243N 10109E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH BPG'
+    name: 'Ban Pong'
+    namewodiacritics: 'Ban Pong'
+    subdiv: ''
+    function: 123-----
+    status: RQ
+    date: '0501'
+    iata: ''
+    coordinates: '1348N 09952E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH BTP'
+    name: 'Ban Talat Takua Pa'
+    namewodiacritics: 'Ban Talat Takua Pa'
+    subdiv: '82'
+    function: 1-3-----
+    status: RL
+    date: '0401'
+    iata: ''
+    coordinates: '0850N 09822E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH BND'
+    name: Bandon
+    namewodiacritics: Bandon
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH BAK'
+    name: 'Bang Kapi'
+    namewodiacritics: 'Bang Kapi'
+    subdiv: '10'
+    function: '-----6--'
+    status: RL
+    date: '1201'
+    iata: ''
+    coordinates: '1346N 10039E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH BNP'
+    name: 'Bang Nam Prieo'
+    namewodiacritics: 'Bang Nam Prieo'
+    subdiv: '24'
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '1351N 10104E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH BPH'
+    name: 'Bang Phli'
+    namewodiacritics: 'Bang Phli'
+    subdiv: '11'
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '1336N 10043E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH BRK'
+    name: 'Bang Rak'
+    namewodiacritics: 'Bang Rak'
+    subdiv: '10'
+    function: '-23-----'
+    status: RL
+    date: '0501'
+    iata: ''
+    coordinates: '1344N 10032E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH BSP'
+    name: 'Bang Saphan'
+    namewodiacritics: 'Bang Saphan'
+    subdiv: ''
+    function: 123-----
+    status: RL
+    date: '0601'
+    iata: ''
+    coordinates: '1112N 09931E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH BKK'
+    name: Bangkok
+    namewodiacritics: Bangkok
+    subdiv: '10'
+    function: 12345---
+    status: AI
+    date: '1207'
+    iata: ''
+    coordinates: '1345N 10031E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH BMT'
+    name: 'Bangkok Modern Terminals/Bangkok'
+    namewodiacritics: 'Bangkok Modern Terminals/Bangkok'
+    subdiv: ''
+    function: 1-3-----
+    status: RQ
+    date: '0201'
+    iata: ''
+    coordinates: '1336N 10035E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH BNG'
+    name: Bangnara
+    namewodiacritics: Bangnara
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH BGP'
+    name: Bangpakong
+    namewodiacritics: Bangpakong
+    subdiv: ''
+    function: 1-3-----
+    status: RL
+    date: '0006'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH BAI'
+    name: Bangpoomai
+    namewodiacritics: Bangpoomai
+    subdiv: ''
+    function: 1-3-----
+    status: RL
+    date: '0201'
+    iata: ''
+    coordinates: '1330N 10036E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH BSE'
+    name: Bangsu
+    namewodiacritics: Bangsu
+    subdiv: '10'
+    function: '-23-----'
+    status: RL
+    date: '0607'
+    iata: ''
+    coordinates: '1348N 10013E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH BNL'
+    name: Banlaem
+    namewodiacritics: Banlaem
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH BEN'
+    name: Benchamas
+    namewodiacritics: Benchamas
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '0907'
+    iata: ''
+    coordinates: '1031N 10119E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH BET'
+    name: Betong
+    namewodiacritics: Betong
+    subdiv: '95'
+    function: 1-3-----
+    status: RQ
+    date: '1001'
+    iata: ''
+    coordinates: '0546N 10104E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH BFV'
+    name: 'Buri Ram'
+    namewodiacritics: 'Buri Ram'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH CSD'
+    name: Chachoengsao
+    namewodiacritics: Chachoengsao
+    subdiv: '24'
+    function: '--3-----'
+    status: RL
+    date: '1101'
+    iata: ''
+    coordinates: '1342N 10105E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH CHN'
+    name: 'Chai Nat'
+    namewodiacritics: 'Chai Nat'
+    subdiv: '35'
+    function: '--3-----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '1510N 10007E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH CYM'
+    name: Chaiyaphum
+    namewodiacritics: Chaiyaphum
+    subdiv: '22'
+    function: '--3-----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '1547N 10202E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH CHA'
+    name: Chanthaburi
+    namewodiacritics: Chanthaburi
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH CNX'
+    name: 'Chiang Mai'
+    namewodiacritics: 'Chiang Mai'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH CEI'
+    name: 'Chiang Rai'
+    namewodiacritics: 'Chiang Rai'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH CHB'
+    name: 'Chon Buri'
+    namewodiacritics: 'Chon Buri'
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '9901'
+    iata: QHI
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH CHO'
+    name: Chonburi
+    namewodiacritics: Chonburi
+    subdiv: ''
+    function: '-----6--'
+    status: RQ
+    date: '1001'
+    iata: ''
+    coordinates: '1322N 10059E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH CPH'
+    name: Chumphon
+    namewodiacritics: Chumphon
+    subdiv: '86'
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '1030N 09910E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH CHU'
+    name: Chumporn
+    namewodiacritics: Chumporn
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH DMK'
+    name: 'Don Muang Airport/Bangkok'
+    namewodiacritics: 'Don Muang Airport/Bangkok'
+    subdiv: '10'
+    function: '---4----'
+    status: AI
+    date: '1207'
+    iata: ''
+    coordinates: '1355N 10037E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH ERA'
+    name: Erawan
+    namewodiacritics: Erawan
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '0907'
+    iata: ''
+    coordinates: '0904N 10124E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH HDY'
+    name: 'Hat Yai'
+    namewodiacritics: 'Hat Yai'
+    subdiv: ''
+    function: 1--45---
+    status: AI
+    date: '9805'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH HOP'
+    name: Hoping
+    namewodiacritics: Hoping
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '0401'
+    iata: ''
+    coordinates: '2416N 12144E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH HHQ'
+    name: 'Hua Hin'
+    namewodiacritics: 'Hua Hin'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH KAB'
+    name: 'Kabin Buri'
+    namewodiacritics: 'Kabin Buri'
+    subdiv: '25'
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '1359N 10143E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH KLN'
+    name: Kalasin
+    namewodiacritics: Kalasin
+    subdiv: '22'
+    function: '--3-----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '1625N 10330E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH KPT'
+    name: 'Kamphaeng Phet'
+    namewodiacritics: 'Kamphaeng Phet'
+    subdiv: ''
+    function: 1-3-----
+    status: RL
+    date: '0607'
+    iata: ''
+    coordinates: '1628N 09931E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH KPS'
+    name: 'Kamphaeng Saen'
+    namewodiacritics: 'Kamphaeng Saen'
+    subdiv: '73'
+    function: '--3-----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '1400N 10000E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH KAM'
+    name: Kamuting
+    namewodiacritics: Kamuting
+    subdiv: '10'
+    function: '--3-----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH KCB'
+    name: Kanchanaburi
+    namewodiacritics: Kanchanaburi
+    subdiv: ''
+    function: '-23-----'
+    status: RL
+    date: '0212'
+    iata: ''
+    coordinates: '1401N 09931E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH KNY'
+    name: Kannayao
+    namewodiacritics: Kannayao
+    subdiv: ''
+    function: '-----6--'
+    status: RQ
+    date: '1007'
+    iata: ''
+    coordinates: '1350N 10040E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH KAN'
+    name: Kantang
+    namewodiacritics: Kantang
+    subdiv: '92'
+    function: 123-----
+    status: RL
+    date: '0401'
+    iata: ''
+    coordinates: '0724N 09931E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH KHA'
+    name: Khanom
+    namewodiacritics: Khanom
+    subdiv: ''
+    function: 0-------
+    status: RQ
+    date: '9506'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH KTY'
+    name: 'Khlong Toei'
+    namewodiacritics: 'Khlong Toei'
+    subdiv: '10'
+    function: 123-----
+    status: RL
+    date: '0501'
+    iata: ''
+    coordinates: '1343N 10034E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH KLY'
+    name: 'Khlong Yai'
+    namewodiacritics: 'Khlong Yai'
+    subdiv: '23'
+    function: 1-3-----
+    status: RL
+    date: '0401'
+    iata: ''
+    coordinates: '1146N 10254E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH KHB'
+    name: 'Khon Buri'
+    namewodiacritics: 'Khon Buri'
+    subdiv: '30'
+    function: '--3-----'
+    status: RQ
+    date: '1007'
+    iata: ''
+    coordinates: '1431N 10215E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH KKC'
+    name: 'Khon Kaen'
+    namewodiacritics: 'Khon Kaen'
+    subdiv: '40'
+    function: '-234-6--'
+    status: AI
+    date: '1001'
+    iata: ''
+    coordinates: '1626N 10250E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH KLT'
+    name: 'Klong Toei'
+    namewodiacritics: 'Klong Toei'
+    subdiv: '31'
+    function: '--3-----'
+    status: RL
+    date: '1207'
+    iata: ''
+    coordinates: '1343N 10034E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH KTL'
+    name: 'Klong Toey'
+    namewodiacritics: 'Klong Toey'
+    subdiv: '10'
+    function: 1-3-----
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '1342N 10035E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH KLA'
+    name: 'Koh Lanta'
+    namewodiacritics: 'Koh Lanta'
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH KNO'
+    name: 'Koh Nok'
+    namewodiacritics: 'Koh Nok'
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH USM'
+    name: 'Koh Samui'
+    namewodiacritics: 'Koh Samui'
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH KSI'
+    name: 'Koh Sichang'
+    namewodiacritics: 'Koh Sichang'
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH KYO'
+    name: 'Koh Yao'
+    namewodiacritics: 'Koh Yao'
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH KBV'
+    name: Krabi
+    namewodiacritics: Krabi
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH KRN'
+    name: 'Krathum Baen'
+    namewodiacritics: 'Krathum Baen'
+    subdiv: '74'
+    function: '--3-----'
+    status: RL
+    date: '0307'
+    iata: ''
+    coordinates: '1339N 10016E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH LCH'
+    name: 'Laem Chabang'
+    namewodiacritics: 'Laem Chabang'
+    subdiv: '20'
+    function: 1-3-----
+    status: RL
+    date: '0401'
+    iata: ''
+    coordinates: '1305N 10053E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH LPT'
+    name: Lampang
+    namewodiacritics: Lampang
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH LPN'
+    name: Lamphun
+    namewodiacritics: Lamphun
+    subdiv: '51'
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '1835N 09901E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH LAS'
+    name: 'Lang Suan'
+    namewodiacritics: 'Lang Suan'
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH LKR'
+    name: 'Lat Krabang'
+    namewodiacritics: 'Lat Krabang'
+    subdiv: '10'
+    function: 123-----
+    status: RL
+    date: '0701'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH LOE'
+    name: Loei
+    namewodiacritics: Loei
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH KKM'
+    name: 'Lop Buri'
+    namewodiacritics: 'Lop Buri'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH MAT'
+    name: 'Mab Tapud'
+    namewodiacritics: 'Mab Tapud'
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '9506'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH HGN'
+    name: 'Mae Hong Son'
+    namewodiacritics: 'Mae Hong Son'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH MAQ'
+    name: 'Mae Sot'
+    namewodiacritics: 'Mae Sot'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH MSM'
+    name: 'Maha Sarakham'
+    namewodiacritics: 'Maha Sarakham'
+    subdiv: '22'
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '1611N 10318E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH MEK'
+    name: Meklong
+    namewodiacritics: Meklong
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH MIN'
+    name: 'Min Buri'
+    namewodiacritics: 'Min Buri'
+    subdiv: '10'
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '1349N 10044E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH MDN'
+    name: Mukdahan
+    namewodiacritics: Mukdahan
+    subdiv: '21'
+    function: '--3-----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '1632N 10443E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH KOP'
+    name: 'Nakhom Phanom'
+    namewodiacritics: 'Nakhom Phanom'
+    subdiv: ''
+    function: '---4----'
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH HON'
+    name: 'Nakhon Chai Si'
+    namewodiacritics: 'Nakhon Chai Si'
+    subdiv: '73'
+    function: '-----6--'
+    status: RL
+    date: '1201'
+    iata: ''
+    coordinates: '1348N 10011E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH NNK'
+    name: 'Nakhon Nayok'
+    namewodiacritics: 'Nakhon Nayok'
+    subdiv: '35'
+    function: '--3-----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '1412N 10112E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH NPM'
+    name: 'Nakhon Pathom'
+    namewodiacritics: 'Nakhon Pathom'
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0201'
+    iata: ''
+    coordinates: '1349N 10003E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH NAK'
+    name: 'Nakhon Ratchasima'
+    namewodiacritics: 'Nakhon Ratchasima'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH NSA'
+    name: 'Nakhon Sawan'
+    namewodiacritics: 'Nakhon Sawan'
+    subdiv: '60'
+    function: '-23-----'
+    status: RL
+    date: '0307'
+    iata: ''
+    coordinates: '1541N 10007E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH NST'
+    name: 'Nakhon Si Thammarat'
+    namewodiacritics: 'Nakhon Si Thammarat'
+    subdiv: ''
+    function: 1-34----
+    status: RL
+    date: '0201'
+    iata: ''
+    coordinates: '0825N 09957E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH NNT'
+    name: Nan
+    namewodiacritics: Nan
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH NAW'
+    name: Narathiwat
+    namewodiacritics: Narathiwat
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH NIM'
+    name: 'Nim Port'
+    namewodiacritics: 'Nim Port'
+    subdiv: '10'
+    function: 1-------
+    status: RQ
+    date: '0212'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH NBO'
+    name: 'Nong Bua Lamphu'
+    namewodiacritics: 'Nong Bua Lamphu'
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0307'
+    iata: ''
+    coordinates: '1710N 10234E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH NGK'
+    name: 'Nong Khae'
+    namewodiacritics: 'Nong Khae'
+    subdiv: '19'
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '1420N 10052E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH NON'
+    name: 'Nong Khaem'
+    namewodiacritics: 'Nong Khaem'
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0307'
+    iata: ''
+    coordinates: '1341N 10021E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH QJX'
+    name: 'Nong Khai'
+    namewodiacritics: 'Nong Khai'
+    subdiv: '43'
+    function: '--345---'
+    status: AI
+    date: '0401'
+    iata: ''
+    coordinates: '1752N 10244E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH NYP'
+    name: 'Nong Ya Plong'
+    namewodiacritics: 'Nong Ya Plong'
+    subdiv: '22'
+    function: '-----6--'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '1309N 09942E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH NTB'
+    name: Nonthaburi
+    namewodiacritics: Nonthaburi
+    subdiv: '12'
+    function: '-23-----'
+    status: RL
+    date: '0501'
+    iata: ''
+    coordinates: '1350N 10029E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH PDB'
+    name: 'Padang Besar(Siamese Town)'
+    namewodiacritics: 'Padang Besar(Siamese Town)'
+    subdiv: ''
+    function: 123-----
+    status: RQ
+    date: '1001'
+    iata: ''
+    coordinates: '0639N 10019E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH PAI'
+    name: Pai
+    namewodiacritics: Pai
+    subdiv: '58'
+    function: '--3-----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '1919N 09827E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH PCH'
+    name: 'Pak Chong'
+    namewodiacritics: 'Pak Chong'
+    subdiv: ''
+    function: '-23-----'
+    status: RL
+    date: '0607'
+    iata: ''
+    coordinates: '1441N 10125E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH PKR'
+    name: 'Pak Kret'
+    namewodiacritics: 'Pak Kret'
+    subdiv: '12'
+    function: '--3-----'
+    status: RL
+    date: '0307'
+    iata: ''
+    coordinates: '1355N 10030E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH PKB'
+    name: Pakbara
+    namewodiacritics: Pakbara
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH PKN'
+    name: Paknam
+    namewodiacritics: Paknam
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH PKP'
+    name: Pakpanang
+    namewodiacritics: Pakpanang
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH PAT'
+    name: 'Pat Bangkok'
+    namewodiacritics: 'Pat Bangkok'
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0201'
+    iata: ''
+    coordinates: '1342N 10034E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH PTH'
+    name: 'Pathum Thani'
+    namewodiacritics: 'Pathum Thani'
+    subdiv: '13'
+    function: '--3-----'
+    status: RL
+    date: '0401'
+    iata: ''
+    coordinates: '1401N 10032E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH PBS'
+    name: 'Patong Beach'
+    namewodiacritics: 'Patong Beach'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH PAN'
+    name: Pattani
+    namewodiacritics: Pattani
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH PYX'
+    name: Pattaya
+    namewodiacritics: Pattaya
+    subdiv: '20'
+    function: '-234----'
+    status: RL
+    date: '0907'
+    iata: ''
+    coordinates: '1256N 10053E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH PCT'
+    name: Petchaburi
+    namewodiacritics: Petchaburi
+    subdiv: '22'
+    function: '-----6--'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '1305N 09957E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH PHT'
+    name: 'Phan Thong'
+    namewodiacritics: 'Phan Thong'
+    subdiv: '20'
+    function: '--3-----'
+    status: RL
+    date: '0307'
+    iata: ''
+    coordinates: '1328N 10106E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH PHA'
+    name: Phangnga
+    namewodiacritics: Phangnga
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH PMM'
+    name: 'Phanom Sarakham'
+    namewodiacritics: 'Phanom Sarakham'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH PTG'
+    name: Phatthalung
+    namewodiacritics: Phatthalung
+    subdiv: '64'
+    function: '--3-----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '0737N 10004E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH PYO'
+    name: Phayao
+    namewodiacritics: Phayao
+    subdiv: '50'
+    function: '--3-----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '1910N 09954E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH PHE'
+    name: 'Phet Buri'
+    namewodiacritics: 'Phet Buri'
+    subdiv: '76'
+    function: '-23-----'
+    status: RL
+    date: '0307'
+    iata: ''
+    coordinates: '1306N 09957E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH PCN'
+    name: Phetchabun
+    namewodiacritics: Phetchabun
+    subdiv: '12'
+    function: '--3-----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '1625N 10109E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH PHZ'
+    name: 'Phi Phi Island'
+    namewodiacritics: 'Phi Phi Island'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH PBM'
+    name: 'Phibun Mangsahan'
+    namewodiacritics: 'Phibun Mangsahan'
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0201'
+    iata: ''
+    coordinates: '1515N 10514E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH PHI'
+    name: Phichit
+    namewodiacritics: Phichit
+    subdiv: '12'
+    function: '--3-----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '1626N 10020E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH PHS'
+    name: Phitsanulok
+    namewodiacritics: Phitsanulok
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH PTR'
+    name: Photharam
+    namewodiacritics: Photharam
+    subdiv: '70'
+    function: 123-----
+    status: RL
+    date: '0501'
+    iata: ''
+    coordinates: '1341N 09951E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH PNA'
+    name: 'Phra Nakhon si Ayutthaya'
+    namewodiacritics: 'Phra Nakhon si Ayutthaya'
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '9901'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH PRG'
+    name: 'Phra Pradaeng'
+    namewodiacritics: 'Phra Pradaeng'
+    subdiv: '11'
+    function: '--3-----'
+    status: RL
+    date: '0307'
+    iata: ''
+    coordinates: '1340N 10032E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH PPA'
+    name: 'Phra Pradeng'
+    namewodiacritics: 'Phra Pradeng'
+    subdiv: ''
+    function: 1-3-----
+    status: RL
+    date: '9805'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH PRH'
+    name: Phrae
+    namewodiacritics: Phrae
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH HKT'
+    name: Phuket
+    namewodiacritics: Phuket
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH PLA'
+    name: Platong
+    namewodiacritics: Platong
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '0907'
+    iata: ''
+    coordinates: '0939N 10128E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH PDG'
+    name: 'Pluak Daeng'
+    namewodiacritics: 'Pluak Daeng'
+    subdiv: '21'
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '1258N 10113E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH PNB'
+    name: 'Prachin Buri'
+    namewodiacritics: 'Prachin Buri'
+    subdiv: '40'
+    function: '--3-----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '1403N 10122E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH PKK'
+    name: 'Prachuap Khiri Khan'
+    namewodiacritics: 'Prachuap Khiri Khan'
+    subdiv: '77'
+    function: '-23-----'
+    status: RL
+    date: '0307'
+    iata: ''
+    coordinates: '1149N 09948E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH PBR'
+    name: 'Pran Buri'
+    namewodiacritics: 'Pran Buri'
+    subdiv: '77'
+    function: '--3-----'
+    status: RL
+    date: '1207'
+    iata: ''
+    coordinates: '1223N 09955E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH UNN'
+    name: Ranong
+    namewodiacritics: Ranong
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH RAT'
+    name: Ratchaburi
+    namewodiacritics: Ratchaburi
+    subdiv: '70'
+    function: '-23-----'
+    status: RL
+    date: '0501'
+    iata: ''
+    coordinates: '1332N 09948E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH RYG'
+    name: Rayong
+    namewodiacritics: Rayong
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0101'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH ROI'
+    name: 'Roi Et'
+    namewodiacritics: 'Roi Et'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH RVT'
+    name: 'Rubicon Vantage FPSO'
+    namewodiacritics: 'Rubicon Vantage FPSO'
+    subdiv: ''
+    function: '------7-'
+    status: RQ
+    date: '1001'
+    iata: ''
+    coordinates: '1031N 10017E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH SCS'
+    name: 'Sahathai Coastal Seaport'
+    namewodiacritics: 'Sahathai Coastal Seaport'
+    subdiv: '11'
+    function: 1-3-----
+    status: RQ
+    date: '1207'
+    iata: ''
+    coordinates: '1339N 10032E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH SUP'
+    name: 'Sai Buri'
+    namewodiacritics: 'Sai Buri'
+    subdiv: '94'
+    function: '-----6--'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '0642N 10137E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH SNO'
+    name: 'Sakon Nakhon'
+    namewodiacritics: 'Sakon Nakhon'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH SAN'
+    name: 'Sam Phran'
+    namewodiacritics: 'Sam Phran'
+    subdiv: '73'
+    function: '--3-----'
+    status: RL
+    date: '0307'
+    iata: ''
+    coordinates: '1343N 10013E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH SAM'
+    name: Samphanthawong
+    namewodiacritics: Samphanthawong
+    subdiv: ''
+    function: '-23-----'
+    status: RL
+    date: '0307'
+    iata: ''
+    coordinates: '1344N 10030E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH SAS'
+    name: Samulsakom
+    namewodiacritics: Samulsakom
+    subdiv: '10'
+    function: '--3-----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH SAP'
+    name: 'Samut Prakan'
+    namewodiacritics: 'Samut Prakan'
+    subdiv: '11'
+    function: '-----6--'
+    status: RQ
+    date: '1001'
+    iata: ''
+    coordinates: '1336N 10036E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH SPS'
+    name: 'Samut Prakan Sahathai Terminal'
+    namewodiacritics: 'Samut Prakan Sahathai Terminal'
+    subdiv: '11'
+    function: 1----6--
+    status: RL
+    date: '1201'
+    iata: ''
+    coordinates: '1340N 10032E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH SPR'
+    name: 'Samut Prakarn'
+    namewodiacritics: 'Samut Prakarn'
+    subdiv: ''
+    function: 0-------
+    status: RQ
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH SAU'
+    name: 'Samut Sakhon, Changwat'
+    namewodiacritics: 'Samut Sakhon, Changwat'
+    subdiv: '74'
+    function: '-23-----'
+    status: RL
+    date: '0407'
+    iata: ''
+    coordinates: '1335N 10018E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH SSN'
+    name: 'Samut Sakorn'
+    namewodiacritics: 'Samut Sakorn'
+    subdiv: '74'
+    function: '-----6--'
+    status: RQ
+    date: '1007'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH SSM'
+    name: 'Samut Songkhram'
+    namewodiacritics: 'Samut Songkhram'
+    subdiv: '40'
+    function: '--3-----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '1324N 10000E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH SPK'
+    name: Samuthprakarn
+    namewodiacritics: Samuthprakarn
+    subdiv: '11'
+    function: '--3-----'
+    status: RQ
+    date: '1001'
+    iata: ''
+    coordinates: '1336N 10036E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH SBI'
+    name: 'Sara Buri'
+    namewodiacritics: 'Sara Buri'
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0201'
+    iata: ''
+    coordinates: '1430N 10055E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH STH'
+    name: Sathun
+    namewodiacritics: Sathun
+    subdiv: ''
+    function: 1-3-----
+    status: RL
+    date: '0307'
+    iata: ''
+    coordinates: '0642N 09938E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH SAT'
+    name: Sattahip
+    namewodiacritics: Sattahip
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH SNT'
+    name: Satun
+    namewodiacritics: Satun
+    subdiv: '84'
+    function: '--3-----'
+    status: RL
+    date: '0307'
+    iata: ''
+    coordinates: '0637N 10004E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH SIR'
+    name: 'Si Racha'
+    namewodiacritics: 'Si Racha'
+    subdiv: '20'
+    function: 123--6--
+    status: RL
+    date: '0507'
+    iata: ''
+    coordinates: '1310N 10056E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH SBP'
+    name: 'Siam Bangkok Port'
+    namewodiacritics: 'Siam Bangkok Port'
+    subdiv: ''
+    function: 1-3-----
+    status: RL
+    date: '0201'
+    iata: ''
+    coordinates: '1339N 10033E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH SCT'
+    name: 'Siam Container Terminal'
+    namewodiacritics: 'Siam Container Terminal'
+    subdiv: '11'
+    function: 1-3-----
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH SIC'
+    name: Sichol
+    namewodiacritics: Sichol
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH SIB'
+    name: 'Sing Buri'
+    namewodiacritics: 'Sing Buri'
+    subdiv: '17'
+    function: '--3-----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '1453N 10024E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH SSK'
+    name: Sisaket
+    namewodiacritics: Sisaket
+    subdiv: '71'
+    function: '--3-----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '1506N 10419E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH SGZ'
+    name: Songkhla
+    namewodiacritics: Songkhla
+    subdiv: '90'
+    function: 1-34----
+    status: AI
+    date: '0401'
+    iata: ''
+    coordinates: '0712N 10036E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH SKW'
+    name: 'Sre Kaew'
+    namewodiacritics: 'Sre Kaew'
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '9901'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH SRI'
+    name: Sriracha
+    namewodiacritics: Sriracha
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH THS'
+    name: Sukhothai
+    namewodiacritics: Sukhothai
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH SUB'
+    name: 'Suphan Buri'
+    namewodiacritics: 'Suphan Buri'
+    subdiv: '72'
+    function: '--3-----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '1428N 10007E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH URT'
+    name: 'Surat Thani'
+    namewodiacritics: 'Surat Thani'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH SNR'
+    name: Surin
+    namewodiacritics: Surin
+    subdiv: '32'
+    function: '--3-----'
+    status: RL
+    date: '0307'
+    iata: ''
+    coordinates: '1449N 10325E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH SIA'
+    name: 'Suvarnabhumi International Apt'
+    namewodiacritics: 'Suvarnabhumi International Apt'
+    subdiv: '11'
+    function: '--34----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '1343N 10047E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH TAC'
+    name: Ta-Chalaeb
+    namewodiacritics: Ta-Chalaeb
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH TKT'
+    name: Tak
+    namewodiacritics: Tak
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH TKH'
+    name: Takhli
+    namewodiacritics: Takhli
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH TTE'
+    name: 'Tantawan Terminal'
+    namewodiacritics: 'Tantawan Terminal'
+    subdiv: ''
+    function: '------7-'
+    status: RL
+    date: '0907'
+    iata: ''
+    coordinates: '1005N 10125E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH THA'
+    name: 'Tha Sala'
+    namewodiacritics: 'Tha Sala'
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH TPT'
+    name: 'Thai prosperity terminal'
+    namewodiacritics: 'Thai prosperity terminal'
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '9705'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH TST'
+    name: Trang
+    namewodiacritics: Trang
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH TRT'
+    name: Trat
+    namewodiacritics: Trat
+    subdiv: '23'
+    function: '--3-----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '1214N 10230E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH TPP'
+    name: 'Tungprong Pt'
+    namewodiacritics: 'Tungprong Pt'
+    subdiv: '20'
+    function: 1-------
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '1242N 10050E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH UBP'
+    name: 'Ubon Ratchathani'
+    namewodiacritics: 'Ubon Ratchathani'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH UTH'
+    name: 'Udon Thani'
+    namewodiacritics: 'Udon Thani'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH UCT'
+    name: 'Unithai Container Terminal'
+    namewodiacritics: 'Unithai Container Terminal'
+    subdiv: ''
+    function: 1-3-----
+    status: RQ
+    date: '9906'
+    iata: ''
+    coordinates: ''
+    remarks: 'Near Samat Prakarn'
+-
+    ch: ''
+    locode: 'TH UTP'
+    name: Utapao
+    namewodiacritics: Utapao
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH UTR'
+    name: Uttaradit
+    namewodiacritics: Uttaradit
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH YAL'
+    name: Yala
+    namewodiacritics: Yala
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH YAN'
+    name: 'Yan Nawa'
+    namewodiacritics: 'Yan Nawa'
+    subdiv: '10'
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '1343N 10032E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TH YNT'
+    name: Yasothon
+    namewodiacritics: Yasothon
+    subdiv: '35'
+    function: '--3-----'
+    status: RL
+    date: '0307'
+    iata: ''
+    coordinates: '1547N 10408E'
+    remarks: ''

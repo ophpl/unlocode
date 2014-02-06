@@ -1,0 +1,120 @@
+-
+    ch: ''
+    locode: 'AD ALV'
+    name: 'Andorra la Vella'
+    namewodiacritics: 'Andorra la Vella'
+    subdiv: ''
+    function: '--34-6--'
+    status: AI
+    date: '0601'
+    iata: ''
+    coordinates: '4230N 00131E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AD CAN'
+    name: Canillo
+    namewodiacritics: Canillo
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0307'
+    iata: ''
+    coordinates: '4234N 00135E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AD ENC'
+    name: Encamp
+    namewodiacritics: Encamp
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0307'
+    iata: ''
+    coordinates: '4232N 00134E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AD ESC'
+    name: Escaldes-Engordany
+    namewodiacritics: Escaldes-Engordany
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0307'
+    iata: ''
+    coordinates: '4231N 00133E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AD FMO'
+    name: 'La Farga de Moles'
+    namewodiacritics: 'La Farga de Moles'
+    subdiv: ''
+    function: '--3----B'
+    status: RQ
+    date: '0307'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'AD LMA'
+    name: 'La Massana'
+    namewodiacritics: 'La Massana'
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0307'
+    iata: ''
+    coordinates: '4234N 00129E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AD ORD'
+    name: Ordino
+    namewodiacritics: Ordino
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0307'
+    iata: ''
+    coordinates: '4233N 00131E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AD PAS'
+    name: 'Pas de la Casa'
+    namewodiacritics: 'Pas de la Casa'
+    subdiv: ''
+    function: '--3----B'
+    status: RL
+    date: '0307'
+    iata: ''
+    coordinates: '4233N 00144E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AD SJL'
+    name: 'Sant Julià de Lòria'
+    namewodiacritics: 'Sant Julia de Loria'
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '1101'
+    iata: ''
+    coordinates: '4228N 00130E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AD SCO'
+    name: 'Santa Coloma'
+    namewodiacritics: 'Santa Coloma'
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0307'
+    iata: ''
+    coordinates: '4230N 00130E'
+    remarks: ''

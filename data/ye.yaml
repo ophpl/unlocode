@@ -1,0 +1,588 @@
+-
+    ch: ''
+    locode: 'YE EAB'
+    name: Abbse
+    namewodiacritics: Abbse
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'YE ADN'
+    name: '''Adan'
+    namewodiacritics: '''Adan'
+    subdiv: AD
+    function: '-----6--'
+    status: RQ
+    date: '1001'
+    iata: ''
+    coordinates: '1246N 04502E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'YE ADE'
+    name: Aden
+    namewodiacritics: Aden
+    subdiv: ''
+    function: 1--45---
+    status: AI
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'YE AHW'
+    name: Ahwar
+    namewodiacritics: Ahwar
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'YE AAY'
+    name: 'Al Ghaydah'
+    namewodiacritics: 'Al Ghaydah'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'YE ZAM'
+    name: 'Al Mukalla'
+    namewodiacritics: 'Al Mukalla'
+    subdiv: HD
+    function: '-----6--'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '1431N 04907E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'YE BUK'
+    name: Albuq
+    namewodiacritics: Albuq
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0401'
+    iata: ''
+    coordinates: '1550N 04346E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'YE AJO'
+    name: Aljouf
+    namewodiacritics: Aljouf
+    subdiv: AB
+    function: '---4----'
+    status: AI
+    date: '0212'
+    iata: ''
+    coordinates: '1350N 04550E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'YE ASR'
+    name: 'Ash Shihr'
+    namewodiacritics: 'Ash Shihr'
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '9901'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'YE AXK'
+    name: Ataq
+    namewodiacritics: Ataq
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'YE BLH'
+    name: Balhaf
+    namewodiacritics: Balhaf
+    subdiv: SH
+    function: '--3-----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '1358N 04811E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'YE BYD'
+    name: Beidah
+    namewodiacritics: Beidah
+    subdiv: BA
+    function: '---4----'
+    status: AI
+    date: '0212'
+    iata: ''
+    coordinates: '1359N 04534E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'YE BHN'
+    name: Beihan
+    namewodiacritics: Beihan
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'YE BOG'
+    name: Bogoa
+    namewodiacritics: Bogoa
+    subdiv: ''
+    function: '--3-----'
+    status: QQ
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'YE DAH'
+    name: Dathina
+    namewodiacritics: Dathina
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'YE DHL'
+    name: Dhala
+    namewodiacritics: Dhala
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'YE DMR'
+    name: Dhamar
+    namewodiacritics: Dhamar
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'YE ELK'
+    name: 'El Katieb'
+    namewodiacritics: 'El Katieb'
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'YE HAR'
+    name: Harad
+    namewodiacritics: Harad
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'YE HAU'
+    name: Haura
+    namewodiacritics: Haura
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'YE HOD'
+    name: Hodeidah
+    namewodiacritics: Hodeidah
+    subdiv: ''
+    function: 1--45---
+    status: AI
+    date: '0401'
+    iata: ''
+    coordinates: '1450N 04254E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'YE IBB'
+    name: Ibb
+    namewodiacritics: Ibb
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '9901'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'YE KAM'
+    name: Kamaran
+    namewodiacritics: Kamaran
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'YE KHO'
+    name: Khokha
+    namewodiacritics: Khokha
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: +
+    locode: 'YE LEH'
+    name: Lahj
+    namewodiacritics: Lahj
+    subdiv: LA
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '1303N 04453E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'YE LAW'
+    name: Lawdar
+    namewodiacritics: Lawdar
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '9901'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'YE LAD'
+    name: 'Little Aden'
+    namewodiacritics: 'Little Aden'
+    subdiv: AD
+    function: 1-3-----
+    status: RL
+    date: '0307'
+    iata: ''
+    coordinates: '1244N 04452E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'YE LDR'
+    name: Lodar
+    namewodiacritics: Lodar
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'YE LOH'
+    name: Loheiya
+    namewodiacritics: Loheiya
+    subdiv: ''
+    function: 0-------
+    status: RQ
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'YE MAH'
+    name: 'Ma''allah'
+    namewodiacritics: 'Ma''allah'
+    subdiv: AD
+    function: '--3-----'
+    status: RL
+    date: '1207'
+    iata: ''
+    coordinates: '1247N 04500E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'YE MYN'
+    name: Mareb
+    namewodiacritics: Mareb
+    subdiv: ''
+    function: 1-34----
+    status: AI
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'YE MFY'
+    name: 'Mayfa''ah'
+    namewodiacritics: 'Mayfa''ah'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'YE MOK'
+    name: Mokha
+    namewodiacritics: Mokha
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'YE MKX'
+    name: Mukalla
+    namewodiacritics: Mukalla
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'YE UKR'
+    name: Mukeiras
+    namewodiacritics: Mukeiras
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'YE NIS'
+    name: Nishtun
+    namewodiacritics: Nishtun
+    subdiv: ''
+    function: 0-------
+    status: RQ
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'YE PRM'
+    name: 'Perim Island'
+    namewodiacritics: 'Perim Island'
+    subdiv: TA
+    function: 1-------
+    status: RL
+    date: '0212'
+    iata: ''
+    coordinates: '1239N 04325E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'YE IHN'
+    name: Qishn
+    namewodiacritics: Qishn
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'YE RAK'
+    name: 'Ras Al Kalib'
+    namewodiacritics: 'Ras Al Kalib'
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'YE RAI'
+    name: 'Ras Isa Terminal'
+    namewodiacritics: 'Ras Isa Terminal'
+    subdiv: ''
+    function: 1-------
+    status: RL
+    date: '0212'
+    iata: ''
+    coordinates: '1512N 04240E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'YE RXA'
+    name: Raudha
+    namewodiacritics: Raudha
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'YE RIY'
+    name: 'Riyan Mukalla'
+    namewodiacritics: 'Riyan Mukalla'
+    subdiv: HD
+    function: '---4----'
+    status: AI
+    date: '0212'
+    iata: ''
+    coordinates: '1439N 04920E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'YE SYE'
+    name: Sadah
+    namewodiacritics: Sadah
+    subdiv: ''
+    function: 1-34----
+    status: AI
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'YE SAL'
+    name: 'Saleef Port'
+    namewodiacritics: 'Saleef Port'
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'YE SAH'
+    name: 'Sana''a'
+    namewodiacritics: 'Sana''a'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'YE GXF'
+    name: Seiyun
+    namewodiacritics: Seiyun
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'YE SCT'
+    name: Suqutrá
+    namewodiacritics: Suqutra
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '0212'
+    iata: ''
+    coordinates: '1230N 05400E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'YE TAI'
+    name: Taiz
+    namewodiacritics: Taiz
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'YE WDA'
+    name: 'Wadi Ain'
+    namewodiacritics: 'Wadi Ain'
+    subdiv: ''
+    function: '---4----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '1452N 04532E'
+    remarks: ''

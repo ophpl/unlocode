@@ -1,0 +1,204 @@
+-
+    ch: ''
+    locode: 'FM TKK'
+    name: 'Chuuk (ex Truk)'
+    namewodiacritics: 'Chuuk (ex Truk)'
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '9506'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'FM EAU'
+    name: 'Eauripik Atoll'
+    namewodiacritics: 'Eauripik Atoll'
+    subdiv: YAP
+    function: 1-------
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '0642N 14304E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'FM FSI'
+    name: Faisi
+    namewodiacritics: Faisi
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'FM GAF'
+    name: 'Gaferut Atoll'
+    namewodiacritics: 'Gaferut Atoll'
+    subdiv: YAP
+    function: 1-------
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '0914N 14523E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'FM IFA'
+    name: 'Ifalik Atoll'
+    namewodiacritics: 'Ifalik Atoll'
+    subdiv: YAP
+    function: 1-------
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '0714N 14427E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'FM KSA'
+    name: 'Kosrae (ex Kusaie)'
+    namewodiacritics: 'Kosrae (ex Kusaie)'
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'FM LUK'
+    name: 'Lukunor Atoll'
+    namewodiacritics: 'Lukunor Atoll'
+    subdiv: TRK
+    function: 1-------
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '0531N 15346E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'FM NGA'
+    name: Ngatik
+    namewodiacritics: Ngatik
+    subdiv: PNI
+    function: 1-------
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '0548N 15716E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'FM PNI'
+    name: 'Pohnpei (ex Ponape)'
+    namewodiacritics: 'Pohnpei (ex Ponape)'
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'FM PUL'
+    name: 'Pulap Island'
+    namewodiacritics: 'Pulap Island'
+    subdiv: TRK
+    function: 1-------
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '0735N 14925E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'FM PLW'
+    name: Puluwat
+    namewodiacritics: Puluwat
+    subdiv: TRK
+    function: 1-------
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '0721N 14911E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'FM SAT'
+    name: Satawal
+    namewodiacritics: Satawal
+    subdiv: YAP
+    function: 1-------
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '0721N 14702E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'FM SOR'
+    name: 'Sorol Atoll'
+    namewodiacritics: 'Sorol Atoll'
+    subdiv: YAP
+    function: 1-------
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '0808N 14023E'
+    remarks: ''
+-
+    ch: '='
+    locode: FM
+    name: 'Truk = Chuuk'
+    namewodiacritics: 'Truk = Chuuk'
+    subdiv: ''
+    function: ''
+    status: ''
+    date: ''
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'FM ULI'
+    name: Ulithi
+    namewodiacritics: Ulithi
+    subdiv: ''
+    function: 0-------
+    status: AI
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'FM WOL'
+    name: 'Woleai Atoll'
+    namewodiacritics: 'Woleai Atoll'
+    subdiv: YAP
+    function: 1-------
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '0721N 14352E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'FM YAP'
+    name: Yap
+    namewodiacritics: Yap
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''

@@ -1,0 +1,360 @@
+-
+    ch: ''
+    locode: 'TD AEH'
+    name: Abéché
+    namewodiacritics: Abeche
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0212'
+    iata: ''
+    coordinates: '1349N 02049E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TD AOD'
+    name: Abou-Deïa
+    namewodiacritics: Abou-Deia
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0212'
+    iata: ''
+    coordinates: '1127N 01917E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TD AMC'
+    name: 'Am Timan'
+    namewodiacritics: 'Am Timan'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'TD ATV'
+    name: Ati
+    namewodiacritics: Ati
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'TD BND'
+    name: Banda
+    namewodiacritics: Banda
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0212'
+    iata: ''
+    coordinates: '0909N 01822E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TD BKR'
+    name: Bokoro
+    namewodiacritics: Bokoro
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'TD OTC'
+    name: Bol
+    namewodiacritics: Bol
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'TD OGR'
+    name: Bongor
+    namewodiacritics: Bongor
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'TD OUT'
+    name: Bousso
+    namewodiacritics: Bousso
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'TD DOB'
+    name: Doba
+    namewodiacritics: Doba
+    subdiv: MC
+    function: '--3-----'
+    status: RL
+    date: '0307'
+    iata: ''
+    coordinates: '0838N 01650E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TD FYT'
+    name: Faya
+    namewodiacritics: Faya
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'TD GHD'
+    name: Gadang-Haddad-Dandi
+    namewodiacritics: Gadang-Haddad-Dandi
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0002'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ¦
+    locode: 'TD GAY'
+    name: Gaya
+    namewodiacritics: Gaya
+    subdiv: KA
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '1354N 01530E'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'TD KEL'
+    name: Kélo
+    namewodiacritics: Kelo
+    subdiv: TA
+    function: '--3-----'
+    status: RL
+    date: '0307'
+    iata: ''
+    coordinates: '0919N 01548E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TD KME'
+    name: Komé
+    namewodiacritics: Kome
+    subdiv: ''
+    function: '-23-----'
+    status: RL
+    date: '0207'
+    iata: ''
+    coordinates: '0827N 01642E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TD KOU'
+    name: Koumara
+    namewodiacritics: Koumara
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0607'
+    iata: ''
+    coordinates: '0757N 01530E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TD KMR'
+    name: Koumra
+    namewodiacritics: Koumra
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0607'
+    iata: ''
+    coordinates: '0854N 01733E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TD LTC'
+    name: Lai
+    namewodiacritics: Lai
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ¦
+    locode: 'TD LER'
+    name: Léré
+    namewodiacritics: Lere
+    subdiv: MO
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '0939N 01413E'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'TD AMO'
+    name: Mao
+    namewodiacritics: Mao
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'TD MEF'
+    name: Melfi
+    namewodiacritics: Melfi
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'TD MVO'
+    name: Mongo
+    namewodiacritics: Mongo
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'TD MQQ'
+    name: Moundou
+    namewodiacritics: Moundou
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'TD MOU'
+    name: Moussoro
+    namewodiacritics: Moussoro
+    subdiv: KA
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '1339N 01629E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TD NDJ'
+    name: 'N''Djamena'
+    namewodiacritics: 'N''Djamena'
+    subdiv: ''
+    function: '---45---'
+    status: AI
+    date: '0212'
+    iata: ''
+    coordinates: '1207N 01503E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TD OUM'
+    name: 'Oum Hadjer'
+    namewodiacritics: 'Oum Hadjer'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'TD PLF'
+    name: Pala
+    namewodiacritics: Pala
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'TD SRH'
+    name: Sarh
+    namewodiacritics: Sarh
+    subdiv: ''
+    function: '---45---'
+    status: AI
+    date: '9805'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'TD SOB'
+    name: Soba
+    namewodiacritics: Soba
+    subdiv: ''
+    function: '-----6--'
+    status: RL
+    date: '1107'
+    iata: ''
+    coordinates: '1522N 02147E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TD AKM'
+    name: Zakouma
+    namewodiacritics: Zakouma
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''

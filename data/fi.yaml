@@ -1,0 +1,7524 @@
+-
+    ch: ¦
+    locode: 'FI AAN'
+    name: Äänekoski
+    namewodiacritics: Aanekoski
+    subdiv: LS
+    function: '--3-----'
+    status: AF
+    date: '1307'
+    iata: ''
+    coordinates: ''
+    remarks: '@Sub'
+-
+    ch: ¦
+    locode: 'FI AVS'
+    name: Aavasaksa
+    namewodiacritics: Aavasaksa
+    subdiv: LL
+    function: '--3----B'
+    status: AC
+    date: '1307'
+    iata: ''
+    coordinates: ''
+    remarks: '@Sub'
+-
+    ch: ¦
+    locode: 'FI TKU'
+    name: 'Åbo (Turku)'
+    namewodiacritics: 'Abo (Turku)'
+    subdiv: '19'
+    function: 1-34----
+    status: AI
+    date: '1307'
+    iata: ''
+    coordinates: '6027N 02217E'
+    remarks: '@Sub@Sub'
+-
+    ch: ¦
+    locode: 'FI ATS'
+    name: Äetsä
+    namewodiacritics: Aetsa
+    subdiv: LS
+    function: '-23-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '6117N 02241E'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'FI ATI'
+    name: Ähtäri
+    namewodiacritics: Ahtari
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '0101'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'FI AJO'
+    name: Ajos
+    namewodiacritics: Ajos
+    subdiv: ''
+    function: 1-------
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '6540N 02434E'
+    remarks: ''
+-
+    ch: ¦
+    locode: 'FI AJI'
+    name: Alajärvi
+    namewodiacritics: Alajarvi
+    subdiv: LS
+    function: '--3-----'
+    status: AF
+    date: '1307'
+    iata: ''
+    coordinates: '6300N 02348E'
+    remarks: '@Sub'
+-
+    ch: ¦
+    locode: 'FI FAB'
+    name: Alastaro
+    namewodiacritics: Alastaro
+    subdiv: LS
+    function: '-----6--'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '6057N 02251E'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'FI ALA'
+    name: Alavieska
+    namewodiacritics: Alavieska
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '6410N 02418E'
+    remarks: ''
+-
+    ch: ¦
+    locode: 'FI ALV'
+    name: Alavus
+    namewodiacritics: Alavus
+    subdiv: LS
+    function: '--3-----'
+    status: AF
+    date: '1307'
+    iata: ''
+    coordinates: ''
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'FI AHL'
+    name: Alholmen
+    namewodiacritics: Alholmen
+    subdiv: ''
+    function: 1-------
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '6342N 02242E'
+    remarks: ''
+-
+    ch: ¦
+    locode: 'FI ANJ'
+    name: Anjalankoski
+    namewodiacritics: Anjalankoski
+    subdiv: ES
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: ''
+    remarks: '@Sub'
+-
+    ch: ¦
+    locode: 'FI ANT'
+    name: Antskog
+    namewodiacritics: Antskog
+    subdiv: ES
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '6009N 02334E'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'FI ATL'
+    name: 'Anttila Oy'
+    namewodiacritics: 'Anttila Oy'
+    subdiv: ES
+    function: '--3-----'
+    status: RL
+    date: '1201'
+    iata: ''
+    coordinates: '6129N 02345E'
+    remarks: ''
+-
+    ch: ¦
+    locode: 'FI AOK'
+    name: Arrakoski
+    namewodiacritics: Arrakoski
+    subdiv: ES
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '6124N 02511E'
+    remarks: '@Sub'
+-
+    ch: ¦
+    locode: 'FI AKK'
+    name: Asikkala
+    namewodiacritics: Asikkala
+    subdiv: IS
+    function: 1----6--
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '6203N 02826E'
+    remarks: '@Sub'
+-
+    ch: ¦
+    locode: 'FI AUR'
+    name: Aura
+    namewodiacritics: Aura
+    subdiv: LS
+    function: '-23-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '6036N 02233E'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'FI BAS'
+    name: Bäcksbacka
+    namewodiacritics: Backsbacka
+    subdiv: LS
+    function: '--3-----'
+    status: RL
+    date: '0907'
+    iata: ''
+    coordinates: '6327N 02307E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'FI BAR'
+    name: Baronsalmi
+    namewodiacritics: Baronsalmi
+    subdiv: ''
+    function: 1-------
+    status: RL
+    date: '1107'
+    iata: ''
+    coordinates: '5958N 02352E'
+    remarks: ''
+-
+    ch: ¦
+    locode: 'FI BEN'
+    name: Bennäs
+    namewodiacritics: Bennas
+    subdiv: LS
+    function: '--3-----'
+    status: RQ
+    date: '1307'
+    iata: ''
+    coordinates: '6336N 02248E'
+    remarks: '@Sub'
+-
+    ch: ¦
+    locode: 'FI PIR'
+    name: 'Birkala (Pirkkala)'
+    namewodiacritics: 'Birkala (Pirkkala)'
+    subdiv: '11'
+    function: '--34---B'
+    status: AC
+    date: '1307'
+    iata: ''
+    coordinates: '6128N 02338E'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'FI BJO'
+    name: Björkholma
+    namewodiacritics: Bjorkholma
+    subdiv: LS
+    function: '--3-----'
+    status: RL
+    date: '0907'
+    iata: ''
+    coordinates: '6320N 02243E'
+    remarks: ''
+-
+    ch: ¦
+    locode: 'FI POR'
+    name: 'Björneborg (Pori)'
+    namewodiacritics: 'Bjorneborg (Pori)'
+    subdiv: LS
+    function: 1-34----
+    status: AI
+    date: '1307'
+    iata: ''
+    coordinates: '6129N 02148E'
+    remarks: '@Sub'
+-
+    ch: ¦
+    locode: 'FI PRV'
+    name: 'Borgå (Porvoo)'
+    namewodiacritics: 'Borga (Porvoo)'
+    subdiv: ES
+    function: 1-------
+    status: AI
+    date: '1307'
+    iata: ''
+    coordinates: '6024N 02540E'
+    remarks: '@Sub'
+-
+    ch: ¦
+    locode: 'FI BOS'
+    name: Bosund
+    namewodiacritics: Bosund
+    subdiv: LS
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '6349N 02252E'
+    remarks: '@Sub'
+-
+    ch: ¦
+    locode: 'FI RAA'
+    name: 'Brahestad (Raahe)'
+    namewodiacritics: 'Brahestad (Raahe)'
+    subdiv: OL
+    function: 1-------
+    status: AI
+    date: '1307'
+    iata: ''
+    coordinates: '6441N 02429E'
+    remarks: '@Sub@Sub'
+-
+    ch: ¦
+    locode: 'FI BRA'
+    name: Brändö
+    namewodiacritics: Brando
+    subdiv: AL
+    function: 1-------
+    status: AF
+    date: '1307'
+    iata: ''
+    coordinates: '6025N 02103E'
+    remarks: '@Sub'
+-
+    ch: ¦
+    locode: 'FI BRO'
+    name: Bromarv
+    namewodiacritics: Bromarv
+    subdiv: ES
+    function: 1-3-----
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '5959N 02302E'
+    remarks: '@Sub'
+-
+    ch: +
+    locode: 'FI DAK'
+    name: Dagsmark
+    namewodiacritics: Dagsmark
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '6214N 02138E'
+    remarks: ''
+-
+    ch: ¦
+    locode: 'FI DLS'
+    name: 'Dalsbruk (Taalintehdas)'
+    namewodiacritics: 'Dalsbruk (Taalintehdas)'
+    subdiv: LS
+    function: 1-------
+    status: AI
+    date: '1307'
+    iata: ''
+    coordinates: '6001N 02231E'
+    remarks: '@Sub@Sub'
+-
+    ch: ¦
+    locode: 'FI DEG'
+    name: Degerby
+    namewodiacritics: Degerby
+    subdiv: ES
+    function: 1-3-----
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '6006N 02411E'
+    remarks: '@Sub'
+-
+    ch: ¦
+    locode: 'FI DRA'
+    name: Dragsfjärd
+    namewodiacritics: Dragsfjard
+    subdiv: LS
+    function: 1-------
+    status: AF
+    date: '1307'
+    iata: ''
+    coordinates: '6004N 02228E'
+    remarks: '@Sub'
+-
+    ch: ¦
+    locode: 'FI ECK'
+    name: Eckerö
+    namewodiacritics: Eckero
+    subdiv: AL
+    function: 1------B
+    status: AC
+    date: '1307'
+    iata: ''
+    coordinates: '6013N 01937E'
+    remarks: '@Sub'
+-
+    ch: ¦
+    locode: 'FI TAI'
+    name: 'Ekenäs (Tammisaari)'
+    namewodiacritics: 'Ekenas (Tammisaari)'
+    subdiv: ES
+    function: 1-------
+    status: AI
+    date: '1307'
+    iata: ''
+    coordinates: '5958N 02326E'
+    remarks: '@Sub'
+-
+    ch: ¦
+    locode: 'FI ENO'
+    name: Eno
+    namewodiacritics: Eno
+    subdiv: IS
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '6248N 03009E'
+    remarks: '@Sub'
+-
+    ch: ¦
+    locode: 'FI ENK'
+    name: Enonkoski
+    namewodiacritics: Enonkoski
+    subdiv: IS
+    function: 1-3-----
+    status: AF
+    date: '1307'
+    iata: ''
+    coordinates: '6205N 02855E'
+    remarks: '@Sub'
+-
+    ch: ¦
+    locode: 'FI ENF'
+    name: 'Enontekiö (Enontekis)'
+    namewodiacritics: 'Enontekio (Enontekis)'
+    subdiv: LL
+    function: '---4----'
+    status: AF
+    date: '1307'
+    iata: ''
+    coordinates: '6823N 02338E'
+    remarks: '@Sub@Sub'
+-
+    ch: ¦
+    locode: 'FI ENF'
+    name: 'Enontekis (Enontekiö)'
+    namewodiacritics: 'Enontekis (Enontekio)'
+    subdiv: '10'
+    function: '---4----'
+    status: AF
+    date: '1307'
+    iata: ''
+    coordinates: '6823N 02338E'
+    remarks: '@Sub@Sub'
+-
+    ch: ¦
+    locode: 'FI ERV'
+    name: Ervasto
+    namewodiacritics: Ervasto
+    subdiv: ES
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '6008N 02304E'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'FI ESP'
+    name: 'Esbo (Espoo)'
+    namewodiacritics: 'Esbo (Espoo)'
+    subdiv: ES
+    function: 1-3--6--
+    status: AI
+    date: '0907'
+    iata: ''
+    coordinates: '6012N 02439E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'FI ESP'
+    name: 'Espoo (Esbo)'
+    namewodiacritics: 'Espoo (Esbo)'
+    subdiv: ES
+    function: 1-3--6--
+    status: AI
+    date: '0907'
+    iata: ''
+    coordinates: '6012N 02439E'
+    remarks: ''
+-
+    ch: '='
+    locode: FI
+    name: 'Espoonlahti = Espoo'
+    namewodiacritics: 'Espoonlahti = Espoo'
+    subdiv: ''
+    function: ''
+    status: ''
+    date: ''
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ¦
+    locode: 'FI EUA'
+    name: Eura
+    namewodiacritics: Eura
+    subdiv: LS
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '6108N 02209E'
+    remarks: '@Sub'
+-
+    ch: ¦
+    locode: 'FI EJO'
+    name: 'Euraåminne (Eurajoki)'
+    namewodiacritics: 'Euraaminne (Eurajoki)'
+    subdiv: LS
+    function: 1-------
+    status: AI
+    date: '1307'
+    iata: ''
+    coordinates: '6112N 02144E'
+    remarks: '@Sub@Sub'
+-
+    ch: ¦
+    locode: 'FI EJO'
+    name: 'Eurajoki (Euraåminne)'
+    namewodiacritics: 'Eurajoki (Euraaminne)'
+    subdiv: '17'
+    function: 1-------
+    status: AI
+    date: '1307'
+    iata: ''
+    coordinates: '6112N 02144E'
+    remarks: '@Sub@Sub'
+-
+    ch: ¦
+    locode: 'FI EVJ'
+    name: Evijärvi
+    namewodiacritics: Evijarvi
+    subdiv: LS
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '6322N 02329E'
+    remarks: '@Sub'
+-
+    ch: ¦
+    locode: 'FI FAR'
+    name: Färjsundet
+    namewodiacritics: Farjsundet
+    subdiv: AL
+    function: 1-------
+    status: AI
+    date: '1307'
+    iata: ''
+    coordinates: '6014N 02001E'
+    remarks: '@Sub'
+-
+    ch: ¦
+    locode: 'FI SAR'
+    name: 'Finby (Särkisalo)'
+    namewodiacritics: 'Finby (Sarkisalo)'
+    subdiv: LS
+    function: 1-3-----
+    status: QQ
+    date: '1307'
+    iata: ''
+    coordinates: '6006N 02256E'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'FI FSO'
+    name: Finström
+    namewodiacritics: Finstrom
+    subdiv: AL
+    function: '--3-----'
+    status: RL
+    date: '0907'
+    iata: ''
+    coordinates: '6016N 01956E'
+    remarks: ''
+-
+    ch: ¦
+    locode: 'FI FAD'
+    name: Fiskars
+    namewodiacritics: Fiskars
+    subdiv: ES
+    function: '-----6--'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '6008N 02333E'
+    remarks: '@Sub'
+-
+    ch: ¦
+    locode: 'FI FOG'
+    name: Föglö
+    namewodiacritics: Foglo
+    subdiv: AL
+    function: 1-------
+    status: AF
+    date: '1307'
+    iata: ''
+    coordinates: '6001N 02025E'
+    remarks: '@Sub'
+-
+    ch: ¦
+    locode: 'FI FOR'
+    name: Förby
+    namewodiacritics: Forby
+    subdiv: LS
+    function: 1-------
+    status: AF
+    date: '1307'
+    iata: ''
+    coordinates: ''
+    remarks: '@Sub'
+-
+    ch: ¦
+    locode: 'FI FSF'
+    name: Forssa
+    namewodiacritics: Forssa
+    subdiv: ES
+    function: '--3-----'
+    status: AC
+    date: '1307'
+    iata: QVE
+    coordinates: '6049N 02337E'
+    remarks: '@Sub'
+-
+    ch: ¦
+    locode: 'FI HMN'
+    name: 'Fredrikshamn (Hamina)'
+    namewodiacritics: 'Fredrikshamn (Hamina)'
+    subdiv: ES
+    function: 1-------
+    status: AI
+    date: '1307'
+    iata: QVZ
+    coordinates: '6034N 02712E'
+    remarks: '@Sub@Sub'
+-
+    ch: ¦
+    locode: 'FI GAM'
+    name: Gammelby
+    namewodiacritics: Gammelby
+    subdiv: ES
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '6029N 02553E'
+    remarks: '@Sub'
+-
+    ch: ¦
+    locode: 'FI GDB'
+    name: 'Gottby (Godby)'
+    namewodiacritics: 'Gottby (Godby)'
+    subdiv: AL
+    function: 1-------
+    status: AF
+    date: '1307'
+    iata: ''
+    coordinates: '6008N 01950E'
+    remarks: '@Sub'
+-
+    ch: ¦
+    locode: 'FI KIN'
+    name: 'Grankulla (Kauniainen)'
+    namewodiacritics: 'Grankulla (Kauniainen)'
+    subdiv: ES
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: ''
+    remarks: '@Sub'
+-
+    ch: ¦
+    locode: 'FI GUL'
+    name: Gullö
+    namewodiacritics: Gullo
+    subdiv: ES
+    function: 1-3-----
+    status: AF
+    date: '1307'
+    iata: ''
+    coordinates: '5957N 02325E'
+    remarks: '@Sub'
+-
+    ch: ¦
+    locode: 'FI KUS'
+    name: 'Gustavs (Kustavi)'
+    namewodiacritics: 'Gustavs (Kustavi)'
+    subdiv: LS
+    function: 1-------
+    status: AI
+    date: '1307'
+    iata: ''
+    coordinates: ''
+    remarks: '@Sub'
+-
+    ch: ¦
+    locode: 'FI HAA'
+    name: Haapajärvi
+    namewodiacritics: Haapajarvi
+    subdiv: OL
+    function: '--3-----'
+    status: AF
+    date: '1307'
+    iata: ''
+    coordinates: '6345N 02519E'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'FI HAP'
+    name: Haapamäki
+    namewodiacritics: Haapamaki
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '1201'
+    iata: ''
+    coordinates: '6215N 02427E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'FI HPS'
+    name: Haapavesi
+    namewodiacritics: Haapavesi
+    subdiv: OL
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: +
+    locode: 'FI HAJ'
+    name: Haarajärvi
+    namewodiacritics: Haarajarvi
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '6211N 03011E'
+    remarks: ''
+-
+    ch: ¦
+    locode: 'FI KOL'
+    name: Haikola
+    namewodiacritics: Haikola
+    subdiv: OL
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '6354N 02432E'
+    remarks: '@Sub'
+-
+    ch: ¦
+    locode: 'FI HAO'
+    name: Hailuoto
+    namewodiacritics: Hailuoto
+    subdiv: OL
+    function: 1-------
+    status: AF
+    date: '1307'
+    iata: ''
+    coordinates: '6500N 02450E'
+    remarks: '@Sub'
+-
+    ch: ¦
+    locode: 'FI HAK'
+    name: Hakkola
+    namewodiacritics: Hakkola
+    subdiv: LS
+    function: 1-3-----
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '6223N 02243E'
+    remarks: '@Sub'
+-
+    ch: ¦
+    locode: 'FI HLK'
+    name: Halikko
+    namewodiacritics: Halikko
+    subdiv: LS
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: ''
+    remarks: '@Sub'
+-
+    ch: ¦
+    locode: 'FI HLI'
+    name: Halli
+    namewodiacritics: Halli
+    subdiv: LS
+    function: '--3-----'
+    status: RQ
+    date: '1307'
+    iata: ''
+    coordinates: '6152N 02450E'
+    remarks: '@Sub'
+-
+    ch: ¦
+    locode: 'FI HLL'
+    name: Hällnäs
+    namewodiacritics: Hallnas
+    subdiv: LS
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '6315N 02214E'
+    remarks: '@Sub'
+-
+    ch: ¦
+    locode: 'FI HAL'
+    name: Halonen
+    namewodiacritics: Halonen
+    subdiv: LL
+    function: 1-3-----
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '6641N 02730E'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'FI LHO'
+    name: Halosenlahti
+    namewodiacritics: Halosenlahti
+    subdiv: ''
+    function: 1-------
+    status: RL
+    date: '1107'
+    iata: ''
+    coordinates: '6514N 02519E'
+    remarks: ''
+-
+    ch: ¦
+    locode: 'FI HLA'
+    name: Haluna
+    namewodiacritics: Haluna
+    subdiv: IS
+    function: '-23--6--'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '6308N 02800E'
+    remarks: '@Sub'
+-
+    ch: ¦
+    locode: 'FI HKY'
+    name: 'Hämeenkyrö (Tavastkyro)'
+    namewodiacritics: 'Hameenkyro (Tavastkyro)'
+    subdiv: LS
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '6138N 02312E'
+    remarks: '@Sub'
+-
+    ch: ¦
+    locode: 'FI HMY'
+    name: 'Hämeenlinna (Tavastehus)'
+    namewodiacritics: 'Hameenlinna (Tavastehus)'
+    subdiv: ES
+    function: '--3-----'
+    status: AC
+    date: '1307'
+    iata: QVM
+    coordinates: ''
+    remarks: '@Sub'
+-
+    ch: ¦
+    locode: 'FI HMN'
+    name: 'Hamina (Fredrikshamn)'
+    namewodiacritics: 'Hamina (Fredrikshamn)'
+    subdiv: '09'
+    function: 1-------
+    status: AI
+    date: '1307'
+    iata: QVZ
+    coordinates: '6034N 02712E'
+    remarks: '@Sub@Sub'
+-
+    ch: ¦
+    locode: 'FI HKO'
+    name: 'Hangö (Hanko)'
+    namewodiacritics: 'Hango (Hanko)'
+    subdiv: ES
+    function: 1-------
+    status: AI
+    date: '1307'
+    iata: ''
+    coordinates: ''
+    remarks: '@Sub@Sub'
+-
+    ch: ¦
+    locode: 'FI HKM'
+    name: Hankasalmi
+    namewodiacritics: Hankasalmi
+    subdiv: LS
+    function: '-23-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '6223N 02626E'
+    remarks: '@Sub'
+-
+    ch: ¦
+    locode: 'FI HKO'
+    name: 'Hanko (Hangö)'
+    namewodiacritics: 'Hanko (Hango)'
+    subdiv: '18'
+    function: 1-------
+    status: AI
+    date: '1307'
+    iata: ''
+    coordinates: ''
+    remarks: '@Sub@Sub'
+-
+    ch: ¦
+    locode: 'FI HRJ'
+    name: Harjavalta
+    namewodiacritics: Harjavalta
+    subdiv: LS
+    function: '--3-----'
+    status: AF
+    date: '1307'
+    iata: ''
+    coordinates: ''
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'FI HJM'
+    name: Harjumaa
+    namewodiacritics: Harjumaa
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '6149N 02703E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'FI HTL'
+    name: Hartola
+    namewodiacritics: Hartola
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '6109N 02631E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'FI HRT'
+    name: Hartola/Kymenlaakso
+    namewodiacritics: Hartola/Kymenlaakso
+    subdiv: ES
+    function: '--3-----'
+    status: RL
+    date: '1207'
+    iata: ''
+    coordinates: '6109N 02631E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'FI HTO'
+    name: Hartola/Paijat-Hame
+    namewodiacritics: Hartola/Paijat-Hame
+    subdiv: ES
+    function: '--3-----'
+    status: RL
+    date: '1207'
+    iata: ''
+    coordinates: '6135N 02601E'
+    remarks: ''
+-
+    ch: ¦
+    locode: 'FI HAR'
+    name: Harvaluoto
+    namewodiacritics: Harvaluoto
+    subdiv: AL
+    function: 1-------
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '6022N 02028E'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'FI HLJ'
+    name: Harviala
+    namewodiacritics: Harviala
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '6057N 02435E'
+    remarks: ''
+-
+    ch: ¦
+    locode: 'FI HHO'
+    name: Hauho
+    namewodiacritics: Hauho
+    subdiv: LS
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '6110N 02432E'
+    remarks: '@Sub'
+-
+    ch: ¦
+    locode: 'FI HAU'
+    name: Haukipudas
+    namewodiacritics: Haukipudas
+    subdiv: OL
+    function: 1-------
+    status: AF
+    date: '1307'
+    iata: ''
+    coordinates: ''
+    remarks: '@Sub'
+-
+    ch: ¦
+    locode: 'FI HAI'
+    name: Haukivuori
+    namewodiacritics: Haukivuori
+    subdiv: IS
+    function: '-----6--'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '6201N 02713E'
+    remarks: '@Sub'
+-
+    ch: ¦
+    locode: 'FI HJI'
+    name: Hausjärvi
+    namewodiacritics: Hausjarvi
+    subdiv: ES
+    function: '-23-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '6047N 02456E'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'FI HEI'
+    name: Heinavaara
+    namewodiacritics: Heinavaara
+    subdiv: IS
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '6233N 03010E'
+    remarks: ''
+-
+    ch: ¦
+    locode: 'FI HEA'
+    name: Heinola
+    namewodiacritics: Heinola
+    subdiv: ES
+    function: '--3-----'
+    status: AF
+    date: '1307'
+    iata: QVV
+    coordinates: '6112N 02602E'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'FI HEL'
+    name: 'Helsingfors (Helsinki)'
+    namewodiacritics: 'Helsingfors (Helsinki)'
+    subdiv: ES
+    function: 1-------
+    status: AI
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'FI HEL'
+    name: 'Helsinki (Helsingfors)'
+    namewodiacritics: 'Helsinki (Helsingfors)'
+    subdiv: ES
+    function: 1-------
+    status: AI
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ¦
+    locode: 'FI HVA'
+    name: Hervanta
+    namewodiacritics: Hervanta
+    subdiv: LS
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '6125N 02352E'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'FI HIT'
+    name: Hiitinen
+    namewodiacritics: Hiitinen
+    subdiv: ''
+    function: 1-------
+    status: RL
+    date: '1107'
+    iata: ''
+    coordinates: '5953N 02230E'
+    remarks: ''
+-
+    ch: ¦
+    locode: 'FI HIK'
+    name: Hikiä
+    namewodiacritics: Hikia
+    subdiv: ES
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '6045N 02455E'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'FI HIM'
+    name: Himanka
+    namewodiacritics: Himanka
+    subdiv: ''
+    function: 1-3-----
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '6404N 02339E'
+    remarks: ''
+-
+    ch: ¦
+    locode: 'FI HMA'
+    name: Himankakylä
+    namewodiacritics: Himankakyla
+    subdiv: LS
+    function: 1-3-----
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '6410N 02342E'
+    remarks: '@Sub'
+-
+    ch: ¦
+    locode: 'FI HIJ'
+    name: Hinnerjoki
+    namewodiacritics: Hinnerjoki
+    subdiv: LS
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '6059N 02157E'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'FI HVM'
+    name: Hirvensalmi
+    namewodiacritics: Hirvensalmi
+    subdiv: ''
+    function: 1-3-----
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '6138N 02648E'
+    remarks: ''
+-
+    ch: ¦
+    locode: 'FI HVH'
+    name: Hirvihaara
+    namewodiacritics: Hirvihaara
+    subdiv: ES
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '6037N 02514E'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'FI KRK'
+    name: 'Högfors (Karkkila)'
+    namewodiacritics: 'Hogfors (Karkkila)'
+    subdiv: ES
+    function: '--3-----'
+    status: AF
+    date: '9912'
+    iata: QVF
+    coordinates: ''
+    remarks: ''
+-
+    ch: ¦
+    locode: 'FI HOG'
+    name: Högsåra
+    namewodiacritics: Hogsara
+    subdiv: LS
+    function: 1-3-----
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '5957N 02222E'
+    remarks: '@Sub'
+-
+    ch: ¦
+    locode: 'FI HOJ'
+    name: Holjakka
+    namewodiacritics: Holjakka
+    subdiv: IS
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '6329N 02926E'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'FI HOL'
+    name: Hollola
+    namewodiacritics: Hollola
+    subdiv: ES
+    function: '--3-----'
+    status: AF
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'FI LSH'
+    name: Honkajoki
+    namewodiacritics: Honkajoki
+    subdiv: LS
+    function: '-----6--'
+    status: RL
+    date: '1107'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'FI HOU'
+    name: 'Houtskär (Houtskari)'
+    namewodiacritics: 'Houtskar (Houtskari)'
+    subdiv: LS
+    function: 1-------
+    status: AI
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'FI HOU'
+    name: 'Houtskari (Houtskär)'
+    namewodiacritics: 'Houtskari (Houtskar)'
+    subdiv: LS
+    function: 1-------
+    status: AI
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'FI HUN'
+    name: Huittinen
+    namewodiacritics: Huittinen
+    subdiv: LS
+    function: '--3-----'
+    status: AF
+    date: '0103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ¦
+    locode: 'FI HUM'
+    name: Humppila
+    namewodiacritics: Humppila
+    subdiv: ES
+    function: '-23--6--'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '6056N 02322E'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'FI HYR'
+    name: Hyrylä
+    namewodiacritics: Hyryla
+    subdiv: ES
+    function: '--3-----'
+    status: AF
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'FI HYV'
+    name: 'Hyvinge (Hyvinkää)'
+    namewodiacritics: 'Hyvinge (Hyvinkaa)'
+    subdiv: ES
+    function: '--3-----'
+    status: AF
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'FI HYV'
+    name: 'Hyvinkää (Hyvinge)'
+    namewodiacritics: 'Hyvinkaa (Hyvinge)'
+    subdiv: ES
+    function: '--3-----'
+    status: AF
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ¦
+    locode: 'FI IIS'
+    name: 'Idensalmi (Iisalmi)'
+    namewodiacritics: 'Idensalmi (Iisalmi)'
+    subdiv: IS
+    function: 123-----
+    status: AC
+    date: '1307'
+    iata: ''
+    coordinates: '6333N 02711E'
+    remarks: '@Sub@Sub'
+-
+    ch: ¦
+    locode: 'FI IIS'
+    name: 'Iisalmi (Idensalmi)'
+    namewodiacritics: 'Iisalmi (Idensalmi)'
+    subdiv: '15'
+    function: 123-----
+    status: AC
+    date: '1307'
+    iata: ''
+    coordinates: '6333N 02711E'
+    remarks: '@Sub@Sub'
+-
+    ch: ¦
+    locode: 'FI IIV'
+    name: Iisvesi
+    namewodiacritics: Iisvesi
+    subdiv: IS
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '6240N 02702E'
+    remarks: '@Sub'
+-
+    ch: ¦
+    locode: 'FI ITI'
+    name: Iitti
+    namewodiacritics: Iitti
+    subdiv: ES
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '6052N 02623E'
+    remarks: '@Sub'
+-
+    ch: ¦
+    locode: 'FI IKA'
+    name: 'Ikaalinen (Ikalis)'
+    namewodiacritics: 'Ikaalinen (Ikalis)'
+    subdiv: LS
+    function: '--3-----'
+    status: AF
+    date: '1307'
+    iata: ''
+    coordinates: '6146N 02304E'
+    remarks: '@Sub'
+-
+    ch: ¦
+    locode: 'FI IKK'
+    name: Ikkala
+    namewodiacritics: Ikkala
+    subdiv: ES
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '6029N 02407E'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'FI IJK'
+    name: Ilmajoki
+    namewodiacritics: Ilmajoki
+    subdiv: LS
+    function: '--3-----'
+    status: AF
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ¦
+    locode: 'FI ILO'
+    name: 'Ilomantsi (Ilomants)'
+    namewodiacritics: 'Ilomantsi (Ilomants)'
+    subdiv: LS
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '6240N 03056E'
+    remarks: '@Sub'
+-
+    ch: ¦
+    locode: 'FI ILV'
+    name: Ilvesjoki
+    namewodiacritics: Ilvesjoki
+    subdiv: LS
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '6220N 02243E'
+    remarks: '@Sub'
+-
+    ch: ¦
+    locode: 'FI IMA'
+    name: Imatra
+    namewodiacritics: Imatra
+    subdiv: ES
+    function: 123----B
+    status: AC
+    date: '1307'
+    iata: ''
+    coordinates: '6110N 02845E'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'FI INA'
+    name: Inari
+    namewodiacritics: Inari
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '6854N 02710E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'FI INK'
+    name: 'Ingå (Inkoo)'
+    namewodiacritics: 'Inga (Inkoo)'
+    subdiv: ES
+    function: 1-------
+    status: AI
+    date: '9910'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'FI IGY'
+    name: 'Ingermaninkylä (Ingermansby)'
+    namewodiacritics: 'Ingermaninkyla (Ingermansby)'
+    subdiv: ES
+    function: '--3-----'
+    status: RL
+    date: '0907'
+    iata: ''
+    coordinates: '6037N 02609E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'FI INI'
+    name: Iniö
+    namewodiacritics: Inio
+    subdiv: LS
+    function: 1-------
+    status: AF
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ¦
+    locode: 'FI IKR'
+    name: Inkeroinen
+    namewodiacritics: Inkeroinen
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '6042N 02651E'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'FI INK'
+    name: 'Inkoo (Ingå)'
+    namewodiacritics: 'Inkoo (Inga)'
+    subdiv: ES
+    function: 1-------
+    status: AI
+    date: '9910'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'FI ISN'
+    name: Isnäs
+    namewodiacritics: Isnas
+    subdiv: ES
+    function: 1-------
+    status: AF
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ¦
+    locode: 'FI ISO'
+    name: Isojoki
+    namewodiacritics: Isojoki
+    subdiv: LS
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '6207N 02158E'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'FI IVL'
+    name: Ivalo
+    namewodiacritics: Ivalo
+    subdiv: LL
+    function: '--34----'
+    status: AC
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ¦
+    locode: 'FI JLA'
+    name: Jaala
+    namewodiacritics: Jaala
+    subdiv: ES
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '6103N 02628E'
+    remarks: '@Sub'
+-
+    ch: ¦
+    locode: 'FI PRS'
+    name: 'Jakobstad (Pietarsaari)'
+    namewodiacritics: 'Jakobstad (Pietarsaari)'
+    subdiv: LS
+    function: 123-----
+    status: AI
+    date: '1307'
+    iata: ''
+    coordinates: '6341N 02247E'
+    remarks: '@Sub'
+-
+    ch: ¦
+    locode: 'FI JJV'
+    name: Jalasjärvi
+    namewodiacritics: Jalasjarvi
+    subdiv: LS
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '6230N 02245E'
+    remarks: '@Sub'
+-
+    ch: ¦
+    locode: 'FI JMV'
+    name: Jämijärvi
+    namewodiacritics: Jamijarvi
+    subdiv: LS
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '6149N 02242E'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'FI JMS'
+    name: Jämsä
+    namewodiacritics: Jamsa
+    subdiv: LS
+    function: '--3-----'
+    status: RL
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'FI JSK'
+    name: Jämsänkoski
+    namewodiacritics: Jamsankoski
+    subdiv: LS
+    function: '--3-----'
+    status: AF
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ¦
+    locode: 'FI JAN'
+    name: Janakkala
+    namewodiacritics: Janakkala
+    subdiv: ES
+    function: 1-------
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '6054N 02436E'
+    remarks: '@Sub'
+-
+    ch: ¦
+    locode: 'FI JAR'
+    name: Järvelä
+    namewodiacritics: Jarvela
+    subdiv: LL
+    function: '-----6--'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '6923N 02739E'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'FI JVP'
+    name: 'Järvenpää (Träskända)'
+    namewodiacritics: 'Jarvenpaa (Traskanda)'
+    subdiv: ES
+    function: '--3-----'
+    status: AF
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'FI JPA'
+    name: 'Jeppo (Jepua)'
+    namewodiacritics: 'Jeppo (Jepua)'
+    subdiv: LS
+    function: '--3-----'
+    status: AF
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'FI JPA'
+    name: 'Jepua (Jeppo)'
+    namewodiacritics: 'Jepua (Jeppo)'
+    subdiv: LS
+    function: '--3-----'
+    status: AF
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ¦
+    locode: 'FI JOE'
+    name: Joensuu
+    namewodiacritics: Joensuu
+    subdiv: IS
+    function: 1234----
+    status: AC
+    date: '1307'
+    iata: ''
+    coordinates: '6236N 02946E'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'FI JKA'
+    name: Jokela
+    namewodiacritics: Jokela
+    subdiv: IS
+    function: '--3-----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ¦
+    locode: 'FI JOK'
+    name: Jokioinen
+    namewodiacritics: Jokioinen
+    subdiv: ES
+    function: '-23-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '6049N 02327E'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'FI JOR'
+    name: Jormua
+    namewodiacritics: Jormua
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '6419N 02752E'
+    remarks: ''
+-
+    ch: ¦
+    locode: 'FI RVA'
+    name: Jorvas
+    namewodiacritics: Jorvas
+    subdiv: ES
+    function: '-23-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '6008N 02431E'
+    remarks: '@Sub'
+-
+    ch: ¦
+    locode: 'FI JSA'
+    name: Joutsa
+    namewodiacritics: Joutsa
+    subdiv: LS
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '6144N 02607E'
+    remarks: '@Sub'
+-
+    ch: ¦
+    locode: 'FI JOU'
+    name: Joutseno
+    namewodiacritics: Joutseno
+    subdiv: ES
+    function: 123-----
+    status: AF
+    date: '1307'
+    iata: ''
+    coordinates: '6106N 02829E'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'FI JKS'
+    name: Juankoski
+    namewodiacritics: Juankoski
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '6304N 02821E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'FI JRV'
+    name: Jurva
+    namewodiacritics: Jurva
+    subdiv: LS
+    function: '--3-----'
+    status: AF
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'FI JUS'
+    name: Jussaro
+    namewodiacritics: Jussaro
+    subdiv: ''
+    function: 1-------
+    status: RL
+    date: '1107'
+    iata: ''
+    coordinates: '5949N 02334E'
+    remarks: ''
+-
+    ch: ¦
+    locode: 'FI JUK'
+    name: Juuka
+    namewodiacritics: Juuka
+    subdiv: IS
+    function: 1----6--
+    status: RQ
+    date: '1307'
+    iata: ''
+    coordinates: '6314N 02915E'
+    remarks: '@Sub'
+-
+    ch: ¦
+    locode: 'FI JVA'
+    name: Juva
+    namewodiacritics: Juva
+    subdiv: IS
+    function: '--3-----'
+    status: RQ
+    date: '1307'
+    iata: ''
+    coordinates: '6153N 02751E'
+    remarks: '@Sub'
+-
+    ch: ¦
+    locode: 'FI JYK'
+    name: Jyskä
+    namewodiacritics: Jyska
+    subdiv: LS
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '6214N 02550E'
+    remarks: '@Sub'
+-
+    ch: ¦
+    locode: 'FI JYV'
+    name: Jyväskylä
+    namewodiacritics: Jyvaskyla
+    subdiv: LS
+    function: 1234----
+    status: AC
+    date: '1307'
+    iata: ''
+    coordinates: '6215N 02544E'
+    remarks: '@Sub'
+-
+    ch: ¦
+    locode: 'FI KRV'
+    name: Kaaresuvanto
+    namewodiacritics: Kaaresuvanto
+    subdiv: LL
+    function: '--3----B'
+    status: AC
+    date: '1307'
+    iata: ''
+    coordinates: '6827N 02230E'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'FI KAA'
+    name: 'Kaarina (Sankt Karins)'
+    namewodiacritics: 'Kaarina (Sankt Karins)'
+    subdiv: LS
+    function: '--3-----'
+    status: AF
+    date: '1207'
+    iata: ''
+    coordinates: '6025N 02225E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'FI KPN'
+    name: Kaipiainen
+    namewodiacritics: Kaipiainen
+    subdiv: ''
+    function: '-23-----'
+    status: RL
+    date: '0201'
+    iata: ''
+    coordinates: '6054N 02707E'
+    remarks: ''
+-
+    ch: ¦
+    locode: 'FI KPL'
+    name: Kaipola
+    namewodiacritics: Kaipola
+    subdiv: LS
+    function: 123-----
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '6149N 02513E'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'FI KAJ'
+    name: 'Kajaani (Kajana)'
+    namewodiacritics: 'Kajaani (Kajana)'
+    subdiv: OL
+    function: '-234----'
+    status: AC
+    date: '9910'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'FI KAJ'
+    name: 'Kajana (Kajaani)'
+    namewodiacritics: 'Kajana (Kajaani)'
+    subdiv: OL
+    function: '-234----'
+    status: AC
+    date: '9910'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'FI KJO'
+    name: Kalajoki
+    namewodiacritics: Kalajoki
+    subdiv: OL
+    function: 1-------
+    status: AF
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ¦
+    locode: 'FI KLT'
+    name: Kalanti
+    namewodiacritics: Kalanti
+    subdiv: LS
+    function: '-23-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '6049N 02134E'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'FI KAL'
+    name: 'Kalkkiranta (Kalkstrand)'
+    namewodiacritics: 'Kalkkiranta (Kalkstrand)'
+    subdiv: ES
+    function: '--3-----'
+    status: RL
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'FI KAL'
+    name: 'Kalkstrand (Kalkkiranta)'
+    namewodiacritics: 'Kalkstrand (Kalkkiranta)'
+    subdiv: ES
+    function: '--3-----'
+    status: RL
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ¦
+    locode: 'FI KBY'
+    name: 'Kållby (Kolppi)'
+    namewodiacritics: 'Kallby (Kolppi)'
+    subdiv: LS
+    function: '-23-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '6337N 02252E'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'FI KLV'
+    name: Kallviken
+    namewodiacritics: Kallviken
+    subdiv: ''
+    function: 1-------
+    status: RL
+    date: '1107'
+    iata: ''
+    coordinates: '6022N 02627E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'FI KSA'
+    name: Kangasala
+    namewodiacritics: Kangasala
+    subdiv: LS
+    function: '--3-----'
+    status: RL
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'FI KGI'
+    name: Kangasniemi
+    namewodiacritics: Kangasniemi
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '6159N 02638E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'FI KNP'
+    name: Kankaanpää
+    namewodiacritics: Kankaanpaa
+    subdiv: LS
+    function: '-23-----'
+    status: AC
+    date: '9910'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'FI KNN'
+    name: Kannonkoski
+    namewodiacritics: Kannonkoski
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '6258N 02515E'
+    remarks: ''
+-
+    ch: ¦
+    locode: 'FI KNS'
+    name: Kannus
+    namewodiacritics: Kannus
+    subdiv: LS
+    function: '--3-----'
+    status: AF
+    date: '1307'
+    iata: ''
+    coordinates: '6354N 02355E'
+    remarks: '@Sub'
+-
+    ch: ¦
+    locode: 'FI KAN'
+    name: 'Kantlax (Kaitalahti)'
+    namewodiacritics: 'Kantlax (Kaitalahti)'
+    subdiv: LS
+    function: 1-3-----
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '6145N 02343E'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'FI KNT'
+    name: Kantvik
+    namewodiacritics: Kantvik
+    subdiv: ES
+    function: 1-------
+    status: AF
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'FI KUL'
+    name: Karhula
+    namewodiacritics: Karhula
+    subdiv: ES
+    function: '--3-----'
+    status: AF
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'FI KAI'
+    name: Karigasniemi
+    namewodiacritics: Karigasniemi
+    subdiv: LL
+    function: '--3----B'
+    status: AC
+    date: '9910'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'FI KJA'
+    name: 'Karis (Karjaa)'
+    namewodiacritics: 'Karis (Karjaa)'
+    subdiv: ES
+    function: '--3-----'
+    status: AF
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'FI KJA'
+    name: 'Karjaa (Karis)'
+    namewodiacritics: 'Karjaa (Karis)'
+    subdiv: ES
+    function: '--3-----'
+    status: AF
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'FI KRK'
+    name: 'Karkkila (Högfors)'
+    namewodiacritics: 'Karkkila (Hogfors)'
+    subdiv: ES
+    function: '--3-----'
+    status: AF
+    date: '9912'
+    iata: QVF
+    coordinates: ''
+    remarks: ''
+-
+    ch: ¦
+    locode: 'FI KOK'
+    name: 'Karleby (Kokkola)'
+    namewodiacritics: 'Karleby (Kokkola)'
+    subdiv: '07'
+    function: 123-----
+    status: AI
+    date: '1307'
+    iata: ''
+    coordinates: '6350N 02307E'
+    remarks: '@Sub@Sub'
+-
+    ch: ''
+    locode: 'FI KSK'
+    name: Kärsämäki
+    namewodiacritics: Karsamaki
+    subdiv: OL
+    function: '--3-----'
+    status: AF
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ¦
+    locode: 'FI KAR'
+    name: Karstula
+    namewodiacritics: Karstula
+    subdiv: LS
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '6253N 02447E'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'FI KR2'
+    name: Karvala
+    namewodiacritics: Karvala
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '6308N 02333E'
+    remarks: ''
+-
+    ch: ¦
+    locode: 'FI KAV'
+    name: Karvio
+    namewodiacritics: Karvio
+    subdiv: IS
+    function: '--3-----'
+    status: RQ
+    date: '1307'
+    iata: ''
+    coordinates: '6230N 02839E'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'FI KAS'
+    name: 'Kaskinen (Kaskö)'
+    namewodiacritics: 'Kaskinen (Kasko)'
+    subdiv: LS
+    function: 1-------
+    status: AI
+    date: '9910'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'FI KAS'
+    name: 'Kaskö (Kaskinen)'
+    namewodiacritics: 'Kasko (Kaskinen)'
+    subdiv: LS
+    function: 1-------
+    status: AI
+    date: '9910'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'FI KHJ'
+    name: Kauhajoki
+    namewodiacritics: Kauhajoki
+    subdiv: LS
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'FI KAU'
+    name: Kauhava
+    namewodiacritics: Kauhava
+    subdiv: LS
+    function: '---4----'
+    status: AF
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: '='
+    locode: FI
+    name: 'Kaukopää = Imatra'
+    namewodiacritics: 'Kaukopaa = Imatra'
+    subdiv: ''
+    function: ''
+    status: ''
+    date: ''
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ¦
+    locode: 'FI KIN'
+    name: 'Kauniainen (Grankulla)'
+    namewodiacritics: 'Kauniainen (Grankulla)'
+    subdiv: '18'
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: ''
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'FI KSL'
+    name: Kausala
+    namewodiacritics: Kausala
+    subdiv: ES
+    function: '--3-----'
+    status: RL
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ¦
+    locode: 'FI KST'
+    name: 'Kaustinen (Kaustby)'
+    namewodiacritics: 'Kaustinen (Kaustby)'
+    subdiv: LS
+    function: '--3-----'
+    status: RQ
+    date: '1307'
+    iata: ''
+    coordinates: '6332N 02341E'
+    remarks: '@Sub'
+-
+    ch: ¦
+    locode: 'FI UTT'
+    name: Kauttua
+    namewodiacritics: Kauttua
+    subdiv: LS
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '6107N 02206E'
+    remarks: '@Sub'
+-
+    ch: ¦
+    locode: 'FI KUV'
+    name: Kauvatsa
+    namewodiacritics: Kauvatsa
+    subdiv: LS
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '6120N 02230E'
+    remarks: '@Sub'
+-
+    ch: ¦
+    locode: 'FI KEI'
+    name: Keikyä
+    namewodiacritics: Keikya
+    subdiv: LS
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '6116N 02242E'
+    remarks: '@Sub'
+-
+    ch: ¦
+    locode: 'FI KIE'
+    name: Keitele
+    namewodiacritics: Keitele
+    subdiv: IS
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '6311N 02622E'
+    remarks: '@Sub'
+-
+    ch: ¦
+    locode: 'FI KEM'
+    name: 'Kemi/Torneå (Kemi/Tornio)'
+    namewodiacritics: 'Kemi/Tornea (Kemi/Tornio)'
+    subdiv: LL
+    function: 1-34----
+    status: AI
+    date: '1307'
+    iata: ''
+    coordinates: '6544N 02434E'
+    remarks: '@Sub@Sub'
+-
+    ch: ¦
+    locode: 'FI KEM'
+    name: 'Kemi/Tornio (Kemi/Torneå)'
+    namewodiacritics: 'Kemi/Tornio (Kemi/Tornea)'
+    subdiv: '10'
+    function: 1-34----
+    status: AI
+    date: '1307'
+    iata: ''
+    coordinates: '6544N 02434E'
+    remarks: '@Sub@Sub'
+-
+    ch: ''
+    locode: 'FI KJI'
+    name: Kemijärvi
+    namewodiacritics: Kemijarvi
+    subdiv: LL
+    function: '--3-----'
+    status: AF
+    date: '0103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ¦
+    locode: 'FI KMM'
+    name: Keminmaa
+    namewodiacritics: Keminmaa
+    subdiv: LL
+    function: '--3-----'
+    status: RQ
+    date: '1307'
+    iata: ''
+    coordinates: '6548N 02432E'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'FI KIM'
+    name: 'Kemiö (Kimito)'
+    namewodiacritics: 'Kemio (Kimito)'
+    subdiv: LS
+    function: 1-------
+    status: AI
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ¦
+    locode: 'FI KLE'
+    name: Kempele
+    namewodiacritics: Kempele
+    subdiv: OL
+    function: '-23-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '6455N 02529E'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'FI KER'
+    name: 'Kerava (Kervo)'
+    namewodiacritics: 'Kerava (Kervo)'
+    subdiv: ES
+    function: '--3-----'
+    status: AF
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'FI KER'
+    name: 'Kervo (Kerava)'
+    namewodiacritics: 'Kervo (Kerava)'
+    subdiv: ES
+    function: '--3-----'
+    status: AF
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ¦
+    locode: 'FI KES'
+    name: Kesälahti
+    namewodiacritics: Kesalahti
+    subdiv: IS
+    function: 123-----
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '6153N 02950E'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'FI KEU'
+    name: Keuruu
+    namewodiacritics: Keuruu
+    subdiv: LS
+    function: '--3-----'
+    status: AF
+    date: '0103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ¦
+    locode: 'FI KIH'
+    name: Kihniö
+    namewodiacritics: Kihnio
+    subdiv: LS
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '6211N 02310E'
+    remarks: '@Sub'
+-
+    ch: ¦
+    locode: 'FI FAE'
+    name: Kiikala
+    namewodiacritics: Kiikala
+    subdiv: LS
+    function: '-----6--'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '6028N 02334E'
+    remarks: '@Sub'
+-
+    ch: ¦
+    locode: 'FI KNK'
+    name: Killinkoski
+    namewodiacritics: Killinkoski
+    subdiv: LS
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '6224N 02353E'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'FI SKV'
+    name: 'Kilpilahti (Sköldvik)'
+    namewodiacritics: 'Kilpilahti (Skoldvik)'
+    subdiv: ES
+    function: 1-------
+    status: AI
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'FI KIL'
+    name: Kilpisjärvi
+    namewodiacritics: Kilpisjarvi
+    subdiv: LL
+    function: '--3----B'
+    status: AC
+    date: '9910'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'FI KIM'
+    name: 'Kimito (Kemiö)'
+    namewodiacritics: 'Kimito (Kemio)'
+    subdiv: LS
+    function: 1-------
+    status: AI
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ¦
+    locode: 'FI FAF'
+    name: Kintaus
+    namewodiacritics: Kintaus
+    subdiv: LS
+    function: '-----6--'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '6216N 02519E'
+    remarks: '@Sub'
+-
+    ch: ¦
+    locode: 'FI KIJ'
+    name: Kirjala
+    namewodiacritics: Kirjala
+    subdiv: LS
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '6022N 02222E'
+    remarks: '@Sub'
+-
+    ch: ¦
+    locode: 'FI KKI'
+    name: Kirkkonummi
+    namewodiacritics: Kirkkonummi
+    subdiv: ES
+    function: '--3-----'
+    status: AF
+    date: '1307'
+    iata: ''
+    coordinates: '6007N 02426E'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'FI KIR'
+    name: Kirkniemi
+    namewodiacritics: Kirkniemi
+    subdiv: ES
+    function: 1-3-----
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ¦
+    locode: 'FI KTQ'
+    name: Kitee
+    namewodiacritics: Kitee
+    subdiv: IS
+    function: 1--4----
+    status: AF
+    date: '1307'
+    iata: ''
+    coordinates: '6206N 03007E'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'FI KTT'
+    name: Kittilä
+    namewodiacritics: Kittila
+    subdiv: LL
+    function: '---4----'
+    status: AF
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'FI KVI'
+    name: Kiuruvesi
+    namewodiacritics: Kiuruvesi
+    subdiv: IS
+    function: '--3-----'
+    status: AF
+    date: '0103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'FI KIV'
+    name: Kivilompolo
+    namewodiacritics: Kivilompolo
+    subdiv: LL
+    function: '--3----B'
+    status: AC
+    date: '9910'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ¦
+    locode: 'FI KLA'
+    name: Klamila
+    namewodiacritics: Klamila
+    subdiv: ES
+    function: 1-3-----
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '6031N 02728E'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'FI KLU'
+    name: Klaukkala
+    namewodiacritics: Klaukkala
+    subdiv: ES
+    function: '--3-----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ¦
+    locode: 'FI KVL'
+    name: Koivulahti
+    namewodiacritics: Koivulahti
+    subdiv: IS
+    function: '-----6--'
+    status: RQ
+    date: '1307'
+    iata: ''
+    coordinates: '6302N 02647E'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'FI KOJ'
+    name: Kojonkulma
+    namewodiacritics: Kojonkulma
+    subdiv: LS
+    function: 1-------
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ¦
+    locode: 'FI KKR'
+    name: Kökar
+    namewodiacritics: Kokar
+    subdiv: AL
+    function: 1-------
+    status: AF
+    date: '1307'
+    iata: ''
+    coordinates: '5956N 02053E'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'FI KMI'
+    name: Kokemäki
+    namewodiacritics: Kokemaki
+    subdiv: LS
+    function: '--3-----'
+    status: AF
+    date: '0103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ¦
+    locode: 'FI KOK'
+    name: 'Kokkola (Karleby)'
+    namewodiacritics: 'Kokkola (Karleby)'
+    subdiv: LS
+    function: 123-----
+    status: AI
+    date: '1307'
+    iata: ''
+    coordinates: '6350N 02307E'
+    remarks: '@Sub@Sub'
+-
+    ch: ''
+    locode: 'FI KLI'
+    name: Kolari
+    namewodiacritics: Kolari
+    subdiv: LL
+    function: '--3----B'
+    status: AC
+    date: '9910'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ¦
+    locode: 'FI KLH'
+    name: Kolho
+    namewodiacritics: Kolho
+    subdiv: LS
+    function: '-23-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '6208N 02431E'
+    remarks: '@Sub'
+-
+    ch: ¦
+    locode: 'FI KMU'
+    name: Kormu
+    namewodiacritics: Kormu
+    subdiv: ES
+    function: '--3-----'
+    status: RQ
+    date: '1307'
+    iata: ''
+    coordinates: '6044N 02439E'
+    remarks: '@Sub'
+-
+    ch: ¦
+    locode: 'FI KPH'
+    name: 'Korpilahti (Korplax)'
+    namewodiacritics: 'Korpilahti (Korplax)'
+    subdiv: LS
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '6352N 02314E'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'FI KOR'
+    name: 'Korpo (Korppoo)'
+    namewodiacritics: 'Korpo (Korppoo)'
+    subdiv: LS
+    function: 1-------
+    status: AI
+    date: '9910'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'FI KOR'
+    name: 'Korppoo (Korpo)'
+    namewodiacritics: 'Korppoo (Korpo)'
+    subdiv: LS
+    function: 1-------
+    status: AI
+    date: '9910'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ¦
+    locode: 'FI KHO'
+    name: Korsholm/Mustasaari
+    namewodiacritics: Korsholm/Mustasaari
+    subdiv: LS
+    function: '--3-----'
+    status: RQ
+    date: '1307'
+    iata: ''
+    coordinates: '6307N 02143E'
+    remarks: '@Sub'
+-
+    ch: ¦
+    locode: 'FI KKV'
+    name: Koskenkorva
+    namewodiacritics: Koskenkorva
+    subdiv: LS
+    function: 1----6--
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '6241N 02228E'
+    remarks: '@Sub'
+-
+    ch: ¦
+    locode: 'FI KKP'
+    name: Koskenpää
+    namewodiacritics: Koskenpaa
+    subdiv: LS
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '6205N 02509E'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'FI KTK'
+    name: Kotka
+    namewodiacritics: Kotka
+    subdiv: ES
+    function: 123----B
+    status: AC
+    date: '9910'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'FI KVO'
+    name: Kouvola
+    namewodiacritics: Kouvola
+    subdiv: ES
+    function: '-23-----'
+    status: AC
+    date: '9910'
+    iata: UTI
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'FI KVH'
+    name: 'Koverhaara (Koverhar)'
+    namewodiacritics: 'Koverhaara (Koverhar)'
+    subdiv: ES
+    function: 1-------
+    status: AI
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'FI KVH'
+    name: 'Koverhar (Koverhaara)'
+    namewodiacritics: 'Koverhar (Koverhaara)'
+    subdiv: ES
+    function: 1-------
+    status: AI
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'FI KYO'
+    name: Koylio
+    namewodiacritics: Koylio
+    subdiv: LS
+    function: '--3-----'
+    status: RL
+    date: '1207'
+    iata: ''
+    coordinates: '6107N 02221E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'FI KRS'
+    name: 'Kristiinankaupunki (Kristinestad)'
+    namewodiacritics: 'Kristiinankaupunki (Kristinestad)'
+    subdiv: LS
+    function: 1-------
+    status: AI
+    date: '9910'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'FI KRS'
+    name: 'Kristinestad (Kristiinankaupunki)'
+    namewodiacritics: 'Kristinestad (Kristiinankaupunki)'
+    subdiv: LS
+    function: 1-------
+    status: AI
+    date: '9910'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'FI KRO'
+    name: Kronvik
+    namewodiacritics: Kronvik
+    subdiv: LS
+    function: 1-------
+    status: AF
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'FI KUH'
+    name: Kuhmo
+    namewodiacritics: Kuhmo
+    subdiv: OL
+    function: '--3-----'
+    status: AF
+    date: '0103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ¦
+    locode: 'FI SPJ'
+    name: Kuivasalmi
+    namewodiacritics: Kuivasalmi
+    subdiv: IS
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '6317N 02950E'
+    remarks: '@Sub'
+-
+    ch: ¦
+    locode: 'FI KLO'
+    name: 'Kulloo (Kullo)'
+    namewodiacritics: 'Kulloo (Kullo)'
+    subdiv: ES
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '6021N 02530E'
+    remarks: '@Sub'
+-
+    ch: ¦
+    locode: 'FI KUM'
+    name: Kumlinge
+    namewodiacritics: Kumlinge
+    subdiv: AL
+    function: 1-------
+    status: AF
+    date: '1307'
+    iata: ''
+    coordinates: '6016N 02047E'
+    remarks: '@Sub'
+-
+    ch: ¦
+    locode: 'FI KUO'
+    name: Kuopio
+    namewodiacritics: Kuopio
+    subdiv: IS
+    function: 1234----
+    status: AC
+    date: '1307'
+    iata: ''
+    coordinates: '6253N 02741E'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'FI KEV'
+    name: Kuorevesi
+    namewodiacritics: Kuorevesi
+    subdiv: LS
+    function: '---4----'
+    status: AI
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'FI KRT'
+    name: Kuortane
+    namewodiacritics: Kuortane
+    subdiv: LS
+    function: '--3-----'
+    status: AF
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'FI KJK'
+    name: Kurejoki
+    namewodiacritics: Kurejoki
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '6300N 02345E'
+    remarks: ''
+-
+    ch: ¦
+    locode: 'FI KKA'
+    name: Kurikka
+    namewodiacritics: Kurikka
+    subdiv: LS
+    function: '--3-----'
+    status: RQ
+    date: '1307'
+    iata: ''
+    coordinates: '6237N 02225E'
+    remarks: '@Sub'
+-
+    ch: ¦
+    locode: 'FI KUR'
+    name: Kuru
+    namewodiacritics: Kuru
+    subdiv: LS
+    function: 1-3-----
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '6152N 02344E'
+    remarks: '@Sub'
+-
+    ch: ¦
+    locode: 'FI KUS'
+    name: 'Kustavi (Gustavs)'
+    namewodiacritics: 'Kustavi (Gustavs)'
+    subdiv: '19'
+    function: 1-------
+    status: AI
+    date: '1307'
+    iata: ''
+    coordinates: ''
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'FI KAO'
+    name: Kuusamo
+    namewodiacritics: Kuusamo
+    subdiv: OL
+    function: '--34---B'
+    status: AC
+    date: '9910'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'FI KSI'
+    name: Kuusankoski
+    namewodiacritics: Kuusankoski
+    subdiv: ES
+    function: '--3-----'
+    status: AF
+    date: '0103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'FI KYP'
+    name: Kylanpää
+    namewodiacritics: Kylanpaa
+    subdiv: LS
+    function: '--3--6--'
+    status: RL
+    date: '0601'
+    iata: ''
+    coordinates: '6254N 02205E'
+    remarks: ''
+-
+    ch: +
+    locode: 'FI KYL'
+    name: Kylmäkoski
+    namewodiacritics: Kylmakoski
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '6110N 02341E'
+    remarks: ''
+-
+    ch: ¦
+    locode: 'FI KMS'
+    name: Kymenlaakso
+    namewodiacritics: Kymenlaakso
+    subdiv: ES
+    function: '-----6--'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '6030N 02700E'
+    remarks: '@Sub'
+-
+    ch: ¦
+    locode: 'FI YRO'
+    name: Kyro
+    namewodiacritics: Kyro
+    subdiv: LS
+    function: '-----6--'
+    status: RQ
+    date: '1307'
+    iata: ''
+    coordinates: '6042N 02245E'
+    remarks: '@Sub'
+-
+    ch: ¦
+    locode: 'FI KKO'
+    name: Kyröskoski
+    namewodiacritics: Kyroskoski
+    subdiv: LS
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '6140N 02311E'
+    remarks: '@Sub'
+-
+    ch: ¦
+    locode: 'FI LAA'
+    name: Laajasalo
+    namewodiacritics: Laajasalo
+    subdiv: ES
+    function: '--3-----'
+    status: RQ
+    date: '1307'
+    iata: ''
+    coordinates: '6010N 02502E'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'FI LHI'
+    name: 'Lahti (Lahtis)'
+    namewodiacritics: 'Lahti (Lahtis)'
+    subdiv: ES
+    function: '-23-----'
+    status: AC
+    date: '9910'
+    iata: QLF
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'FI LHI'
+    name: 'Lahtis (Lahti)'
+    namewodiacritics: 'Lahtis (Lahti)'
+    subdiv: ES
+    function: '-23-----'
+    status: AC
+    date: '9910'
+    iata: QLF
+    coordinates: ''
+    remarks: ''
+-
+    ch: ¦
+    locode: 'FI LAI'
+    name: Laitila
+    namewodiacritics: Laitila
+    subdiv: LS
+    function: '--3-----'
+    status: AF
+    date: '1307'
+    iata: ''
+    coordinates: '6052N 04140E'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'FI LAK'
+    name: Lakulahti
+    namewodiacritics: Lakulahti
+    subdiv: ''
+    function: 1-------
+    status: RL
+    date: '1107'
+    iata: ''
+    coordinates: '6031N 02710E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'FI LAM'
+    name: Lammi
+    namewodiacritics: Lammi
+    subdiv: ES
+    function: '--3-----'
+    status: RL
+    date: '0201'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ¦
+    locode: 'FI LMI'
+    name: Längelmäki
+    namewodiacritics: Langelmaki
+    subdiv: LS
+    function: '-23-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '6141N 02441E'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'FI LAN'
+    name: Långnäs
+    namewodiacritics: Langnas
+    subdiv: AL
+    function: 1------B
+    status: AC
+    date: '9910'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ¦
+    locode: 'FI LLO'
+    name: Lapaluoto
+    namewodiacritics: Lapaluoto
+    subdiv: OL
+    function: 1-3-----
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '6440N 02426E'
+    remarks: '@Sub'
+-
+    ch: ¦
+    locode: 'FI LLA'
+    name: Lapinlahti
+    namewodiacritics: Lapinlahti
+    subdiv: IS
+    function: '-23-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '6322N 02724E'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'FI LPJ'
+    name: Lappajärvi
+    namewodiacritics: Lappajarvi
+    subdiv: ''
+    function: 1-------
+    status: RL
+    date: '1107'
+    iata: ''
+    coordinates: '6312N 02338E'
+    remarks: ''
+-
+    ch: ¦
+    locode: 'FI LPP'
+    name: 'Lappeenranta (Villmanstrand)'
+    namewodiacritics: 'Lappeenranta (Villmanstrand)'
+    subdiv: ES
+    function: 1234---B
+    status: AC
+    date: '1307'
+    iata: ''
+    coordinates: '6103N 02811E'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'FI LPI'
+    name: Lappi
+    namewodiacritics: Lappi
+    subdiv: LS
+    function: '--3-----'
+    status: AF
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'FI LAP'
+    name: 'Lappohja (Lappvik)'
+    namewodiacritics: 'Lappohja (Lappvik)'
+    subdiv: ES
+    function: 1-------
+    status: AI
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'FI LAP'
+    name: 'Lappvik (Lappohja)'
+    namewodiacritics: 'Lappvik (Lappohja)'
+    subdiv: ES
+    function: 1-------
+    status: AI
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ¦
+    locode: 'FI LPA'
+    name: 'Lapua (Lappo)'
+    namewodiacritics: 'Lapua (Lappo)'
+    subdiv: LS
+    function: '--3-----'
+    status: AF
+    date: '1307'
+    iata: ''
+    coordinates: '6258N 02303E'
+    remarks: '@Sub'
+-
+    ch: ¦
+    locode: 'FI LTT'
+    name: Lapväärtti
+    namewodiacritics: Lapvaartti
+    subdiv: LS
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '6215N 02132E'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'FI LAR'
+    name: Larsmo
+    namewodiacritics: Larsmo
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '6345N 02248E'
+    remarks: ''
+-
+    ch: ¦
+    locode: 'FI LAU'
+    name: Lauhala
+    namewodiacritics: Lauhala
+    subdiv: LS
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '6205N 02215E'
+    remarks: '@Sub'
+-
+    ch: ¦
+    locode: 'FI LUK'
+    name: Laukaa
+    namewodiacritics: Laukaa
+    subdiv: LS
+    function: 123--6--
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '6225N 02557E'
+    remarks: '@Sub'
+-
+    ch: ¦
+    locode: 'FI LKO'
+    name: Laukkoski
+    namewodiacritics: Laukkoski
+    subdiv: ES
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '6027N 02523E'
+    remarks: '@Sub'
+-
+    ch: ¦
+    locode: 'FI AAI'
+    name: Lautiosaari
+    namewodiacritics: Lautiosaari
+    subdiv: LL
+    function: '-----6--'
+    status: RQ
+    date: '1307'
+    iata: ''
+    coordinates: '6548N 24350E'
+    remarks: '@Sub'
+-
+    ch: ¦
+    locode: 'FI LHT'
+    name: Lehtimäki
+    namewodiacritics: Lehtimaki
+    subdiv: LS
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '6247N 02355E'
+    remarks: '@Sub'
+-
+    ch: ¦
+    locode: 'FI LEI'
+    name: Leivonmäki
+    namewodiacritics: Leivonmaki
+    subdiv: LS
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '6155N 02607E'
+    remarks: '@Sub'
+-
+    ch: ¦
+    locode: 'FI LPL'
+    name: Lempäälä
+    namewodiacritics: Lempaala
+    subdiv: LS
+    function: '--3-----'
+    status: AF
+    date: '1307'
+    iata: ''
+    coordinates: '6119N 02345E'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'FI LPV'
+    name: Leppävirta
+    namewodiacritics: Leppavirta
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '6229N 02747E'
+    remarks: ''
+-
+    ch: ¦
+    locode: 'FI FAG'
+    name: Lestijärvi
+    namewodiacritics: Lestijarvi
+    subdiv: LS
+    function: '-----6--'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '6232N 02439E'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'FI LIK'
+    name: Lieksa
+    namewodiacritics: Lieksa
+    subdiv: IS
+    function: '--3-----'
+    status: AF
+    date: '0103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ¦
+    locode: 'FI LLX'
+    name: Lielax
+    namewodiacritics: Lielax
+    subdiv: LS
+    function: 1-------
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '6019N 02224E'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'FI LEO'
+    name: Lieto
+    namewodiacritics: Lieto
+    subdiv: LS
+    function: '--3-----'
+    status: RL
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'FI LLJ'
+    name: Liljendal
+    namewodiacritics: Liljendal
+    subdiv: ES
+    function: '--3-----'
+    status: RL
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'FI LSK'
+    name: Lindkoski
+    namewodiacritics: Lindkoski
+    subdiv: ES
+    function: 1----6--
+    status: RL
+    date: '1107'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ¦
+    locode: 'FI LVU'
+    name: Linnavuori
+    namewodiacritics: Linnavuori
+    subdiv: LS
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '6130N 02322E'
+    remarks: '@Sub'
+-
+    ch: ¦
+    locode: 'FI LON'
+    name: Littoinen
+    namewodiacritics: Littoinen
+    subdiv: LS
+    function: '-23-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '6026N 02224E'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'FI LHJ'
+    name: 'Lohja (Lojo)'
+    namewodiacritics: 'Lohja (Lojo)'
+    subdiv: ES
+    function: '--3-----'
+    status: AF
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'FI LMA'
+    name: Loimaa
+    namewodiacritics: Loimaa
+    subdiv: LS
+    function: '--3-----'
+    status: AF
+    date: '0103'
+    iata: QZJ
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'FI LHJ'
+    name: 'Lojo (Lohja)'
+    namewodiacritics: 'Lojo (Lohja)'
+    subdiv: ES
+    function: '--3-----'
+    status: AF
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'FI LOV'
+    name: 'Loviisa (Lovisa)'
+    namewodiacritics: 'Loviisa (Lovisa)'
+    subdiv: ES
+    function: 1-------
+    status: AI
+    date: '9910'
+    iata: QKI
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'FI LOV'
+    name: 'Lovisa (Loviisa)'
+    namewodiacritics: 'Lovisa (Loviisa)'
+    subdiv: ES
+    function: 1-------
+    status: AI
+    date: '9910'
+    iata: QKI
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'FI LHK'
+    name: Luhtajoki
+    namewodiacritics: Luhtajoki
+    subdiv: ES
+    function: '--3-----'
+    status: AF
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'FI LUI'
+    name: Luikonlahti
+    namewodiacritics: Luikonlahti
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '6255N 02839E'
+    remarks: ''
+-
+    ch: ¦
+    locode: 'FI UHI'
+    name: Luoma-aho
+    namewodiacritics: Luoma-aho
+    subdiv: LS
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '6305N 02351E'
+    remarks: '@Sub'
+-
+    ch: ¦
+    locode: 'FI LUA'
+    name: Luumäki
+    namewodiacritics: Luumaki
+    subdiv: ES
+    function: 123-----
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '6055N 02740E'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'FI LUV'
+    name: Luvia
+    namewodiacritics: Luvia
+    subdiv: LS
+    function: 1-------
+    status: AF
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ¦
+    locode: 'FI MLX'
+    name: 'Maalahti (Malax)'
+    namewodiacritics: 'Maalahti (Malax)'
+    subdiv: '12'
+    function: '--3--6--'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '6256N 02134E'
+    remarks: '@Sub@Sub'
+-
+    ch: ¦
+    locode: 'FI MAA'
+    name: Maaninka
+    namewodiacritics: Maaninka
+    subdiv: IS
+    function: 1-3-----
+    status: AF
+    date: '1307'
+    iata: ''
+    coordinates: '6309N 02718E'
+    remarks: '@Sub'
+-
+    ch: ¦
+    locode: 'FI MTA'
+    name: Maantiekylä
+    namewodiacritics: Maantiekyla
+    subdiv: ES
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '6020N 02500E'
+    remarks: '@Sub'
+-
+    ch: ¦
+    locode: 'FI MHQ'
+    name: 'Maarianhamina (Mariehamn)'
+    namewodiacritics: 'Maarianhamina (Mariehamn)'
+    subdiv: AL
+    function: 1--4----
+    status: AI
+    date: '1307'
+    iata: ''
+    coordinates: '6006N 01957E'
+    remarks: '@Sub@Sub'
+-
+    ch: ''
+    locode: 'FI MAK'
+    name: Mäkelä
+    namewodiacritics: Makela
+    subdiv: AL
+    function: '--3-----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ¦
+    locode: 'FI MAX'
+    name: 'Maksamaa (Maxmo)'
+    namewodiacritics: 'Maksamaa (Maxmo)'
+    subdiv: LS
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '6312N 02202E'
+    remarks: '@Sub@Sub'
+-
+    ch: ¦
+    locode: 'FI MLX'
+    name: 'Malax (Maalahti)'
+    namewodiacritics: 'Malax (Maalahti)'
+    subdiv: LS
+    function: '--3--6--'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '6256N 02134E'
+    remarks: '@Sub@Sub'
+-
+    ch: +
+    locode: 'FI MMG'
+    name: Malmgård
+    namewodiacritics: Malmgard
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '6033N 02557E'
+    remarks: ''
+-
+    ch: ¦
+    locode: 'FI MMI'
+    name: Malmi
+    namewodiacritics: Malmi
+    subdiv: ES
+    function: '-23-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '6015N 02500E'
+    remarks: '@Sub'
+-
+    ch: ¦
+    locode: 'FI MNT'
+    name: Mäntsälä
+    namewodiacritics: Mantsala
+    subdiv: ES
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '6038N 02519E'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'FI MAN'
+    name: Mänttä
+    namewodiacritics: Mantta
+    subdiv: LS
+    function: '--3-----'
+    status: AF
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ¦
+    locode: 'FI MHU'
+    name: Mäntyharju
+    namewodiacritics: Mantyharju
+    subdiv: IS
+    function: '-23-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '6125N 02653E'
+    remarks: '@Sub'
+-
+    ch: ¦
+    locode: 'FI MTY'
+    name: Mäntyluoto
+    namewodiacritics: Mantyluoto
+    subdiv: LS
+    function: 123-----
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '6135N 02129E'
+    remarks: '@Sub'
+-
+    ch: ¦
+    locode: 'FI MHQ'
+    name: 'Mariehamn (Maarianhamina)'
+    namewodiacritics: 'Mariehamn (Maarianhamina)'
+    subdiv: '01'
+    function: 1--4----
+    status: AI
+    date: '1307'
+    iata: ''
+    coordinates: '6006N 01957E'
+    remarks: '@Sub@Sub'
+-
+    ch: ¦
+    locode: 'FI MKI'
+    name: Marinkainen
+    namewodiacritics: Marinkainen
+    subdiv: LS
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '6356N 02325E'
+    remarks: '@Sub'
+-
+    ch: ¦
+    locode: 'FI MRS'
+    name: Marsund
+    namewodiacritics: Marsund
+    subdiv: LS
+    function: 1-3-----
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '6012N 01942E'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'FI MTI'
+    name: Marttila
+    namewodiacritics: Marttila
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '6035N 02254E'
+    remarks: ''
+-
+    ch: ¦
+    locode: 'FI MBY'
+    name: 'Masaby (Masala)'
+    namewodiacritics: 'Masaby (Masala)'
+    subdiv: ES
+    function: '-23--6--'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '6009N 02432E'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'FI MAS'
+    name: Masku
+    namewodiacritics: Masku
+    subdiv: LS
+    function: '--3-----'
+    status: AF
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ¦
+    locode: 'FI MAT'
+    name: Mattilanpera
+    namewodiacritics: Mattilanpera
+    subdiv: OL
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '6435N 02438E'
+    remarks: '@Sub'
+-
+    ch: ¦
+    locode: 'FI MAX'
+    name: 'Maxmo (Maksamaa)'
+    namewodiacritics: 'Maxmo (Maksamaa)'
+    subdiv: '12'
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '6312N 02202E'
+    remarks: '@Sub@Sub'
+-
+    ch: ¦
+    locode: 'FI FAH'
+    name: Mellilä
+    namewodiacritics: Mellila
+    subdiv: LS
+    function: '-----6--'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '6046N 02255E'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'FI MER'
+    name: 'Merikarvia (Sastmola)'
+    namewodiacritics: 'Merikarvia (Sastmola)'
+    subdiv: LS
+    function: 1-------
+    status: AF
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ¦
+    locode: 'FI MKY'
+    name: Metsäkylä
+    namewodiacritics: Metsakyla
+    subdiv: ES
+    function: '--3-----'
+    status: RQ
+    date: '1307'
+    iata: ''
+    coordinates: '6134N 02330E'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'FI MKA'
+    name: Miehikkälä
+    namewodiacritics: Miehikkala
+    subdiv: ES
+    function: '--3-----'
+    status: RL
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ¦
+    locode: 'FI MIE'
+    name: Mietoinen
+    namewodiacritics: Mietoinen
+    subdiv: LS
+    function: '--3-----'
+    status: RQ
+    date: '1307'
+    iata: ''
+    coordinates: '6038N 02156E'
+    remarks: '@Sub'
+-
+    ch: ¦
+    locode: 'FI MIK'
+    name: 'Mikkeli (Sankt Michel)'
+    namewodiacritics: 'Mikkeli (Sankt Michel)'
+    subdiv: IS
+    function: 1234----
+    status: AC
+    date: '1307'
+    iata: ''
+    coordinates: '6141N 02716E'
+    remarks: '@Sub@Sub'
+-
+    ch: ¦
+    locode: 'FI MJO'
+    name: Mjösund
+    namewodiacritics: Mjosund
+    subdiv: LS
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '6012N 02227E'
+    remarks: '@Sub'
+-
+    ch: ¦
+    locode: 'FI MJL'
+    name: Muijala
+    namewodiacritics: Muijala
+    subdiv: ES
+    function: '-23-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '6017N 02411E'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'FI MUL'
+    name: Multia
+    namewodiacritics: Multia
+    subdiv: LS
+    function: 1-------
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ¦
+    locode: 'FI MUN'
+    name: Munsala
+    namewodiacritics: Munsala
+    subdiv: LS
+    function: 1-------
+    status: RQ
+    date: '1307'
+    iata: ''
+    coordinates: '6329N 02220E'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'FI MUO'
+    name: Muonio
+    namewodiacritics: Muonio
+    subdiv: LL
+    function: '--3----B'
+    status: AC
+    date: '9910'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ¦
+    locode: 'FI MSS'
+    name: Mussalo
+    namewodiacritics: Mussalo
+    subdiv: LS
+    function: '--3-----'
+    status: RQ
+    date: '1307'
+    iata: ''
+    coordinates: '6032N 02133E'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'FI MUS'
+    name: Mustola
+    namewodiacritics: Mustola
+    subdiv: ES
+    function: 1-------
+    status: RL
+    date: '0207'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ¦
+    locode: 'FI MRE'
+    name: Muurame
+    namewodiacritics: Muurame
+    subdiv: LS
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '6208N 02540E'
+    remarks: '@Sub'
+-
+    ch: ¦
+    locode: 'FI MKL'
+    name: Muurikkala
+    namewodiacritics: Muurikkala
+    subdiv: ES
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '6040N 02753E'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'FI MRL'
+    name: Muurla
+    namewodiacritics: Muurla
+    subdiv: LS
+    function: '--3-----'
+    status: AF
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ¦
+    locode: 'FI MRV'
+    name: Muuruvesi
+    namewodiacritics: Muuruvesi
+    subdiv: IS
+    function: '--3-----'
+    status: RQ
+    date: '1307'
+    iata: ''
+    coordinates: '6301N 02812E'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'FI MYL'
+    name: Myllykoski
+    namewodiacritics: Myllykoski
+    subdiv: ES
+    function: '-23-----'
+    status: RL
+    date: '0201'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'FI NLI'
+    name: 'Naantali (Nådendal)'
+    namewodiacritics: 'Naantali (Nadendal)'
+    subdiv: LS
+    function: 1-------
+    status: AI
+    date: '9910'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ¦
+    locode: 'FI NAJ'
+    name: Naarajärvi
+    namewodiacritics: Naarajarvi
+    subdiv: IS
+    function: '-23-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '6217N 02705E'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'FI NLI'
+    name: 'Nådendal (Naantali)'
+    namewodiacritics: 'Nadendal (Naantali)'
+    subdiv: LS
+    function: 1-------
+    status: AI
+    date: '9910'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'FI NAU'
+    name: 'Nagu (Nauvo)'
+    namewodiacritics: 'Nagu (Nauvo)'
+    subdiv: LS
+    function: 1-------
+    status: AI
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'FI NKK'
+    name: Nakkila
+    namewodiacritics: Nakkila
+    subdiv: LS
+    function: '--3-----'
+    status: AF
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'FI NRP'
+    name: 'Närpes (Närpiö)'
+    namewodiacritics: 'Narpes (Narpio)'
+    subdiv: LS
+    function: '--3-----'
+    status: AF
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'FI NRP'
+    name: 'Närpiö (Närpes)'
+    namewodiacritics: 'Narpio (Narpes)'
+    subdiv: LS
+    function: '--3-----'
+    status: AF
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'FI NST'
+    name: Nastola
+    namewodiacritics: Nastola
+    subdiv: ES
+    function: '--3-----'
+    status: AF
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'FI NAU'
+    name: 'Nauvo (Nagu)'
+    namewodiacritics: 'Nauvo (Nagu)'
+    subdiv: LS
+    function: 1-------
+    status: AI
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ¦
+    locode: 'FI NDT'
+    name: Nedervetil
+    namewodiacritics: Nedervetil
+    subdiv: LS
+    function: '-----6--'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '6342N 02320E'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'FI NII'
+    name: Niirala
+    namewodiacritics: Niirala
+    subdiv: IS
+    function: '-23----B'
+    status: AF
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ¦
+    locode: 'FI NLS'
+    name: Nilsia
+    namewodiacritics: Nilsia
+    subdiv: IS
+    function: 1-------
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '6312N 02850E'
+    remarks: '@Sub'
+-
+    ch: ¦
+    locode: 'FI NVA'
+    name: Nivala
+    namewodiacritics: Nivala
+    subdiv: OL
+    function: '--3-----'
+    status: AF
+    date: '1307'
+    iata: ''
+    coordinates: '6354N 02457E'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'FI NOK'
+    name: Nokia
+    namewodiacritics: Nokia
+    subdiv: LS
+    function: '--3-----'
+    status: AF
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ¦
+    locode: 'FI NOU'
+    name: 'Nousiainen (Nousis)'
+    namewodiacritics: 'Nousiainen (Nousis)'
+    subdiv: LS
+    function: 1-3-----
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '6036N 02205E'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'FI NUI'
+    name: Nuijamaa
+    namewodiacritics: Nuijamaa
+    subdiv: ES
+    function: '--3----B'
+    status: AF
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ¦
+    locode: 'FI NKA'
+    name: Nukari
+    namewodiacritics: Nukari
+    subdiv: ES
+    function: '--3-----'
+    status: RQ
+    date: '1307'
+    iata: ''
+    coordinates: '6032N 02455E'
+    remarks: '@Sub'
+-
+    ch: ¦
+    locode: 'FI NML'
+    name: Nummela
+    namewodiacritics: Nummela
+    subdiv: ES
+    function: '-23-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '6019N 02419E'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'FI NRM'
+    name: Nuoramoinen
+    namewodiacritics: Nuoramoinen
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '6127N 02550E'
+    remarks: ''
+-
+    ch: ¦
+    locode: 'FI NUR'
+    name: Nurmes
+    namewodiacritics: Nurmes
+    subdiv: IS
+    function: 123-----
+    status: AF
+    date: '1307'
+    iata: ''
+    coordinates: '6332N 02910E'
+    remarks: '@Sub'
+-
+    ch: ¦
+    locode: 'FI NJI'
+    name: Nurmijärvi
+    namewodiacritics: Nurmijarvi
+    subdiv: ES
+    function: '--3-----'
+    status: AF
+    date: '1307'
+    iata: ''
+    coordinates: '6027N 02248E'
+    remarks: '@Sub'
+-
+    ch: ¦
+    locode: 'FI NRO'
+    name: Nurmo
+    namewodiacritics: Nurmo
+    subdiv: LS
+    function: '-23-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '6250N 02254E'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'FI NUU'
+    name: Nuutajärvi
+    namewodiacritics: Nuutajarvi
+    subdiv: LS
+    function: '--3-----'
+    status: AF
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ¦
+    locode: 'FI NYH'
+    name: Nyhem
+    namewodiacritics: Nyhem
+    subdiv: ES
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '6003N 02253E'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'FI UKP'
+    name: 'Nykarleby (Uusikaarlepyy)'
+    namewodiacritics: 'Nykarleby (Uusikaarlepyy)'
+    subdiv: LS
+    function: 1-------
+    status: AI
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ¦
+    locode: 'FI SVL'
+    name: 'Nyslott (Savonlinna)'
+    namewodiacritics: 'Nyslott (Savonlinna)'
+    subdiv: IS
+    function: 1234----
+    status: AC
+    date: '1307'
+    iata: ''
+    coordinates: '6152N 02854E'
+    remarks: '@Sub@Sub'
+-
+    ch: ''
+    locode: 'FI UKI'
+    name: 'Nystad (Uusikaupunki)'
+    namewodiacritics: 'Nystad (Uusikaupunki)'
+    subdiv: LS
+    function: 1-------
+    status: AI
+    date: '9910'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ¦
+    locode: 'FI ODE'
+    name: Odensö
+    namewodiacritics: Odenso
+    subdiv: ES
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '5955N 02323E'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'FI OTI'
+    name: Oitti
+    namewodiacritics: Oitti
+    subdiv: ES
+    function: '--3-----'
+    status: RL
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ¦
+    locode: 'FI FAI'
+    name: Ojakkala
+    namewodiacritics: Ojakkala
+    subdiv: LS
+    function: '-----6--'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '6022N 02423E'
+    remarks: '@Sub'
+-
+    ch: ¦
+    locode: 'FI OLK'
+    name: Olkiluoto
+    namewodiacritics: Olkiluoto
+    subdiv: LS
+    function: 1-------
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '6114N 02129E'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'FI OMA'
+    name: Orimattila
+    namewodiacritics: Orimattila
+    subdiv: ES
+    function: '--3-----'
+    status: AF
+    date: '0103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'FI OIP'
+    name: Oripää
+    namewodiacritics: Oripaa
+    subdiv: LS
+    function: '--3-----'
+    status: AF
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'FI ORV'
+    name: Orivesi
+    namewodiacritics: Orivesi
+    subdiv: LS
+    function: '--3-----'
+    status: RL
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'FI OTA'
+    name: Otanmäki
+    namewodiacritics: Otanmaki
+    subdiv: OL
+    function: '-23-----'
+    status: RL
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ¦
+    locode: 'FI STV'
+    name: Otava
+    namewodiacritics: Otava
+    subdiv: IS
+    function: '-----6--'
+    status: RQ
+    date: '1307'
+    iata: ''
+    coordinates: '6139N 02704E'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'FI OLA'
+    name: Oulainen
+    namewodiacritics: Oulainen
+    subdiv: OL
+    function: '-23-----'
+    status: RL
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ¦
+    locode: 'FI OUL'
+    name: 'Oulu (Uleåborg)'
+    namewodiacritics: 'Oulu (Uleaborg)'
+    subdiv: OL
+    function: 1234----
+    status: AI
+    date: '1307'
+    iata: ''
+    coordinates: '6501N 02528E'
+    remarks: '@Sub@Sub'
+-
+    ch: ''
+    locode: 'FI OUK'
+    name: Outokumpu
+    namewodiacritics: Outokumpu
+    subdiv: IS
+    function: '--3-----'
+    status: AF
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ¦
+    locode: 'FI PJO'
+    name: Padasjoki
+    namewodiacritics: Padasjoki
+    subdiv: ES
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '6121N 02517E'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'FI PAI'
+    name: 'Paimio (Pemar)'
+    namewodiacritics: 'Paimio (Pemar)'
+    subdiv: LS
+    function: '--3-----'
+    status: RL
+    date: '0907'
+    iata: ''
+    coordinates: '6027N 02241E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'FI PKA'
+    name: Palkane
+    namewodiacritics: Palkane
+    subdiv: LS
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '6120N 02416E'
+    remarks: ''
+-
+    ch: ¦
+    locode: 'FI PLA'
+    name: Palokka
+    namewodiacritics: Palokka
+    subdiv: LS
+    function: '--3--6--'
+    status: RQ
+    date: '1307'
+    iata: ''
+    coordinates: '6217N 02542E'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'FI OUN'
+    name: Paltamo
+    namewodiacritics: Paltamo
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '6425N 02750E'
+    remarks: ''
+-
+    ch: ¦
+    locode: 'FI PNN'
+    name: Pännäinen
+    namewodiacritics: Pannainen
+    subdiv: LS
+    function: '--3--6--'
+    status: RQ
+    date: '1307'
+    iata: ''
+    coordinates: '6336N 02248E'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'FI PAR'
+    name: 'Parainen (Pargas)'
+    namewodiacritics: 'Parainen (Pargas)'
+    subdiv: LS
+    function: 1-------
+    status: AI
+    date: '9910'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'FI PAR'
+    name: 'Pargas (Parainen)'
+    namewodiacritics: 'Pargas (Parainen)'
+    subdiv: LS
+    function: 1-------
+    status: AI
+    date: '9910'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ¦
+    locode: 'FI PAH'
+    name: Parhalahti
+    namewodiacritics: Parhalahti
+    subdiv: OL
+    function: 1----6--
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '6429N 02420E'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'FI PRK'
+    name: Parikkala
+    namewodiacritics: Parikkala
+    subdiv: ES
+    function: 123-----
+    status: RL
+    date: '0701'
+    iata: ''
+    coordinates: '6133N 02930E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'FI PAO'
+    name: Parkano
+    namewodiacritics: Parkano
+    subdiv: LS
+    function: '--3-----'
+    status: AF
+    date: '0103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'FI PAA'
+    name: Parola
+    namewodiacritics: Parola
+    subdiv: ES
+    function: 1-3-----
+    status: RQ
+    date: '1001'
+    iata: ''
+    coordinates: '6102N 02421E'
+    remarks: ''
+-
+    ch: ¦
+    locode: 'FI PNI'
+    name: Pateniemi
+    namewodiacritics: Pateniemi
+    subdiv: LL
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '6503N 02524E'
+    remarks: '@Sub'
+-
+    ch: ¦
+    locode: 'FI PTK'
+    name: Pattijoki
+    namewodiacritics: Pattijoki
+    subdiv: OL
+    function: '-----6--'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '6442N 24350E'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'FI PKO'
+    name: Pekola
+    namewodiacritics: Pekola
+    subdiv: ES
+    function: '--3-----'
+    status: RL
+    date: '0701'
+    iata: ''
+    coordinates: '6103N 02426E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'FI PLL'
+    name: Pello
+    namewodiacritics: Pello
+    subdiv: LL
+    function: '--3----B'
+    status: AC
+    date: '9909'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'FI PEL'
+    name: Peltosalmi
+    namewodiacritics: Peltosalmi
+    subdiv: IS
+    function: '--3-----'
+    status: AF
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'FI PNL'
+    name: Pennala
+    namewodiacritics: Pennala
+    subdiv: IS
+    function: 1-------
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'FI PEI'
+    name: Peräseinäjoki
+    namewodiacritics: Peraseinajoki
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '6234N 02304E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'FI PER'
+    name: 'Pernå (Pernaja)'
+    namewodiacritics: 'Perna (Pernaja)'
+    subdiv: ES
+    function: 1-------
+    status: AI
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'FI PER'
+    name: 'Pernaja (Pernå)'
+    namewodiacritics: 'Pernaja (Perna)'
+    subdiv: ES
+    function: 1-------
+    status: AI
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'FI PNO'
+    name: 'Perniö (Bjärnå)'
+    namewodiacritics: 'Pernio (Bjarna)'
+    subdiv: LS
+    function: '-23-----'
+    status: RL
+    date: '0907'
+    iata: ''
+    coordinates: '6012N 02308E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'FI PTI'
+    name: Pertteli
+    namewodiacritics: Pertteli
+    subdiv: LS
+    function: '-----6--'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '6026N 02316E'
+    remarks: ''
+-
+    ch: ¦
+    locode: 'FI PTU'
+    name: Petkula
+    namewodiacritics: Petkula
+    subdiv: LL
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '6740N 02641E'
+    remarks: '@Sub'
+-
+    ch: ¦
+    locode: 'FI PET'
+    name: Petolahti
+    namewodiacritics: Petolahti
+    subdiv: LS
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '6250N 02125E'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'FI PSM'
+    name: Pieksämäki
+    namewodiacritics: Pieksamaki
+    subdiv: IS
+    function: '--3-----'
+    status: AF
+    date: '0103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ¦
+    locode: 'FI PRS'
+    name: 'Pietarsaari (Jakobstad)'
+    namewodiacritics: 'Pietarsaari (Jakobstad)'
+    subdiv: '12'
+    function: 123-----
+    status: AI
+    date: '1307'
+    iata: ''
+    coordinates: '6341N 02247E'
+    remarks: '@Sub'
+-
+    ch: ¦
+    locode: 'FI PK9'
+    name: Piikkiö
+    namewodiacritics: Piikkio
+    subdiv: LS
+    function: 1----6--
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '6026N 02231E'
+    remarks: '@Sub'
+-
+    ch: ¦
+    locode: 'FI PSP'
+    name: Piispajärvi
+    namewodiacritics: Piispajarvi
+    subdiv: OL
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '6518N 02906E'
+    remarks: '@Sub'
+-
+    ch: ¦
+    locode: 'FI PII'
+    name: Piispanristi
+    namewodiacritics: Piispanristi
+    subdiv: LS
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '6025N 02220E'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'FI PIK'
+    name: Pikkala
+    namewodiacritics: Pikkala
+    subdiv: ES
+    function: '--3-----'
+    status: RL
+    date: '0201'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ¦
+    locode: 'FI PKR'
+    name: Pikkarala
+    namewodiacritics: Pikkarala
+    subdiv: OL
+    function: '--3-----'
+    status: RQ
+    date: '1307'
+    iata: ''
+    coordinates: '6455N 02545E'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'FI PIA'
+    name: Pirkanmaa
+    namewodiacritics: Pirkanmaa
+    subdiv: ''
+    function: '-----6--'
+    status: RL
+    date: '1201'
+    iata: ''
+    coordinates: '6142N 02347E'
+    remarks: ''
+-
+    ch: ¦
+    locode: 'FI PIR'
+    name: 'Pirkkala (Birkala)'
+    namewodiacritics: 'Pirkkala (Birkala)'
+    subdiv: LS
+    function: '--34---B'
+    status: AC
+    date: '1307'
+    iata: ''
+    coordinates: '6128N 02338E'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'FI POH'
+    name: 'Pohjankuru (Skuru)'
+    namewodiacritics: 'Pohjankuru (Skuru)'
+    subdiv: ES
+    function: 1-------
+    status: AF
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'FI PSI'
+    name: Poitsila
+    namewodiacritics: Poitsila
+    subdiv: ES
+    function: 123-----
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '6033N 02710E'
+    remarks: ''
+-
+    ch: ¦
+    locode: 'FI PMU'
+    name: Pomarkku
+    namewodiacritics: Pomarkku
+    subdiv: LS
+    function: '-23-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '6142N 02200E'
+    remarks: '@Sub'
+-
+    ch: ¦
+    locode: 'FI TIL'
+    name: Pöppölä
+    namewodiacritics: Poppola
+    subdiv: LL
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '6435N 02710E'
+    remarks: '@Sub'
+-
+    ch: ¦
+    locode: 'FI POR'
+    name: 'Pori (Björneborg)'
+    namewodiacritics: 'Pori (Bjorneborg)'
+    subdiv: '17'
+    function: 1-34----
+    status: AI
+    date: '1307'
+    iata: ''
+    coordinates: '6129N 02148E'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'FI POA'
+    name: 'Porkkala (Porkala)'
+    namewodiacritics: 'Porkkala (Porkala)'
+    subdiv: ES
+    function: '--3-----'
+    status: AF
+    date: '0907'
+    iata: ''
+    coordinates: '5959N 02426E'
+    remarks: ''
+-
+    ch: ¦
+    locode: 'FI PRV'
+    name: 'Porvoo (Borgå)'
+    namewodiacritics: 'Porvoo (Borga)'
+    subdiv: '18'
+    function: 1-------
+    status: AI
+    date: '1307'
+    iata: ''
+    coordinates: '6024N 02540E'
+    remarks: '@Sub'
+-
+    ch: ¦
+    locode: 'FI PUD'
+    name: Pudasjärvi
+    namewodiacritics: Pudasjarvi
+    subdiv: OL
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '6520N 02700E'
+    remarks: '@Sub'
+-
+    ch: ¦
+    locode: 'FI PHS'
+    name: Puhos
+    namewodiacritics: Puhos
+    subdiv: OL
+    function: '--3-----'
+    status: RQ
+    date: '1307'
+    iata: ''
+    coordinates: '6519N 02747E'
+    remarks: '@Sub'
+-
+    ch: ¦
+    locode: 'FI PUH'
+    name: Puhos
+    namewodiacritics: Puhos
+    subdiv: IS
+    function: 1-------
+    status: RQ
+    date: '1307'
+    iata: ''
+    coordinates: '6206N 02955E'
+    remarks: '@Sub'
+-
+    ch: ¦
+    locode: 'FI PTA'
+    name: Puntala
+    namewodiacritics: Puntala
+    subdiv: IS
+    function: '--3-----'
+    status: RQ
+    date: '1307'
+    iata: ''
+    coordinates: '6116N 02859E'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'FI PUU'
+    name: Puumala
+    namewodiacritics: Puumala
+    subdiv: IS
+    function: 1-------
+    status: AF
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'FI PYH'
+    name: Pyhäranta
+    namewodiacritics: Pyharanta
+    subdiv: LS
+    function: '--3-----'
+    status: AF
+    date: '0103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'FI PYI'
+    name: Pyhäsalmi
+    namewodiacritics: Pyhasalmi
+    subdiv: OL
+    function: '--3-----'
+    status: AF
+    date: '0103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'FI HTA'
+    name: 'Pyhtaa (Pyttis)'
+    namewodiacritics: 'Pyhtaa (Pyttis)'
+    subdiv: ES
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '6029N 02632E'
+    remarks: ''
+-
+    ch: ¦
+    locode: 'FI RAA'
+    name: 'Raahe (Brahestad)'
+    namewodiacritics: 'Raahe (Brahestad)'
+    subdiv: '14'
+    function: 1-------
+    status: AI
+    date: '1307'
+    iata: ''
+    coordinates: '6441N 02429E'
+    remarks: '@Sub@Sub'
+-
+    ch: ¦
+    locode: 'FI RAH'
+    name: Rahja
+    namewodiacritics: Rahja
+    subdiv: LS
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '6412N 02345E'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'FI RAO'
+    name: Raisio
+    namewodiacritics: Raisio
+    subdiv: LS
+    function: '--3-----'
+    status: AF
+    date: '0103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'FI RAJ'
+    name: Rajajooseppi
+    namewodiacritics: Rajajooseppi
+    subdiv: LL
+    function: '--3----B'
+    status: AC
+    date: '9909'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'FI RJM'
+    name: Rajamäki
+    namewodiacritics: Rajamaki
+    subdiv: ES
+    function: '-23-----'
+    status: RL
+    date: '0207'
+    iata: ''
+    coordinates: '6032N 02444E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'FI RTY'
+    name: Rantatoysa
+    namewodiacritics: Rantatoysa
+    subdiv: LS
+    function: '--3-----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '6238N 02339E'
+    remarks: ''
+-
+    ch: +
+    locode: 'FI ETA'
+    name: Raseborg
+    namewodiacritics: Raseborg
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '5959N 02339E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'FI ROU'
+    name: Rauha
+    namewodiacritics: Rauha
+    subdiv: IS
+    function: '--3-----'
+    status: RL
+    date: '0207'
+    iata: ''
+    coordinates: '6111N 02841E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'FI RAU'
+    name: 'Rauma (Raumo)'
+    namewodiacritics: 'Rauma (Raumo)'
+    subdiv: LS
+    function: 123----B
+    status: AC
+    date: '9910'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'FI RAU'
+    name: 'Raumo (Rauma)'
+    namewodiacritics: 'Raumo (Rauma)'
+    subdiv: LS
+    function: 123----B
+    status: AC
+    date: '9910'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ¦
+    locode: 'FI RLI'
+    name: Rautalampi
+    namewodiacritics: Rautalampi
+    subdiv: IS
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '6237N 02649E'
+    remarks: '@Sub'
+-
+    ch: ¦
+    locode: 'FI RTR'
+    name: Rautaruukki
+    namewodiacritics: Rautaruukki
+    subdiv: OL
+    function: 1-------
+    status: AF
+    date: '1307'
+    iata: ''
+    coordinates: '6439N 02425E'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'FI RKO'
+    name: Renko
+    namewodiacritics: Renko
+    subdiv: ES
+    function: '--3-----'
+    status: RL
+    date: '0701'
+    iata: ''
+    coordinates: '6054N 02417E'
+    remarks: ''
+-
+    ch: ¦
+    locode: 'FI PLT'
+    name: Replot
+    namewodiacritics: Replot
+    subdiv: LS
+    function: '-----6--'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '6315N 02125E'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'FI REP'
+    name: Reposaari
+    namewodiacritics: Reposaari
+    subdiv: ''
+    function: 1-3-----
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '6137N 02127E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'FI RIA'
+    name: Riihimäki
+    namewodiacritics: Riihimaki
+    subdiv: ES
+    function: '--3-----'
+    status: AF
+    date: '9912'
+    iata: QVT
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'FI RYM'
+    name: 'Rimito (Rymättylä)'
+    namewodiacritics: 'Rimito (Rymattyla)'
+    subdiv: LS
+    function: 1-------
+    status: AF
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'FI RIS'
+    name: Ristiina
+    namewodiacritics: Ristiina
+    subdiv: IS
+    function: 1-------
+    status: AF
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'FI RHU'
+    name: Rouhu
+    namewodiacritics: Rouhu
+    subdiv: ''
+    function: 1-------
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '6032N 02140E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'FI RVN'
+    name: Rovaniemi
+    namewodiacritics: Rovaniemi
+    subdiv: LL
+    function: 1234----
+    status: AC
+    date: '9910'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'FI ROY'
+    name: Röyttä
+    namewodiacritics: Roytta
+    subdiv: ''
+    function: 1-------
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '6545N 02410E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'FI ROO'
+    name: Ruotila
+    namewodiacritics: Ruotila
+    subdiv: ES
+    function: '--3-----'
+    status: RL
+    date: '0212'
+    iata: ''
+    coordinates: '6042N 02703E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'FI RUO'
+    name: 'Ruotsinpyhtää (Strömfors)'
+    namewodiacritics: 'Ruotsinpyhtaa (Stromfors)'
+    subdiv: ES
+    function: 1-------
+    status: AF
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'FI RUI'
+    name: Ruovesi
+    namewodiacritics: Ruovesi
+    subdiv: LS
+    function: 1-3-----
+    status: RL
+    date: '0601'
+    iata: ''
+    coordinates: '6159N 02405E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'FI RSO'
+    name: Rusko
+    namewodiacritics: Rusko
+    subdiv: LS
+    function: '--3-----'
+    status: RL
+    date: '0701'
+    iata: ''
+    coordinates: '6032N 02212E'
+    remarks: ''
+-
+    ch: ¦
+    locode: 'FI RUU'
+    name: Ruukki
+    namewodiacritics: Ruukki
+    subdiv: OL
+    function: '-23-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '6439N 02505E'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'FI RYM'
+    name: 'Rymättylä (Rimito)'
+    namewodiacritics: 'Rymattyla (Rimito)'
+    subdiv: LS
+    function: 1-------
+    status: AF
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'FI RYT'
+    name: Ryttylä
+    namewodiacritics: Ryttyla
+    subdiv: ES
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '6049N 02446E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'FI SKS'
+    name: Saaksjärvi
+    namewodiacritics: Saaksjarvi
+    subdiv: ES
+    function: '--3-----'
+    status: RQ
+    date: '0907'
+    iata: ''
+    coordinates: '6035N 02525E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'FI SRV'
+    name: Saaksjärvi
+    namewodiacritics: Saaksjarvi
+    subdiv: LS
+    function: '--3-----'
+    status: RQ
+    date: '0907'
+    iata: ''
+    coordinates: '6125N 02346E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'FI SAA'
+    name: Saaksjärvi
+    namewodiacritics: Saaksjarvi
+    subdiv: IS
+    function: '--3-----'
+    status: RQ
+    date: '0907'
+    iata: ''
+    coordinates: '6242N 02640E'
+    remarks: ''
+-
+    ch: ¦
+    locode: 'FI SAI'
+    name: Saarijärvi
+    namewodiacritics: Saarijarvi
+    subdiv: LS
+    function: '--3-----'
+    status: AF
+    date: '1307'
+    iata: ''
+    coordinates: '6242N 02515E'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'FI SLO'
+    name: Sailonen
+    namewodiacritics: Sailonen
+    subdiv: LS
+    function: '--3-----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '6057N 02452E'
+    remarks: ''
+-
+    ch: ¦
+    locode: 'FI SAK'
+    name: Säkylä
+    namewodiacritics: Sakyla
+    subdiv: LS
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '6102N 02222E'
+    remarks: '@Sub'
+-
+    ch: ¦
+    locode: 'FI SLL'
+    name: Salla
+    namewodiacritics: Salla
+    subdiv: LL
+    function: '--3----B'
+    status: AC
+    date: '1307'
+    iata: ''
+    coordinates: '6650N 02840E'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'FI SAL'
+    name: Salo
+    namewodiacritics: Salo
+    subdiv: LS
+    function: 1-------
+    status: AF
+    date: '9912'
+    iata: QVD
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'FI SPK'
+    name: Salpakangas
+    namewodiacritics: Salpakangas
+    subdiv: ES
+    function: '--3-----'
+    status: RL
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'FI SJI'
+    name: Sammaljoki
+    namewodiacritics: Sammaljoki
+    subdiv: LS
+    function: '--3-----'
+    status: RL
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ¦
+    locode: 'FI SAN'
+    name: 'Sandö (Santasaari)'
+    namewodiacritics: 'Sando (Santasaari)'
+    subdiv: LS
+    function: 1-3-----
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '6013N 02230E'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'FI KAA'
+    name: 'Sankt Karins (Kaarina)'
+    namewodiacritics: 'Sankt Karins (Kaarina)'
+    subdiv: LS
+    function: '--3-----'
+    status: AF
+    date: '1207'
+    iata: ''
+    coordinates: '6025N 02225E'
+    remarks: ''
+-
+    ch: ¦
+    locode: 'FI MIK'
+    name: 'Sankt Michel (Mikkeli)'
+    namewodiacritics: 'Sankt Michel (Mikkeli)'
+    subdiv: '04'
+    function: 1234----
+    status: AC
+    date: '1307'
+    iata: ''
+    coordinates: '6141N 02716E'
+    remarks: '@Sub@Sub'
+-
+    ch: ''
+    locode: 'FI SSI'
+    name: Särkisalmi
+    namewodiacritics: Sarkisalmi
+    subdiv: ES
+    function: 123-----
+    status: RL
+    date: '0701'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'FI SAS'
+    name: Sastamala
+    namewodiacritics: Sastamala
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '6121N 02251E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'FI MER'
+    name: 'Sastmola (Merikarvia)'
+    namewodiacritics: 'Sastmola (Merikarvia)'
+    subdiv: LS
+    function: 1-------
+    status: AF
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'FI SKL'
+    name: Saukkola
+    namewodiacritics: Saukkola
+    subdiv: ES
+    function: '--3-----'
+    status: RQ
+    date: '1007'
+    iata: ''
+    coordinates: '6023N 02359E'
+    remarks: ''
+-
+    ch: ¦
+    locode: 'FI SAU'
+    name: Saukkola
+    namewodiacritics: Saukkola
+    subdiv: LS
+    function: '--3-----'
+    status: RQ
+    date: '1307'
+    iata: ''
+    coordinates: '6211N 02528E'
+    remarks: '@Sub'
+-
+    ch: ¦
+    locode: 'FI FAA'
+    name: Sauvo
+    namewodiacritics: Sauvo
+    subdiv: LS
+    function: '-----6--'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '6021N 02242E'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'FI SPE'
+    name: Savitaipale
+    namewodiacritics: Savitaipale
+    subdiv: ES
+    function: '--3-----'
+    status: RL
+    date: '0501'
+    iata: ''
+    coordinates: '6112N 02742E'
+    remarks: ''
+-
+    ch: ¦
+    locode: 'FI SVL'
+    name: 'Savonlinna (Nyslott)'
+    namewodiacritics: 'Savonlinna (Nyslott)'
+    subdiv: '04'
+    function: 1234----
+    status: AC
+    date: '1307'
+    iata: ''
+    coordinates: '6152N 02854E'
+    remarks: '@Sub@Sub'
+-
+    ch: ''
+    locode: 'FI SJY'
+    name: Seinäjoki
+    namewodiacritics: Seinajoki
+    subdiv: LS
+    function: '-234----'
+    status: AC
+    date: '9910'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'FI STA'
+    name: 'Seutula (Sjöskog)'
+    namewodiacritics: 'Seutula (Sjoskog)'
+    subdiv: ES
+    function: '--3-----'
+    status: RL
+    date: '0907'
+    iata: ''
+    coordinates: '6021N 02452E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'FI SIP'
+    name: 'Sibbo (Sipoo)'
+    namewodiacritics: 'Sibbo (Sipoo)'
+    subdiv: ES
+    function: 1-------
+    status: AI
+    date: '9812'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: '='
+    locode: FI
+    name: 'Sibboviken (Sipoonlahti) = Sibbo (Sipoo)'
+    namewodiacritics: 'Sibboviken (Sipoonlahti) = Sibbo (Sipoo)'
+    subdiv: ''
+    function: ''
+    status: ''
+    date: ''
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ¦
+    locode: 'FI SII'
+    name: Siilinjärvi
+    namewodiacritics: Siilinjarvi
+    subdiv: IS
+    function: 123-----
+    status: AF
+    date: '1307'
+    iata: ''
+    coordinates: '6305N 02740E'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'FI SYY'
+    name: 'Siipyy (Sideby)'
+    namewodiacritics: 'Siipyy (Sideby)'
+    subdiv: LS
+    function: '--3-----'
+    status: RL
+    date: '1001'
+    iata: ''
+    coordinates: '6202N 02120E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'FI SLY'
+    name: 'Siltakylä (Broby)'
+    namewodiacritics: 'Siltakyla (Broby)'
+    subdiv: ES
+    function: 1-3-----
+    status: RL
+    date: '0701'
+    iata: ''
+    coordinates: '6030N 02645E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'FI SIM'
+    name: Simpele
+    namewodiacritics: Simpele
+    subdiv: ES
+    function: '--3-----'
+    status: RQ
+    date: '0907'
+    iata: ''
+    coordinates: '6126N 02922E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'FI SIP'
+    name: 'Sipoo (Sibbo)'
+    namewodiacritics: 'Sipoo (Sibbo)'
+    subdiv: ES
+    function: 1-------
+    status: AI
+    date: '9812'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: '='
+    locode: FI
+    name: 'Sipoonlahti (Sibboviken) = Sibbo (Sipoo)'
+    namewodiacritics: 'Sipoonlahti (Sibboviken) = Sibbo (Sipoo)'
+    subdiv: ''
+    function: ''
+    status: ''
+    date: ''
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'FI SNI'
+    name: Siuntio
+    namewodiacritics: Siuntio
+    subdiv: ES
+    function: '-23--6--'
+    status: RL
+    date: '0507'
+    iata: ''
+    coordinates: '6011N 02412E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'FI SIO'
+    name: Siuro
+    namewodiacritics: Siuro
+    subdiv: LS
+    function: '--3-----'
+    status: RL
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ¦
+    locode: 'FI SKI'
+    name: Skinnarvik
+    namewodiacritics: Skinnarvik
+    subdiv: LS
+    function: 1-3-----
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '6008N 02228E'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'FI SKB'
+    name: Skogby
+    namewodiacritics: Skogby
+    subdiv: ES
+    function: 1-------
+    status: AF
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'FI SKV'
+    name: 'Sköldvik (Kilpilahti)'
+    namewodiacritics: 'Skoldvik (Kilpilahti)'
+    subdiv: ES
+    function: 1-------
+    status: AI
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'FI POH'
+    name: 'Skuru (Pohjankuru)'
+    namewodiacritics: 'Skuru (Pohjankuru)'
+    subdiv: ES
+    function: 1-------
+    status: AF
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'FI SKU'
+    name: Skutviken
+    namewodiacritics: Skutviken
+    subdiv: ''
+    function: 1-------
+    status: RL
+    date: '1107'
+    iata: ''
+    coordinates: '5956N 02323E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'FI SNA'
+    name: Snappertuna
+    namewodiacritics: Snappertuna
+    subdiv: ES
+    function: 1-3-----
+    status: RL
+    date: '0201'
+    iata: ''
+    coordinates: '6000N 02339E'
+    remarks: ''
+-
+    ch: ¦
+    locode: 'FI SOT'
+    name: Sodankylä
+    namewodiacritics: Sodankyla
+    subdiv: LL
+    function: '--34----'
+    status: AF
+    date: '1307'
+    iata: ''
+    coordinates: '6725N 02636E'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'FI SKA'
+    name: Soderkulla
+    namewodiacritics: Soderkulla
+    subdiv: ES
+    function: '--3-----'
+    status: RL
+    date: '0507'
+    iata: ''
+    coordinates: '6018N 02518E'
+    remarks: ''
+-
+    ch: ¦
+    locode: 'FI SOI'
+    name: Soini
+    namewodiacritics: Soini
+    subdiv: LS
+    function: '--3-----'
+    status: RQ
+    date: '1307'
+    iata: ''
+    coordinates: '6252N 02412E'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'FI SRO'
+    name: Somero
+    namewodiacritics: Somero
+    subdiv: ES
+    function: '--3-----'
+    status: RL
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ¦
+    locode: 'FI SSK'
+    name: Sorsakoski
+    namewodiacritics: Sorsakoski
+    subdiv: IS
+    function: '-----6--'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '6227N 02739E'
+    remarks: '@Sub'
+-
+    ch: ¦
+    locode: 'FI SMO'
+    name: Sotkamo
+    namewodiacritics: Sotkamo
+    subdiv: IS
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '6407N 02823E'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'FI RUO'
+    name: 'Strömfors (Ruotsinpyhtää)'
+    namewodiacritics: 'Stromfors (Ruotsinpyhtaa)'
+    subdiv: ES
+    function: 1-------
+    status: AF
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'FI STR'
+    name: Strömma
+    namewodiacritics: Stromma
+    subdiv: LS
+    function: 1-------
+    status: AF
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'FI SVK'
+    name: Sulkava
+    namewodiacritics: Sulkava
+    subdiv: ES
+    function: 1----6--
+    status: RL
+    date: '1107'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'FI SMA'
+    name: Summa
+    namewodiacritics: Summa
+    subdiv: ES
+    function: 1-3-----
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '6032N 02707E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'FI SUL'
+    name: Sunila
+    namewodiacritics: Sunila
+    subdiv: ES
+    function: 1-------
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '6029N 02657E'
+    remarks: ''
+-
+    ch: ¦
+    locode: 'FI SLI'
+    name: Suolahti
+    namewodiacritics: Suolahti
+    subdiv: LS
+    function: '--3-----'
+    status: AF
+    date: '1307'
+    iata: ''
+    coordinates: '6234N 02551E'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'FI SBG'
+    name: 'Suomenlinna (Sveaborg)'
+    namewodiacritics: 'Suomenlinna (Sveaborg)'
+    subdiv: ES
+    function: 1-------
+    status: RL
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'FI SUJ'
+    name: Suonenjoki
+    namewodiacritics: Suonenjoki
+    subdiv: IS
+    function: '--3-----'
+    status: AF
+    date: '0103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'FI SBG'
+    name: 'Sveaborg (Suomenlinna)'
+    namewodiacritics: 'Sveaborg (Suomenlinna)'
+    subdiv: ES
+    function: 1-------
+    status: RL
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ¦
+    locode: 'FI DLS'
+    name: 'Taalintehdas (Dalsbruk)'
+    namewodiacritics: 'Taalintehdas (Dalsbruk)'
+    subdiv: '19'
+    function: 1-------
+    status: AI
+    date: '1307'
+    iata: ''
+    coordinates: '6001N 02231E'
+    remarks: '@Sub@Sub'
+-
+    ch: ''
+    locode: 'FI TAA'
+    name: Taavetti
+    namewodiacritics: Taavetti
+    subdiv: ''
+    function: '-234----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '6055N 02734E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'FI THK'
+    name: Tahkoluoto
+    namewodiacritics: Tahkoluoto
+    subdiv: ''
+    function: 1-------
+    status: RL
+    date: '1107'
+    iata: ''
+    coordinates: '6138N 02125E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'FI TAK'
+    name: Taivalkoski
+    namewodiacritics: Taivalkoski
+    subdiv: OL
+    function: '-23-----'
+    status: RL
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'FI TVS'
+    name: 'Taivassalo (Tövsala)'
+    namewodiacritics: 'Taivassalo (Tovsala)'
+    subdiv: LS
+    function: 1-------
+    status: AI
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ¦
+    locode: 'FI TMP'
+    name: 'Tammerfors (Tampere)'
+    namewodiacritics: 'Tammerfors (Tampere)'
+    subdiv: '17'
+    function: 12-4---B
+    status: AF
+    date: '1307'
+    iata: ''
+    coordinates: '6130N 02345E'
+    remarks: '@Sub@Sub'
+-
+    ch: ¦
+    locode: 'FI TAI'
+    name: 'Tammisaari (Ekenäs)'
+    namewodiacritics: 'Tammisaari (Ekenas)'
+    subdiv: '18'
+    function: 1-------
+    status: AI
+    date: '1307'
+    iata: ''
+    coordinates: '5958N 02326E'
+    remarks: '@Sub'
+-
+    ch: ¦
+    locode: 'FI TMP'
+    name: 'Tampere (Tammerfors)'
+    namewodiacritics: 'Tampere (Tammerfors)'
+    subdiv: LS
+    function: 12-4---B
+    status: AF
+    date: '1307'
+    iata: ''
+    coordinates: '6130N 02345E'
+    remarks: '@Sub@Sub'
+-
+    ch: ¦
+    locode: 'FI TVO'
+    name: Tarvasjoki
+    namewodiacritics: Tarvasjoki
+    subdiv: LS
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '6035N 02243E'
+    remarks: '@Sub'
+-
+    ch: ¦
+    locode: 'FI HMY'
+    name: 'Tavastehus (Hämeenlinna)'
+    namewodiacritics: 'Tavastehus (Hameenlinna)'
+    subdiv: '06'
+    function: '--3-----'
+    status: AC
+    date: '1307'
+    iata: QVM
+    coordinates: ''
+    remarks: '@Sub'
+-
+    ch: ¦
+    locode: 'FI TER'
+    name: 'Teerijärvi (Terjärv)'
+    namewodiacritics: 'Teerijarvi (Terjarv)'
+    subdiv: LS
+    function: '--3-----'
+    status: AF
+    date: '1307'
+    iata: ''
+    coordinates: '6332N 02330E'
+    remarks: '@Sub@Sub'
+-
+    ch: ''
+    locode: 'FI TEI'
+    name: Teijo
+    namewodiacritics: Teijo
+    subdiv: LS
+    function: 1-------
+    status: AF
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'FI TNL'
+    name: Tenala
+    namewodiacritics: Tenala
+    subdiv: ES
+    function: '-----6--'
+    status: RQ
+    date: '1007'
+    iata: ''
+    coordinates: '6004N 02318E'
+    remarks: ''
+-
+    ch: ¦
+    locode: 'FI TER'
+    name: 'Terjärv (Teerijärvi)'
+    namewodiacritics: 'Terjarv (Teerijarvi)'
+    subdiv: '12'
+    function: '--3-----'
+    status: AF
+    date: '1307'
+    iata: ''
+    coordinates: '6332N 02330E'
+    remarks: '@Sub@Sub'
+-
+    ch: ''
+    locode: 'FI TTL'
+    name: Terttila
+    namewodiacritics: Terttila
+    subdiv: LS
+    function: '-----6--'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '6033N 02333E'
+    remarks: ''
+-
+    ch: ¦
+    locode: 'FI TRJ'
+    name: Tervajoki
+    namewodiacritics: Tervajoki
+    subdiv: LS
+    function: '-23-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '6300N 02208E'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'FI TRK'
+    name: Tervakoski
+    namewodiacritics: Tervakoski
+    subdiv: ES
+    function: '--3-----'
+    status: AF
+    date: '1301'
+    iata: QVS
+    coordinates: '6048N 02437E'
+    remarks: ''
+-
+    ch: ¦
+    locode: 'FI TRV'
+    name: Tervola
+    namewodiacritics: Tervola
+    subdiv: LL
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '6650N 02448E'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'FI TSD'
+    name: Tervsund
+    namewodiacritics: Tervsund
+    subdiv: ''
+    function: 1-------
+    status: RL
+    date: '1107'
+    iata: ''
+    coordinates: '6015N 02219E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'FI TJO'
+    name: 'Tessjö (Tesjoki)'
+    namewodiacritics: 'Tessjo (Tesjoki)'
+    subdiv: ES
+    function: 1-------
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '6028N 02619E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'FI TES'
+    name: Tessvär
+    namewodiacritics: Tessvar
+    subdiv: ES
+    function: 1-3-----
+    status: RL
+    date: '0907'
+    iata: ''
+    coordinates: '6003N 02254E'
+    remarks: ''
+-
+    ch: ¦
+    locode: 'FI TKK'
+    name: Tikkakoski
+    namewodiacritics: Tikkakoski
+    subdiv: LS
+    function: '--3--6--'
+    status: RQ
+    date: '1307'
+    iata: ''
+    coordinates: '6224N 02538E'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'FI TKR'
+    name: 'Tikkurila (Dickursby)'
+    namewodiacritics: 'Tikkurila (Dickursby)'
+    subdiv: ES
+    function: '-23-----'
+    status: RL
+    date: '0907'
+    iata: ''
+    coordinates: '6018N 02502E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'FI TJA'
+    name: Toijala
+    namewodiacritics: Toijala
+    subdiv: LS
+    function: '-23-----'
+    status: RL
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ¦
+    locode: 'FI TOJ'
+    name: Töjby
+    namewodiacritics: Tojby
+    subdiv: LS
+    function: 1-3-----
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '6239N 02110E'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'FI TOK'
+    name: 'Tolkis (Tolkkinen)'
+    namewodiacritics: 'Tolkis (Tolkkinen)'
+    subdiv: ES
+    function: 1-------
+    status: AI
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'FI TOK'
+    name: 'Tolkkinen (Tolkis)'
+    namewodiacritics: 'Tolkkinen (Tolkis)'
+    subdiv: ES
+    function: 1-------
+    status: AI
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'FI TOR'
+    name: 'Torneå (Tornio)'
+    namewodiacritics: 'Tornea (Tornio)'
+    subdiv: LL
+    function: 1-------
+    status: AI
+    date: '9910'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'FI TOR'
+    name: 'Tornio (Torneå)'
+    namewodiacritics: 'Tornio (Tornea)'
+    subdiv: LL
+    function: 1-------
+    status: AI
+    date: '9910'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ¦
+    locode: 'FI TOT'
+    name: Tottesund
+    namewodiacritics: Tottesund
+    subdiv: LS
+    function: 1-------
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '6314N 02203E'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'FI TVS'
+    name: 'Tövsala (Taivassalo)'
+    namewodiacritics: 'Tovsala (Taivassalo)'
+    subdiv: LS
+    function: 1-------
+    status: AI
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ¦
+    locode: 'FI TRA'
+    name: Träsk
+    namewodiacritics: Trask
+    subdiv: LS
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '6013N 02120E'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'FI JVP'
+    name: 'Träskända (Järvenpää)'
+    namewodiacritics: 'Traskanda (Jarvenpaa)'
+    subdiv: ES
+    function: '--3-----'
+    status: AF
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'FI TUK'
+    name: Tuhkakylä
+    namewodiacritics: Tuhkakyla
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '6402N 02806E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'FI TUP'
+    name: Tupavuori
+    namewodiacritics: Tupavuori
+    subdiv: LS
+    function: '--3-----'
+    status: AF
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'FI TRI'
+    name: Turenki
+    namewodiacritics: Turenki
+    subdiv: ES
+    function: '-23-----'
+    status: RL
+    date: '0601'
+    iata: ''
+    coordinates: '6056N 02440E'
+    remarks: ''
+-
+    ch: ¦
+    locode: 'FI TKU'
+    name: 'Turku (Åbo)'
+    namewodiacritics: 'Turku (Abo)'
+    subdiv: LS
+    function: 1-34----
+    status: AI
+    date: '1307'
+    iata: ''
+    coordinates: '6027N 02217E'
+    remarks: '@Sub@Sub'
+-
+    ch: ¦
+    locode: 'FI TSA'
+    name: Tursa
+    namewodiacritics: Tursa
+    subdiv: LS
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '6106N 02318E'
+    remarks: '@Sub'
+-
+    ch: ¦
+    locode: 'FI FAL'
+    name: Turtola
+    namewodiacritics: Turtola
+    subdiv: LL
+    function: '-----6--'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '6639N 02359E'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'FI TUR'
+    name: Tuuri
+    namewodiacritics: Tuuri
+    subdiv: ES
+    function: '-----6--'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '6236N 02345E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'FI TUU'
+    name: Tuusula
+    namewodiacritics: Tuusula
+    subdiv: ES
+    function: '--3-----'
+    status: RL
+    date: '0607'
+    iata: ''
+    coordinates: '6024N 02502E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'FI TVA'
+    name: Tvärminne
+    namewodiacritics: Tvarminne
+    subdiv: ES
+    function: 1-3-----
+    status: RL
+    date: '0201'
+    iata: ''
+    coordinates: '5950N 02311E'
+    remarks: ''
+-
+    ch: ¦
+    locode: 'FI UIM'
+    name: Uimaharju
+    namewodiacritics: Uimaharju
+    subdiv: IS
+    function: 123-----
+    status: AF
+    date: '1307'
+    iata: ''
+    coordinates: '6254N 03014E'
+    remarks: '@Sub'
+-
+    ch: ¦
+    locode: 'FI OUL'
+    name: 'Uleåborg (Oulu)'
+    namewodiacritics: 'Uleaborg (Oulu)'
+    subdiv: '14'
+    function: 1234----
+    status: AI
+    date: '1307'
+    iata: ''
+    coordinates: '6501N 02528E'
+    remarks: '@Sub@Sub'
+-
+    ch: ¦
+    locode: 'FI ULV'
+    name: Ulvila
+    namewodiacritics: Ulvila
+    subdiv: LS
+    function: 123-----
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '6126N 02153E'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'FI URI'
+    name: Urajarvi
+    namewodiacritics: Urajarvi
+    subdiv: ES
+    function: '--3-----'
+    status: RL
+    date: '1207'
+    iata: ''
+    coordinates: '6108N 02547E'
+    remarks: ''
+-
+    ch: ¦
+    locode: 'FI URA'
+    name: Urjala
+    namewodiacritics: Urjala
+    subdiv: LS
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '6105N 02332E'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'FI USK'
+    name: Uskila
+    namewodiacritics: Uskila
+    subdiv: LS
+    function: 1-3-----
+    status: RL
+    date: '0907'
+    iata: ''
+    coordinates: '6114N 02415E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'FI UTS'
+    name: Utsjoki
+    namewodiacritics: Utsjoki
+    subdiv: LL
+    function: '--3----B'
+    status: AC
+    date: '9909'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'FI UUK'
+    name: Uukuniemi
+    namewodiacritics: Uukuniemi
+    subdiv: IS
+    function: '--3----B'
+    status: AC
+    date: '9909'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'FI UKP'
+    name: 'Uusikaarlepyy (Nykarleby)'
+    namewodiacritics: 'Uusikaarlepyy (Nykarleby)'
+    subdiv: LS
+    function: 1-------
+    status: AI
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'FI UKI'
+    name: 'Uusikaupunki (Nystad)'
+    namewodiacritics: 'Uusikaupunki (Nystad)'
+    subdiv: LS
+    function: 1-------
+    status: AI
+    date: '9910'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'FI UUS'
+    name: Uusi-Valamo/Heinävesi
+    namewodiacritics: Uusi-Valamo/Heinavesi
+    subdiv: ES
+    function: 1-3-----
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'FI VAJ'
+    name: Vaajakoski
+    namewodiacritics: Vaajakoski
+    subdiv: LS
+    function: '--3-----'
+    status: AF
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'FI VKY'
+    name: Vääksy
+    namewodiacritics: Vaaksy
+    subdiv: ES
+    function: '--3-----'
+    status: RL
+    date: '0407'
+    iata: ''
+    coordinates: '6111N 02533E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'FI VLA'
+    name: Vaalimaa
+    namewodiacritics: Vaalimaa
+    subdiv: ES
+    function: '--3----B'
+    status: AC
+    date: '9910'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: '='
+    locode: FI
+    name: 'Vaarala = Vanda (Vantaa)'
+    namewodiacritics: 'Vaarala = Vanda (Vantaa)'
+    subdiv: ''
+    function: ''
+    status: ''
+    date: ''
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ¦
+    locode: 'FI VAA'
+    name: 'Vaasa (Vasa)'
+    namewodiacritics: 'Vaasa (Vasa)'
+    subdiv: LS
+    function: 1-34----
+    status: AI
+    date: '1307'
+    iata: ''
+    coordinates: '6306N 02136E'
+    remarks: '@Sub@Sub'
+-
+    ch: ¦
+    locode: 'FI VTO'
+    name: Vahto
+    namewodiacritics: Vahto
+    subdiv: LS
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '6036N 02218E'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'FI VAI'
+    name: Vainikkala
+    namewodiacritics: Vainikkala
+    subdiv: ES
+    function: '-2-----B'
+    status: AF
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'FI VKK'
+    name: Valkeakoski
+    namewodiacritics: Valkeakoski
+    subdiv: LS
+    function: '--3-----'
+    status: AF
+    date: '9912'
+    iata: QVK
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'FI VAL'
+    name: Valkeala
+    namewodiacritics: Valkeala
+    subdiv: ES
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '6057N 02648E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'FI VKO'
+    name: 'Valko (Valkom)'
+    namewodiacritics: 'Valko (Valkom)'
+    subdiv: ES
+    function: 1-3-----
+    status: AC
+    date: '9910'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'FI VKO'
+    name: 'Valkom (Valko)'
+    namewodiacritics: 'Valkom (Valko)'
+    subdiv: ES
+    function: 1-3-----
+    status: AC
+    date: '9910'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'FI VAM'
+    name: Vammala
+    namewodiacritics: Vammala
+    subdiv: LS
+    function: '--3-----'
+    status: AF
+    date: '0103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'FI VAT'
+    name: 'Vanda (Vantaa)'
+    namewodiacritics: 'Vanda (Vantaa)'
+    subdiv: ES
+    function: '--34---B'
+    status: AC
+    date: '9910'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ¦
+    locode: 'FI VNA'
+    name: Vanhalinna
+    namewodiacritics: Vanhalinna
+    subdiv: LS
+    function: '-23--6--'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '6028N 02222E'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'FI VAT'
+    name: 'Vantaa (Vanda)'
+    namewodiacritics: 'Vantaa (Vanda)'
+    subdiv: ES
+    function: '--34---B'
+    status: AC
+    date: '9910'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ¦
+    locode: 'FI VJK'
+    name: Varjakka
+    namewodiacritics: Varjakka
+    subdiv: OL
+    function: 1-------
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '6454N 02508E'
+    remarks: '@Sub'
+-
+    ch: ¦
+    locode: 'FI VRK'
+    name: Varkaus
+    namewodiacritics: Varkaus
+    subdiv: IS
+    function: 1234---B
+    status: AC
+    date: '1307'
+    iata: ''
+    coordinates: '6219N 02754E'
+    remarks: '@Sub'
+-
+    ch: ¦
+    locode: 'FI FAK'
+    name: Varpaisjärvi
+    namewodiacritics: Varpaisjarvi
+    subdiv: IS
+    function: '-----6--'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '6322N 02745E'
+    remarks: '@Sub'
+-
+    ch: ¦
+    locode: 'FI VIR'
+    name: 'Varpuniemi (Kello)'
+    namewodiacritics: 'Varpuniemi (Kello)'
+    subdiv: LL
+    function: 1-3-----
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '6405N 02824E'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'FI VRT'
+    name: Vartius
+    namewodiacritics: Vartius
+    subdiv: OL
+    function: '-23----B'
+    status: AC
+    date: '9910'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ¦
+    locode: 'FI VAR'
+    name: Vartsala
+    namewodiacritics: Vartsala
+    subdiv: LS
+    function: 1-3-----
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '6020N 02300E'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'FI VLS'
+    name: Vartsila
+    namewodiacritics: Vartsila
+    subdiv: LS
+    function: '-----6--'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ¦
+    locode: 'FI VAA'
+    name: 'Vasa (Vaasa)'
+    namewodiacritics: 'Vasa (Vaasa)'
+    subdiv: '12'
+    function: 1-34----
+    status: AI
+    date: '1307'
+    iata: ''
+    coordinates: '6306N 02136E'
+    remarks: '@Sub@Sub'
+-
+    ch: ¦
+    locode: 'FI VKI'
+    name: Vaskiluoto
+    namewodiacritics: Vaskiluoto
+    subdiv: LS
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '6305N 02132E'
+    remarks: '@Sub'
+-
+    ch: ¦
+    locode: 'FI WAS'
+    name: 'Vasklot (Vaskiluoto)'
+    namewodiacritics: 'Vasklot (Vaskiluoto)'
+    subdiv: LS
+    function: 1-3-----
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '6306N 02134E'
+    remarks: '@Sub'
+-
+    ch: ¦
+    locode: 'FI VTF'
+    name: Västanfjärd
+    namewodiacritics: Vastanfjard
+    subdiv: LS
+    function: 1-3-----
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '6003N 02239E'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'FI VKA'
+    name: Veikkola
+    namewodiacritics: Veikkola
+    subdiv: ES
+    function: '--3-----'
+    status: RL
+    date: '0701'
+    iata: ''
+    coordinates: '6017N 02425E'
+    remarks: ''
+-
+    ch: ¦
+    locode: 'FI VEI'
+    name: Veitsiluoto
+    namewodiacritics: Veitsiluoto
+    subdiv: LL
+    function: 1-------
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '6541N 02438E'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'FI VEL'
+    name: Velkua
+    namewodiacritics: Velkua
+    subdiv: LS
+    function: 1-------
+    status: AF
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ¦
+    locode: 'FI VES'
+    name: Vessölandet
+    namewodiacritics: Vessolandet
+    subdiv: LL
+    function: '--3-----'
+    status: RQ
+    date: '1307'
+    iata: ''
+    coordinates: '6017N 02544E'
+    remarks: '@Sub'
+-
+    ch: ¦
+    locode: 'FI VAS'
+    name: Vestlax
+    namewodiacritics: Vestlax
+    subdiv: LS
+    function: 1-3-----
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '6005N 02246E'
+    remarks: '@Sub'
+-
+    ch: ¦
+    locode: 'FI VET'
+    name: 'Veteli (Vetil)'
+    namewodiacritics: 'Veteli (Vetil)'
+    subdiv: LS
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '6329N 02347E'
+    remarks: '@Sub'
+-
+    ch: ¦
+    locode: 'FI VIE'
+    name: Vieremä
+    namewodiacritics: Vierema
+    subdiv: IS
+    function: '-----6--'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '6345N 02701E'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'FI VMA'
+    name: Vierumäki
+    namewodiacritics: Vierumaki
+    subdiv: ES
+    function: '-23-----'
+    status: RL
+    date: '0701'
+    iata: ''
+    coordinates: '6107N 02556E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'FI VTV'
+    name: Vihtavuori
+    namewodiacritics: Vihtavuori
+    subdiv: LS
+    function: '--3-----'
+    status: RL
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'FI VHI'
+    name: 'Vihti (Vichtis)'
+    namewodiacritics: 'Vihti (Vichtis)'
+    subdiv: ES
+    function: '--3-----'
+    status: RL
+    date: '0907'
+    iata: ''
+    coordinates: '6025N 02419E'
+    remarks: ''
+-
+    ch: ¦
+    locode: 'FI VIA'
+    name: Viiala
+    namewodiacritics: Viiala
+    subdiv: LS
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '6113N 02347E'
+    remarks: '@Sub'
+-
+    ch: ¦
+    locode: 'FI VSI'
+    name: Viitasaari
+    namewodiacritics: Viitasaari
+    subdiv: LS
+    function: '--3-----'
+    status: RQ
+    date: '1307'
+    iata: ''
+    coordinates: '6304N 02551E'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'FI JKK'
+    name: Viljakkala
+    namewodiacritics: Viljakkala
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '6142N 02316E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'FI VLH'
+    name: Villähde
+    namewodiacritics: Villahde
+    subdiv: ES
+    function: '-23-----'
+    status: RL
+    date: '0701'
+    iata: ''
+    coordinates: '6057N 02548E'
+    remarks: ''
+-
+    ch: ¦
+    locode: 'FI LPP'
+    name: 'Villmanstrand (Lappeenranta)'
+    namewodiacritics: 'Villmanstrand (Lappeenranta)'
+    subdiv: '02'
+    function: 1234---B
+    status: AC
+    date: '1307'
+    iata: ''
+    coordinates: '6103N 02811E'
+    remarks: '@Sub'
+-
+    ch: ¦
+    locode: 'FI VPU'
+    name: Vilppula
+    namewodiacritics: Vilppula
+    subdiv: LS
+    function: '-23-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '6201N 02431E'
+    remarks: '@Sub'
+-
+    ch: ¦
+    locode: 'FI FAJ'
+    name: Vimpeli
+    namewodiacritics: Vimpeli
+    subdiv: LS
+    function: '-----6--'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '6309N 02348E'
+    remarks: '@Sub'
+-
+    ch: ¦
+    locode: 'FI VNI'
+    name: Vinkkilä
+    namewodiacritics: Vinkkila
+    subdiv: LS
+    function: '-23-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '6041N 02143E'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'FI VLI'
+    name: Virolahti
+    namewodiacritics: Virolahti
+    subdiv: ES
+    function: '--3-----'
+    status: AF
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ¦
+    locode: 'FI VRA'
+    name: 'Virrat (Virdois)'
+    namewodiacritics: 'Virrat (Virdois)'
+    subdiv: LS
+    function: 123-----
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '6214N 02345E'
+    remarks: '@Sub'
+-
+    ch: ¦
+    locode: 'FI VUO'
+    name: Vuokatti
+    namewodiacritics: Vuokatti
+    subdiv: OL
+    function: '-23--6--'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '6407N 02815E'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'FI VKT'
+    name: 'Vuoksen Terminal'
+    namewodiacritics: 'Vuoksen Terminal'
+    subdiv: ES
+    function: 123-----
+    status: RL
+    date: '0507'
+    iata: ''
+    coordinates: '6113N 02849E'
+    remarks: ''
+-
+    ch: ¦
+    locode: 'FI VJI'
+    name: Vuolijoki
+    namewodiacritics: Vuolijoki
+    subdiv: OL
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '6411N 02701E'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'FI VSS'
+    name: 'Vuosaari (Nordsjö)'
+    namewodiacritics: 'Vuosaari (Nordsjo)'
+    subdiv: ES
+    function: 1-------
+    status: RQ
+    date: '1101'
+    iata: ''
+    coordinates: '6013N 02511E'
+    remarks: ''
+-
+    ch: ¦
+    locode: 'FI YMY'
+    name: Ylämylly
+    namewodiacritics: Ylamylly
+    subdiv: IS
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '6237N 02934E'
+    remarks: '@Sub'
+-
+    ch: ¦
+    locode: 'FI YRA'
+    name: Ylihärmä
+    namewodiacritics: Yliharma
+    subdiv: LS
+    function: '-23-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '6308N 02246E'
+    remarks: '@Sub'
+-
+    ch: ¦
+    locode: 'FI YMU'
+    name: 'Ylimarkku (Övermark)'
+    namewodiacritics: 'Ylimarkku (Overmark)'
+    subdiv: LS
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '6237N 02128E'
+    remarks: '@Sub'
+-
+    ch: ¦
+    locode: 'FI YSO'
+    name: Ylistaro
+    namewodiacritics: Ylistaro
+    subdiv: LS
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '6114N 02225E'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'FI YLI'
+    name: Ylivieska
+    namewodiacritics: Ylivieska
+    subdiv: OL
+    function: '---4----'
+    status: AF
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ¦
+    locode: 'FI YJA'
+    name: Ylöjärvi
+    namewodiacritics: Ylojarvi
+    subdiv: LS
+    function: '-23--6--'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '6133N 02335E'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'FI YXP'
+    name: Yxpila
+    namewodiacritics: Yxpila
+    subdiv: ''
+    function: 123-----
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '6350N 02302E'
+    remarks: ''

@@ -1,0 +1,768 @@
+-
+    ch: ''
+    locode: 'IQ ALF'
+    name: 'Abu Al Fulus'
+    namewodiacritics: 'Abu Al Fulus'
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '9811'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'IQ ALK'
+    name: 'Abu Al Khasib'
+    namewodiacritics: 'Abu Al Khasib'
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '9805'
+    iata: ''
+    coordinates: ''
+    remarks: Tammar
+-
+    ch: +
+    locode: 'IQ ABU'
+    name: 'Abu Ghraib'
+    namewodiacritics: 'Abu Ghraib'
+    subdiv: BG
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '3317N 04403E'
+    remarks: ''
+-
+    ch: ¦
+    locode: 'IQ ASD'
+    name: 'Al Asad'
+    namewodiacritics: 'Al Asad'
+    subdiv: ''
+    function: 1-3-----
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '3347N 04226E'
+    remarks: '@Coo'
+-
+    ch: ''
+    locode: 'IQ HIL'
+    name: 'Al Hillah'
+    namewodiacritics: 'Al Hillah'
+    subdiv: BB
+    function: 1-------
+    status: RL
+    date: '0212'
+    iata: ''
+    coordinates: '3229N 04426E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IQ KUT'
+    name: 'Al Kut'
+    namewodiacritics: 'Al Kut'
+    subdiv: ''
+    function: 0-------
+    status: RQ
+    date: '9012'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'IQ AQY'
+    name: 'Al Qayyarah'
+    namewodiacritics: 'Al Qayyarah'
+    subdiv: NI
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '3548N 04317E'
+    remarks: ''
+-
+    ch: ¦
+    locode: 'IQ TQD'
+    name: 'Al Taqaddum'
+    namewodiacritics: 'Al Taqaddum'
+    subdiv: ''
+    function: 1-3-----
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '3320N 04335E'
+    remarks: '@Coo'
+-
+    ch: ''
+    locode: 'IQ UZA'
+    name: 'Al ''Uzayr'
+    namewodiacritics: 'Al ''Uzayr'
+    subdiv: MA
+    function: '--3-----'
+    status: RL
+    date: '0212'
+    iata: ''
+    coordinates: '3120N 04725E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IQ ZUB'
+    name: 'Al Zuwayr'
+    namewodiacritics: 'Al Zuwayr'
+    subdiv: QA
+    function: '--3-----'
+    status: RL
+    date: '0212'
+    iata: ''
+    coordinates: '3149N 04454E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IQ TAL'
+    name: 'Ali Air Base'
+    namewodiacritics: 'Ali Air Base'
+    subdiv: ''
+    function: '--34----'
+    status: RQ
+    date: '1001'
+    iata: ''
+    coordinates: '3056N 04605E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IQ AMA'
+    name: 'Amara (Al-Amarah)'
+    namewodiacritics: 'Amara (Al-Amarah)'
+    subdiv: ''
+    function: 0-------
+    status: RQ
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'IQ ANJ'
+    name: 'An Najaf'
+    namewodiacritics: 'An Najaf'
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0201'
+    iata: ''
+    coordinates: '3159N 04420E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IQ NRH'
+    name: 'An Nasiriyah'
+    namewodiacritics: 'An Nasiriyah'
+    subdiv: DQ
+    function: '--3-----'
+    status: RL
+    date: '0212'
+    iata: ''
+    coordinates: '3102N 04616E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IQ ARK'
+    name: Arak
+    namewodiacritics: Arak
+    subdiv: ''
+    function: 0-------
+    status: RQ
+    date: '9012'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'IQ ABL'
+    name: Arbil
+    namewodiacritics: Arbil
+    subdiv: AR
+    function: '-----6--'
+    status: RL
+    date: '1201'
+    iata: ''
+    coordinates: '3611N 04400E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IQ SBA'
+    name: 'Ash Shu''aybah'
+    namewodiacritics: 'Ash Shu''aybah'
+    subdiv: BA
+    function: '--3-----'
+    status: RL
+    date: '0212'
+    iata: ''
+    coordinates: '3024N 04736E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IQ BGW'
+    name: Baghdåd
+    namewodiacritics: Baghdad
+    subdiv: BG
+    function: 12345---
+    status: AI
+    date: '0401'
+    iata: ''
+    coordinates: '3320N 04423E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IQ BAL'
+    name: Balad
+    namewodiacritics: Balad
+    subdiv: SD
+    function: '-23-----'
+    status: RL
+    date: '0401'
+    iata: ''
+    coordinates: '3400N 04408E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IQ BMN'
+    name: Bamerny
+    namewodiacritics: Bamerny
+    subdiv: ''
+    function: '---4----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '3706N 04316E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IQ BAQ'
+    name: 'Ba''qubah'
+    namewodiacritics: 'Ba''qubah'
+    subdiv: DI
+    function: '-23-----'
+    status: RL
+    date: '0507'
+    iata: ''
+    coordinates: '3345N 04438E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IQ BSH'
+    name: 'Bashur Airfield'
+    namewodiacritics: 'Bashur Airfield'
+    subdiv: ''
+    function: '--34----'
+    status: RQ
+    date: '1001'
+    iata: ''
+    coordinates: '3632N 04421E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IQ BSR'
+    name: Basra
+    namewodiacritics: Basra
+    subdiv: ''
+    function: 1-------
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'IQ BAI'
+    name: Bayji
+    namewodiacritics: Bayji
+    subdiv: SD
+    function: '--3-----'
+    status: RL
+    date: '1101'
+    iata: ''
+    coordinates: '3455N 04329E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IQ CBC'
+    name: 'Camp Bucca'
+    namewodiacritics: 'Camp Bucca'
+    subdiv: BA
+    function: '--3-----'
+    status: RQ
+    date: '1001'
+    iata: ''
+    coordinates: '3004N 04753E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IQ CHA'
+    name: Chamchamal
+    namewodiacritics: Chamchamal
+    subdiv: SU
+    function: '--3-----'
+    status: RQ
+    date: '1001'
+    iata: ''
+    coordinates: '3532N 04449E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IQ DQR'
+    name: 'Dhi Qar'
+    namewodiacritics: 'Dhi Qar'
+    subdiv: MU
+    function: '-----6--'
+    status: RL
+    date: '1201'
+    iata: ''
+    coordinates: '3127N 04506E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IQ DIW'
+    name: Diwaniyah
+    namewodiacritics: Diwaniyah
+    subdiv: ''
+    function: 0-------
+    status: RQ
+    date: '9012'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'IQ DOK'
+    name: Dohuk
+    namewodiacritics: Dohuk
+    subdiv: ''
+    function: 0-------
+    status: RQ
+    date: '9012'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'IQ EBL'
+    name: 'Erbil International Apt'
+    namewodiacritics: 'Erbil International Apt'
+    subdiv: ''
+    function: '--345---'
+    status: RL
+    date: '0701'
+    iata: ''
+    coordinates: '3614N 04357E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IQ FAL'
+    name: Falluja
+    namewodiacritics: Falluja
+    subdiv: ''
+    function: 0-------
+    status: RQ
+    date: '9012'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'IQ FAO'
+    name: Fao
+    namewodiacritics: Fao
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'IQ HAF'
+    name: 'H1 Airfield'
+    namewodiacritics: 'H1 Airfield'
+    subdiv: ''
+    function: '--34----'
+    status: RQ
+    date: '1001'
+    iata: ''
+    coordinates: '3349N 04126E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IQ HND'
+    name: Hindiya
+    namewodiacritics: Hindiya
+    subdiv: ''
+    function: 0-------
+    status: RQ
+    date: '9012'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'IQ HIT'
+    name: Hit
+    namewodiacritics: Hit
+    subdiv: ''
+    function: 0-------
+    status: RQ
+    date: '9012'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'IQ IRB'
+    name: Irbil
+    namewodiacritics: Irbil
+    subdiv: ''
+    function: '-23-----'
+    status: RL
+    date: '0607'
+    iata: ''
+    coordinates: '3610N 04400E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IQ IKD'
+    name: Iskandariyha
+    namewodiacritics: Iskandariyha
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'IQ KAR'
+    name: Karbala
+    namewodiacritics: Karbala
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'IQ KAB'
+    name: 'Khan al Baghdadi'
+    namewodiacritics: 'Khan al Baghdadi'
+    subdiv: ''
+    function: '-23-----'
+    status: RL
+    date: '0507'
+    iata: ''
+    coordinates: '3350N 04233E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IQ KHA'
+    name: 'Khor Al Amaya'
+    namewodiacritics: 'Khor Al Amaya'
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'IQ KAZ'
+    name: 'Khor al Zubair'
+    namewodiacritics: 'Khor al Zubair'
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '9506'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'IQ KIK'
+    name: Kirkuk
+    namewodiacritics: Kirkuk
+    subdiv: ''
+    function: 1-------
+    status: AI
+    date: '9401'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'IQ KFA'
+    name: Kufa
+    namewodiacritics: Kufa
+    subdiv: ''
+    function: 0-------
+    status: RQ
+    date: '9012'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'IQ MAN'
+    name: Mandali
+    namewodiacritics: Mandali
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'IQ MAB'
+    name: 'Mina'' al Bakr'
+    namewodiacritics: 'Mina'' al Bakr'
+    subdiv: BA
+    function: 1-------
+    status: RL
+    date: '0212'
+    iata: ''
+    coordinates: '2945N 04850E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IQ OSM'
+    name: 'Mosul (Ak Mawsil)'
+    namewodiacritics: 'Mosul (Ak Mawsil)'
+    subdiv: NI
+    function: 1-3-----
+    status: AI
+    date: '0307'
+    iata: ''
+    coordinates: '3610N 04235E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IQ NMA'
+    name: 'Nahr an Nu''maniyah'
+    namewodiacritics: 'Nahr an Nu''maniyah'
+    subdiv: DQ
+    function: '--3-----'
+    status: RL
+    date: '0212'
+    iata: ''
+    coordinates: '3058N 04616E'
+    remarks: ''
+-
+    ch: ¦
+    locode: 'IQ NJF'
+    name: Najaf
+    namewodiacritics: Najaf
+    subdiv: NA
+    function: 1-34----
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '3159N 04418E'
+    remarks: '@Fun@Sub@Coo'
+-
+    ch: ''
+    locode: 'IQ NAS'
+    name: Najat
+    namewodiacritics: Najat
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ¦
+    locode: 'IQ NSR'
+    name: Nasiriyah
+    namewodiacritics: Nasiriyah
+    subdiv: ''
+    function: 1-3-----
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '3103N 04615E'
+    remarks: '@Coo'
+-
+    ch: ''
+    locode: 'IQ NAM'
+    name: 'New Al Muthana Air Base'
+    namewodiacritics: 'New Al Muthana Air Base'
+    subdiv: BG
+    function: '--34----'
+    status: RQ
+    date: '0907'
+    iata: ''
+    coordinates: '3316N 04414E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IQ RMD'
+    name: Ramadi
+    namewodiacritics: Ramadi
+    subdiv: ''
+    function: 0-------
+    status: RQ
+    date: '9012'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'IQ RTM'
+    name: Ratawi
+    namewodiacritics: Ratawi
+    subdiv: ''
+    function: 0-------
+    status: RQ
+    date: '9012'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'IQ SAM'
+    name: 'Samarra'''
+    namewodiacritics: 'Samarra'''
+    subdiv: SD
+    function: 1-------
+    status: RL
+    date: '0212'
+    iata: ''
+    coordinates: '3412N 04352E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IQ SMW'
+    name: 'Samawa (As-Samawah)'
+    namewodiacritics: 'Samawa (As-Samawah)'
+    subdiv: ''
+    function: 0-------
+    status: RQ
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'IQ SHT'
+    name: 'Shaykh Hantush'
+    namewodiacritics: 'Shaykh Hantush'
+    subdiv: QA
+    function: '--3-----'
+    status: RQ
+    date: '1001'
+    iata: ''
+    coordinates: '3220N 04455E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IQ SYH'
+    name: Sulaymaniyah
+    namewodiacritics: Sulaymaniyah
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '0212'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ¦
+    locode: 'IQ TJI'
+    name: Taji
+    namewodiacritics: Taji
+    subdiv: ''
+    function: 1-3-----
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '3331N 04416E'
+    remarks: '@Coo'
+-
+    ch: ''
+    locode: 'IQ TAF'
+    name: 'Tal Afar'
+    namewodiacritics: 'Tal Afar'
+    subdiv: NI
+    function: '--3-----'
+    status: RQ
+    date: '1001'
+    iata: ''
+    coordinates: '3622N 04227E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IQ TLL'
+    name: Tallil
+    namewodiacritics: Tallil
+    subdiv: ''
+    function: '--34----'
+    status: RQ
+    date: '1001'
+    iata: ''
+    coordinates: '3056N 04605E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IQ TKT'
+    name: Tikrit
+    namewodiacritics: Tikrit
+    subdiv: ''
+    function: 0-------
+    status: RQ
+    date: '9012'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'IQ UQR'
+    name: 'Umm Qasr Port'
+    namewodiacritics: 'Umm Qasr Port'
+    subdiv: BA
+    function: 123-----
+    status: RL
+    date: '0907'
+    iata: ''
+    coordinates: '3002N 04756E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IQ WST'
+    name: Wasit
+    namewodiacritics: Wasit
+    subdiv: QA
+    function: '-----6--'
+    status: RL
+    date: '1107'
+    iata: ''
+    coordinates: '3223N 04513E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IQ ZAO'
+    name: Zakho
+    namewodiacritics: Zakho
+    subdiv: ''
+    function: 1-3-----
+    status: RL
+    date: '0601'
+    iata: ''
+    coordinates: '3708N 04242E'
+    remarks: ''

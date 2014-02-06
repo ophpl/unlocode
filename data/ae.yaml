@@ -1,0 +1,636 @@
+-
+    ch: ''
+    locode: 'AE ABU'
+    name: 'Abu al Bukhoosh'
+    namewodiacritics: 'Abu al Bukhoosh'
+    subdiv: ''
+    function: 1-------
+    status: RL
+    date: '0307'
+    iata: ''
+    coordinates: '2529N 05308E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AE AUH'
+    name: 'Abu Dhabi'
+    namewodiacritics: 'Abu Dhabi'
+    subdiv: AZ
+    function: 1-345---
+    status: AI
+    date: '1101'
+    iata: ''
+    coordinates: '2428N 05422E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AE AMU'
+    name: 'Abu Musa'
+    namewodiacritics: 'Abu Musa'
+    subdiv: ''
+    function: 1-------
+    status: RL
+    date: '0201'
+    iata: ''
+    coordinates: '2552N 05501E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AE AJM'
+    name: Ajman
+    namewodiacritics: Ajman
+    subdiv: ''
+    function: 1-3-----
+    status: RL
+    date: '0103'
+    iata: QAJ
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'AE AAN'
+    name: 'Al Ain'
+    namewodiacritics: 'Al Ain'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'AE DHF'
+    name: 'Al Dhafra'
+    namewodiacritics: 'Al Dhafra'
+    subdiv: ''
+    function: '--34----'
+    status: AI
+    date: '0507'
+    iata: ''
+    coordinates: '2414N 05432E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AE FJR'
+    name: 'Al Fujayrah'
+    namewodiacritics: 'Al Fujayrah'
+    subdiv: FU
+    function: 1--4----
+    status: AI
+    date: '0212'
+    iata: ''
+    coordinates: '2507N 05620E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AE HAM'
+    name: 'Al Hamriyah'
+    namewodiacritics: 'Al Hamriyah'
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0212'
+    iata: ''
+    coordinates: '2529N 05530E'
+    remarks: ''
+-
+    ch: +
+    locode: 'AE JAZ'
+    name: 'Al Jazeera Port'
+    namewodiacritics: 'Al Jazeera Port'
+    subdiv: RK
+    function: 1-------
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '2543N 05548E'
+    remarks: ''
+-
+    ch: +
+    locode: 'AE AJP'
+    name: 'Al Jeer Port'
+    namewodiacritics: 'Al Jeer Port'
+    subdiv: RK
+    function: 1-3-----
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '2602N 05603E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AE RUW'
+    name: 'Ar Ruways'
+    namewodiacritics: 'Ar Ruways'
+    subdiv: ''
+    function: 1-------
+    status: RL
+    date: '0212'
+    iata: ''
+    coordinates: '2407N 05244E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AE ARZ'
+    name: 'Arzanah Island'
+    namewodiacritics: 'Arzanah Island'
+    subdiv: ''
+    function: 0-------
+    status: RQ
+    date: '9506'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'AE DAS'
+    name: 'Das Island'
+    namewodiacritics: 'Das Island'
+    subdiv: ''
+    function: 1-------
+    status: RL
+    date: '0003'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'AE DBP'
+    name: Dibba
+    namewodiacritics: Dibba
+    subdiv: SH
+    function: 1-3-----
+    status: RL
+    date: '0401'
+    iata: ''
+    coordinates: '2537N 05616E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AE DXB'
+    name: Dubai
+    namewodiacritics: Dubai
+    subdiv: DU
+    function: 1-345---
+    status: AI
+    date: '0407'
+    iata: ''
+    coordinates: '2515N 05516E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AE DWC'
+    name: 'Dubai World Central Apt'
+    namewodiacritics: 'Dubai World Central Apt'
+    subdiv: ''
+    function: '--34----'
+    status: AI
+    date: '1007'
+    iata: ''
+    coordinates: '2453N 05510E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AE END'
+    name: Esnnad
+    namewodiacritics: Esnnad
+    subdiv: AZ
+    function: 1-------
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '2419N 05427E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AE FAT'
+    name: 'Fateh Terminal'
+    namewodiacritics: 'Fateh Terminal'
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'AE HAB'
+    name: Habshan
+    namewodiacritics: Habshan
+    subdiv: AZ
+    function: '--3-----'
+    status: RL
+    date: '1207'
+    iata: ''
+    coordinates: '2356N 05338E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AE HTL'
+    name: 'Hulaylah Terminal'
+    namewodiacritics: 'Hulaylah Terminal'
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '2559N 05556E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AE IND'
+    name: Indooroodilly
+    namewodiacritics: Indooroodilly
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '0201'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'AE JEA'
+    name: 'Jebel Ali'
+    namewodiacritics: 'Jebel Ali'
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'AE JED'
+    name: 'Jebel Dhanna'
+    namewodiacritics: 'Jebel Dhanna'
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'AE JYH'
+    name: Jumayrah
+    namewodiacritics: Jumayrah
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0201'
+    iata: ''
+    coordinates: '2510N 05513E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AE KLB'
+    name: Kalba
+    namewodiacritics: Kalba
+    subdiv: ''
+    function: 1-3-----
+    status: RL
+    date: '0601'
+    iata: ''
+    coordinates: '2504N 05621E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AE KHA'
+    name: Khalidia
+    namewodiacritics: Khalidia
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '0201'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'AE KLF'
+    name: 'Khor al Fakkan'
+    namewodiacritics: 'Khor al Fakkan'
+    subdiv: ''
+    function: 1-------
+    status: RL
+    date: '0212'
+    iata: ''
+    coordinates: '2520N 05621E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AE MAS'
+    name: Masfut
+    namewodiacritics: Masfut
+    subdiv: ''
+    function: 0-------
+    status: RQ
+    date: '9307'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'AE MKH'
+    name: 'Mina Khalid'
+    namewodiacritics: 'Mina Khalid'
+    subdiv: SH
+    function: 1-3-----
+    status: RL
+    date: '0401'
+    iata: ''
+    coordinates: '2521N 05522E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AE KHL'
+    name: 'Mina Khalifa/Abu Dhabi'
+    namewodiacritics: 'Mina Khalifa/Abu Dhabi'
+    subdiv: ''
+    function: 1-------
+    status: RL
+    date: '1207'
+    iata: ''
+    coordinates: '2450N 05440E'
+    remarks: ''
+-
+    ch: ¦
+    locode: 'AE MSA'
+    name: 'Mina Saqr'
+    namewodiacritics: 'Mina Saqr'
+    subdiv: RK
+    function: 1-------
+    status: RQ
+    date: '1307'
+    iata: ''
+    coordinates: ''
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'AE MZD'
+    name: 'Mina Zayed/Abu Dhabi'
+    namewodiacritics: 'Mina Zayed/Abu Dhabi'
+    subdiv: AZ
+    function: 1-------
+    status: RL
+    date: '0401'
+    iata: ''
+    coordinates: '2431N 05422E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AE NHD'
+    name: Minhad
+    namewodiacritics: Minhad
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9506'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'AE RFA'
+    name: Mirfa
+    namewodiacritics: Mirfa
+    subdiv: AZ
+    function: 1----6--
+    status: RQ
+    date: '0907'
+    iata: ''
+    coordinates: '2528N 05329E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AE MUB'
+    name: 'Mubarek Terminal'
+    namewodiacritics: 'Mubarek Terminal'
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'AE MBS'
+    name: 'Mubarras Island'
+    namewodiacritics: 'Mubarras Island'
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '9506'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'AE FMZ'
+    name: Musafa
+    namewodiacritics: Musafa
+    subdiv: ''
+    function: 0-------
+    status: RQ
+    date: '9307'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'AE AMF'
+    name: Mussafah
+    namewodiacritics: Mussafah
+    subdiv: AZ
+    function: 1-------
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '2423N 05429E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AE OFJ'
+    name: 'Offshore Fujairah'
+    namewodiacritics: 'Offshore Fujairah'
+    subdiv: ''
+    function: '------7-'
+    status: RQ
+    date: '0907'
+    iata: ''
+    coordinates: '2515N 05640E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AE PRA'
+    name: 'Port Rashid'
+    namewodiacritics: 'Port Rashid'
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '9506'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: +
+    locode: 'AE RKP'
+    name: 'Rak Khor Port'
+    namewodiacritics: 'Rak Khor Port'
+    subdiv: RK
+    function: 1-------
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '2549N 05557E'
+    remarks: ''
+-
+    ch: +
+    locode: 'AE RMC'
+    name: 'Rak Maritime City'
+    namewodiacritics: 'Rak Maritime City'
+    subdiv: RK
+    function: 1-------
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '2557N 05603E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AE RKT'
+    name: 'Ras al Khaimah'
+    namewodiacritics: 'Ras al Khaimah'
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '0212'
+    iata: ''
+    coordinates: '2547N 05557E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AE RAK'
+    name: 'Ras Al Khor'
+    namewodiacritics: 'Ras Al Khor'
+    subdiv: DU
+    function: '-----6--'
+    status: RQ
+    date: '1007'
+    iata: ''
+    coordinates: '2517N 05534E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AE DUY'
+    name: 'Ras Zubbaya (Ras Dubayyah)'
+    namewodiacritics: 'Ras Zubbaya (Ras Dubayyah)'
+    subdiv: ''
+    function: 0-------
+    status: RQ
+    date: '9012'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: '='
+    locode: AE
+    name: 'Ruwais = Ar Ruways'
+    namewodiacritics: 'Ruwais = Ar Ruways'
+    subdiv: ''
+    function: ''
+    status: ''
+    date: ''
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'AE SID'
+    name: 'Sadiyat Island'
+    namewodiacritics: 'Sadiyat Island'
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '2432N 05424E'
+    remarks: ''
+-
+    ch: ¦
+    locode: 'AE SHJ'
+    name: Sharjah
+    namewodiacritics: Sharjah
+    subdiv: SH
+    function: 1-34----
+    status: AI
+    date: '1307'
+    iata: ''
+    coordinates: '2521N 05523E'
+    remarks: '@Fun@Sub@Coo'
+-
+    ch: ''
+    locode: 'AE DUJ'
+    name: 'The Palm Jumeirah'
+    namewodiacritics: 'The Palm Jumeirah'
+    subdiv: DU
+    function: 1-------
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'AE ULR'
+    name: 'Umm Al Nar'
+    namewodiacritics: 'Umm Al Nar'
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '0201'
+    iata: ''
+    coordinates: '2426N 05430E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AE QIW'
+    name: 'Umm al Qaiwain'
+    namewodiacritics: 'Umm al Qaiwain'
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '0212'
+    iata: ''
+    coordinates: '2534N 05533E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AE YAS'
+    name: 'Yas Island'
+    namewodiacritics: 'Yas Island'
+    subdiv: AZ
+    function: 1-------
+    status: RL
+    date: '1207'
+    iata: ''
+    coordinates: '2419N 05236E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AE ZUR'
+    name: 'Zirku Island'
+    namewodiacritics: 'Zirku Island'
+    subdiv: AZ
+    function: 1-------
+    status: RL
+    date: '0212'
+    iata: ''
+    coordinates: '2453N 05304E'
+    remarks: ''

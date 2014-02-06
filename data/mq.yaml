@@ -1,0 +1,180 @@
+-
+    ch: ''
+    locode: 'MQ BFT'
+    name: Bellefonaine
+    namewodiacritics: Bellefonaine
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '1440N 06109E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MQ DUC'
+    name: Ducos
+    namewodiacritics: Ducos
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0201'
+    iata: ''
+    coordinates: '1433N 06059W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MQ FDF'
+    name: Fort-de-France
+    namewodiacritics: Fort-de-France
+    subdiv: ''
+    function: 1--45---
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MQ LAT'
+    name: 'La Trinité'
+    namewodiacritics: 'La Trinite'
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '1201'
+    iata: ''
+    coordinates: '1444N 06058W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MQ LFR'
+    name: 'Le François'
+    namewodiacritics: 'Le Francois'
+    subdiv: ''
+    function: '-2--5---'
+    status: RL
+    date: '0212'
+    iata: ''
+    coordinates: '1436N 06054W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MQ LMT'
+    name: 'Le Lamentin'
+    namewodiacritics: 'Le Lamentin'
+    subdiv: ''
+    function: '-2--5---'
+    status: RL
+    date: '0212'
+    iata: ''
+    coordinates: '1436N 06100W'
+    remarks: ''
+-
+    ch: +
+    locode: 'MQ LLO'
+    name: 'Le Lorrain'
+    namewodiacritics: 'Le Lorrain'
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '1450N 06104W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MQ QMR'
+    name: 'Le Marin'
+    namewodiacritics: 'Le Marin'
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '1001'
+    iata: ''
+    coordinates: '1428N 06052W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MQ LER'
+    name: 'Le Robert'
+    namewodiacritics: 'Le Robert'
+    subdiv: ''
+    function: 1-3-----
+    status: RQ
+    date: '0907'
+    iata: ''
+    coordinates: '1440N 06056W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MQ MBA'
+    name: Macouba
+    namewodiacritics: Macouba
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '1207'
+    iata: ''
+    coordinates: '1452N 06108W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MQ QPC'
+    name: 'Pointe Des Carrieres'
+    namewodiacritics: 'Pointe Des Carrieres'
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '1001'
+    iata: ''
+    coordinates: '1435N 06103W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MQ SPI'
+    name: 'Saint Pierre'
+    namewodiacritics: 'Saint Pierre'
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '1101'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: +
+    locode: 'MQ STM'
+    name: Sainte-Marie
+    namewodiacritics: Sainte-Marie
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '1447N 06059W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MQ SJO'
+    name: Saint-Joseph
+    namewodiacritics: Saint-Joseph
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '1201'
+    iata: ''
+    coordinates: '1440N 06102W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MQ SHL'
+    name: Schlcher
+    namewodiacritics: Scholcher
+    subdiv: ''
+    function: '-2--5---'
+    status: RL
+    date: '0212'
+    iata: ''
+    coordinates: '1436N 06106W'
+    remarks: ''

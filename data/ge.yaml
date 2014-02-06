@@ -1,0 +1,552 @@
+-
+    ch: ''
+    locode: 'GE ZAI'
+    name: Akhalkalaki
+    namewodiacritics: Akhalkalaki
+    subdiv: ''
+    function: '-----6--'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '4124N 04328E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GE ASE'
+    name: 'Akhalts''ikhe'
+    namewodiacritics: 'Akhalts''ikhe'
+    subdiv: ''
+    function: '-----6--'
+    status: RL
+    date: '1201'
+    iata: ''
+    coordinates: '4138N 04258E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GE ZAH'
+    name: Akhmeta
+    namewodiacritics: Akhmeta
+    subdiv: ''
+    function: '-----6--'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '4201N 04512E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GE BUS'
+    name: Batumi
+    namewodiacritics: Batumi
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'GE BNS'
+    name: Bolnisi
+    namewodiacritics: Bolnisi
+    subdiv: KK
+    function: '--3-----'
+    status: RL
+    date: '1207'
+    iata: ''
+    coordinates: '4122N 04430E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GE ZAL'
+    name: Borjomi
+    namewodiacritics: Borjomi
+    subdiv: ''
+    function: '-----6--'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '4150N 04322E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GE CHT'
+    name: 'Chiat''ura'
+    namewodiacritics: 'Chiat''ura'
+    subdiv: IM
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '4217N 04317E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GE ZAC'
+    name: Chrebalo
+    namewodiacritics: Chrebalo
+    subdiv: ''
+    function: '-----6--'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '4233N 04258E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GE ZAE'
+    name: Dmanisi
+    namewodiacritics: Dmanisi
+    subdiv: ''
+    function: '-----6--'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '4119N 04421E'
+    remarks: ''
+-
+    ch: +
+    locode: 'GE GGR'
+    name: Gagra
+    namewodiacritics: Gagra
+    subdiv: AB
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '4319N 04013E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GE GAR'
+    name: Gardabani
+    namewodiacritics: Gardabani
+    subdiv: KK
+    function: '--3-----'
+    status: RL
+    date: '1207'
+    iata: ''
+    coordinates: '4127N 04505E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GE ZAF'
+    name: Gori
+    namewodiacritics: Gori
+    subdiv: ''
+    function: '-----6--'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '4158N 04406E'
+    remarks: ''
+-
+    ch: +
+    locode: 'GE GUD'
+    name: Gudauri
+    namewodiacritics: Gudauri
+    subdiv: MM
+    function: '-23-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '4228N 04428E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GE GUR'
+    name: Gurjaani
+    namewodiacritics: Gurjaani
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '9906'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'GE KAK'
+    name: Kakheti
+    namewodiacritics: Kakheti
+    subdiv: TB
+    function: '-----6--'
+    status: RL
+    date: '1201'
+    iata: ''
+    coordinates: '4145N 04543E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GE KAR'
+    name: Kareli
+    namewodiacritics: Kareli
+    subdiv: ''
+    function: '-----6--'
+    status: RL
+    date: '1107'
+    iata: ''
+    coordinates: '4201N 04354E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GE ZAG'
+    name: Kaspi
+    namewodiacritics: Kaspi
+    subdiv: ''
+    function: '-----6--'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '4154N 04425E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GE KAI'
+    name: 'Khelvach''auri'
+    namewodiacritics: 'Khelvach''auri'
+    subdiv: AJ
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '4135N 04140E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GE KUL'
+    name: Kulevi
+    namewodiacritics: Kulevi
+    subdiv: ''
+    function: 1-------
+    status: RL
+    date: '1107'
+    iata: ''
+    coordinates: '4216N 04138E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GE KUT'
+    name: Kutaisi
+    namewodiacritics: Kutaisi
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'GE ZAB'
+    name: Kvareli
+    namewodiacritics: Kvareli
+    subdiv: ''
+    function: '-----6--'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '4157N 04548E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GE LDK'
+    name: Lagodekhi
+    namewodiacritics: Lagodekhi
+    subdiv: KA
+    function: '-----6--'
+    status: RL
+    date: '1001'
+    iata: ''
+    coordinates: '4149N 04617E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GE LAN'
+    name: 'Lanch'' khut'' i'
+    namewodiacritics: 'Lanch'' khut'' i'
+    subdiv: GU
+    function: '--3-----'
+    status: RL
+    date: '1101'
+    iata: ''
+    coordinates: '4205N 04202E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GE LIL'
+    name: Lilo
+    namewodiacritics: Lilo
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '0907'
+    iata: ''
+    coordinates: '4140N 04458E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GE MAR'
+    name: Marneuli
+    namewodiacritics: Marneuli
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '4128N 04449E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GE ZAA'
+    name: Mtskheta
+    namewodiacritics: Mtskheta
+    subdiv: ''
+    function: '-----6--'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '4150N 04442E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GE NAT'
+    name: Natakhtari
+    namewodiacritics: Natakhtari
+    subdiv: KK
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '4155N 04443E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GE KHV'
+    name: Orkhevi
+    namewodiacritics: Orkhevi
+    subdiv: ''
+    function: '-----6--'
+    status: RL
+    date: '1107'
+    iata: ''
+    coordinates: '4158N 04501E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GE PTI'
+    name: Poti
+    namewodiacritics: Poti
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '9207'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'GE ZAK'
+    name: Rustavi
+    namewodiacritics: Rustavi
+    subdiv: ''
+    function: '-----6--'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '4132N 04500E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GE RTV'
+    name: 'Rust''Avi'
+    namewodiacritics: 'Rust''Avi'
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '0907'
+    iata: ''
+    coordinates: '4132N 04500E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GE SAC'
+    name: 'Sach'' khere'
+    namewodiacritics: 'Sach'' khere'
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '1101'
+    iata: ''
+    coordinates: '4220N 04325E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GE STD'
+    name: Samtredia
+    namewodiacritics: Samtredia
+    subdiv: ''
+    function: '-----6--'
+    status: RL
+    date: '1201'
+    iata: ''
+    coordinates: '4209N 04220E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GE ZAJ'
+    name: Senaki
+    namewodiacritics: Senaki
+    subdiv: ''
+    function: '-----6--'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '4216N 04204E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GE SHP'
+    name: Shorapani
+    namewodiacritics: Shorapani
+    subdiv: ''
+    function: '-----6--'
+    status: RL
+    date: '1201'
+    iata: ''
+    coordinates: '4205N 04306E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GE SUI'
+    name: Sokhumi
+    namewodiacritics: Sokhumi
+    subdiv: SZ
+    function: '--34----'
+    status: AI
+    date: '1001'
+    iata: ''
+    coordinates: '4300N 04101E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GE SPS'
+    name: 'Sup''sa'
+    namewodiacritics: 'Sup''sa'
+    subdiv: ''
+    function: 1-------
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '4202N 04148E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GE TBS'
+    name: Tbilisi
+    namewodiacritics: Tbilisi
+    subdiv: ''
+    function: '---45---'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'GE TEL'
+    name: 'T''elavi'
+    namewodiacritics: 'T''elavi'
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0601'
+    iata: ''
+    coordinates: '4155N 04528E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GE TSA'
+    name: Tsageri
+    namewodiacritics: Tsageri
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '4238N 04245E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GE TSK'
+    name: Tsalenjikha
+    namewodiacritics: Tsalenjikha
+    subdiv: ''
+    function: '-----6--'
+    status: RQ
+    date: '1007'
+    iata: ''
+    coordinates: '4216N 04204E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GE TSI'
+    name: Tsintskaro
+    namewodiacritics: Tsintskaro
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '0907'
+    iata: ''
+    coordinates: '4135N 04437E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GE VAZ'
+    name: Vaziani
+    namewodiacritics: Vaziani
+    subdiv: TB
+    function: '-234----'
+    status: RL
+    date: '1201'
+    iata: ''
+    coordinates: '4141N 04503E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GE ZOG'
+    name: 'Zestap''oni'
+    namewodiacritics: 'Zestap''oni'
+    subdiv: ''
+    function: '-----6--'
+    status: RQ
+    date: '1201'
+    iata: ''
+    coordinates: '4206N 04303E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GE ZHI'
+    name: Zhinvali
+    namewodiacritics: Zhinvali
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '0907'
+    iata: ''
+    coordinates: '4206N 04446E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GE ZAD'
+    name: Zugdidi
+    namewodiacritics: Zugdidi
+    subdiv: ''
+    function: '-----6--'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '4230N 04152E'
+    remarks: ''

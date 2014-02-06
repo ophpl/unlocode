@@ -1,0 +1,408 @@
+-
+    ch: ''
+    locode: 'UZ AKT'
+    name: Akaltyn
+    namewodiacritics: Akaltyn
+    subdiv: ''
+    function: 1-3-----
+    status: RL
+    date: '0601'
+    iata: ''
+    coordinates: '4126N 06104E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'UZ ALK'
+    name: Almalyk
+    namewodiacritics: Almalyk
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '9811'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'UZ AZN'
+    name: Andizhan
+    namewodiacritics: Andizhan
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'UZ ASA'
+    name: Asaka
+    namewodiacritics: Asaka
+    subdiv: AN
+    function: 1-3-----
+    status: RQ
+    date: '1001'
+    iata: ''
+    coordinates: '4038N 07214E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'UZ BHK'
+    name: Bukhara
+    namewodiacritics: Bukhara
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'UZ CKT'
+    name: Chimkent
+    namewodiacritics: Chimkent
+    subdiv: FA
+    function: '--3-----'
+    status: RL
+    date: '1207'
+    iata: ''
+    coordinates: '4029N 07138E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'UZ CHU'
+    name: Chukur-Say
+    namewodiacritics: Chukur-Say
+    subdiv: TO
+    function: '-23-----'
+    status: RL
+    date: '0401'
+    iata: ''
+    coordinates: '4122N 06913E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'UZ FEG'
+    name: Fergana
+    namewodiacritics: Fergana
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'UZ GST'
+    name: Guliston
+    namewodiacritics: Guliston
+    subdiv: ''
+    function: '-23-----'
+    status: RL
+    date: '0601'
+    iata: ''
+    coordinates: '4030N 06847E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'UZ JIZ'
+    name: Jizzakh
+    namewodiacritics: Jizzakh
+    subdiv: JI
+    function: '-23-----'
+    status: RL
+    date: '0501'
+    iata: ''
+    coordinates: '4006N 06750E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'UZ KPA'
+    name: Karakalpakiya
+    namewodiacritics: Karakalpakiya
+    subdiv: QR
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '4445N 05605E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'UZ KBZ'
+    name: Karaulbazar
+    namewodiacritics: Karaulbazar
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0207'
+    iata: ''
+    coordinates: '3929N 06447E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'UZ KSQ'
+    name: Karshi
+    namewodiacritics: Karshi
+    subdiv: QA
+    function: '-234----'
+    status: AI
+    date: '0401'
+    iata: ''
+    coordinates: '3851N 06547E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'UZ KHM'
+    name: Khamza
+    namewodiacritics: Khamza
+    subdiv: ''
+    function: '-23-----'
+    status: RL
+    date: '0701'
+    iata: ''
+    coordinates: '4025N 07130E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'UZ KKH'
+    name: Khanabad
+    namewodiacritics: Khanabad
+    subdiv: QA
+    function: '--3-----'
+    status: RL
+    date: '0307'
+    iata: ''
+    coordinates: '3850N 06556E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'UZ KOK'
+    name: Kokand
+    namewodiacritics: Kokand
+    subdiv: FA
+    function: '-23-----'
+    status: RL
+    date: '0401'
+    iata: ''
+    coordinates: '4031N 07056E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'UZ MGN'
+    name: Marghilon
+    namewodiacritics: Marghilon
+    subdiv: ''
+    function: '-23-----'
+    status: RL
+    date: '0601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'UZ NMA'
+    name: Namangan
+    namewodiacritics: Namangan
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: +
+    locode: 'UZ NVI'
+    name: 'Navoi Apt.'
+    namewodiacritics: 'Navoi Apt.'
+    subdiv: NW
+    function: '---4----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '4112N 06859E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'UZ NWY'
+    name: Nawoiy
+    namewodiacritics: Nawoiy
+    subdiv: ''
+    function: '-23-----'
+    status: RL
+    date: '0601'
+    iata: ''
+    coordinates: '4007N 06521E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'UZ NCU'
+    name: Nukus
+    namewodiacritics: Nukus
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'UZ AGN'
+    name: Ohangaron
+    namewodiacritics: Ohangaron
+    subdiv: TO
+    function: '-23-----'
+    status: RL
+    date: '1101'
+    iata: ''
+    coordinates: '4054N 06938E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'UZ QAR'
+    name: Qarshi
+    namewodiacritics: Qarshi
+    subdiv: QA
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '3931N 05929E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'UZ SKD'
+    name: Samarkand
+    namewodiacritics: Samarkand
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'UZ SYA'
+    name: Sary-Assiya
+    namewodiacritics: Sary-Assiya
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0307'
+    iata: ''
+    coordinates: '3907N 06657E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'UZ SHU'
+    name: Shurkhasan
+    namewodiacritics: Shurkhasan
+    subdiv: QA
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '3854N 06712E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'UZ TAS'
+    name: Tashkent
+    namewodiacritics: Tashkent
+    subdiv: ''
+    function: '---45---'
+    status: AI
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'UZ TER'
+    name: Termez
+    namewodiacritics: Termez
+    subdiv: SU
+    function: '-23----B'
+    status: RL
+    date: '0501'
+    iata: ''
+    coordinates: '3713N 06716E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'UZ UCH'
+    name: Uchquduq
+    namewodiacritics: Uchquduq
+    subdiv: NW
+    function: '---4----'
+    status: RQ
+    date: '1101'
+    iata: ''
+    coordinates: '4215N 06355E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'UZ ULU'
+    name: Ulugbek
+    namewodiacritics: Ulugbek
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0201'
+    iata: ''
+    coordinates: '4123N 06924E'
+    remarks: ''
+-
+    ch: ¦
+    locode: 'UZ UGC'
+    name: 'Urganch (Urgench)'
+    namewodiacritics: 'Urganch (Urgench)'
+    subdiv: KH
+    function: '-234----'
+    status: AI
+    date: '1307'
+    iata: ''
+    coordinates: '4133N 06038E'
+    remarks: '@Sub'
+-
+    ch: +
+    locode: 'UZ YLH'
+    name: Yalangach
+    namewodiacritics: Yalangach
+    subdiv: TO
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '4121N 06920E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'UZ ZAR'
+    name: Zarafshon
+    namewodiacritics: Zarafshon
+    subdiv: NW
+    function: '-23-----'
+    status: RL
+    date: '0501'
+    iata: ''
+    coordinates: '4134N 06412E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'UZ ZER'
+    name: Zeravshan
+    namewodiacritics: Zeravshan
+    subdiv: NW
+    function: '---4----'
+    status: RQ
+    date: '1101'
+    iata: ''
+    coordinates: '4157N 06419E'
+    remarks: ''

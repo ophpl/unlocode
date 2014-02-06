@@ -1,0 +1,972 @@
+-
+    ch: ''
+    locode: 'SA AHB'
+    name: Abha
+    namewodiacritics: Abha
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SA ABQ'
+    name: Abqaiq
+    namewodiacritics: Abqaiq
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '1201'
+    iata: ''
+    coordinates: '2556N 04940E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SA DMM'
+    name: 'Ad Dammam'
+    namewodiacritics: 'Ad Dammam'
+    subdiv: '04'
+    function: 12345---
+    status: RL
+    date: '0501'
+    iata: ''
+    coordinates: '2625N 05006E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SA DAW'
+    name: 'Ad Dawadami'
+    namewodiacritics: 'Ad Dawadami'
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '2430N 04423E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SA ABT'
+    name: 'Al Baha'
+    namewodiacritics: 'Al Baha'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SA BAH'
+    name: 'Al Bahah'
+    namewodiacritics: 'Al Bahah'
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '9901'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SA AHA'
+    name: 'Al Hada'
+    namewodiacritics: 'Al Hada'
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SA LJW'
+    name: 'Al Jawf'
+    namewodiacritics: 'Al Jawf'
+    subdiv: '14'
+    function: '--3-----'
+    status: RL
+    date: '1101'
+    iata: ''
+    coordinates: '1813N 04311E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SA JBI'
+    name: 'Al Jubayl Industrial City'
+    namewodiacritics: 'Al Jubayl Industrial City'
+    subdiv: ''
+    function: 1-3-----
+    status: RL
+    date: '0307'
+    iata: ''
+    coordinates: '2704N 04933E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SA AKH'
+    name: 'Al Kharj'
+    namewodiacritics: 'Al Kharj'
+    subdiv: '01'
+    function: '--34----'
+    status: AI
+    date: '1101'
+    iata: ''
+    coordinates: '2408N 04718E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SA ALK'
+    name: 'Al Khobar'
+    namewodiacritics: 'Al Khobar'
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '9506'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SA KHU'
+    name: 'Al Khuraibah'
+    namewodiacritics: 'Al Khuraibah'
+    subdiv: '07'
+    function: 1-------
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '2803N 03510E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SA AMU'
+    name: 'Al Muajjiz'
+    namewodiacritics: 'Al Muajjiz'
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '0907'
+    iata: ''
+    coordinates: '2328N 03823E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SA QAH'
+    name: 'Al Qahmah'
+    namewodiacritics: 'Al Qahmah'
+    subdiv: '09'
+    function: 1-------
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '1801N 04140E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SA QUN'
+    name: 'Al Qunfudah'
+    namewodiacritics: 'Al Qunfudah'
+    subdiv: '09'
+    function: 1-------
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '1907N 04104E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SA AUT'
+    name: 'Al ''Uthmaniyah'
+    namewodiacritics: 'Al ''Uthmaniyah'
+    subdiv: '04'
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '2511N 04918E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SA ARR'
+    name: 'Ar Rass'
+    namewodiacritics: 'Ar Rass'
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '9901'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SA RAE'
+    name: Arar
+    namewodiacritics: Arar
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SA BDN'
+    name: Badanah
+    namewodiacritics: Badanah
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0201'
+    iata: ''
+    coordinates: '3058N 04101E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SA BHH'
+    name: Bisha
+    namewodiacritics: Bisha
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9401'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SA BUR'
+    name: Buraydah
+    namewodiacritics: Buraydah
+    subdiv: ''
+    function: 1----6--
+    status: RL
+    date: '1001'
+    iata: ''
+    coordinates: '2619N 04358E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SA DHA'
+    name: Dhahran
+    namewodiacritics: Dhahran
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '9401'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SA DHU'
+    name: Dhuba
+    namewodiacritics: Dhuba
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '9506'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SA FJJ'
+    name: Fiji
+    namewodiacritics: Fiji
+    subdiv: '02'
+    function: '-----6--'
+    status: RQ
+    date: '1001'
+    iata: ''
+    coordinates: '2416N 03834E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SA ELQ'
+    name: Gassim
+    namewodiacritics: Gassim
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9401'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SA URY'
+    name: Gurayat
+    namewodiacritics: Gurayat
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9401'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SA HBT'
+    name: 'Hafar al Batin'
+    namewodiacritics: 'Hafar al Batin'
+    subdiv: ''
+    function: '--34----'
+    status: AI
+    date: '9901'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SA HAS'
+    name: Hail
+    namewodiacritics: Hail
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9401'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SA HZM'
+    name: 'Hazm Al Jalamid'
+    namewodiacritics: 'Hazm Al Jalamid'
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '3116N 04006E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SA HOF'
+    name: Hofuf
+    namewodiacritics: Hofuf
+    subdiv: ''
+    function: '---4----'
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SA JED'
+    name: Jeddah
+    namewodiacritics: Jeddah
+    subdiv: ''
+    function: 1--45---
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SA GIZ'
+    name: Jizan
+    namewodiacritics: Jizan
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '0607'
+    iata: ''
+    coordinates: '1653N 04233E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SA AJF'
+    name: Jouf
+    namewodiacritics: Jouf
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9401'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SA JUT'
+    name: 'Juaymah Terminal'
+    namewodiacritics: 'Juaymah Terminal'
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '9506'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SA JUB'
+    name: Jubail
+    namewodiacritics: Jubail
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SA KMX'
+    name: 'Khamis Mushayt'
+    namewodiacritics: 'Khamis Mushayt'
+    subdiv: ''
+    function: '--34----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SA KAC'
+    name: 'King Abdullah City'
+    namewodiacritics: 'King Abdullah City'
+    subdiv: '02'
+    function: 1-3-----
+    status: RQ
+    date: '1301'
+    iata: ''
+    coordinates: '2224N 03905E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SA KFH'
+    name: 'King Fhad'
+    namewodiacritics: 'King Fhad'
+    subdiv: ''
+    function: 0-------
+    status: RQ
+    date: '9307'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SA KKH'
+    name: 'King Khalid'
+    namewodiacritics: 'King Khalid'
+    subdiv: ''
+    function: 0-------
+    status: RQ
+    date: '9307'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SA LIT'
+    name: Lith
+    namewodiacritics: Lith
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SA MED'
+    name: Madinah
+    namewodiacritics: Madinah
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SA MJH'
+    name: Majma
+    namewodiacritics: Majma
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SA MAK'
+    name: Makkah
+    namewodiacritics: Makkah
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SA MAN'
+    name: Manailih
+    namewodiacritics: Manailih
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SA MUF'
+    name: Manfouha
+    namewodiacritics: Manfouha
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: '='
+    locode: SA
+    name: 'Medina = Madinah'
+    namewodiacritics: 'Medina = Madinah'
+    subdiv: ''
+    function: ''
+    status: ''
+    date: ''
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SA MHY'
+    name: Muhayil
+    namewodiacritics: Muhayil
+    subdiv: '14'
+    function: '-----6--'
+    status: RL
+    date: '1201'
+    iata: ''
+    coordinates: '1832N 04202E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SA NJN'
+    name: Najran
+    namewodiacritics: Najran
+    subdiv: '10'
+    function: '--3-----'
+    status: RL
+    date: '1101'
+    iata: ''
+    coordinates: '1730N 04411E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SA EAM'
+    name: Nejran
+    namewodiacritics: Nejran
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9401'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SA AQI'
+    name: Qaisumah
+    namewodiacritics: Qaisumah
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SA QAL'
+    name: Qalsn
+    namewodiacritics: Qalsn
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SA QTF'
+    name: Qatif
+    namewodiacritics: Qatif
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SA QUR'
+    name: Qurayyah
+    namewodiacritics: Qurayyah
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SA RAB'
+    name: Rabigh
+    namewodiacritics: Rabigh
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SA RAH'
+    name: Rafha
+    namewodiacritics: Rafha
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9401'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SA RAR'
+    name: 'Ras al Khafji'
+    namewodiacritics: 'Ras al Khafji'
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SA RAM'
+    name: 'Ras al Mishab'
+    namewodiacritics: 'Ras al Mishab'
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SA RAZ'
+    name: 'Ras Al-Khair'
+    namewodiacritics: 'Ras Al-Khair'
+    subdiv: '04'
+    function: 1-3-----
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '2728N 04917E'
+    remarks: 'Ras Al Zour'
+-
+    ch: ''
+    locode: 'SA RTA'
+    name: 'Ras Tanura'
+    namewodiacritics: 'Ras Tanura'
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SA RUH'
+    name: Riyadh
+    namewodiacritics: Riyadh
+    subdiv: ''
+    function: '---45---'
+    status: AI
+    date: '9401'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SA RYP'
+    name: 'Riyadh Dry Port'
+    namewodiacritics: 'Riyadh Dry Port'
+    subdiv: ''
+    function: '-23-----'
+    status: RL
+    date: '0601'
+    iata: ''
+    coordinates: '2438N 04644E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SA SAF'
+    name: Safaniya
+    namewodiacritics: Safaniya
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '1107'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SA SUH'
+    name: Salboukh
+    namewodiacritics: Salboukh
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SA SAY'
+    name: Sayhat
+    namewodiacritics: Sayhat
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0401'
+    iata: ''
+    coordinates: '2628N 05002E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SA SHD'
+    name: Shadqam
+    namewodiacritics: Shadqam
+    subdiv: '04'
+    function: '--3---7-'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '2543N 04925E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SA SHW'
+    name: Sharurah
+    namewodiacritics: Sharurah
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SA SLF'
+    name: Sulayel
+    namewodiacritics: Sulayel
+    subdiv: ''
+    function: '---4----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '2028N 04537E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SA TUU'
+    name: Tabuk
+    namewodiacritics: Tabuk
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9401'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SA TIF'
+    name: Taif
+    namewodiacritics: Taif
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SA TUI'
+    name: Turaif
+    namewodiacritics: Turaif
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9401'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SA TFZ'
+    name: 'Tusdeer Free Zone'
+    namewodiacritics: 'Tusdeer Free Zone'
+    subdiv: ''
+    function: '-----6--'
+    status: RQ
+    date: '0907'
+    iata: ''
+    coordinates: '2129N 39958E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SA UDH'
+    name: Udhailiyah
+    namewodiacritics: Udhailiyah
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '1201'
+    iata: ''
+    coordinates: '2508N 04918E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SA VLA'
+    name: 'Umm Lajj'
+    namewodiacritics: 'Umm Lajj'
+    subdiv: ''
+    function: 1-3-----
+    status: RL
+    date: '0401'
+    iata: ''
+    coordinates: '2501N 03716E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SA UZH'
+    name: Unayzah
+    namewodiacritics: Unayzah
+    subdiv: ''
+    function: '--34----'
+    status: AI
+    date: '9901'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SA WAE'
+    name: 'Wadi ad Dawasir'
+    namewodiacritics: 'Wadi ad Dawasir'
+    subdiv: ''
+    function: '--34----'
+    status: AI
+    date: '9901'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SA AWI'
+    name: Waisumah
+    namewodiacritics: Waisumah
+    subdiv: ''
+    function: '---4----'
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SA EJH'
+    name: Wedjh
+    namewodiacritics: Wedjh
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SA YNB'
+    name: 'Yanbu al-Bahr'
+    namewodiacritics: 'Yanbu al-Bahr'
+    subdiv: '03'
+    function: 1-34----
+    status: AI
+    date: '0401'
+    iata: ''
+    coordinates: '2405N 03802E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SA YBI'
+    name: 'Yanbu Industrial City'
+    namewodiacritics: 'Yanbu Industrial City'
+    subdiv: '03'
+    function: 1-3-----
+    status: RL
+    date: '0307'
+    iata: ''
+    coordinates: '2359N 03813E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SA ZUL'
+    name: Zilfi
+    namewodiacritics: Zilfi
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SA ZUY'
+    name: Zulayfayn
+    namewodiacritics: Zulayfayn
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''

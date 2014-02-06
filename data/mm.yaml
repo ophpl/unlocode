@@ -1,0 +1,708 @@
+-
+    ch: ''
+    locode: 'MM AKY'
+    name: 'Akyab (Sittwe)'
+    namewodiacritics: 'Akyab (Sittwe)'
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '9401'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MM BPE'
+    name: Bagan
+    namewodiacritics: Bagan
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MM BSX'
+    name: Bassein
+    namewodiacritics: Bassein
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MM BMO'
+    name: Bhamo
+    namewodiacritics: Bhamo
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MM BIL'
+    name: Bilin
+    namewodiacritics: Bilin
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MM BOG'
+    name: Bogale
+    namewodiacritics: Bogale
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MM TVY'
+    name: Dawe
+    namewodiacritics: Dawe
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MM GAW'
+    name: Gangaw
+    namewodiacritics: Gangaw
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MM GWA'
+    name: Gwa
+    namewodiacritics: Gwa
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MM HEN'
+    name: Heho
+    namewodiacritics: Heho
+    subdiv: ''
+    function: '---4----'
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MM HEB'
+    name: Henzada
+    namewodiacritics: Henzada
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MM HOX'
+    name: Homalin
+    namewodiacritics: Homalin
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MM INS'
+    name: Insein
+    namewodiacritics: Insein
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MM KMV'
+    name: Kalemyo
+    namewodiacritics: Kalemyo
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MM KAW'
+    name: Kawthaung
+    namewodiacritics: Kawthaung
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MM KET'
+    name: 'Keng Tung'
+    namewodiacritics: 'Keng Tung'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MM KHM'
+    name: Khamti
+    namewodiacritics: Khamti
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MM KYA'
+    name: Kyaiklat
+    namewodiacritics: Kyaiklat
+    subdiv: '07'
+    function: 1-3-----
+    status: RL
+    date: '0401'
+    iata: ''
+    coordinates: '1634N 09547E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MM KYP'
+    name: Kyaukpyu
+    namewodiacritics: Kyaukpyu
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MM KYT'
+    name: Kyauktaw
+    namewodiacritics: Kyauktaw
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MM LSH'
+    name: Lashio
+    namewodiacritics: Lashio
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MM LIW'
+    name: Loikaw
+    namewodiacritics: Loikaw
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MM MWQ'
+    name: Magwe
+    namewodiacritics: Magwe
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MM MXE'
+    name: Male
+    namewodiacritics: Male
+    subdiv: ''
+    function: 1-3-----
+    status: RL
+    date: '0101'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MM MGU'
+    name: Manaung
+    namewodiacritics: Manaung
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MM MDL'
+    name: Mandalay
+    namewodiacritics: Mandalay
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MM MAR'
+    name: Martaban
+    namewodiacritics: Martaban
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MM MNU'
+    name: 'Mawlamyine (Moulmein)'
+    namewodiacritics: 'Mawlamyine (Moulmein)'
+    subdiv: ''
+    function: 1--4----
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MM MER'
+    name: Mergui
+    namewodiacritics: Mergui
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MM MOE'
+    name: Momeik
+    namewodiacritics: Momeik
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MM MOG'
+    name: 'Mong Hsat'
+    namewodiacritics: 'Mong Hsat'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MM MGK'
+    name: 'Mong Ton'
+    namewodiacritics: 'Mong Ton'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MM MUR'
+    name: Murdon
+    namewodiacritics: Murdon
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MM MGZ'
+    name: Myeik
+    namewodiacritics: Myeik
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MM MYT'
+    name: Myitkyina
+    namewodiacritics: Myitkyina
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MM NMS'
+    name: Namsang
+    namewodiacritics: Namsang
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MM NMT'
+    name: Namtu
+    namewodiacritics: Namtu
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MM NYU'
+    name: Nyaung-U
+    namewodiacritics: Nyaung-U
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MM PAA'
+    name: Pa-An
+    namewodiacritics: Pa-An
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MM PKK'
+    name: Pakokku
+    namewodiacritics: Pakokku
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MM PPU'
+    name: Papun
+    namewodiacritics: Papun
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MM PAU'
+    name: Pauk
+    namewodiacritics: Pauk
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MM PAZ'
+    name: Pazundaung
+    namewodiacritics: Pazundaung
+    subdiv: ''
+    function: '-----6--'
+    status: RL
+    date: '1107'
+    iata: ''
+    coordinates: '1647N 09610E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MM PEG'
+    name: Pegu
+    namewodiacritics: Pegu
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MM PRU'
+    name: Prome
+    namewodiacritics: Prome
+    subdiv: ''
+    function: '---4----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '1849N 09516E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MM PBU'
+    name: Putao
+    namewodiacritics: Putao
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: '='
+    locode: MM
+    name: 'Rangoon = Yangon'
+    namewodiacritics: 'Rangoon = Yangon'
+    subdiv: ''
+    function: ''
+    status: ''
+    date: ''
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: '='
+    locode: MM
+    name: 'Sandoway = Thandwe'
+    namewodiacritics: 'Sandoway = Thandwe'
+    subdiv: ''
+    function: ''
+    status: ''
+    date: ''
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MM THL'
+    name: Tachilek
+    namewodiacritics: Tachilek
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MM TAS'
+    name: 'Tah Sala'
+    namewodiacritics: 'Tah Sala'
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MM TEN'
+    name: Tanintharyi
+    namewodiacritics: Tanintharyi
+    subdiv: ''
+    function: 1-------
+    status: RL
+    date: '0212'
+    iata: ''
+    coordinates: '1205N 09901E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MM TAV'
+    name: Tavoy
+    namewodiacritics: Tavoy
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MM TER'
+    name: 'Terutao Island'
+    namewodiacritics: 'Terutao Island'
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MM SNW'
+    name: 'Thandwe (ex Sandoway)'
+    namewodiacritics: 'Thandwe (ex Sandoway)'
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MM THA'
+    name: Thaton
+    namewodiacritics: Thaton
+    subdiv: ''
+    function: 1--4----
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MM TIO'
+    name: Tilin
+    namewodiacritics: Tilin
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MM VIC'
+    name: 'Victoria Point'
+    namewodiacritics: 'Victoria Point'
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MM RGN'
+    name: Yangon
+    namewodiacritics: Yangon
+    subdiv: ''
+    function: 1--45---
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MM XYE'
+    name: Ye
+    namewodiacritics: Ye
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''

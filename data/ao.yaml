@@ -1,0 +1,936 @@
+-
+    ch: ''
+    locode: 'AO AZZ'
+    name: Ambriz
+    namewodiacritics: Ambriz
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'AO ANL'
+    name: Andulo
+    namewodiacritics: Andulo
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'AO BAB'
+    name: Baba
+    namewodiacritics: Baba
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '1450S 01214E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AO BDT'
+    name: 'Baía dos Tigres'
+    namewodiacritics: 'Baia dos Tigres'
+    subdiv: ''
+    function: 1-------
+    status: RL
+    date: '0212'
+    iata: ''
+    coordinates: '1636S 01144E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AO BDD'
+    name: 'Barra do Dande'
+    namewodiacritics: 'Barra do Dande'
+    subdiv: ''
+    function: 1-------
+    status: RL
+    date: '0103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'AO BUG'
+    name: Benguela
+    namewodiacritics: Benguela
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'AO CAB'
+    name: Cabinda
+    namewodiacritics: Cabinda
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'AO CFF'
+    name: Cafunfo
+    namewodiacritics: Cafunfo
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'AO CNZ'
+    name: Cangamba
+    namewodiacritics: Cangamba
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'AO KNP'
+    name: Capanda
+    namewodiacritics: Capanda
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'AO CPO'
+    name: Capulo
+    namewodiacritics: Capulo
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '0759S 01310E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AO CBT'
+    name: Catumbela
+    namewodiacritics: Catumbela
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'AO CAV'
+    name: Cazombo
+    namewodiacritics: Cazombo
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'AO PGI'
+    name: Chitato
+    namewodiacritics: Chitato
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'AO CUI'
+    name: Cuio
+    namewodiacritics: Cuio
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '1259S 01259E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AO CTI'
+    name: 'Cuito Cuanavale'
+    namewodiacritics: 'Cuito Cuanavale'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'AO DAL'
+    name: Dalia
+    namewodiacritics: Dalia
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '0307'
+    iata: ''
+    coordinates: '0741S 01147E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AO DRC'
+    name: Dirico
+    namewodiacritics: Dirico
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'AO DGR'
+    name: 'Dombe Grande'
+    namewodiacritics: 'Dombe Grande'
+    subdiv: ''
+    function: 1-------
+    status: RL
+    date: '0103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'AO DUE'
+    name: Dundo
+    namewodiacritics: Dundo
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'AO ETN'
+    name: 'Essungo Terminal'
+    namewodiacritics: 'Essungo Terminal'
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '0620S 01210E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AO FBY'
+    name: 'Farta Bay'
+    namewodiacritics: 'Farta Bay'
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '1237S 01312E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AO FLT'
+    name: 'Futila Terminal'
+    namewodiacritics: 'Futila Terminal'
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '0527S 01211E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AO GIM'
+    name: Gimboa
+    namewodiacritics: Gimboa
+    subdiv: ''
+    function: 1-------
+    status: RL
+    date: '1107'
+    iata: ''
+    coordinates: '0732S 01210E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AO GIR'
+    name: 'Girassol Terminal'
+    namewodiacritics: 'Girassol Terminal'
+    subdiv: ''
+    function: 1-------
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '0738S 01141E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AO GPO'
+    name: 'Greater Plutonio'
+    namewodiacritics: 'Greater Plutonio'
+    subdiv: ''
+    function: 1-------
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '3356N 12545E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AO NOV'
+    name: Huambo
+    namewodiacritics: Huambo
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'AO JMB'
+    name: Jamba
+    namewodiacritics: Jamba
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'AO KTI'
+    name: 'Kiame Terminal'
+    namewodiacritics: 'Kiame Terminal'
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'AO SVP'
+    name: Kuito
+    namewodiacritics: Kuito
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'AO KOT'
+    name: 'Kuito Terminal'
+    namewodiacritics: 'Kuito Terminal'
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '0526S 01129E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AO LAA'
+    name: 'Landana (Cacongo)'
+    namewodiacritics: 'Landana (Cacongo)'
+    subdiv: ''
+    function: 1-------
+    status: RL
+    date: '0103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'AO LIE'
+    name: Lieura
+    namewodiacritics: Lieura
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'AO LOB'
+    name: Lobito
+    namewodiacritics: Lobito
+    subdiv: ''
+    function: 1---5---
+    status: RL
+    date: '0103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'AO LBT'
+    name: 'Lombo Terminal'
+    namewodiacritics: 'Lombo Terminal'
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '0659S 01221E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AO LAD'
+    name: Luanda
+    namewodiacritics: Luanda
+    subdiv: ''
+    function: 1--45---
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'AO UAL'
+    name: Luau
+    namewodiacritics: Luau
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'AO SDD'
+    name: Lubango
+    namewodiacritics: Lubango
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'AO LUC'
+    name: Lucira
+    namewodiacritics: Lucira
+    subdiv: ''
+    function: 1-3-----
+    status: RL
+    date: '0103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'AO LUO'
+    name: Luena
+    namewodiacritics: Luena
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'AO LBZ'
+    name: Lukapa
+    namewodiacritics: Lukapa
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'AO GGC'
+    name: Lumbala
+    namewodiacritics: Lumbala
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'AO LZM'
+    name: Luzamba
+    namewodiacritics: Luzamba
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'AO MEG'
+    name: Malange
+    namewodiacritics: Malange
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'AO MLO'
+    name: Malembo
+    namewodiacritics: Malembo
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '9811'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'AO MAL'
+    name: Malongo
+    namewodiacritics: Malongo
+    subdiv: ''
+    function: 0-------
+    status: RQ
+    date: '9012'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'AO SSY'
+    name: 'M''banza Congo'
+    namewodiacritics: 'M''banza Congo'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'AO SPP'
+    name: Menongue
+    namewodiacritics: Menongue
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'AO MOS'
+    name: Mocamedes
+    namewodiacritics: Mocamedes
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '1510S 01209E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AO MSZ'
+    name: Namibe
+    namewodiacritics: Namibe
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '9506'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'AO NDF'
+    name: 'N''dalatando'
+    namewodiacritics: 'N''dalatando'
+    subdiv: CNO
+    function: '---4----'
+    status: AI
+    date: '0212'
+    iata: ''
+    coordinates: '0918S 01455E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AO GXG'
+    name: Negage
+    namewodiacritics: Negage
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'AO NQI'
+    name: Nóqui
+    namewodiacritics: Noqui
+    subdiv: ''
+    function: 123-----
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '0551S 01326E'
+    remarks: ''
+-
+    ch: '='
+    locode: AO
+    name: 'Novo Redondo = Sumbe'
+    namewodiacritics: 'Novo Redondo = Sumbe'
+    subdiv: ''
+    function: ''
+    status: ''
+    date: ''
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'AO NRQ'
+    name: 'N''Riquinha'
+    namewodiacritics: 'N''Riquinha'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'AO NZA'
+    name: Nzagi
+    namewodiacritics: Nzagi
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'AO ARZ'
+    name: 'N''Zeto'
+    namewodiacritics: 'N''Zeto'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'AO NTO'
+    name: 'N''Zeto (Ambrizete)'
+    namewodiacritics: 'N''Zeto (Ambrizete)'
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '0716S 01251E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AO NGV'
+    name: Ondjiva
+    namewodiacritics: Ondjiva
+    subdiv: CNN
+    function: '---4----'
+    status: AI
+    date: '0212'
+    iata: ''
+    coordinates: '1704S 01544E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AO VPE'
+    name: Ongiva
+    namewodiacritics: Ongiva
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'AO PAT'
+    name: 'Palanca Terminal'
+    namewodiacritics: 'Palanca Terminal'
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '9506'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'AO PAZ'
+    name: 'Pazflor FPSO'
+    namewodiacritics: 'Pazflor FPSO'
+    subdiv: ''
+    function: '------7-'
+    status: RL
+    date: '1107'
+    iata: ''
+    coordinates: '0821S 01206E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AO PLE'
+    name: 'Porto Alexandre (Tombua)'
+    namewodiacritics: 'Porto Alexandre (Tombua)'
+    subdiv: ''
+    function: 1-3-----
+    status: RL
+    date: '0103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'AO PBN'
+    name: 'Porto Amboim'
+    namewodiacritics: 'Porto Amboim'
+    subdiv: ''
+    function: 1-------
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'AO PSA'
+    name: 'Porto Saco (Portosalazar)'
+    namewodiacritics: 'Porto Saco (Portosalazar)'
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '1508S 01208E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AO RSN'
+    name: 'River Sao Nicolau'
+    namewodiacritics: 'River Sao Nicolau'
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '1415S 01220E'
+    remarks: ''
+-
+    ch: '='
+    locode: AO
+    name: 'San Antonio do Zaire = Soyo'
+    namewodiacritics: 'San Antonio do Zaire = Soyo'
+    subdiv: ''
+    function: ''
+    status: ''
+    date: ''
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'AO STC'
+    name: 'Santa Clara'
+    namewodiacritics: 'Santa Clara'
+    subdiv: UIG
+    function: '--3--6--'
+    status: RL
+    date: '1107'
+    iata: ''
+    coordinates: '0722S 01444E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AO VHC'
+    name: Saurimo
+    namewodiacritics: Saurimo
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'AO SBT'
+    name: 'Saxi Batuque FPSO'
+    namewodiacritics: 'Saxi Batuque FPSO'
+    subdiv: ''
+    function: '------7-'
+    status: RL
+    date: '1201'
+    iata: ''
+    coordinates: '0619S 01113E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AO STL'
+    name: 'Sazaire Terminal'
+    namewodiacritics: 'Sazaire Terminal'
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '0605S 01223E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AO SZA'
+    name: Soyo
+    namewodiacritics: Soyo
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'AO SOQ'
+    name: 'Soyo-Quinfuquena Terminal'
+    namewodiacritics: 'Soyo-Quinfuquena Terminal'
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '9506'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'AO NDD'
+    name: Sumbe
+    namewodiacritics: Sumbe
+    subdiv: ''
+    function: 1-34----
+    status: AI
+    date: '9506'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'AO TAK'
+    name: 'Takula Terminal'
+    namewodiacritics: 'Takula Terminal'
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '9506'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'AO UGO'
+    name: Uíge
+    namewodiacritics: Uige
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0212'
+    iata: ''
+    coordinates: '0737S 01503E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AO CEO'
+    name: 'Waku Kungo'
+    namewodiacritics: 'Waku Kungo'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0212'
+    iata: ''
+    coordinates: '1121S 01507E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AO XGN'
+    name: Xangongo
+    namewodiacritics: Xangongo
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''

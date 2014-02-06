@@ -1,0 +1,96 @@
+-
+    ch: ''
+    locode: 'JE SAB'
+    name: 'Saint Aubin'
+    namewodiacritics: 'Saint Aubin'
+    subdiv: ''
+    function: 1-3-----
+    status: RL
+    date: '1201'
+    iata: ''
+    coordinates: '4911N 00210W'
+    remarks: ''
+-
+    ch: +
+    locode: 'JE SCJ'
+    name: 'Saint Clement'
+    namewodiacritics: 'Saint Clement'
+    subdiv: ''
+    function: 1-----7-
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '4910N 00204W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'JE STH'
+    name: 'Saint Hélier'
+    namewodiacritics: 'Saint Helier'
+    subdiv: ''
+    function: 1-3-----
+    status: AF
+    date: '1101'
+    iata: ''
+    coordinates: '4911N 00206W'
+    remarks: 'ex GB STH'
+-
+    ch: +
+    locode: 'JE SJN'
+    name: 'Saint Johns'
+    namewodiacritics: 'Saint Johns'
+    subdiv: ''
+    function: '-----6--'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '4915N 00208W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'JE SPT'
+    name: 'Saint Peter'
+    namewodiacritics: 'Saint Peter'
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '1201'
+    iata: ''
+    coordinates: '4913N 00211W'
+    remarks: ''
+-
+    ch: +
+    locode: 'JE SSV'
+    name: 'Saint Saviour'
+    namewodiacritics: 'Saint Saviour'
+    subdiv: ''
+    function: '-----6--'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '4911N 00204W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'JE JER'
+    name: 'States Apt, Jersey'
+    namewodiacritics: 'States Apt, Jersey'
+    subdiv: ''
+    function: '---4----'
+    status: AF
+    date: '0607'
+    iata: ''
+    coordinates: '4912N 00211W'
+    remarks: 'ex GB JER'
+-
+    ch: ''
+    locode: 'JE TTY'
+    name: Trinity
+    namewodiacritics: Trinity
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0607'
+    iata: ''
+    coordinates: '4914N 00205W'
+    remarks: 'ex GB TTY'

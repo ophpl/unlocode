@@ -1,0 +1,468 @@
+-
+    ch: ''
+    locode: 'JM ALP'
+    name: 'Alligator Pond'
+    namewodiacritics: 'Alligator Pond'
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'JM BLR'
+    name: 'Black River'
+    namewodiacritics: 'Black River'
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'JM BWN'
+    name: Bowden
+    namewodiacritics: Bowden
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'JM CST'
+    name: 'Charles Town'
+    namewodiacritics: 'Charles Town'
+    subdiv: '04'
+    function: '--3--6--'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '1813N 07640W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'JM CLA'
+    name: 'Clarendon Park'
+    namewodiacritics: 'Clarendon Park'
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0701'
+    iata: ''
+    coordinates: '1758N 07723W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'JM FMH'
+    name: Falmouth
+    namewodiacritics: Falmouth
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'JM HMP'
+    name: Hampden
+    namewodiacritics: Hampden
+    subdiv: '07'
+    function: '--3-----'
+    status: RQ
+    date: '1207'
+    iata: ''
+    coordinates: '1826N 07745W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'JM KIN'
+    name: Kingston
+    namewodiacritics: Kingston
+    subdiv: ''
+    function: 1--45---
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'JM LOP'
+    name: 'Long Pond'
+    namewodiacritics: 'Long Pond'
+    subdiv: ''
+    function: '-----6--'
+    status: RL
+    date: '1201'
+    iata: ''
+    coordinates: '1826N 07733W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'JM LUC'
+    name: Lucea
+    namewodiacritics: Lucea
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0002'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'JM MVJ'
+    name: Mandeville
+    namewodiacritics: Mandeville
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'JM MBJ'
+    name: 'Montego Bay'
+    namewodiacritics: 'Montego Bay'
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'JM NAI'
+    name: Nain
+    namewodiacritics: Nain
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0701'
+    iata: ''
+    coordinates: '1757N 07736W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'JM NEG'
+    name: Negril
+    namewodiacritics: Negril
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'JM NYM'
+    name: 'New Yarmouth'
+    namewodiacritics: 'New Yarmouth'
+    subdiv: '13'
+    function: '--3-----'
+    status: RQ
+    date: '1207'
+    iata: ''
+    coordinates: '1753N 07716W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'JM OCJ'
+    name: 'Ocho Rios'
+    namewodiacritics: 'Ocho Rios'
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'JM ORC'
+    name: Oracabessa
+    namewodiacritics: Oracabessa
+    subdiv: ''
+    function: 1-------
+    status: RL
+    date: '0212'
+    iata: ''
+    coordinates: '1824N 07657W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'JM POT'
+    name: 'Port Antonio'
+    namewodiacritics: 'Port Antonio'
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'JM PEV'
+    name: 'Port Esquivel'
+    namewodiacritics: 'Port Esquivel'
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'JM PHE'
+    name: 'Port Henderson'
+    namewodiacritics: 'Port Henderson'
+    subdiv: '14'
+    function: 1-------
+    status: RL
+    date: '1101'
+    iata: ''
+    coordinates: '1757N 07653W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'JM PKS'
+    name: 'Port Kaiser'
+    namewodiacritics: 'Port Kaiser'
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'JM PMO'
+    name: 'Port Morant'
+    namewodiacritics: 'Port Morant'
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'JM PRH'
+    name: 'Port Rhoades'
+    namewodiacritics: 'Port Rhoades'
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'JM PRO'
+    name: 'Port Royal'
+    namewodiacritics: 'Port Royal'
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'JM PRI'
+    name: Priory
+    namewodiacritics: Priory
+    subdiv: ''
+    function: '-----6--'
+    status: RL
+    date: '1107'
+    iata: ''
+    coordinates: '1827N 07713W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'JM RIB'
+    name: 'Rio Bueno'
+    namewodiacritics: 'Rio Bueno'
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '9506'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'JM ROP'
+    name: 'Rocky Point'
+    namewodiacritics: 'Rocky Point'
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '9506'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'JM ROH'
+    name: 'Rose Hall'
+    namewodiacritics: 'Rose Hall'
+    subdiv: '11'
+    function: '-----6--'
+    status: RL
+    date: '1201'
+    iata: ''
+    coordinates: '1756N 07739W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'JM SAP'
+    name: 'Saint Andrew Parish'
+    namewodiacritics: 'Saint Andrew Parish'
+    subdiv: ''
+    function: '--3-5---'
+    status: RL
+    date: '1107'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'JM SAW'
+    name: 'Saint Ann''s Bay'
+    namewodiacritics: 'Saint Ann''s Bay'
+    subdiv: '06'
+    function: 1-------
+    status: RL
+    date: '1101'
+    iata: ''
+    coordinates: '1826N 07712W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'JM STH'
+    name: 'Saint Thomas'
+    namewodiacritics: 'Saint Thomas'
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0212'
+    iata: ''
+    coordinates: '1754N 07626W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'JM SRI'
+    name: 'Salt River'
+    namewodiacritics: 'Salt River'
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'JM SAN'
+    name: 'Sandy Bay'
+    namewodiacritics: 'Sandy Bay'
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '1107'
+    iata: ''
+    coordinates: '1827N 07805W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'JM SLM'
+    name: Savanna-la-Mar
+    namewodiacritics: Savanna-la-Mar
+    subdiv: ''
+    function: 1-------
+    status: RL
+    date: '0212'
+    iata: ''
+    coordinates: '1813N 07808W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'JM SPT'
+    name: 'Spanish Town'
+    namewodiacritics: 'Spanish Town'
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0002'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'JM TR9'
+    name: Trelawny
+    namewodiacritics: Trelawny
+    subdiv: '07'
+    function: '--3-----'
+    status: RQ
+    date: '1207'
+    iata: ''
+    coordinates: '1823N 07738W'
+    remarks: ''
+-
+    ch: +
+    locode: 'JM VIN'
+    name: Vineyard
+    namewodiacritics: Vineyard
+    subdiv: '01'
+    function: '-----6--'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '1758N 07646W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'JM WKF'
+    name: Wakefield
+    namewodiacritics: Wakefield
+    subdiv: '07'
+    function: '--3--6--'
+    status: RQ
+    date: '1001'
+    iata: ''
+    coordinates: '1825N 07743W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'JM WPK'
+    name: 'Worthy Park'
+    namewodiacritics: 'Worthy Park'
+    subdiv: '14'
+    function: '--3-----'
+    status: RQ
+    date: '1207'
+    iata: ''
+    coordinates: '1809N 07709W'
+    remarks: ''

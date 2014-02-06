@@ -1,0 +1,372 @@
+-
+    ch: ''
+    locode: 'UG RUA'
+    name: Arua
+    namewodiacritics: Arua
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'UG BUG'
+    name: Bugembe
+    namewodiacritics: Bugembe
+    subdiv: ''
+    function: 0-------
+    status: RQ
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'UG BUS'
+    name: Busia
+    namewodiacritics: Busia
+    subdiv: ''
+    function: '--3-----'
+    status: QQ
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'UG EBB'
+    name: Entebbe
+    namewodiacritics: Entebbe
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'UG FPO'
+    name: 'Fort Portal'
+    namewodiacritics: 'Fort Portal'
+    subdiv: ''
+    function: 0-------
+    status: RQ
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'UG GAB'
+    name: Gaba
+    namewodiacritics: Gaba
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0507'
+    iata: ''
+    coordinates: '0006N 03255E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'UG ULU'
+    name: Gulu
+    namewodiacritics: Gulu
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'UG JIN'
+    name: Jinja
+    namewodiacritics: Jinja
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'UG KAB'
+    name: Kabale
+    namewodiacritics: Kabale
+    subdiv: ''
+    function: 0-------
+    status: RQ
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'UG KBG'
+    name: 'Kabalega Falls'
+    namewodiacritics: 'Kabalega Falls'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'UG KLA'
+    name: Kampala
+    namewodiacritics: Kampala
+    subdiv: ''
+    function: '---45---'
+    status: AI
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: +
+    locode: 'UG KMU'
+    name: Kamuli
+    namewodiacritics: Kamuli
+    subdiv: '205'
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '0056N 03307E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'UG KSE'
+    name: Kasese
+    namewodiacritics: Kasese
+    subdiv: ''
+    function: '-234----'
+    status: AI
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'UG KGM'
+    name: Kitgum
+    namewodiacritics: Kitgum
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0201'
+    iata: ''
+    coordinates: '0317N 03252E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'UG KOB'
+    name: Koboko
+    namewodiacritics: Koboko
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0212'
+    iata: ''
+    coordinates: '0325N 03058E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'UG KTD'
+    name: Kotido
+    namewodiacritics: Kotido
+    subdiv: '306'
+    function: '--3-----'
+    status: RL
+    date: '1101'
+    iata: ''
+    coordinates: '0258N 03407E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'UG LIR'
+    name: Lira
+    namewodiacritics: Lira
+    subdiv: ''
+    function: 0-------
+    status: RQ
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'UG LUG'
+    name: Lugazi
+    namewodiacritics: Lugazi
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0201'
+    iata: ''
+    coordinates: '0023N 03255E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'UG LUW'
+    name: Luwero
+    namewodiacritics: Luwero
+    subdiv: '104'
+    function: '--3-----'
+    status: RL
+    date: '1207'
+    iata: ''
+    coordinates: '0050N 03228E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'UG MAL'
+    name: Malaba
+    namewodiacritics: Malaba
+    subdiv: ''
+    function: '-------B'
+    status: RQ
+    date: '0507'
+    iata: ''
+    coordinates: '0041N 03350E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'UG MSK'
+    name: Masaka
+    namewodiacritics: Masaka
+    subdiv: ''
+    function: 0-------
+    status: RQ
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'UG KCU'
+    name: Masindi
+    namewodiacritics: Masindi
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'UG MBA'
+    name: Mbale
+    namewodiacritics: Mbale
+    subdiv: ''
+    function: 0-------
+    status: RQ
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'UG MBQ'
+    name: Mbarara
+    namewodiacritics: Mbarara
+    subdiv: ''
+    function: '--34----'
+    status: AI
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'UG OYG'
+    name: Moyo
+    namewodiacritics: Moyo
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'UG MUB'
+    name: Mubende
+    namewodiacritics: Mubende
+    subdiv: ''
+    function: 0-------
+    status: RQ
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'UG PKE'
+    name: Pakelle
+    namewodiacritics: Pakelle
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0601'
+    iata: ''
+    coordinates: '0322N 03152E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'UG PAF'
+    name: Pakuba
+    namewodiacritics: Pakuba
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'UG SRT'
+    name: Soroti
+    namewodiacritics: Soroti
+    subdiv: ''
+    function: '---4----'
+    status: RQ
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'UG TRY'
+    name: Tororo
+    namewodiacritics: Tororo
+    subdiv: ''
+    function: '-234----'
+    status: AI
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'UG YMB'
+    name: Yumbe
+    namewodiacritics: Yumbe
+    subdiv: '303'
+    function: 1----6--
+    status: RL
+    date: '1107'
+    iata: ''
+    coordinates: ''
+    remarks: ''

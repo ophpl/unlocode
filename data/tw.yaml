@@ -1,0 +1,756 @@
+-
+    ch: ''
+    locode: 'TW APG'
+    name: 'An Ping'
+    namewodiacritics: 'An Ping'
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '9811'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'TW BDC'
+    name: 'Bade City'
+    namewodiacritics: 'Bade City'
+    subdiv: TAO
+    function: '-----6--'
+    status: RL
+    date: '1201'
+    iata: ''
+    coordinates: '2457N 12117E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TW BAL'
+    name: Bali
+    namewodiacritics: Bali
+    subdiv: ''
+    function: 1-3-----
+    status: RQ
+    date: '1001'
+    iata: ''
+    coordinates: '2509N 12124E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TW CHW'
+    name: Chang-Hua
+    namewodiacritics: Chang-Hua
+    subdiv: ''
+    function: '-23-----'
+    status: RL
+    date: '0212'
+    iata: ''
+    coordinates: '2404N 12031E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TW CMJ'
+    name: 'Chi Mei'
+    namewodiacritics: 'Chi Mei'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'TW CYI'
+    name: Chiayi
+    namewodiacritics: Chiayi
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'TW CLI'
+    name: Chung-Li
+    namewodiacritics: Chung-Li
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '9806'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'TW CUP'
+    name: Chu-pei
+    namewodiacritics: Chu-pei
+    subdiv: HSZ
+    function: '--3--6--'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '2450N 12100E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TW FYN'
+    name: 'Feng-yüan-ch''ü'
+    namewodiacritics: 'Feng-yuan-ch''u'
+    subdiv: TXG
+    function: '-23-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '2415N 12043E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TW GAN'
+    name: Gangshan
+    namewodiacritics: Gangshan
+    subdiv: KHH
+    function: '--3-----'
+    status: RL
+    date: '1101'
+    iata: ''
+    coordinates: '2247N 12017E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TW GNI'
+    name: 'Green Island'
+    namewodiacritics: 'Green Island'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'TW GUE'
+    name: Guishan
+    namewodiacritics: Guishan
+    subdiv: TAO
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '2454N 12133E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TW HCN'
+    name: Hengchun
+    namewodiacritics: Hengchun
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'TW HOP'
+    name: Hoping
+    namewodiacritics: Hoping
+    subdiv: HUA
+    function: 1-------
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'TW HSI'
+    name: Hsichih
+    namewodiacritics: Hsichih
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '2504N 12139E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TW HSZ'
+    name: Hsin-chu
+    namewodiacritics: Hsin-chu
+    subdiv: ''
+    function: '--34----'
+    status: RL
+    date: '0201'
+    iata: ''
+    coordinates: '2449N 12058E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TW HTC'
+    name: 'Hsin-t''ien'
+    namewodiacritics: 'Hsin-t''ien'
+    subdiv: TPE
+    function: 1-3-----
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'TW HUN'
+    name: Hualien
+    namewodiacritics: Hualien
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'TW ILA'
+    name: I-lan
+    namewodiacritics: I-lan
+    subdiv: ''
+    function: '-23-----'
+    status: RL
+    date: '0401'
+    iata: ''
+    coordinates: '2446N 12145E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TW KHH'
+    name: Kaohsiung
+    namewodiacritics: Kaohsiung
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'TW KEL'
+    name: 'Keelung (Chilung)'
+    namewodiacritics: 'Keelung (Chilung)'
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'TW KEZ'
+    name: Kepz
+    namewodiacritics: Kepz
+    subdiv: ''
+    function: 0-------
+    status: RQ
+    date: '9307'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'TW KNH'
+    name: Kinmen
+    namewodiacritics: Kinmen
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'TW LHN'
+    name: Lishan
+    namewodiacritics: Lishan
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'TW LGM'
+    name: Lung-men
+    namewodiacritics: Lung-men
+    subdiv: ''
+    function: 1-------
+    status: RL
+    date: '0701'
+    iata: ''
+    coordinates: '2334N 11940E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TW MAL'
+    name: Mai-Liai
+    namewodiacritics: Mai-Liai
+    subdiv: ''
+    function: 1-------
+    status: RL
+    date: '0101'
+    iata: ''
+    coordinates: '2345N 12015E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TW MLI'
+    name: Mai-liao
+    namewodiacritics: Mai-liao
+    subdiv: ''
+    function: 1-------
+    status: RL
+    date: '0212'
+    iata: ''
+    coordinates: '2306N 12008E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TW MZG'
+    name: Makung
+    namewodiacritics: Makung
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'TW MFK'
+    name: Matsu
+    namewodiacritics: Matsu
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'TW ZMI'
+    name: Miao-li
+    namewodiacritics: Miao-li
+    subdiv: ''
+    function: '-23-----'
+    status: RL
+    date: '0307'
+    iata: ''
+    coordinates: '2433N 12049E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TW ANG'
+    name: Nangang
+    namewodiacritics: Nangang
+    subdiv: KHH
+    function: '--3-----'
+    status: RQ
+    date: '1001'
+    iata: ''
+    coordinates: '2505N 12160E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TW NAN'
+    name: Nantou
+    namewodiacritics: Nantou
+    subdiv: ''
+    function: 1-3-----
+    status: RQ
+    date: '1001'
+    iata: ''
+    coordinates: '2354N 12041E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TW NTU'
+    name: 'Nan-t''ou'
+    namewodiacritics: 'Nan-t''ou'
+    subdiv: NAN
+    function: '--3-----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '2354N 12040E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TW NEZ'
+    name: 'Nepz, Nantze'
+    namewodiacritics: 'Nepz, Nantze'
+    subdiv: ''
+    function: 0-------
+    status: RQ
+    date: '9307'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'TW NTC'
+    name: 'New Taipei City'
+    namewodiacritics: 'New Taipei City'
+    subdiv: TPE
+    function: '--3-----'
+    status: RL
+    date: '1201'
+    iata: ''
+    coordinates: '2500N 12126E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TW KYD'
+    name: 'Orchid Island'
+    namewodiacritics: 'Orchid Island'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'TW PIF'
+    name: Pingtung
+    namewodiacritics: Pingtung
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: +
+    locode: 'TW TTA'
+    name: Pingzhen
+    namewodiacritics: Pingzhen
+    subdiv: TAO
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '2456N 12112E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TW SEL'
+    name: Selangdor
+    namewodiacritics: Selangdor
+    subdiv: '04'
+    function: '--3-----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'TW SHL'
+    name: Sha-lun
+    namewodiacritics: Sha-lun
+    subdiv: ''
+    function: 1-3-----
+    status: RL
+    date: '0212'
+    iata: ''
+    coordinates: '2506N 12113E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TW SIJ'
+    name: Sijhih
+    namewodiacritics: Sijhih
+    subdiv: TPE
+    function: '--3-----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'TW SUO'
+    name: Suao
+    namewodiacritics: Suao
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'TW SMT'
+    name: 'Sun Moon Lake'
+    namewodiacritics: 'Sun Moon Lake'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'TW TXG'
+    name: Taichung
+    namewodiacritics: Taichung
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'TW TNN'
+    name: Tainan
+    namewodiacritics: Tainan
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'TW TAI'
+    name: 'T''ai-nan-hsien'
+    namewodiacritics: 'T''ai-nan-hsien'
+    subdiv: TNN
+    function: '--3-----'
+    status: RL
+    date: '0212'
+    iata: ''
+    coordinates: '2318N 12019E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TW TPE'
+    name: Taipei
+    namewodiacritics: Taipei
+    subdiv: TPE
+    function: 1--45---
+    status: AI
+    date: '1101'
+    iata: ''
+    coordinates: '2502N 12131E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TW TSA'
+    name: 'Taipei Songshan Apt'
+    namewodiacritics: 'Taipei Songshan Apt'
+    subdiv: TPE
+    function: '---4----'
+    status: AI
+    date: '1101'
+    iata: ''
+    coordinates: '2504N 12133E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TW TTT'
+    name: Taitung
+    namewodiacritics: Taitung
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'TW TYN'
+    name: Taoyuan
+    namewodiacritics: Taoyuan
+    subdiv: ''
+    function: 1-34----
+    status: RQ
+    date: '0607'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'TW TOF'
+    name: Toufen
+    namewodiacritics: Toufen
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0207'
+    iata: ''
+    coordinates: '2431N 12054E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TW TUZ'
+    name: Tou-liu
+    namewodiacritics: Tou-liu
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0307'
+    iata: ''
+    coordinates: '2342N 12032E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TW TGH'
+    name: 'Tung Hai'
+    namewodiacritics: 'Tung Hai'
+    subdiv: ''
+    function: 0-------
+    status: RQ
+    date: '9307'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'TW WOT'
+    name: Wonan
+    namewodiacritics: Wonan
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'TW WUJ'
+    name: Wu-jih
+    namewodiacritics: Wu-jih
+    subdiv: ''
+    function: '-23-----'
+    status: RL
+    date: '0307'
+    iata: ''
+    coordinates: '2406N 12037E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TW WUK'
+    name: Wu-ku
+    namewodiacritics: Wu-ku
+    subdiv: TPE
+    function: '--3-----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'TW WTU'
+    name: Wu-tu
+    namewodiacritics: Wu-tu
+    subdiv: ''
+    function: 123--6--
+    status: RL
+    date: '0407'
+    iata: ''
+    coordinates: '2505N 12140E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TW YGE'
+    name: Ying-Ge
+    namewodiacritics: Ying-Ge
+    subdiv: TPE
+    function: 1-------
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'TW FEY'
+    name: Yüang-wang
+    namewodiacritics: Yuang-wang
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0307'
+    iata: ''
+    coordinates: '2403N 12109E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TW YUL'
+    name: Yüan-Lin
+    namewodiacritics: Yuan-Lin
+    subdiv: CHA
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '2357N 12034E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TW YAN'
+    name: Yung-an
+    namewodiacritics: Yung-an
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '0401'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'TW UGK'
+    name: 'Yung-K''Ang'
+    namewodiacritics: 'Yung-K''Ang'
+    subdiv: ''
+    function: '-----6--'
+    status: RQ
+    date: '1001'
+    iata: ''
+    coordinates: '2301N 12015E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TW YLN'
+    name: Yunlin
+    namewodiacritics: Yunlin
+    subdiv: YUN
+    function: 1-------
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: ''
+    remarks: ''

@@ -1,0 +1,312 @@
+-
+    ch: +
+    locode: 'AZ ABN'
+    name: Agcabadi
+    namewodiacritics: Agcabadi
+    subdiv: AGC
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '4003N 04727E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AZ AST'
+    name: Astara
+    namewodiacritics: Astara
+    subdiv: ''
+    function: '-----6--'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '3827N 04852E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AZ BAK'
+    name: Baku
+    namewodiacritics: Baku
+    subdiv: ''
+    function: 1--45---
+    status: AI
+    date: '9207'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'AZ DAM'
+    name: Dalimammadli
+    namewodiacritics: Dalimammadli
+    subdiv: GOR
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '4041N 04634E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AZ DJU'
+    name: Djulfa
+    namewodiacritics: Djulfa
+    subdiv: ''
+    function: '-2------'
+    status: AI
+    date: '9207'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'AZ GAN'
+    name: Ganja
+    namewodiacritics: Ganja
+    subdiv: ''
+    function: '-----6--'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '4040N 04621E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AZ KVD'
+    name: Gyandzha
+    namewodiacritics: Gyandzha
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: +
+    locode: 'AZ GYD'
+    name: 'Heydar Aliyev International Apt.'
+    namewodiacritics: 'Heydar Aliyev International Apt.'
+    subdiv: BA
+    function: '---4----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '4028N 05002E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AZ IMI'
+    name: Imisli
+    namewodiacritics: Imisli
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '1101'
+    iata: ''
+    coordinates: '3952N 04803E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AZ KMZ'
+    name: Khachmaz
+    namewodiacritics: Khachmaz
+    subdiv: XAC
+    function: 1----6--
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '4159N 04735E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AZ KHA'
+    name: Khanlar
+    namewodiacritics: Khanlar
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0607'
+    iata: ''
+    coordinates: '4020N 04949E'
+    remarks: ''
+-
+    ch: ¦
+    locode: 'AZ KBD'
+    name: Kirovabad
+    namewodiacritics: Kirovabad
+    subdiv: GA
+    function: '-23-----'
+    status: RQ
+    date: '1307'
+    iata: ''
+    coordinates: ''
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'AZ LAN'
+    name: Lankaran
+    namewodiacritics: Lankaran
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '3845N 04851E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AZ MGC'
+    name: Mingechaur
+    namewodiacritics: Mingechaur
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0207'
+    iata: ''
+    coordinates: '4045N 04703E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AZ NK7'
+    name: Nakhchivan
+    namewodiacritics: Nakhchivan
+    subdiv: ''
+    function: '-2------'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '3912N 04524E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AZ NAJ'
+    name: Naxcivan
+    namewodiacritics: Naxcivan
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0201'
+    iata: ''
+    coordinates: '3912N 04514E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AZ QDG'
+    name: Qaradag
+    namewodiacritics: Qaradag
+    subdiv: ''
+    function: 123-----
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '4015N 04936E'
+    remarks: ''
+-
+    ch: ¦
+    locode: 'AZ KAZ'
+    name: Qazax
+    namewodiacritics: Qazax
+    subdiv: QAZ
+    function: '-23-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '4106N 04521E'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'AZ QUB'
+    name: Quba
+    namewodiacritics: Quba
+    subdiv: ''
+    function: '-----6--'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '4010N 04825E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AZ SAN'
+    name: Sangachal
+    namewodiacritics: Sangachal
+    subdiv: BA
+    function: '-23-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '4012N 04929E'
+    remarks: ''
+-
+    ch: +
+    locode: 'AZ SY9'
+    name: Siyazan
+    namewodiacritics: Siyazan
+    subdiv: SIY
+    function: '-23-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '4104N 04906E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AZ SUM'
+    name: Sumgait
+    namewodiacritics: Sumgait
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0207'
+    iata: ''
+    coordinates: '4035N 04938E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AZ SUQ'
+    name: Sumqayit
+    namewodiacritics: Sumqayit
+    subdiv: SM
+    function: 1-3-----
+    status: RL
+    date: '1101'
+    iata: ''
+    coordinates: '4035N 04940E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AZ XIR'
+    name: Xirdalan
+    namewodiacritics: Xirdalan
+    subdiv: ABS
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '4015N 04945E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AZ YAL'
+    name: Yalama
+    namewodiacritics: Yalama
+    subdiv: ''
+    function: '-23-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '4145N 04834E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AZ ZAQ'
+    name: Zaqatala
+    namewodiacritics: Zaqatala
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '4138N 04638E'
+    remarks: ''

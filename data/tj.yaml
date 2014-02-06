@@ -1,0 +1,144 @@
+-
+    ch: ''
+    locode: 'TJ CHK'
+    name: Chkalovsk
+    namewodiacritics: Chkalovsk
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '4014N 06941E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TJ DYU'
+    name: Dushanbe
+    namewodiacritics: Dushanbe
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'TJ GAM'
+    name: Garm
+    namewodiacritics: Garm
+    subdiv: GB
+    function: '--3-----'
+    status: RQ
+    date: '1001'
+    iata: ''
+    coordinates: '3901N 07022E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TJ SFA'
+    name: Isfara
+    namewodiacritics: Isfara
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '4007N 07038E'
+    remarks: ''
+-
+    ch: +
+    locode: 'TJ KHI'
+    name: Khirmanak
+    namewodiacritics: Khirmanak
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '3835N 06833E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TJ LBD'
+    name: Khudzhand
+    namewodiacritics: Khudzhand
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'TJ KHU'
+    name: Khujand
+    namewodiacritics: Khujand
+    subdiv: ''
+    function: '-----6--'
+    status: RL
+    date: '1201'
+    iata: ''
+    coordinates: '4016N 06937E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TJ KLB'
+    name: Kulob
+    namewodiacritics: Kulob
+    subdiv: KT
+    function: '--3-----'
+    status: RL
+    date: '0307'
+    iata: ''
+    coordinates: '3754N 06946E'
+    remarks: ''
+-
+    ch: ¦
+    locode: 'TJ PJK'
+    name: Penjikent
+    namewodiacritics: Penjikent
+    subdiv: LN
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '3930N 06736E'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'TJ KUR'
+    name: Qurghonteppa
+    namewodiacritics: Qurghonteppa
+    subdiv: KT
+    function: '-23-----'
+    status: RL
+    date: '0501'
+    iata: ''
+    coordinates: '3750N 06846E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TJ STZ'
+    name: Shaartuz
+    namewodiacritics: Shaartuz
+    subdiv: KT
+    function: '-23-----'
+    status: RL
+    date: '0307'
+    iata: ''
+    coordinates: '3715N 06808E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TJ VAH'
+    name: Vahdat
+    namewodiacritics: Vahdat
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '3833N 06901E'
+    remarks: ''

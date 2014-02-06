@@ -1,0 +1,540 @@
+-
+    ch: ''
+    locode: 'TT ZAA'
+    name: Arima
+    namewodiacritics: Arima
+    subdiv: ARI
+    function: '--3--6--'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '1038N 06117W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TT 4BT'
+    name: Barataria
+    namewodiacritics: Barataria
+    subdiv: SJL
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '1039N 06128W'
+    remarks: ''
+-
+    ch: '='
+    locode: TT
+    name: 'Brighton = La Brea'
+    namewodiacritics: 'Brighton = La Brea'
+    subdiv: ''
+    function: ''
+    status: ''
+    date: ''
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'TT CAA'
+    name: Canaan
+    namewodiacritics: Canaan
+    subdiv: ''
+    function: '-----6--'
+    status: RL
+    date: '1107'
+    iata: ''
+    coordinates: '1109N 06049W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TT CRN'
+    name: Carenage
+    namewodiacritics: Carenage
+    subdiv: ''
+    function: 1-3-----
+    status: RL
+    date: '0601'
+    iata: ''
+    coordinates: '1041N 06136W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TT CAR'
+    name: Caroni
+    namewodiacritics: Caroni
+    subdiv: ARI
+    function: '--3-----'
+    status: RL
+    date: '1207'
+    iata: ''
+    coordinates: '1039N 06132W'
+    remarks: ''
+-
+    ch: ¦
+    locode: 'TT CHG'
+    name: Chaguanas
+    namewodiacritics: Chaguanas
+    subdiv: CHA
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '1031N 06125W'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'TT CHA'
+    name: Chaguaramas
+    namewodiacritics: Chaguaramas
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'TT CHF'
+    name: 'Champs Fleurs/Port-of-Spain'
+    namewodiacritics: 'Champs Fleurs/Port-of-Spain'
+    subdiv: POS
+    function: '--3-----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '1039N 06131W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TT CHV'
+    name: Charlotteville
+    namewodiacritics: Charlotteville
+    subdiv: ETO
+    function: 1-3-----
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '1119N 06033W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TT CLA'
+    name: 'Claxton Bay'
+    namewodiacritics: 'Claxton Bay'
+    subdiv: CTT
+    function: 1-3-----
+    status: RL
+    date: '1101'
+    iata: ''
+    coordinates: '1021N 06128W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TT CVA'
+    name: Couva
+    namewodiacritics: Couva
+    subdiv: ''
+    function: 1-3-----
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '1025N 06127W'
+    remarks: ''
+-
+    ch: +
+    locode: 'TT CUR'
+    name: Curepe
+    namewodiacritics: Curepe
+    subdiv: TUP
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '1038N 06124W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TT DMT'
+    name: 'Diego Martin'
+    namewodiacritics: 'Diego Martin'
+    subdiv: DMN
+    function: '-----6--'
+    status: RL
+    date: '1201'
+    iata: ''
+    coordinates: '1043N 06134W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TT GSP'
+    name: Gasparillo
+    namewodiacritics: Gasparillo
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '1101'
+    iata: ''
+    coordinates: '1019N 06125W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TT GUO'
+    name: Guapo
+    namewodiacritics: Guapo
+    subdiv: PTF
+    function: '--3-----'
+    status: RL
+    date: '1207'
+    iata: ''
+    coordinates: '1011N 06139W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TT GUA'
+    name: Guayaguayare
+    namewodiacritics: Guayaguayare
+    subdiv: ''
+    function: 1-3-----
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '1008N 06102W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TT LAB'
+    name: 'La Brea (Brighton)'
+    namewodiacritics: 'La Brea (Brighton)'
+    subdiv: ''
+    function: 1-------
+    status: AI
+    date: '9401'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'TT LLL'
+    name: Laventille
+    namewodiacritics: Laventille
+    subdiv: ''
+    function: '--3--6--'
+    status: RQ
+    date: '0907'
+    iata: ''
+    coordinates: '1039N 06129W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TT MCY'
+    name: Macoya
+    namewodiacritics: Macoya
+    subdiv: TUP
+    function: '--3-----'
+    status: RQ
+    date: '1101'
+    iata: ''
+    coordinates: '1038N 06123W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TT MAR'
+    name: Marabella
+    namewodiacritics: Marabella
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0201'
+    iata: ''
+    coordinates: '1017N 06127W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TT MTS'
+    name: Montrose
+    namewodiacritics: Montrose
+    subdiv: ''
+    function: '-----6--'
+    status: RL
+    date: '1201'
+    iata: ''
+    coordinates: '1112N 06039W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TT MVT'
+    name: Morvant/Port-of-Spain
+    namewodiacritics: Morvant/Port-of-Spain
+    subdiv: POS
+    function: '--3--6--'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '1039N 06128W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TT PIA'
+    name: Piarco
+    namewodiacritics: Piarco
+    subdiv: ''
+    function: '----5---'
+    status: AI
+    date: '9805'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'TT PLY'
+    name: Plymouth
+    namewodiacritics: Plymouth
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '9506'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'TT PTF'
+    name: 'Point Fortin'
+    namewodiacritics: 'Point Fortin'
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'TT PTG'
+    name: 'Point Galeota'
+    namewodiacritics: 'Point Galeota'
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'TT PTS'
+    name: 'Point Lisas'
+    namewodiacritics: 'Point Lisas'
+    subdiv: ''
+    function: 1-------
+    status: AI
+    date: '9401'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'TT PPL'
+    name: 'Point Lizza'
+    namewodiacritics: 'Point Lizza'
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '0307'
+    iata: ''
+    coordinates: '1026N 06129W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TT PTP'
+    name: 'Pointe a Pierre'
+    namewodiacritics: 'Pointe a Pierre'
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'TT POS'
+    name: Port-of-Spain
+    namewodiacritics: Port-of-Spain
+    subdiv: POS
+    function: 1--45---
+    status: AI
+    date: '0212'
+    iata: ''
+    coordinates: '1039N 06131W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TT PTW'
+    name: 'Princes Town'
+    namewodiacritics: 'Princes Town'
+    subdiv: ''
+    function: '-----6--'
+    status: RL
+    date: '1107'
+    iata: ''
+    coordinates: '1016N 06123W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TT PSC'
+    name: 'Saint Clair'
+    namewodiacritics: 'Saint Clair'
+    subdiv: POS
+    function: '--3-----'
+    status: RQ
+    date: '1101'
+    iata: ''
+    coordinates: '1040N 06131W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TT FPT'
+    name: 'Saint Mary''s'
+    namewodiacritics: 'Saint Mary''s'
+    subdiv: CTT
+    function: 1-3-----
+    status: RL
+    date: '1101'
+    iata: ''
+    coordinates: '1013N 06132W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TT SFE'
+    name: 'San Fernando'
+    namewodiacritics: 'San Fernando'
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'TT SAN'
+    name: 'San Juan/Port-of-Spain'
+    namewodiacritics: 'San Juan/Port-of-Spain'
+    subdiv: POS
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '1039N 06127W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TT SCR'
+    name: Scarborough
+    namewodiacritics: Scarborough
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0207'
+    iata: ''
+    coordinates: '1110N 06044W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TT SCA'
+    name: Scarborough/Tobago
+    namewodiacritics: Scarborough/Tobago
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'TT SPR'
+    name: Siparia
+    namewodiacritics: Siparia
+    subdiv: ''
+    function: '-----6--'
+    status: RL
+    date: '1007'
+    iata: ''
+    coordinates: '1008N 06130W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TT SOO'
+    name: 'South Oropouche'
+    namewodiacritics: 'South Oropouche'
+    subdiv: ''
+    function: '-----6--'
+    status: RL
+    date: '1201'
+    iata: ''
+    coordinates: '1013N 06133W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TT TEM'
+    name: Tembladora
+    namewodiacritics: Tembladora
+    subdiv: ''
+    function: 1--4----
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'TT TAB'
+    name: Tobago
+    namewodiacritics: Tobago
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'TT TUN'
+    name: Tunapuna
+    namewodiacritics: Tunapuna
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0002'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'TT VBL'
+    name: 'Vista Bella'
+    namewodiacritics: 'Vista Bella'
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0201'
+    iata: ''
+    coordinates: '1017N 06127W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TT WDK'
+    name: Woodbrook
+    namewodiacritics: Woodbrook
+    subdiv: PTF
+    function: '--3-----'
+    status: RL
+    date: '1207'
+    iata: ''
+    coordinates: '1039N 06132W'
+    remarks: ''

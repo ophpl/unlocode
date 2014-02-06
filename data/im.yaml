@@ -1,0 +1,108 @@
+-
+    ch: ''
+    locode: 'IM BRI'
+    name: Bride
+    namewodiacritics: Bride
+    subdiv: ''
+    function: '-----6--'
+    status: RQ
+    date: '1001'
+    iata: ''
+    coordinates: '5423N 00423W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IM CTN'
+    name: Castletown
+    namewodiacritics: Castletown
+    subdiv: ''
+    function: 1-3-----
+    status: RL
+    date: '0607'
+    iata: ''
+    coordinates: '5405N 00439W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IM DGS'
+    name: Douglas
+    namewodiacritics: Douglas
+    subdiv: ''
+    function: 1-3-----
+    status: AF
+    date: '0607'
+    iata: ''
+    coordinates: '5410N 00429W'
+    remarks: 'ex GB DGS'
+-
+    ch: ''
+    locode: 'IM JBY'
+    name: Jurby
+    namewodiacritics: Jurby
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '5421N 00432W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IM OHN'
+    name: Onchan
+    namewodiacritics: Onchan
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '5411N 00427W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IM PEL'
+    name: Peel
+    namewodiacritics: Peel
+    subdiv: ''
+    function: 1-3-----
+    status: AF
+    date: '0607'
+    iata: ''
+    coordinates: '5413N 00446W'
+    remarks: 'ex GB PEL'
+-
+    ch: ''
+    locode: 'IM RAM'
+    name: Ramsey
+    namewodiacritics: Ramsey
+    subdiv: ''
+    function: 1-3-----
+    status: RL
+    date: '0607'
+    iata: ''
+    coordinates: '5419N 00423W'
+    remarks: 'ex GB RAM'
+-
+    ch: ''
+    locode: 'IM IOM'
+    name: 'Ronaldsway Apt'
+    namewodiacritics: 'Ronaldsway Apt'
+    subdiv: ''
+    function: '---4----'
+    status: AF
+    date: '0607'
+    iata: ''
+    coordinates: '5415N 00430W'
+    remarks: 'ex GB IOM'
+-
+    ch: ''
+    locode: 'IM SAN'
+    name: Santon
+    namewodiacritics: Santon
+    subdiv: ''
+    function: 1----6--
+    status: RQ
+    date: '1001'
+    iata: ''
+    coordinates: '5407N 00435W'
+    remarks: ''

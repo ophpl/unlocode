@@ -1,0 +1,96 @@
+-
+    ch: ''
+    locode: 'KG ALA'
+    name: Alamedin
+    namewodiacritics: Alamedin
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0601'
+    iata: ''
+    coordinates: '4254N 07438E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'KG BYK'
+    name: Balykchy
+    namewodiacritics: Balykchy
+    subdiv: Y
+    function: '--3-----'
+    status: RL
+    date: '0307'
+    iata: ''
+    coordinates: '4227N 07610E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'KG FRU'
+    name: 'Bishkek (ex Frunze)'
+    namewodiacritics: 'Bishkek (ex Frunze)'
+    subdiv: GB
+    function: '--34----'
+    status: AI
+    date: '1101'
+    iata: ''
+    coordinates: '4252N 07436E'
+    remarks: ''
+-
+    ch: '='
+    locode: KG
+    name: 'Frunze = Bishkek'
+    namewodiacritics: 'Frunze = Bishkek'
+    subdiv: ''
+    function: ''
+    status: ''
+    date: ''
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'KG JLD'
+    name: Jalal-Abad
+    namewodiacritics: Jalal-Abad
+    subdiv: J
+    function: '--3-----'
+    status: RL
+    date: '0401'
+    iata: ''
+    coordinates: '4056N 07300E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'KG MAN'
+    name: 'Manas International Apt'
+    namewodiacritics: 'Manas International Apt'
+    subdiv: GB
+    function: '--34----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '4304N 07429E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'KG OSS'
+    name: Osh
+    namewodiacritics: Osh
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'KG RBC'
+    name: Rybacje
+    namewodiacritics: Rybacje
+    subdiv: Y
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '4228N 07610E'
+    remarks: ''

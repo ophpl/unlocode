@@ -1,0 +1,420 @@
+-
+    ch: ''
+    locode: 'MD BEL'
+    name: 'Balti (Bel''cy)'
+    namewodiacritics: 'Balti (Bel''cy)'
+    subdiv: BA
+    function: '-23-----'
+    status: RL
+    date: '0501'
+    iata: BZY
+    coordinates: '4745N 02755E'
+    remarks: ''
+-
+    ch: ¦
+    locode: 'MD BAS'
+    name: Basarabeasca
+    namewodiacritics: Basarabeasca
+    subdiv: LA
+    function: '-----6--'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '4619N 02858E'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'MD TBY'
+    name: Bendery
+    namewodiacritics: Bendery
+    subdiv: TI
+    function: '-----6--'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '4649N 02928E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MD BRS'
+    name: Berestovitsa
+    namewodiacritics: Berestovitsa
+    subdiv: ''
+    function: '-2------'
+    status: AI
+    date: '9207'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MD BOL'
+    name: Bolotino
+    namewodiacritics: Bolotino
+    subdiv: ''
+    function: '-----6--'
+    status: RQ
+    date: '1001'
+    iata: ''
+    coordinates: '4741N 02720E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MD RCN'
+    name: Briceni
+    namewodiacritics: Briceni
+    subdiv: ED
+    function: '-----6--'
+    status: RQ
+    date: '1001'
+    iata: ''
+    coordinates: '4821N 02705E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MD BUL'
+    name: Bulboaca
+    namewodiacritics: Bulboaca
+    subdiv: ED
+    function: '-----6--'
+    status: RL
+    date: '1107'
+    iata: ''
+    coordinates: '4822N 02711E'
+    remarks: ''
+-
+    ch: +
+    locode: 'MD CAH'
+    name: Cahul
+    namewodiacritics: Cahul
+    subdiv: CA
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '4555N 02811E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MD CAN'
+    name: Cantemir
+    namewodiacritics: Cantemir
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '4616N 02812E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MD CNI'
+    name: Causeni
+    namewodiacritics: Causeni
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '4638N 02924E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MD CAZ'
+    name: Cazaclia
+    namewodiacritics: Cazaclia
+    subdiv: GA
+    function: '--3-----'
+    status: RL
+    date: '1101'
+    iata: ''
+    coordinates: '4600N 02839E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MD CLA'
+    name: Ceadir-Lunga
+    namewodiacritics: Ceadir-Lunga
+    subdiv: GA
+    function: '--3-----'
+    status: RQ
+    date: '1001'
+    iata: ''
+    coordinates: '4603N 02850E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MD KIV'
+    name: 'Chisinãu (ex Kishinev)'
+    namewodiacritics: 'Chisinau (ex Kishinev)'
+    subdiv: ''
+    function: '---45---'
+    status: AI
+    date: '0201'
+    iata: ''
+    coordinates: '4701N 02850E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MD CML'
+    name: Cimislia
+    namewodiacritics: Cimislia
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '4631N 02847E'
+    remarks: ''
+-
+    ch: ¦
+    locode: 'MD CRI'
+    name: Cricova
+    namewodiacritics: Cricova
+    subdiv: CU
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '4708N 02851E'
+    remarks: '@Sub'
+-
+    ch: ¦
+    locode: 'MD CRE'
+    name: Criuleni
+    namewodiacritics: Criuleni
+    subdiv: CH
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '4712N 02909E'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'MD DUB'
+    name: Dubasari
+    namewodiacritics: Dubasari
+    subdiv: SN
+    function: '--3-----'
+    status: RL
+    date: '1101'
+    iata: ''
+    coordinates: '4715N 02909E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MD ETL'
+    name: Etulia
+    namewodiacritics: Etulia
+    subdiv: GA
+    function: '--3-----'
+    status: RL
+    date: '1101'
+    iata: ''
+    coordinates: '4532N 02826E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MD FLT'
+    name: Falesti
+    namewodiacritics: Falesti
+    subdiv: BA
+    function: '-----6--'
+    status: RL
+    date: '1201'
+    iata: ''
+    coordinates: '4734N 02742E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MD GIU'
+    name: Giurgiulesti
+    namewodiacritics: Giurgiulesti
+    subdiv: CA
+    function: '--3-----'
+    status: RL
+    date: '1101'
+    iata: ''
+    coordinates: '4528N 02811E'
+    remarks: ''
+-
+    ch: ¦
+    locode: 'MD HIM'
+    name: Hincesti
+    namewodiacritics: Hincesti
+    subdiv: LA
+    function: '-----6--'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '4649N 02835E'
+    remarks: '@Sub'
+-
+    ch: '#'
+    locode: 'MD MJN'
+    name: Ialoveni
+    namewodiacritics: Ialoveni
+    subdiv: CH
+    function: '-----6--'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '4656N 02846E'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'MD MKO'
+    name: Kupchino
+    namewodiacritics: Kupchino
+    subdiv: ''
+    function: '-----6--'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '4806N 02723E'
+    remarks: ''
+-
+    ch: ¦
+    locode: 'MD LEO'
+    name: Leova
+    namewodiacritics: Leova
+    subdiv: LA
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '4628N 02815E'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'MD LEU'
+    name: Leusheny
+    namewodiacritics: Leusheny
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0212'
+    iata: ''
+    coordinates: '4649N 02812E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MD ORH'
+    name: Orhei
+    namewodiacritics: Orhei
+    subdiv: OR
+    function: '--3-----'
+    status: RL
+    date: '1101'
+    iata: ''
+    coordinates: '4722N 02849E'
+    remarks: ''
+-
+    ch: ¦
+    locode: 'MD PUR'
+    name: Purcari
+    namewodiacritics: Purcari
+    subdiv: TI
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '4632N 02951E'
+    remarks: '@Sub'
+-
+    ch: ¦
+    locode: 'MD REV'
+    name: Revaca
+    namewodiacritics: Revaca
+    subdiv: CU
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '4654N 02856E'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'MD RIB'
+    name: Ribnita
+    namewodiacritics: Ribnita
+    subdiv: ''
+    function: '-23-----'
+    status: RL
+    date: '0607'
+    iata: ''
+    coordinates: '4745N 02900E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MD XXX'
+    name: 'RIS Inland waterways'
+    namewodiacritics: 'RIS Inland waterways'
+    subdiv: ''
+    function: 1-------
+    status: AI
+    date: '1101'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: +
+    locode: 'MD SOR'
+    name: Soroca
+    namewodiacritics: Soroca
+    subdiv: SO
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '4810N 02818E'
+    remarks: ''
+-
+    ch: ¦
+    locode: 'MD STR'
+    name: Straseni
+    namewodiacritics: Straseni
+    subdiv: CH
+    function: '-----6--'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '4708N 02836E'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'MD TIR'
+    name: Tiraspol
+    namewodiacritics: Tiraspol
+    subdiv: ''
+    function: '-23-----'
+    status: RL
+    date: '0307'
+    iata: ''
+    coordinates: '4650N 02938E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MD UNG'
+    name: Ungeny
+    namewodiacritics: Ungeny
+    subdiv: ''
+    function: '-2------'
+    status: AI
+    date: '9207'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MD VUL'
+    name: Vulcanesti
+    namewodiacritics: Vulcanesti
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0607'
+    iata: ''
+    coordinates: '4541N 02824E'
+    remarks: ''

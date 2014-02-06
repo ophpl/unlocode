@@ -1,0 +1,240 @@
+-
+    ch: ''
+    locode: 'BZ BAR'
+    name: Barranco
+    namewodiacritics: Barranco
+    subdiv: ''
+    function: 1-------
+    status: RL
+    date: '0212'
+    iata: ''
+    coordinates: '1600N 08855W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BZ BZE'
+    name: 'Belize City'
+    namewodiacritics: 'Belize City'
+    subdiv: ''
+    function: 1--45---
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'BZ BMP'
+    name: Belmopan
+    namewodiacritics: Belmopan
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0607'
+    iata: ''
+    coordinates: '1716N 08847W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BZ BGK'
+    name: 'Big Creek'
+    namewodiacritics: 'Big Creek'
+    subdiv: SC
+    function: 1-34----
+    status: RL
+    date: '1101'
+    iata: ''
+    coordinates: '1631N 08824W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BZ CUK'
+    name: 'Caye Caulker'
+    namewodiacritics: 'Caye Caulker'
+    subdiv: BZ
+    function: '---4----'
+    status: RL
+    date: '0907'
+    iata: ''
+    coordinates: '1745N 08803W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BZ CYC'
+    name: 'Caye Chapel'
+    namewodiacritics: 'Caye Chapel'
+    subdiv: BZ
+    function: '---4----'
+    status: RL
+    date: '0907'
+    iata: ''
+    coordinates: '1742N 08802W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BZ COL'
+    name: Colinto
+    namewodiacritics: Colinto
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'BZ CZH'
+    name: Corozal
+    namewodiacritics: Corozal
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'BZ DGA'
+    name: Dangriga
+    namewodiacritics: Dangriga
+    subdiv: ''
+    function: 1-3-----
+    status: RL
+    date: '0212'
+    iata: ''
+    coordinates: '1658N 08813W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BZ INB'
+    name: 'Independence Apt'
+    namewodiacritics: 'Independence Apt'
+    subdiv: TOL
+    function: '--34----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '1732N 08818W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BZ MZE'
+    name: 'Manatee Apt'
+    namewodiacritics: 'Manatee Apt'
+    subdiv: ''
+    function: '--34----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '1704N 08935W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BZ MDB'
+    name: Melinda
+    namewodiacritics: Melinda
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'BZ ORZ'
+    name: 'Orange Walk'
+    namewodiacritics: 'Orange Walk'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'BZ PLJ'
+    name: Placencia
+    namewodiacritics: Placencia
+    subdiv: SC
+    function: '---4----'
+    status: RL
+    date: '0907'
+    iata: ''
+    coordinates: '1631N 08822W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BZ PND'
+    name: 'Punta Gorda'
+    namewodiacritics: 'Punta Gorda'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'BZ SQS'
+    name: 'San Ignacio'
+    namewodiacritics: 'San Ignacio'
+    subdiv: CY
+    function: '---4----'
+    status: RL
+    date: '0907'
+    iata: ''
+    coordinates: '1709N 08904W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BZ SPR'
+    name: 'San Pedro'
+    namewodiacritics: 'San Pedro'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'BZ STU'
+    name: 'Santa Cruz'
+    namewodiacritics: 'Santa Cruz'
+    subdiv: CZL
+    function: '---4----'
+    status: RL
+    date: '0907'
+    iata: ''
+    coordinates: '1816N 08827W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BZ SJX'
+    name: Sartaneja
+    namewodiacritics: Sartaneja
+    subdiv: CZL
+    function: '---4----'
+    status: RL
+    date: '0907'
+    iata: ''
+    coordinates: '1821N 08807W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BZ SVK'
+    name: 'Silver Creek'
+    namewodiacritics: 'Silver Creek'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''

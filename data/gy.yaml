@@ -1,0 +1,492 @@
+-
+    ch: ''
+    locode: 'GY ANT'
+    name: Adventure
+    namewodiacritics: Adventure
+    subdiv: ''
+    function: 1-------
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '0705N 05829W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GY AVE'
+    name: 'Agricola Village'
+    namewodiacritics: 'Agricola Village'
+    subdiv: DE
+    function: '-----6--'
+    status: RL
+    date: '1107'
+    iata: ''
+    coordinates: '0628N 05810W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GY AHL'
+    name: Aishalton
+    namewodiacritics: Aishalton
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'GY NAI'
+    name: Annai
+    namewodiacritics: Annai
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'GY BMJ'
+    name: Baramita
+    namewodiacritics: Baramita
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'GY BAR'
+    name: Bartica
+    namewodiacritics: Bartica
+    subdiv: UD
+    function: '-----6--'
+    status: RL
+    date: '1107'
+    iata: ''
+    coordinates: '0547N 05738W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GY GFO'
+    name: Bartica
+    namewodiacritics: Bartica
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '9506'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'GY BCG'
+    name: Bemichi
+    namewodiacritics: Bemichi
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'GY BOU'
+    name: Bourda
+    namewodiacritics: Bourda
+    subdiv: DE
+    function: '--3-----'
+    status: RL
+    date: '1101'
+    iata: ''
+    coordinates: '0649N 05809W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GY EKE'
+    name: Ekereku
+    namewodiacritics: Ekereku
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'GY GUY'
+    name: Enmore
+    namewodiacritics: Enmore
+    subdiv: DE
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '0646N 05759W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GY EVR'
+    name: Everton
+    namewodiacritics: Everton
+    subdiv: DE
+    function: 1-3--6--
+    status: RQ
+    date: '0701'
+    iata: ''
+    coordinates: '0655N 05820W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GY GEO'
+    name: Georgetown
+    namewodiacritics: Georgetown
+    subdiv: ''
+    function: 1--45---
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'GY IMB'
+    name: Imbaimadai
+    namewodiacritics: Imbaimadai
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'GY KAI'
+    name: Kaieteur
+    namewodiacritics: Kaieteur
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'GY KAR'
+    name: Kamarang
+    namewodiacritics: Kamarang
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'GY KRM'
+    name: Karanambo
+    namewodiacritics: Karanambo
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'GY KRG'
+    name: Karasabai
+    namewodiacritics: Karasabai
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'GY KTO'
+    name: Kato
+    namewodiacritics: Kato
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'GY KKG'
+    name: Konawaruk
+    namewodiacritics: Konawaruk
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'GY KPG'
+    name: Kurupung
+    namewodiacritics: Kurupung
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'GY LTM'
+    name: Lethem
+    namewodiacritics: Lethem
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'GY LDN'
+    name: Linden
+    namewodiacritics: Linden
+    subdiv: ''
+    function: 1-------
+    status: RL
+    date: '0101'
+    iata: ''
+    coordinates: '0600N 05817W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GY LUB'
+    name: 'Lumid Pau'
+    namewodiacritics: 'Lumid Pau'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'GY USI'
+    name: Mabaruma
+    namewodiacritics: Mabaruma
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'GY MKZ'
+    name: Mackenzie
+    namewodiacritics: Mackenzie
+    subdiv: ''
+    function: '-23--6--'
+    status: RL
+    date: '0607'
+    iata: ''
+    coordinates: '0600N 05817W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GY MHA'
+    name: Mahdia
+    namewodiacritics: Mahdia
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'GY VEG'
+    name: Maikwak
+    namewodiacritics: Maikwak
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'GY MWJ'
+    name: 'Matthews Ridge'
+    namewodiacritics: 'Matthews Ridge'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'GY MYM'
+    name: 'Monkey Mountain'
+    namewodiacritics: 'Monkey Mountain'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'GY NAM'
+    name: 'New Amsterdam'
+    namewodiacritics: 'New Amsterdam'
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '0001'
+    iata: QSX
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'GY OGL'
+    name: Ogle
+    namewodiacritics: Ogle
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'GY ORJ'
+    name: Orinduik
+    namewodiacritics: Orinduik
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'GY PMT'
+    name: Paramakotoi
+    namewodiacritics: Paramakotoi
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'GY PRR'
+    name: Paruima
+    namewodiacritics: Paruima
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'GY PIQ'
+    name: Pipillipai
+    namewodiacritics: Pipillipai
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'GY PKM'
+    name: 'Port Kaituma'
+    namewodiacritics: 'Port Kaituma'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'GY ROS'
+    name: Rosignol
+    namewodiacritics: Rosignol
+    subdiv: MA
+    function: '-----6--'
+    status: RL
+    date: '1201'
+    iata: ''
+    coordinates: '0617N 05732W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GY SDC'
+    name: Sandcreek
+    namewodiacritics: Sandcreek
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'GY SKM'
+    name: Skeldon
+    namewodiacritics: Skeldon
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'GY THI'
+    name: Thimery
+    namewodiacritics: Thimery
+    subdiv: ''
+    function: '----5---'
+    status: AI
+    date: '9805'
+    iata: ''
+    coordinates: ''
+    remarks: ''

@@ -1,0 +1,684 @@
+-
+    ch: ''
+    locode: 'BS ASD'
+    name: 'Andros Town, Andros Island'
+    namewodiacritics: 'Andros Town, Andros Island'
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'BS ATC'
+    name: 'Arthur''s Town, Cat Island'
+    namewodiacritics: 'Arthur''s Town, Cat Island'
+    subdiv: CI
+    function: '--34----'
+    status: AI
+    date: '0507'
+    iata: ''
+    coordinates: '2438N 07542W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BS BIM'
+    name: Bimini
+    namewodiacritics: Bimini
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'BS BKC'
+    name: 'Bock Cay'
+    namewodiacritics: 'Bock Cay'
+    subdiv: EX
+    function: 1-------
+    status: RL
+    date: '0701'
+    iata: ''
+    coordinates: '2349N 07610W'
+    remarks: ''
+-
+    ch: ¦
+    locode: 'BS CEL'
+    name: 'Cape Eleuthera'
+    namewodiacritics: 'Cape Eleuthera'
+    subdiv: RS
+    function: 1--4----
+    status: AI
+    date: '1307'
+    iata: ''
+    coordinates: '2449N 07621W'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'BS CXY'
+    name: 'Cat Cays'
+    namewodiacritics: 'Cat Cays'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'BS CAT'
+    name: 'Cat Island'
+    namewodiacritics: 'Cat Island'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'BS CCZ'
+    name: 'Chub Cay, Berry Islands'
+    namewodiacritics: 'Chub Cay, Berry Islands'
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'BS CLP'
+    name: 'Clifton Point'
+    namewodiacritics: 'Clifton Point'
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '9506'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ¦
+    locode: 'BS CBT'
+    name: 'Cockburn Town'
+    namewodiacritics: 'Cockburn Town'
+    subdiv: SR
+    function: 1-------
+    status: RQ
+    date: '1307'
+    iata: ''
+    coordinates: '2402N 07431W'
+    remarks: '@Sub@Coo'
+-
+    ch: ¦
+    locode: 'BS COX'
+    name: 'Congo Town'
+    namewodiacritics: 'Congo Town'
+    subdiv: KB
+    function: 1--4----
+    status: AI
+    date: '1307'
+    iata: ''
+    coordinates: '2409N 07732W'
+    remarks: '@Sub@Coo'
+-
+    ch: ''
+    locode: 'BS CRI'
+    name: 'Crooked Island'
+    namewodiacritics: 'Crooked Island'
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '9401'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'BS LGI'
+    name: 'Deadmans Cay'
+    namewodiacritics: 'Deadmans Cay'
+    subdiv: LI
+    function: '---4----'
+    status: AI
+    date: '0212'
+    iata: ''
+    coordinates: '2310N 07505W'
+    remarks: 'Long Island'
+-
+    ch: ''
+    locode: 'BS DCT'
+    name: 'Duncan Town'
+    namewodiacritics: 'Duncan Town'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'BS ELE'
+    name: 'Eleuthera Island'
+    namewodiacritics: 'Eleuthera Island'
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '9506'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'BS FPO'
+    name: 'Freeport, Grand Bahama'
+    namewodiacritics: 'Freeport, Grand Bahama'
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'BS GGT'
+    name: 'George Town, Great Exuma Island'
+    namewodiacritics: 'George Town, Great Exuma Island'
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'BS GOC'
+    name: 'Gorda Cay'
+    namewodiacritics: 'Gorda Cay'
+    subdiv: ''
+    function: 1-------
+    status: RL
+    date: '0507'
+    iata: ''
+    coordinates: '2605N 07732W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BS GHB'
+    name: 'Governors Harbour, Eleuthera'
+    namewodiacritics: 'Governors Harbour, Eleuthera'
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'BS GBI'
+    name: 'Grand Bahama'
+    namewodiacritics: 'Grand Bahama'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'BS EXU'
+    name: 'Great Exuma Island'
+    namewodiacritics: 'Great Exuma Island'
+    subdiv: EX
+    function: 1-------
+    status: RL
+    date: '0212'
+    iata: ''
+    coordinates: '2332N 07550W'
+    remarks: ''
+-
+    ch: ¦
+    locode: 'BS GHC'
+    name: 'Great Harbour Cay'
+    namewodiacritics: 'Great Harbour Cay'
+    subdiv: NB
+    function: 1--4----
+    status: AI
+    date: '1307'
+    iata: ''
+    coordinates: '2545N 07750W'
+    remarks: '@Sub'
+-
+    ch: ¦
+    locode: 'BS GSC'
+    name: 'Great Stirrup Cay'
+    namewodiacritics: 'Great Stirrup Cay'
+    subdiv: NB
+    function: 1-------
+    status: RQ
+    date: '1307'
+    iata: ''
+    coordinates: '2550N 07754W'
+    remarks: '@Sub@Coo'
+-
+    ch: ¦
+    locode: 'BS GTC'
+    name: 'Green Turtle Cay'
+    namewodiacritics: 'Green Turtle Cay'
+    subdiv: GT
+    function: 1--4----
+    status: AI
+    date: '1307'
+    iata: ''
+    coordinates: '2645N 07720W'
+    remarks: '@Sub@Coo'
+-
+    ch: ''
+    locode: 'BS HBI'
+    name: 'Harbour Island'
+    namewodiacritics: 'Harbour Island'
+    subdiv: HI
+    function: 1--4----
+    status: AI
+    date: '0212'
+    iata: ''
+    coordinates: '2530N 07638W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BS IGA'
+    name: Inagua
+    namewodiacritics: Inagua
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'BS HMC'
+    name: 'Little San Salvador'
+    namewodiacritics: 'Little San Salvador'
+    subdiv: ''
+    function: 1-------
+    status: RL
+    date: '0607'
+    iata: ''
+    coordinates: '2435N 07555W'
+    remarks: ''
+-
+    ch: '#'
+    locode: 'BS COC'
+    name: 'Little Stirrup Cay'
+    namewodiacritics: 'Little Stirrup Cay'
+    subdiv: NB
+    function: 1-------
+    status: RQ
+    date: '1307'
+    iata: ''
+    coordinates: '2549N 07756W'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'BS LUC'
+    name: Lucaya
+    namewodiacritics: Lucaya
+    subdiv: FP
+    function: 1-------
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '2631N 07838W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BS MAY'
+    name: 'Mangrove Cay Apt'
+    namewodiacritics: 'Mangrove Cay Apt'
+    subdiv: ''
+    function: '--34----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '2417N 07740W'
+    remarks: ''
+-
+    ch: ¦
+    locode: 'BS MHH'
+    name: 'Marsh Harbour'
+    namewodiacritics: 'Marsh Harbour'
+    subdiv: MH
+    function: 1--4----
+    status: AI
+    date: '1307'
+    iata: ''
+    coordinates: '2632N 07658W'
+    remarks: '@Sub@Coo'
+-
+    ch: ''
+    locode: 'BS MSK'
+    name: 'Mastic Point Apt'
+    namewodiacritics: 'Mastic Point Apt'
+    subdiv: ''
+    function: '--34----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '2501N 07800W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BS MAT'
+    name: 'Matthew Town'
+    namewodiacritics: 'Matthew Town'
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '9506'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'BS MYG'
+    name: 'Mayaguana Island'
+    namewodiacritics: 'Mayaguana Island'
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ¦
+    locode: 'BS NAS'
+    name: Nassau
+    namewodiacritics: Nassau
+    subdiv: NP
+    function: 1--45---
+    status: AI
+    date: '1307'
+    iata: ''
+    coordinates: '2505N 07721W'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'BS NET'
+    name: 'New Bight'
+    namewodiacritics: 'New Bight'
+    subdiv: CI
+    function: '--34----'
+    status: AI
+    date: '0307'
+    iata: ''
+    coordinates: '2418N 07525W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BS NMC'
+    name: 'Norman''s Cay'
+    namewodiacritics: 'Norman''s Cay'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'BS ELH'
+    name: 'North Eleuthera'
+    namewodiacritics: 'North Eleuthera'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'BS OCE'
+    name: 'Ocean Cay'
+    namewodiacritics: 'Ocean Cay'
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '9506'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'BS PID'
+    name: 'Paradise Island'
+    namewodiacritics: 'Paradise Island'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'BS PWN'
+    name: 'Pitts Town'
+    namewodiacritics: 'Pitts Town'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'BS PPO'
+    name: 'Powell Point'
+    namewodiacritics: 'Powell Point'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ¦
+    locode: 'BS RSD'
+    name: 'Rock Sound'
+    namewodiacritics: 'Rock Sound'
+    subdiv: RS
+    function: 1--4----
+    status: AI
+    date: '1307'
+    iata: ''
+    coordinates: '2454N 07612W'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'BS RCY'
+    name: 'Rum Cay'
+    namewodiacritics: 'Rum Cay'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ¦
+    locode: 'BS SAQ'
+    name: 'San Andros'
+    namewodiacritics: 'San Andros'
+    subdiv: NB
+    function: 1--4----
+    status: AI
+    date: '1307'
+    iata: ''
+    coordinates: '2504N 07803W'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'BS ZSA'
+    name: 'San Salvador Island'
+    namewodiacritics: 'San Salvador Island'
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'BS WZY'
+    name: 'Seaplane Base'
+    namewodiacritics: 'Seaplane Base'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'BS TZN'
+    name: 'South Andros'
+    namewodiacritics: 'South Andros'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'BS SRP'
+    name: 'South Riding Point'
+    namewodiacritics: 'South Riding Point'
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '9506'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'BS SWL'
+    name: 'Spanish Wells'
+    namewodiacritics: 'Spanish Wells'
+    subdiv: HI
+    function: '---4----'
+    status: RL
+    date: '0212'
+    iata: ''
+    coordinates: '2533N 07645W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BS AXP'
+    name: 'Spring Point'
+    namewodiacritics: 'Spring Point'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'BS TYM'
+    name: 'Staniel Cay'
+    namewodiacritics: 'Staniel Cay'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'BS SML'
+    name: 'Stella Maris'
+    namewodiacritics: 'Stella Maris'
+    subdiv: LI
+    function: 1--4----
+    status: AI
+    date: '0212'
+    iata: ''
+    coordinates: '2336N 07518W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BS TBI'
+    name: 'The Bight'
+    namewodiacritics: 'The Bight'
+    subdiv: CI
+    function: 1--4----
+    status: AI
+    date: '0212'
+    iata: ''
+    coordinates: '2419N 07524W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BS TCB'
+    name: 'Treasure Cay, Great Abaco Island'
+    namewodiacritics: 'Treasure Cay, Great Abaco Island'
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'BS WKR'
+    name: 'Walker''s Cay'
+    namewodiacritics: 'Walker''s Cay'
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'BS WTD'
+    name: 'West End'
+    namewodiacritics: 'West End'
+    subdiv: FP
+    function: 1--4----
+    status: AI
+    date: '0212'
+    iata: ''
+    coordinates: '2641N 07858W'
+    remarks: ''

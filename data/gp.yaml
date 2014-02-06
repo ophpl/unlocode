@@ -1,0 +1,264 @@
+-
+    ch: ''
+    locode: 'GP BMH'
+    name: Baie-Mahault
+    namewodiacritics: Baie-Mahault
+    subdiv: ''
+    function: 1-3-----
+    status: RL
+    date: '1001'
+    iata: ''
+    coordinates: '1616N 06135W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GP BBR'
+    name: Basse-Terre
+    namewodiacritics: Basse-Terre
+    subdiv: ''
+    function: 1--45---
+    status: AI
+    date: '0212'
+    iata: ''
+    coordinates: '1600N 06143W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GP CBE'
+    name: Capesterre-Belle-Eau
+    namewodiacritics: Capesterre-Belle-Eau
+    subdiv: ''
+    function: 1----6--
+    status: RL
+    date: '1107'
+    iata: ''
+    coordinates: '1603N 06133W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GP FAE'
+    name: Folle-Anse
+    namewodiacritics: Folle-Anse
+    subdiv: ''
+    function: 1-3-----
+    status: RL
+    date: '1101'
+    iata: ''
+    coordinates: '1557N 06120W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GP GRB'
+    name: Grand-Bourg
+    namewodiacritics: Grand-Bourg
+    subdiv: ''
+    function: 1-------
+    status: RL
+    date: '0212'
+    iata: ''
+    coordinates: '1553N 06118W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GP JAR'
+    name: Jarry
+    namewodiacritics: Jarry
+    subdiv: ''
+    function: 1-------
+    status: AI
+    date: '0002'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'GP DSD'
+    name: 'La Désirade'
+    namewodiacritics: 'La Desirade'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0212'
+    iata: ''
+    coordinates: '1619N 06102W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GP LAM'
+    name: Lamentin
+    namewodiacritics: Lamentin
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '1101'
+    iata: ''
+    coordinates: '1616N 06137W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GP LEM'
+    name: 'Le Moule'
+    namewodiacritics: 'Le Moule'
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '1001'
+    iata: ''
+    coordinates: '1620N 06120W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GP BYM'
+    name: 'Les Abymes'
+    namewodiacritics: 'Les Abymes'
+    subdiv: ''
+    function: '-----6--'
+    status: RL
+    date: '1201'
+    iata: ''
+    coordinates: '1615N 06130W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GP GBJ'
+    name: Marie-Galante
+    namewodiacritics: Marie-Galante
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0212'
+    iata: ''
+    coordinates: '1556N 06116W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GP MSB'
+    name: Marigot
+    namewodiacritics: Marigot
+    subdiv: ''
+    function: '--34----'
+    status: AI
+    date: '0307'
+    iata: ''
+    coordinates: '1804N 06305W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GP PTP'
+    name: Pointe-à-Pitre
+    namewodiacritics: Pointe-a-Pitre
+    subdiv: ''
+    function: 1--45---
+    status: AF
+    date: '9506'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'GP ZAA'
+    name: Pointe-Noire
+    namewodiacritics: Pointe-Noire
+    subdiv: ''
+    function: '--3--6--'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '1614N 06147W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GP PTL'
+    name: Port-Louis
+    namewodiacritics: Port-Louis
+    subdiv: ''
+    function: 1-3--6--
+    status: RL
+    date: '0607'
+    iata: ''
+    coordinates: '1625N 06132W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GP SBH'
+    name: 'Saint Barthelemy'
+    namewodiacritics: 'Saint Barthelemy'
+    subdiv: ''
+    function: 1--45---
+    status: AI
+    date: '1101'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'GP SFG'
+    name: 'Saint Martin Apt'
+    namewodiacritics: 'Saint Martin Apt'
+    subdiv: ''
+    function: '--34----'
+    status: AI
+    date: '0401'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'GP SCL'
+    name: Saint-Claude
+    namewodiacritics: Saint-Claude
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '1601N 06141W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GP SFC'
+    name: Saint-François
+    namewodiacritics: Saint-Francois
+    subdiv: ''
+    function: 1-34----
+    status: RL
+    date: '1101'
+    iata: ''
+    coordinates: '1615N 06116W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GP HTB'
+    name: Terre-de-Bas
+    namewodiacritics: Terre-de-Bas
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'GP LSS'
+    name: Terre-de-Haut
+    namewodiacritics: Terre-de-Haut
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'GP TRS'
+    name: Trois-Rivières
+    namewodiacritics: Trois-Rivieres
+    subdiv: ''
+    function: '-----6--'
+    status: RL
+    date: '1001'
+    iata: ''
+    coordinates: '1558N 06138W'
+    remarks: ''

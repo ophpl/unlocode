@@ -1,0 +1,216 @@
+-
+    ch: ''
+    locode: 'AM ABO'
+    name: Abovyan
+    namewodiacritics: Abovyan
+    subdiv: ''
+    function: '-2------'
+    status: RL
+    date: '0207'
+    iata: ''
+    coordinates: '4016N 04447E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AM AHU'
+    name: Akhuryan
+    namewodiacritics: Akhuryan
+    subdiv: ''
+    function: '-2------'
+    status: QQ
+    date: '8012'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'AM ARG'
+    name: Aragatsotn
+    namewodiacritics: Aragatsotn
+    subdiv: ''
+    function: '-----6--'
+    status: RL
+    date: '1107'
+    iata: ''
+    coordinates: '4015N 04410E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AM ARA'
+    name: Ararat
+    namewodiacritics: Ararat
+    subdiv: ''
+    function: '-2------'
+    status: RL
+    date: '0207'
+    iata: ''
+    coordinates: '3950N 04441E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AM ARV'
+    name: Armavir
+    namewodiacritics: Armavir
+    subdiv: ''
+    function: '-----6--'
+    status: RL
+    date: '1107'
+    iata: ''
+    coordinates: '4009N 04401E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AM ASH'
+    name: Ashtarak
+    namewodiacritics: Ashtarak
+    subdiv: ER
+    function: '--3-----'
+    status: RL
+    date: '1101'
+    iata: ''
+    coordinates: '4018N 04421E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AM BRD'
+    name: Berd
+    namewodiacritics: Berd
+    subdiv: ''
+    function: '-----6--'
+    status: RL
+    date: '1107'
+    iata: ''
+    coordinates: '4052N 04523E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AM BYU'
+    name: Byureghavan
+    namewodiacritics: Byureghavan
+    subdiv: KT
+    function: '--3-----'
+    status: RL
+    date: '1101'
+    iata: ''
+    coordinates: '4018N 04435E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AM DIL'
+    name: Dilijan
+    namewodiacritics: Dilijan
+    subdiv: ''
+    function: '-----6--'
+    status: RL
+    date: '1201'
+    iata: ''
+    coordinates: '4044N 04452E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AM EZN'
+    name: Ecmiadzin
+    namewodiacritics: Ecmiadzin
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0207'
+    iata: ''
+    coordinates: '4009N 04417E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AM GRS'
+    name: Goris
+    namewodiacritics: Goris
+    subdiv: ''
+    function: '-----6--'
+    status: RL
+    date: '1107'
+    iata: ''
+    coordinates: '3930N 04620E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AM LWN'
+    name: Gyumri
+    namewodiacritics: Gyumri
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0212'
+    iata: ''
+    coordinates: '4048N 04350E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AM JER'
+    name: Jermuk
+    namewodiacritics: Jermuk
+    subdiv: VD
+    function: 1----6--
+    status: RL
+    date: '1007'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: +
+    locode: 'AM KJN'
+    name: Kajaran
+    namewodiacritics: Kajaran
+    subdiv: ''
+    function: '-23-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '3909N 04609E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AM ARM'
+    name: Masis
+    namewodiacritics: Masis
+    subdiv: AR
+    function: '-23--6--'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '4001N 04429E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AM SPI'
+    name: Spitak
+    namewodiacritics: Spitak
+    subdiv: LO
+    function: '--3-----'
+    status: RL
+    date: '1101'
+    iata: ''
+    coordinates: '4050N 04416E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AM VZR'
+    name: Vanadzor
+    namewodiacritics: Vanadzor
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0207'
+    iata: ''
+    coordinates: '4048N 04428E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AM EVN'
+    name: Yerevan
+    namewodiacritics: Yerevan
+    subdiv: ER
+    function: '-2345---'
+    status: AI
+    date: '0907'
+    iata: ''
+    coordinates: '4011N 04431E'
+    remarks: ''

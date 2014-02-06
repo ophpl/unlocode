@@ -1,0 +1,600 @@
+-
+    ch: ''
+    locode: 'AQ ABA'
+    name: Aboa
+    namewodiacritics: Aboa
+    subdiv: ''
+    function: 1-------
+    status: RL
+    date: '0507'
+    iata: ''
+    coordinates: '7303S 01325W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AQ AMS'
+    name: Amundsen-Scott
+    namewodiacritics: Amundsen-Scott
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0507'
+    iata: ''
+    coordinates: '8959S 13916E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AQ ARC'
+    name: Arctowski
+    namewodiacritics: Arctowski
+    subdiv: ''
+    function: 1-------
+    status: RL
+    date: '0507'
+    iata: ''
+    coordinates: '6209S 05828W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AQ ART'
+    name: Artigas
+    namewodiacritics: Artigas
+    subdiv: ''
+    function: 1-------
+    status: RL
+    date: '0507'
+    iata: ''
+    coordinates: '6211S 05854W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AQ APT'
+    name: 'Arturo Prat'
+    namewodiacritics: 'Arturo Prat'
+    subdiv: ''
+    function: 1-------
+    status: RL
+    date: '0507'
+    iata: ''
+    coordinates: '6230S 05941W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AQ BEL'
+    name: 'Belgrano II'
+    namewodiacritics: 'Belgrano II'
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0507'
+    iata: ''
+    coordinates: '7752S 03437W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AQ BHN'
+    name: Bellingshausen
+    namewodiacritics: Bellingshausen
+    subdiv: ''
+    function: 1-------
+    status: RL
+    date: '0507'
+    iata: ''
+    coordinates: '6211S 05857W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AQ CAS'
+    name: 'Casey Station'
+    namewodiacritics: 'Casey Station'
+    subdiv: ''
+    function: 1-------
+    status: RL
+    date: '0907'
+    iata: ''
+    coordinates: '6617S 11031E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AQ CFZ'
+    name: 'Comandante Ferraz'
+    namewodiacritics: 'Comandante Ferraz'
+    subdiv: ''
+    function: 1-------
+    status: RL
+    date: '0507'
+    iata: ''
+    coordinates: '6205S 05823W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AQ CON'
+    name: Concordia
+    namewodiacritics: Concordia
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0507'
+    iata: ''
+    coordinates: '7506S 12323E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AQ DAV'
+    name: 'Davis Station'
+    namewodiacritics: 'Davis Station'
+    subdiv: ''
+    function: 1-------
+    status: RL
+    date: '0907'
+    iata: ''
+    coordinates: '6834S 07758E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AQ DMF'
+    name: 'Dome Fuji'
+    namewodiacritics: 'Dome Fuji'
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0507'
+    iata: ''
+    coordinates: '7719S 03942E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AQ DRZ'
+    name: 'Druzhnaya 4'
+    namewodiacritics: 'Druzhnaya 4'
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0507'
+    iata: ''
+    coordinates: '6944S 07342E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AQ DDU'
+    name: 'Dumont d''Urville Station'
+    namewodiacritics: 'Dumont d''Urville Station'
+    subdiv: ''
+    function: 1-------
+    status: RL
+    date: '0907'
+    iata: ''
+    coordinates: '6639S 14000E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AQ ESC'
+    name: Escudero
+    namewodiacritics: Escudero
+    subdiv: ''
+    function: 1-------
+    status: RL
+    date: '0507'
+    iata: ''
+    coordinates: '6212S 05857W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AQ ESP'
+    name: Esperanza
+    namewodiacritics: Esperanza
+    subdiv: ''
+    function: 1-------
+    status: RL
+    date: '0507'
+    iata: ''
+    coordinates: '6323S 05659W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AQ GDC'
+    name: 'Gabriel de Castilla'
+    namewodiacritics: 'Gabriel de Castilla'
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0507'
+    iata: ''
+    coordinates: '6259S 06041W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AQ OHG'
+    name: 'General Bernardo O''higgins'
+    namewodiacritics: 'General Bernardo O''higgins'
+    subdiv: ''
+    function: 1-------
+    status: RL
+    date: '0507'
+    iata: ''
+    coordinates: '6319S 05754W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AQ GWL'
+    name: 'Great Wall'
+    namewodiacritics: 'Great Wall'
+    subdiv: ''
+    function: 1-------
+    status: RL
+    date: '0507'
+    iata: ''
+    coordinates: '6213S 05858W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AQ HLY'
+    name: Halley
+    namewodiacritics: Halley
+    subdiv: ''
+    function: 1-------
+    status: RL
+    date: '0507'
+    iata: ''
+    coordinates: '7534S 02632W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AQ JCP'
+    name: 'Juan Carlos Primero'
+    namewodiacritics: 'Juan Carlos Primero'
+    subdiv: ''
+    function: 1-------
+    status: RL
+    date: '0507'
+    iata: ''
+    coordinates: '6239S 06023W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AQ JUB'
+    name: Jubany
+    namewodiacritics: Jubany
+    subdiv: ''
+    function: 1-------
+    status: RL
+    date: '0507'
+    iata: ''
+    coordinates: '6214S 05839W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AQ KSG'
+    name: 'King Sejong'
+    namewodiacritics: 'King Sejong'
+    subdiv: ''
+    function: 1-------
+    status: RL
+    date: '0507'
+    iata: ''
+    coordinates: '6213S 05847W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AQ KHN'
+    name: Kohnen
+    namewodiacritics: Kohnen
+    subdiv: ''
+    function: 1-------
+    status: RL
+    date: '0507'
+    iata: ''
+    coordinates: '7500S 00004E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AQ LAW'
+    name: 'Law Base'
+    namewodiacritics: 'Law Base'
+    subdiv: ''
+    function: 1-------
+    status: RL
+    date: '0507'
+    iata: ''
+    coordinates: '6923S 07623E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AQ MTR'
+    name: Maitri
+    namewodiacritics: Maitri
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0507'
+    iata: ''
+    coordinates: '7045S 01144E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AQ MRB'
+    name: Marambio
+    namewodiacritics: Marambio
+    subdiv: ''
+    function: 1-------
+    status: RL
+    date: '0507'
+    iata: ''
+    coordinates: '6414S 05639W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AQ MZU'
+    name: 'Mario Zucchelli'
+    namewodiacritics: 'Mario Zucchelli'
+    subdiv: ''
+    function: 1-------
+    status: RL
+    date: '0507'
+    iata: ''
+    coordinates: '7441S 16407E'
+    remarks: 'ex Terra Nova Bay Station'
+-
+    ch: ''
+    locode: 'AQ MAW'
+    name: 'Mawson Station'
+    namewodiacritics: 'Mawson Station'
+    subdiv: ''
+    function: 1-------
+    status: RL
+    date: '0907'
+    iata: ''
+    coordinates: '6736S 06252E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AQ MCM'
+    name: McMurdo
+    namewodiacritics: McMurdo
+    subdiv: ''
+    function: 1--4----
+    status: RL
+    date: '0507'
+    iata: ''
+    coordinates: '7750S 16640E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AQ MIR'
+    name: Mirny
+    namewodiacritics: Mirny
+    subdiv: ''
+    function: 1-------
+    status: RL
+    date: '0507'
+    iata: ''
+    coordinates: '6633S 09300E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AQ NEU'
+    name: Neumayer
+    namewodiacritics: Neumayer
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0507'
+    iata: ''
+    coordinates: '7038S 00815W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AQ NOV'
+    name: Novolazarevskaya
+    namewodiacritics: Novolazarevskaya
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0507'
+    iata: ''
+    coordinates: '7046S 01151E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AQ ORC'
+    name: Orcadas
+    namewodiacritics: Orcadas
+    subdiv: ''
+    function: 1-------
+    status: RL
+    date: '0507'
+    iata: ''
+    coordinates: '6044S 04444W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AQ PLM'
+    name: Palmer
+    namewodiacritics: Palmer
+    subdiv: ''
+    function: 1-------
+    status: RL
+    date: '0507'
+    iata: ''
+    coordinates: '6446S 06403W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AQ PFS'
+    name: 'Port Foster'
+    namewodiacritics: 'Port Foster'
+    subdiv: ''
+    function: 1-------
+    status: RL
+    date: '1101'
+    iata: ''
+    coordinates: '6300S 06034W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AQ PRO'
+    name: Progress
+    namewodiacritics: Progress
+    subdiv: ''
+    function: 1-------
+    status: RL
+    date: '0507'
+    iata: ''
+    coordinates: '6924S 07623E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AQ ROT'
+    name: Rothera
+    namewodiacritics: Rothera
+    subdiv: ''
+    function: 1-------
+    status: RL
+    date: '0507'
+    iata: ''
+    coordinates: '6734S 06807W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AQ SMT'
+    name: 'San Martín'
+    namewodiacritics: 'San Martin'
+    subdiv: ''
+    function: 1-------
+    status: RL
+    date: '0507'
+    iata: ''
+    coordinates: '6807S 06706W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AQ SNA'
+    name: 'SANAE IV'
+    namewodiacritics: 'SANAE IV'
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0507'
+    iata: ''
+    coordinates: '7140S 00249W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AQ SBA'
+    name: 'Scott Base'
+    namewodiacritics: 'Scott Base'
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0507'
+    iata: ''
+    coordinates: '7751S 16645E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AQ SGN'
+    name: Signy
+    namewodiacritics: Signy
+    subdiv: ''
+    function: 1-------
+    status: RL
+    date: '0507'
+    iata: ''
+    coordinates: '6043S 04536W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AQ SYW'
+    name: Syowa
+    namewodiacritics: Syowa
+    subdiv: ''
+    function: 1-------
+    status: RL
+    date: '0507'
+    iata: ''
+    coordinates: '6900S 03935E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AQ TNM'
+    name: 'Teniente R. Marsh'
+    namewodiacritics: 'Teniente R. Marsh'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0507'
+    iata: ''
+    coordinates: '6213S 05855W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AQ TOR'
+    name: Tor
+    namewodiacritics: Tor
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0507'
+    iata: ''
+    coordinates: '7153S 00509E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AQ TRL'
+    name: Troll
+    namewodiacritics: Troll
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0507'
+    iata: ''
+    coordinates: '7200S 00232E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AQ VKY'
+    name: Vernadsky
+    namewodiacritics: Vernadsky
+    subdiv: ''
+    function: 1-------
+    status: RL
+    date: '0507'
+    iata: ''
+    coordinates: '6514S 06415W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AQ VOS'
+    name: Vostok
+    namewodiacritics: Vostok
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0507'
+    iata: ''
+    coordinates: '7828S 10648E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AQ WSA'
+    name: Wasa
+    namewodiacritics: Wasa
+    subdiv: ''
+    function: 1-------
+    status: RL
+    date: '0507'
+    iata: ''
+    coordinates: '7303S 01325W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AQ ZGN'
+    name: Zhongshan
+    namewodiacritics: Zhongshan
+    subdiv: ''
+    function: 1-------
+    status: RL
+    date: '0507'
+    iata: ''
+    coordinates: '6922S 07623E'
+    remarks: ''

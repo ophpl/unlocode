@@ -1,0 +1,804 @@
+-
+    ch: ''
+    locode: 'MT ATT'
+    name: Attard
+    namewodiacritics: Attard
+    subdiv: ''
+    function: '--3--6--'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '3553N 01426E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MT BAL'
+    name: Balzan
+    namewodiacritics: Balzan
+    subdiv: ''
+    function: 1-3-----
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '3554N 01427E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MT BIR'
+    name: Birkirkara
+    namewodiacritics: Birkirkara
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '3554N 01428E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MT BZB'
+    name: Birzebbuga
+    namewodiacritics: Birzebbuga
+    subdiv: ''
+    function: '-23-----'
+    status: RL
+    date: '1201'
+    iata: ''
+    coordinates: '3549N 01431E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MT BZE'
+    name: Birzebbugia
+    namewodiacritics: Birzebbugia
+    subdiv: ''
+    function: 1-3-----
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '3550N 01432E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MT BLA'
+    name: 'Blata l''Bajda'
+    namewodiacritics: 'Blata l''Bajda'
+    subdiv: ''
+    function: 1-3-----
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MT BUG'
+    name: Bugibba
+    namewodiacritics: Bugibba
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '3557N 01424E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MT BRU'
+    name: 'Bur Marrad'
+    namewodiacritics: 'Bur Marrad'
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '3556N 01425E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MT CKW'
+    name: Cirkewwa
+    namewodiacritics: Cirkewwa
+    subdiv: ''
+    function: 1-3-----
+    status: AS
+    date: '0701'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MT JCO'
+    name: Comino
+    namewodiacritics: Comino
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MT COS'
+    name: Cospicua
+    namewodiacritics: Cospicua
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '3553N 01431E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MT DMP'
+    name: Delimara
+    namewodiacritics: Delimara
+    subdiv: ''
+    function: 1-3-----
+    status: RQ
+    date: '1007'
+    iata: ''
+    coordinates: '3549N 01433E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MT FGU'
+    name: Fgura
+    namewodiacritics: Fgura
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '3552N 01430E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MT FLO'
+    name: Floriana
+    namewodiacritics: Floriana
+    subdiv: ''
+    function: 1-34----
+    status: RL
+    date: '0307'
+    iata: ''
+    coordinates: '3553N 01430E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MT GHA'
+    name: Ghargur
+    namewodiacritics: Ghargur
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MT GXQ'
+    name: Ghaxaq
+    namewodiacritics: Ghaxaq
+    subdiv: ''
+    function: '-----6--'
+    status: RQ
+    date: '1007'
+    iata: ''
+    coordinates: '3550N 01431E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MT GZA'
+    name: Ghazaq
+    namewodiacritics: Ghazaq
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MT GZM'
+    name: Gozo
+    namewodiacritics: Gozo
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MT GUD'
+    name: Gudja
+    namewodiacritics: Gudja
+    subdiv: ''
+    function: '-----6--'
+    status: RL
+    date: '1201'
+    iata: ''
+    coordinates: '3550N 01430E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MT GZI'
+    name: Gzira
+    namewodiacritics: Gzira
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '1001'
+    iata: ''
+    coordinates: '3590N 14494E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MT HRN'
+    name: Hamrun
+    namewodiacritics: Hamrun
+    subdiv: ''
+    function: '-----6--'
+    status: RQ
+    date: '1007'
+    iata: ''
+    coordinates: '3553N 01429E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MT ISR'
+    name: Is-Swatar
+    namewodiacritics: Is-Swatar
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '3553N 01428E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MT KLN'
+    name: Kalafrana
+    namewodiacritics: Kalafrana
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '1101'
+    iata: ''
+    coordinates: '3549N 01432E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MT KAL'
+    name: Kalkara
+    namewodiacritics: Kalkara
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '3553N 01431E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MT KER'
+    name: Kercem
+    namewodiacritics: Kercem
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '1007'
+    iata: ''
+    coordinates: '3602N 01413W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MT KIR'
+    name: Kirkop
+    namewodiacritics: Kirkop
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MT LIJ'
+    name: Lija
+    namewodiacritics: Lija
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '3554N 01426E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MT IKL'
+    name: L-Iklin
+    namewodiacritics: L-Iklin
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '1101'
+    iata: ''
+    coordinates: '3554N 01427E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MT LUQ'
+    name: Luqa
+    namewodiacritics: Luqa
+    subdiv: ''
+    function: '--34----'
+    status: RL
+    date: '0701'
+    iata: ''
+    coordinates: '3551N 01429E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MT DIS'
+    name: 'Malta Freeport Distripark'
+    namewodiacritics: 'Malta Freeport Distripark'
+    subdiv: ''
+    function: 1-3-----
+    status: RL
+    date: '0401'
+    iata: ''
+    coordinates: '3550N 01432E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MT MSA'
+    name: Marsa
+    namewodiacritics: Marsa
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MT MSX'
+    name: Marsamxett
+    namewodiacritics: Marsamxett
+    subdiv: ''
+    function: 1-------
+    status: AI
+    date: '0201'
+    iata: ''
+    coordinates: '3554N 01430E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MT MSS'
+    name: Marsaskala
+    namewodiacritics: Marsaskala
+    subdiv: ''
+    function: 1----6--
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '3552N 01433E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MT MAR'
+    name: Marsaxlokk
+    namewodiacritics: Marsaxlokk
+    subdiv: ''
+    function: 1-------
+    status: RL
+    date: '9506'
+    iata: ''
+    coordinates: '3550N 01432E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MT MEL'
+    name: Mellieha
+    namewodiacritics: Mellieha
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '3557N 01421E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MT MGR'
+    name: Mgarr
+    namewodiacritics: Mgarr
+    subdiv: ''
+    function: '-----6--'
+    status: RL
+    date: '1007'
+    iata: ''
+    coordinates: '3555N 01422E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MT MGZ'
+    name: 'Mgarr, Gozo'
+    namewodiacritics: 'Mgarr, Gozo'
+    subdiv: ''
+    function: 1-3-----
+    status: AS
+    date: '1207'
+    iata: ''
+    coordinates: '3601N 01417E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MT MOA'
+    name: Mosta
+    namewodiacritics: Mosta
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0401'
+    iata: ''
+    coordinates: '3554N 01425E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MT MQA'
+    name: Mqabba
+    namewodiacritics: Mqabba
+    subdiv: ''
+    function: '-----6--'
+    status: RL
+    date: '1007'
+    iata: ''
+    coordinates: '3551N 01428E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MT MRI'
+    name: Mriehel
+    namewodiacritics: Mriehel
+    subdiv: ''
+    function: '-----6--'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MT MSD'
+    name: Msida
+    namewodiacritics: Msida
+    subdiv: ''
+    function: '-----6--'
+    status: RQ
+    date: '1007'
+    iata: ''
+    coordinates: '3553N 01428E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MT MUN'
+    name: Munxar
+    namewodiacritics: Munxar
+    subdiv: ''
+    function: '-----6--'
+    status: RL
+    date: '1201'
+    iata: ''
+    coordinates: '3601N 01414E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MT NXR'
+    name: Naxxar
+    namewodiacritics: Naxxar
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '3554N 01426E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MT PAO'
+    name: Paola
+    namewodiacritics: Paola
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MT PTA'
+    name: Pieta
+    namewodiacritics: Pieta
+    subdiv: ''
+    function: '-----6--'
+    status: RQ
+    date: '1007'
+    iata: ''
+    coordinates: '3553N 01429E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MT RMI'
+    name: Qormi
+    namewodiacritics: Qormi
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '9008'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MT QRD'
+    name: Qrendi
+    namewodiacritics: Qrendi
+    subdiv: ''
+    function: '-----6--'
+    status: RQ
+    date: '1007'
+    iata: ''
+    coordinates: '3550N 01427E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MT RAB'
+    name: Rabat
+    namewodiacritics: Rabat
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '3552N 01423E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MT SPB'
+    name: 'Saint Paul''s Bay (San Pawl il-Bahar)'
+    namewodiacritics: 'Saint Paul''s Bay (San Pawl il-Bahar)'
+    subdiv: ''
+    function: 1-------
+    status: AI
+    date: '1207'
+    iata: ''
+    coordinates: '3556N 01423E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MT SJN'
+    name: 'San Giljan (St Julian)'
+    namewodiacritics: 'San Giljan (St Julian)'
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0607'
+    iata: ''
+    coordinates: '3555N 01429E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MT SGW'
+    name: 'San Gwann, Valletta'
+    namewodiacritics: 'San Gwann, Valletta'
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0607'
+    iata: ''
+    coordinates: '3554N 01428E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MT STV'
+    name: 'Santa Venera'
+    namewodiacritics: 'Santa Venera'
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '1001'
+    iata: ''
+    coordinates: '3553N 14284E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MT SGG'
+    name: Siggiewi
+    namewodiacritics: Siggiewi
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '1001'
+    iata: ''
+    coordinates: '3551N 01426E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MT SLM'
+    name: Sliema
+    namewodiacritics: Sliema
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MT SWI'
+    name: Swieqi
+    namewodiacritics: Swieqi
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '3555N 01428E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MT TLG'
+    name: 'Ta'' l-Ibrag'
+    namewodiacritics: 'Ta'' l-Ibrag'
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '1101'
+    iata: ''
+    coordinates: '3554N 01427E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MT TAQ'
+    name: 'Ta'' Qali'
+    namewodiacritics: 'Ta'' Qali'
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '3553N 01425E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MT TAX'
+    name: 'Ta'' Xbiex'
+    namewodiacritics: 'Ta'' Xbiex'
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '3553N 01429E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MT TAL'
+    name: Tal-Handaq
+    namewodiacritics: Tal-Handaq
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '1207'
+    iata: ''
+    coordinates: '3552N 01428E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MT TAR'
+    name: Tarxien
+    namewodiacritics: Tarxien
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MT MLA'
+    name: Valletta
+    namewodiacritics: Valletta
+    subdiv: ''
+    function: 1--456--
+    status: AI
+    date: '1207'
+    iata: ''
+    coordinates: '3553N 01430E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MT VTR'
+    name: Victoria
+    namewodiacritics: Victoria
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MT XWK'
+    name: Xewkija
+    namewodiacritics: Xewkija
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '3615N 14152E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MT ZEB'
+    name: Zebbub
+    namewodiacritics: Zebbub
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MT ZEG'
+    name: Zebbug
+    namewodiacritics: Zebbug
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '3552N 01426E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MT ZTN'
+    name: Zejtun
+    namewodiacritics: Zejtun
+    subdiv: ''
+    function: '--3-5---'
+    status: RQ
+    date: '1001'
+    iata: ''
+    coordinates: '3551N 01432E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MT ZUR'
+    name: Zurrieq
+    namewodiacritics: Zurrieq
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '3550N 01428E'
+    remarks: ''

@@ -1,0 +1,888 @@
+-
+    ch: ''
+    locode: 'MA AGA'
+    name: Agadir
+    namewodiacritics: Agadir
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MA MTH'
+    name: 'Ain Beni Mathar'
+    namewodiacritics: 'Ain Beni Mathar'
+    subdiv: OUJ
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '3400N 00201W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MA JHR'
+    name: 'Aïn Harrouda'
+    namewodiacritics: 'Ain Harrouda'
+    subdiv: ''
+    function: '-----6--'
+    status: RL
+    date: '1201'
+    iata: ''
+    coordinates: '3337N 00726W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MA ASE'
+    name: 'Aïn Sebaa'
+    namewodiacritics: 'Ain Sebaa'
+    subdiv: CAS
+    function: '-23-----'
+    status: RL
+    date: '0501'
+    iata: ''
+    coordinates: '3336N 00732W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MA BAH'
+    name: 'Ait Baha'
+    namewodiacritics: 'Ait Baha'
+    subdiv: TIZ
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '2933N 00858W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MA ZAL'
+    name: 'Ait Melloul'
+    namewodiacritics: 'Ait Melloul'
+    subdiv: MAR
+    function: '-----6--'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '3131N 00810W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MA SMD'
+    name: 'Aït Melloul'
+    namewodiacritics: 'Ait Melloul'
+    subdiv: '13'
+    function: 1----6--
+    status: RL
+    date: '1201'
+    iata: ''
+    coordinates: '3020N 00929W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MA AHU'
+    name: 'Al Hoceïma'
+    namewodiacritics: 'Al Hoceima'
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '0212'
+    iata: ''
+    coordinates: '3515N 00356W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MA ASI'
+    name: Asilah
+    namewodiacritics: Asilah
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MA AZE'
+    name: Azemmour
+    namewodiacritics: Azemmour
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MA AZR'
+    name: Azrou
+    namewodiacritics: Azrou
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MA BES'
+    name: 'Ben Slimane'
+    namewodiacritics: 'Ben Slimane'
+    subdiv: BES
+    function: '--3-----'
+    status: RQ
+    date: '0907'
+    iata: ''
+    coordinates: '3336N 07071W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MA BEN'
+    name: Benguerir
+    namewodiacritics: Benguerir
+    subdiv: KES
+    function: '--3-----'
+    status: RL
+    date: '0307'
+    iata: ''
+    coordinates: '3214N 00757W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MA BEM'
+    name: 'Beni Mellal'
+    namewodiacritics: 'Beni Mellal'
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MA BER'
+    name: Berkane
+    namewodiacritics: Berkane
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MA BED'
+    name: Berrechid
+    namewodiacritics: Berrechid
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MA BJD'
+    name: Bir-Jdid
+    namewodiacritics: Bir-Jdid
+    subdiv: JDI
+    function: 1-3-----
+    status: RL
+    date: '1101'
+    iata: ''
+    coordinates: '3322N 00759W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MA BFK'
+    name: Boufakrane
+    namewodiacritics: Boufakrane
+    subdiv: MEK
+    function: '--3-----'
+    status: RQ
+    date: '1101'
+    iata: ''
+    coordinates: '3345N 00529W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MA BUL'
+    name: Boulaouane
+    namewodiacritics: Boulaouane
+    subdiv: JDI
+    function: '--3-----'
+    status: RL
+    date: '1007'
+    iata: ''
+    coordinates: '3252N 00803W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MA BOS'
+    name: Bouskoura
+    namewodiacritics: Bouskoura
+    subdiv: AGD
+    function: '-23-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '3326N 00738W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MA BOU'
+    name: Bouznika
+    namewodiacritics: Bouznika
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MA BRE'
+    name: Breich
+    namewodiacritics: Breich
+    subdiv: ''
+    function: 0-------
+    status: RQ
+    date: '9307'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MA CAS'
+    name: Casablanca
+    namewodiacritics: Casablanca
+    subdiv: CAS
+    function: 1--45---
+    status: AI
+    date: '1101'
+    iata: CMN
+    coordinates: '3335N 00736W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MA VIL'
+    name: Dakhla
+    namewodiacritics: Dakhla
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '9506'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MA ELJ'
+    name: 'El Jadida'
+    namewodiacritics: 'El Jadida'
+    subdiv: JDI
+    function: 1-3-----
+    status: RL
+    date: '0307'
+    iata: ''
+    coordinates: '3315N 00830W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MA ERH'
+    name: Errachidia
+    namewodiacritics: Errachidia
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MA ESS'
+    name: Essaouira
+    namewodiacritics: Essaouira
+    subdiv: ESI
+    function: 1-3-----
+    status: RL
+    date: '0307'
+    iata: ''
+    coordinates: '3125N 00930W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MA FEZ'
+    name: Fez
+    namewodiacritics: Fez
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MA GLN'
+    name: Goulimime
+    namewodiacritics: Goulimime
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MA HAB'
+    name: Habib
+    namewodiacritics: Habib
+    subdiv: OUA
+    function: '--3-----'
+    status: RL
+    date: '1207'
+    iata: ''
+    coordinates: '3054N 00651W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MA ZIE'
+    name: Imi-n-Tanoute
+    namewodiacritics: Imi-n-Tanoute
+    subdiv: ''
+    function: '-----6--'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '3110N 00851W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MA JFL'
+    name: 'Jorf Lasfar'
+    namewodiacritics: 'Jorf Lasfar'
+    subdiv: ''
+    function: 1-3-----
+    status: RQ
+    date: '1101'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MA KAT'
+    name: 'Kasba Tadla'
+    namewodiacritics: 'Kasba Tadla'
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MA NNA'
+    name: 'Kenitra (ex Port Lyautey)'
+    namewodiacritics: 'Kenitra (ex Port Lyautey)'
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MA KHE'
+    name: Khemisset
+    namewodiacritics: Khemisset
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MA KHA'
+    name: Khouribga
+    namewodiacritics: Khouribga
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MA SEK'
+    name: 'Ksar Es Souk'
+    namewodiacritics: 'Ksar Es Souk'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MA KMA'
+    name: 'Ksar Majaz'
+    namewodiacritics: 'Ksar Majaz'
+    subdiv: TNG
+    function: '-23--6--'
+    status: RL
+    date: '0701'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MA EUN'
+    name: 'Laayoune (El Aaiun)'
+    namewodiacritics: 'Laayoune (El Aaiun)'
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '9506'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MA LAR'
+    name: Larache
+    namewodiacritics: Larache
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MA RAK'
+    name: Marrakech
+    namewodiacritics: Marrakech
+    subdiv: ''
+    function: '-234----'
+    status: AI
+    date: '0212'
+    iata: ''
+    coordinates: '3138N 00800W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MA MDN'
+    name: Mediouna
+    namewodiacritics: Mediouna
+    subdiv: ''
+    function: '-----6--'
+    status: RL
+    date: '1107'
+    iata: ''
+    coordinates: '3327N 00731W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MA MEK'
+    name: Meknès
+    namewodiacritics: Meknes
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0212'
+    iata: ''
+    coordinates: '3354N 00533W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MA MEL'
+    name: Melloussa
+    namewodiacritics: Melloussa
+    subdiv: TNG
+    function: '--3-----'
+    status: RL
+    date: '1207'
+    iata: ''
+    coordinates: '3544N 00537W'
+    remarks: ''
+-
+    ch: +
+    locode: 'MA CMN'
+    name: 'Mohammed V International Airport'
+    namewodiacritics: 'Mohammed V International Airport'
+    subdiv: '08'
+    function: '---4----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '3322N 00735W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MA MOH'
+    name: Mohammedia
+    namewodiacritics: Mohammedia
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MA NDR'
+    name: Nador
+    namewodiacritics: Nador
+    subdiv: ''
+    function: 1-------
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MA NOU'
+    name: Nouasseur
+    namewodiacritics: Nouasseur
+    subdiv: ''
+    function: 0-------
+    status: RQ
+    date: '9307'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MA OZZ'
+    name: Ouarzazate
+    namewodiacritics: Ouarzazate
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MA OUD'
+    name: Oujda
+    namewodiacritics: Oujda
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MA RBA'
+    name: Rabat
+    namewodiacritics: Rabat
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MA SFI'
+    name: Safi
+    namewodiacritics: Safi
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MA ZSA'
+    name: Saidia
+    namewodiacritics: Saidia
+    subdiv: OUJ
+    function: '-----6--'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '3505N 00214W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MA SAL'
+    name: Salé
+    namewodiacritics: Sale
+    subdiv: ''
+    function: 1-------
+    status: RL
+    date: '0212'
+    iata: ''
+    coordinates: '3402N 00648W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MA SFF'
+    name: Sefrou
+    namewodiacritics: Sefrou
+    subdiv: FES
+    function: '--3--6--'
+    status: RQ
+    date: '0907'
+    iata: ''
+    coordinates: '3349N 00449W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MA SET'
+    name: Settat
+    namewodiacritics: Settat
+    subdiv: ''
+    function: 0-------
+    status: RQ
+    date: '9307'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MA SID'
+    name: 'Sidi Bibi'
+    namewodiacritics: 'Sidi Bibi'
+    subdiv: '13'
+    function: '--3-----'
+    status: RL
+    date: '1201'
+    iata: ''
+    coordinates: '3013N 00932W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MA SII'
+    name: 'Sidi Ifni'
+    namewodiacritics: 'Sidi Ifni'
+    subdiv: ''
+    function: 1-------
+    status: AI
+    date: '9901'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MA SIK'
+    name: 'Sidi Kacem'
+    namewodiacritics: 'Sidi Kacem'
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MA ZSB'
+    name: Skhirat
+    namewodiacritics: Skhirat
+    subdiv: ''
+    function: '-----6--'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '3351N 00702W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MA SMW'
+    name: Smara
+    namewodiacritics: Smara
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MA TTA'
+    name: 'Tan Tan'
+    namewodiacritics: 'Tan Tan'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MA PTM'
+    name: 'Tanger Med'
+    namewodiacritics: 'Tanger Med'
+    subdiv: TNG
+    function: 123-----
+    status: AI
+    date: '0701'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MA TNG'
+    name: Tangier
+    namewodiacritics: Tangier
+    subdiv: ''
+    function: 1--45---
+    status: AI
+    date: '0701'
+    iata: ''
+    coordinates: '3547N 00549W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MA TNT'
+    name: Taounate
+    namewodiacritics: Taounate
+    subdiv: ''
+    function: '-----6--'
+    status: RL
+    date: '1107'
+    iata: ''
+    coordinates: '3433N 00439W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MA TFY'
+    name: Tarfaya
+    namewodiacritics: Tarfaya
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MA TAR'
+    name: Taroudannt
+    namewodiacritics: Taroudannt
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MA TAT'
+    name: Tata
+    namewodiacritics: Tata
+    subdiv: TAR
+    function: '--3-----'
+    status: RQ
+    date: '0907'
+    iata: ''
+    coordinates: '2944N 75821W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MA TAZ'
+    name: Taza
+    namewodiacritics: Taza
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MA TEM'
+    name: Temara
+    namewodiacritics: Temara
+    subdiv: RBA
+    function: 1-------
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MA TTU'
+    name: Tétouan
+    namewodiacritics: Tetouan
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '0212'
+    iata: ''
+    coordinates: '3534N 00523W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MA THI'
+    name: Tinerhir
+    namewodiacritics: Tinerhir
+    subdiv: OUA
+    function: '--3-----'
+    status: RL
+    date: '0507'
+    iata: ''
+    coordinates: '3130N 00531W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MA TZI'
+    name: Tiznit
+    namewodiacritics: Tiznit
+    subdiv: TIZ
+    function: '--3-----'
+    status: RL
+    date: '0507'
+    iata: ''
+    coordinates: '2943N 00943W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MA YSS'
+    name: Youssoufia
+    namewodiacritics: Youssoufia
+    subdiv: SAF
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '3215N 00831W'
+    remarks: ''

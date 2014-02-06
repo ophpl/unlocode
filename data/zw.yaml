@@ -1,0 +1,456 @@
+-
+    ch: ''
+    locode: 'ZW BAT'
+    name: Bata
+    namewodiacritics: Bata
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '9805'
+    iata: ''
+    coordinates: ''
+    remarks: Chispite
+-
+    ch: ''
+    locode: 'ZW BBG'
+    name: Beitbridge
+    namewodiacritics: Beitbridge
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0307'
+    iata: ''
+    coordinates: '2213S 03000E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZW BGV'
+    name: Belgravia
+    namewodiacritics: Belgravia
+    subdiv: HA
+    function: '--3-----'
+    status: RL
+    date: '1101'
+    iata: ''
+    coordinates: '1748S 03102E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZW BIN'
+    name: Bindura
+    namewodiacritics: Bindura
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '0607'
+    iata: ''
+    coordinates: '1718S 03119E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZW BFO'
+    name: 'Buffalo Range'
+    namewodiacritics: 'Buffalo Range'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZW BUQ'
+    name: Bulawayo
+    namewodiacritics: Bulawayo
+    subdiv: ''
+    function: '---45---'
+    status: AI
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZW BZH'
+    name: 'Bumi Hills'
+    namewodiacritics: 'Bumi Hills'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZW CHE'
+    name: Chegutu
+    namewodiacritics: Chegutu
+    subdiv: MW
+    function: 1----6--
+    status: RQ
+    date: '1001'
+    iata: ''
+    coordinates: '1808S 03009E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZW CIM'
+    name: Chimanimani
+    namewodiacritics: Chimanimani
+    subdiv: MA
+    function: '-----6--'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '1948S 03252E'
+    remarks: ''
+-
+    ch: +
+    locode: 'ZW Z45'
+    name: Chinhoyi
+    namewodiacritics: Chinhoyi
+    subdiv: MW
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '1722S 03012E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZW CHJ'
+    name: Chipinge
+    namewodiacritics: Chipinge
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZW CHI'
+    name: Chiredzi
+    namewodiacritics: Chiredzi
+    subdiv: ''
+    function: '-23-----'
+    status: RL
+    date: '0507'
+    iata: ''
+    coordinates: '2103S 03140E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZW CGW'
+    name: Chitungwiza
+    namewodiacritics: Chitungwiza
+    subdiv: HA
+    function: '--3-----'
+    status: RL
+    date: '1101'
+    iata: ''
+    coordinates: '1800S 03103E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZW GOK'
+    name: Gokwe
+    namewodiacritics: Gokwe
+    subdiv: MI
+    function: '-----6--'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '1813S 02856E'
+    remarks: ''
+-
+    ch: ¦
+    locode: 'ZW GTS'
+    name: Graniteside
+    namewodiacritics: Graniteside
+    subdiv: HA
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '1751S 03103E'
+    remarks: '@Coo'
+-
+    ch: ''
+    locode: 'ZW GTU'
+    name: Gutu
+    namewodiacritics: Gutu
+    subdiv: MV
+    function: '--3-----'
+    status: RQ
+    date: '1007'
+    iata: ''
+    coordinates: '1939S 03110E'
+    remarks: ''
+-
+    ch: ¦
+    locode: 'ZW GWA'
+    name: Gwanda
+    namewodiacritics: Gwanda
+    subdiv: MS
+    function: 1----6--
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '2056S 02900E'
+    remarks: '@Sta@Coo'
+-
+    ch: ''
+    locode: 'ZW GWE'
+    name: Gweru
+    namewodiacritics: Gweru
+    subdiv: MI
+    function: '--34----'
+    status: AI
+    date: '1207'
+    iata: ''
+    coordinates: '1927S 02949E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZW HRE'
+    name: Harare
+    namewodiacritics: Harare
+    subdiv: ''
+    function: '---45---'
+    status: AI
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZW HDL'
+    name: Headlands
+    namewodiacritics: Headlands
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '0607'
+    iata: ''
+    coordinates: '1817S 03202E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZW WKI'
+    name: Hwange
+    namewodiacritics: Hwange
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZW HWN'
+    name: 'Hwange National Park'
+    namewodiacritics: 'Hwange National Park'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0212'
+    iata: ''
+    coordinates: '1910S 02630E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZW KDM'
+    name: Kadoma
+    namewodiacritics: Kadoma
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0201'
+    iata: ''
+    coordinates: '1819S 02954E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZW KAB'
+    name: Kariba
+    namewodiacritics: Kariba
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZW KWE'
+    name: Kwekwe
+    namewodiacritics: Kwekwe
+    subdiv: ''
+    function: '-23-----'
+    status: RQ
+    date: '9801'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZW MJW'
+    name: Mahenye
+    namewodiacritics: Mahenye
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZW MBH'
+    name: Marlborough
+    namewodiacritics: Marlborough
+    subdiv: HA
+    function: '-----6--'
+    status: RQ
+    date: '1007'
+    iata: ''
+    coordinates: '1745S 03113E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZW MAD'
+    name: Marondera
+    namewodiacritics: Marondera
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '0607'
+    iata: ''
+    coordinates: '1811S 03133E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZW MVZ'
+    name: Masvingo
+    namewodiacritics: Masvingo
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZW MPK'
+    name: 'Milton Park'
+    namewodiacritics: 'Milton Park'
+    subdiv: HA
+    function: '--3-----'
+    status: RL
+    date: '1101'
+    iata: ''
+    coordinates: '1748S 03101E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZW MSA'
+    name: Msasa
+    namewodiacritics: Msasa
+    subdiv: HA
+    function: '--3-----'
+    status: RL
+    date: '1101'
+    iata: ''
+    coordinates: '1750S 03106E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZW UTA'
+    name: Mutare
+    namewodiacritics: Mutare
+    subdiv: ''
+    function: '-2-4----'
+    status: AI
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZW MUT'
+    name: Mutoko
+    namewodiacritics: Mutoko
+    subdiv: ME
+    function: '-----6--'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '1724S 03213E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZW SGW'
+    name: Shurugwi
+    namewodiacritics: Shurugwi
+    subdiv: MI
+    function: '--3-----'
+    status: RL
+    date: '1207'
+    iata: ''
+    coordinates: '1940S 03000E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZW STH'
+    name: Southerton
+    namewodiacritics: Southerton
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0201'
+    iata: ''
+    coordinates: '1751S 03101E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZW THJ'
+    name: 'Thompson Junction'
+    namewodiacritics: 'Thompson Junction'
+    subdiv: ''
+    function: '-23-----'
+    status: RL
+    date: '0701'
+    iata: ''
+    coordinates: '1800S 02626E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZW VFA'
+    name: 'Victoria Falls'
+    namewodiacritics: 'Victoria Falls'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZW ZVS'
+    name: Zvishavane
+    namewodiacritics: Zvishavane
+    subdiv: MI
+    function: '--3-----'
+    status: RL
+    date: '1207'
+    iata: ''
+    coordinates: '2020S 03002E'
+    remarks: ''

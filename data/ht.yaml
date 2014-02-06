@@ -1,0 +1,264 @@
+-
+    ch: '#'
+    locode: 'HT SMC'
+    name: 'Baie de Saint-Marc'
+    namewodiacritics: 'Baie de Saint-Marc'
+    subdiv: AR
+    function: 1-------
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '1907N 07242W'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'HT CAP'
+    name: Cap-Haïtien
+    namewodiacritics: Cap-Haitien
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '0212'
+    iata: ''
+    coordinates: '1945N 07212W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'HT CRC'
+    name: Caracol
+    namewodiacritics: Caracol
+    subdiv: ''
+    function: 1-3--6--
+    status: RL
+    date: '0607'
+    iata: ''
+    coordinates: '1941N 07201W'
+    remarks: ''
+-
+    ch: ¦
+    locode: 'HT OOU'
+    name: Carrefour
+    namewodiacritics: Carrefour
+    subdiv: OU
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '1832N 07224W'
+    remarks: '@Sub'
+-
+    ch: ¦
+    locode: 'HT FOM'
+    name: 'Fond Mombin'
+    namewodiacritics: 'Fond Mombin'
+    subdiv: OU
+    function: 1-------
+    status: RQ
+    date: '1307'
+    iata: ''
+    coordinates: ''
+    remarks: '@Sub'
+-
+    ch: ¦
+    locode: 'HT FLI'
+    name: 'Fort Liberte'
+    namewodiacritics: 'Fort Liberte'
+    subdiv: NE
+    function: 1-------
+    status: QQ
+    date: '1307'
+    iata: ''
+    coordinates: ''
+    remarks: '@Sub'
+-
+    ch: ¦
+    locode: 'HT GVS'
+    name: Gonaïves
+    namewodiacritics: Gonaives
+    subdiv: AR
+    function: 1-------
+    status: AI
+    date: '1307'
+    iata: ''
+    coordinates: ''
+    remarks: '@Sub'
+-
+    ch: ¦
+    locode: 'HT JAK'
+    name: Jacmel
+    namewodiacritics: Jacmel
+    subdiv: SE
+    function: 1--4----
+    status: RQ
+    date: '1307'
+    iata: ''
+    coordinates: ''
+    remarks: '@Sub'
+-
+    ch: ¦
+    locode: 'HT JEE'
+    name: Jérémie
+    namewodiacritics: Jeremie
+    subdiv: GA
+    function: 1--4----
+    status: AI
+    date: '1307'
+    iata: ''
+    coordinates: ''
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'HT LAB'
+    name: Labadie
+    namewodiacritics: Labadie
+    subdiv: AR
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '1931N 07229W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'HT LFF'
+    name: Laffiteau
+    namewodiacritics: Laffiteau
+    subdiv: ''
+    function: 1-------
+    status: AI
+    date: '9401'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'HT LEO'
+    name: Leogane
+    namewodiacritics: Leogane
+    subdiv: OU
+    function: '-----6--'
+    status: RQ
+    date: '1001'
+    iata: ''
+    coordinates: '1830N 07238W'
+    remarks: ''
+-
+    ch: ¦
+    locode: 'HT ACA'
+    name: 'Les Cayes'
+    namewodiacritics: 'Les Cayes'
+    subdiv: SD
+    function: 1-------
+    status: AI
+    date: '1307'
+    iata: ''
+    coordinates: ''
+    remarks: '@Sub'
+-
+    ch: ¦
+    locode: 'HT MIR'
+    name: Miragoane
+    namewodiacritics: Miragoane
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '1307'
+    iata: ''
+    coordinates: ''
+    remarks: '@Sub'
+-
+    ch: ¦
+    locode: 'HT PEG'
+    name: 'Petit Goâve'
+    namewodiacritics: 'Petit Goave'
+    subdiv: OU
+    function: 1-------
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '1826N 07252W'
+    remarks: '@Sub'
+-
+    ch: ¦
+    locode: 'HT PDP'
+    name: 'Port de Paix'
+    namewodiacritics: 'Port de Paix'
+    subdiv: NO
+    function: '--3-----'
+    status: RQ
+    date: '1307'
+    iata: ''
+    coordinates: ''
+    remarks: '@Sub'
+-
+    ch: ¦
+    locode: 'HT PAP'
+    name: Port-au-Prince
+    namewodiacritics: Port-au-Prince
+    subdiv: OU
+    function: 1--45---
+    status: AI
+    date: '1307'
+    iata: ''
+    coordinates: ''
+    remarks: '@Sub'
+-
+    ch: ¦
+    locode: 'HT PTY'
+    name: Poty
+    namewodiacritics: Poty
+    subdiv: SD
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '1820N 07405W'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'HT STO'
+    name: Santo
+    namewodiacritics: Santo
+    subdiv: OU
+    function: '-----6--'
+    status: RL
+    date: '1001'
+    iata: ''
+    coordinates: '1829N 07229W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'HT TAB'
+    name: Tabarre
+    namewodiacritics: Tabarre
+    subdiv: OU
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '1835N 07216W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'HT TTY'
+    name: 'Ti Tanyin'
+    namewodiacritics: 'Ti Tanyin'
+    subdiv: OU
+    function: '--3-----'
+    status: RL
+    date: '1101'
+    iata: ''
+    coordinates: '1843N 07221W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'HT TRG'
+    name: Turgeau
+    namewodiacritics: Turgeau
+    subdiv: OU
+    function: '-----6--'
+    status: RQ
+    date: '1001'
+    iata: ''
+    coordinates: '1832N 07219W'
+    remarks: ''

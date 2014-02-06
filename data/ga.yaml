@@ -1,0 +1,660 @@
+-
+    ch: ''
+    locode: 'GA AKE'
+    name: Akieni
+    namewodiacritics: Akieni
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'GA AWE'
+    name: Alowe
+    namewodiacritics: Alowe
+    subdiv: ''
+    function: '---4----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '0045S 00927E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GA BEL'
+    name: Belleville
+    namewodiacritics: Belleville
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0607'
+    iata: ''
+    coordinates: '0002N 01102E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GA BWN'
+    name: Biawonque
+    namewodiacritics: Biawonque
+    subdiv: ''
+    function: '---4----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '0040S 00927E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GA BMM'
+    name: Bitam
+    namewodiacritics: Bitam
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'GA BNG'
+    name: Bongo
+    namewodiacritics: Bongo
+    subdiv: ''
+    function: '---4----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '0210S 01013E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GA BGB'
+    name: Booué
+    namewodiacritics: Booue
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0212'
+    iata: ''
+    coordinates: '0006S 01156E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GA CLZ'
+    name: 'Cap Lopez'
+    namewodiacritics: 'Cap Lopez'
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'GA CCB'
+    name: Cocobeach
+    namewodiacritics: Cocobeach
+    subdiv: ''
+    function: 1-------
+    status: RL
+    date: '9811'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'GA EKU'
+    name: Equata
+    namewodiacritics: Equata
+    subdiv: '1'
+    function: 1-------
+    status: RL
+    date: '0212'
+    iata: ''
+    coordinates: '0013S 00918E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GA ETA'
+    name: 'Etame FPSO'
+    namewodiacritics: 'Etame FPSO'
+    subdiv: ''
+    function: '------7-'
+    status: RQ
+    date: '1101'
+    iata: ''
+    coordinates: '0345S 01031E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GA FOU'
+    name: Fougamou
+    namewodiacritics: Fougamou
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'GA MVB'
+    name: Franceville
+    namewodiacritics: Franceville
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'GA GAX'
+    name: Gamba
+    namewodiacritics: Gamba
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'GA IGL'
+    name: Iguela
+    namewodiacritics: Iguela
+    subdiv: ''
+    function: '---4----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '0155S 00918E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GA KGB'
+    name: Kongobouma
+    namewodiacritics: Kongobouma
+    subdiv: ''
+    function: '---4----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'GA KOU'
+    name: Koulamoutou
+    namewodiacritics: Koulamoutou
+    subdiv: ''
+    function: '--34----'
+    status: RL
+    date: '0212'
+    iata: ''
+    coordinates: '0107S 01230E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GA LBQ'
+    name: Lambarene
+    namewodiacritics: Lambarene
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'GA LTL'
+    name: Lastoursville
+    namewodiacritics: Lastoursville
+    subdiv: '7'
+    function: '--34----'
+    status: AI
+    date: '0307'
+    iata: ''
+    coordinates: '0049S 01242E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GA LCN'
+    name: Leconi
+    namewodiacritics: Leconi
+    subdiv: ''
+    function: '---4----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'GA LBV'
+    name: Libreville
+    namewodiacritics: Libreville
+    subdiv: ''
+    function: 1--45---
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'GA LUC'
+    name: Lucina
+    namewodiacritics: Lucina
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'GA MKU'
+    name: Makokou
+    namewodiacritics: Makokou
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'GA MDJ'
+    name: Mandji
+    namewodiacritics: Mandji
+    subdiv: ''
+    function: '---4----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '0142S 01022E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GA MGO'
+    name: Manega
+    namewodiacritics: Manega
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'GA MYB'
+    name: Mayoumba
+    namewodiacritics: Mayoumba
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ¦
+    locode: 'GA MBA'
+    name: Mayumba
+    namewodiacritics: Mayumba
+    subdiv: '5'
+    function: '-----6--'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '0259N 01017E'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'GA MBC'
+    name: Mbigou
+    namewodiacritics: Mbigou
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'GA MBY'
+    name: 'M''bya Terminal'
+    namewodiacritics: 'M''bya Terminal'
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '9506'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'GA MDV'
+    name: Médouneu
+    namewodiacritics: Medouneu
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0212'
+    iata: ''
+    coordinates: '0057N 01047E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GA MKB'
+    name: Mékambo
+    namewodiacritics: Mekambo
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0212'
+    iata: ''
+    coordinates: '0101N 01356E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GA MVG'
+    name: Mevang
+    namewodiacritics: Mevang
+    subdiv: ''
+    function: '---4----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '0007N 01104E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GA GIM'
+    name: 'Miele Mimbale'
+    namewodiacritics: 'Miele Mimbale'
+    subdiv: ''
+    function: '---4----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '0001S 01123E'
+    remarks: ''
+-
+    ch: ¦
+    locode: 'GA MVX'
+    name: Minvoul
+    namewodiacritics: Minvoul
+    subdiv: '9'
+    function: '--34----'
+    status: AI
+    date: '1307'
+    iata: ''
+    coordinates: '0209N 01207E'
+    remarks: '@Fun@Sta@Sub@Coo'
+-
+    ch: ''
+    locode: 'GA MZC'
+    name: Mitzic
+    namewodiacritics: Mitzic
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'GA MGX'
+    name: Moabi
+    namewodiacritics: Moabi
+    subdiv: ''
+    function: '---4----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '0215S 01100E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GA MFF'
+    name: Moanda
+    namewodiacritics: Moanda
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'GA MJL'
+    name: Mouila
+    namewodiacritics: Mouila
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'GA MVE'
+    name: Mvengué
+    namewodiacritics: Mvengue
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0201'
+    iata: ''
+    coordinates: '0139S 01323E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GA KDN'
+    name: Ndende
+    namewodiacritics: Ndende
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'GA KDJ'
+    name: Ndjolé
+    namewodiacritics: Ndjole
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0212'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ¦
+    locode: 'GA NKA'
+    name: Nkan
+    namewodiacritics: Nkan
+    subdiv: '1'
+    function: '--34----'
+    status: AI
+    date: '1307'
+    iata: ''
+    coordinates: '0042N 00938E'
+    remarks: '@Fun@Sta@Sub@Coo'
+-
+    ch: ''
+    locode: 'GA NYA'
+    name: Nyanga
+    namewodiacritics: Nyanga
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '9506'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'GA OGU'
+    name: 'Oguandjo Terminal'
+    namewodiacritics: 'Oguandjo Terminal'
+    subdiv: ''
+    function: 1-------
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '0130S 00854E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GA OKN'
+    name: Okondja
+    namewodiacritics: Okondja
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'GA OMB'
+    name: Omboué
+    namewodiacritics: Omboue
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0212'
+    iata: ''
+    coordinates: '0134S 00915E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GA OUU'
+    name: Ouanga
+    namewodiacritics: Ouanga
+    subdiv: ''
+    function: '---4----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '0258S 01018E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GA OWE'
+    name: Owendo
+    namewodiacritics: Owendo
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'GA OYE'
+    name: Oyem
+    namewodiacritics: Oyem
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'GA POG'
+    name: 'Port Gentil'
+    namewodiacritics: 'Port Gentil'
+    subdiv: ''
+    function: 1--45---
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'GA ZKM'
+    name: 'Sette Cama'
+    namewodiacritics: 'Sette Cama'
+    subdiv: ''
+    function: '---4----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '0231S 00945E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GA TCT'
+    name: Tchatamba
+    namewodiacritics: Tchatamba
+    subdiv: ''
+    function: '------7-'
+    status: RQ
+    date: '0907'
+    iata: ''
+    coordinates: '0202S 00907E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GA TCH'
+    name: Tchibanga
+    namewodiacritics: Tchibanga
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'GA WGY'
+    name: Wagny
+    namewodiacritics: Wagny
+    subdiv: ''
+    function: '---4----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '0031N 01026E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GA WNE'
+    name: 'Wora Na Ye'
+    namewodiacritics: 'Wora Na Ye'
+    subdiv: ''
+    function: '--34----'
+    status: RL
+    date: '0907'
+    iata: ''
+    coordinates: '0221S 00920E'
+    remarks: ''

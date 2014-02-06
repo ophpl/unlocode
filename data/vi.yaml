@@ -1,0 +1,144 @@
+-
+    ch: ''
+    locode: 'VI AGL'
+    name: Anguilla
+    namewodiacritics: Anguilla
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0201'
+    iata: ''
+    coordinates: '1742N 06446W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'VI CHA'
+    name: 'Charlotte Amalie, Saint Thomas'
+    namewodiacritics: 'Charlotte Amalie, Saint Thomas'
+    subdiv: ''
+    function: 1-------
+    status: AI
+    date: '1101'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'VI CTD'
+    name: 'Christiansted, Saint Croix'
+    namewodiacritics: 'Christiansted, Saint Croix'
+    subdiv: ''
+    function: 1-------
+    status: AI
+    date: '1101'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'VI CZB'
+    name: 'Cruz Bay, Saint John'
+    namewodiacritics: 'Cruz Bay, Saint John'
+    subdiv: ''
+    function: 1-3-----
+    status: RL
+    date: '1101'
+    iata: ''
+    coordinates: '1820N 06448W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'VI ENP'
+    name: 'Enighed Pond'
+    namewodiacritics: 'Enighed Pond'
+    subdiv: ''
+    function: 1-------
+    status: RL
+    date: '0701'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'VI FRD'
+    name: 'Frederiksted, Saint Croix'
+    namewodiacritics: 'Frederiksted, Saint Croix'
+    subdiv: ''
+    function: 1-------
+    status: AI
+    date: '1101'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'VI HOC'
+    name: Hovic
+    namewodiacritics: Hovic
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'VI LIB'
+    name: 'Limetree Bay'
+    namewodiacritics: 'Limetree Bay'
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'VI PAX'
+    name: 'Port Alucroix'
+    namewodiacritics: 'Port Alucroix'
+    subdiv: ''
+    function: 1-3--6--
+    status: RL
+    date: '0607'
+    iata: ''
+    coordinates: '1742N 06446W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'VI STX'
+    name: 'Saint Croix'
+    namewodiacritics: 'Saint Croix'
+    subdiv: ''
+    function: '--34----'
+    status: AI
+    date: '0212'
+    iata: ''
+    coordinates: '1745N 06444W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'VI SJN'
+    name: 'Saint John, Saint Croix Is'
+    namewodiacritics: 'Saint John, Saint Croix Is'
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '1101'
+    iata: SJF
+    coordinates: '1745N 06444W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'VI STT'
+    name: 'Saint Thomas'
+    namewodiacritics: 'Saint Thomas'
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '0212'
+    iata: ''
+    coordinates: '1821N 06456W'
+    remarks: ''

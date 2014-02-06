@@ -1,0 +1,312 @@
+-
+    ch: ''
+    locode: 'FO EDI'
+    name: Eidi
+    namewodiacritics: Eidi
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '6218N 00705W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'FO FAE'
+    name: 'Færøø Islands-Vagar Apt'
+    namewodiacritics: 'Faroo Islands-Vagar Apt'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'FO FUG'
+    name: Fuglafjørdur
+    namewodiacritics: Fuglafjordur
+    subdiv: ''
+    function: 1-------
+    status: RL
+    date: '0701'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: '='
+    locode: FO
+    name: 'Fuglefjord = Fuglafirdi'
+    namewodiacritics: 'Fuglefjord = Fuglafirdi'
+    subdiv: ''
+    function: ''
+    status: ''
+    date: ''
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'FO HYV'
+    name: Hoyvik
+    namewodiacritics: Hoyvik
+    subdiv: ''
+    function: 1-3-----
+    status: RL
+    date: '0907'
+    iata: ''
+    coordinates: '6202N 00645W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'FO HUS'
+    name: Husevig
+    namewodiacritics: Husevig
+    subdiv: ''
+    function: 1-------
+    status: RL
+    date: '8401'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'FO KVI'
+    name: Klaksvik
+    namewodiacritics: Klaksvik
+    subdiv: ''
+    function: 1-------
+    status: RL
+    date: '8401'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'FO KOL'
+    name: Kollafjördur
+    namewodiacritics: Kollafjordur
+    subdiv: ''
+    function: 1-3-----
+    status: RL
+    date: '0501'
+    iata: ''
+    coordinates: '6207N 00653W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'FO LOP'
+    name: Lopra
+    namewodiacritics: Lopra
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '9506'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'FO NLS'
+    name: Nólsoy
+    namewodiacritics: Nolsoy
+    subdiv: ''
+    function: 1-3-----
+    status: RL
+    date: '1001'
+    iata: ''
+    coordinates: '6201N 00640W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'FO NSK'
+    name: Norÿskáli
+    namewodiacritics: Noryskali
+    subdiv: ''
+    function: 1-------
+    status: RL
+    date: '0401'
+    iata: ''
+    coordinates: '6213N 00700W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'FO RVK'
+    name: Runavík
+    namewodiacritics: Runavik
+    subdiv: ''
+    function: 1-3-----
+    status: RL
+    date: '0701'
+    iata: ''
+    coordinates: '6207N 00643W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'FO SJO'
+    name: 'Sjovar havn'
+    namewodiacritics: 'Sjovar havn'
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '0907'
+    iata: ''
+    coordinates: '6206N 00645W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'FO SKA'
+    name: Skáli
+    namewodiacritics: Skali
+    subdiv: ''
+    function: 1-3-----
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '6209N 00646W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'FO SMJ'
+    name: Solmundefjord
+    namewodiacritics: Solmundefjord
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '9012'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'FO SRV'
+    name: Sorvágur
+    namewodiacritics: Sorvagur
+    subdiv: ''
+    function: 1-------
+    status: RL
+    date: '0212'
+    iata: ''
+    coordinates: '6204N 00718W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'FO STR'
+    name: Strendur
+    namewodiacritics: Strendur
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '6207N 00645W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'FO SYN'
+    name: Streymnes
+    namewodiacritics: Streymnes
+    subdiv: ''
+    function: 1-3-----
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '6212N 00701W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'FO THO'
+    name: Thorshavn
+    namewodiacritics: Thorshavn
+    subdiv: ''
+    function: 1-------
+    status: RL
+    date: '0201'
+    iata: ''
+    coordinates: '6201N 00646W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'FO TOF'
+    name: Toftir
+    namewodiacritics: Toftir
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '6206N 00644W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'FO TOR'
+    name: Torshavn
+    namewodiacritics: Torshavn
+    subdiv: ''
+    function: '-----6--'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '6210N 06460W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'FO TVO'
+    name: Tvoroyri
+    namewodiacritics: Tvoroyri
+    subdiv: ''
+    function: 1-------
+    status: RL
+    date: '0212'
+    iata: ''
+    coordinates: '6133N 00648W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'FO VID'
+    name: Vadair
+    namewodiacritics: Vadair
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '9012'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'FO VAG'
+    name: Vágur
+    namewodiacritics: Vagur
+    subdiv: ''
+    function: 1-3-----
+    status: RL
+    date: '0207'
+    iata: ''
+    coordinates: '6128N 00649W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'FO VAZ'
+    name: Vágur
+    namewodiacritics: Vagur
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0201'
+    iata: ''
+    coordinates: '6213N 00635W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'FO VES'
+    name: Vestmanhavn
+    namewodiacritics: Vestmanhavn
+    subdiv: ''
+    function: 1-------
+    status: RL
+    date: '8401'
+    iata: ''
+    coordinates: ''
+    remarks: ''

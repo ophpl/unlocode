@@ -1,0 +1,564 @@
+-
+    ch: ''
+    locode: 'ET ADD'
+    name: 'Addis Ababa'
+    namewodiacritics: 'Addis Ababa'
+    subdiv: ''
+    function: '---45---'
+    status: AI
+    date: ''
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'ET AMH'
+    name: 'Arba Mintch'
+    namewodiacritics: 'Arba Mintch'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'ET ASO'
+    name: Asosa
+    namewodiacritics: Asosa
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'ET AWA'
+    name: Awassa
+    namewodiacritics: Awassa
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'ET AXU'
+    name: Axum
+    namewodiacritics: Axum
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'ET BJR'
+    name: 'Bahar Dar'
+    namewodiacritics: 'Bahar Dar'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'ET BEI'
+    name: Beica
+    namewodiacritics: Beica
+    subdiv: ''
+    function: '---4----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '0923N 03432E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ET BCY'
+    name: Bulchi
+    namewodiacritics: Bulchi
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'ET DBM'
+    name: 'Debra Marcos'
+    namewodiacritics: 'Debra Marcos'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'ET DBT'
+    name: 'Debra Tabor'
+    namewodiacritics: 'Debra Tabor'
+    subdiv: ''
+    function: '---4----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '1151N 03800E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ET DEM'
+    name: Dembidollo
+    namewodiacritics: Dembidollo
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'ET DSE'
+    name: Dessie
+    namewodiacritics: Dessie
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'ET DIR'
+    name: 'Dire Dawa'
+    namewodiacritics: 'Dire Dawa'
+    subdiv: ''
+    function: '---45---'
+    status: AI
+    date: ''
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'ET DAD'
+    name: 'Dolo Odo'
+    namewodiacritics: 'Dolo Odo'
+    subdiv: SO
+    function: '--3-----'
+    status: RL
+    date: '1201'
+    iata: ''
+    coordinates: '0411N 04204E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ET SEM'
+    name: Dubti
+    namewodiacritics: Dubti
+    subdiv: AF
+    function: '-----6--'
+    status: RL
+    date: '1201'
+    iata: ''
+    coordinates: '1144N 04105E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ET GMB'
+    name: Gambela
+    namewodiacritics: Gambela
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'ET ETE'
+    name: 'Genda Wuha'
+    namewodiacritics: 'Genda Wuha'
+    subdiv: ''
+    function: '---4----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'ET GNN'
+    name: Ghinnir
+    namewodiacritics: Ghinnir
+    subdiv: ''
+    function: '---4----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '0715N 04043E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ET GZA'
+    name: Giza
+    namewodiacritics: Giza
+    subdiv: TI
+    function: '--3-----'
+    status: RL
+    date: '1207'
+    iata: ''
+    coordinates: '1341N 03930E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ET GOB'
+    name: Goba
+    namewodiacritics: Goba
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'ET GDE'
+    name: Gode
+    namewodiacritics: Gode
+    subdiv: ''
+    function: '---4----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '0554N 04337E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ET GDQ'
+    name: Gondar
+    namewodiacritics: Gondar
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'ET GOR'
+    name: Gore
+    namewodiacritics: Gore
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'ET HUE'
+    name: Humera
+    namewodiacritics: Humera
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'ET JIJ'
+    name: Jijiga
+    namewodiacritics: Jijiga
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '0907'
+    iata: ''
+    coordinates: '0921N 04248E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ET JIM'
+    name: Jimma
+    namewodiacritics: Jimma
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'ET BCO'
+    name: Jinka
+    namewodiacritics: Jinka
+    subdiv: ''
+    function: '---4----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'ET ABK'
+    name: 'Kabri Dar'
+    namewodiacritics: 'Kabri Dar'
+    subdiv: ''
+    function: '---4----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '0644N 04415E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ET LFO'
+    name: 'K''elafo'
+    namewodiacritics: 'K''elafo'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0212'
+    iata: ''
+    coordinates: '0537N 04408E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ET OKA'
+    name: Kembolcha
+    namewodiacritics: Kembolcha
+    subdiv: OR
+    function: '-----6--'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '0730N 04111E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ET LLI'
+    name: Lalibela
+    namewodiacritics: Lalibela
+    subdiv: ''
+    function: '---4----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '1202N 03902E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ET MQX'
+    name: Makale
+    namewodiacritics: Makale
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'ET MKS'
+    name: 'Mekane Selam'
+    namewodiacritics: 'Mekane Selam'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'ET MEK'
+    name: Mekele
+    namewodiacritics: Mekele
+    subdiv: TI
+    function: '--3-----'
+    status: RL
+    date: '1207'
+    iata: ''
+    coordinates: '1329N 03928E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ET MZX'
+    name: Mena
+    namewodiacritics: Mena
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: ''
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'ET MTF'
+    name: 'Mizan Teferi'
+    namewodiacritics: 'Mizan Teferi'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'ET MOJ'
+    name: Mojo
+    namewodiacritics: Mojo
+    subdiv: OR
+    function: '-----6--'
+    status: RL
+    date: '1201'
+    iata: ''
+    coordinates: '0836N 03907E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ET OTA'
+    name: 'Mot''a'
+    namewodiacritics: 'Mot''a'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0212'
+    iata: ''
+    coordinates: '1105N 03752E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ET MYS'
+    name: Moyale
+    namewodiacritics: Moyale
+    subdiv: ''
+    function: '---4----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '0328N 03905E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ET MUJ'
+    name: Mui
+    namewodiacritics: Mui
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'ET NZR'
+    name: Nazret
+    namewodiacritics: Nazret
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0307'
+    iata: ''
+    coordinates: '0833N 03916E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ET EGL'
+    name: Neghelli
+    namewodiacritics: Neghelli
+    subdiv: ''
+    function: '---4----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '0516N 03943E'
+    remarks: ''
+-
+    ch: +
+    locode: 'ET SEB'
+    name: Sebeta
+    namewodiacritics: Sebeta
+    subdiv: OR
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '0855N 03837E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ET SXU'
+    name: Soddu
+    namewodiacritics: Soddu
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'ET SOD'
+    name: Sodo
+    namewodiacritics: Sodo
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0601'
+    iata: ''
+    coordinates: '0835N 03549E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ET TIE'
+    name: Tippi
+    namewodiacritics: Tippi
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'ET WAC'
+    name: Waca
+    namewodiacritics: Waca
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''

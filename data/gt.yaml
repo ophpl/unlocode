@@ -1,0 +1,1908 @@
+-
+    ch: ''
+    locode: 'GT ADU'
+    name: Aduana
+    namewodiacritics: Aduana
+    subdiv: ''
+    function: 0-------
+    status: RQ
+    date: '9307'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'GT AMA'
+    name: Amatitlán
+    namewodiacritics: Amatitlan
+    subdiv: GU
+    function: '--3-----'
+    status: RL
+    date: '0212'
+    iata: ''
+    coordinates: '1429N 09037W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GT ANT'
+    name: Antigua
+    namewodiacritics: Antigua
+    subdiv: ''
+    function: 0-------
+    status: QQ
+    date: ''
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'GT AMI'
+    name: 'Asunción Mita'
+    namewodiacritics: 'Asuncion Mita'
+    subdiv: JU
+    function: '--3-----'
+    status: RL
+    date: '0307'
+    iata: ''
+    coordinates: '1419N 08942W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GT BAB'
+    name: Barberena
+    namewodiacritics: Barberena
+    subdiv: SR
+    function: '--3-----'
+    status: RL
+    date: '0501'
+    iata: ''
+    coordinates: '1418N 09021W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GT BAR'
+    name: Bárcenas
+    namewodiacritics: Barcenas
+    subdiv: GU
+    function: '--3---7-'
+    status: RL
+    date: '0401'
+    iata: ''
+    coordinates: '1431N 09036W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GT BOC'
+    name: 'Boca del Monte'
+    namewodiacritics: 'Boca del Monte'
+    subdiv: GU
+    function: '-23--6--'
+    status: RL
+    date: '0307'
+    iata: ''
+    coordinates: '1433N 09031W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GT CAM'
+    name: Camotán
+    namewodiacritics: Camotan
+    subdiv: CQ
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '1449N 08922W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GT CMM'
+    name: Carmelita
+    namewodiacritics: Carmelita
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'GT CJL'
+    name: Chajul
+    namewodiacritics: Chajul
+    subdiv: QC
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '1529N 09102W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GT CHR'
+    name: Champerico
+    namewodiacritics: Champerico
+    subdiv: RE
+    function: 123--67-
+    status: RL
+    date: '0401'
+    iata: ''
+    coordinates: '1418N 09155W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GT CHC'
+    name: Chicacao
+    namewodiacritics: Chicacao
+    subdiv: SU
+    function: '--3-----'
+    status: RL
+    date: '0307'
+    iata: ''
+    coordinates: '1432N 09119W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GT CCO'
+    name: Chichicastenango
+    namewodiacritics: Chichicastenango
+    subdiv: QC
+    function: '--3-----'
+    status: RQ
+    date: '1007'
+    iata: ''
+    coordinates: '1456N 09107W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GT CHI'
+    name: Chimaltenango
+    namewodiacritics: Chimaltenango
+    subdiv: ''
+    function: '-23-----'
+    status: RQ
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'GT CHT'
+    name: Chinautla
+    namewodiacritics: Chinautla
+    subdiv: GU
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '1442N 09029W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GT CIQ'
+    name: Chiquimula
+    namewodiacritics: Chiquimula
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'GT CHQ'
+    name: Chiquimulilla
+    namewodiacritics: Chiquimulilla
+    subdiv: SR
+    function: '--3-----'
+    status: RL
+    date: '0307'
+    iata: ''
+    coordinates: '1405N 09022W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GT CTU'
+    name: 'Ciudad Tecún Umán'
+    namewodiacritics: 'Ciudad Tecun Uman'
+    subdiv: SM
+    function: '-23-----'
+    status: RL
+    date: '0307'
+    iata: ''
+    coordinates: '1440N 09209W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GT CDV'
+    name: 'Ciudad Vieja'
+    namewodiacritics: 'Ciudad Vieja'
+    subdiv: SA
+    function: '--3-----'
+    status: RL
+    date: '0307'
+    iata: ''
+    coordinates: '1431N 09045W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GT CTF'
+    name: Coatepeque
+    namewodiacritics: Coatepeque
+    subdiv: QZ
+    function: '-234-6--'
+    status: AI
+    date: '0401'
+    iata: ''
+    coordinates: '1442N 09152W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GT CBV'
+    name: Coban
+    namewodiacritics: Coban
+    subdiv: ''
+    function: '--34----'
+    status: AI
+    date: '9704'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'GT CLS'
+    name: Cocales
+    namewodiacritics: Cocales
+    subdiv: SU
+    function: '--3--6--'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '1424N 09111W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GT CCN'
+    name: Concepcion
+    namewodiacritics: Concepcion
+    subdiv: SO
+    function: '--3-----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '1447N 09109W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GT CUI'
+    name: Cuilapa
+    namewodiacritics: Cuilapa
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0607'
+    iata: ''
+    coordinates: '1417N 09018W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GT COY'
+    name: Cuyotenango
+    namewodiacritics: Cuyotenango
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '0101'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'GT DON'
+    name: 'Dos Lagunas'
+    namewodiacritics: 'Dos Lagunas'
+    subdiv: ''
+    function: '--34----'
+    status: RL
+    date: '0601'
+    iata: ''
+    coordinates: '1741N 08932W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GT ELE'
+    name: 'El Estor'
+    namewodiacritics: 'El Estor'
+    subdiv: IZ
+    function: 1-------
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'GT EJO'
+    name: 'El Jicaro'
+    namewodiacritics: 'El Jicaro'
+    subdiv: PR
+    function: '--3-----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '1446N 09024W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GT EJC'
+    name: 'El Jocotillo'
+    namewodiacritics: 'El Jocotillo'
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '1422N 09030W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GT ENJ'
+    name: 'El Naranjo'
+    namewodiacritics: 'El Naranjo'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'GT ELP'
+    name: 'El Pino'
+    namewodiacritics: 'El Pino'
+    subdiv: SR
+    function: '--3-----'
+    status: RL
+    date: '0307'
+    iata: ''
+    coordinates: '1419N 09023W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GT PRO'
+    name: 'El Progreso'
+    namewodiacritics: 'El Progreso'
+    subdiv: PR
+    function: '-23--6--'
+    status: RL
+    date: '0307'
+    iata: ''
+    coordinates: '1451N 09003W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GT ELR'
+    name: 'El Rancho'
+    namewodiacritics: 'El Rancho'
+    subdiv: PR
+    function: '--3--6--'
+    status: RL
+    date: '0401'
+    iata: ''
+    coordinates: '1454N 09000W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GT ERH'
+    name: 'El Rancho'
+    namewodiacritics: 'El Rancho'
+    subdiv: ''
+    function: 0-------
+    status: RQ
+    date: '9307'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'GT ELT'
+    name: 'El Tejar'
+    namewodiacritics: 'El Tejar'
+    subdiv: CM
+    function: '--3-----'
+    status: RL
+    date: '0307'
+    iata: ''
+    coordinates: '1438N 09047W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GT ERI'
+    name: 'Entre Ríos'
+    namewodiacritics: 'Entre Rios'
+    subdiv: IZ
+    function: '-23--6--'
+    status: RL
+    date: '0307'
+    iata: ''
+    coordinates: '1538N 08832W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GT ESC'
+    name: Escuintla
+    namewodiacritics: Escuintla
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'GT ESQ'
+    name: Esquipulas
+    namewodiacritics: Esquipulas
+    subdiv: CQ
+    function: '--3---7-'
+    status: RL
+    date: '0401'
+    iata: ''
+    coordinates: '1434N 08921W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GT EST'
+    name: Estanzuela
+    namewodiacritics: Estanzuela
+    subdiv: ZA
+    function: '--3-----'
+    status: RL
+    date: '0307'
+    iata: ''
+    coordinates: '1500N 08934W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GT FRS'
+    name: Flores
+    namewodiacritics: Flores
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'GT FRA'
+    name: Fraijanes
+    namewodiacritics: Fraijanes
+    subdiv: ''
+    function: 0-------
+    status: RQ
+    date: '9307'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'GT GUT'
+    name: Guastatoya
+    namewodiacritics: Guastatoya
+    subdiv: PR
+    function: '--3-----'
+    status: RL
+    date: '1207'
+    iata: ''
+    coordinates: '1451N 09003W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GT GUA'
+    name: 'Guatemala City'
+    namewodiacritics: 'Guatemala City'
+    subdiv: ''
+    function: '---45---'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'GT HUG'
+    name: Huehuetenango
+    namewodiacritics: Huehuetenango
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'GT JZB'
+    name: Izabal
+    namewodiacritics: Izabal
+    subdiv: IZ
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '1524N 08908W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GT JAL'
+    name: Jalapa
+    namewodiacritics: Jalapa
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0607'
+    iata: ''
+    coordinates: '1438N 08959W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GT JTG'
+    name: Jocotenango
+    namewodiacritics: Jocotenango
+    subdiv: SA
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '1434N 09044W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GT JUT'
+    name: Jutiapa
+    namewodiacritics: Jutiapa
+    subdiv: JU
+    function: '--3-----'
+    status: RL
+    date: '0307'
+    iata: ''
+    coordinates: '1417N 08954W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GT LAA'
+    name: 'La Aurora'
+    namewodiacritics: 'La Aurora'
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '0407'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'GT LDE'
+    name: 'La Democracia'
+    namewodiacritics: 'La Democracia'
+    subdiv: ES
+    function: '--3-----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '4013N 09056W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GT LAF'
+    name: 'La Fragua'
+    namewodiacritics: 'La Fragua'
+    subdiv: ''
+    function: 0-------
+    status: RQ
+    date: '9307'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'GT LGA'
+    name: 'La Gomera'
+    namewodiacritics: 'La Gomera'
+    subdiv: ES
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '1405N 09103W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GT LPN'
+    name: 'La Libertad Peten'
+    namewodiacritics: 'La Libertad Peten'
+    subdiv: ''
+    function: '-----6--'
+    status: RQ
+    date: '1007'
+    iata: ''
+    coordinates: '1647N 09007W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GT LA2'
+    name: 'La Maquina'
+    namewodiacritics: 'La Maquina'
+    subdiv: SU
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '1423N 09135W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GT LIV'
+    name: Lívingston
+    namewodiacritics: Livingston
+    subdiv: IZ
+    function: 1-3-----
+    status: RL
+    date: '0212'
+    iata: ''
+    coordinates: '1550N 08845W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GT LEC'
+    name: 'Los Esclavos'
+    namewodiacritics: 'Los Esclavos'
+    subdiv: SR
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '1415N 09017W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GT LOX'
+    name: 'Los Tablones'
+    namewodiacritics: 'Los Tablones'
+    subdiv: CM
+    function: '---4----'
+    status: RL
+    date: '0907'
+    iata: ''
+    coordinates: '1445N 09047W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GT MAG'
+    name: Magdalena
+    namewodiacritics: Magdalena
+    subdiv: HU
+    function: '--3-----'
+    status: RL
+    date: '1207'
+    iata: ''
+    coordinates: '1532N 09126W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GT MAS'
+    name: Masagua
+    namewodiacritics: Masagua
+    subdiv: ES
+    function: '-23-----'
+    status: RL
+    date: '0501'
+    iata: ''
+    coordinates: '1412N 09050W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GT MAT'
+    name: Mataquescuintla
+    namewodiacritics: Mataquescuintla
+    subdiv: JA
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '1431N 09011W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GT MAZ'
+    name: Mazatenango
+    namewodiacritics: Mazatenango
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'GT MCR'
+    name: 'Melchor de Mencos'
+    namewodiacritics: 'Melchor de Mencos'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0212'
+    iata: ''
+    coordinates: '1704N 08909W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GT MIX'
+    name: Mixco
+    namewodiacritics: Mixco
+    subdiv: GU
+    function: '--3-----'
+    status: RL
+    date: '0307'
+    iata: ''
+    coordinates: '1438N 09036W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GT MJS'
+    name: Monjas
+    namewodiacritics: Monjas
+    subdiv: JA
+    function: '--3-----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '1430N 08952W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GT MOR'
+    name: Morales
+    namewodiacritics: Morales
+    subdiv: IZ
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '1529N 08849W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GT NAH'
+    name: Nahualate
+    namewodiacritics: Nahualate
+    subdiv: SU
+    function: '-23--6--'
+    status: RL
+    date: '0307'
+    iata: ''
+    coordinates: '1432N 09124W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GT NEB'
+    name: Nebaj
+    namewodiacritics: Nebaj
+    subdiv: QC
+    function: '--3-----'
+    status: RL
+    date: '1201'
+    iata: ''
+    coordinates: '1524N 09109W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GT NNO'
+    name: 'Nino Perdido'
+    namewodiacritics: 'Nino Perdido'
+    subdiv: BV
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '1510N 09006W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GT OBE'
+    name: Obero
+    namewodiacritics: Obero
+    subdiv: ES
+    function: '-23-----'
+    status: RL
+    date: '0307'
+    iata: ''
+    coordinates: '1402N 09049W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GT PLA'
+    name: Palencia
+    namewodiacritics: Palencia
+    subdiv: GU
+    function: '--3-----'
+    status: RL
+    date: '0501'
+    iata: ''
+    coordinates: '1439N 09021W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GT PAL'
+    name: Palin
+    namewodiacritics: Palin
+    subdiv: ''
+    function: 0-------
+    status: RQ
+    date: '9307'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'GT PAR'
+    name: Parramos
+    namewodiacritics: Parramos
+    subdiv: CM
+    function: '--3-----'
+    status: RL
+    date: '0501'
+    iata: ''
+    coordinates: '1436N 09048W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GT PCG'
+    name: 'Paso Caballos'
+    namewodiacritics: 'Paso Caballos'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'GT PAT'
+    name: Patulul
+    namewodiacritics: Patulul
+    subdiv: SU
+    function: '-23-----'
+    status: RL
+    date: '0307'
+    iata: ''
+    coordinates: '1425N 09110W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GT PTZ'
+    name: Patzicía
+    namewodiacritics: Patzicia
+    subdiv: CM
+    function: '--3-----'
+    status: RL
+    date: '0307'
+    iata: ''
+    coordinates: '1437N 09055W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GT PAN'
+    name: Patzún
+    namewodiacritics: Patzun
+    subdiv: CM
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '1441N 09101W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GT PEE'
+    name: Petén
+    namewodiacritics: Peten
+    subdiv: ''
+    function: '-----6--'
+    status: RL
+    date: '1201'
+    iata: ''
+    coordinates: '1654N 08954W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GT PKJ'
+    name: 'Playa Grande'
+    namewodiacritics: 'Playa Grande'
+    subdiv: QC
+    function: '---4----'
+    status: RL
+    date: '0907'
+    iata: ''
+    coordinates: '1555N 09044W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GT PON'
+    name: Poptún
+    namewodiacritics: Poptun
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0212'
+    iata: ''
+    coordinates: '1620N 08925W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GT PNV'
+    name: 'Pueblo Nuevo Viñas'
+    namewodiacritics: 'Pueblo Nuevo Vinas'
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0601'
+    iata: ''
+    coordinates: '1414N 09029W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GT PBR'
+    name: 'Puerto Barrios'
+    namewodiacritics: 'Puerto Barrios'
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'GT PRQ'
+    name: 'Puerto Quetzal'
+    namewodiacritics: 'Puerto Quetzal'
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '9506'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'GT STC'
+    name: 'Puerto Santo Tomás de Castilla'
+    namewodiacritics: 'Puerto Santo Tomas de Castilla'
+    subdiv: IZ
+    function: 1-------
+    status: AI
+    date: '0307'
+    iata: ''
+    coordinates: '1542N 08837W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GT PUR'
+    name: Purulhá
+    namewodiacritics: Purulha
+    subdiv: BV
+    function: '--3-----'
+    status: RL
+    date: '0307'
+    iata: ''
+    coordinates: '1516N 09012W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GT AAZ'
+    name: Quetzaltenango
+    namewodiacritics: Quetzaltenango
+    subdiv: ''
+    function: '--34----'
+    status: AI
+    date: '0101'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'GT AQB'
+    name: Quiché
+    namewodiacritics: Quiche
+    subdiv: QC
+    function: '---4----'
+    status: RL
+    date: '0907'
+    iata: ''
+    coordinates: '1522N 08948W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GT QUI'
+    name: Quiriguá
+    namewodiacritics: Quirigua
+    subdiv: IZ
+    function: '--3-----'
+    status: RL
+    date: '0307'
+    iata: ''
+    coordinates: '1516N 08905W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GT RTE'
+    name: Retalhuleu
+    namewodiacritics: Retalhuleu
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'GT RIO'
+    name: 'Río Bravo'
+    namewodiacritics: 'Rio Bravo'
+    subdiv: SU
+    function: 1----6--
+    status: RL
+    date: '1201'
+    iata: ''
+    coordinates: '1424N 09119W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GT RDC'
+    name: 'Río Dulce'
+    namewodiacritics: 'Rio Dulce'
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0601'
+    iata: ''
+    coordinates: '1546N 09615W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GT RIH'
+    name: 'Rio Hondo'
+    namewodiacritics: 'Rio Hondo'
+    subdiv: ''
+    function: 0-------
+    status: RQ
+    date: '9307'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'GT RUV'
+    name: Rubelsanto
+    namewodiacritics: Rubelsanto
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'GT SLM'
+    name: Salamá
+    namewodiacritics: Salama
+    subdiv: BV
+    function: '--3-----'
+    status: RL
+    date: '0307'
+    iata: ''
+    coordinates: '1506N 09016W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GT SAI'
+    name: 'San Andrés Itzapa'
+    namewodiacritics: 'San Andres Itzapa'
+    subdiv: CM
+    function: '--3-----'
+    status: RL
+    date: '0307'
+    iata: ''
+    coordinates: '1437N 09050W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GT SAA'
+    name: 'San Antonio Suchitepéquez'
+    namewodiacritics: 'San Antonio Suchitepequez'
+    subdiv: SU
+    function: '-23-----'
+    status: RL
+    date: '0307'
+    iata: ''
+    coordinates: '1432N 09125W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GT SAB'
+    name: 'San Bartolomé Milpas Altas'
+    namewodiacritics: 'San Bartolome Milpas Altas'
+    subdiv: SA
+    function: '--3-----'
+    status: RL
+    date: '0501'
+    iata: ''
+    coordinates: '1436N 09040W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GT SCA'
+    name: 'San Cristóbal Acasaguastlán'
+    namewodiacritics: 'San Cristobal Acasaguastlan'
+    subdiv: PR
+    function: '--3-----'
+    status: RL
+    date: '0307'
+    iata: ''
+    coordinates: '1455N 08953W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GT SCV'
+    name: 'San Cristóbal Verapaz'
+    namewodiacritics: 'San Cristobal Verapaz'
+    subdiv: AV
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '1523N 09024W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GT SFR'
+    name: 'San Francisco'
+    namewodiacritics: 'San Francisco'
+    subdiv: PE
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '1648N 08956W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GT IXT'
+    name: 'San Ixtán'
+    namewodiacritics: 'San Ixtan'
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0601'
+    iata: ''
+    coordinates: '1410N 09001W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GT SJE'
+    name: 'San Jerónimo'
+    namewodiacritics: 'San Jeronimo'
+    subdiv: BV
+    function: '--3-----'
+    status: RL
+    date: '0307'
+    iata: ''
+    coordinates: '1503N 09012W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GT SNJ'
+    name: 'San Jose'
+    namewodiacritics: 'San Jose'
+    subdiv: ''
+    function: 1-3-5---
+    status: AI
+    date: '9401'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'GT SJP'
+    name: 'San José Pinula'
+    namewodiacritics: 'San Jose Pinula'
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '0101'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'GT SJC'
+    name: 'San Juan Chamelco'
+    namewodiacritics: 'San Juan Chamelco'
+    subdiv: AV
+    function: '--3-----'
+    status: RL
+    date: '0307'
+    iata: ''
+    coordinates: '1526N 09020W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GT SAJ'
+    name: 'San Juan Cotzal'
+    namewodiacritics: 'San Juan Cotzal'
+    subdiv: QC
+    function: '--3-----'
+    status: RL
+    date: '1201'
+    iata: ''
+    coordinates: '1526N 09102W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GT SJS'
+    name: 'San Juan Sacatepéquez'
+    namewodiacritics: 'San Juan Sacatepequez'
+    subdiv: GU
+    function: '--3-----'
+    status: RL
+    date: '0401'
+    iata: ''
+    coordinates: '1443N 09038W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GT SNL'
+    name: 'San Lucas'
+    namewodiacritics: 'San Lucas'
+    subdiv: SA
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '1437N 09039W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GT SAL'
+    name: 'San Lucas Sacatepéquez'
+    namewodiacritics: 'San Lucas Sacatepequez'
+    subdiv: SA
+    function: '--3-----'
+    status: RL
+    date: '0401'
+    iata: ''
+    coordinates: '1436N 09039W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GT SLT'
+    name: 'San Lucas Tolimán'
+    namewodiacritics: 'San Lucas Toliman'
+    subdiv: SO
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '1438N 09108W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GT SMS'
+    name: 'San Marcos'
+    namewodiacritics: 'San Marcos'
+    subdiv: IZ
+    function: '--3-----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '1534N 08855W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GT SAM'
+    name: 'San Marcos'
+    namewodiacritics: 'San Marcos'
+    subdiv: SM
+    function: '--3-----'
+    status: RL
+    date: '0501'
+    iata: ''
+    coordinates: '1458N 09148W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GT SMD'
+    name: 'San Miguel Dueñas'
+    namewodiacritics: 'San Miguel Duenas'
+    subdiv: SA
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '1431N 09047W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GT SMI'
+    name: 'San Miguel Petapa'
+    namewodiacritics: 'San Miguel Petapa'
+    subdiv: GU
+    function: '-23--6--'
+    status: RL
+    date: '0307'
+    iata: ''
+    coordinates: '1430N 09034W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GT SPY'
+    name: 'San Pedro Ayampuc'
+    namewodiacritics: 'San Pedro Ayampuc'
+    subdiv: GU
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '1447N 09027W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GT SPS'
+    name: 'San Pedro Sacatepéquez'
+    namewodiacritics: 'San Pedro Sacatepequez'
+    subdiv: GU
+    function: '--3-----'
+    status: RL
+    date: '0307'
+    iata: ''
+    coordinates: '1441N 09038W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GT SRA'
+    name: 'San Rafael Pie de La Cuesta'
+    namewodiacritics: 'San Rafael Pie de La Cuesta'
+    subdiv: SM
+    function: '--3-----'
+    status: RQ
+    date: '1101'
+    iata: ''
+    coordinates: '1456N 09155W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GT SRM'
+    name: 'San Raimundo'
+    namewodiacritics: 'San Raimundo'
+    subdiv: GU
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '1445N 09035W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GT SEB'
+    name: 'San Sebastián'
+    namewodiacritics: 'San Sebastian'
+    subdiv: RE
+    function: '--3-----'
+    status: RL
+    date: '0307'
+    iata: ''
+    coordinates: '1434N 09139W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GT SAR'
+    name: Sanarate
+    namewodiacritics: Sanarate
+    subdiv: PR
+    function: '--3-----'
+    status: RL
+    date: '0307'
+    iata: ''
+    coordinates: '1447N 09011W'
+    remarks: ''
+-
+    ch: +
+    locode: 'GT PPR'
+    name: Sansare
+    namewodiacritics: Sansare
+    subdiv: PR
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '1444N 09006W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GT SBR'
+    name: 'Santa Bárbara'
+    namewodiacritics: 'Santa Barbara'
+    subdiv: HU
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '1519N 09137W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GT SBA'
+    name: 'Santa Bárbara'
+    namewodiacritics: 'Santa Barbara'
+    subdiv: SU
+    function: '--3--6--'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '1426N 09114W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GT SCP'
+    name: 'Santa Catarina Pinula'
+    namewodiacritics: 'Santa Catarina Pinula'
+    subdiv: GU
+    function: '--3-----'
+    status: RL
+    date: '0307'
+    iata: ''
+    coordinates: '1434N 09029W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GT SAC'
+    name: 'Santa Cruz'
+    namewodiacritics: 'Santa Cruz'
+    subdiv: ZA
+    function: '-----6--'
+    status: RQ
+    date: '1001'
+    iata: ''
+    coordinates: '1501N 08941W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GT SCQ'
+    name: 'Santa Cruz del Quiche'
+    namewodiacritics: 'Santa Cruz del Quiche'
+    subdiv: ''
+    function: '-----6--'
+    status: RQ
+    date: '1007'
+    iata: ''
+    coordinates: '1501N 09109W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GT SCM'
+    name: 'Santa Cruz Muluá'
+    namewodiacritics: 'Santa Cruz Mulua'
+    subdiv: RE
+    function: '--3-----'
+    status: RL
+    date: '1207'
+    iata: ''
+    coordinates: '1435N 09137W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GT SRV'
+    name: 'Santa Cruz Verapaz'
+    namewodiacritics: 'Santa Cruz Verapaz'
+    subdiv: AV
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '1522N 09026W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GT EBS'
+    name: 'Santa Elena Barillas'
+    namewodiacritics: 'Santa Elena Barillas'
+    subdiv: GU
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '1424N 09033W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GT SLA'
+    name: 'Santa Lucia'
+    namewodiacritics: 'Santa Lucia'
+    subdiv: ''
+    function: '-----6--'
+    status: RQ
+    date: '1007'
+    iata: ''
+    coordinates: '1451N 09005W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GT SLC'
+    name: 'Santa Lucía Cotzumalguapa'
+    namewodiacritics: 'Santa Lucia Cotzumalguapa'
+    subdiv: ES
+    function: '-23-----'
+    status: RL
+    date: '0501'
+    iata: ''
+    coordinates: '1420N 09101W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GT SLU'
+    name: 'Santa Lucía Milpas Altas'
+    namewodiacritics: 'Santa Lucia Milpas Altas'
+    subdiv: SA
+    function: '--3-----'
+    status: RL
+    date: '0307'
+    iata: ''
+    coordinates: '1434N 09040W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GT SMC'
+    name: 'Santa María Cauqué'
+    namewodiacritics: 'Santa Maria Cauque'
+    subdiv: SA
+    function: '--3-----'
+    status: RL
+    date: '0307'
+    iata: ''
+    coordinates: '1438N 09042W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GT PSA'
+    name: 'Santa Rosa de Lima'
+    namewodiacritics: 'Santa Rosa de Lima'
+    subdiv: SR
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '1423N 09017W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GT SNT'
+    name: 'Santiago Atitlán'
+    namewodiacritics: 'Santiago Atitlan'
+    subdiv: SO
+    function: '--3-----'
+    status: RL
+    date: '0307'
+    iata: ''
+    coordinates: '1438N 09114W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GT SAS'
+    name: 'Santiago Sacatepéquez'
+    namewodiacritics: 'Santiago Sacatepequez'
+    subdiv: SA
+    function: '--3-----'
+    status: RL
+    date: '0307'
+    iata: ''
+    coordinates: '1438N 09040W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GT SDS'
+    name: 'Santo Domingo Suchitepéquez'
+    namewodiacritics: 'Santo Domingo Suchitepequez'
+    subdiv: SU
+    function: '--3-----'
+    status: RL
+    date: '0307'
+    iata: ''
+    coordinates: '1428N 09129W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GT STZ'
+    name: 'Santo Tomas'
+    namewodiacritics: 'Santo Tomas'
+    subdiv: ZA
+    function: '-----6--'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '1450N 08943W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GT STU'
+    name: 'Santo Tomás La Unión'
+    namewodiacritics: 'Santo Tomas La Union'
+    subdiv: SU
+    function: '--3-----'
+    status: RL
+    date: '0501'
+    iata: ''
+    coordinates: '1438N 09123W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GT STM'
+    name: 'Santo Tomás Milpas Altas'
+    namewodiacritics: 'Santo Tomas Milpas Altas'
+    subdiv: SA
+    function: '--3-----'
+    status: RL
+    date: '0212'
+    iata: ''
+    coordinates: '1434N 09040W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GT SPC'
+    name: Sipacate
+    namewodiacritics: Sipacate
+    subdiv: ''
+    function: '-----6--'
+    status: RQ
+    date: '1007'
+    iata: ''
+    coordinates: '1355N 09108W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GT SIQ'
+    name: Siquinalá
+    namewodiacritics: Siquinala
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0212'
+    iata: ''
+    coordinates: '1418N 09058W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GT SOL'
+    name: Solola
+    namewodiacritics: Solola
+    subdiv: SO
+    function: '-----6--'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '1446N 09111W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GT SUM'
+    name: Sumpango
+    namewodiacritics: Sumpango
+    subdiv: SA
+    function: '--3-----'
+    status: RL
+    date: '0307'
+    iata: ''
+    coordinates: '1438N 09044W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GT TAC'
+    name: Tactic
+    namewodiacritics: Tactic
+    subdiv: AV
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '1520N 09018W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GT TAX'
+    name: Taxisco
+    namewodiacritics: Taxisco
+    subdiv: SR
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '1404N 09027W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GT TCP'
+    name: 'Tecpán Guatemala'
+    namewodiacritics: 'Tecpan Guatemala'
+    subdiv: CM
+    function: '--3-----'
+    status: RL
+    date: '0307'
+    iata: ''
+    coordinates: '1446N 09059W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GT TEC'
+    name: Teculután
+    namewodiacritics: Teculutan
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0212'
+    iata: ''
+    coordinates: '1459N 08943W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GT TUC'
+    name: 'Tecun Uman'
+    namewodiacritics: 'Tecun Uman'
+    subdiv: QZ
+    function: 1-------
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'GT TKM'
+    name: Tikal
+    namewodiacritics: Tikal
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'GT TIG'
+    name: Tiquisate
+    namewodiacritics: Tiquisate
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0212'
+    iata: ''
+    coordinates: '1417N 09122W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GT TOT'
+    name: Totonicapán
+    namewodiacritics: Totonicapan
+    subdiv: TO
+    function: '--3-----'
+    status: RL
+    date: '0307'
+    iata: ''
+    coordinates: '1455N 09122W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GT UAX'
+    name: Uaxactún
+    namewodiacritics: Uaxactun
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0212'
+    iata: ''
+    coordinates: '1724N 08938W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GT USP'
+    name: Uspantán
+    namewodiacritics: Uspantan
+    subdiv: QC
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '1523N 09050W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GT USU'
+    name: Usumatlán
+    namewodiacritics: Usumatlan
+    subdiv: ZA
+    function: '--3-----'
+    status: RL
+    date: '0307'
+    iata: ''
+    coordinates: '1457N 08947W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GT VLL'
+    name: 'Villa Canales'
+    namewodiacritics: 'Villa Canales'
+    subdiv: GU
+    function: '-23--6--'
+    status: RL
+    date: '0307'
+    iata: ''
+    coordinates: '1428N 09031W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GT VIN'
+    name: 'Villa Nueva'
+    namewodiacritics: 'Villa Nueva'
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '9307'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'GT VLN'
+    name: 'Villa Nueva'
+    namewodiacritics: 'Villa Nueva'
+    subdiv: GU
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '1431N 09035W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GT VLO'
+    name: Villalobos
+    namewodiacritics: Villalobos
+    subdiv: GU
+    function: '--3-----'
+    status: RL
+    date: '0307'
+    iata: ''
+    coordinates: '1432N 09035W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GT ZAC'
+    name: Zacapa
+    namewodiacritics: Zacapa
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''

@@ -1,0 +1,396 @@
+-
+    ch: +
+    locode: 'SD ABY'
+    name: Abyei
+    namewodiacritics: Abyei
+    subdiv: KS
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '0936N 02826E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SD AAD'
+    name: 'Ad Dabbah'
+    namewodiacritics: 'Ad Dabbah'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0212'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SD SRA'
+    name: 'Ar Rank'
+    namewodiacritics: 'Ar Rank'
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '0907'
+    iata: ''
+    coordinates: '1145N 32480E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SD ATB'
+    name: Atbara
+    namewodiacritics: Atbara
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SD DNX'
+    name: Dinder
+    namewodiacritics: Dinder
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ¦
+    locode: 'SD DOG'
+    name: Dongola
+    namewodiacritics: Dongola
+    subdiv: NO
+    function: '---4----'
+    status: AI
+    date: '1307'
+    iata: ''
+    coordinates: ''
+    remarks: '@Sub'
+-
+    ch: ¦
+    locode: 'SD ELF'
+    name: 'El Fasher'
+    namewodiacritics: 'El Fasher'
+    subdiv: DN
+    function: '---4----'
+    status: AI
+    date: '1307'
+    iata: ''
+    coordinates: '1338N 02521E'
+    remarks: '@Sub@Coo'
+-
+    ch: ¦
+    locode: 'SD EBD'
+    name: 'El Obeid'
+    namewodiacritics: 'El Obeid'
+    subdiv: KN
+    function: '---4----'
+    status: AI
+    date: '1307'
+    iata: ''
+    coordinates: '1311N 03013E'
+    remarks: '@Sub@Coo'
+-
+    ch: ''
+    locode: 'SD EDB'
+    name: Eldebba
+    namewodiacritics: Eldebba
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SD NUD'
+    name: 'En Nahud'
+    namewodiacritics: 'En Nahud'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ¦
+    locode: 'SD GSU'
+    name: Gedaref
+    namewodiacritics: Gedaref
+    subdiv: GD
+    function: '---4----'
+    status: AI
+    date: '1307'
+    iata: ''
+    coordinates: ''
+    remarks: '@Sub'
+-
+    ch: ¦
+    locode: 'SD EGN'
+    name: Geneina
+    namewodiacritics: Geneina
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '1307'
+    iata: ''
+    coordinates: '1327N 02226E'
+    remarks: '@Sub@Coo'
+-
+    ch: ¦
+    locode: 'SD JUM'
+    name: Juba
+    namewodiacritics: Juba
+    subdiv: DS
+    function: '---4----'
+    status: AC
+    date: '1307'
+    iata: ''
+    coordinates: '1209N 02427E'
+    remarks: '@Sub@Coo'
+-
+    ch: ¦
+    locode: 'SD KDX'
+    name: Kadugli
+    namewodiacritics: Kadugli
+    subdiv: KS
+    function: '---4----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '1100N 02943E'
+    remarks: '@Sub'
+-
+    ch: ¦
+    locode: 'SD KSL'
+    name: Kassala
+    namewodiacritics: Kassala
+    subdiv: KA
+    function: '---4----'
+    status: AI
+    date: '1307'
+    iata: ''
+    coordinates: ''
+    remarks: '@Sub'
+-
+    ch: ¦
+    locode: 'SD KRT'
+    name: Khartoum
+    namewodiacritics: Khartoum
+    subdiv: KH
+    function: '---45---'
+    status: AI
+    date: '1307'
+    iata: ''
+    coordinates: ''
+    remarks: '@Sub'
+-
+    ch: ¦
+    locode: 'SD GBU'
+    name: 'Khashm El Girba'
+    namewodiacritics: 'Khashm El Girba'
+    subdiv: GD
+    function: '---4----'
+    status: AI
+    date: '1307'
+    iata: ''
+    coordinates: ''
+    remarks: '@Sub'
+-
+    ch: ¦
+    locode: 'SD KST'
+    name: Kosti
+    namewodiacritics: Kosti
+    subdiv: NW
+    function: '---4----'
+    status: AI
+    date: '1307'
+    iata: ''
+    coordinates: '1310N 03240E'
+    remarks: '@Sub@Coo'
+-
+    ch: ''
+    locode: 'SD MAK'
+    name: Malakal
+    namewodiacritics: Malakal
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SD MBH'
+    name: 'Marsa Bashayer'
+    namewodiacritics: 'Marsa Bashayer'
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '0212'
+    iata: ''
+    coordinates: '1923N 03718E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SD MWE'
+    name: Merowe
+    namewodiacritics: Merowe
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ¦
+    locode: 'SD NHF'
+    name: 'New Halfa'
+    namewodiacritics: 'New Halfa'
+    subdiv: KA
+    function: '---4----'
+    status: AI
+    date: '1307'
+    iata: ''
+    coordinates: ''
+    remarks: '@Sub'
+-
+    ch: ¦
+    locode: 'SD UYL'
+    name: Nyala
+    namewodiacritics: Nyala
+    subdiv: DS
+    function: '---4----'
+    status: AI
+    date: '1307'
+    iata: ''
+    coordinates: '1203N 02453E'
+    remarks: '@Sub@Coo'
+-
+    ch: ¦
+    locode: 'SD PZU'
+    name: 'Port Sudan'
+    namewodiacritics: 'Port Sudan'
+    subdiv: RS
+    function: 1--45---
+    status: AI
+    date: '1307'
+    iata: ''
+    coordinates: ''
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'SD RAB'
+    name: Rabak
+    namewodiacritics: Rabak
+    subdiv: ''
+    function: '--3--6--'
+    status: RQ
+    date: '0907'
+    iata: ''
+    coordinates: '1309N 03244E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SD RSS'
+    name: Roseires
+    namewodiacritics: Roseires
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SD RBK'
+    name: Rumbek
+    namewodiacritics: Rumbek
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0601'
+    iata: ''
+    coordinates: '0648N 02942E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SD SSD'
+    name: Sawakin
+    namewodiacritics: Sawakin
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '1207'
+    iata: ''
+    coordinates: '1906N 03719E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SD SWA'
+    name: Swakin
+    namewodiacritics: Swakin
+    subdiv: ''
+    function: 1-------
+    status: AC
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ¦
+    locode: 'SD DNI'
+    name: 'Wad Medani'
+    namewodiacritics: 'Wad Medani'
+    subdiv: GZ
+    function: '---4----'
+    status: AI
+    date: '1307'
+    iata: ''
+    coordinates: '1424N 03329E'
+    remarks: '@Sub@Coo'
+-
+    ch: ¦
+    locode: 'SD WHF'
+    name: 'Wadi Halfa'
+    namewodiacritics: 'Wadi Halfa'
+    subdiv: NO
+    function: '---4----'
+    status: AI
+    date: '1307'
+    iata: ''
+    coordinates: ''
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'SD WUU'
+    name: Wau
+    namewodiacritics: Wau
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SD YEI'
+    name: Yei
+    namewodiacritics: Yei
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '0405N 03040E'
+    remarks: ''

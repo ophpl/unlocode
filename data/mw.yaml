@@ -1,0 +1,180 @@
+-
+    ch: ''
+    locode: 'MW BLZ'
+    name: Blantyre
+    namewodiacritics: Blantyre
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MW CEH'
+    name: Chelinda
+    namewodiacritics: Chelinda
+    subdiv: ''
+    function: '---4----'
+    status: RL
+    date: '0907'
+    iata: ''
+    coordinates: '1035S 03348E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MW CMK'
+    name: 'Club Makokola'
+    namewodiacritics: 'Club Makokola'
+    subdiv: ''
+    function: '---4----'
+    status: RL
+    date: '0907'
+    iata: ''
+    coordinates: '1418S 03508E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MW DWA'
+    name: Dwangwa
+    namewodiacritics: Dwangwa
+    subdiv: ''
+    function: '---4----'
+    status: RL
+    date: '0907'
+    iata: ''
+    coordinates: '1234S 03809E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MW KGJ'
+    name: Karonga
+    namewodiacritics: Karonga
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MW KBQ'
+    name: Kasungu
+    namewodiacritics: Kasungu
+    subdiv: ''
+    function: '---4----'
+    status: RL
+    date: '0907'
+    iata: ''
+    coordinates: '1302S 03326E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MW LIX'
+    name: Likoma
+    namewodiacritics: Likoma
+    subdiv: ''
+    function: '---4----'
+    status: RL
+    date: '0907'
+    iata: ''
+    coordinates: '1204S 03444E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MW LLW'
+    name: Lilongwe
+    namewodiacritics: Lilongwe
+    subdiv: ''
+    function: '---45---'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MW LBE'
+    name: Limbe
+    namewodiacritics: Limbe
+    subdiv: ''
+    function: '----5---'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MW MAI'
+    name: Mangochi
+    namewodiacritics: Mangochi
+    subdiv: ''
+    function: '---4----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '1430S 03515E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MW MYZ'
+    name: 'Monkey Bay'
+    namewodiacritics: 'Monkey Bay'
+    subdiv: ''
+    function: '---4----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '1406S 03431E'
+    remarks: ''
+-
+    ch: +
+    locode: 'MW MZI'
+    name: Mzimba
+    namewodiacritics: Mzimba
+    subdiv: MZ
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '1154S 03336E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MW ZZU'
+    name: Mzuzu
+    namewodiacritics: Mzuzu
+    subdiv: ''
+    function: '---4----'
+    status: RQ
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MW LMB'
+    name: Salima
+    namewodiacritics: Salima
+    subdiv: ''
+    function: '---4----'
+    status: RL
+    date: '0907'
+    iata: ''
+    coordinates: '1347S 03426E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MW THY'
+    name: Thyolo
+    namewodiacritics: Thyolo
+    subdiv: ''
+    function: 1-3-----
+    status: RL
+    date: '1201'
+    iata: ''
+    coordinates: '1604S 03508E'
+    remarks: ''

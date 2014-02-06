@@ -1,0 +1,624 @@
+-
+    ch: ''
+    locode: 'LY ABK'
+    name: 'Abu Kammash'
+    namewodiacritics: 'Abu Kammash'
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '9506'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'LY ABS'
+    name: 'Abu Salim'
+    namewodiacritics: 'Abu Salim'
+    subdiv: TB
+    function: '--3-----'
+    status: RL
+    date: '1101'
+    iata: ''
+    coordinates: '3251N 01310E'
+    remarks: ''
+-
+    ch: ¦
+    locode: 'LY QGG'
+    name: Ajdabiya
+    namewodiacritics: Ajdabiya
+    subdiv: WA
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '3045N 02013E'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'LY ABA'
+    name: 'Al Bayda'
+    namewodiacritics: 'Al Bayda'
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'LY KHO'
+    name: 'Al Khums'
+    namewodiacritics: 'Al Khums'
+    subdiv: ''
+    function: 1-3-----
+    status: RL
+    date: '0507'
+    iata: QKO
+    coordinates: '3239N 01416E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LY AKF'
+    name: 'Al Kufrah'
+    namewodiacritics: 'Al Kufrah'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0212'
+    iata: ''
+    coordinates: '2410N 02315E'
+    remarks: Kufra
+-
+    ch: ''
+    locode: 'LY QEC'
+    name: 'Al Marj'
+    namewodiacritics: 'Al Marj'
+    subdiv: MJ
+    function: '--3-----'
+    status: RL
+    date: '0907'
+    iata: ''
+    coordinates: '3230N 02049E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LY APO'
+    name: Apollonia
+    namewodiacritics: Apollonia
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'LY ESI'
+    name: 'As Sidr'
+    namewodiacritics: 'As Sidr'
+    subdiv: ''
+    function: 1-------
+    status: RL
+    date: '0212'
+    iata: ''
+    coordinates: '3038N 01822E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LY QZT'
+    name: 'Awbari (Ubari)'
+    namewodiacritics: 'Awbari (Ubari)'
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0907'
+    iata: ''
+    coordinates: '2334N 01249E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LY ZAW'
+    name: 'Az Zawiyah'
+    namewodiacritics: 'Az Zawiyah'
+    subdiv: ''
+    function: 1-------
+    status: RL
+    date: '0212'
+    iata: ''
+    coordinates: '3245N 01243E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LY AZT'
+    name: 'Az Zintan'
+    namewodiacritics: 'Az Zintan'
+    subdiv: YJ
+    function: '--3-----'
+    status: RL
+    date: '1107'
+    iata: ''
+    coordinates: '3156N 01214E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LY QBL'
+    name: 'Bani Walid'
+    namewodiacritics: 'Bani Walid'
+    subdiv: BW
+    function: '--3-----'
+    status: RL
+    date: '0907'
+    iata: ''
+    coordinates: '3446N 01358E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LY BAR'
+    name: Bardiyah
+    namewodiacritics: Bardiyah
+    subdiv: ''
+    function: 1-------
+    status: RL
+    date: '0212'
+    iata: ''
+    coordinates: '3146N 02506E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LY LAQ'
+    name: Beida
+    namewodiacritics: Beida
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'LY BEN'
+    name: 'Bingazi (Benghazi)'
+    namewodiacritics: 'Bingazi (Benghazi)'
+    subdiv: ''
+    function: 1--45---
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'LY BCQ'
+    name: Birak
+    namewodiacritics: Birak
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0212'
+    iata: ''
+    coordinates: '2732N 01417E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LY BUA'
+    name: 'Bu''ayrat al Hasun'
+    namewodiacritics: 'Bu''ayrat al Hasun'
+    subdiv: ''
+    function: 1-------
+    status: RL
+    date: '0212'
+    iata: ''
+    coordinates: '3124N 01544E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LY DRX'
+    name: Darnah
+    namewodiacritics: Darnah
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '0607'
+    iata: ''
+    coordinates: '3246N 02238E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LY BOU'
+    name: 'El Bouri'
+    namewodiacritics: 'El Bouri'
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '9803'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'LY ELK'
+    name: 'El Choms'
+    namewodiacritics: 'El Choms'
+    subdiv: ''
+    function: 1-3-----
+    status: RL
+    date: '0701'
+    iata: ''
+    coordinates: '3239N 01416E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LY LTD'
+    name: Ghadames
+    namewodiacritics: Ghadames
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'LY GHT'
+    name: Ghat
+    namewodiacritics: Ghat
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'LY HUQ'
+    name: Houn
+    namewodiacritics: Houn
+    subdiv: ''
+    function: '--34----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '2930N 01530E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LY KHM'
+    name: Khoms
+    namewodiacritics: Khoms
+    subdiv: ''
+    function: '-----6--'
+    status: RQ
+    date: '0907'
+    iata: ''
+    coordinates: '5220N 02514E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LY MBK'
+    name: Mabruk
+    namewodiacritics: Mabruk
+    subdiv: SR
+    function: '------7-'
+    status: RQ
+    date: '1101'
+    iata: ''
+    coordinates: '3000N 01715E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LY MBR'
+    name: 'Marsá Al Burayqah'
+    namewodiacritics: 'Marsa Al Burayqah'
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0207'
+    iata: ''
+    coordinates: '3023N 01936E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LY LMQ'
+    name: 'Marsa Brega'
+    namewodiacritics: 'Marsa Brega'
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'LY MEH'
+    name: 'Marsa El Hania'
+    namewodiacritics: 'Marsa El Hania'
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'LY MHR'
+    name: 'Marsa el Hariga'
+    namewodiacritics: 'Marsa el Hariga'
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '9506'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'LY MTH'
+    name: Melittah
+    namewodiacritics: Melittah
+    subdiv: TB
+    function: 1-----7-
+    status: RL
+    date: '0701'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'LY MEL'
+    name: 'Mellitah (Qasr Ahmed)'
+    namewodiacritics: 'Mellitah (Qasr Ahmed)'
+    subdiv: MI
+    function: 123-----
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '3236N 01521E'
+    remarks: ''
+-
+    ch: +
+    locode: 'LY MIS'
+    name: Misratah
+    namewodiacritics: Misratah
+    subdiv: MI
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '3222N 01505E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LY MRA'
+    name: Misurata
+    namewodiacritics: Misurata
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'LY MJI'
+    name: Mitiga
+    namewodiacritics: Mitiga
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'LY QMQ'
+    name: Murzuq
+    namewodiacritics: Murzuq
+    subdiv: MQ
+    function: '---4----'
+    status: RQ
+    date: '0907'
+    iata: ''
+    coordinates: '2554N 01353E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LY NFR'
+    name: Nafoora
+    namewodiacritics: Nafoora
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'LY REH'
+    name: 'Ras el Hilal'
+    namewodiacritics: 'Ras el Hilal'
+    subdiv: ''
+    function: 0-------
+    status: RQ
+    date: '9506'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'LY RLA'
+    name: 'Ras Lanuf'
+    namewodiacritics: 'Ras Lanuf'
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'LY SEB'
+    name: Sebha
+    namewodiacritics: Sebha
+    subdiv: ''
+    function: '--34----'
+    status: AI
+    date: '0212'
+    iata: ''
+    coordinates: '2702N 01426E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LY SRX'
+    name: Sert
+    namewodiacritics: Sert
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'LY SRT'
+    name: 'Sirte (Surt)'
+    namewodiacritics: 'Sirte (Surt)'
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'LY SOU'
+    name: Soussah
+    namewodiacritics: Soussah
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'LY TAG'
+    name: Tagiura
+    namewodiacritics: Tagiura
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'LY TOB'
+    name: Tobruk
+    namewodiacritics: Tobruk
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'LY TOA'
+    name: Toulmeitha
+    namewodiacritics: Toulmeitha
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'LY TIP'
+    name: Tripoli
+    namewodiacritics: Tripoli
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'LY TUK'
+    name: Tukrah
+    namewodiacritics: Tukrah
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'LY ZLI'
+    name: Zliten
+    namewodiacritics: Zliten
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'LY ZUA'
+    name: Zuara
+    namewodiacritics: Zuara
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'LY ZUE'
+    name: Zueitina
+    namewodiacritics: Zueitina
+    subdiv: ''
+    function: 0-------
+    status: RQ
+    date: '9506'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'LY WAX'
+    name: Zwara
+    namewodiacritics: Zwara
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''

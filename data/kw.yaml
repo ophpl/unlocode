@@ -1,0 +1,324 @@
+-
+    ch: ''
+    locode: 'KW HMD'
+    name: Ahmadi
+    namewodiacritics: Ahmadi
+    subdiv: ''
+    function: '-----6--'
+    status: RL
+    date: '1201'
+    iata: ''
+    coordinates: '2904N 04805E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'KW AHJ'
+    name: 'Ahmed Al Jaber'
+    namewodiacritics: 'Ahmed Al Jaber'
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0307'
+    iata: ''
+    coordinates: '2856N 04747E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'KW ABD'
+    name: 'Al ''Abdaliyah'
+    namewodiacritics: 'Al ''Abdaliyah'
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0607'
+    iata: ''
+    coordinates: '2903N 04744E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'KW ALF'
+    name: 'Al Farwaniyah'
+    namewodiacritics: 'Al Farwaniyah'
+    subdiv: KU
+    function: '--3-----'
+    status: RL
+    date: '1101'
+    iata: ''
+    coordinates: '2916N 04757E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'KW WAF'
+    name: 'Al Wafrah'
+    namewodiacritics: 'Al Wafrah'
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '0212'
+    iata: ''
+    coordinates: '2833N 04750E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'KW AIS'
+    name: 'Ali al Salem AB'
+    namewodiacritics: 'Ali al Salem AB'
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '0201'
+    iata: ''
+    coordinates: '2920N 04731E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'KW SYA'
+    name: 'As Sabahiyah'
+    namewodiacritics: 'As Sabahiyah'
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0701'
+    iata: ''
+    coordinates: '2906N 04806E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'KW SAL'
+    name: 'As Salimiyah'
+    namewodiacritics: 'As Salimiyah'
+    subdiv: ''
+    function: 1-3-----
+    status: RL
+    date: '0607'
+    iata: ''
+    coordinates: '2920N 04805E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'KW KHT'
+    name: 'As Sulaybikhat'
+    namewodiacritics: 'As Sulaybikhat'
+    subdiv: AH
+    function: 1-3-----
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'KW HAW'
+    name: Awalli
+    namewodiacritics: Awalli
+    subdiv: ''
+    function: '-----6--'
+    status: RQ
+    date: '1001'
+    iata: ''
+    coordinates: '2919N 04801E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'KW CAJ'
+    name: 'Camp Arifjan'
+    namewodiacritics: 'Camp Arifjan'
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '0607'
+    iata: ''
+    coordinates: '2854N 04811E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'KW CBG'
+    name: 'Camp Buehring'
+    namewodiacritics: 'Camp Buehring'
+    subdiv: JA
+    function: '--34----'
+    status: RQ
+    date: '1001'
+    iata: ''
+    coordinates: '2942N 04726E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'KW CDH'
+    name: 'Camp Doha'
+    namewodiacritics: 'Camp Doha'
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '0201'
+    iata: ''
+    coordinates: '2919N 04738E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'KW JAH'
+    name: Jahran
+    namewodiacritics: Jahran
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8110'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'KW JBD'
+    name: 'Jebel Dhana'
+    namewodiacritics: 'Jebel Dhana'
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'KW KFZ'
+    name: Kaifan
+    namewodiacritics: Kaifan
+    subdiv: ''
+    function: '-----6--'
+    status: RQ
+    date: '1001'
+    iata: ''
+    coordinates: '2920N 04758E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'KW KWM'
+    name: 'Khor al Mufatta'
+    namewodiacritics: 'Khor al Mufatta'
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'KW KWI'
+    name: Kuwait
+    namewodiacritics: Kuwait
+    subdiv: ''
+    function: 1--45---
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'KW MIB'
+    name: 'Mina'' ''Abd Allah'
+    namewodiacritics: 'Mina'' ''Abd Allah'
+    subdiv: ''
+    function: 1-------
+    status: RL
+    date: '0212'
+    iata: ''
+    coordinates: '2901N 04810E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'KW MEA'
+    name: 'Mina'' al Ahmadi'
+    namewodiacritics: 'Mina'' al Ahmadi'
+    subdiv: ''
+    function: 1-------
+    status: RL
+    date: '0212'
+    iata: ''
+    coordinates: '2904N 04809E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'KW MAM'
+    name: 'Mina Alo Manti'
+    namewodiacritics: 'Mina Alo Manti'
+    subdiv: ''
+    function: 0-------
+    status: RQ
+    date: '9307'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'KW MIS'
+    name: 'Mina Saud'
+    namewodiacritics: 'Mina Saud'
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'KW ALR'
+    name: 'Ra''s al Ard'
+    namewodiacritics: 'Ra''s al Ard'
+    subdiv: ''
+    function: '-----6--'
+    status: RL
+    date: '1201'
+    iata: ''
+    coordinates: '2921N 04805E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'KW RUM'
+    name: Rumaithiya
+    namewodiacritics: Rumaithiya
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '1107'
+    iata: ''
+    coordinates: '2919N 04831E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'KW SAF'
+    name: Safat
+    namewodiacritics: Safat
+    subdiv: ''
+    function: 0-------
+    status: RQ
+    date: '9307'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'KW SAA'
+    name: Shuaiba
+    namewodiacritics: Shuaiba
+    subdiv: ''
+    function: 1-3--6--
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '2902N 04808E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'KW SWK'
+    name: Shuwaikh
+    namewodiacritics: Shuwaikh
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''

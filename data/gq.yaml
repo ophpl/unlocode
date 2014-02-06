@@ -1,0 +1,156 @@
+-
+    ch: ''
+    locode: 'GQ ATE'
+    name: 'Aseng FPSO'
+    namewodiacritics: 'Aseng FPSO'
+    subdiv: ''
+    function: '------7-'
+    status: RL
+    date: '1107'
+    iata: ''
+    coordinates: '0322N 00908E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GQ BSG'
+    name: Bata
+    namewodiacritics: Bata
+    subdiv: ''
+    function: 1--45---
+    status: RQ
+    date: '9506'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'GQ BUL'
+    name: Butuku-Luba
+    namewodiacritics: Butuku-Luba
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '9506'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'GQ COG'
+    name: Cogo
+    namewodiacritics: Cogo
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '9506'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ¦
+    locode: 'GQ LUB'
+    name: Luba
+    namewodiacritics: Luba
+    subdiv: BS
+    function: 1-------
+    status: RQ
+    date: '1307'
+    iata: ''
+    coordinates: ''
+    remarks: '@Sub'
+-
+    ch: ¦
+    locode: 'GQ SSG'
+    name: Malabo
+    namewodiacritics: Malabo
+    subdiv: BN
+    function: '---4----'
+    status: AI
+    date: '1307'
+    iata: ''
+    coordinates: ''
+    remarks: '@Sub'
+-
+    ch: ¦
+    locode: 'GQ MON'
+    name: Mongomo
+    namewodiacritics: Mongomo
+    subdiv: WN
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '0137N 01118E'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'GQ PET'
+    name: 'Punta Europa Terminal'
+    namewodiacritics: 'Punta Europa Terminal'
+    subdiv: ''
+    function: 1-------
+    status: RL
+    date: '1107'
+    iata: ''
+    coordinates: '0347N 00843E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GQ RMN'
+    name: 'Rio Muni'
+    namewodiacritics: 'Rio Muni'
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '9307'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ¦
+    locode: 'GQ ABU'
+    name: 'San Antonio de Palé'
+    namewodiacritics: 'San Antonio de Pale'
+    subdiv: AN
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '0124S 00536E'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'GQ SIS'
+    name: 'Santa Isabel'
+    namewodiacritics: 'Santa Isabel'
+    subdiv: ''
+    function: '----5---'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'GQ SER'
+    name: 'Serpentina Terminal'
+    namewodiacritics: 'Serpentina Terminal'
+    subdiv: AN
+    function: 1-------
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '0348N 00805E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GQ ZAF'
+    name: 'Zafiro Terminal'
+    namewodiacritics: 'Zafiro Terminal'
+    subdiv: AN
+    function: 1-------
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '0351N 00810E'
+    remarks: ''

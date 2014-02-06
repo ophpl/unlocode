@@ -1,0 +1,552 @@
+-
+    ch: ''
+    locode: 'CY AKT'
+    name: Akrotiri
+    namewodiacritics: Akrotiri
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'CY ALA'
+    name: Alambra
+    namewodiacritics: Alambra
+    subdiv: ''
+    function: '-----6--'
+    status: RL
+    date: '1201'
+    iata: ''
+    coordinates: '3459N 03324E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CY AYI'
+    name: 'Ayia Napa'
+    namewodiacritics: 'Ayia Napa'
+    subdiv: '03'
+    function: 1-3--6--
+    status: RL
+    date: '0407'
+    iata: QNP
+    coordinates: '3459N 03400E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CY AVA'
+    name: 'Ayia Varvara'
+    namewodiacritics: 'Ayia Varvara'
+    subdiv: '05'
+    function: 1-------
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'CY DHA'
+    name: Dhali
+    namewodiacritics: Dhali
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '1101'
+    iata: ''
+    coordinates: '3501N 03325E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CY DHK'
+    name: Dhekelia
+    namewodiacritics: Dhekelia
+    subdiv: ''
+    function: 1-3-----
+    status: RL
+    date: '0701'
+    iata: ''
+    coordinates: '3459N 03345E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CY DRA'
+    name: Dherinia
+    namewodiacritics: Dherinia
+    subdiv: ''
+    function: '-----6--'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '3504N 03357E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CY ENG'
+    name: Engomi
+    namewodiacritics: Engomi
+    subdiv: ''
+    function: '-----6--'
+    status: RL
+    date: '1107'
+    iata: ''
+    coordinates: '3509N 03353E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CY EGM'
+    name: Engomi
+    namewodiacritics: Engomi
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '1207'
+    iata: ''
+    coordinates: '3510N 03320E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CY EPK'
+    name: Episkopi
+    namewodiacritics: Episkopi
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9506'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'CY ECN'
+    name: Ercan
+    namewodiacritics: Ercan
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'CY ERG'
+    name: Ergates
+    namewodiacritics: Ergates
+    subdiv: '01'
+    function: 1-------
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'CY FMG'
+    name: Famagusta
+    namewodiacritics: Famagusta
+    subdiv: ''
+    function: 1-3-----
+    status: RL
+    date: '0701'
+    iata: ''
+    coordinates: '3506N 03357E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CY FFA'
+    name: 'Famagusta Free Area'
+    namewodiacritics: 'Famagusta Free Area'
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '3503N 03358E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CY KAL'
+    name: Gastria
+    namewodiacritics: Gastria
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0701'
+    iata: ''
+    coordinates: '3520N 03400E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CY GEC'
+    name: 'Gecitkale (Kophinou)'
+    namewodiacritics: 'Gecitkale (Kophinou)'
+    subdiv: ''
+    function: '---4----'
+    status: RL
+    date: '0907'
+    iata: ''
+    coordinates: '3449N 03323E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CY SKP'
+    name: Geroskipou
+    namewodiacritics: Geroskipou
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '3520N 03319E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CY KMK'
+    name: Kaimakli
+    namewodiacritics: Kaimakli
+    subdiv: ''
+    function: '-----6--'
+    status: RL
+    date: '1107'
+    iata: ''
+    coordinates: '3511N 03323E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CY KAP'
+    name: Kapparis
+    namewodiacritics: Kapparis
+    subdiv: '06'
+    function: 1-------
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'CY KAR'
+    name: Karavostasi
+    namewodiacritics: Karavostasi
+    subdiv: ''
+    function: 1-3-----
+    status: RL
+    date: '0701'
+    iata: ''
+    coordinates: '3508N 03250E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CY KPO'
+    name: Kofinou
+    namewodiacritics: Kofinou
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0207'
+    iata: ''
+    coordinates: '3449N 03323E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CY KOK'
+    name: 'Kokkini Trimithia'
+    namewodiacritics: 'Kokkini Trimithia'
+    subdiv: '01'
+    function: '--3-----'
+    status: RL
+    date: '1101'
+    iata: ''
+    coordinates: '3509N 03312E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CY KOL'
+    name: Koloss
+    namewodiacritics: Koloss
+    subdiv: '02'
+    function: 1-------
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'CY KYP'
+    name: Kyperounda
+    namewodiacritics: Kyperounda
+    subdiv: '02'
+    function: 1-------
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'CY KYR'
+    name: Kyrenia
+    namewodiacritics: Kyrenia
+    subdiv: ''
+    function: 1-3-----
+    status: RL
+    date: '0701'
+    iata: ''
+    coordinates: '3520N 03320E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CY LCA'
+    name: Larnaca
+    namewodiacritics: Larnaca
+    subdiv: ''
+    function: 1--45---
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'CY LAT'
+    name: Latchi
+    namewodiacritics: Latchi
+    subdiv: ''
+    function: 1-3-----
+    status: RL
+    date: '0701'
+    iata: ''
+    coordinates: '3502N 03224E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CY LTA'
+    name: Latsia
+    namewodiacritics: Latsia
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '1001'
+    iata: ''
+    coordinates: '3560N 33220E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CY LMS'
+    name: Limassol
+    namewodiacritics: Limassol
+    subdiv: ''
+    function: 1-3-5---
+    status: RL
+    date: '0701'
+    iata: ''
+    coordinates: '3441N 03303E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CY LIO'
+    name: Liopetri
+    namewodiacritics: Liopetri
+    subdiv: '04'
+    function: 1-------
+    status: RL
+    date: '1101'
+    iata: ''
+    coordinates: '3500N 03353E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CY MDS'
+    name: Makedonitissa
+    namewodiacritics: Makedonitissa
+    subdiv: '01'
+    function: '--3-----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'CY MOI'
+    name: Moni
+    namewodiacritics: Moni
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '1101'
+    iata: ''
+    coordinates: '3444N 03312E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CY NIC'
+    name: Nicosia
+    namewodiacritics: Nicosia
+    subdiv: ''
+    function: 1--45---
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'CY NFA'
+    name: 'Nicosia Free Area'
+    namewodiacritics: 'Nicosia Free Area'
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '3510N 03312E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CY ORM'
+    name: Ormidia
+    namewodiacritics: Ormidia
+    subdiv: '03'
+    function: 1-------
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'CY PFO'
+    name: Paphos
+    namewodiacritics: Paphos
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'CY PER'
+    name: Perivolia
+    namewodiacritics: Perivolia
+    subdiv: ''
+    function: '-----6--'
+    status: RL
+    date: '1107'
+    iata: ''
+    coordinates: '3449N 03335E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CY PYA'
+    name: Peyeia
+    namewodiacritics: Peyeia
+    subdiv: '05'
+    function: '--3-----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'CY PSI'
+    name: Psimolofou
+    namewodiacritics: Psimolofou
+    subdiv: ''
+    function: 1----6--
+    status: RL
+    date: '1201'
+    iata: ''
+    coordinates: '3503N 03315E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CY PLU'
+    name: 'Pyrgos Lemesou'
+    namewodiacritics: 'Pyrgos Lemesou'
+    subdiv: '02'
+    function: '--3-----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'CY NOU'
+    name: Tersefanou
+    namewodiacritics: Tersefanou
+    subdiv: '03'
+    function: 1-------
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'CY VAS'
+    name: Vasilikos
+    namewodiacritics: Vasilikos
+    subdiv: ''
+    function: 123-----
+    status: RL
+    date: '0307'
+    iata: ''
+    coordinates: '3443N 03319E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CY ZER'
+    name: Xeros
+    namewodiacritics: Xeros
+    subdiv: ''
+    function: 1-3-----
+    status: RL
+    date: '0307'
+    iata: ''
+    coordinates: '3508N 03250E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CY XLT'
+    name: Xylotymbou
+    namewodiacritics: Xylotymbou
+    subdiv: '03'
+    function: 1-------
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'CY YPS'
+    name: Ypsonas
+    namewodiacritics: Ypsonas
+    subdiv: '02'
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '3441N 03257E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CY ZYY'
+    name: Zyyi
+    namewodiacritics: Zyyi
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0701'
+    iata: ''
+    coordinates: '3444N 03320E'
+    remarks: ''

@@ -1,0 +1,588 @@
+-
+    ch: ¦
+    locode: 'ZM BMA'
+    name: 'Bwana Mkubwa'
+    namewodiacritics: 'Bwana Mkubwa'
+    subdiv: '08'
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '1302S 02842E'
+    remarks: '@Sta@Coo'
+-
+    ch: ''
+    locode: 'ZM CHA'
+    name: Chachacha
+    namewodiacritics: Chachacha
+    subdiv: ''
+    function: '----5---'
+    status: AI
+    date: '9709'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZM CHI'
+    name: Chililabombwe
+    namewodiacritics: Chililabombwe
+    subdiv: '08'
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '1222S 02750E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZM CGJ'
+    name: Chingola
+    namewodiacritics: Chingola
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZM CIP'
+    name: Chipata
+    namewodiacritics: Chipata
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZM CHO'
+    name: Choma
+    namewodiacritics: Choma
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '9901'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZM CHZ'
+    name: Chozi
+    namewodiacritics: Chozi
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0701'
+    iata: ''
+    coordinates: '0917S 03220E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZM QKE'
+    name: Kabwe
+    namewodiacritics: Kabwe
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZM KAF'
+    name: Kafue
+    namewodiacritics: Kafue
+    subdiv: ''
+    function: 0-------
+    status: RQ
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZM KLB'
+    name: Kalabo
+    namewodiacritics: Kalabo
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZM KAO'
+    name: Kalomo
+    namewodiacritics: Kalomo
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '9901'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZM KSH'
+    name: Kalulishi
+    namewodiacritics: Kalulishi
+    subdiv: '08'
+    function: '--3--6--'
+    status: RQ
+    date: '1001'
+    iata: ''
+    coordinates: '1250S 02805E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZM KNH'
+    name: Kansanshi
+    namewodiacritics: Kansanshi
+    subdiv: '06'
+    function: '--3-----'
+    status: RL
+    date: '1101'
+    iata: ''
+    coordinates: '1206S 02626E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZM KMZ'
+    name: Kaoma
+    namewodiacritics: Kaoma
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZM KAM'
+    name: 'Kapiri Mposhi'
+    namewodiacritics: 'Kapiri Mposhi'
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0201'
+    iata: ''
+    coordinates: '1358S 02840E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZM ZKB'
+    name: 'Kasaba Bay'
+    namewodiacritics: 'Kasaba Bay'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZM KAA'
+    name: Kasama
+    namewodiacritics: Kasama
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZM ZKP'
+    name: Kasompe
+    namewodiacritics: Kasompe
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZM KIW'
+    name: Kitwe
+    namewodiacritics: Kitwe
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZM LVI'
+    name: Livingstone
+    namewodiacritics: Livingstone
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZM LUA'
+    name: Luanshya
+    namewodiacritics: Luanshya
+    subdiv: ''
+    function: 0-------
+    status: RQ
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZM LXU'
+    name: Lukulu
+    namewodiacritics: Lukulu
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZM LUM'
+    name: Lumamba
+    namewodiacritics: Lumamba
+    subdiv: ''
+    function: '----5---'
+    status: AI
+    date: '9805'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZM LWA'
+    name: Lumwana
+    namewodiacritics: Lumwana
+    subdiv: '06'
+    function: '--3-----'
+    status: RL
+    date: '1101'
+    iata: ''
+    coordinates: '1150S 02508E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZM LUZ'
+    name: Lundazi
+    namewodiacritics: Lundazi
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '0607'
+    iata: ''
+    coordinates: '1217S 03310E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZM LUN'
+    name: Lusaka
+    namewodiacritics: Lusaka
+    subdiv: ''
+    function: '---45---'
+    status: AI
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZM MAK'
+    name: Makeni
+    namewodiacritics: Makeni
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '1107'
+    iata: ''
+    coordinates: '2415S 17250E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZM MAL'
+    name: Maluba
+    namewodiacritics: Maluba
+    subdiv: '05'
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '1105S 03158E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZM MNS'
+    name: Mansa
+    namewodiacritics: Mansa
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZM MRB'
+    name: Maramba
+    namewodiacritics: Maramba
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '9901'
+    iata: ''
+    coordinates: ''
+    remarks: 'CG? TZ?'
+-
+    ch: ''
+    locode: 'ZM MBK'
+    name: Mazabuka
+    namewodiacritics: Mazabuka
+    subdiv: ''
+    function: '-----6--'
+    status: RQ
+    date: '1001'
+    iata: ''
+    coordinates: '1552S 02746E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZM MMQ'
+    name: Mbala
+    namewodiacritics: Mbala
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZM MFU'
+    name: Mfuwe
+    namewodiacritics: Mfuwe
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZM MNR'
+    name: Mongu
+    namewodiacritics: Mongu
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZM MZE'
+    name: Monze
+    namewodiacritics: Monze
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '0607'
+    iata: ''
+    coordinates: '1616S 02729E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZM MPK'
+    name: Mpika
+    namewodiacritics: Mpika
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0701'
+    iata: ''
+    coordinates: '1150S 03127E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZM MPO'
+    name: Mpongwe
+    namewodiacritics: Mpongwe
+    subdiv: '08'
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '1332S 02809E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZM MPU'
+    name: Mpulungu
+    namewodiacritics: Mpulungu
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '0607'
+    iata: ''
+    coordinates: '0845S 03106E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZM MFR'
+    name: Mufulira
+    namewodiacritics: Mufulira
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0002'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZM MUT'
+    name: Mutasa
+    namewodiacritics: Mutasa
+    subdiv: '08'
+    function: '-----6--'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '1251S 02720E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZM NLA'
+    name: Ndola
+    namewodiacritics: Ndola
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZM ZGM'
+    name: Ngoma
+    namewodiacritics: Ngoma
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZM RGY'
+    name: Ridgeway
+    namewodiacritics: Ridgeway
+    subdiv: '09'
+    function: '--3-----'
+    status: RL
+    date: '1207'
+    iata: ''
+    coordinates: '1527S 02819E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZM SXG'
+    name: Senanga
+    namewodiacritics: Senanga
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZM SJQ'
+    name: Sesheke
+    namewodiacritics: Sesheke
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZM SIN'
+    name: Sinda
+    namewodiacritics: Sinda
+    subdiv: '03'
+    function: '-----6--'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '1414S 03145E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZM SLI'
+    name: Solwezi
+    namewodiacritics: Solwezi
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZM TDM'
+    name: Tunduma
+    namewodiacritics: Tunduma
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0701'
+    iata: ''
+    coordinates: '0918S 03246E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZM BBZ'
+    name: Zambezi
+    namewodiacritics: Zambezi
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''

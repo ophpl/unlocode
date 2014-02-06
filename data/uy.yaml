@@ -1,0 +1,648 @@
+-
+    ch: ''
+    locode: 'UY ABT'
+    name: Arbolito
+    namewodiacritics: Arbolito
+    subdiv: CL
+    function: '-----6--'
+    status: RQ
+    date: '1007'
+    iata: ''
+    coordinates: '3239S 05415W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'UY ATI'
+    name: Artigas
+    namewodiacritics: Artigas
+    subdiv: ''
+    function: '---4---B'
+    status: AF
+    date: '9701'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'UY BUV'
+    name: 'Bella Unión'
+    namewodiacritics: 'Bella Union'
+    subdiv: ''
+    function: '---4----'
+    status: AF
+    date: '0212'
+    iata: ''
+    coordinates: '3015S 05735W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'UY CAN'
+    name: Canelones
+    namewodiacritics: Canelones
+    subdiv: ''
+    function: 0-------
+    status: AF
+    date: '9701'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'UY CAR'
+    name: Carmelo
+    namewodiacritics: Carmelo
+    subdiv: ''
+    function: 1-------
+    status: AF
+    date: '9701'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'UY CHY'
+    name: Chuy
+    namewodiacritics: Chuy
+    subdiv: ''
+    function: '-------B'
+    status: AF
+    date: '9701'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'UY CYR'
+    name: Colonia
+    namewodiacritics: Colonia
+    subdiv: ''
+    function: 1--4----
+    status: AF
+    date: '9701'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'UY CDS'
+    name: 'Colonia del Sacramento'
+    namewodiacritics: 'Colonia del Sacramento'
+    subdiv: CO
+    function: '--3-----'
+    status: RL
+    date: '9805'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'UY CLZ'
+    name: 'Colonia Suiza'
+    namewodiacritics: 'Colonia Suiza'
+    subdiv: CO
+    function: '--3-----'
+    status: RL
+    date: '9805'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'UY CCL'
+    name: Conchillas
+    namewodiacritics: Conchillas
+    subdiv: CO
+    function: '--3-----'
+    status: RL
+    date: '1207'
+    iata: ''
+    coordinates: '3409S 05800W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'UY CPP'
+    name: 'Cuenca del Plata'
+    namewodiacritics: 'Cuenca del Plata'
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '1007'
+    iata: ''
+    coordinates: '1437S 04367W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'UY DOL'
+    name: Dolores
+    namewodiacritics: Dolores
+    subdiv: SO
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '3332S 05811W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'UY DZO'
+    name: Durazno
+    namewodiacritics: Durazno
+    subdiv: ''
+    function: 1--4----
+    status: AF
+    date: '9701'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'UY FDA'
+    name: Florida
+    namewodiacritics: Florida
+    subdiv: ''
+    function: 0-------
+    status: AF
+    date: '9701'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'UY FZB'
+    name: 'Fray Bentos'
+    namewodiacritics: 'Fray Bentos'
+    subdiv: ''
+    function: 1-------
+    status: AF
+    date: '9701'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'UY JCO'
+    name: Joanico
+    namewodiacritics: Joanico
+    subdiv: CA
+    function: '-----6--'
+    status: RQ
+    date: '1007'
+    iata: ''
+    coordinates: '3435S 05615W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'UY JIT'
+    name: 'Jose Ignacio Terminal'
+    namewodiacritics: 'Jose Ignacio Terminal'
+    subdiv: ''
+    function: 1-------
+    status: AF
+    date: '9701'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: +
+    locode: 'UY JLC'
+    name: 'Juan L. Lacaze'
+    namewodiacritics: 'Juan L. Lacaze'
+    subdiv: CO
+    function: 1-------
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '3426S 05727W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'UY LAP'
+    name: 'La Paloma/Rocha'
+    namewodiacritics: 'La Paloma/Rocha'
+    subdiv: ''
+    function: 1-------
+    status: AF
+    date: '9701'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'UY LPZ'
+    name: 'La Paz'
+    namewodiacritics: 'La Paz'
+    subdiv: ''
+    function: 0-------
+    status: AF
+    date: '9701'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'UY LAG'
+    name: Lagomar
+    namewodiacritics: Lagomar
+    subdiv: ''
+    function: 0-------
+    status: AF
+    date: '9701'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'UY LPS'
+    name: 'Las Piedras'
+    namewodiacritics: 'Las Piedras'
+    subdiv: ''
+    function: 0-------
+    status: AF
+    date: '9701'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'UY LIB'
+    name: Libertad
+    namewodiacritics: Libertad
+    subdiv: SJ
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '3438S 05637W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'UY MDO'
+    name: Maldonado
+    namewodiacritics: Maldonado
+    subdiv: ''
+    function: 0-------
+    status: AF
+    date: '9701'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'UY MLZ'
+    name: Melo
+    namewodiacritics: Melo
+    subdiv: ''
+    function: '---4----'
+    status: AF
+    date: '9701'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'UY MER'
+    name: Mercedes
+    namewodiacritics: Mercedes
+    subdiv: ''
+    function: 1-------
+    status: AF
+    date: '9701'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'UY MIN'
+    name: Minas
+    namewodiacritics: Minas
+    subdiv: ''
+    function: 0-------
+    status: AF
+    date: '9701'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'UY MVD'
+    name: Montevideo
+    namewodiacritics: Montevideo
+    subdiv: ''
+    function: 1--45---
+    status: AF
+    date: '9701'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'UY NVH'
+    name: 'Nueva Helvecia'
+    namewodiacritics: 'Nueva Helvecia'
+    subdiv: CO
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '3418S 05714W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'UY NVP'
+    name: 'Nueva Palmira'
+    namewodiacritics: 'Nueva Palmira'
+    subdiv: ''
+    function: 1-------
+    status: AF
+    date: '9701'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'UY NVN'
+    name: 'Nuevo Berlin'
+    namewodiacritics: 'Nuevo Berlin'
+    subdiv: RN
+    function: '-----6--'
+    status: RL
+    date: '1201'
+    iata: ''
+    coordinates: '3259S 05803W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'UY OMB'
+    name: 'Ombúes de Lavalle'
+    namewodiacritics: 'Ombues de Lavalle'
+    subdiv: CO
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '3355S 05747W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'UY PDO'
+    name: Pando
+    namewodiacritics: Pando
+    subdiv: ''
+    function: 0-------
+    status: AF
+    date: '9701'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'UY PDU'
+    name: Paysandu
+    namewodiacritics: Paysandu
+    subdiv: ''
+    function: 1--4----
+    status: AF
+    date: '9701'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: +
+    locode: 'UY PIR'
+    name: Piriápolis
+    namewodiacritics: Piriapolis
+    subdiv: MA
+    function: 1-------
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '3452S 05516W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'UY PRB'
+    name: 'Poblado Rincón de la Bolsa'
+    namewodiacritics: 'Poblado Rincon de la Bolsa'
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0601'
+    iata: ''
+    coordinates: '3149S 05555W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'UY PCA'
+    name: 'Punta Carretas'
+    namewodiacritics: 'Punta Carretas'
+    subdiv: MO
+    function: '--3-----'
+    status: RL
+    date: '1101'
+    iata: ''
+    coordinates: '3455S 05609W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'UY PDP'
+    name: 'Punta del Este'
+    namewodiacritics: 'Punta del Este'
+    subdiv: ''
+    function: 1--4----
+    status: AF
+    date: '9701'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'UY PTP'
+    name: 'Punta Pereyra'
+    namewodiacritics: 'Punta Pereyra'
+    subdiv: CO
+    function: '--3-----'
+    status: RQ
+    date: '1301'
+    iata: ''
+    coordinates: '3414S 05804W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'UY RBR'
+    name: 'Rio Branco'
+    namewodiacritics: 'Rio Branco'
+    subdiv: ''
+    function: '-2------'
+    status: RQ
+    date: '1001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'UY RVY'
+    name: Rivera
+    namewodiacritics: Rivera
+    subdiv: ''
+    function: '---4---B'
+    status: AF
+    date: '9701'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'UY RCH'
+    name: Rocha
+    namewodiacritics: Rocha
+    subdiv: ''
+    function: 0-------
+    status: AF
+    date: '9701'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'UY ROS'
+    name: Rosario
+    namewodiacritics: Rosario
+    subdiv: CO
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '3419S 05721W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'UY STY'
+    name: Salto
+    namewodiacritics: Salto
+    subdiv: ''
+    function: 1--4----
+    status: AF
+    date: '9701'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'UY SJS'
+    name: 'San José'
+    namewodiacritics: 'San Jose'
+    subdiv: ''
+    function: 0-------
+    status: AF
+    date: '9701'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'UY SJC'
+    name: 'San José de Carrasco'
+    namewodiacritics: 'San Jose de Carrasco'
+    subdiv: ''
+    function: 0-------
+    status: AF
+    date: '9701'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'UY SYM'
+    name: Solymar
+    namewodiacritics: Solymar
+    subdiv: ''
+    function: 0-------
+    status: AF
+    date: '9701'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'UY TAW'
+    name: Tacuarembo
+    namewodiacritics: Tacuarembo
+    subdiv: ''
+    function: '---4----'
+    status: AF
+    date: '9701'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'UY TYT'
+    name: 'Treinta y Tres'
+    namewodiacritics: 'Treinta y Tres'
+    subdiv: ''
+    function: '---4----'
+    status: AF
+    date: '9701'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'UY TRI'
+    name: Trinidad
+    namewodiacritics: Trinidad
+    subdiv: ''
+    function: 0-------
+    status: AF
+    date: '9701'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'UY VCH'
+    name: Vichadero
+    namewodiacritics: Vichadero
+    subdiv: ''
+    function: '---4----'
+    status: AF
+    date: '9701'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'UY ZFL'
+    name: 'Zona Franca Florida'
+    namewodiacritics: 'Zona Franca Florida'
+    subdiv: FD
+    function: '--3-----'
+    status: RQ
+    date: '1301'
+    iata: ''
+    coordinates: '3411S 05623W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'UY ZLI'
+    name: 'Zona Franca Libertad'
+    namewodiacritics: 'Zona Franca Libertad'
+    subdiv: SJ
+    function: '--3-----'
+    status: RQ
+    date: '1301'
+    iata: ''
+    coordinates: '3438S 05637W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'UY ZFM'
+    name: 'Zona Franca Montevideo'
+    namewodiacritics: 'Zona Franca Montevideo'
+    subdiv: MO
+    function: '--3-----'
+    status: RQ
+    date: '1301'
+    iata: ''
+    coordinates: '3451S 05607W'
+    remarks: Zonamérica

@@ -1,0 +1,2556 @@
+-
+    ch: ''
+    locode: 'VN AGG'
+    name: 'An Giang'
+    namewodiacritics: 'An Giang'
+    subdiv: '44'
+    function: '--3-----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'VN OTW'
+    name: 'B12 Oil Terminal'
+    namewodiacritics: 'B12 Oil Terminal'
+    subdiv: '13'
+    function: 1-------
+    status: RQ
+    date: '1101'
+    iata: ''
+    coordinates: '2057N 10303E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'VN BNO'
+    name: 'Ba Ngoi'
+    namewodiacritics: 'Ba Ngoi'
+    subdiv: '34'
+    function: 1-3-----
+    status: RQ
+    date: '1101'
+    iata: ''
+    coordinates: '1154N 10909E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'VN BGG'
+    name: 'Bac Giang'
+    namewodiacritics: 'Bac Giang'
+    subdiv: '54'
+    function: '--3-----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'VN BLU'
+    name: 'Bac Lieu'
+    namewodiacritics: 'Bac Lieu'
+    subdiv: '55'
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '0917N 10543E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'VN BNH'
+    name: 'Bac Ninh'
+    namewodiacritics: 'Bac Ninh'
+    subdiv: '56'
+    function: '--3-----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'VN BHO'
+    name: 'Bach Ho'
+    namewodiacritics: 'Bach Ho'
+    subdiv: '40'
+    function: 1-------
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '0950N 10800E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'VN BMV'
+    name: Banmethuot
+    namewodiacritics: Banmethuot
+    subdiv: ''
+    function: '---4----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '1240N 10806E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'VN BAO'
+    name: 'Bao Loc'
+    namewodiacritics: 'Bao Loc'
+    subdiv: '35'
+    function: 1-------
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'VN BCT'
+    name: 'Ben Cát'
+    namewodiacritics: 'Ben Cat'
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '1207'
+    iata: ''
+    coordinates: '1109N 10636E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'VN BCD'
+    name: 'Ben Dam Con Dao Terminals'
+    namewodiacritics: 'Ben Dam Con Dao Terminals'
+    subdiv: '43'
+    function: 1-------
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '0839N 10633E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'VN BNE'
+    name: 'Bèn Nghè'
+    namewodiacritics: 'Ben Nghe'
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0401'
+    iata: ''
+    coordinates: '1916N 10536E'
+    remarks: ''
+-
+    ch: ¦
+    locode: 'VN BNG'
+    name: 'Bèn Nghè'
+    namewodiacritics: 'Ben Nghe'
+    subdiv: SG
+    function: 1-3-----
+    status: RQ
+    date: '1307'
+    iata: ''
+    coordinates: '1045N 10644E'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'VN BEN'
+    name: Benthuy
+    namewodiacritics: Benthuy
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'VN BHA'
+    name: 'Biên Hòa'
+    namewodiacritics: 'Bien Hoa'
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0201'
+    iata: ''
+    coordinates: '1058N 10650E'
+    remarks: ''
+-
+    ch: ¦
+    locode: 'VN BCH'
+    name: 'Bình Chánh'
+    namewodiacritics: 'Binh Chanh'
+    subdiv: SG
+    function: '-----6--'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '1040N 10634E'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'VN BDH'
+    name: 'Binh Dinh'
+    namewodiacritics: 'Binh Dinh'
+    subdiv: '31'
+    function: '--3-----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'VN BDU'
+    name: 'Binh Duong'
+    namewodiacritics: 'Binh Duong'
+    subdiv: '27'
+    function: 1-3-----
+    status: RL
+    date: '0701'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'VN BDG'
+    name: 'Binh Duong Terminal'
+    namewodiacritics: 'Binh Duong Terminal'
+    subdiv: '39'
+    function: 1-3-----
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '1054N 10650E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'VN BIH'
+    name: 'Bình Hòa'
+    namewodiacritics: 'Binh Hoa'
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0201'
+    iata: ''
+    coordinates: '1056N 10643E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'VN BLG'
+    name: 'Binh Long Port'
+    namewodiacritics: 'Binh Long Port'
+    subdiv: '44'
+    function: 1-------
+    status: RL
+    date: '1107'
+    iata: ''
+    coordinates: '1034N 10515E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'VN BMH'
+    name: 'Binh Minh'
+    namewodiacritics: 'Binh Minh'
+    subdiv: ''
+    function: 1-3-----
+    status: RQ
+    date: '1007'
+    iata: ''
+    coordinates: '1020N 10549E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'VN BTH'
+    name: 'Binh Thanh'
+    namewodiacritics: 'Binh Thanh'
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '1207'
+    iata: ''
+    coordinates: '1046N 10645E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'VN BTN'
+    name: 'Binh Thuan'
+    namewodiacritics: 'Binh Thuan'
+    subdiv: '40'
+    function: '--3-----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'VN BSE'
+    name: 'Bông Sen'
+    namewodiacritics: 'Bong Sen'
+    subdiv: ''
+    function: 1-3-----
+    status: RQ
+    date: '0401'
+    iata: ''
+    coordinates: '1041N 10646E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'VN HNH'
+    name: 'Bong Son'
+    namewodiacritics: 'Bong Son'
+    subdiv: ''
+    function: 1-------
+    status: RL
+    date: '0212'
+    iata: ''
+    coordinates: '1426N 10901E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'VN THQ'
+    name: 'Buon Ma Thuot'
+    namewodiacritics: 'Buon Ma Thuot'
+    subdiv: '33'
+    function: '-----6--'
+    status: RQ
+    date: '1001'
+    iata: ''
+    coordinates: '1240N 10803E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'VN CAH'
+    name: 'Ca Mau'
+    namewodiacritics: 'Ca Mau'
+    subdiv: ''
+    function: '---4----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '0910N 10509E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'VN CCU'
+    name: 'Cai Cui Port'
+    namewodiacritics: 'Cai Cui Port'
+    subdiv: '48'
+    function: 1-3-----
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '0959N 10630E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'VN CLN'
+    name: 'Cai Lan'
+    namewodiacritics: 'Cai Lan'
+    subdiv: '13'
+    function: 1-3-----
+    status: RL
+    date: '1101'
+    iata: ''
+    coordinates: '2125N 10703E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'VN CMT'
+    name: 'Cai Mep International Terminal'
+    namewodiacritics: 'Cai Mep International Terminal'
+    subdiv: '43'
+    function: 1-3-----
+    status: AA
+    date: '1207'
+    iata: ''
+    coordinates: '1031N 10700E'
+    remarks: ''
+-
+    ch: +
+    locode: 'VN CKH'
+    name: 'Cam Khê'
+    namewodiacritics: 'Cam Khe'
+    subdiv: '70'
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '2126N 10507E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'VN BAN'
+    name: 'Cam Lâm'
+    namewodiacritics: 'Cam Lam'
+    subdiv: '34'
+    function: 123-----
+    status: RL
+    date: '0401'
+    iata: ''
+    coordinates: '1154N 10909E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'VN CPH'
+    name: 'Cam Pha'
+    namewodiacritics: 'Cam Pha'
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'VN CRB'
+    name: Camranh
+    namewodiacritics: Camranh
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ¦
+    locode: 'VN VCA'
+    name: 'Can Tho'
+    namewodiacritics: 'Can Tho'
+    subdiv: CT
+    function: 1-34----
+    status: AI
+    date: '1307'
+    iata: ''
+    coordinates: '1002N 10547E'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'VN CBG'
+    name: 'Cao Bang'
+    namewodiacritics: 'Cao Bang'
+    subdiv: '04'
+    function: '--3-----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'VN CSJ'
+    name: 'Cape Saint Jacques'
+    namewodiacritics: 'Cape Saint Jacques'
+    subdiv: ''
+    function: '---4----'
+    status: RQ
+    date: '1101'
+    iata: ''
+    coordinates: '1021N 10704E'
+    remarks: ''
+-
+    ch: ¦
+    locode: 'VN CLI'
+    name: 'Cát Lái'
+    namewodiacritics: 'Cat Lai'
+    subdiv: SG
+    function: 1-3-----
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '1046N 10647E'
+    remarks: '@Sub'
+-
+    ch: ¦
+    locode: 'VN OCL'
+    name: 'Cat Lai Oil Port'
+    namewodiacritics: 'Cat Lai Oil Port'
+    subdiv: SG
+    function: 1-3-----
+    status: RQ
+    date: '1307'
+    iata: ''
+    coordinates: '1044N 10646E'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'VN CMY'
+    name: 'Chan May Port'
+    namewodiacritics: 'Chan May Port'
+    subdiv: '26'
+    function: 1-3-----
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '1620N 10800E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'VN CTN'
+    name: 'Chau Thanh'
+    namewodiacritics: 'Chau Thanh'
+    subdiv: '31'
+    function: '--3-----'
+    status: RL
+    date: '1207'
+    iata: ''
+    coordinates: '1357N 10905E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'VN CLH'
+    name: 'Chi Linh'
+    namewodiacritics: 'Chi Linh'
+    subdiv: '61'
+    function: '--3-----'
+    status: RL
+    date: '1101'
+    iata: ''
+    coordinates: '2140N 10619E'
+    remarks: ''
+-
+    ch: ¦
+    locode: 'VN CVE'
+    name: 'Chua Ve Terminal'
+    namewodiacritics: 'Chua Ve Terminal'
+    subdiv: HP
+    function: 1-3-----
+    status: RQ
+    date: '1307'
+    iata: ''
+    coordinates: '2052N 10642E'
+    remarks: '@Sub'
+-
+    ch: ¦
+    locode: 'VN CCA'
+    name: 'Cua Cam Terminal'
+    namewodiacritics: 'Cua Cam Terminal'
+    subdiv: HP
+    function: 1-3-----
+    status: RQ
+    date: '1307'
+    iata: ''
+    coordinates: '2052N 10641E'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'VN CUV'
+    name: 'Cua Viet Port'
+    namewodiacritics: 'Cua Viet Port'
+    subdiv: '25'
+    function: 1-3-----
+    status: RQ
+    date: '0401'
+    iata: ''
+    coordinates: '1654N 10710E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'VN CLO'
+    name: Culao
+    namewodiacritics: Culao
+    subdiv: ''
+    function: 1-3-----
+    status: RL
+    date: '0401'
+    iata: ''
+    coordinates: '1848N 10542E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'VN DAD'
+    name: 'Da Nang'
+    namewodiacritics: 'Da Nang'
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'VN DLI'
+    name: Dalat
+    namewodiacritics: Dalat
+    subdiv: ''
+    function: '---4----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '1156N 10825E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'VN DMO'
+    name: 'Dam Mon'
+    namewodiacritics: 'Dam Mon'
+    subdiv: '34'
+    function: 1-------
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '1240N 10924E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'VN DI2'
+    name: 'Di An'
+    namewodiacritics: 'Di An'
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '1207'
+    iata: ''
+    coordinates: '1054N 10645E'
+    remarks: ''
+-
+    ch: ¦
+    locode: 'VN DVU'
+    name: 'Dinh Vu Terminal'
+    namewodiacritics: 'Dinh Vu Terminal'
+    subdiv: HP
+    function: 1-3-----
+    status: RQ
+    date: '1307'
+    iata: ''
+    coordinates: '2054N 10646E'
+    remarks: '@Sub'
+-
+    ch: ¦
+    locode: 'VN DXA'
+    name: 'Doan Xa Terminal'
+    namewodiacritics: 'Doan Xa Terminal'
+    subdiv: HP
+    function: 1-3-----
+    status: RQ
+    date: '1307'
+    iata: ''
+    coordinates: '2052N 10641E'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'VN DGD'
+    name: 'Dong Da'
+    namewodiacritics: 'Dong Da'
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '1207'
+    iata: ''
+    coordinates: '2238N 10624E'
+    remarks: ''
+-
+    ch: +
+    locode: 'VN DN3'
+    name: 'Dông Hài'
+    namewodiacritics: 'Dong Hai'
+    subdiv: '23'
+    function: 1-3-----
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '1810N 10617E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'VN DOH'
+    name: 'Dong Hoi'
+    namewodiacritics: 'Dong Hoi'
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'VN DNA'
+    name: 'Dong Nai'
+    namewodiacritics: 'Dong Nai'
+    subdiv: ''
+    function: 1-3-----
+    status: RL
+    date: '0401'
+    iata: ''
+    coordinates: '1805N 10619E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'VN DGS'
+    name: 'Dong Son'
+    namewodiacritics: 'Dong Son'
+    subdiv: '46'
+    function: '--3-----'
+    status: RL
+    date: '1207'
+    iata: ''
+    coordinates: '1024N 10634E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'VN DTH'
+    name: 'Dong Thap'
+    namewodiacritics: 'Dong Thap'
+    subdiv: ''
+    function: 1-3-----
+    status: RQ
+    date: '0401'
+    iata: ''
+    coordinates: '1029N 10534E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'VN DQT'
+    name: 'Dung Quat'
+    namewodiacritics: 'Dung Quat'
+    subdiv: '29'
+    function: 1-34-6--
+    status: RL
+    date: '0701'
+    iata: VCL
+    coordinates: '1524N 10842E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'VN GLI'
+    name: 'Gia Lai'
+    namewodiacritics: 'Gia Lai'
+    subdiv: '30'
+    function: '--3-----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'VN GIL'
+    name: 'Gia Lam'
+    namewodiacritics: 'Gia Lam'
+    subdiv: ''
+    function: '--3--6--'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '2104N 10589E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'VN GDA'
+    name: 'Go Dau A Terminal'
+    namewodiacritics: 'Go Dau A Terminal'
+    subdiv: '39'
+    function: 1-3-----
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '1039N 10701E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'VN GDB'
+    name: 'Go Dau B Terminal'
+    namewodiacritics: 'Go Dau B Terminal'
+    subdiv: '39'
+    function: 1-3-----
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '1037N 10701E'
+    remarks: ''
+-
+    ch: +
+    locode: 'VN HAG'
+    name: 'Hà Giang'
+    namewodiacritics: 'Ha Giang'
+    subdiv: '03'
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '2250N 10459E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'VN HLG'
+    name: 'Ha Long'
+    namewodiacritics: 'Ha Long'
+    subdiv: '13'
+    function: '--3-----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '2057N 10704E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'VN HTY'
+    name: 'Ha Tay'
+    namewodiacritics: 'Ha Tay'
+    subdiv: '15'
+    function: '--3-----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'VN HAT'
+    name: 'Ha Tinh'
+    namewodiacritics: 'Ha Tinh'
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'VN HDG'
+    name: 'Hai Duong'
+    namewodiacritics: 'Hai Duong'
+    subdiv: '61'
+    function: 1-3-----
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ¦
+    locode: 'VN HAP'
+    name: 'Hai Phong'
+    namewodiacritics: 'Hai Phong'
+    subdiv: HP
+    function: 1-3-----
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '2052N 10640E'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'VN HSN'
+    name: 'Hai Son'
+    namewodiacritics: 'Hai Son'
+    subdiv: DN
+    function: 1-3-----
+    status: RQ
+    date: '0401'
+    iata: ''
+    coordinates: '1606N 10814E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'VN HPH'
+    name: Haiphong
+    namewodiacritics: Haiphong
+    subdiv: ''
+    function: 1-------
+    status: AI
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'VN HAN'
+    name: Hanoi
+    namewodiacritics: Hanoi
+    subdiv: ''
+    function: 1--45---
+    status: AI
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'VN HGG'
+    name: 'Hau Giang'
+    namewodiacritics: 'Hau Giang'
+    subdiv: '73'
+    function: '--3-----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ¦
+    locode: 'VN SPC'
+    name: 'Hiep Phuoc Port'
+    namewodiacritics: 'Hiep Phuoc Port'
+    subdiv: SG
+    function: 1-3-----
+    status: RQ
+    date: '1307'
+    iata: ''
+    coordinates: '1038N 10645E'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'VN HTH'
+    name: 'Hiep Thanh'
+    namewodiacritics: 'Hiep Thanh'
+    subdiv: '36'
+    function: '-----6--'
+    status: RL
+    date: '1201'
+    iata: ''
+    coordinates: '1150N 10906E'
+    remarks: ''
+-
+    ch: ¦
+    locode: 'VN SGN'
+    name: 'Ho Chi Minh City'
+    namewodiacritics: 'Ho Chi Minh City'
+    subdiv: SG
+    function: 1-3456--
+    status: AI
+    date: '1307'
+    iata: ''
+    coordinates: '1046N 10640E'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'VN VIC'
+    name: 'Ho Chi Minh, VICT'
+    namewodiacritics: 'Ho Chi Minh, VICT'
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '0212'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'VN HLC'
+    name: 'Hoa Lac'
+    namewodiacritics: 'Hoa Lac'
+    subdiv: '70'
+    function: '-----6--'
+    status: RL
+    date: '1107'
+    iata: ''
+    coordinates: '2115N 10528E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'VN HMC'
+    name: 'Hoa Mac'
+    namewodiacritics: 'Hoa Mac'
+    subdiv: '63'
+    function: '-23-----'
+    status: RL
+    date: '1207'
+    iata: ''
+    coordinates: '2038N 10600E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'VN HVG'
+    name: 'Hoa Vang'
+    namewodiacritics: 'Hoa Vang'
+    subdiv: ''
+    function: '-----6--'
+    status: RL
+    date: '1107'
+    iata: ''
+    coordinates: '1601N 10813E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'VN HAA'
+    name: 'Hoai An'
+    namewodiacritics: 'Hoai An'
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'VN HIA'
+    name: 'Hoi An'
+    namewodiacritics: 'Hoi An'
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'VN HCH'
+    name: 'Hon Chong'
+    namewodiacritics: 'Hon Chong'
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'VN HON'
+    name: Hongai
+    namewodiacritics: Hongai
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'VN HUI'
+    name: Hue
+    namewodiacritics: Hue
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'VN HYN'
+    name: 'Hung Yen'
+    namewodiacritics: 'Hung Yen'
+    subdiv: '66'
+    function: 1-3-----
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'VN PLG'
+    name: 'ICD Phuc Long'
+    namewodiacritics: 'ICD Phuc Long'
+    subdiv: '22'
+    function: '--3-----'
+    status: RL
+    date: '1207'
+    iata: ''
+    coordinates: '1841N 10539E'
+    remarks: ''
+-
+    ch: ¦
+    locode: 'VN STR'
+    name: 'ICD Sotrans'
+    namewodiacritics: 'ICD Sotrans'
+    subdiv: SG
+    function: 1-3--6--
+    status: RQ
+    date: '1307'
+    iata: ''
+    coordinates: '1049N 10645E'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'VN KHA'
+    name: 'Khanh Hoa'
+    namewodiacritics: 'Khanh Hoa'
+    subdiv: '34'
+    function: '--3-----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ¦
+    locode: 'VN KHI'
+    name: 'Khánh Hôi'
+    namewodiacritics: 'Khanh Hoi'
+    subdiv: SG
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '1045N 10642E'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'VN KHU'
+    name: 'Khonh Hung'
+    namewodiacritics: 'Khonh Hung'
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'VN KDN'
+    name: 'Kim Dong'
+    namewodiacritics: 'Kim Dong'
+    subdiv: '21'
+    function: '-----6--'
+    status: RL
+    date: '1201'
+    iata: ''
+    coordinates: '1928N 10538E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'VN KON'
+    name: 'Kon Tum'
+    namewodiacritics: 'Kon Tum'
+    subdiv: '28'
+    function: '---4----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'VN KYQ'
+    name: 'Ky Ha Quang Nam Terminal'
+    namewodiacritics: 'Ky Ha Quang Nam Terminal'
+    subdiv: '27'
+    function: 1-3-----
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '1528N 10841E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'VN KYH'
+    name: 'Ky Ha Terminal'
+    namewodiacritics: 'Ky Ha Terminal'
+    subdiv: '27'
+    function: 1-3-----
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '1529N 10841E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'VN LDG'
+    name: 'Lam Dong'
+    namewodiacritics: 'Lam Dong'
+    subdiv: '35'
+    function: '--3-----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'VN LAM'
+    name: 'Lam Thao'
+    namewodiacritics: 'Lam Thao'
+    subdiv: '23'
+    function: '--3-----'
+    status: RL
+    date: '1101'
+    iata: ''
+    coordinates: '1823N 10534E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'VN LGS'
+    name: 'Lang Son'
+    namewodiacritics: 'Lang Son'
+    subdiv: '14'
+    function: '--3-----'
+    status: RL
+    date: '1101'
+    iata: ''
+    coordinates: '2029N 10514E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'VN LCA'
+    name: 'Lao Cai'
+    namewodiacritics: 'Lao Cai'
+    subdiv: '02'
+    function: '--3-----'
+    status: RL
+    date: '1101'
+    iata: ''
+    coordinates: '2229N 10357E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'VN LNH'
+    name: 'Loc Ninh'
+    namewodiacritics: 'Loc Ninh'
+    subdiv: '37'
+    function: '-----6--'
+    status: RL
+    date: '1201'
+    iata: ''
+    coordinates: '1151N 10636E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'VN LAN'
+    name: 'Long An-Ben Luc'
+    namewodiacritics: 'Long An-Ben Luc'
+    subdiv: '41'
+    function: '--3-----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'VN LBN'
+    name: 'Long Binh'
+    namewodiacritics: 'Long Binh'
+    subdiv: ''
+    function: 1-3-----
+    status: RQ
+    date: '1001'
+    iata: ''
+    coordinates: '1115N 10690E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'VN LBT'
+    name: 'Long Binh Tan'
+    namewodiacritics: 'Long Binh Tan'
+    subdiv: '39'
+    function: 1-3-----
+    status: RL
+    date: '0401'
+    iata: ''
+    coordinates: '1056N 10650E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'VN LTH'
+    name: 'Long Thanh'
+    namewodiacritics: 'Long Thanh'
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '1001'
+    iata: ''
+    coordinates: '1047N 10657E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'VN XLO'
+    name: 'Long Xuyen'
+    namewodiacritics: 'Long Xuyen'
+    subdiv: ''
+    function: '---4----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '1019N 10528E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'VN LGT'
+    name: 'Luong Tai'
+    namewodiacritics: 'Luong Tai'
+    subdiv: ''
+    function: '-----6--'
+    status: RL
+    date: '1201'
+    iata: ''
+    coordinates: '2058N 10608E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'VN MOC'
+    name: 'Mong Cai'
+    namewodiacritics: 'Mong Cai'
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'VN MUT'
+    name: 'My Tho'
+    namewodiacritics: 'My Tho'
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'VN MTH'
+    name: 'My Thoi'
+    namewodiacritics: 'My Thoi'
+    subdiv: '53'
+    function: 1-3-----
+    status: RQ
+    date: '0401'
+    iata: ''
+    coordinates: '1021N 10621E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'VN NMD'
+    name: 'Nam Dinh'
+    namewodiacritics: 'Nam Dinh'
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'VN NAN'
+    name: 'Nghe An'
+    namewodiacritics: 'Nghe An'
+    subdiv: '22'
+    function: '--3-----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'VN NGT'
+    name: 'Nghe Tinh'
+    namewodiacritics: 'Nghe Tinh'
+    subdiv: ''
+    function: 1-3-----
+    status: RL
+    date: '0401'
+    iata: ''
+    coordinates: '2024N 10609E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'VN NGH'
+    name: 'Nghi Son'
+    namewodiacritics: 'Nghi Son'
+    subdiv: ''
+    function: 1-3-----
+    status: RL
+    date: '0212'
+    iata: ''
+    coordinates: '1920N 10550E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'VN NVT'
+    name: 'Nguyen Van Troi Port'
+    namewodiacritics: 'Nguyen Van Troi Port'
+    subdiv: DN
+    function: 1-3-----
+    status: RQ
+    date: '0401'
+    iata: ''
+    coordinates: '1603N 10813E'
+    remarks: ''
+-
+    ch: ¦
+    locode: 'VN ONB'
+    name: 'Nha Be Oil Port'
+    namewodiacritics: 'Nha Be Oil Port'
+    subdiv: SG
+    function: 1-3-----
+    status: RQ
+    date: '1307'
+    iata: ''
+    coordinates: '1042N 10644E'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'VN NHA'
+    name: 'Nha Trang'
+    namewodiacritics: 'Nha Trang'
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'VN NBH'
+    name: 'Ninh Binh'
+    namewodiacritics: 'Ninh Binh'
+    subdiv: '18'
+    function: '--3-----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'VN NTN'
+    name: 'Ninh Thuan'
+    namewodiacritics: 'Ninh Thuan'
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'VN PHA'
+    name: 'Phan Rang'
+    namewodiacritics: 'Phan Rang'
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'VN PHH'
+    name: 'Phan Thiet'
+    namewodiacritics: 'Phan Thiet'
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'VN PHB'
+    name: 'Phú Bai'
+    namewodiacritics: 'Phu Bai'
+    subdiv: '26'
+    function: 1-3-----
+    status: RQ
+    date: '1001'
+    iata: ''
+    coordinates: '1622N 10744E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'VN PGO'
+    name: 'Phu Giáo'
+    namewodiacritics: 'Phu Giao'
+    subdiv: '57'
+    function: '-----6--'
+    status: RL
+    date: '1201'
+    iata: ''
+    coordinates: '1113N 10644E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'VN PLY'
+    name: 'Phu Lý'
+    namewodiacritics: 'Phu Ly'
+    subdiv: '63'
+    function: '-23-----'
+    status: RL
+    date: '1207'
+    iata: ''
+    coordinates: '2032N 10554E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'VN PHU'
+    name: 'Phu My'
+    namewodiacritics: 'Phu My'
+    subdiv: ''
+    function: 1-------
+    status: RL
+    date: '9901'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ¦
+    locode: 'VN PHN'
+    name: 'Phú Nhuan'
+    namewodiacritics: 'Phu Nhuan'
+    subdiv: SG
+    function: '-----6--'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '1047N 10640E'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'VN PQC'
+    name: 'Phu Quoc'
+    namewodiacritics: 'Phu Quoc'
+    subdiv: ''
+    function: '---4----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '1013N 10358E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'VN PHT'
+    name: 'Phu Tho'
+    namewodiacritics: 'Phu Tho'
+    subdiv: '68'
+    function: '--3-----'
+    status: RL
+    date: '1207'
+    iata: ''
+    coordinates: '2120N 10510E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'VN PYN'
+    name: 'Phu Yen'
+    namewodiacritics: 'Phu Yen'
+    subdiv: '32'
+    function: '--3-----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'VN HBN'
+    name: Phu-bon
+    namewodiacritics: Phu-bon
+    subdiv: ''
+    function: '---4----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '1200N 10600E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'VN PHG'
+    name: 'Phuóc Long'
+    namewodiacritics: 'Phuoc Long'
+    subdiv: ''
+    function: 1-3-----
+    status: RL
+    date: '0407'
+    iata: VSO
+    coordinates: '1043N 10657E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'VN IPH'
+    name: 'Phuoc Long ICD'
+    namewodiacritics: 'Phuoc Long ICD'
+    subdiv: ''
+    function: 1-3-----
+    status: RL
+    date: '0501'
+    iata: ''
+    coordinates: '1042N 10657E'
+    remarks: ICD
+-
+    ch: ''
+    locode: 'VN PHL'
+    name: 'Phuoe Le'
+    namewodiacritics: 'Phuoe Le'
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'VN KUG'
+    name: Pleiku
+    namewodiacritics: Pleiku
+    subdiv: '30'
+    function: '-----6--'
+    status: RQ
+    date: '1001'
+    iata: ''
+    coordinates: '1359N 10800E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'VN PXU'
+    name: Pleiku
+    namewodiacritics: Pleiku
+    subdiv: '28'
+    function: '--34----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '1400N 10801E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'VN PNG'
+    name: 'Po Hang'
+    namewodiacritics: 'Po Hang'
+    subdiv: '26'
+    function: '-----6--'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'VN HHO'
+    name: Quanduc
+    namewodiacritics: Quanduc
+    subdiv: ''
+    function: '---4----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'VN QBH'
+    name: 'Quäng Bình'
+    namewodiacritics: 'Quang Binh'
+    subdiv: '24'
+    function: 1-3-----
+    status: RL
+    date: '0401'
+    iata: ''
+    coordinates: '1730N 10620E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'VN QUL'
+    name: 'Quang Long'
+    namewodiacritics: 'Quang Long'
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'VN QNM'
+    name: 'Quang Nam'
+    namewodiacritics: 'Quang Nam'
+    subdiv: '27'
+    function: '--3-----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'VN XNG'
+    name: 'Quang Ngai'
+    namewodiacritics: 'Quang Ngai'
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'VN QNH'
+    name: 'Quang Ninh'
+    namewodiacritics: 'Quang Ninh'
+    subdiv: '13'
+    function: 1-3-----
+    status: RQ
+    date: '0401'
+    iata: ''
+    coordinates: '1724N 10638E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'VN QUT'
+    name: 'Quang Tri'
+    namewodiacritics: 'Quang Tri'
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'VN QUG'
+    name: 'Quê Duong'
+    namewodiacritics: 'Que Duong'
+    subdiv: '56'
+    function: '--3-----'
+    status: RL
+    date: '0701'
+    iata: ''
+    coordinates: '2109N 10610E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'VN UIH'
+    name: 'Qui Nhon'
+    namewodiacritics: 'Qui Nhon'
+    subdiv: '31'
+    function: 1-34----
+    status: AI
+    date: '1301'
+    iata: ''
+    coordinates: '1346N 10913E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'VN VKG'
+    name: 'Rach Gia'
+    namewodiacritics: 'Rach Gia'
+    subdiv: ''
+    function: '---4----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'VN RDG'
+    name: 'Rang Dong'
+    namewodiacritics: 'Rang Dong'
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '0401'
+    iata: ''
+    coordinates: '1000N 10820E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'VN RQU'
+    name: 'Rao Qua'
+    namewodiacritics: 'Rao Qua'
+    subdiv: ''
+    function: 1-3-----
+    status: RL
+    date: '0401'
+    iata: ''
+    coordinates: '1827N 10519E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'VN RBE'
+    name: 'Red Beach'
+    namewodiacritics: 'Red Beach'
+    subdiv: ''
+    function: 0-------
+    status: RQ
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'VN RUB'
+    name: Ruby
+    namewodiacritics: Ruby
+    subdiv: ''
+    function: '------7-'
+    status: RQ
+    date: '0907'
+    iata: ''
+    coordinates: '1023N 10830E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'VN SAD'
+    name: 'Sa Déc'
+    namewodiacritics: 'Sa Dec'
+    subdiv: '45'
+    function: 1-3-----
+    status: RL
+    date: '0401'
+    iata: ''
+    coordinates: '1018N 10546E'
+    remarks: ''
+-
+    ch: ¦
+    locode: 'VN CSG'
+    name: 'Sai Gon Port'
+    namewodiacritics: 'Sai Gon Port'
+    subdiv: SG
+    function: 1-3-----
+    status: RQ
+    date: '1307'
+    iata: ''
+    coordinates: '1050N 10645E'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'VN SIT'
+    name: 'Saigon ITV/Phu My'
+    namewodiacritics: 'Saigon ITV/Phu My'
+    subdiv: '43'
+    function: 1-3-----
+    status: RQ
+    date: '1101'
+    iata: ''
+    coordinates: '1036N 10701E'
+    remarks: ''
+-
+    ch: ¦
+    locode: 'VN OSP'
+    name: 'Saigon Petro Oil Terminal'
+    namewodiacritics: 'Saigon Petro Oil Terminal'
+    subdiv: SG
+    function: 1-3-----
+    status: RQ
+    date: '1307'
+    iata: ''
+    coordinates: '1045N 10647E'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'VN SOA'
+    name: 'Soc Trang'
+    namewodiacritics: 'Soc Trang'
+    subdiv: '52'
+    function: '--34----'
+    status: AI
+    date: '0901'
+    iata: ''
+    coordinates: '0936N 10558E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'VN SQH'
+    name: 'Son La'
+    namewodiacritics: 'Son La'
+    subdiv: ''
+    function: '--34----'
+    status: RL
+    date: '0212'
+    iata: ''
+    coordinates: '2119N 10354E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'VN SON'
+    name: 'Song Doc'
+    namewodiacritics: 'Song Doc'
+    subdiv: ''
+    function: 1-------
+    status: RL
+    date: '1107'
+    iata: ''
+    coordinates: '0709N 10405E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'VN SH9'
+    name: 'Song Han 9'
+    namewodiacritics: 'Song Han 9'
+    subdiv: ''
+    function: 1-3-----
+    status: RQ
+    date: '1007'
+    iata: ''
+    coordinates: '1603N 10813E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'VN STC'
+    name: 'Song Than ICD'
+    namewodiacritics: 'Song Than ICD'
+    subdiv: '57'
+    function: '--3--67-'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '1046N 10643E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'VN STD'
+    name: 'Su Tu Den'
+    namewodiacritics: 'Su Tu Den'
+    subdiv: '40'
+    function: 1-------
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '1025N 10824E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'VN TMK'
+    name: Tamky
+    namewodiacritics: Tamky
+    subdiv: '27'
+    function: '---4----'
+    status: AI
+    date: '0901'
+    iata: ''
+    coordinates: '1533N 10828E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'VN TAA'
+    name: 'Tan An'
+    namewodiacritics: 'Tan An'
+    subdiv: '41'
+    function: '-----6--'
+    status: RQ
+    date: '1001'
+    iata: ''
+    coordinates: '1032N 10625E'
+    remarks: ''
+-
+    ch: ¦
+    locode: 'VN TBM'
+    name: 'Tan Binh'
+    namewodiacritics: 'Tan Binh'
+    subdiv: SG
+    function: '-----6--'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '1048N 10639E'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'VN TCG'
+    name: 'Tan Cang'
+    namewodiacritics: 'Tan Cang'
+    subdiv: SG
+    function: 1-------
+    status: RQ
+    date: '0407'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'VN ILB'
+    name: 'Tan Cang - Long Binh ICD'
+    namewodiacritics: 'Tan Cang - Long Binh ICD'
+    subdiv: '39'
+    function: '-23--6--'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '1054N 10652E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'VN TMT'
+    name: 'Tan Cang - Mien Trung Terminal'
+    namewodiacritics: 'Tan Cang - Mien Trung Terminal'
+    subdiv: '31'
+    function: 1-3-----
+    status: RQ
+    date: '1007'
+    iata: ''
+    coordinates: '1346N 10914E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'VN QNT'
+    name: 'Tan Cang Qui Nhon'
+    namewodiacritics: 'Tan Cang Qui Nhon'
+    subdiv: ''
+    function: 1-3-----
+    status: RQ
+    date: '1007'
+    iata: ''
+    coordinates: '1346N 10950E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'VN TCN'
+    name: 'Tan Canh'
+    namewodiacritics: 'Tan Canh'
+    subdiv: '41'
+    function: 1-3-----
+    status: RQ
+    date: '0401'
+    iata: ''
+    coordinates: '1439N 10750E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'VN TGA'
+    name: 'Tan Dinh'
+    namewodiacritics: 'Tan Dinh'
+    subdiv: '54'
+    function: '--3--6--'
+    status: RL
+    date: '1107'
+    iata: ''
+    coordinates: '1648N 10659E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'VN QTR'
+    name: 'Tan Dinh'
+    namewodiacritics: 'Tan Dinh'
+    subdiv: '25'
+    function: '--3-----'
+    status: RL
+    date: '1207'
+    iata: ''
+    coordinates: '1647N 10711E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'VN TSN'
+    name: 'Tan Son Nhat Apt'
+    namewodiacritics: 'Tan Son Nhat Apt'
+    subdiv: '65'
+    function: '--34----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'VN TTH'
+    name: 'Tan Thanh'
+    namewodiacritics: 'Tan Thanh'
+    subdiv: '43'
+    function: '--3-----'
+    status: RL
+    date: '1107'
+    iata: ''
+    coordinates: '1448N 10786E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'VN TTD'
+    name: 'Tân Thuan Dông'
+    namewodiacritics: 'Tan Thuan Dong'
+    subdiv: SG
+    function: 1-3-----
+    status: RL
+    date: '0401'
+    iata: ''
+    coordinates: '1044N 10643E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'VN TUY'
+    name: 'Tân Uyên'
+    namewodiacritics: 'Tan Uyen'
+    subdiv: ''
+    function: '-----6--'
+    status: RL
+    date: '1201'
+    iata: ''
+    coordinates: '1104N 10648E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'VN TAM'
+    name: 'Tanamexco ICD'
+    namewodiacritics: 'Tanamexco ICD'
+    subdiv: '65'
+    function: 1-3--67-
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'VN TNT'
+    name: 'Tay Ninh'
+    namewodiacritics: 'Tay Ninh'
+    subdiv: '36'
+    function: '-----6--'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '1118N 10606E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'VN TBH'
+    name: 'Thai Binh'
+    namewodiacritics: 'Thai Binh'
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0105'
+    iata: ''
+    coordinates: '2027N 10620E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'VN THA'
+    name: 'Thai Hoa'
+    namewodiacritics: 'Thai Hoa'
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0101'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'VN TNG'
+    name: 'Thái Nguyên'
+    namewodiacritics: 'Thai Nguyen'
+    subdiv: ''
+    function: '-23-----'
+    status: RL
+    date: '0607'
+    iata: ''
+    coordinates: '2133N 10552E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'VN TBI'
+    name: 'Thang Binh'
+    namewodiacritics: 'Thang Binh'
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'VN THO'
+    name: 'Thanh Hoa'
+    namewodiacritics: 'Thanh Hoa'
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'VN TPP'
+    name: 'Thanh Phuoc Port'
+    namewodiacritics: 'Thanh Phuoc Port'
+    subdiv: '57'
+    function: 1-------
+    status: RQ
+    date: '1301'
+    iata: ''
+    coordinates: '1104N 10648E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'VN TNA'
+    name: 'Thi Nai Port'
+    namewodiacritics: 'Thi Nai Port'
+    subdiv: '31'
+    function: 1-3-----
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '1346N 10915E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'VN THD'
+    name: 'Thu Dau Mot'
+    namewodiacritics: 'Thu Dau Mot'
+    subdiv: '05'
+    function: 1-3-----
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '1058N 10639E'
+    remarks: ''
+-
+    ch: ¦
+    locode: 'VN ITX'
+    name: 'Thu Dúc'
+    namewodiacritics: 'Thu Duc'
+    subdiv: SG
+    function: 1-3--6--
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '1050N 10645E'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'VN THU'
+    name: 'Thuan An'
+    namewodiacritics: 'Thuan An'
+    subdiv: '31'
+    function: 1-3-----
+    status: RQ
+    date: '0401'
+    iata: ''
+    coordinates: '1530N 10840E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'VN TBN'
+    name: 'Thuân An'
+    namewodiacritics: 'Thuan An'
+    subdiv: '20'
+    function: '--3-----'
+    status: RL
+    date: '1207'
+    iata: ''
+    coordinates: '2023N 10621E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'VN TGG'
+    name: 'Tien Giang'
+    namewodiacritics: 'Tien Giang'
+    subdiv: '46'
+    function: '--3-----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'VN DTS'
+    name: 'Tien Sa Terminal'
+    namewodiacritics: 'Tien Sa Terminal'
+    subdiv: '60'
+    function: 1-3-----
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '1607N 10812E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'VN TNC'
+    name: 'Tong Cang'
+    namewodiacritics: 'Tong Cang'
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0212'
+    iata: ''
+    coordinates: '2254N 10608E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'VN TNO'
+    name: 'Tra Noc'
+    namewodiacritics: 'Tra Noc'
+    subdiv: ''
+    function: 1-3-----
+    status: RQ
+    date: '1007'
+    iata: ''
+    coordinates: '1006N 10542E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'VN TVH'
+    name: 'Tra Vinh'
+    namewodiacritics: 'Tra Vinh'
+    subdiv: '51'
+    function: '--3-----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ¦
+    locode: 'VN TVN'
+    name: 'Transvina Terminal'
+    namewodiacritics: 'Transvina Terminal'
+    subdiv: HP
+    function: 1-3-----
+    status: RQ
+    date: '1307'
+    iata: ''
+    coordinates: '2052N 10641E'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'VN TGH'
+    name: 'Trung Hoa'
+    namewodiacritics: 'Trung Hoa'
+    subdiv: '34'
+    function: '-----6--'
+    status: RL
+    date: '1107'
+    iata: ''
+    coordinates: '1237N 10909E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'VN TGT'
+    name: 'Trung Trach'
+    namewodiacritics: 'Trung Trach'
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '1207'
+    iata: ''
+    coordinates: '1002N 10612E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'VN TBB'
+    name: 'Tuy Hoa'
+    namewodiacritics: 'Tuy Hoa'
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'VN TQG'
+    name: 'Tuyen Quang'
+    namewodiacritics: 'Tuyen Quang'
+    subdiv: '07'
+    function: '--3-----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'VN UYH'
+    name: 'Uyen Hung'
+    namewodiacritics: 'Uyen Hung'
+    subdiv: '57'
+    function: '--3-----'
+    status: RL
+    date: '1201'
+    iata: ''
+    coordinates: '1104N 10647E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'VN VLM'
+    name: 'Van Lâm'
+    namewodiacritics: 'Van Lam'
+    subdiv: '22'
+    function: '-----6--'
+    status: RL
+    date: '1201'
+    iata: ''
+    coordinates: '1841N 10531E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'VN VPH'
+    name: 'Van Phong'
+    namewodiacritics: 'Van Phong'
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '0507'
+    iata: ''
+    coordinates: '2051N 10638E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'VN VCH'
+    name: 'Vat Cach'
+    namewodiacritics: 'Vat Cach'
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '1007'
+    iata: ''
+    coordinates: '2053N 10636E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'VN VSS'
+    name: 'Vinashin Shipyard'
+    namewodiacritics: 'Vinashin Shipyard'
+    subdiv: '34'
+    function: 1-------
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '1229N 10917E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'VN VNH'
+    name: Vinh
+    namewodiacritics: Vinh
+    subdiv: '22'
+    function: 1--4----
+    status: RL
+    date: '1101'
+    iata: VII
+    coordinates: '1844N 10540E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'VN VLO'
+    name: 'Vinh Loi'
+    namewodiacritics: 'Vinh Loi'
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'VN VLG'
+    name: 'Vinh Long'
+    namewodiacritics: 'Vinh Long'
+    subdiv: ''
+    function: 1-3-----
+    status: RQ
+    date: '0401'
+    iata: ''
+    coordinates: '1014N 10558E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'VN VPC'
+    name: 'Vinh Phuc'
+    namewodiacritics: 'Vinh Phuc'
+    subdiv: '70'
+    function: '--3-----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'VN VYN'
+    name: 'Vinh Yen'
+    namewodiacritics: 'Vinh Yen'
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'VN VAG'
+    name: 'Vung Áng'
+    namewodiacritics: 'Vung Ang'
+    subdiv: ''
+    function: 1-------
+    status: AA
+    date: '1301'
+    iata: ''
+    coordinates: '1804N 10626E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'VN VRO'
+    name: 'Vung Ro'
+    namewodiacritics: 'Vung Ro'
+    subdiv: ''
+    function: 1-3-----
+    status: RQ
+    date: '1007'
+    iata: ''
+    coordinates: '1251N 10925E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'VN VUT'
+    name: 'Vung Tau'
+    namewodiacritics: 'Vung Tau'
+    subdiv: '43'
+    function: 1-34----
+    status: RL
+    date: '1101'
+    iata: ''
+    coordinates: '1021N 10704E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'VN YBA'
+    name: 'Yen Bai'
+    namewodiacritics: 'Yen Bai'
+    subdiv: '06'
+    function: '--3-----'
+    status: RL
+    date: '1101'
+    iata: ''
+    coordinates: '2142N 10452E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'VN YMY'
+    name: 'Yen My'
+    namewodiacritics: 'Yen My'
+    subdiv: '22'
+    function: '--3-----'
+    status: RL
+    date: '1207'
+    iata: ''
+    coordinates: '1857N 10520E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'VN YEV'
+    name: 'Yên Viên'
+    namewodiacritics: 'Yen Vien'
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '1207'
+    iata: ''
+    coordinates: '2105N 10555E'
+    remarks: ''

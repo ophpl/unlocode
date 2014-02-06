@@ -1,0 +1,8580 @@
+-
+    ch: ''
+    locode: 'MX ASO'
+    name: Abasolo
+    namewodiacritics: Abasolo
+    subdiv: GUA
+    function: '--3-----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX AJS'
+    name: Abreojos
+    namewodiacritics: Abreojos
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX JJT'
+    name: Acajete
+    namewodiacritics: Acajete
+    subdiv: VER
+    function: '-----6--'
+    status: RL
+    date: '1201'
+    iata: ''
+    coordinates: '1935N 09700W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX ACB'
+    name: Acambaro
+    namewodiacritics: Acambaro
+    subdiv: GUA
+    function: '--3-----'
+    status: RQ
+    date: '0607'
+    iata: ''
+    coordinates: '2002N 10043W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX ANH'
+    name: Acanceh
+    namewodiacritics: Acanceh
+    subdiv: YUC
+    function: 1-------
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX ACP'
+    name: Acaponeta
+    namewodiacritics: Acaponeta
+    subdiv: NAY
+    function: '--3-----'
+    status: RQ
+    date: '0607'
+    iata: ''
+    coordinates: '2230N 10522W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX ACA'
+    name: Acapulco
+    namewodiacritics: Acapulco
+    subdiv: GRO
+    function: 1--4----
+    status: AI
+    date: '0907'
+    iata: ''
+    coordinates: '1651N 09952W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX ACT'
+    name: Acatic
+    namewodiacritics: Acatic
+    subdiv: JAL
+    function: '-----6--'
+    status: RL
+    date: '1201'
+    iata: ''
+    coordinates: '2047N 10253W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX EPZ'
+    name: 'Acatlán de Juárez'
+    namewodiacritics: 'Acatlan de Juarez'
+    subdiv: JAL
+    function: '-----6--'
+    status: RL
+    date: '1201'
+    iata: ''
+    coordinates: '2025N 10335W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX ADO'
+    name: 'Acatlán de Osorio'
+    namewodiacritics: 'Acatlan de Osorio'
+    subdiv: PUE
+    function: '--3-----'
+    status: RL
+    date: '0907'
+    iata: ''
+    coordinates: '1812N 09803W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX JCZ'
+    name: Acatzingo
+    namewodiacritics: Acatzingo
+    subdiv: ''
+    function: '-----6--'
+    status: RL
+    date: '1201'
+    iata: ''
+    coordinates: '1858N 09746W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX ACX'
+    name: Acaxochitlán
+    namewodiacritics: Acaxochitlan
+    subdiv: HID
+    function: '--3--6--'
+    status: RL
+    date: '0501'
+    iata: ''
+    coordinates: '2010N 09812W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX ACM'
+    name: Acolman
+    namewodiacritics: Acolman
+    subdiv: MEX
+    function: 1----6--
+    status: RL
+    date: '1107'
+    iata: ''
+    coordinates: '1937N 09855W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX JCP'
+    name: Actopan
+    namewodiacritics: Actopan
+    subdiv: HID
+    function: '-----6--'
+    status: RL
+    date: '1201'
+    iata: ''
+    coordinates: '2016N 09856W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX ADE'
+    name: 'Aculco de Espinosa'
+    namewodiacritics: 'Aculco de Espinosa'
+    subdiv: MEX
+    function: '--3-----'
+    status: RQ
+    date: '0907'
+    iata: ''
+    coordinates: '2005N 09949W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX ACU'
+    name: Acuna
+    namewodiacritics: Acuna
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX AGD'
+    name: 'Agua Dulce'
+    namewodiacritics: 'Agua Dulce'
+    subdiv: BCN
+    function: '--3-----'
+    status: RQ
+    date: '0607'
+    iata: ''
+    coordinates: '2953N 11453W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX APR'
+    name: 'Agua Prieta'
+    namewodiacritics: 'Agua Prieta'
+    subdiv: SON
+    function: 123--6--
+    status: RL
+    date: '0307'
+    iata: ''
+    coordinates: '3118N 10934W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX AGU'
+    name: Aguascalientes
+    namewodiacritics: Aguascalientes
+    subdiv: AGU
+    function: '--34----'
+    status: AI
+    date: '0212'
+    iata: ''
+    coordinates: '2153N 10218W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX JHT'
+    name: Ahuatepec
+    namewodiacritics: Ahuatepec
+    subdiv: MOR
+    function: '-----6--'
+    status: RL
+    date: '1201'
+    iata: ''
+    coordinates: '1857N 09913W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX AXT'
+    name: Ahuazotepec
+    namewodiacritics: Ahuazotepec
+    subdiv: HID
+    function: '-----6--'
+    status: RL
+    date: '1201'
+    iata: ''
+    coordinates: '2003N 09809W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX AHU'
+    name: Ahumada
+    namewodiacritics: Ahumada
+    subdiv: CHH
+    function: '--3-----'
+    status: RQ
+    date: '0907'
+    iata: ''
+    coordinates: '3036N 10630W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX AKI'
+    name: Akil
+    namewodiacritics: Akil
+    subdiv: YUC
+    function: '--3-----'
+    status: RQ
+    date: '0607'
+    iata: ''
+    coordinates: '2016N 08921W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX ALO'
+    name: Álamo
+    namewodiacritics: Alamo
+    subdiv: VER
+    function: '--3-----'
+    status: RL
+    date: '0701'
+    iata: ''
+    coordinates: '2055N 09740W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX ALD'
+    name: Aldama
+    namewodiacritics: Aldama
+    subdiv: TAM
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '2255N 09804W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX ALL'
+    name: Allende
+    namewodiacritics: Allende
+    subdiv: NLE
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '2517N 10001W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX ATM'
+    name: Altamira
+    namewodiacritics: Altamira
+    subdiv: TAM
+    function: 1-3-----
+    status: RL
+    date: '1101'
+    iata: ''
+    coordinates: '2224N 09755W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX AVD'
+    name: Alvarado
+    namewodiacritics: Alvarado
+    subdiv: VER
+    function: 1-------
+    status: AI
+    date: '9401'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX AOB'
+    name: 'Alvaro Obregon'
+    namewodiacritics: 'Alvaro Obregon'
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX ATN'
+    name: Amatitán
+    namewodiacritics: Amatitan
+    subdiv: JAL
+    function: 123-----
+    status: RL
+    date: '0907'
+    iata: ''
+    coordinates: '2050N 10343W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX ANA'
+    name: Anahuac
+    namewodiacritics: Anahuac
+    subdiv: CHH
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '2830N 10645W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX AAC'
+    name: 'Angel Albino Corzo'
+    namewodiacritics: 'Angel Albino Corzo'
+    subdiv: CHP
+    function: '--3-----'
+    status: RL
+    date: '1207'
+    iata: ''
+    coordinates: '1555N 09243W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX AOE'
+    name: 'Antonio Escobedo'
+    namewodiacritics: 'Antonio Escobedo'
+    subdiv: JAL
+    function: '--3-----'
+    status: RL
+    date: '0907'
+    iata: ''
+    coordinates: '2047N 10359W'
+    remarks: 'a.k.a San Juanito'
+-
+    ch: ''
+    locode: 'MX ATZ'
+    name: Antunez
+    namewodiacritics: Antunez
+    subdiv: MIC
+    function: '-----6--'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '1825N 10224W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX APN'
+    name: Apan
+    namewodiacritics: Apan
+    subdiv: HID
+    function: '--3-----'
+    status: RQ
+    date: '0907'
+    iata: ''
+    coordinates: '1942N 09827W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX AEA'
+    name: 'Apaseo el Alto'
+    namewodiacritics: 'Apaseo el Alto'
+    subdiv: GUA
+    function: '--3-----'
+    status: RQ
+    date: '0907'
+    iata: ''
+    coordinates: '2027N 10037W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX APA'
+    name: 'Apaseo el Grande'
+    namewodiacritics: 'Apaseo el Grande'
+    subdiv: GUA
+    function: '-23-----'
+    status: RL
+    date: '0307'
+    iata: ''
+    coordinates: '2034N 10042W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX AZG'
+    name: Apatzingan
+    namewodiacritics: Apatzingan
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX APX'
+    name: 'Apaxco de Ocampo'
+    namewodiacritics: 'Apaxco de Ocampo'
+    subdiv: MEX
+    function: '-23--6--'
+    status: RL
+    date: '0601'
+    iata: ''
+    coordinates: '1959N 09910W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX API'
+    name: Apizaco
+    namewodiacritics: Apizaco
+    subdiv: TLA
+    function: '--3-----'
+    status: RL
+    date: '0101'
+    iata: ''
+    coordinates: '1925N 09808W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX APD'
+    name: Apodaca
+    namewodiacritics: Apodaca
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '9805'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX AMB'
+    name: Aramberri
+    namewodiacritics: Aramberri
+    subdiv: NLE
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '2405N 09948W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX ARA'
+    name: Arandas
+    namewodiacritics: Arandas
+    subdiv: JAL
+    function: '--3-----'
+    status: RL
+    date: '0101'
+    iata: ''
+    coordinates: '2042N 10220W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX ARC'
+    name: Arcelia
+    namewodiacritics: Arcelia
+    subdiv: GRO
+    function: '--3-----'
+    status: RQ
+    date: '0607'
+    iata: ''
+    coordinates: '1817N 10018W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX ADR'
+    name: 'Ario de Rosales'
+    namewodiacritics: 'Ario de Rosales'
+    subdiv: MIC
+    function: '--3-----'
+    status: RQ
+    date: '0907'
+    iata: ''
+    coordinates: '1912N 10142W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX ARZ'
+    name: Arizpe
+    namewodiacritics: Arizpe
+    subdiv: SON
+    function: 1-3--6--
+    status: RL
+    date: '0307'
+    iata: ''
+    coordinates: '3020N 11010W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX AHO'
+    name: Arteaga
+    namewodiacritics: Arteaga
+    subdiv: COA
+    function: '-----6--'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '2525N 10051W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX ACC'
+    name: Ascencion
+    namewodiacritics: Ascencion
+    subdiv: CHH
+    function: '--3-----'
+    status: RQ
+    date: '0607'
+    iata: ''
+    coordinates: '3105N 10759W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX ATE'
+    name: Atequiza
+    namewodiacritics: Atequiza
+    subdiv: JAL
+    function: '-23--6--'
+    status: RL
+    date: '0501'
+    iata: ''
+    coordinates: '2024N 10308W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX ATI'
+    name: Atitalaquia
+    namewodiacritics: Atitalaquia
+    subdiv: HID
+    function: '--3-----'
+    status: RL
+    date: '0101'
+    iata: ''
+    coordinates: '2004N 09913W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX ATA'
+    name: Atizapán
+    namewodiacritics: Atizapan
+    subdiv: MEX
+    function: '--3-----'
+    status: RL
+    date: '1207'
+    iata: ''
+    coordinates: '1915N 09933W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX ADZ'
+    name: 'Atizapán de Zaragoza'
+    namewodiacritics: 'Atizapan de Zaragoza'
+    subdiv: TAM
+    function: '-----6--'
+    status: RL
+    date: '1201'
+    iata: ''
+    coordinates: '2249N 09835W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX ALC'
+    name: Atlacomulco
+    namewodiacritics: Atlacomulco
+    subdiv: MOR
+    function: '--3-----'
+    status: RL
+    date: '0101'
+    iata: ''
+    coordinates: '1854N 09910W'
+    remarks: ''
+-
+    ch: +
+    locode: 'MX AUO'
+    name: Atlacomulco
+    namewodiacritics: Atlacomulco
+    subdiv: MEX
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '1947N 09952W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX ACO'
+    name: 'Atlacomulco de Fabela'
+    namewodiacritics: 'Atlacomulco de Fabela'
+    subdiv: MEX
+    function: '--3--6--'
+    status: RL
+    date: '0907'
+    iata: ''
+    coordinates: '1948N 09952W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX ATH'
+    name: Atlatlahucan
+    namewodiacritics: Atlatlahucan
+    subdiv: MOR
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '1856N 09854W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX ATL'
+    name: Atlixco
+    namewodiacritics: Atlixco
+    subdiv: PUE
+    function: '--3-----'
+    status: RL
+    date: '0401'
+    iata: ''
+    coordinates: '1854N 09826W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX ATT'
+    name: Atotonilco
+    namewodiacritics: Atotonilco
+    subdiv: DUR
+    function: '--3--6--'
+    status: RL
+    date: '0501'
+    iata: ''
+    coordinates: '2438N 10341W'
+    remarks: ''
+-
+    ch: +
+    locode: 'MX ALT'
+    name: 'Atotonilco de Tula'
+    namewodiacritics: 'Atotonilco de Tula'
+    subdiv: HID
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '2003N 09911W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX ATO'
+    name: 'Atotonilco el Alto'
+    namewodiacritics: 'Atotonilco el Alto'
+    subdiv: JAL
+    function: '-23--6--'
+    status: RL
+    date: '0601'
+    iata: ''
+    coordinates: '2033N 10230W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX AQL'
+    name: Atotonilquillo
+    namewodiacritics: Atotonilquillo
+    subdiv: JAL
+    function: '-23-----'
+    status: RL
+    date: '0407'
+    iata: ''
+    coordinates: '2024N 10308W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX AYC'
+    name: Atoyac
+    namewodiacritics: Atoyac
+    subdiv: JAL
+    function: '--3-----'
+    status: RQ
+    date: '0907'
+    iata: ''
+    coordinates: '2000N 10331W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX ABB'
+    name: Atunes
+    namewodiacritics: Atunes
+    subdiv: MIC
+    function: 1-------
+    status: RQ
+    date: '0907'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX AZL'
+    name: Atzalan
+    namewodiacritics: Atzalan
+    subdiv: VER
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '1948N 09713W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX AUT'
+    name: Autlan
+    namewodiacritics: Autlan
+    subdiv: JAL
+    function: '--3-----'
+    status: RQ
+    date: '0607'
+    iata: ''
+    coordinates: '1947N 10422W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX AYA'
+    name: Ayala
+    namewodiacritics: Ayala
+    subdiv: MOR
+    function: '-23-----'
+    status: RL
+    date: '0407'
+    iata: ''
+    coordinates: '1845N 09859W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX AYO'
+    name: Ayotlan
+    namewodiacritics: Ayotlan
+    subdiv: JAL
+    function: '--3-----'
+    status: RQ
+    date: '0607'
+    iata: ''
+    coordinates: '2032N 10221W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX AYU'
+    name: Ayutla
+    namewodiacritics: Ayutla
+    subdiv: JAL
+    function: '--3-----'
+    status: RQ
+    date: '0607'
+    iata: ''
+    coordinates: '2007N 10421W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX AYL'
+    name: 'Ayutla de los Libres'
+    namewodiacritics: 'Ayutla de los Libres'
+    subdiv: GRO
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '1654N 09913W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX APZ'
+    name: Azcapotzalco
+    namewodiacritics: Azcapotzalco
+    subdiv: MEX
+    function: '-23-----'
+    status: RL
+    date: '0101'
+    iata: ''
+    coordinates: '1928N 09912W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX BAC'
+    name: Bachíniva
+    namewodiacritics: Bachiniva
+    subdiv: CHH
+    function: '-----6--'
+    status: RL
+    date: '1201'
+    iata: ''
+    coordinates: '2845N 10715W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX BHL'
+    name: 'Bahia Angeles'
+    namewodiacritics: 'Bahia Angeles'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX BAA'
+    name: 'Bahia de los Angeles'
+    namewodiacritics: 'Bahia de los Angeles'
+    subdiv: BCN
+    function: '--3-----'
+    status: RQ
+    date: '0607'
+    iata: ''
+    coordinates: '2858N 11333W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX BAK'
+    name: 'Bahia Kino'
+    namewodiacritics: 'Bahia Kino'
+    subdiv: SON
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '2850N 11156W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX BAL'
+    name: Balancan
+    namewodiacritics: Balancan
+    subdiv: TAB
+    function: '--3-----'
+    status: RQ
+    date: '0607'
+    iata: ''
+    coordinates: '1749N 09132W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX BAN'
+    name: Banamichi
+    namewodiacritics: Banamichi
+    subdiv: SON
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '3000N 11013W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX BDN'
+    name: 'Barra de Navidad'
+    namewodiacritics: 'Barra de Navidad'
+    subdiv: JAL
+    function: '--3-----'
+    status: RQ
+    date: '0607'
+    iata: ''
+    coordinates: '1912N 10441W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX EA2'
+    name: Barretal
+    namewodiacritics: Barretal
+    subdiv: TAM
+    function: 1----6--
+    status: RQ
+    date: '1001'
+    iata: ''
+    coordinates: '2405N 09907W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX BEJ'
+    name: 'Benito Juarez'
+    namewodiacritics: 'Benito Juarez'
+    subdiv: CHH
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '3009N 10651W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX BDR'
+    name: 'Boca del Río'
+    namewodiacritics: 'Boca del Rio'
+    subdiv: VER
+    function: 1-3-----
+    status: RL
+    date: '0601'
+    iata: ''
+    coordinates: '1907N 09607W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX BUE'
+    name: Buenaventura
+    namewodiacritics: Buenaventura
+    subdiv: CHH
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '2951N 10729W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX CSL'
+    name: 'Cabo San Lucas'
+    namewodiacritics: 'Cabo San Lucas'
+    subdiv: BCS
+    function: 1-3-----
+    status: AI
+    date: '0907'
+    iata: ''
+    coordinates: '2253N 10953W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX CBV'
+    name: 'Caborca Viejo'
+    namewodiacritics: 'Caborca Viejo'
+    subdiv: SON
+    function: '--3-----'
+    status: RL
+    date: '0307'
+    iata: ''
+    coordinates: '3041N 11208W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX ZCA'
+    name: 'Cadereyta Jiménez'
+    namewodiacritics: 'Cadereyta Jimenez'
+    subdiv: NLE
+    function: 123--6--
+    status: RL
+    date: '0307'
+    iata: ''
+    coordinates: '2536N 10000W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX CVR'
+    name: 'Calera Victor Rosales'
+    namewodiacritics: 'Calera Victor Rosales'
+    subdiv: ZAC
+    function: '--3-----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '2256N 10242W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX CLK'
+    name: Calkini
+    namewodiacritics: Calkini
+    subdiv: CAM
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '2022N 09003W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX CAL'
+    name: Calpulalpan
+    namewodiacritics: Calpulalpan
+    subdiv: MEX
+    function: '--3-----'
+    status: RQ
+    date: '0607'
+    iata: ''
+    coordinates: '2003N 09937W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX AAO'
+    name: Camargo
+    namewodiacritics: Camargo
+    subdiv: CHH
+    function: 1----6--
+    status: RL
+    date: '1201'
+    iata: ''
+    coordinates: '2766N 10516W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX CPE'
+    name: Campeche
+    namewodiacritics: Campeche
+    subdiv: CAM
+    function: 1--4----
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX CNA'
+    name: Cananea
+    namewodiacritics: Cananea
+    subdiv: SON
+    function: '--3--6--'
+    status: RQ
+    date: '0607'
+    iata: ''
+    coordinates: '3059N 11017W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX CAN'
+    name: Canatlan
+    namewodiacritics: Canatlan
+    subdiv: DUR
+    function: '--3-----'
+    status: RQ
+    date: '0607'
+    iata: ''
+    coordinates: '2431N 10446W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX CUN'
+    name: Cancún
+    namewodiacritics: Cancun
+    subdiv: ROO
+    function: '---4----'
+    status: AI
+    date: '0212'
+    iata: ''
+    coordinates: '2110N 08650W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX CNT'
+    name: Cantarell
+    namewodiacritics: Cantarell
+    subdiv: ''
+    function: '------7-'
+    status: RQ
+    date: '0907'
+    iata: ''
+    coordinates: '1940N 09205W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX CAO'
+    name: Caobas
+    namewodiacritics: Caobas
+    subdiv: ROO
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '1827N 08900W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX CDG'
+    name: 'Capilla de Guadalupe'
+    namewodiacritics: 'Capilla de Guadalupe'
+    subdiv: JAL
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '2050N 10235W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX CDN'
+    name: Cardenas
+    namewodiacritics: Cardenas
+    subdiv: ''
+    function: '-2------'
+    status: RQ
+    date: '9705'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX CAS'
+    name: 'Casimiro Castillo'
+    namewodiacritics: 'Casimiro Castillo'
+    subdiv: JAL
+    function: '--3-----'
+    status: RQ
+    date: '0607'
+    iata: ''
+    coordinates: '1937N 10426W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX CAT'
+    name: 'Cayo Arcas Terminal'
+    namewodiacritics: 'Cayo Arcas Terminal'
+    subdiv: ''
+    function: 1-------
+    status: AI
+    date: '0907'
+    iata: ''
+    coordinates: '1941N 09205W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX CED'
+    name: Cedros
+    namewodiacritics: Cedros
+    subdiv: BCN
+    function: 1-3-----
+    status: RL
+    date: '0212'
+    iata: ''
+    coordinates: '2807N 11510W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX CRI'
+    name: 'Cedros Island'
+    namewodiacritics: 'Cedros Island'
+    subdiv: BCN
+    function: 1-------
+    status: RL
+    date: '1107'
+    iata: ''
+    coordinates: '2810N 11513W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX CLY'
+    name: Celaya
+    namewodiacritics: Celaya
+    subdiv: GUA
+    function: '-23-----'
+    status: RL
+    date: '0101'
+    iata: ''
+    coordinates: '2031N 10049W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX CET'
+    name: Celestun
+    namewodiacritics: Celestun
+    subdiv: YUC
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '2052N 09024W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX COO'
+    name: 'Cerro de Ortega'
+    namewodiacritics: 'Cerro de Ortega'
+    subdiv: COL
+    function: '--3-----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '1845N 10343W'
+    remarks: ''
+-
+    ch: +
+    locode: 'MX CHP'
+    name: Chachapa
+    namewodiacritics: Chachapa
+    subdiv: PUE
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '1902N 09805W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX CHH'
+    name: Chahuites
+    namewodiacritics: Chahuites
+    subdiv: OAX
+    function: '--3-----'
+    status: RQ
+    date: '0607'
+    iata: ''
+    coordinates: '1617N 09411W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX ZMB'
+    name: Chalco
+    namewodiacritics: Chalco
+    subdiv: MEX
+    function: '-----6--'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '1916N 09854W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX CHM'
+    name: Chamela
+    namewodiacritics: Chamela
+    subdiv: JAL
+    function: '--3-----'
+    status: RQ
+    date: '0607'
+    iata: ''
+    coordinates: '1932N 10505W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX CPC'
+    name: Chapultepec
+    namewodiacritics: Chapultepec
+    subdiv: VER
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '2033N 09727W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX CCS'
+    name: Charcas
+    namewodiacritics: Charcas
+    subdiv: SLP
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '2308N 10107W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX CTM'
+    name: Chetumal
+    namewodiacritics: Chetumal
+    subdiv: ROO
+    function: 1--4----
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX CCZ'
+    name: 'Chiapa de Corzo'
+    namewodiacritics: 'Chiapa de Corzo'
+    subdiv: CHP
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '1642N 09300W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX CZA'
+    name: Chichén-Itzá
+    namewodiacritics: Chichen-Itza
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0212'
+    iata: ''
+    coordinates: '2040N 08834W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX ZMC'
+    name: Chiconcuac
+    namewodiacritics: Chiconcuac
+    subdiv: MEX
+    function: '-----6--'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '1933N 09854W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX CUU'
+    name: Chihuahua
+    namewodiacritics: Chihuahua
+    subdiv: CHH
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX CCT'
+    name: Chilchota
+    namewodiacritics: Chilchota
+    subdiv: MIC
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '1951N 10208W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX CHI'
+    name: Chilpancingo
+    namewodiacritics: Chilpancingo
+    subdiv: GRO
+    function: '--3-----'
+    status: RL
+    date: '0212'
+    iata: ''
+    coordinates: '1733N 09930W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX CML'
+    name: Chimalapa
+    namewodiacritics: Chimalapa
+    subdiv: CHP
+    function: '--3-----'
+    status: RQ
+    date: '0607'
+    iata: ''
+    coordinates: '1524N 09213W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX CMH'
+    name: 'Chimalhuacán (Santa María Chimalhuacán)'
+    namewodiacritics: 'Chimalhuacan (Santa Maria Chimalhuacan)'
+    subdiv: MEX
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '1925N 09854W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX CHN'
+    name: China
+    namewodiacritics: China
+    subdiv: CAM
+    function: '--3-----'
+    status: RQ
+    date: '0607'
+    iata: ''
+    coordinates: '1945N 09030W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX CFJ'
+    name: 'Chipilio de Francisco Javier Mina'
+    namewodiacritics: 'Chipilio de Francisco Javier Mina'
+    subdiv: PUE
+    function: '--3-----'
+    status: RQ
+    date: '0607'
+    iata: ''
+    coordinates: '1901N 09820W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX CHO'
+    name: Choix
+    namewodiacritics: Choix
+    subdiv: SIN
+    function: '--3-----'
+    status: RQ
+    date: '0607'
+    iata: ''
+    coordinates: '2642N 10819W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX CHA'
+    name: Cholula
+    namewodiacritics: Cholula
+    subdiv: PUE
+    function: '--3-----'
+    status: RL
+    date: '0701'
+    iata: ''
+    coordinates: '1903N 09818W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX CDF'
+    name: 'Cienega de Flores'
+    namewodiacritics: 'Cienega de Flores'
+    subdiv: NLE
+    function: '--3-----'
+    status: RQ
+    date: '0607'
+    iata: ''
+    coordinates: '2556N 10009W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX CGF'
+    name: 'Ciénega de Flores'
+    namewodiacritics: 'Cienega de Flores'
+    subdiv: NLE
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '2557N 10011W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX ACN'
+    name: 'Ciudad Acuna'
+    namewodiacritics: 'Ciudad Acuna'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX CIA'
+    name: 'Ciudad Altamirano'
+    namewodiacritics: 'Ciudad Altamirano'
+    subdiv: GRO
+    function: '--3-----'
+    status: RQ
+    date: '0607'
+    iata: ''
+    coordinates: '1821N 10039W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX CCG'
+    name: 'Ciudad Camargo'
+    namewodiacritics: 'Ciudad Camargo'
+    subdiv: CHH
+    function: '--3-----'
+    status: RL
+    date: '1207'
+    iata: ''
+    coordinates: '2740N 10510W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX CUA'
+    name: 'Ciudad Constitución'
+    namewodiacritics: 'Ciudad Constitucion'
+    subdiv: BCS
+    function: '--34----'
+    status: RL
+    date: '0212'
+    iata: ''
+    coordinates: '2502N 11140W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX CCU'
+    name: 'Ciudad Cuauthemoc'
+    namewodiacritics: 'Ciudad Cuauthemoc'
+    subdiv: CHP
+    function: '--3-----'
+    status: RQ
+    date: '0607'
+    iata: ''
+    coordinates: '1539N 09159W'
+    remarks: ''
+-
+    ch: ¦
+    locode: 'MX MEX'
+    name: 'Ciudad de México'
+    namewodiacritics: 'Ciudad de Mexico'
+    subdiv: DIF
+    function: '-23456--'
+    status: AI
+    date: '1307'
+    iata: ''
+    coordinates: '1926N 09908W'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'MX CME'
+    name: 'Ciudad del Carmen'
+    namewodiacritics: 'Ciudad del Carmen'
+    subdiv: CAM
+    function: 1-------
+    status: AI
+    date: '0907'
+    iata: ''
+    coordinates: '1838N 09150W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX CDS'
+    name: 'Ciudad del Sol'
+    namewodiacritics: 'Ciudad del Sol'
+    subdiv: JAL
+    function: '--3-----'
+    status: RL
+    date: '1207'
+    iata: ''
+    coordinates: '2039N 10324W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX GUZ'
+    name: 'Ciudad Guzmán'
+    namewodiacritics: 'Ciudad Guzman'
+    subdiv: JAL
+    function: '-23--6--'
+    status: RL
+    date: '0601'
+    iata: ''
+    coordinates: '1942N 10327W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX HID'
+    name: 'Ciudad Hidalgo'
+    namewodiacritics: 'Ciudad Hidalgo'
+    subdiv: CHP
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '1441N 09209W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX ZMF'
+    name: 'Ciudad Hidalgo'
+    namewodiacritics: 'Ciudad Hidalgo'
+    subdiv: MIC
+    function: '-----6--'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '1941N 10034W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX CJS'
+    name: 'Ciudad Juárez'
+    namewodiacritics: 'Ciudad Juarez'
+    subdiv: CHH
+    function: '---4----'
+    status: AI
+    date: '0212'
+    iata: ''
+    coordinates: '3144N 10629W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX CDD'
+    name: 'Ciudad Madero'
+    namewodiacritics: 'Ciudad Madero'
+    subdiv: TAM
+    function: 1-34----
+    status: RL
+    date: '0307'
+    iata: ''
+    coordinates: '2216N 09750W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX MMC'
+    name: 'Ciudad Mante'
+    namewodiacritics: 'Ciudad Mante'
+    subdiv: TAM
+    function: '--3-----'
+    status: RL
+    date: '0101'
+    iata: ''
+    coordinates: '2244N 09857W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX CMA'
+    name: 'Ciudad Miguel Aleman'
+    namewodiacritics: 'Ciudad Miguel Aleman'
+    subdiv: TAM
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '2621N 09906W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX CEN'
+    name: 'Ciudad Obregon'
+    namewodiacritics: 'Ciudad Obregon'
+    subdiv: SON
+    function: '---4----'
+    status: AI
+    date: '0212'
+    iata: ''
+    coordinates: '2729N 10956W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX RBV'
+    name: 'Ciudad Río Bravo'
+    namewodiacritics: 'Ciudad Rio Bravo'
+    subdiv: TAM
+    function: 123--6--
+    status: RL
+    date: '0701'
+    iata: ''
+    coordinates: '2558N 09805W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX CSG'
+    name: 'Ciudad Sahagún'
+    namewodiacritics: 'Ciudad Sahagun'
+    subdiv: HID
+    function: 123--6--
+    status: RL
+    date: '0701'
+    iata: ''
+    coordinates: '1946N 09834W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX CDV'
+    name: 'Ciudad Valles'
+    namewodiacritics: 'Ciudad Valles'
+    subdiv: SLP
+    function: '--3-----'
+    status: RQ
+    date: '0607'
+    iata: ''
+    coordinates: '2159N 09901W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX CVM'
+    name: 'Ciudad Victoria'
+    namewodiacritics: 'Ciudad Victoria'
+    subdiv: TAM
+    function: '---4----'
+    status: RL
+    date: '0212'
+    iata: ''
+    coordinates: '2344N 09908W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX VAC'
+    name: Civac
+    namewodiacritics: Civac
+    subdiv: MOR
+    function: '--3-----'
+    status: RL
+    date: '1207'
+    iata: ''
+    coordinates: '1854N 09910W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX OAH'
+    name: 'Coahuayana de Hidalgo'
+    namewodiacritics: 'Coahuayana de Hidalgo'
+    subdiv: MIC
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '1845N 10340W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX CHL'
+    name: Coahuila
+    namewodiacritics: Coahuila
+    subdiv: SON
+    function: '--3-----'
+    status: RL
+    date: '0101'
+    iata: ''
+    coordinates: '2835N 11123W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX CCN'
+    name: Coalcoman
+    namewodiacritics: Coalcoman
+    subdiv: MIC
+    function: '--3-----'
+    status: RQ
+    date: '0607'
+    iata: ''
+    coordinates: '1864N 10308W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX CTP'
+    name: Coatepac
+    namewodiacritics: Coatepac
+    subdiv: VER
+    function: '--3-----'
+    status: RL
+    date: '0101'
+    iata: ''
+    coordinates: '1925N 09656W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX CPA'
+    name: 'Coatepec Harinas'
+    namewodiacritics: 'Coatepec Harinas'
+    subdiv: MEX
+    function: '--3-----'
+    status: RL
+    date: '0701'
+    iata: ''
+    coordinates: '1854N 09943W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX COA'
+    name: Coatzacoalcos
+    namewodiacritics: Coatzacoalcos
+    subdiv: VER
+    function: 1--4----
+    status: AI
+    date: '0907'
+    iata: ''
+    coordinates: '1808N 09424W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX CPT'
+    name: 'Col Portales'
+    namewodiacritics: 'Col Portales'
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '9805'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX COL'
+    name: Colima
+    namewodiacritics: Colima
+    subdiv: COL
+    function: '--34----'
+    status: RL
+    date: '1101'
+    iata: CLQ
+    coordinates: '1914N 10343W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX CLN'
+    name: Colon
+    namewodiacritics: Colon
+    subdiv: QUE
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '2048N 10003W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX CJT'
+    name: Comitan
+    namewodiacritics: Comitan
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX CDO'
+    name: 'Concepcion del Oro'
+    namewodiacritics: 'Concepcion del Oro'
+    subdiv: ZAC
+    function: '--3-----'
+    status: RQ
+    date: '0607'
+    iata: ''
+    coordinates: '2436N 10124W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX CTC'
+    name: Contepec
+    namewodiacritics: Contepec
+    subdiv: MEX
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '2001N 10007W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX COP'
+    name: Copainala
+    namewodiacritics: Copainala
+    subdiv: CHP
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '1705N 09312W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX CDU'
+    name: Córdoba
+    namewodiacritics: Cordoba
+    subdiv: VER
+    function: '--3-----'
+    status: RL
+    date: '0201'
+    iata: ''
+    coordinates: '1853N 09655W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX CTZ'
+    name: Cortazar
+    namewodiacritics: Cortazar
+    subdiv: GUA
+    function: '--3-----'
+    status: RL
+    date: '1001'
+    iata: ''
+    coordinates: '2029N 10056W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX COS'
+    name: Cosoleacaque
+    namewodiacritics: Cosoleacaque
+    subdiv: VER
+    function: '-23--67-'
+    status: RL
+    date: '0501'
+    iata: ''
+    coordinates: '1800N 09437W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX CTX'
+    name: Cotaxtla
+    namewodiacritics: Cotaxtla
+    subdiv: VER
+    function: 1-3--6--
+    status: RL
+    date: '0701'
+    iata: ''
+    coordinates: '1850N 09623W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX COT'
+    name: Cotija
+    namewodiacritics: Cotija
+    subdiv: MIC
+    function: '--3-----'
+    status: RQ
+    date: '0607'
+    iata: ''
+    coordinates: '1948N 10242W'
+    remarks: ''
+-
+    ch: ¦
+    locode: 'MX CYA'
+    name: Coyoacán
+    namewodiacritics: Coyoacan
+    subdiv: DIF
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '1919N 09909W'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'MX CZM'
+    name: Cozumel
+    namewodiacritics: Cozumel
+    subdiv: ROO
+    function: 1--4----
+    status: AI
+    date: '0907'
+    iata: ''
+    coordinates: '2031N 08656W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX CUJ'
+    name: Cuajimalpa
+    namewodiacritics: Cuajimalpa
+    subdiv: MEX
+    function: '--3-----'
+    status: RL
+    date: '0207'
+    iata: ''
+    coordinates: '1921N 09918W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX CJI'
+    name: Cuajinicuilapa
+    namewodiacritics: Cuajinicuilapa
+    subdiv: GRO
+    function: '--3-----'
+    status: RQ
+    date: '0607'
+    iata: ''
+    coordinates: '1628N 09826W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX CTG'
+    name: 'Cuatrocienegas de Carranza'
+    namewodiacritics: 'Cuatrocienegas de Carranza'
+    subdiv: COA
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '2659N 10205W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX CHT'
+    name: Cuauhtemoc
+    namewodiacritics: Cuauhtemoc
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '9704'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX CDH'
+    name: 'Cuautepec de Hinojosa'
+    namewodiacritics: 'Cuautepec de Hinojosa'
+    subdiv: HID
+    function: '-----6--'
+    status: RQ
+    date: '1001'
+    iata: ''
+    coordinates: '2002N 09818W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX CUH'
+    name: Cuautinchan
+    namewodiacritics: Cuautinchan
+    subdiv: PUE
+    function: '-----6--'
+    status: RQ
+    date: '1007'
+    iata: ''
+    coordinates: '1856N 09801W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX CTN'
+    name: Cuautitlan
+    namewodiacritics: Cuautitlan
+    subdiv: MEX
+    function: '--3-----'
+    status: RL
+    date: '0701'
+    iata: ''
+    coordinates: '1940N 09910W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX CUT'
+    name: 'Cuautitlán Izcalli'
+    namewodiacritics: 'Cuautitlan Izcalli'
+    subdiv: MEX
+    function: '--3-----'
+    status: RL
+    date: '0507'
+    iata: ''
+    coordinates: '1938N 09914W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX CTL'
+    name: Cuautla
+    namewodiacritics: Cuautla
+    subdiv: JAL
+    function: 1-3--6--
+    status: RL
+    date: '0307'
+    iata: ''
+    coordinates: '2012N 10424W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX CUM'
+    name: 'Cuautla Morelos'
+    namewodiacritics: 'Cuautla Morelos'
+    subdiv: MOR
+    function: '--3-----'
+    status: RL
+    date: '0101'
+    iata: ''
+    coordinates: '1849N 09856W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX CAU'
+    name: Cuautlancingo
+    namewodiacritics: Cuautlancingo
+    subdiv: PUE
+    function: '-23--6--'
+    status: RL
+    date: '0607'
+    iata: ''
+    coordinates: '1905N 09816W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX CUE'
+    name: Cuencame
+    namewodiacritics: Cuencame
+    subdiv: DUR
+    function: '--3-----'
+    status: RQ
+    date: '0607'
+    iata: ''
+    coordinates: '2451N 10341W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX CVC'
+    name: Cuernavaca
+    namewodiacritics: Cuernavaca
+    subdiv: MOR
+    function: '--34----'
+    status: RL
+    date: '1101'
+    iata: CVJ
+    coordinates: '1855N 09915W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX CDP'
+    name: 'Cuetzalan del Progreso'
+    namewodiacritics: 'Cuetzalan del Progreso'
+    subdiv: PUE
+    function: '-----6--'
+    status: RL
+    date: '1107'
+    iata: ''
+    coordinates: '2002N 09731W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX CUI'
+    name: Cuitláhuac
+    namewodiacritics: Cuitlahuac
+    subdiv: VER
+    function: '-----6--'
+    status: RL
+    date: '1201'
+    iata: ''
+    coordinates: '1849N 09643W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX CUL'
+    name: Culiacán
+    namewodiacritics: Culiacan
+    subdiv: SIN
+    function: '-234----'
+    status: AI
+    date: '0307'
+    iata: ''
+    coordinates: '2447N 10723W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX CMP'
+    name: Cumpas
+    namewodiacritics: Cumpas
+    subdiv: SON
+    function: '--3-----'
+    status: RQ
+    date: '0607'
+    iata: ''
+    coordinates: '2959N 10946W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX CQO'
+    name: Cuquio
+    namewodiacritics: Cuquio
+    subdiv: JAL
+    function: '--3-----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '2055N 10301W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX CIO'
+    name: Cutzio
+    namewodiacritics: Cutzio
+    subdiv: MIC
+    function: '--3-----'
+    status: RQ
+    date: '0607'
+    iata: ''
+    coordinates: '1839N 10054W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX DEG'
+    name: Degollado
+    namewodiacritics: Degollado
+    subdiv: JAL
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '2028N 10209W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX DCS'
+    name: Delicias
+    namewodiacritics: Delicias
+    subdiv: CHH
+    function: '--3-----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '2811N 10528W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX DFL'
+    name: 'Distrito Federal'
+    namewodiacritics: 'Distrito Federal'
+    subdiv: BCN
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '3229N 11502W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX DOC'
+    name: 'Doctor Arroyo'
+    namewodiacritics: 'Doctor Arroyo'
+    subdiv: NLE
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '2340N 10011W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX DHD'
+    name: 'Dolores Hidalgo'
+    namewodiacritics: 'Dolores Hidalgo'
+    subdiv: GUA
+    function: 1-3--6--
+    status: RL
+    date: '0307'
+    iata: ''
+    coordinates: '2109N 10055W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX DBT'
+    name: 'Dos Bocas Terminal'
+    namewodiacritics: 'Dos Bocas Terminal'
+    subdiv: TAB
+    function: 1-------
+    status: AI
+    date: '0907'
+    iata: ''
+    coordinates: '1830N 09311W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX DGO'
+    name: Durango
+    namewodiacritics: Durango
+    subdiv: DUR
+    function: '---4----'
+    status: AI
+    date: '0212'
+    iata: ''
+    coordinates: '2402N 10440W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX EPC'
+    name: Ecatepec
+    namewodiacritics: Ecatepec
+    subdiv: MEX
+    function: '--3--6--'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '1936N 09903W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX ETP'
+    name: Ecatepec
+    namewodiacritics: Ecatepec
+    subdiv: OAX
+    function: '--3-----'
+    status: RL
+    date: '0201'
+    iata: ''
+    coordinates: '1615N 09547W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX ECA'
+    name: 'El Carmen'
+    namewodiacritics: 'El Carmen'
+    subdiv: NLE
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '2437N 10029W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX ELC'
+    name: 'El Coacoyul'
+    namewodiacritics: 'El Coacoyul'
+    subdiv: GRO
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '1737N 10126W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX ELF'
+    name: 'El Fuerte'
+    namewodiacritics: 'El Fuerte'
+    subdiv: SIN
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '2625N 10837W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX EHV'
+    name: 'El Higo'
+    namewodiacritics: 'El Higo'
+    subdiv: VER
+    function: '--3-----'
+    status: RL
+    date: '1207'
+    iata: ''
+    coordinates: '2146N 09828W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX EMQ'
+    name: 'El Marques'
+    namewodiacritics: 'El Marques'
+    subdiv: QUE
+    function: '--3--6--'
+    status: RQ
+    date: '0607'
+    iata: ''
+    coordinates: '2037N 10019W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX ELN'
+    name: 'El Naranjillo'
+    namewodiacritics: 'El Naranjillo'
+    subdiv: GRO
+    function: '--3-----'
+    status: RQ
+    date: '0607'
+    iata: ''
+    coordinates: '1804N 10150W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX ELP'
+    name: 'El Paso'
+    namewodiacritics: 'El Paso'
+    subdiv: COA
+    function: '--3-----'
+    status: RQ
+    date: '0607'
+    iata: ''
+    coordinates: '2829N 10106W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX ELR'
+    name: 'El Ranchito'
+    namewodiacritics: 'El Ranchito'
+    subdiv: MIC
+    function: '--3-----'
+    status: RQ
+    date: '0607'
+    iata: ''
+    coordinates: '1840N 10341W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX ERS'
+    name: 'El Rosario'
+    namewodiacritics: 'El Rosario'
+    subdiv: SIN
+    function: '--3-----'
+    status: RL
+    date: '1201'
+    iata: ''
+    coordinates: '2259N 10552W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX LRS'
+    name: 'El Rosario'
+    namewodiacritics: 'El Rosario'
+    subdiv: BCN
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '3003N 11544W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX ESO'
+    name: 'El Salto'
+    namewodiacritics: 'El Salto'
+    subdiv: JAL
+    function: '--3-----'
+    status: RQ
+    date: '0607'
+    iata: ''
+    coordinates: '2020N 10430W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX ELS'
+    name: 'El Salto'
+    namewodiacritics: 'El Salto'
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX ESZ'
+    name: 'El Sauzal'
+    namewodiacritics: 'El Sauzal'
+    subdiv: BCN
+    function: '--3-----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '3154N 11641W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX EVI'
+    name: 'El Vizcaino'
+    namewodiacritics: 'El Vizcaino'
+    subdiv: BCS
+    function: '--3-----'
+    status: RQ
+    date: '0607'
+    iata: ''
+    coordinates: '2741N 11325W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX ELD'
+    name: Eldorado
+    namewodiacritics: Eldorado
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX EPM'
+    name: Empalme
+    namewodiacritics: Empalme
+    subdiv: SON
+    function: 1234----
+    status: RL
+    date: '0407'
+    iata: ''
+    coordinates: '2758N 11049W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX ESE'
+    name: Ensenada
+    namewodiacritics: Ensenada
+    subdiv: BCN
+    function: 1--4----
+    status: AI
+    date: '0907'
+    iata: ''
+    coordinates: '3151N 11636W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX ECC'
+    name: Escarcega
+    namewodiacritics: Escarcega
+    subdiv: CAM
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '1837N 09043W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX ECB'
+    name: Escobedo
+    namewodiacritics: Escobedo
+    subdiv: COA
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '2520N 10042W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX ESC'
+    name: Escobedo
+    namewodiacritics: Escobedo
+    subdiv: NLE
+    function: '--3-----'
+    status: RL
+    date: '0201'
+    iata: ''
+    coordinates: '2509N 09952W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX EHG'
+    name: 'Escuinapa de Hidalgo'
+    namewodiacritics: 'Escuinapa de Hidalgo'
+    subdiv: SIN
+    function: '--3-----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '2251N 10548W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX SCP'
+    name: Escuinapan
+    namewodiacritics: Escuinapan
+    subdiv: SIN
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '2249N 10546W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX EDM'
+    name: 'Estado de Mexico'
+    namewodiacritics: 'Estado de Mexico'
+    subdiv: CAM
+    function: '--3-----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '1801N 09052W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX FCP'
+    name: 'Felipe Carrillo Puerto'
+    namewodiacritics: 'Felipe Carrillo Puerto'
+    subdiv: ROO
+    function: '--3-----'
+    status: RL
+    date: '0307'
+    iata: ''
+    coordinates: '1935N 08803W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX FLF'
+    name: 'Fortin de las Flores'
+    namewodiacritics: 'Fortin de las Flores'
+    subdiv: VER
+    function: '-----6--'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '1913N 09615W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX FGE'
+    name: 'Fresnillo de González Echeverría'
+    namewodiacritics: 'Fresnillo de Gonzalez Echeverria'
+    subdiv: ZAC
+    function: '--3-----'
+    status: RL
+    date: '0307'
+    iata: ''
+    coordinates: '2309N 10251W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX FRN'
+    name: Frontera
+    namewodiacritics: Frontera
+    subdiv: TAB
+    function: 1-------
+    status: AI
+    date: '0907'
+    iata: ''
+    coordinates: '1832N 09238W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX FTR'
+    name: Frontera
+    namewodiacritics: Frontera
+    subdiv: COA
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '2655N 10127W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX FRC'
+    name: 'Frontera Comalapa'
+    namewodiacritics: 'Frontera Comalapa'
+    subdiv: CHP
+    function: '--3-----'
+    status: RQ
+    date: '0607'
+    iata: ''
+    coordinates: '1539N 09208W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX FTZ'
+    name: Fronteras
+    namewodiacritics: Fronteras
+    subdiv: SON
+    function: '--3-----'
+    status: RL
+    date: '0201'
+    iata: ''
+    coordinates: '3053N 10934W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX GNL'
+    name: Garcia
+    namewodiacritics: Garcia
+    subdiv: MEX
+    function: '--3-----'
+    status: RL
+    date: '1207'
+    iata: ''
+    coordinates: '2549N 10035W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX GGA'
+    name: 'Garza García'
+    namewodiacritics: 'Garza Garcia'
+    subdiv: NLE
+    function: '-23-----'
+    status: RL
+    date: '0407'
+    iata: ''
+    coordinates: '2540N 10024W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX GEN'
+    name: 'General Cepeda'
+    namewodiacritics: 'General Cepeda'
+    subdiv: COA
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '2523N 10127W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX GET'
+    name: 'General Terán'
+    namewodiacritics: 'General Teran'
+    subdiv: NLE
+    function: 1-3-----
+    status: RL
+    date: '0307'
+    iata: ''
+    coordinates: '2516N 09941W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX GSC'
+    name: 'Golfo de Santa Clara'
+    namewodiacritics: 'Golfo de Santa Clara'
+    subdiv: SON
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '3141N 11429W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX GMF'
+    name: 'Gómez Farías'
+    namewodiacritics: 'Gomez Farias'
+    subdiv: JAL
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '1947N 10329W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX GMP'
+    name: 'Gómez Palacio'
+    namewodiacritics: 'Gomez Palacio'
+    subdiv: DUR
+    function: '--3-----'
+    status: RL
+    date: '0212'
+    iata: ''
+    coordinates: '2545N 10330W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX GON'
+    name: González
+    namewodiacritics: Gonzalez
+    subdiv: TAM
+    function: '-----6--'
+    status: RL
+    date: '1201'
+    iata: ''
+    coordinates: '2248N 09941W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX GRA'
+    name: Granjas
+    namewodiacritics: Granjas
+    subdiv: GUA
+    function: 1----6--
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '2111N 10145W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX GDL'
+    name: Guadalajara
+    namewodiacritics: Guadalajara
+    subdiv: JAL
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX GLP'
+    name: Guadalupe
+    namewodiacritics: Guadalupe
+    subdiv: NLE
+    function: '--3-----'
+    status: RL
+    date: '0207'
+    iata: ''
+    coordinates: '2540N 10015W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX GVI'
+    name: 'Guadalupe Victoria'
+    namewodiacritics: 'Guadalupe Victoria'
+    subdiv: DUR
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '2426N 10407W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX GUL'
+    name: Guamúchil
+    namewodiacritics: Guamuchil
+    subdiv: SIN
+    function: '-----6--'
+    status: RL
+    date: '1201'
+    iata: ''
+    coordinates: '2528N 10806W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX GUV'
+    name: Guanacevi
+    namewodiacritics: Guanacevi
+    subdiv: DUR
+    function: '--3-----'
+    status: RQ
+    date: '0607'
+    iata: ''
+    coordinates: '2556N 10556W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX GUA'
+    name: Guanajuato
+    namewodiacritics: Guanajuato
+    subdiv: GUA
+    function: '--3-----'
+    status: RL
+    date: '0212'
+    iata: ''
+    coordinates: '2101N 10115W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX GSV'
+    name: Guasave
+    namewodiacritics: Guasave
+    subdiv: SIN
+    function: 1-3--6--
+    status: RL
+    date: '0307'
+    iata: ''
+    coordinates: '2534N 10827W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX GYA'
+    name: Guayabitos
+    namewodiacritics: Guayabitos
+    subdiv: NAY
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '2121N 10508W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX GYM'
+    name: Guaymas
+    namewodiacritics: Guaymas
+    subdiv: SON
+    function: 1--4----
+    status: AI
+    date: '0907'
+    iata: ''
+    coordinates: '2755N 11053W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX GUB'
+    name: 'Guerrero Negro'
+    namewodiacritics: 'Guerrero Negro'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX GMA'
+    name: 'Gustavo A. Madero'
+    namewodiacritics: 'Gustavo A. Madero'
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '1928N 09905W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX HMO'
+    name: Hermosillo
+    namewodiacritics: Hermosillo
+    subdiv: SON
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX HZR'
+    name: 'Heroica Zitacuaro'
+    namewodiacritics: 'Heroica Zitacuaro'
+    subdiv: MIC
+    function: '--3-----'
+    status: RL
+    date: '1207'
+    iata: ''
+    coordinates: '1924N 10022W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX HDG'
+    name: Hidalgo
+    namewodiacritics: Hidalgo
+    subdiv: CAM
+    function: '--3-----'
+    status: RL
+    date: '0307'
+    iata: ''
+    coordinates: '1904N 09053W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX HDP'
+    name: 'Hidalgo del Parral'
+    namewodiacritics: 'Hidalgo del Parral'
+    subdiv: CHH
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '2656N 10540W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX HOP'
+    name: Hopelchen
+    namewodiacritics: Hopelchen
+    subdiv: CAM
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '1946N 08951W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX HJP'
+    name: Huajuapan
+    namewodiacritics: Huajuapan
+    subdiv: OAX
+    function: '--3-----'
+    status: RQ
+    date: '0607'
+    iata: ''
+    coordinates: '1748N 09747W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX HAU'
+    name: Huamantla
+    namewodiacritics: Huamantla
+    subdiv: TLA
+    function: '-23-----'
+    status: RL
+    date: '0401'
+    iata: ''
+    coordinates: '1919N 09756W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX HUA'
+    name: Huatabampo
+    namewodiacritics: Huatabampo
+    subdiv: SON
+    function: '--3-----'
+    status: RL
+    date: '0212'
+    iata: ''
+    coordinates: '2650N 10938W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX HTO'
+    name: 'Huatulco (Santa María Huatulco)'
+    namewodiacritics: 'Huatulco (Santa Maria Huatulco)'
+    subdiv: OAX
+    function: 1-3-----
+    status: AI
+    date: '0907'
+    iata: ''
+    coordinates: '1550N 09619W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX HDC'
+    name: 'Huatusco de Chicuellar'
+    namewodiacritics: 'Huatusco de Chicuellar'
+    subdiv: VER
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '1909N 09657W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX HUO'
+    name: Huauchinango
+    namewodiacritics: Huauchinango
+    subdiv: PUE
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '2011N 09803W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX HYC'
+    name: Huayacocotla
+    namewodiacritics: Huayacocotla
+    subdiv: VER
+    function: '--3-----'
+    status: RQ
+    date: '0607'
+    iata: ''
+    coordinates: '2034N 09829W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX HZC'
+    name: Huazulco
+    namewodiacritics: Huazulco
+    subdiv: MOR
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '1845N 09846W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX HHL'
+    name: Huehuetlan
+    namewodiacritics: Huehuetlan
+    subdiv: SLP
+    function: '--3-----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '2134N 09858W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX HUE'
+    name: Huehuetoca
+    namewodiacritics: Huehuetoca
+    subdiv: ZAC
+    function: '--3-----'
+    status: RL
+    date: '0101'
+    iata: ''
+    coordinates: '2301N 10130W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX HJZ'
+    name: Huejotzingo
+    namewodiacritics: Huejotzingo
+    subdiv: PUE
+    function: '--3-----'
+    status: RQ
+    date: '0607'
+    iata: ''
+    coordinates: '1910N 09824W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX HUJ'
+    name: 'Huejutla de Reyes'
+    namewodiacritics: 'Huejutla de Reyes'
+    subdiv: HID
+    function: '--3-----'
+    status: RQ
+    date: '0607'
+    iata: ''
+    coordinates: '2107N 09825W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX HUT'
+    name: Huetamo
+    namewodiacritics: Huetamo
+    subdiv: MIC
+    function: '--3-----'
+    status: RQ
+    date: '0607'
+    iata: ''
+    coordinates: '1837N 10054W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX HPA'
+    name: Huichapan
+    namewodiacritics: Huichapan
+    subdiv: HID
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '2023N 09939W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX HHY'
+    name: Huichihuayan
+    namewodiacritics: Huichihuayan
+    subdiv: SLP
+    function: '--3-----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '2130N 09857W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX HUI'
+    name: Huimanguillo
+    namewodiacritics: Huimanguillo
+    subdiv: TAB
+    function: '--3-----'
+    status: RQ
+    date: '0607'
+    iata: ''
+    coordinates: '1751N 09323W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX HXD'
+    name: 'Huixquilucan de Degollado'
+    namewodiacritics: 'Huixquilucan de Degollado'
+    subdiv: MEX
+    function: '-23-----'
+    status: RL
+    date: '0601'
+    iata: ''
+    coordinates: '1921N 09922W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX IGU'
+    name: Iguala
+    namewodiacritics: Iguala
+    subdiv: GRO
+    function: '--3-----'
+    status: RL
+    date: '0701'
+    iata: ''
+    coordinates: '1751N 10022W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX IMU'
+    name: Imuris
+    namewodiacritics: Imuris
+    subdiv: SON
+    function: '--3--6--'
+    status: RQ
+    date: '0607'
+    iata: ''
+    coordinates: '3047N 11051W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX IRP'
+    name: Irapuato
+    namewodiacritics: Irapuato
+    subdiv: GUA
+    function: '--3-----'
+    status: RL
+    date: '0101'
+    iata: ''
+    coordinates: '2040N 10121W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX ISL'
+    name: Isla
+    namewodiacritics: Isla
+    subdiv: VER
+    function: '--3-----'
+    status: RL
+    date: '0701'
+    iata: ''
+    coordinates: '1802N 09531W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX ISD'
+    name: 'Isla Cedros'
+    namewodiacritics: 'Isla Cedros'
+    subdiv: BCN
+    function: '--3-----'
+    status: RL
+    date: '0201'
+    iata: ''
+    coordinates: '2811N 11513W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX ISJ'
+    name: 'Isla Mujeres'
+    namewodiacritics: 'Isla Mujeres'
+    subdiv: ROO
+    function: 1--4----
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX SMI'
+    name: 'Isla San Marcos'
+    namewodiacritics: 'Isla San Marcos'
+    subdiv: BCS
+    function: 1-------
+    status: RL
+    date: '0501'
+    iata: ''
+    coordinates: '2713N 11206W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX AC3'
+    name: Ixhuatepec
+    namewodiacritics: Ixhuatepec
+    subdiv: VER
+    function: '--3-----'
+    status: RL
+    date: '1207'
+    iata: ''
+    coordinates: '1752N 09437W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX IST'
+    name: 'Ixhuatlan del Sureste'
+    namewodiacritics: 'Ixhuatlan del Sureste'
+    subdiv: VER
+    function: '-----6--'
+    status: RL
+    date: '1201'
+    iata: ''
+    coordinates: '1801N 09423W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX IXM'
+    name: Ixmiquilpan
+    namewodiacritics: Ixmiquilpan
+    subdiv: HID
+    function: '--3-----'
+    status: RQ
+    date: '0607'
+    iata: ''
+    coordinates: '2029N 09913W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX ZIH'
+    name: Ixtapa/Zihuatanejo
+    namewodiacritics: Ixtapa/Zihuatanejo
+    subdiv: GRO
+    function: 1--4----
+    status: AI
+    date: '0907'
+    iata: ''
+    coordinates: '1740N 10139W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX ZIP'
+    name: Ixtapaluca
+    namewodiacritics: Ixtapaluca
+    subdiv: MEX
+    function: 1-3--6--
+    status: RL
+    date: '0307'
+    iata: ''
+    coordinates: '1917N 09833W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX IZT'
+    name: Ixtepec
+    namewodiacritics: Ixtepec
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX XHC'
+    name: Ixtlahuaca
+    namewodiacritics: Ixtlahuaca
+    subdiv: MEX
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '1934N 09946W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX QXT'
+    name: 'Ixtlahuaca de Villada'
+    namewodiacritics: 'Ixtlahuaca de Villada'
+    subdiv: MEX
+    function: '--3-----'
+    status: RL
+    date: '1207'
+    iata: ''
+    coordinates: '1854N 09943W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX JLM'
+    name: 'Ixtlahuacan de los Membrillos'
+    namewodiacritics: 'Ixtlahuacan de los Membrillos'
+    subdiv: JAL
+    function: '-----6--'
+    status: RQ
+    date: '0907'
+    iata: ''
+    coordinates: '2021N 10311W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX LCO'
+    name: Iztacalco
+    namewodiacritics: Iztacalco
+    subdiv: ''
+    function: '-----6--'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '1923N 09905W'
+    remarks: ''
+-
+    ch: ¦
+    locode: 'MX IZP'
+    name: Iztapalapa
+    namewodiacritics: Iztapalapa
+    subdiv: DIF
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '1921N 09903W'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'MX JCN'
+    name: Jacona
+    namewodiacritics: Jacona
+    subdiv: JAL
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '2108N 10204W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX JPR'
+    name: 'Jacona de Plancarte'
+    namewodiacritics: 'Jacona de Plancarte'
+    subdiv: MIC
+    function: '--3-----'
+    status: RL
+    date: '0307'
+    iata: ''
+    coordinates: '1957N 10216W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX JAA'
+    name: Jalacingo
+    namewodiacritics: Jalacingo
+    subdiv: VER
+    function: '--3--6--'
+    status: RL
+    date: '0407'
+    iata: ''
+    coordinates: '1948N 09718W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX JAL'
+    name: Jalapa
+    namewodiacritics: Jalapa
+    subdiv: ''
+    function: '--34----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX JLC'
+    name: Jalisco
+    namewodiacritics: Jalisco
+    subdiv: DUR
+    function: '--3--6--'
+    status: RL
+    date: '0401'
+    iata: ''
+    coordinates: '2426N 10242W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX JAO'
+    name: Jalostotitlan
+    namewodiacritics: Jalostotitlan
+    subdiv: JAL
+    function: '--3-----'
+    status: RQ
+    date: '0607'
+    iata: ''
+    coordinates: '2110N 10228W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX JLP'
+    name: Jaltepec
+    namewodiacritics: Jaltepec
+    subdiv: MEX
+    function: '-2---6--'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '1944N 09838W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX JDP'
+    name: 'Jaral del Progreso'
+    namewodiacritics: 'Jaral del Progreso'
+    subdiv: GUA
+    function: '--3-----'
+    status: RQ
+    date: '0607'
+    iata: ''
+    coordinates: '2021N 10104W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX JU2'
+    name: Jaumave
+    namewodiacritics: Jaumave
+    subdiv: TAM
+    function: '--3-----'
+    status: RL
+    date: '1207'
+    iata: ''
+    coordinates: '2325N 09923W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX JZA'
+    name: Jerez
+    namewodiacritics: Jerez
+    subdiv: ZAC
+    function: 1-------
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX JSM'
+    name: 'Jesús María'
+    namewodiacritics: 'Jesus Maria'
+    subdiv: JAL
+    function: '--3-----'
+    status: RL
+    date: '1201'
+    iata: ''
+    coordinates: '2104N 10241W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX JIL'
+    name: Jilotepec
+    namewodiacritics: Jilotepec
+    subdiv: MEX
+    function: '-----6--'
+    status: RL
+    date: '1107'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX JPC'
+    name: Jilotepec
+    namewodiacritics: Jilotepec
+    subdiv: PUE
+    function: '--3-----'
+    status: RL
+    date: '0207'
+    iata: ''
+    coordinates: '1949N 09735W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX JTP'
+    name: Jilotepec
+    namewodiacritics: Jilotepec
+    subdiv: OAX
+    function: '--3-----'
+    status: RL
+    date: '0201'
+    iata: ''
+    coordinates: '1638N 09546W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX JTC'
+    name: 'Jilotepec de Abasolo'
+    namewodiacritics: 'Jilotepec de Abasolo'
+    subdiv: MEX
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '1957N 09932W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX JDD'
+    name: 'Jilotlan de los Dolores'
+    namewodiacritics: 'Jilotlan de los Dolores'
+    subdiv: JAL
+    function: '-----6--'
+    status: RQ
+    date: '1007'
+    iata: ''
+    coordinates: '1911N 10313W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX JMN'
+    name: Jiménez
+    namewodiacritics: Jimenez
+    subdiv: CHH
+    function: 1----6--
+    status: RL
+    date: '1201'
+    iata: ''
+    coordinates: '2820N 10524W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX JIQ'
+    name: 'Jiquilpan de Juarez'
+    namewodiacritics: 'Jiquilpan de Juarez'
+    subdiv: MIC
+    function: '-----6--'
+    status: RL
+    date: '1107'
+    iata: ''
+    coordinates: '1959N 10243W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX JIU'
+    name: 'Jiutepec (Temixco)'
+    namewodiacritics: 'Jiutepec (Temixco)'
+    subdiv: MOR
+    function: '--3-----'
+    status: RL
+    date: '0501'
+    iata: ''
+    coordinates: '1851N 09914W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX JOC'
+    name: Jocotitlan
+    namewodiacritics: Jocotitlan
+    subdiv: MEX
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '1942N 09947W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX JOJ'
+    name: Jojutla
+    namewodiacritics: Jojutla
+    subdiv: MOR
+    function: '-----6--'
+    status: RL
+    date: '1201'
+    iata: ''
+    coordinates: '1836N 09911W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX JOL'
+    name: Jolalpan
+    namewodiacritics: Jolalpan
+    subdiv: PUE
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '1820N 09851W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX JRC'
+    name: 'Juan Rodriguez Clara'
+    namewodiacritics: 'Juan Rodriguez Clara'
+    subdiv: VER
+    function: '--3-----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '1759N 09524W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX JUL'
+    name: Juanacatlán
+    namewodiacritics: Juanacatlan
+    subdiv: JAL
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '2031N 10310W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX JRZ'
+    name: Juarez
+    namewodiacritics: Juarez
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX JUZ'
+    name: Juarez
+    namewodiacritics: Juarez
+    subdiv: CHH
+    function: '--3-----'
+    status: RQ
+    date: '0607'
+    iata: ''
+    coordinates: '3018N 10804W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX JUP'
+    name: Juchipila
+    namewodiacritics: Juchipila
+    subdiv: ZAC
+    function: '--3-----'
+    status: RQ
+    date: '0607'
+    iata: ''
+    coordinates: '2124N 10307W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX LSN'
+    name: 'La Ascención'
+    namewodiacritics: 'La Ascencion'
+    subdiv: NLE
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '2419N 09954W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX LBR'
+    name: 'La Barca'
+    namewodiacritics: 'La Barca'
+    subdiv: JAL
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '2017N 10234W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX COF'
+    name: 'La Cofradía'
+    namewodiacritics: 'La Cofradia'
+    subdiv: JAL
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '1946N 10308W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX LCZ'
+    name: 'La Cruz'
+    namewodiacritics: 'La Cruz'
+    subdiv: SIN
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '2355N 10654W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX LAE'
+    name: 'La Estancia'
+    namewodiacritics: 'La Estancia'
+    subdiv: GUA
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '2107N 10125W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX LAP'
+    name: 'La Paz'
+    namewodiacritics: 'La Paz'
+    subdiv: BCS
+    function: 1--4----
+    status: AI
+    date: '0907'
+    iata: ''
+    coordinates: '2408N 11018W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX LPC'
+    name: 'La Piedad de Cabadas'
+    namewodiacritics: 'La Piedad de Cabadas'
+    subdiv: MIC
+    function: '-23-----'
+    status: RL
+    date: '0501'
+    iata: ''
+    coordinates: '2021N 10200W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX TRI'
+    name: 'La Trinitaria'
+    namewodiacritics: 'La Trinitaria'
+    subdiv: CHP
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '1607N 09203W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX LTJ'
+    name: 'La Troje'
+    namewodiacritics: 'La Troje'
+    subdiv: AGU
+    function: 1----6--
+    status: RL
+    date: '1201'
+    iata: ''
+    coordinates: '2146N 10232W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX LOM'
+    name: 'Lagos de Moreno'
+    namewodiacritics: 'Lagos de Moreno'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX LDN'
+    name: 'Lampazos de Naranjo'
+    namewodiacritics: 'Lampazos de Naranjo'
+    subdiv: NLE
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '2701N 10031W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX LZC'
+    name: 'Lázaro Cárdenas'
+    namewodiacritics: 'Lazaro Cardenas'
+    subdiv: MIC
+    function: 1-------
+    status: AI
+    date: '0212'
+    iata: ''
+    coordinates: '1757N 10211W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX LEN'
+    name: Léon
+    namewodiacritics: Leon
+    subdiv: GUA
+    function: '---4----'
+    status: RL
+    date: '0212'
+    iata: BJX
+    coordinates: '2107N 10140W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX LER'
+    name: Lerma
+    namewodiacritics: Lerma
+    subdiv: BCN
+    function: '--3-----'
+    status: RL
+    date: '0701'
+    iata: ''
+    coordinates: '3206N 11507W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX LDV'
+    name: 'Lerma de Villada'
+    namewodiacritics: 'Lerma de Villada'
+    subdiv: MEX
+    function: '--3-----'
+    status: RL
+    date: '1207'
+    iata: ''
+    coordinates: '1917N 09930W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX LIB'
+    name: Libres
+    namewodiacritics: Libres
+    subdiv: PUE
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '1928N 09741W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX LIN'
+    name: Linares
+    namewodiacritics: Linares
+    subdiv: NLE
+    function: '-23-----'
+    status: RL
+    date: '0101'
+    iata: ''
+    coordinates: '2451N 09934W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX LDC'
+    name: 'Llera de Canales'
+    namewodiacritics: 'Llera de Canales'
+    subdiv: TAM
+    function: '--3-----'
+    status: RQ
+    date: '0607'
+    iata: ''
+    coordinates: '2319N 09900W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX LOB'
+    name: 'Loma Bonita'
+    namewodiacritics: 'Loma Bonita'
+    subdiv: OAX
+    function: '--3-----'
+    status: RQ
+    date: '0607'
+    iata: ''
+    coordinates: '1806N 09553W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX LOP'
+    name: 'Lopez Mateos'
+    namewodiacritics: 'Lopez Mateos'
+    subdiv: JAL
+    function: '--3-----'
+    status: RQ
+    date: '0607'
+    iata: ''
+    coordinates: '1941N 10458W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX LRO'
+    name: Loreto
+    namewodiacritics: Loreto
+    subdiv: BCS
+    function: '--3-----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '2601N 11121W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX LTO'
+    name: Loreto
+    namewodiacritics: Loreto
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '0907'
+    iata: ''
+    coordinates: '2601N 11237W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX LCB'
+    name: 'Los Cabos'
+    namewodiacritics: 'Los Cabos'
+    subdiv: BCS
+    function: '--3-----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '2252N 10954W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX LMM'
+    name: 'Los Mochis'
+    namewodiacritics: 'Los Mochis'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX LRY'
+    name: 'Los Reyes'
+    namewodiacritics: 'Los Reyes'
+    subdiv: MEX
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '1921N 09858W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX LRE'
+    name: 'Los Reyes'
+    namewodiacritics: 'Los Reyes'
+    subdiv: VER
+    function: '--3-----'
+    status: RL
+    date: '0407'
+    iata: ''
+    coordinates: '1839N 09702W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX LUM'
+    name: 'Luis Moya'
+    namewodiacritics: 'Luis Moya'
+    subdiv: ZAC
+    function: '--3-----'
+    status: RQ
+    date: '0607'
+    iata: ''
+    coordinates: '2226N 10214W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX MAD'
+    name: Madera
+    namewodiacritics: Madera
+    subdiv: CHH
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '2912N 10807W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX MDA'
+    name: Magdalena
+    namewodiacritics: Magdalena
+    subdiv: JAL
+    function: '--3-----'
+    status: RQ
+    date: '0607'
+    iata: ''
+    coordinates: '2054N 10358W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX MDK'
+    name: 'Magdalena de Kino'
+    namewodiacritics: 'Magdalena de Kino'
+    subdiv: SON
+    function: '-23-----'
+    status: RL
+    date: '0407'
+    iata: ''
+    coordinates: '3038N 11057W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX MHT'
+    name: Magdalena/Hostotipaquillo
+    namewodiacritics: Magdalena/Hostotipaquillo
+    subdiv: JAL
+    function: 1----6--
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '2055N 10357W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX ZLO'
+    name: Manzanillo
+    namewodiacritics: Manzanillo
+    subdiv: COL
+    function: 1--4----
+    status: AI
+    date: '0907'
+    iata: ''
+    coordinates: '1903N 10418W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX MPP'
+    name: Mapastepec
+    namewodiacritics: Mapastepec
+    subdiv: CHP
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '1526N 09254W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX MAV'
+    name: Maravatio
+    namewodiacritics: Maravatio
+    subdiv: MIC
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '1954N 10027W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX MSC'
+    name: Mariscala
+    namewodiacritics: Mariscala
+    subdiv: OAX
+    function: '--3-----'
+    status: RQ
+    date: '0607'
+    iata: ''
+    coordinates: '1752N 09808W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX MLT'
+    name: 'Martínez de La Torre'
+    namewodiacritics: 'Martinez de La Torre'
+    subdiv: VER
+    function: '--3-----'
+    status: RL
+    date: '0212'
+    iata: ''
+    coordinates: '2004N 09703W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX MCA'
+    name: Mascota
+    namewodiacritics: Mascota
+    subdiv: JAL
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '2031N 10447W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX MAM'
+    name: Matamoros
+    namewodiacritics: Matamoros
+    subdiv: TAM
+    function: '--34----'
+    status: AI
+    date: '0401'
+    iata: ''
+    coordinates: '2553N 09730W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX MMA'
+    name: Matamoros
+    namewodiacritics: Matamoros
+    subdiv: COA
+    function: '-----6--'
+    status: RQ
+    date: '1001'
+    iata: ''
+    coordinates: '2532N 19315W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX MTE'
+    name: Matehuala
+    namewodiacritics: Matehuala
+    subdiv: SLP
+    function: '--3-----'
+    status: RL
+    date: '0101'
+    iata: ''
+    coordinates: '2339N 10038W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX MTR'
+    name: 'Matias Romero'
+    namewodiacritics: 'Matias Romero'
+    subdiv: OAX
+    function: '--3-----'
+    status: RQ
+    date: '0607'
+    iata: ''
+    coordinates: '1653N 09501W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX MZT'
+    name: Mazatlan
+    namewodiacritics: Mazatlan
+    subdiv: SIN
+    function: 1--4----
+    status: AI
+    date: '0907'
+    iata: ''
+    coordinates: '2324N 10624W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX MEM'
+    name: 'Melchor Muzquiz'
+    namewodiacritics: 'Melchor Muzquiz'
+    subdiv: COA
+    function: '--3-----'
+    status: RQ
+    date: '0607'
+    iata: ''
+    coordinates: '2922N 10250W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX MID'
+    name: Mérida
+    namewodiacritics: Merida
+    subdiv: YUC
+    function: 1--4----
+    status: AI
+    date: '0212'
+    iata: ''
+    coordinates: '2058N 08937W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX MPC'
+    name: Metepec
+    namewodiacritics: Metepec
+    subdiv: MEX
+    function: '--3-----'
+    status: RL
+    date: '0601'
+    iata: ''
+    coordinates: '1915N 09937W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX MXL'
+    name: Mexicali
+    namewodiacritics: Mexicali
+    subdiv: BCN
+    function: '-234----'
+    status: AI
+    date: '0401'
+    iata: ''
+    coordinates: '3239N 11528W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX MEZ'
+    name: Mezquital
+    namewodiacritics: Mezquital
+    subdiv: NLE
+    function: '--3-----'
+    status: RQ
+    date: '0607'
+    iata: ''
+    coordinates: '2409N 09946W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX MTL'
+    name: Miacatlan
+    namewodiacritics: Miacatlan
+    subdiv: MOR
+    function: '-----6--'
+    status: RQ
+    date: '1001'
+    iata: ''
+    coordinates: '1846N 09922W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX MCN'
+    name: Michacan
+    namewodiacritics: Michacan
+    subdiv: MIC
+    function: '--3-----'
+    status: RQ
+    date: '0307'
+    iata: ''
+    coordinates: '1911N 10152W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX MIC'
+    name: Michoacán
+    namewodiacritics: Michoacan
+    subdiv: TAB
+    function: '--3-----'
+    status: RL
+    date: '0307'
+    iata: ''
+    coordinates: '1755N 09353W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX MHI'
+    name: 'Miguel Hidalgo'
+    namewodiacritics: 'Miguel Hidalgo'
+    subdiv: MEX
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '1925N 09912W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX MTT'
+    name: Minatitlan
+    namewodiacritics: Minatitlan
+    subdiv: VER
+    function: 1--4----
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX MIR'
+    name: Miramar
+    namewodiacritics: Miramar
+    subdiv: TAM
+    function: '--3-----'
+    status: RQ
+    date: '0607'
+    iata: ''
+    coordinates: '2220N 09752W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX MOL'
+    name: Molango
+    namewodiacritics: Molango
+    subdiv: HID
+    function: '--3-----'
+    status: RQ
+    date: '0607'
+    iata: ''
+    coordinates: '2048N 09843W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX LOV'
+    name: Monclova
+    namewodiacritics: Monclova
+    subdiv: COA
+    function: '--34----'
+    status: AI
+    date: '1101'
+    iata: ''
+    coordinates: '2654N 10125W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX MTM'
+    name: Montemorelos
+    namewodiacritics: Montemorelos
+    subdiv: NLE
+    function: '--3-----'
+    status: RL
+    date: '0101'
+    iata: ''
+    coordinates: '2511N 09950W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX TTE'
+    name: Monterrey
+    namewodiacritics: Monterrey
+    subdiv: CHP
+    function: '--3-----'
+    status: RL
+    date: '1207'
+    iata: ''
+    coordinates: '1605N 09323W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX MTY'
+    name: Monterrey
+    namewodiacritics: Monterrey
+    subdiv: NLE
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX MLM'
+    name: Morelia
+    namewodiacritics: Morelia
+    subdiv: MIC
+    function: '--34----'
+    status: AI
+    date: '0212'
+    iata: ''
+    coordinates: '1942N 10107W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX MOR'
+    name: Moroleón
+    namewodiacritics: Moroleon
+    subdiv: GUA
+    function: '--3--6--'
+    status: RL
+    date: '0501'
+    iata: ''
+    coordinates: '2008N 10112W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX MRE'
+    name: 'Morro Redondo'
+    namewodiacritics: 'Morro Redondo'
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '9506'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX MDF'
+    name: 'Motul de Felipe Carrillo Puerto'
+    namewodiacritics: 'Motul de Felipe Carrillo Puerto'
+    subdiv: YUC
+    function: '--3-----'
+    status: RL
+    date: '0201'
+    iata: ''
+    coordinates: '2106N 08917W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX MUG'
+    name: Mulegé
+    namewodiacritics: Mulege
+    subdiv: BCS
+    function: '---4----'
+    status: AI
+    date: '1101'
+    iata: ''
+    coordinates: '2653N 11159W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX NAC'
+    name: Nacajuca
+    namewodiacritics: Nacajuca
+    subdiv: TAB
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '1808N 09301W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX NDG'
+    name: 'Nacozari de Garcia'
+    namewodiacritics: 'Nacozari de Garcia'
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '9901'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX NAN'
+    name: Nanchital
+    namewodiacritics: Nanchital
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '9506'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX NOL'
+    name: Nápoles
+    namewodiacritics: Napoles
+    subdiv: HID
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '2003N 09911W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX NDJ'
+    name: 'Naucalpan de Juárez'
+    namewodiacritics: 'Naucalpan de Juarez'
+    subdiv: MEX
+    function: '--3-----'
+    status: RL
+    date: '0212'
+    iata: ''
+    coordinates: '1929N 09914W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX NAU'
+    name: Nautla
+    namewodiacritics: Nautla
+    subdiv: VER
+    function: 1-------
+    status: RL
+    date: '0212'
+    iata: ''
+    coordinates: '2013N 09647W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX NVA'
+    name: Nava
+    namewodiacritics: Nava
+    subdiv: COA
+    function: '--3-----'
+    status: RQ
+    date: '0907'
+    iata: ''
+    coordinates: '2825N 10046W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX NVS'
+    name: Navojoa
+    namewodiacritics: Navojoa
+    subdiv: SON
+    function: '--3-----'
+    status: RL
+    date: '0401'
+    iata: ''
+    coordinates: '2706N 10926W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX NVO'
+    name: Navolato
+    namewodiacritics: Navolato
+    subdiv: SIN
+    function: '--3-----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '2445N 10741W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX SAN'
+    name: Nextlalpan
+    namewodiacritics: Nextlalpan
+    subdiv: MEX
+    function: '--3-----'
+    status: RQ
+    date: '0607'
+    iata: ''
+    coordinates: '1944N 09904W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX NHY'
+    name: Nezahualcóyotl
+    namewodiacritics: Nezahualcoyotl
+    subdiv: MEX
+    function: '-23--6--'
+    status: RL
+    date: '0601'
+    iata: ''
+    coordinates: '1925N 09902W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX NRO'
+    name: 'Nicolas Romero'
+    namewodiacritics: 'Nicolas Romero'
+    subdiv: MEX
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '1937N 09918W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX NOG'
+    name: Nogales
+    namewodiacritics: Nogales
+    subdiv: SON
+    function: '-234----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: +
+    locode: 'MX ROO'
+    name: Noh-Bec
+    namewodiacritics: Noh-Bec
+    subdiv: ROO
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '1905N 08811W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX NNA'
+    name: Nonoalco
+    namewodiacritics: Nonoalco
+    subdiv: HID
+    function: '--3--6--'
+    status: RQ
+    date: '1001'
+    iata: ''
+    coordinates: '2005N 09806W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX NOP'
+    name: Nopala
+    namewodiacritics: Nopala
+    subdiv: HID
+    function: '--3-----'
+    status: RQ
+    date: '0607'
+    iata: ''
+    coordinates: '2015N 09939W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX NPC'
+    name: Nopalucan
+    namewodiacritics: Nopalucan
+    subdiv: PUE
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '1918N 09820W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX NCG'
+    name: 'Nueva Casas Grandes'
+    namewodiacritics: 'Nueva Casas Grandes'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX NIR'
+    name: 'Nueva Italia de Ruiz'
+    namewodiacritics: 'Nueva Italia de Ruiz'
+    subdiv: MIC
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '1901N 10206W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX NUR'
+    name: 'Nueva Rosita'
+    namewodiacritics: 'Nueva Rosita'
+    subdiv: COA
+    function: '--3-----'
+    status: RQ
+    date: '0607'
+    iata: ''
+    coordinates: '2757N 10113W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX NLD'
+    name: 'Nuevo Laredo'
+    namewodiacritics: 'Nuevo Laredo'
+    subdiv: TAM
+    function: '-234----'
+    status: AI
+    date: '0401'
+    iata: ''
+    coordinates: '2730N 09931W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX NLN'
+    name: 'Nuevo León'
+    namewodiacritics: 'Nuevo Leon'
+    subdiv: CHP
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '1638N 09233W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX NUO'
+    name: 'Nuevo Urecho'
+    namewodiacritics: 'Nuevo Urecho'
+    subdiv: MIC
+    function: '--3-----'
+    status: RQ
+    date: '0607'
+    iata: ''
+    coordinates: '1909N 10151W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX OAX'
+    name: Oaxaca
+    namewodiacritics: Oaxaca
+    subdiv: OAX
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX OBJ'
+    name: Obrajuelo
+    namewodiacritics: Obrajuelo
+    subdiv: GUA
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '2035N 10033W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX OBR'
+    name: Obregón
+    namewodiacritics: Obregon
+    subdiv: SLP
+    function: 1-3--6--
+    status: RL
+    date: '0701'
+    iata: ''
+    coordinates: '2215N 10116W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX OCS'
+    name: Ocosingo
+    namewodiacritics: Ocosingo
+    subdiv: CHP
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '1654N 09202W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX OCO'
+    name: Ocotlan
+    namewodiacritics: Ocotlan
+    subdiv: JAL
+    function: '-234----'
+    status: RL
+    date: '0101'
+    iata: ''
+    coordinates: '2020N 10246W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX OYO'
+    name: Ocoyoacac
+    namewodiacritics: Ocoyoacac
+    subdiv: MEX
+    function: '-23-----'
+    status: RL
+    date: '0307'
+    iata: ''
+    coordinates: '1916N 09927W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX OJI'
+    name: Ojinaga
+    namewodiacritics: Ojinaga
+    subdiv: CHH
+    function: '-23-----'
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX OJO'
+    name: 'Ojo Caliente'
+    namewodiacritics: 'Ojo Caliente'
+    subdiv: ZAC
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '2234N 10215W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX OJU'
+    name: Ojuelos
+    namewodiacritics: Ojuelos
+    subdiv: JAL
+    function: '--3-----'
+    status: RQ
+    date: '0607'
+    iata: ''
+    coordinates: '2111N 10243W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX OME'
+    name: Ometepec
+    namewodiacritics: Ometepec
+    subdiv: GRO
+    function: '--3-----'
+    status: RQ
+    date: '0607'
+    iata: ''
+    coordinates: '1641N 09823W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX ORL'
+    name: Oriental
+    namewodiacritics: Oriental
+    subdiv: TLA
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '1922N 09737W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX ORI'
+    name: Orizaba
+    namewodiacritics: Orizaba
+    subdiv: VER
+    function: '--3-----'
+    status: RL
+    date: '9901'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX OXK'
+    name: Oxkutzcab
+    namewodiacritics: Oxkutzcab
+    subdiv: YUC
+    function: '--3-----'
+    status: RQ
+    date: '0607'
+    iata: ''
+    coordinates: '2018N 08925W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX PAC'
+    name: Pachuca
+    namewodiacritics: Pachuca
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX PAJ'
+    name: Pajaritos
+    namewodiacritics: Pajaritos
+    subdiv: VER
+    function: 1-------
+    status: RQ
+    date: '0207'
+    iata: ''
+    coordinates: '1807N 09423W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX PQM'
+    name: Palenque
+    namewodiacritics: Palenque
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX PNT'
+    name: Panotla
+    namewodiacritics: Panotla
+    subdiv: TLA
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '1919N 09816W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX PAN'
+    name: Pantaco
+    namewodiacritics: Pantaco
+    subdiv: ''
+    function: 0-------
+    status: RQ
+    date: '9307'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX PAP'
+    name: Papalotla
+    namewodiacritics: Papalotla
+    subdiv: TLA
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '1909N 09812W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX PPT'
+    name: Papantla
+    namewodiacritics: Papantla
+    subdiv: VER
+    function: '-----6--'
+    status: RL
+    date: '1201'
+    iata: ''
+    coordinates: '2026N 09719W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX PRO'
+    name: Paraiso
+    namewodiacritics: Paraiso
+    subdiv: TAB
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '1811N 09212W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX PRS'
+    name: 'Parras de la Fuente'
+    namewodiacritics: 'Parras de la Fuente'
+    subdiv: COA
+    function: '--3-----'
+    status: RL
+    date: '0212'
+    iata: ''
+    coordinates: '2525N 10211W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX PSO'
+    name: 'Paso de Ovejas'
+    namewodiacritics: 'Paso de Ovejas'
+    subdiv: VER
+    function: '--3-----'
+    status: RL
+    date: '0701'
+    iata: ''
+    coordinates: '1917N 09626W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX PZO'
+    name: Patzcuaro
+    namewodiacritics: Patzcuaro
+    subdiv: MIC
+    function: '--3-----'
+    status: RQ
+    date: '0607'
+    iata: ''
+    coordinates: '1931N 10136W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX OEO'
+    name: 'Pedro Escobedo'
+    namewodiacritics: 'Pedro Escobedo'
+    subdiv: QUE
+    function: '--3-----'
+    status: RL
+    date: '1207'
+    iata: ''
+    coordinates: '2030N 10008W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX PJM'
+    name: Penjamo
+    namewodiacritics: Penjamo
+    subdiv: GUA
+    function: '--3-----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '2026N 10144W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX ZPN'
+    name: Periban
+    namewodiacritics: Periban
+    subdiv: MIC
+    function: '-----6--'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '1933N 10224W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX PRT'
+    name: Perote
+    namewodiacritics: Perote
+    subdiv: VER
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '1934N 09714W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX PER'
+    name: Perula
+    namewodiacritics: Perula
+    subdiv: JAL
+    function: '--3-----'
+    status: RQ
+    date: '0607'
+    iata: ''
+    coordinates: '1935N 10507W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX PQA'
+    name: Pesqueria
+    namewodiacritics: Pesqueria
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '9705'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX PIC'
+    name: Pichilingue
+    namewodiacritics: Pichilingue
+    subdiv: BCS
+    function: 1-3-----
+    status: RL
+    date: '0401'
+    iata: ''
+    coordinates: '2418N 11019W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX PIE'
+    name: 'Piedras Negras'
+    namewodiacritics: 'Piedras Negras'
+    subdiv: COA
+    function: '--3-----'
+    status: RL
+    date: '0212'
+    iata: ''
+    coordinates: '2843N 10031W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX PIJ'
+    name: Pijijiapan
+    namewodiacritics: Pijijiapan
+    subdiv: CHP
+    function: '--3-----'
+    status: RQ
+    date: '0607'
+    iata: ''
+    coordinates: '1540N 09313W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX PNO'
+    name: 'Pinotepa Nacional'
+    namewodiacritics: 'Pinotepa Nacional'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX PLS'
+    name: 'Platon Sanchez'
+    namewodiacritics: 'Platon Sanchez'
+    subdiv: VER
+    function: '--3-----'
+    status: RQ
+    date: '0607'
+    iata: ''
+    coordinates: '2116N 09823W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX PCM'
+    name: 'Playa del Carmen'
+    namewodiacritics: 'Playa del Carmen'
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '0907'
+    iata: ''
+    coordinates: '2037N 08704W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX PLM'
+    name: Plomosas
+    namewodiacritics: Plomosas
+    subdiv: HID
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '2023N 09853W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX PLO'
+    name: Plomosas
+    namewodiacritics: Plomosas
+    subdiv: CHH
+    function: '--3-----'
+    status: RQ
+    date: '0607'
+    iata: ''
+    coordinates: '2904N 10514W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX PUH'
+    name: Pochutla
+    namewodiacritics: Pochutla
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX PCA'
+    name: Pochutla
+    namewodiacritics: Pochutla
+    subdiv: GRO
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '1820N 10141W'
+    remarks: ''
+-
+    ch: ¦
+    locode: 'MX POO'
+    name: Polanco
+    namewodiacritics: Polanco
+    subdiv: DIF
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '1925N 09911W'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'MX POM'
+    name: Pomoca
+    namewodiacritics: Pomoca
+    subdiv: TAB
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '1734N 09238W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX PTN'
+    name: Poncitlan
+    namewodiacritics: Poncitlan
+    subdiv: JAL
+    function: '--3-----'
+    status: RL
+    date: '0701'
+    iata: ''
+    coordinates: '2023N 10256W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX PIB'
+    name: 'Port Isabel'
+    namewodiacritics: 'Port Isabel'
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '9506'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX PAZ'
+    name: 'Poza Rica'
+    namewodiacritics: 'Poza Rica'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX PGO'
+    name: Progreso
+    namewodiacritics: Progreso
+    subdiv: YUC
+    function: 1-------
+    status: AI
+    date: '0907'
+    iata: ''
+    coordinates: '2116N 08939W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX PBC'
+    name: Puebla
+    namewodiacritics: Puebla
+    subdiv: PUE
+    function: '--34----'
+    status: AI
+    date: '0212'
+    iata: ''
+    coordinates: '1903N 09812W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX PDI'
+    name: 'Puente de Ixtla'
+    namewodiacritics: 'Puente de Ixtla'
+    subdiv: MOR
+    function: '--3-----'
+    status: RL
+    date: '1207'
+    iata: ''
+    coordinates: '1837N 09918W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX PNA'
+    name: 'Puente Nacional'
+    namewodiacritics: 'Puente Nacional'
+    subdiv: VER
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '1920N 09626W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX PTA'
+    name: Puerta
+    namewodiacritics: Puerta
+    subdiv: SIN
+    function: 1-3--6--
+    status: RL
+    date: '0701'
+    iata: ''
+    coordinates: '2322N 10620W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX PNG'
+    name: 'Puerto Ángel'
+    namewodiacritics: 'Puerto Angel'
+    subdiv: OAX
+    function: 1-3--6--
+    status: RL
+    date: '0307'
+    iata: ''
+    coordinates: '1540N 09629W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX PES'
+    name: 'Puerto Escondido'
+    namewodiacritics: 'Puerto Escondido'
+    subdiv: BCS
+    function: '--3-----'
+    status: RL
+    date: '1101'
+    iata: ''
+    coordinates: '2549N 11119W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX PXM'
+    name: 'Puerto Escondido'
+    namewodiacritics: 'Puerto Escondido'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX PJZ'
+    name: 'Puerto Juárez'
+    namewodiacritics: 'Puerto Juarez'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0212'
+    iata: ''
+    coordinates: '2111N 08649W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX PMD'
+    name: 'Puerto Madero'
+    namewodiacritics: 'Puerto Madero'
+    subdiv: CHP
+    function: 1-3-----
+    status: AI
+    date: '0907'
+    iata: ''
+    coordinates: '1443N 09225W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX PMX'
+    name: 'Puérto Mexico'
+    namewodiacritics: 'Puerto Mexico'
+    subdiv: VER
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX PMS'
+    name: 'Puerto Morelos'
+    namewodiacritics: 'Puerto Morelos'
+    subdiv: ROO
+    function: 1-3-----
+    status: RL
+    date: '0212'
+    iata: ''
+    coordinates: '2050N 08652W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX PPE'
+    name: 'Puerto Peñasco'
+    namewodiacritics: 'Puerto Penasco'
+    subdiv: SON
+    function: 1--4----
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX PRC'
+    name: 'Puerto Rico'
+    namewodiacritics: 'Puerto Rico'
+    subdiv: CHP
+    function: '--3-----'
+    status: RL
+    date: '1101'
+    iata: ''
+    coordinates: '1633N 09153W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX PVR'
+    name: 'Puerto Vallarta'
+    namewodiacritics: 'Puerto Vallarta'
+    subdiv: JAL
+    function: 1--4----
+    status: AI
+    date: '0907'
+    iata: ''
+    coordinates: '2036N 10513W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX PBJ'
+    name: 'Punta Baja'
+    namewodiacritics: 'Punta Baja'
+    subdiv: BCN
+    function: 1-3--6--
+    status: RL
+    date: '0701'
+    iata: ''
+    coordinates: '2958N 11549W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX PCV'
+    name: 'Punta Chivato'
+    namewodiacritics: 'Punta Chivato'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX PUC'
+    name: 'Punta Colonet'
+    namewodiacritics: 'Punta Colonet'
+    subdiv: BCN
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '3104N 11612W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX PCO'
+    name: 'Punta Colorada'
+    namewodiacritics: 'Punta Colorada'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX ZPA'
+    name: 'Punta de Mita'
+    namewodiacritics: 'Punta de Mita'
+    subdiv: NAY
+    function: '-----6--'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '2046N 10531W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX PVN'
+    name: 'Punta Venado'
+    namewodiacritics: 'Punta Venado'
+    subdiv: ROO
+    function: 1-------
+    status: RL
+    date: '0407'
+    iata: ''
+    coordinates: '2032N 08709W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX PPR'
+    name: Purépero
+    namewodiacritics: Purepero
+    subdiv: MIC
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '1955N 10201W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX PDB'
+    name: 'Purisima de Bustos'
+    namewodiacritics: 'Purisima de Bustos'
+    subdiv: GUA
+    function: '--3-----'
+    status: RQ
+    date: '0607'
+    iata: ''
+    coordinates: '2103N 10152W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX PDR'
+    name: 'Purisima del Rincon'
+    namewodiacritics: 'Purisima del Rincon'
+    subdiv: GUA
+    function: '--3-----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '2101N 10153W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX PMR'
+    name: 'Purísima del Rincón'
+    namewodiacritics: 'Purisima del Rincon'
+    subdiv: GUA
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '2102N 10152W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX PUT'
+    name: 'Putla de Guerrero'
+    namewodiacritics: 'Putla de Guerrero'
+    subdiv: OAX
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '1702N 09756W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX QUP'
+    name: Quecholac
+    namewodiacritics: Quecholac
+    subdiv: PUE
+    function: '--3-----'
+    status: RL
+    date: '0307'
+    iata: ''
+    coordinates: '1857N 09740W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX QRO'
+    name: Querétaro
+    namewodiacritics: Queretaro
+    subdiv: QUE
+    function: '--34----'
+    status: AI
+    date: '0212'
+    iata: ''
+    coordinates: '2036N 10024W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX RBG'
+    name: 'Rabon Grande/Coatzacoalcos'
+    namewodiacritics: 'Rabon Grande/Coatzacoalcos'
+    subdiv: VER
+    function: 1-3--6--
+    status: RL
+    date: '0701'
+    iata: ''
+    coordinates: '1813N 09424W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX RMA'
+    name: 'Ramos Arizpe'
+    namewodiacritics: 'Ramos Arizpe'
+    subdiv: COA
+    function: '--3-----'
+    status: RL
+    date: '0212'
+    iata: ''
+    coordinates: '2533N 10058W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX RAY'
+    name: Rayon
+    namewodiacritics: Rayon
+    subdiv: SON
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '2943N 11035W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX REX'
+    name: Reynosa
+    namewodiacritics: Reynosa
+    subdiv: TAM
+    function: '-234----'
+    status: AI
+    date: '0401'
+    iata: ''
+    coordinates: '2605N 09817W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX RDR'
+    name: 'Rincon de Romos'
+    namewodiacritics: 'Rincon de Romos'
+    subdiv: AGU
+    function: '--3-----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '2213N 10219W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX RDO'
+    name: 'Rio de Ocampo'
+    namewodiacritics: 'Rio de Ocampo'
+    subdiv: CHH
+    function: '--3-----'
+    status: RQ
+    date: '0607'
+    iata: ''
+    coordinates: '2758N 10836W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX RIV'
+    name: 'Rio Verde'
+    namewodiacritics: 'Rio Verde'
+    subdiv: SLP
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '2156N 09959W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX ROD'
+    name: Rodeo
+    namewodiacritics: Rodeo
+    subdiv: DUR
+    function: '--3-----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '2510N 10433W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX RMT'
+    name: Romita
+    namewodiacritics: Romita
+    subdiv: GUA
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '2052N 10131W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX RSR'
+    name: Rosario
+    namewodiacritics: Rosario
+    subdiv: SIN
+    function: '--3-----'
+    status: RQ
+    date: '0607'
+    iata: ''
+    coordinates: '2259N 10551W'
+    remarks: ''
+-
+    ch: ¦
+    locode: 'MX ZRO'
+    name: Rosarito
+    namewodiacritics: Rosarito
+    subdiv: BCN
+    function: '-----6--'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '3220N 11702W'
+    remarks: '@Sub'
+-
+    ch: ¦
+    locode: 'MX RST'
+    name: 'Rosarito Terminal'
+    namewodiacritics: 'Rosarito Terminal'
+    subdiv: BCN
+    function: 1-------
+    status: AI
+    date: '1307'
+    iata: ''
+    coordinates: '3220N 11706W'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'MX SBN'
+    name: Sabinas
+    namewodiacritics: Sabinas
+    subdiv: COA
+    function: '-23-----'
+    status: RL
+    date: '0507'
+    iata: ''
+    coordinates: '2751N 10107W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX SHO'
+    name: 'Sabinas Hidalgo'
+    namewodiacritics: 'Sabinas Hidalgo'
+    subdiv: NLE
+    function: '--3-----'
+    status: RL
+    date: '0701'
+    iata: ''
+    coordinates: '2630N 10010W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX SMC'
+    name: Salamanca
+    namewodiacritics: Salamanca
+    subdiv: GUA
+    function: '--3-----'
+    status: RL
+    date: '0101'
+    iata: ''
+    coordinates: '2034N 10111W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX SCX'
+    name: 'Salina Cruz'
+    namewodiacritics: 'Salina Cruz'
+    subdiv: OAX
+    function: 1--4----
+    status: AI
+    date: '0907'
+    iata: ''
+    coordinates: '1610N 09511W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX SAV'
+    name: 'Salinas Victoria'
+    namewodiacritics: 'Salinas Victoria'
+    subdiv: NLE
+    function: '--3-----'
+    status: RQ
+    date: '1001'
+    iata: ''
+    coordinates: '2557N 10017W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX SLW'
+    name: Saltillo
+    namewodiacritics: Saltillo
+    subdiv: COA
+    function: '--34----'
+    status: AI
+    date: '0212'
+    iata: ''
+    coordinates: '2525N 10100W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX SAL'
+    name: Salvatierra
+    namewodiacritics: Salvatierra
+    subdiv: GUA
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '2013N 10053W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX SAH'
+    name: 'San Andres Huaxpaltepec'
+    namewodiacritics: 'San Andres Huaxpaltepec'
+    subdiv: OAX
+    function: '--3-----'
+    status: RQ
+    date: '0607'
+    iata: ''
+    coordinates: '1619N 09756W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX TIM'
+    name: 'San Andres Timilpan'
+    namewodiacritics: 'San Andres Timilpan'
+    subdiv: MEX
+    function: '-----6--'
+    status: RL
+    date: '1107'
+    iata: ''
+    coordinates: '1952N 09944W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX SAX'
+    name: 'San Andres Tuxtla'
+    namewodiacritics: 'San Andres Tuxtla'
+    subdiv: VER
+    function: '--3-----'
+    status: RQ
+    date: '0607'
+    iata: ''
+    coordinates: '1826N 09513W'
+    remarks: ''
+-
+    ch: ¦
+    locode: 'MX SAA'
+    name: 'San Angel'
+    namewodiacritics: 'San Angel'
+    subdiv: DIF
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '1921N 09912W'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'MX ZMK'
+    name: 'San Antonio la Isla'
+    namewodiacritics: 'San Antonio la Isla'
+    subdiv: MEX
+    function: '-----6--'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '1909N 09934W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX SBS'
+    name: 'San Blas'
+    namewodiacritics: 'San Blas'
+    subdiv: NAY
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX SCR'
+    name: 'San Carlos'
+    namewodiacritics: 'San Carlos'
+    subdiv: BCS
+    function: 1-------
+    status: AI
+    date: '9401'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX SCM'
+    name: 'San Cosme'
+    namewodiacritics: 'San Cosme'
+    subdiv: BCS
+    function: '--3-----'
+    status: RL
+    date: '0201'
+    iata: ''
+    coordinates: '2537N 11114W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX CXC'
+    name: 'San Cosme Xalostoc'
+    namewodiacritics: 'San Cosme Xalostoc'
+    subdiv: TLA
+    function: '--3-----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '1923N 09802W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX SCB'
+    name: 'San Cristobal de la Barranca'
+    namewodiacritics: 'San Cristobal de la Barranca'
+    subdiv: JAL
+    function: '--3-----'
+    status: RQ
+    date: '0607'
+    iata: ''
+    coordinates: '2103N 10326W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX SZT'
+    name: 'San Cristóbal de las Casas'
+    namewodiacritics: 'San Cristobal de las Casas'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '1101'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX SDG'
+    name: 'San Diego'
+    namewodiacritics: 'San Diego'
+    subdiv: PUE
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '2028N 09741W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX SFH'
+    name: 'San Felipe'
+    namewodiacritics: 'San Felipe'
+    subdiv: BCS
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: +
+    locode: 'MX SFP'
+    name: 'San Felipe del Progreso'
+    namewodiacritics: 'San Felipe del Progreso'
+    subdiv: MEX
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '1942N 09957W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX SFO'
+    name: 'San Felipe Orizatlan'
+    namewodiacritics: 'San Felipe Orizatlan'
+    subdiv: HID
+    function: '--3-----'
+    status: RQ
+    date: '0607'
+    iata: ''
+    coordinates: '2111N 09837W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX SFD'
+    name: 'San Fernando'
+    namewodiacritics: 'San Fernando'
+    subdiv: TAM
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '2451N 09809W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX SFA'
+    name: 'San Francisco de Asis'
+    namewodiacritics: 'San Francisco de Asis'
+    subdiv: DUR
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '2529N 10453W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX SFS'
+    name: 'San Francisco de los Romos'
+    namewodiacritics: 'San Francisco de los Romos'
+    subdiv: AGU
+    function: '--3-----'
+    status: RQ
+    date: '0607'
+    iata: ''
+    coordinates: '2204N 10216W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX SFR'
+    name: 'San Francisco del Rincon'
+    namewodiacritics: 'San Francisco del Rincon'
+    subdiv: GUA
+    function: '--3-----'
+    status: RL
+    date: '0101'
+    iata: ''
+    coordinates: '2101N 10151W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX SFJ'
+    name: 'San Francisco Javier'
+    namewodiacritics: 'San Francisco Javier'
+    subdiv: COL
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX SGL'
+    name: 'San Gabriel'
+    namewodiacritics: 'San Gabriel'
+    subdiv: JAL
+    function: '--3-----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '2101N 10301W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX SGA'
+    name: 'San Gregorio Atzompa'
+    namewodiacritics: 'San Gregorio Atzompa'
+    subdiv: PUE
+    function: '--3-----'
+    status: RQ
+    date: '0907'
+    iata: ''
+    coordinates: '1902N 09820W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX SIO'
+    name: 'San Ignacio'
+    namewodiacritics: 'San Ignacio'
+    subdiv: SIN
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '2355N 10625W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX SGM'
+    name: 'San Ignacio'
+    namewodiacritics: 'San Ignacio'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX SJH'
+    name: 'San Jeronimo'
+    namewodiacritics: 'San Jeronimo'
+    subdiv: CHH
+    function: '-----6--'
+    status: RL
+    date: '1107'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX SJD'
+    name: 'San Jose Cabo'
+    namewodiacritics: 'San Jose Cabo'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX ZMD'
+    name: 'San Jose Chipila'
+    namewodiacritics: 'San Jose Chipila'
+    subdiv: VER
+    function: '-----6--'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '1917N 09636W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX SJS'
+    name: 'San José de Castillo'
+    namewodiacritics: 'San Jose de Castillo'
+    subdiv: BCN
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '3101N 11545W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX SJG'
+    name: 'San José de Gracias'
+    namewodiacritics: 'San Jose de Gracias'
+    subdiv: MIC
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '1959N 10301W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX ZMI'
+    name: 'San Jose del Cabo'
+    namewodiacritics: 'San Jose del Cabo'
+    subdiv: BCS
+    function: '-----6--'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '2303N 10941W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX SCO'
+    name: 'San José del Castillo'
+    namewodiacritics: 'San Jose del Castillo'
+    subdiv: JAL
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '2032N 10314W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX SJI'
+    name: 'San José Iturbide'
+    namewodiacritics: 'San Jose Iturbide'
+    subdiv: GUA
+    function: '--3-----'
+    status: RL
+    date: '0212'
+    iata: ''
+    coordinates: '2100N 10023W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX SJT'
+    name: 'San Juan Bautista Tuxtepec'
+    namewodiacritics: 'San Juan Bautista Tuxtepec'
+    subdiv: OAX
+    function: '--3-----'
+    status: RQ
+    date: '0607'
+    iata: ''
+    coordinates: '1805N 09607W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX SJC'
+    name: 'San Juan de la Costa'
+    namewodiacritics: 'San Juan de la Costa'
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '9506'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX SJL'
+    name: 'San Juan de los Lagos'
+    namewodiacritics: 'San Juan de los Lagos'
+    subdiv: JAL
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '2115N 10218W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX DSS'
+    name: 'San Juan de Sabinas'
+    namewodiacritics: 'San Juan de Sabinas'
+    subdiv: COA
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '2755N 10118W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX SJO'
+    name: 'San Juan Del Rio'
+    namewodiacritics: 'San Juan Del Rio'
+    subdiv: QUE
+    function: '--3-----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '2023N 10000W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX SJR'
+    name: 'San Juan del Rio'
+    namewodiacritics: 'San Juan del Rio'
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0101'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX TXP'
+    name: 'San Juan Tuxtepec'
+    namewodiacritics: 'San Juan Tuxtepec'
+    subdiv: MEX
+    function: '--3-----'
+    status: RL
+    date: '0201'
+    iata: ''
+    coordinates: '1951N 09938W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX SAJ'
+    name: 'San Juanito Escobedo'
+    namewodiacritics: 'San Juanito Escobedo'
+    subdiv: JAL
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '2043N 10305W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX SLO'
+    name: 'San Lorenzo'
+    namewodiacritics: 'San Lorenzo'
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX SLU'
+    name: 'San Luis de la Paz'
+    namewodiacritics: 'San Luis de la Paz'
+    subdiv: GUA
+    function: '--3-----'
+    status: RL
+    date: '0101'
+    iata: ''
+    coordinates: '2117N 10031W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX SLP'
+    name: 'San Luis Potosí'
+    namewodiacritics: 'San Luis Potosi'
+    subdiv: SLP
+    function: '-234----'
+    status: AI
+    date: '0307'
+    iata: ''
+    coordinates: '2209N 10059W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX UAC'
+    name: 'San Luis Río Colorado'
+    namewodiacritics: 'San Luis Rio Colorado'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0212'
+    iata: ''
+    coordinates: '3228N 11447W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX SOB'
+    name: 'San Martin Obispo'
+    namewodiacritics: 'San Martin Obispo'
+    subdiv: MEX
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '1931N 10004W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX SMT'
+    name: 'San Martin Texmelucan'
+    namewodiacritics: 'San Martin Texmelucan'
+    subdiv: PUE
+    function: '--3-----'
+    status: RL
+    date: '0101'
+    iata: ''
+    coordinates: '1916N 09826W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX SMA'
+    name: 'San Mateo Atenco'
+    namewodiacritics: 'San Mateo Atenco'
+    subdiv: MEX
+    function: '--3-----'
+    status: RL
+    date: '0701'
+    iata: ''
+    coordinates: '1915N 09932W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX SMG'
+    name: 'San Miguel de Allende'
+    namewodiacritics: 'San Miguel de Allende'
+    subdiv: GUA
+    function: '--3-----'
+    status: RL
+    date: '0101'
+    iata: ''
+    coordinates: '2055N 10045W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX SGX'
+    name: 'San Miguel Xoxtla'
+    namewodiacritics: 'San Miguel Xoxtla'
+    subdiv: PUE
+    function: 1----6--
+    status: RL
+    date: '1201'
+    iata: ''
+    coordinates: '1911N 09818W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX SND'
+    name: 'San Nicolás de los Garza'
+    namewodiacritics: 'San Nicolas de los Garza'
+    subdiv: NLE
+    function: '-23-----'
+    status: RL
+    date: '0401'
+    iata: ''
+    coordinates: '2545N 10018W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX SNT'
+    name: 'San Nicolás Tolentino'
+    namewodiacritics: 'San Nicolas Tolentino'
+    subdiv: SLP
+    function: '--3--6--'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '2215N 10035W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX ZML'
+    name: 'San Pedro'
+    namewodiacritics: 'San Pedro'
+    subdiv: CHH
+    function: '-----6--'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '2545N 10258W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX SPD'
+    name: 'San Pedro'
+    namewodiacritics: 'San Pedro'
+    subdiv: COA
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '2757N 10123W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX SPC'
+    name: 'San Pedro Cholula'
+    namewodiacritics: 'San Pedro Cholula'
+    subdiv: PUE
+    function: '--3-----'
+    status: RQ
+    date: '1007'
+    iata: ''
+    coordinates: '1904N 09818W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX SPG'
+    name: 'San Pedro Garza Garcia'
+    namewodiacritics: 'San Pedro Garza Garcia'
+    subdiv: NLE
+    function: '-----6--'
+    status: RL
+    date: '1107'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX STP'
+    name: 'San Pedro Tapanatepec'
+    namewodiacritics: 'San Pedro Tapanatepec'
+    subdiv: OAX
+    function: '--3-----'
+    status: RQ
+    date: '0607'
+    iata: ''
+    coordinates: '1622N 09413W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX SNQ'
+    name: 'San Quintin'
+    namewodiacritics: 'San Quintin'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX SRF'
+    name: 'San Rafael'
+    namewodiacritics: 'San Rafael'
+    subdiv: VER
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '2012N 09651W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX SSB'
+    name: 'San Sebastian'
+    namewodiacritics: 'San Sebastian'
+    subdiv: OAX
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '1612N 09625W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX SUN'
+    name: 'San Tiburcio'
+    namewodiacritics: 'San Tiburcio'
+    subdiv: ZAC
+    function: '--3-----'
+    status: RQ
+    date: '0607'
+    iata: ''
+    coordinates: '2408N 10128W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX STC'
+    name: 'Santa Catarina'
+    namewodiacritics: 'Santa Catarina'
+    subdiv: NLE
+    function: '--3-----'
+    status: RL
+    date: '0101'
+    iata: ''
+    coordinates: '2540N 10027W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX SCA'
+    name: 'Santa Clara'
+    namewodiacritics: 'Santa Clara'
+    subdiv: MIC
+    function: '--3-----'
+    status: RQ
+    date: '0607'
+    iata: ''
+    coordinates: '1938N 10230W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX SCL'
+    name: 'Santa Clara'
+    namewodiacritics: 'Santa Clara'
+    subdiv: YUC
+    function: '--3-----'
+    status: RL
+    date: '0201'
+    iata: ''
+    coordinates: '2121N 08900W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX XLA'
+    name: 'Santa Clara Coatitla'
+    namewodiacritics: 'Santa Clara Coatitla'
+    subdiv: MEX
+    function: '-----6--'
+    status: RL
+    date: '1107'
+    iata: ''
+    coordinates: '1932N 09904W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX SCC'
+    name: 'Santa Clara del Cobre'
+    namewodiacritics: 'Santa Clara del Cobre'
+    subdiv: MIC
+    function: '--3-----'
+    status: RQ
+    date: '0607'
+    iata: ''
+    coordinates: '1924N 10138W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX SAC'
+    name: 'Santa Cruz Itundujia'
+    namewodiacritics: 'Santa Cruz Itundujia'
+    subdiv: OAX
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '1652N 09739W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX SCT'
+    name: 'Santa Cruz Tecamac'
+    namewodiacritics: 'Santa Cruz Tecamac'
+    subdiv: MEX
+    function: '--3-----'
+    status: RL
+    date: '0207'
+    iata: ''
+    coordinates: '1942N 09858W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX TPX'
+    name: 'Santa Cruz Tepexpan'
+    namewodiacritics: 'Santa Cruz Tepexpan'
+    subdiv: MEX
+    function: 1-3--6--
+    status: RL
+    date: '0701'
+    iata: ''
+    coordinates: '1934N 09942W'
+    remarks: ''
+-
+    ch: ¦
+    locode: 'MX SAF'
+    name: 'Santa Fe'
+    namewodiacritics: 'Santa Fe'
+    subdiv: DIF
+    function: '--3-----'
+    status: RQ
+    date: '1307'
+    iata: ''
+    coordinates: ''
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'MX SMX'
+    name: 'Santa Maria Ixtulco'
+    namewodiacritics: 'Santa Maria Ixtulco'
+    subdiv: TLA
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '1925N 09819W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX SRJ'
+    name: 'Santa Rosa de Jáuregui'
+    namewodiacritics: 'Santa Rosa de Jauregui'
+    subdiv: QUE
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '2044N 10027W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX STR'
+    name: 'Santa Rosa de Lima'
+    namewodiacritics: 'Santa Rosa de Lima'
+    subdiv: GUA
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '2023N 10043W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX SRL'
+    name: 'Santa Rosalia'
+    namewodiacritics: 'Santa Rosalia'
+    subdiv: BCS
+    function: 1-------
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX STT'
+    name: 'Santa Teresa'
+    namewodiacritics: 'Santa Teresa'
+    subdiv: NAY
+    function: 1-3--6--
+    status: RL
+    date: '0307'
+    iata: ''
+    coordinates: '2228N 10444W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX SQE'
+    name: 'Santiago de Querétaro'
+    namewodiacritics: 'Santiago de Queretaro'
+    subdiv: QUE
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '2035N 10023W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX SAP'
+    name: 'Santiago Papasquiaro'
+    namewodiacritics: 'Santiago Papasquiaro'
+    subdiv: DUR
+    function: '--3-----'
+    status: RQ
+    date: '0607'
+    iata: ''
+    coordinates: '2502N 10525W'
+    remarks: ''
+-
+    ch: +
+    locode: 'MX STU'
+    name: 'Santiago Tulantepec'
+    namewodiacritics: 'Santiago Tulantepec'
+    subdiv: HID
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '2002N 09821W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX STX'
+    name: 'Santiago Tuxtla'
+    namewodiacritics: 'Santiago Tuxtla'
+    subdiv: VER
+    function: '--3-----'
+    status: RQ
+    date: '0607'
+    iata: ''
+    coordinates: '1827N 09518W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX ZMA'
+    name: 'Santo Tomas'
+    namewodiacritics: 'Santo Tomas'
+    subdiv: BCS
+    function: '-----6--'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '3131N 11640W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX ZSO'
+    name: Saucillo
+    namewodiacritics: Saucillo
+    subdiv: CHH
+    function: '-----6--'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '2801N 10517W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX SIE'
+    name: 'Sierra Mojada'
+    namewodiacritics: 'Sierra Mojada'
+    subdiv: COA
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '2717N 10342W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX SIL'
+    name: Silao
+    namewodiacritics: Silao
+    subdiv: GUA
+    function: '--3-----'
+    status: RL
+    date: '0201'
+    iata: ''
+    coordinates: '2056N 10125W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX SIJ'
+    name: 'Simojovel de Allende'
+    namewodiacritics: 'Simojovel de Allende'
+    subdiv: CHP
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '1712N 09238W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX SOM'
+    name: Sombrerete
+    namewodiacritics: Sombrerete
+    subdiv: ZAC
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '2338N 10339W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX SNR'
+    name: Sonora
+    namewodiacritics: Sonora
+    subdiv: HID
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '2016N 09814W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX SON'
+    name: Sonoyta
+    namewodiacritics: Sonoyta
+    subdiv: SON
+    function: '--3-----'
+    status: RL
+    date: '0212'
+    iata: ''
+    coordinates: '3151N 11251W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX SOT'
+    name: 'Soto la Marina'
+    namewodiacritics: 'Soto la Marina'
+    subdiv: TAM
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '2346N 09813W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX SCH'
+    name: Suchiate
+    namewodiacritics: Suchiate
+    subdiv: CHP
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '1433N 09213W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX TSC'
+    name: Tabasco
+    namewodiacritics: Tabasco
+    subdiv: ZAC
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '2152N 10255W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX TAC'
+    name: Tacambaro
+    namewodiacritics: Tacambaro
+    subdiv: MIC
+    function: '--3-----'
+    status: RQ
+    date: '0607'
+    iata: ''
+    coordinates: '2008N 10148W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX TCP'
+    name: Tacotalpa
+    namewodiacritics: Tacotalpa
+    subdiv: TAB
+    function: '--3-----'
+    status: RL
+    date: '1207'
+    iata: ''
+    coordinates: '1736N 09249W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX TAK'
+    name: Takuntah
+    namewodiacritics: Takuntah
+    subdiv: ''
+    function: 1-----7-
+    status: RQ
+    date: '0907'
+    iata: ''
+    coordinates: '1945N 09142W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX TMP'
+    name: Tamaulipas
+    namewodiacritics: Tamaulipas
+    subdiv: SIN
+    function: 1-3--6--
+    status: RL
+    date: '0701'
+    iata: ''
+    coordinates: '2454N 10735W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX TMZ'
+    name: Tamazula
+    namewodiacritics: Tamazula
+    subdiv: JAL
+    function: '--3-----'
+    status: RQ
+    date: '0607'
+    iata: ''
+    coordinates: '2001N 10404W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX TAM'
+    name: Tampico
+    namewodiacritics: Tampico
+    subdiv: TAM
+    function: 1--4----
+    status: AI
+    date: '0907'
+    iata: ''
+    coordinates: '2215N 09752W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX TSL'
+    name: Tamuín
+    namewodiacritics: Tamuin
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0212'
+    iata: ''
+    coordinates: '2159N 09845W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX TTR'
+    name: Tancítaro
+    namewodiacritics: Tancitaro
+    subdiv: MIC
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '1920N 10222W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX TTY'
+    name: Tantoyuca
+    namewodiacritics: Tantoyuca
+    subdiv: VER
+    function: '-----6--'
+    status: RL
+    date: '1201'
+    iata: ''
+    coordinates: '2121N 09814W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX TAP'
+    name: Tapachula
+    namewodiacritics: Tapachula
+    subdiv: CHP
+    function: '---4----'
+    status: AI
+    date: '0401'
+    iata: ''
+    coordinates: '1447N 09222W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX TCH'
+    name: Tapachulas
+    namewodiacritics: Tapachulas
+    subdiv: CHP
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '1454N 09216W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX TPV'
+    name: Teapa
+    namewodiacritics: Teapa
+    subdiv: VER
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '1824N 09552W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX TPA'
+    name: Teapa
+    namewodiacritics: Teapa
+    subdiv: TAB
+    function: '--3-----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '1733N 09257W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX TCA'
+    name: Tecamac
+    namewodiacritics: Tecamac
+    subdiv: MEX
+    function: '--3--6--'
+    status: RL
+    date: '0507'
+    iata: ''
+    coordinates: '1944N 09858W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX TEM'
+    name: Tecamachalco
+    namewodiacritics: Tecamachalco
+    subdiv: PUE
+    function: '-23-----'
+    status: RL
+    date: '0701'
+    iata: ''
+    coordinates: '1853N 09744W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX TCT'
+    name: Tecate
+    namewodiacritics: Tecate
+    subdiv: BCN
+    function: '--3-----'
+    status: RL
+    date: '0201'
+    iata: ''
+    coordinates: '3234N 11638W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX TEC'
+    name: Tecolotlan
+    namewodiacritics: Tecolotlan
+    subdiv: JAL
+    function: '--3-----'
+    status: RQ
+    date: '0607'
+    iata: ''
+    coordinates: '2010N 10403W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX TCM'
+    name: Tecomán
+    namewodiacritics: Tecoman
+    subdiv: COL
+    function: '-23-----'
+    status: RL
+    date: '0307'
+    iata: ''
+    coordinates: '1855N 10353W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX TDG'
+    name: 'Tecpan de Geleana'
+    namewodiacritics: 'Tecpan de Geleana'
+    subdiv: GRO
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '1715N 10041W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX TCU'
+    name: Tecuala
+    namewodiacritics: Tecuala
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX TCN'
+    name: Tehuacán
+    namewodiacritics: Tehuacan
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0212'
+    iata: ''
+    coordinates: '1827N 09723W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX TXH'
+    name: Telixtlahuaca
+    namewodiacritics: Telixtlahuaca
+    subdiv: OAX
+    function: 123--6--
+    status: RL
+    date: '0307'
+    iata: ''
+    coordinates: '1718N 09654W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX TEL'
+    name: Teloloapan
+    namewodiacritics: Teloloapan
+    subdiv: GRO
+    function: '--3-----'
+    status: RQ
+    date: '0607'
+    iata: ''
+    coordinates: '1821N 09952W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX TPH'
+    name: Temapache
+    namewodiacritics: Temapache
+    subdiv: VER
+    function: '--3--6--'
+    status: RL
+    date: '0601'
+    iata: ''
+    coordinates: '2104N 09738W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX TEN'
+    name: Tenabó
+    namewodiacritics: Tenabo
+    subdiv: CAM
+    function: 1-------
+    status: RL
+    date: '0212'
+    iata: ''
+    coordinates: '2003N 09014W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX TDV'
+    name: 'Tenango del Valle'
+    namewodiacritics: 'Tenango del Valle'
+    subdiv: MEX
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '1908N 09945W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX TNP'
+    name: Tenenexpan
+    namewodiacritics: Tenenexpan
+    subdiv: VER
+    function: '--3-----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '1908N 09623W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX TSQ'
+    name: 'Tenosique de Pino Suarez'
+    namewodiacritics: 'Tenosique de Pino Suarez'
+    subdiv: TAB
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '1729N 09126W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX SLT'
+    name: Teolocholco
+    namewodiacritics: Teolocholco
+    subdiv: TLA
+    function: '--3-----'
+    status: RL
+    date: '0201'
+    iata: ''
+    coordinates: '1915N 09810W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX TEO'
+    name: Teoloyucan
+    namewodiacritics: Teoloyucan
+    subdiv: MEX
+    function: '-----6--'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '1944N 09911W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX TDL'
+    name: 'Tepanco de López'
+    namewodiacritics: 'Tepanco de Lopez'
+    subdiv: PUE
+    function: '-23-----'
+    status: RL
+    date: '0601'
+    iata: ''
+    coordinates: '1834N 09733W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX TEP'
+    name: 'Tepatitlán de Morelos'
+    namewodiacritics: 'Tepatitlan de Morelos'
+    subdiv: JAL
+    function: '--3--6--'
+    status: RL
+    date: '0501'
+    iata: ''
+    coordinates: '2049N 10244W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX TPR'
+    name: 'Tepeji de Ocampo'
+    namewodiacritics: 'Tepeji de Ocampo'
+    subdiv: HID
+    function: '--3--6--'
+    status: RL
+    date: '0907'
+    iata: ''
+    coordinates: '1954N 09921W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX TPT'
+    name: Tepetlalco
+    namewodiacritics: Tepetlalco
+    subdiv: PUE
+    function: '--3--6--'
+    status: RL
+    date: '0601'
+    iata: ''
+    coordinates: '1838N 09740W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX TPG'
+    name: Tepetzingo
+    namewodiacritics: Tepetzingo
+    subdiv: MOR
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '1846N 09911W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX ZMG'
+    name: Tepeyahualco
+    namewodiacritics: Tepeyahualco
+    subdiv: PUE
+    function: '-----6--'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '1848N 09753W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX TPQ'
+    name: Tepic
+    namewodiacritics: Tepic
+    subdiv: NAY
+    function: '--34----'
+    status: AI
+    date: '0212'
+    iata: ''
+    coordinates: '2130N 10454W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX TPZ'
+    name: Tepotzotlán
+    namewodiacritics: Tepotzotlan
+    subdiv: MEX
+    function: '--3-----'
+    status: RL
+    date: '0212'
+    iata: ''
+    coordinates: '1943N 09913W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX MOT'
+    name: Tepoztlan
+    namewodiacritics: Tepoztlan
+    subdiv: MOR
+    function: '-----6--'
+    status: RQ
+    date: '1001'
+    iata: ''
+    coordinates: '1859N 99060W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX TEQ'
+    name: Tequila
+    namewodiacritics: Tequila
+    subdiv: JAL
+    function: '-23-----'
+    status: RL
+    date: '0101'
+    iata: ''
+    coordinates: '2052N 10350W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX TQQ'
+    name: Tequisquiapan
+    namewodiacritics: Tequisquiapan
+    subdiv: QUE
+    function: '-23-----'
+    status: RL
+    date: '0307'
+    iata: ''
+    coordinates: '2031N 09952W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX CAR'
+    name: Tequixquitla
+    namewodiacritics: Tequixquitla
+    subdiv: TLA
+    function: '--3-----'
+    status: RL
+    date: '0201'
+    iata: ''
+    coordinates: '1919N 09738W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX TST'
+    name: Tesistan
+    namewodiacritics: Tesistan
+    subdiv: JAL
+    function: '-----6--'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX TTL'
+    name: Tetla
+    namewodiacritics: Tetla
+    subdiv: TLA
+    function: '--3-----'
+    status: RQ
+    date: '0607'
+    iata: ''
+    coordinates: '1926N 09806W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX TGO'
+    name: 'Teul de Gonzalez Ortega'
+    namewodiacritics: 'Teul de Gonzalez Ortega'
+    subdiv: ZAC
+    function: '--3-----'
+    status: RQ
+    date: '0607'
+    iata: ''
+    coordinates: '2129N 10325W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX TXO'
+    name: Texcoco
+    namewodiacritics: Texcoco
+    subdiv: MEX
+    function: '--3-----'
+    status: RL
+    date: '0212'
+    iata: ''
+    coordinates: '1931N 09853W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX TXM'
+    name: 'Texcoco de Mora'
+    namewodiacritics: 'Texcoco de Mora'
+    subdiv: MEX
+    function: '--3-----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '1931N 09853W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX TEZ'
+    name: Teziutlan
+    namewodiacritics: Teziutlan
+    subdiv: PUE
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '1949N 09721W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX TGT'
+    name: Tianguistenco
+    namewodiacritics: Tianguistenco
+    subdiv: MEX
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '1910N 09928W'
+    remarks: 'Santiago Tianguistenco'
+-
+    ch: ''
+    locode: 'MX TXC'
+    name: Tiaxcala
+    namewodiacritics: Tiaxcala
+    subdiv: TLA
+    function: 1----6--
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '1923N 09815W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX TBC'
+    name: 'Tierra Blanca'
+    namewodiacritics: 'Tierra Blanca'
+    subdiv: VER
+    function: '--3-----'
+    status: RL
+    date: '1207'
+    iata: ''
+    coordinates: '1827N 09620W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX TIJ'
+    name: Tijuana
+    namewodiacritics: Tijuana
+    subdiv: BCN
+    function: 1-34----
+    status: AI
+    date: '0401'
+    iata: ''
+    coordinates: '3232N 11701W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX TLZ'
+    name: Tilzapotla
+    namewodiacritics: Tilzapotla
+    subdiv: GRO
+    function: '--3-----'
+    status: RL
+    date: '0601'
+    iata: ''
+    coordinates: '1829N 09916W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX TIN'
+    name: Tingüindín
+    namewodiacritics: Tinguindin
+    subdiv: MIC
+    function: '-23-----'
+    status: RL
+    date: '0607'
+    iata: ''
+    coordinates: '1944N 10230W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX ZTB'
+    name: Tixkokob
+    namewodiacritics: Tixkokob
+    subdiv: YUC
+    function: '-----6--'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '2100N 08924W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX TIX'
+    name: Tixtla
+    namewodiacritics: Tixtla
+    subdiv: GRO
+    function: '--3-----'
+    status: RQ
+    date: '0607'
+    iata: ''
+    coordinates: '1733N 09925W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX TIZ'
+    name: Tizayuca
+    namewodiacritics: Tizayuca
+    subdiv: HID
+    function: '--3-----'
+    status: RL
+    date: '0101'
+    iata: ''
+    coordinates: '1950N 09858W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX TZM'
+    name: Tizimín
+    namewodiacritics: Tizimin
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0212'
+    iata: ''
+    coordinates: '2109N 08809W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX TMO'
+    name: 'Tlajomulco de Zúñiga'
+    namewodiacritics: 'Tlajomulco de Zuniga'
+    subdiv: JAL
+    function: '-23-----'
+    status: RL
+    date: '0601'
+    iata: ''
+    coordinates: '2029N 10328W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX TLA'
+    name: Tlalnepantla
+    namewodiacritics: Tlalnepantla
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0201'
+    iata: ''
+    coordinates: '1902N 09900W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX TLP'
+    name: 'Tlalneplantla de Baz'
+    namewodiacritics: 'Tlalneplantla de Baz'
+    subdiv: MEX
+    function: '-23-----'
+    status: RL
+    date: '0201'
+    iata: ''
+    coordinates: '1932N 09911W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX TJT'
+    name: Tlalpan
+    namewodiacritics: Tlalpan
+    subdiv: ''
+    function: 1----6--
+    status: RL
+    date: '1201'
+    iata: ''
+    coordinates: '1917N 09910W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX TPN'
+    name: Tlapacoyan
+    namewodiacritics: Tlapacoyan
+    subdiv: VER
+    function: '--3-----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '1958N 09712W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX TLQ'
+    name: Tlaquepaque
+    namewodiacritics: Tlaquepaque
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: +
+    locode: 'MX TLU'
+    name: Tlautla
+    namewodiacritics: Tlautla
+    subdiv: HID
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '1957N 09922W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX TXL'
+    name: Tlaxcala
+    namewodiacritics: Tlaxcala
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX TAX'
+    name: Tlaxiaco
+    namewodiacritics: Tlaxiaco
+    subdiv: OAX
+    function: '--3-----'
+    status: RQ
+    date: '0607'
+    iata: ''
+    coordinates: '1716N 09741W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX TLX'
+    name: Tlaxmalac
+    namewodiacritics: Tlaxmalac
+    subdiv: GRO
+    function: '--3-----'
+    status: RQ
+    date: '0607'
+    iata: ''
+    coordinates: '1821N 09925W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX TLY'
+    name: Tolcayuca
+    namewodiacritics: Tolcayuca
+    subdiv: HID
+    function: '--3-5---'
+    status: RL
+    date: '0607'
+    iata: ''
+    coordinates: '1957N 09855W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX TLC'
+    name: Toluca
+    namewodiacritics: Toluca
+    subdiv: MEX
+    function: '--34----'
+    status: AI
+    date: '0212'
+    iata: ''
+    coordinates: '1917N 09940W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX TOM'
+    name: Tomatlan
+    namewodiacritics: Tomatlan
+    subdiv: JAL
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '1956N 10515W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX TNL'
+    name: Tonala
+    namewodiacritics: Tonala
+    subdiv: CHP
+    function: '--3-----'
+    status: RQ
+    date: '0607'
+    iata: ''
+    coordinates: '1605N 09344W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX TON'
+    name: Tonala
+    namewodiacritics: Tonala
+    subdiv: JAL
+    function: '--3-----'
+    status: RL
+    date: '0101'
+    iata: ''
+    coordinates: '2037N 10313W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX TCO'
+    name: Tonatico
+    namewodiacritics: Tonatico
+    subdiv: MEX
+    function: '--3-----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '1848N 09940W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX TPB'
+    name: Topolobampo
+    namewodiacritics: Topolobampo
+    subdiv: SIN
+    function: 1-------
+    status: AI
+    date: '0907'
+    iata: ''
+    coordinates: '2536N 10903W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX TRC'
+    name: Torreon
+    namewodiacritics: Torreon
+    subdiv: COA
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX TVS'
+    name: 'Tres Valles'
+    namewodiacritics: 'Tres Valles'
+    subdiv: VER
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '1814N 09607W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX TUA'
+    name: Tula
+    namewodiacritics: Tula
+    subdiv: TAM
+    function: '--3-----'
+    status: RQ
+    date: '0607'
+    iata: ''
+    coordinates: '2300N 09943W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX TUL'
+    name: 'Tula de Allende'
+    namewodiacritics: 'Tula de Allende'
+    subdiv: HID
+    function: '-23--6--'
+    status: RL
+    date: '0601'
+    iata: ''
+    coordinates: '2003N 09921W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX TLI'
+    name: Tulancingo
+    namewodiacritics: Tulancingo
+    subdiv: HID
+    function: '-23-----'
+    status: RL
+    date: '0401'
+    iata: ''
+    coordinates: '2005N 09822W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX TPC'
+    name: Tultepec
+    namewodiacritics: Tultepec
+    subdiv: MEX
+    function: '--3-----'
+    status: RL
+    date: '1207'
+    iata: ''
+    coordinates: '1941N 09907W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX TTN'
+    name: Tultilan
+    namewodiacritics: Tultilan
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '0101'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX TLT'
+    name: Tultitan
+    namewodiacritics: Tultitan
+    subdiv: JAL
+    function: '--3-----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX TLN'
+    name: Tultitlán
+    namewodiacritics: Tultitlan
+    subdiv: MEX
+    function: '--3-----'
+    status: RL
+    date: '0701'
+    iata: ''
+    coordinates: '1938N 09910W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX TUY'
+    name: Tulum
+    namewodiacritics: Tulum
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX TXS'
+    name: Tuxcacuesco
+    namewodiacritics: Tuxcacuesco
+    subdiv: JAL
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '1941N 10358W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX TUX'
+    name: Tuxpan
+    namewodiacritics: Tuxpan
+    subdiv: VER
+    function: 1-------
+    status: AI
+    date: '0907'
+    iata: ''
+    coordinates: '2057N 09724W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX TGZ'
+    name: 'Tuxtla Gutiérrez'
+    namewodiacritics: 'Tuxtla Gutierrez'
+    subdiv: CHP
+    function: '---4----'
+    status: AI
+    date: '0212'
+    iata: ''
+    coordinates: '1645N 09307W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX UMN'
+    name: Uman
+    namewodiacritics: Uman
+    subdiv: YUC
+    function: '--3-----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '2052N 08944W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX URI'
+    name: Uriangato
+    namewodiacritics: Uriangato
+    subdiv: GUA
+    function: '--3-----'
+    status: RL
+    date: '0601'
+    iata: ''
+    coordinates: '2008N 10111W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX UGA'
+    name: 'Ursulo Galván'
+    namewodiacritics: 'Ursulo Galvan'
+    subdiv: VER
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '1924N 09621W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX UPN'
+    name: 'Uruapan del Progreso'
+    namewodiacritics: 'Uruapan del Progreso'
+    subdiv: MIC
+    function: '-234----'
+    status: AI
+    date: '0212'
+    iata: ''
+    coordinates: '1925N 10204W'
+    remarks: ''
+-
+    ch: +
+    locode: 'MX 9UM'
+    name: Usmajac
+    namewodiacritics: Usmajac
+    subdiv: JAL
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '1952N 10334W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX VAD'
+    name: Valladolid
+    namewodiacritics: Valladolid
+    subdiv: YUC
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '2041N 08812W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX VDB'
+    name: 'Valle de Bravo'
+    namewodiacritics: 'Valle de Bravo'
+    subdiv: MEX
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '1911N 10008W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX VDS'
+    name: 'Valle de Santiago'
+    namewodiacritics: 'Valle de Santiago'
+    subdiv: GUA
+    function: '--3-----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '2023N 10111W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX VHM'
+    name: 'Valle Hermoso'
+    namewodiacritics: 'Valle Hermoso'
+    subdiv: DUR
+    function: '--3-----'
+    status: RL
+    date: '0201'
+    iata: ''
+    coordinates: '2451N 10456W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX VAL'
+    name: Vallejo
+    namewodiacritics: Vallejo
+    subdiv: SLP
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '2307N 10033W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX VDA'
+    name: 'Vanegas de Abajo'
+    namewodiacritics: 'Vanegas de Abajo'
+    subdiv: SLP
+    function: '--3-----'
+    status: RL
+    date: '1207'
+    iata: ''
+    coordinates: '2351N 10054W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX VCA'
+    name: 'Venustiano Carranza'
+    namewodiacritics: 'Venustiano Carranza'
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '1925N 09905W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX VOC'
+    name: 'Venustiano Carranza'
+    namewodiacritics: 'Venustiano Carranza'
+    subdiv: MIC
+    function: '--3-----'
+    status: RQ
+    date: '0607'
+    iata: ''
+    coordinates: '2007N 10234W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX VER'
+    name: Veracruz
+    namewodiacritics: Veracruz
+    subdiv: VER
+    function: 1--45---
+    status: AI
+    date: '0907'
+    iata: ''
+    coordinates: '1912N 09605W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX VIB'
+    name: 'Villa Constitucion'
+    namewodiacritics: 'Villa Constitucion'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX VDG'
+    name: 'Villa de García'
+    namewodiacritics: 'Villa de Garcia'
+    subdiv: NLE
+    function: '-23-----'
+    status: RL
+    date: '0601'
+    iata: ''
+    coordinates: '2548N 10036W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX VDR'
+    name: 'Villa de Reyes'
+    namewodiacritics: 'Villa de Reyes'
+    subdiv: SLP
+    function: '--3-----'
+    status: RQ
+    date: '1001'
+    iata: ''
+    coordinates: '2148N 10056W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX VIF'
+    name: 'Villa Flores'
+    namewodiacritics: 'Villa Flores'
+    subdiv: CHP
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '1614N 09314W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX VGO'
+    name: 'Villa Guerrero'
+    namewodiacritics: 'Villa Guerrero'
+    subdiv: MEX
+    function: '--3-----'
+    status: RL
+    date: '0701'
+    iata: ''
+    coordinates: '1852N 09938W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX VGR'
+    name: 'Villa Guerrero'
+    namewodiacritics: 'Villa Guerrero'
+    subdiv: JAL
+    function: '--3-----'
+    status: RL
+    date: '0201'
+    iata: ''
+    coordinates: '2159N 10335W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX VNR'
+    name: 'Villa Nicolás Romero'
+    namewodiacritics: 'Villa Nicolas Romero'
+    subdiv: MEX
+    function: 1-3-----
+    status: RL
+    date: '0601'
+    iata: ''
+    coordinates: '1938N 09918W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX VGN'
+    name: Villagran
+    namewodiacritics: Villagran
+    subdiv: GUA
+    function: '--3-----'
+    status: RQ
+    date: '0607'
+    iata: ''
+    coordinates: '2031N 10101W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX VSA'
+    name: Villahermosa
+    namewodiacritics: Villahermosa
+    subdiv: TAB
+    function: '---4----'
+    status: AI
+    date: '0212'
+    iata: ''
+    coordinates: '1759N 09255W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX VHA'
+    name: 'Vista Hermosa'
+    namewodiacritics: 'Vista Hermosa'
+    subdiv: MIC
+    function: '--3-----'
+    status: RL
+    date: '1107'
+    iata: ''
+    coordinates: '2016N 10229W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX XAL'
+    name: Xalostoc
+    namewodiacritics: Xalostoc
+    subdiv: MEX
+    function: 1-3--6--
+    status: RL
+    date: '0701'
+    iata: ''
+    coordinates: '1931N 09905W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX XZC'
+    name: Xicohtzinco
+    namewodiacritics: Xicohtzinco
+    subdiv: SLP
+    function: '--3-----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '1910N 09814W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX XMO'
+    name: Xochimilco
+    namewodiacritics: Xochimilco
+    subdiv: MEX
+    function: '--3-----'
+    status: RL
+    date: '0101'
+    iata: ''
+    coordinates: '1915N 09903W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX ZMH'
+    name: Xochitepec
+    namewodiacritics: Xochitepec
+    subdiv: MOR
+    function: '-----6--'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '1847N 09914W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX XPI'
+    name: Xpichil
+    namewodiacritics: Xpichil
+    subdiv: ROO
+    function: '--3-----'
+    status: RQ
+    date: '0607'
+    iata: ''
+    coordinates: '1941N 08825W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX YAV'
+    name: Yavaros
+    namewodiacritics: Yavaros
+    subdiv: SON
+    function: '--3-----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '2642N 10931W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX YZX'
+    name: Yecapixtla
+    namewodiacritics: Yecapixtla
+    subdiv: MOR
+    function: '--3-----'
+    status: RL
+    date: '0307'
+    iata: ''
+    coordinates: '1852N 09851W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX YUK'
+    name: Yukalpeten
+    namewodiacritics: Yukalpeten
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX YKN'
+    name: 'Yùum K''Ak''Náab'
+    namewodiacritics: 'Yuum K''Ak''Naab'
+    subdiv: ''
+    function: '------7-'
+    status: RQ
+    date: '1001'
+    iata: ''
+    coordinates: '1936N 09217W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX ZCP'
+    name: Zacapu
+    namewodiacritics: Zacapu
+    subdiv: MIC
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '1950N 10143W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX ZCL'
+    name: Zacatecas
+    namewodiacritics: Zacatecas
+    subdiv: ZAC
+    function: '--34----'
+    status: AI
+    date: '0212'
+    iata: ''
+    coordinates: '2247N 10235W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX ZTP'
+    name: Zacatepec
+    namewodiacritics: Zacatepec
+    subdiv: MOR
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '1839N 09912W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX ZAC'
+    name: Zacatlan
+    namewodiacritics: Zacatlan
+    subdiv: PUE
+    function: '--3-----'
+    status: RQ
+    date: '0607'
+    iata: ''
+    coordinates: '1957N 09758W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX ZDT'
+    name: 'Zacoalco de Torres'
+    namewodiacritics: 'Zacoalco de Torres'
+    subdiv: JAL
+    function: '--3-----'
+    status: RQ
+    date: '0607'
+    iata: ''
+    coordinates: '2012N 10332W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX ZTN'
+    name: Zacualtipan
+    namewodiacritics: Zacualtipan
+    subdiv: HID
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '2039N 09836W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX ZKP'
+    name: Zakapu
+    namewodiacritics: Zakapu
+    subdiv: MIC
+    function: 123-----
+    status: RL
+    date: '0601'
+    iata: ''
+    coordinates: '1948N 10148W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX ZMM'
+    name: Zamora
+    namewodiacritics: Zamora
+    subdiv: MIC
+    function: '-234----'
+    status: AI
+    date: '0401'
+    iata: ''
+    coordinates: '1959N 10216W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX ZAP'
+    name: Zapopan
+    namewodiacritics: Zapopan
+    subdiv: JAL
+    function: '--3-----'
+    status: RL
+    date: '9901'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX ZLR'
+    name: 'Zapotlan del Rey'
+    namewodiacritics: 'Zapotlan del Rey'
+    subdiv: JAL
+    function: '-----6--'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '2027N 10255W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX LFD'
+    name: Zapotlanejo
+    namewodiacritics: Zapotlanejo
+    subdiv: JAL
+    function: '-----6--'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '2038N 10340W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX ZRZ'
+    name: Zaragoza
+    namewodiacritics: Zaragoza
+    subdiv: PUE
+    function: 1-3--6--
+    status: RL
+    date: '0701'
+    iata: ''
+    coordinates: '1946N 09732W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX XIH'
+    name: Zihuatanejo
+    namewodiacritics: Zihuatanejo
+    subdiv: GRO
+    function: 1-------
+    status: AI
+    date: '0907'
+    iata: ''
+    coordinates: '1738N 10133W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX ZMJ'
+    name: Zinacantepec
+    namewodiacritics: Zinacantepec
+    subdiv: MEX
+    function: '-----6--'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '1916N 09944W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX ZPU'
+    name: Zumpahuacán
+    namewodiacritics: Zumpahuacan
+    subdiv: MEX
+    function: '--3--6--'
+    status: RL
+    date: '0601'
+    iata: ''
+    coordinates: '1854N 09933W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX ZUM'
+    name: 'Zumpango de Ocampo'
+    namewodiacritics: 'Zumpango de Ocampo'
+    subdiv: MEX
+    function: '--3-----'
+    status: RL
+    date: '0101'
+    iata: ''
+    coordinates: '1948N 09906W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MX ZDR'
+    name: 'Zumpango del Rio'
+    namewodiacritics: 'Zumpango del Rio'
+    subdiv: GRO
+    function: '--3-----'
+    status: RQ
+    date: '0607'
+    iata: ''
+    coordinates: '1739N 09932W'
+    remarks: ''

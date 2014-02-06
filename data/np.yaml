@@ -1,0 +1,672 @@
+-
+    ch: ''
+    locode: 'NP ANP'
+    name: Annapurna
+    namewodiacritics: Annapurna
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '9805'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'NP BGL'
+    name: Baglung
+    namewodiacritics: Baglung
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'NP BIT'
+    name: Baitadi
+    namewodiacritics: Baitadi
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'NP BJH'
+    name: Bajhang
+    namewodiacritics: Bajhang
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'NP BJU'
+    name: Bajura
+    namewodiacritics: Bajura
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'NP BDP'
+    name: Bhadrapur
+    namewodiacritics: Bhadrapur
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'NP BWA'
+    name: Bhairawa
+    namewodiacritics: Bhairawa
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'NP BHR'
+    name: Bharatpur
+    namewodiacritics: Bharatpur
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'NP BHP'
+    name: Bhojpur
+    namewodiacritics: Bhojpur
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'NP BIR'
+    name: Biratnagar
+    namewodiacritics: Biratnagar
+    subdiv: ''
+    function: '--34----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'NP BRG'
+    name: Birgunj
+    namewodiacritics: Birgunj
+    subdiv: ''
+    function: '--3-----'
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'NP HRJ'
+    name: Chaurjhari
+    namewodiacritics: Chaurjhari
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'NP DHU'
+    name: Dadeldhura
+    namewodiacritics: Dadeldhura
+    subdiv: MA
+    function: '--3-----'
+    status: RL
+    date: '1207'
+    iata: ''
+    coordinates: '2918N 08035E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NP DNP'
+    name: Dang
+    namewodiacritics: Dang
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'NP DAP'
+    name: Darchula
+    namewodiacritics: Darchula
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: +
+    locode: 'NP DDG'
+    name: Dhading
+    namewodiacritics: Dhading
+    subdiv: BA
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '2752N 08455E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NP DHI'
+    name: Dhangarhi
+    namewodiacritics: Dhangarhi
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'NP DHG'
+    name: Dhaulagiri
+    namewodiacritics: Dhaulagiri
+    subdiv: ''
+    function: 0-------
+    status: RL
+    date: '9805'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'NP DOP'
+    name: Dolpa
+    namewodiacritics: Dolpa
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'NP GKH'
+    name: Gorkha
+    namewodiacritics: Gorkha
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'NP HET'
+    name: Hetauda
+    namewodiacritics: Hetauda
+    subdiv: NA
+    function: '--3-----'
+    status: RL
+    date: '1207'
+    iata: ''
+    coordinates: '2725N 08502E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NP ILM'
+    name: Ilam
+    namewodiacritics: Ilam
+    subdiv: ME
+    function: '--3-----'
+    status: RL
+    date: '1101'
+    iata: ''
+    coordinates: '2654N 08756E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NP JKR'
+    name: Janakpur
+    namewodiacritics: Janakpur
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'NP JIR'
+    name: Jiri
+    namewodiacritics: Jiri
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'NP JMO'
+    name: Jomsom
+    namewodiacritics: Jomsom
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'NP JUM'
+    name: Jumla
+    namewodiacritics: Jumla
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'NP KAI'
+    name: Kailali
+    namewodiacritics: Kailali
+    subdiv: ''
+    function: '--3-----'
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'NP KAK'
+    name: Kakarbitta
+    namewodiacritics: Kakarbitta
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '0307'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'NP KGJ'
+    name: Kanchenjunga
+    namewodiacritics: Kanchenjunga
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '0212'
+    iata: ''
+    coordinates: '2743N 08813E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NP KTM'
+    name: Kathmandu
+    namewodiacritics: Kathmandu
+    subdiv: ''
+    function: '--345---'
+    status: AI
+    date: '9401'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'NP LDN'
+    name: Lamidanda
+    namewodiacritics: Lamidanda
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'NP LTG'
+    name: Langtang
+    namewodiacritics: Langtang
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'NP LUA'
+    name: Lukla
+    namewodiacritics: Lukla
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'NP XMG'
+    name: Mahendranagar
+    namewodiacritics: Mahendranagar
+    subdiv: ''
+    function: '---4----'
+    status: RL
+    date: '0907'
+    iata: ''
+    coordinates: '2875N 08008E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NP NGX'
+    name: Manang
+    namewodiacritics: Manang
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'NP MEY'
+    name: Meghauli
+    namewodiacritics: Meghauli
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'NP MWP'
+    name: Mountain
+    namewodiacritics: Mountain
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'NP LLU'
+    name: Nawalparasi
+    namewodiacritics: Nawalparasi
+    subdiv: LU
+    function: 1----6--
+    status: RQ
+    date: '1007'
+    iata: ''
+    coordinates: '2732N 08340E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NP KEP'
+    name: Nepalganj
+    namewodiacritics: Nepalganj
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'NP PPL'
+    name: Phaplu
+    namewodiacritics: Phaplu
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'NP PKR'
+    name: Pokhara
+    namewodiacritics: Pokhara
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9401'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'NP RJB'
+    name: Rajbiraj
+    namewodiacritics: Rajbiraj
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'NP RHP'
+    name: Ramechhap
+    namewodiacritics: Ramechhap
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'NP RPA'
+    name: Rolpa
+    namewodiacritics: Rolpa
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'NP RUK'
+    name: Rukumkot
+    namewodiacritics: Rukumkot
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'NP RUM'
+    name: Rumjatar
+    namewodiacritics: Rumjatar
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'NP FEB'
+    name: Sanfebagar
+    namewodiacritics: Sanfebagar
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'NP SIH'
+    name: Silgarhi-Doti
+    namewodiacritics: Silgarhi-Doti
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0212'
+    iata: ''
+    coordinates: '2916N 08059E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NP SIF'
+    name: Simara
+    namewodiacritics: Simara
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'NP IMK'
+    name: Simikot
+    namewodiacritics: Simikot
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'NP SUN'
+    name: Sunauli
+    namewodiacritics: Sunauli
+    subdiv: ''
+    function: '--3-----'
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'NP SKH'
+    name: Surkhet
+    namewodiacritics: Surkhet
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'NP SYH'
+    name: Syangboche
+    namewodiacritics: Syangboche
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'NP TPJ'
+    name: Taplejung
+    namewodiacritics: Taplejung
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'NP TPU'
+    name: Tikapur
+    namewodiacritics: Tikapur
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'NP TMI'
+    name: Tumlingtar
+    namewodiacritics: Tumlingtar
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0212'
+    iata: ''
+    coordinates: '2718N 08712E'
+    remarks: ''

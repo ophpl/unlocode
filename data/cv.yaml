@@ -1,0 +1,240 @@
+-
+    ch: ''
+    locode: 'CV BVC'
+    name: 'Boa Vista'
+    namewodiacritics: 'Boa Vista'
+    subdiv: ''
+    function: '---4----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '0250N 06041W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CV BVR'
+    name: Brava
+    namewodiacritics: Brava
+    subdiv: ''
+    function: '---4----'
+    status: RL
+    date: '0907'
+    iata: ''
+    coordinates: '3140S 05635W'
+    remarks: ''
+-
+    ch: ¦
+    locode: 'CV SID'
+    name: 'Ilha do Sal'
+    namewodiacritics: 'Ilha do Sal'
+    subdiv: SL
+    function: '---4----'
+    status: AI
+    date: '1307'
+    iata: ''
+    coordinates: '1645N 02255W'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'CV MMO'
+    name: Maio
+    namewodiacritics: Maio
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ¦
+    locode: 'CV MIN'
+    name: Mindelo
+    namewodiacritics: Mindelo
+    subdiv: SV
+    function: 1-3-----
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '1653N 02500W'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'CV MTI'
+    name: Mosteiros
+    namewodiacritics: Mosteiros
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'CV PAL'
+    name: Palmeira
+    namewodiacritics: Palmeira
+    subdiv: ''
+    function: 0-------
+    status: RQ
+    date: '9506'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'CV PLM'
+    name: 'Pedra de Lume'
+    namewodiacritics: 'Pedra de Lume'
+    subdiv: ''
+    function: 0-------
+    status: RQ
+    date: '9506'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ¦
+    locode: 'CV GRA'
+    name: 'Porto Grande'
+    namewodiacritics: 'Porto Grande'
+    subdiv: SV
+    function: 1-------
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '1652N 02500W'
+    remarks: '@Sub'
+-
+    ch: '#'
+    locode: 'CV POI'
+    name: 'Porto Inglez'
+    namewodiacritics: 'Porto Inglez'
+    subdiv: MA
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '1508N 02313W'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'CV PON'
+    name: 'Porto Novo'
+    namewodiacritics: 'Porto Novo'
+    subdiv: ''
+    function: 0-------
+    status: RQ
+    date: '9506'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'CV POP'
+    name: 'Porto Preguica'
+    namewodiacritics: 'Porto Preguica'
+    subdiv: ''
+    function: 0-------
+    status: RQ
+    date: '9506'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'CV RAI'
+    name: Praia
+    namewodiacritics: Praia
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'CV SAR'
+    name: 'Sal Rei'
+    namewodiacritics: 'Sal Rei'
+    subdiv: ''
+    function: 0-------
+    status: RQ
+    date: '9506'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'CV SAM'
+    name: 'Santa Maria'
+    namewodiacritics: 'Santa Maria'
+    subdiv: ''
+    function: 0-------
+    status: RQ
+    date: '9506'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'CV NTO'
+    name: 'Santo Antao'
+    namewodiacritics: 'Santo Antao'
+    subdiv: ''
+    function: '---4----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ¦
+    locode: 'CV SFL'
+    name: 'Sao Filipe'
+    namewodiacritics: 'Sao Filipe'
+    subdiv: SF
+    function: '---4----'
+    status: AI
+    date: '1307'
+    iata: ''
+    coordinates: '1454N 02431W'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'CV SNE'
+    name: 'Sao Nicolau'
+    namewodiacritics: 'Sao Nicolau'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'CV VXE'
+    name: 'Sao Vicente'
+    namewodiacritics: 'Sao Vicente'
+    subdiv: ''
+    function: 1--45---
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'CV TAR'
+    name: Tarrafal
+    namewodiacritics: Tarrafal
+    subdiv: ''
+    function: 0-------
+    status: RQ
+    date: '9506'
+    iata: ''
+    coordinates: ''
+    remarks: ''

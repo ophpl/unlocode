@@ -1,0 +1,5520 @@
+-
+    ch: ''
+    locode: 'PH ABU'
+    name: Abulug
+    namewodiacritics: Abulug
+    subdiv: CAG
+    function: 1-------
+    status: RL
+    date: '1101'
+    iata: ''
+    coordinates: '1826N 12127E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH ADL'
+    name: Adlay/Bislig
+    namewodiacritics: Adlay/Bislig
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH AOO'
+    name: Agoo
+    namewodiacritics: Agoo
+    subdiv: LUN
+    function: '-----6--'
+    status: RQ
+    date: '1001'
+    iata: ''
+    coordinates: '1619N 12022E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH AHE'
+    name: Aheron/Ozamis
+    namewodiacritics: Aheron/Ozamis
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH AJU'
+    name: Ajuy
+    namewodiacritics: Ajuy
+    subdiv: ILI
+    function: 1-------
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '1110N 12302E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH AEL'
+    name: Alabel
+    namewodiacritics: Alabel
+    subdiv: SCO
+    function: '-----6--'
+    status: RQ
+    date: '1001'
+    iata: ''
+    coordinates: '6522N 12516E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH AAV'
+    name: Alah
+    namewodiacritics: Alah
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH ALA'
+    name: Alasang/Siain
+    namewodiacritics: Alasang/Siain
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH ALB'
+    name: Albuera
+    namewodiacritics: Albuera
+    subdiv: LEY
+    function: 1-------
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '1058N 12438E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH ALC'
+    name: Alcoy
+    namewodiacritics: Alcoy
+    subdiv: CEB
+    function: 1-3-----
+    status: RQ
+    date: '1001'
+    iata: ''
+    coordinates: '0941N 12330E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH ALE'
+    name: Aleran/Ozamis
+    namewodiacritics: Aleran/Ozamis
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH AMU'
+    name: Amunitan/Aparri
+    namewodiacritics: Amunitan/Aparri
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH ANA'
+    name: Anakan/Masao
+    namewodiacritics: Anakan/Masao
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH AGL'
+    name: Angeles
+    namewodiacritics: Angeles
+    subdiv: ''
+    function: '-23-----'
+    status: RQ
+    date: '9704'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH ANT'
+    name: Antipolo
+    namewodiacritics: Antipolo
+    subdiv: APA
+    function: 1-------
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH EUQ'
+    name: 'Antique Evelio Javier Apt'
+    namewodiacritics: 'Antique Evelio Javier Apt'
+    subdiv: ANT
+    function: '---4----'
+    status: RQ
+    date: '1001'
+    iata: ''
+    coordinates: '1046N 12156E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH APR'
+    name: 'Aparri, Luzon'
+    namewodiacritics: 'Aparri, Luzon'
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH ARA'
+    name: 'Aras Asan/Bislig'
+    namewodiacritics: 'Aras Asan/Bislig'
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH AST'
+    name: Astorga
+    namewodiacritics: Astorga
+    subdiv: DAS
+    function: 1-------
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '0653N 12527E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH ATI'
+    name: Atimonan/Siain
+    namewodiacritics: Atimonan/Siain
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH BAB'
+    name: Babato/Dadiangas
+    namewodiacritics: Babato/Dadiangas
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH BCD'
+    name: 'Bacolod, Negros'
+    namewodiacritics: 'Bacolod, Negros'
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH BCO'
+    name: Bacon/Legaspi
+    namewodiacritics: Bacon/Legaspi
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH BAC'
+    name: Bacong
+    namewodiacritics: Bacong
+    subdiv: NER
+    function: 1-------
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '0914N 12318E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH BCU'
+    name: Baculin/Mati
+    namewodiacritics: Baculin/Mati
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH BGC'
+    name: Bagac
+    namewodiacritics: Bagac
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH BNQ'
+    name: Baganga/Mati
+    namewodiacritics: Baganga/Mati
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH BGI'
+    name: 'Bagui Bay/San Fernando'
+    namewodiacritics: 'Bagui Bay/San Fernando'
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH BAG'
+    name: Baguio
+    namewodiacritics: Baguio
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH BAI'
+    name: Bais/Dumaguete
+    namewodiacritics: Bais/Dumaguete
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH BLC'
+    name: 'Balabac, Palawan'
+    namewodiacritics: 'Balabac, Palawan'
+    subdiv: PLW
+    function: 1-3-----
+    status: RL
+    date: '0401'
+    iata: ''
+    coordinates: '0758N 11703E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH BAL'
+    name: Balaboe
+    namewodiacritics: Balaboe
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH BLA'
+    name: Balanga/Batan
+    namewodiacritics: Balanga/Batan
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH BLN'
+    name: Balengan/Siain
+    namewodiacritics: Balengan/Siain
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH BQA'
+    name: Baler/Siain
+    namewodiacritics: Baler/Siain
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH BGS'
+    name: Balingasag
+    namewodiacritics: Balingasag
+    subdiv: ''
+    function: 1-3-----
+    status: RL
+    date: '0212'
+    iata: ''
+    coordinates: '0845N 12447E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH BLT'
+    name: 'Balintang/Puerto Princesa'
+    namewodiacritics: 'Balintang/Puerto Princesa'
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH BLG'
+    name: Balogo/Batangas
+    namewodiacritics: Balogo/Batangas
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH BLU'
+    name: Balumo/Zamboanga
+    namewodiacritics: Balumo/Zamboanga
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH BNW'
+    name: Banawan/Dadiangas
+    namewodiacritics: Banawan/Dadiangas
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH BGK'
+    name: Bangkal
+    namewodiacritics: Bangkal
+    subdiv: ''
+    function: '-----6--'
+    status: RL
+    date: '1201'
+    iata: ''
+    coordinates: '1432N 12100E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH BTY'
+    name: 'Bantayon/San Jose'
+    namewodiacritics: 'Bantayon/San Jose'
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH BRB'
+    name: Barobo/Bislig
+    namewodiacritics: Barobo/Bislig
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH BRT'
+    name: 'Barton/Puerto Princesa'
+    namewodiacritics: 'Barton/Puerto Princesa'
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH BSO'
+    name: Basco
+    namewodiacritics: Basco
+    subdiv: BTN
+    function: 1--4----
+    status: AI
+    date: '1101'
+    iata: ''
+    coordinates: '2027N 12158E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH BSY'
+    name: Basey/Catbalogan
+    namewodiacritics: Basey/Catbalogan
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH BAS'
+    name: Basiauang/Dadiangas
+    namewodiacritics: Basiauang/Dadiangas
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH BTN'
+    name: 'Bataan, Mariveles'
+    namewodiacritics: 'Bataan, Mariveles'
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH BTG'
+    name: Batangas/Luzon
+    namewodiacritics: Batangas/Luzon
+    subdiv: BTG
+    function: 1-3--6--
+    status: AI
+    date: '1301'
+    iata: ''
+    coordinates: '1345N 12103E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH BTS'
+    name: 'Batarasa/Puerto Princesa'
+    namewodiacritics: 'Batarasa/Puerto Princesa'
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH BAT'
+    name: Batonbaton
+    namewodiacritics: Batonbaton
+    subdiv: PLW
+    function: 1-------
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '0911N 11821E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH BAU'
+    name: Bauan/Batangas
+    namewodiacritics: Bauan/Batangas
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH BNG'
+    name: Bauang
+    namewodiacritics: Bauang
+    subdiv: LUN
+    function: 123-----
+    status: RL
+    date: '0407'
+    iata: ''
+    coordinates: '1631N 12019E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH BYS'
+    name: Bayabas/Bislig
+    namewodiacritics: Bayabas/Bislig
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH BYP'
+    name: 'Bayang Point'
+    namewodiacritics: 'Bayang Point'
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH BYW'
+    name: Bayawan/Dumaguete
+    namewodiacritics: Bayawan/Dumaguete
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH BYB'
+    name: Baybay/Tacloban
+    namewodiacritics: Baybay/Tacloban
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH NAN'
+    name: Binan
+    namewodiacritics: Binan
+    subdiv: CAV
+    function: '-----6--'
+    status: RQ
+    date: '0907'
+    iata: ''
+    coordinates: '1416N 12135E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH BIN'
+    name: Biñan
+    namewodiacritics: Binan
+    subdiv: LAG
+    function: 1-3-----
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH BND'
+    name: Binondo
+    namewodiacritics: Binondo
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '1007'
+    iata: ''
+    coordinates: '1436N 12058E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH BPH'
+    name: 'Bislig, Mindanao'
+    namewodiacritics: 'Bislig, Mindanao'
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH BIY'
+    name: Biyawa/Davao
+    namewodiacritics: Biyawa/Davao
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH BOA'
+    name: 'Boac, Marinduque'
+    namewodiacritics: 'Boac, Marinduque'
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH BOG'
+    name: Bogo
+    namewodiacritics: Bogo
+    subdiv: ''
+    function: 1-3-----
+    status: RL
+    date: '0212'
+    iata: ''
+    coordinates: '1103N 12400E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH BLP'
+    name: 'Bolos Point/Aparri'
+    namewodiacritics: 'Bolos Point/Aparri'
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH BOR'
+    name: Boracay
+    namewodiacritics: Boracay
+    subdiv: ROM
+    function: 1-------
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '1158N 12155E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH BGV'
+    name: Borongan
+    namewodiacritics: Borongan
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '9506'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH BOS'
+    name: Boston/Davao
+    namewodiacritics: Boston/Davao
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH BRP'
+    name: 'Brookes Point, Palawan'
+    namewodiacritics: 'Brookes Point, Palawan'
+    subdiv: PLW
+    function: 1-3-----
+    status: RL
+    date: '0401'
+    iata: ''
+    coordinates: '0846N 11750E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH BNY'
+    name: Buanoy
+    namewodiacritics: Buanoy
+    subdiv: CEB
+    function: '-----6--'
+    status: RL
+    date: '1201'
+    iata: ''
+    coordinates: '1027N 12341E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH BGR'
+    name: 'Bucar Grande/Suriagao'
+    namewodiacritics: 'Bucar Grande/Suriagao'
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH BUD'
+    name: Budbud/Davao
+    namewodiacritics: Budbud/Davao
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH BUG'
+    name: Bugo
+    namewodiacritics: Bugo
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH BUN'
+    name: Bulacan
+    namewodiacritics: Bulacan
+    subdiv: BUL
+    function: '-----6--'
+    status: RQ
+    date: '1001'
+    iata: ''
+    coordinates: '1447N 12052E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH BUL'
+    name: 'Bulan, Luzon'
+    namewodiacritics: 'Bulan, Luzon'
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH BUR'
+    name: 'Burdeos, Polillo Isl'
+    namewodiacritics: 'Burdeos, Polillo Isl'
+    subdiv: QUE
+    function: 1-3-----
+    status: RL
+    date: '0401'
+    iata: ''
+    coordinates: '1450N 12158E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH PPB'
+    name: 'Busan Bay'
+    namewodiacritics: 'Busan Bay'
+    subdiv: ZAS
+    function: '-----6--'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '0735N 12227E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH USU'
+    name: Busuanga
+    namewodiacritics: Busuanga
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH BXU'
+    name: 'Butuan Bay/Masao'
+    namewodiacritics: 'Butuan Bay/Masao'
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH BTC'
+    name: 'Butuan City'
+    namewodiacritics: 'Butuan City'
+    subdiv: AGN
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '0856N 12532E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH CBT'
+    name: Cabanatuan
+    namewodiacritics: Cabanatuan
+    subdiv: NUE
+    function: '-----6--'
+    status: RL
+    date: '1107'
+    iata: ''
+    coordinates: '1529N 12058E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH CAB'
+    name: 'Cabugao Bay/Legaspi'
+    namewodiacritics: 'Cabugao Bay/Legaspi'
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH CAZ'
+    name: Cadiz
+    namewodiacritics: Cadiz
+    subdiv: ''
+    function: 1-------
+    status: RL
+    date: '9811'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH CGY'
+    name: 'Cagayan de Oro, Mindanao'
+    namewodiacritics: 'Cagayan de Oro, Mindanao'
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH CDY'
+    name: 'Cagayan de Sulu'
+    namewodiacritics: 'Cagayan de Sulu'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH CDN'
+    name: Cagdianao
+    namewodiacritics: Cagdianao
+    subdiv: SUN
+    function: 1-------
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '0955N 12540E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH CHO'
+    name: Cahalo
+    namewodiacritics: Cahalo
+    subdiv: PAM
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '1517N 12039E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH CAJ'
+    name: 'Cajidiocan, Visayan Isl'
+    namewodiacritics: 'Cajidiocan, Visayan Isl'
+    subdiv: ROM
+    function: 1-3-----
+    status: RL
+    date: '0401'
+    iata: ''
+    coordinates: '1222N 12241E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH CAA'
+    name: Calaca
+    namewodiacritics: Calaca
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0006'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH CCG'
+    name: Calag-Calag/Dumaguete
+    namewodiacritics: Calag-Calag/Dumaguete
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH CGT'
+    name: Calaguitan/Tacloban
+    namewodiacritics: Calaguitan/Tacloban
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH CAL'
+    name: Calamba
+    namewodiacritics: Calamba
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0006'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH CLP'
+    name: Calapan/Batangas
+    namewodiacritics: Calapan/Batangas
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH CYP'
+    name: 'Calbayog Apt, Samar'
+    namewodiacritics: 'Calbayog Apt, Samar'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0401'
+    iata: ''
+    coordinates: '1205N 12433E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH CBY'
+    name: 'Calbayog, Samar'
+    namewodiacritics: 'Calbayog, Samar'
+    subdiv: ''
+    function: 1-3-----
+    status: RL
+    date: '0401'
+    iata: ''
+    coordinates: '1204N 12436E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH CDB'
+    name: 'Caldera Bay/Zamboanga'
+    namewodiacritics: 'Caldera Bay/Zamboanga'
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH CAC'
+    name: 'Caloocan City'
+    namewodiacritics: 'Caloocan City'
+    subdiv: ''
+    function: '-----6--'
+    status: RQ
+    date: '0907'
+    iata: ''
+    coordinates: '1439N 12058E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH CWY'
+    name: Calowayan/Catabalogan
+    namewodiacritics: Calowayan/Catabalogan
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH CUG'
+    name: 'Calubian, Leyte'
+    namewodiacritics: 'Calubian, Leyte'
+    subdiv: LEY
+    function: 1-3-----
+    status: RL
+    date: '0401'
+    iata: ''
+    coordinates: '1126N 12425E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH CGP'
+    name: 'Calug Point/Zamboanga'
+    namewodiacritics: 'Calug Point/Zamboanga'
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH UPT'
+    name: Calumpit
+    namewodiacritics: Calumpit
+    subdiv: BUL
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '1455N 12046E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH CML'
+    name: Camalagawan/Aparri
+    namewodiacritics: Camalagawan/Aparri
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH CAM'
+    name: 'Camarines Norte/Jose Panganiban'
+    namewodiacritics: 'Camarines Norte/Jose Panganiban'
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH CGM'
+    name: 'Camiguin Island/Aparri'
+    namewodiacritics: 'Camiguin Island/Aparri'
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH CNY'
+    name: Canaybon/Catbalogan
+    namewodiacritics: Canaybon/Catbalogan
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH CDA'
+    name: Candelaria
+    namewodiacritics: Candelaria
+    subdiv: QUE
+    function: '-----6--'
+    status: RQ
+    date: '1001'
+    iata: ''
+    coordinates: '1355N 12125E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH CLB'
+    name: Canlubang
+    namewodiacritics: Canlubang
+    subdiv: ''
+    function: '-23-----'
+    status: RL
+    date: '0601'
+    iata: ''
+    coordinates: '1413N 12106E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH CNT'
+    name: Cantilan/Surigao
+    namewodiacritics: Cantilan/Surigao
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH CPL'
+    name: Capalonga/Siain
+    namewodiacritics: Capalonga/Siain
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH CPC'
+    name: Capoocan
+    namewodiacritics: Capoocan
+    subdiv: LEY
+    function: 1-------
+    status: RL
+    date: '1107'
+    iata: ''
+    coordinates: '1118N 12439E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH CRG'
+    name: Caraga/Mati
+    namewodiacritics: Caraga/Mati
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH CRA'
+    name: Carigara
+    namewodiacritics: Carigara
+    subdiv: LEY
+    function: 1-------
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '1118N 12441E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH CGG'
+    name: Casiguran/Siain
+    namewodiacritics: Casiguran/Siain
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH CST'
+    name: Castañas
+    namewodiacritics: Castanas
+    subdiv: ''
+    function: 1-3-----
+    status: RL
+    date: '0212'
+    iata: ''
+    coordinates: '1353N 12133E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH CSB'
+    name: 'Casul Bay/Ozamis'
+    namewodiacritics: 'Casul Bay/Ozamis'
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH CTB'
+    name: 'Catamon Bay/Iloilo'
+    namewodiacritics: 'Catamon Bay/Iloilo'
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH CUN'
+    name: Catanauan
+    namewodiacritics: Catanauan
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH CRM'
+    name: Catarman
+    namewodiacritics: Catarman
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH CTS'
+    name: 'Catbalogan, Samar'
+    namewodiacritics: 'Catbalogan, Samar'
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH MPH'
+    name: Caticlan
+    namewodiacritics: Caticlan
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH CYZ'
+    name: Cauayan
+    namewodiacritics: Cauayan
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9401'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH CVE'
+    name: 'Cavite, Luzon'
+    namewodiacritics: 'Cavite, Luzon'
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH CEB'
+    name: Cebu
+    namewodiacritics: Cebu
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH KLR'
+    name: 'Clark Field (Angeles)'
+    namewodiacritics: 'Clark Field (Angeles)'
+    subdiv: PAM
+    function: '-23-----'
+    status: RL
+    date: '0701'
+    iata: ''
+    coordinates: '1509N 12035E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH CFA'
+    name: 'Clark Field Apt Luzon Island'
+    namewodiacritics: 'Clark Field Apt Luzon Island'
+    subdiv: PAM
+    function: '---4----'
+    status: RQ
+    date: '1001'
+    iata: ''
+    coordinates: '1511N 12033E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH CLV'
+    name: Claveria/Aparri
+    namewodiacritics: Claveria/Aparri
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH XCN'
+    name: Coron
+    namewodiacritics: Coron
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH CGI'
+    name: 'Corregidor Island'
+    namewodiacritics: 'Corregidor Island'
+    subdiv: BAN
+    function: 1-------
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '1423N 12035E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH CBO'
+    name: 'Cotabato, Mindanao'
+    namewodiacritics: 'Cotabato, Mindanao'
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH CSI'
+    name: Culasi
+    namewodiacritics: Culasi
+    subdiv: ''
+    function: 1-3-----
+    status: RL
+    date: '0401'
+    iata: ''
+    coordinates: '1136N 12242E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH CUJ'
+    name: Culion
+    namewodiacritics: Culion
+    subdiv: ''
+    function: 1-------
+    status: AI
+    date: '9401'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH CMO'
+    name: Currimao
+    namewodiacritics: Currimao
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '9506'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH CUR'
+    name: Curuan/Zamboanga
+    namewodiacritics: Curuan/Zamboanga
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH CYU'
+    name: Cuyo
+    namewodiacritics: Cuyo
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: '='
+    locode: PH
+    name: 'Dadiangas = General Santos'
+    namewodiacritics: 'Dadiangas = General Santos'
+    subdiv: ''
+    function: ''
+    status: ''
+    date: ''
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH DTE'
+    name: Daet
+    namewodiacritics: Daet
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH DCB'
+    name: 'Dahikan Bay'
+    namewodiacritics: 'Dahikan Bay'
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '9506'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH DNO'
+    name: Danao
+    namewodiacritics: Danao
+    subdiv: ''
+    function: 1-3-----
+    status: RL
+    date: '0401'
+    iata: ''
+    coordinates: '1032N 12402E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH DVO'
+    name: 'Davao, Mindanao'
+    namewodiacritics: 'Davao, Mindanao'
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH DPT'
+    name: Diapitan/Siain
+    namewodiacritics: Diapitan/Siain
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH DRB'
+    name: Diaraboan/Siain
+    namewodiacritics: Diaraboan/Siain
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH DIC'
+    name: Diculum/Zamboanga
+    namewodiacritics: Diculum/Zamboanga
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH DID'
+    name: Didadongan/Aparri
+    namewodiacritics: Didadongan/Aparri
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH DSG'
+    name: Dilasag
+    namewodiacritics: Dilasag
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH DDW'
+    name: Dinadiawan/Aparri
+    namewodiacritics: Dinadiawan/Aparri
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH DNG'
+    name: 'Dinagat Island/Surigao'
+    namewodiacritics: 'Dinagat Island/Surigao'
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH DNL'
+    name: Dinalongan/Siain
+    namewodiacritics: Dinalongan/Siain
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH DGL'
+    name: Dingalan/Siain
+    namewodiacritics: Dingalan/Siain
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH DIO'
+    name: Diotorin/Siain
+    namewodiacritics: Diotorin/Siain
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH DPL'
+    name: Dipolog/Ozamis
+    namewodiacritics: Dipolog/Ozamis
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH DIR'
+    name: Dirgalan
+    namewodiacritics: Dirgalan
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH DIV'
+    name: Divilacan/Aparri
+    namewodiacritics: Divilacan/Aparri
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH DUL'
+    name: Dulag
+    namewodiacritics: Dulag
+    subdiv: LEY
+    function: 1-------
+    status: QQ
+    date: '0212'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH DGT'
+    name: Dumaguete
+    namewodiacritics: Dumaguete
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH ENI'
+    name: 'El Nido/Puerto Princesa'
+    namewodiacritics: 'El Nido/Puerto Princesa'
+    subdiv: ''
+    function: 1-34----
+    status: RL
+    date: '0201'
+    iata: ''
+    coordinates: '1111N 11924E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH GAC'
+    name: 'Gachitorena/Jose Panganiban'
+    namewodiacritics: 'Gachitorena/Jose Panganiban'
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH GHE'
+    name: 'Garcia Hernandez'
+    namewodiacritics: 'Garcia Hernandez'
+    subdiv: BOH
+    function: 1-------
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '0937N 12418E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH GAS'
+    name: Gasan
+    namewodiacritics: Gasan
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH GNI'
+    name: 'General Island/Bislig'
+    namewodiacritics: 'General Island/Bislig'
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH GES'
+    name: 'General Santos'
+    namewodiacritics: 'General Santos'
+    subdiv: ''
+    function: 1-34----
+    status: AI
+    date: '0207'
+    iata: ''
+    coordinates: '0607N 12509E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH GGG'
+    name: 'Gigaquit, Mindanao'
+    namewodiacritics: 'Gigaquit, Mindanao'
+    subdiv: SUN
+    function: 1-3-----
+    status: RL
+    date: '0401'
+    iata: ''
+    coordinates: '0935N 12541E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH GGM'
+    name: 'Gigmoto, Catanduanes'
+    namewodiacritics: 'Gigmoto, Catanduanes'
+    subdiv: CAT
+    function: 1-3-----
+    status: RL
+    date: '0401'
+    iata: ''
+    coordinates: '1346N 12423E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH GIN'
+    name: Gingoog/Masao
+    namewodiacritics: Gingoog/Masao
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH GHG'
+    name: Guihulngan
+    namewodiacritics: Guihulngan
+    subdiv: NER
+    function: 1-------
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '1007N 12317E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH GMS'
+    name: Guimaras/Iloilo
+    namewodiacritics: Guimaras/Iloilo
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH GUI'
+    name: Guinabasan
+    namewodiacritics: Guinabasan
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '9901'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH GUN'
+    name: Guiuan
+    namewodiacritics: Guiuan
+    subdiv: EAS
+    function: 1-------
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '1102N 12543E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH HYB'
+    name: 'Hagnava Bay'
+    namewodiacritics: 'Hagnava Bay'
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '9506'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH AQE'
+    name: Hamtic
+    namewodiacritics: Hamtic
+    subdiv: ANT
+    function: 1-3-----
+    status: RL
+    date: '0407'
+    iata: ''
+    coordinates: '1042N 12158E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH HIJ'
+    name: 'Hijo Wharf/Davao'
+    namewodiacritics: 'Hijo Wharf/Davao'
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH HIL'
+    name: Hilongos
+    namewodiacritics: Hilongos
+    subdiv: LEY
+    function: 1-------
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '1022N 12445E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH HIM'
+    name: 'Himamaylan, Negros'
+    namewodiacritics: 'Himamaylan, Negros'
+    subdiv: NEC
+    function: 1-3-----
+    status: RL
+    date: '0401'
+    iata: ''
+    coordinates: '1005N 12252E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH HNT'
+    name: Hinatuan/Bislig
+    namewodiacritics: Hinatuan/Bislig
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH HNG'
+    name: Hinigaran/Iloilo
+    namewodiacritics: Hinigaran/Iloilo
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH HNB'
+    name: Hinobaan/Iloilo
+    namewodiacritics: Hinobaan/Iloilo
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH HON'
+    name: Hondagua/Siain
+    namewodiacritics: Hondagua/Siain
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH HOO'
+    name: 'Hook Bay/Siain'
+    namewodiacritics: 'Hook Bay/Siain'
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH IGN'
+    name: 'Iligan, Mindanao'
+    namewodiacritics: 'Iligan, Mindanao'
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH ILO'
+    name: 'Iloilo, Panay'
+    namewodiacritics: 'Iloilo, Panay'
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH INP'
+    name: 'Inampulugan Island'
+    namewodiacritics: 'Inampulugan Island'
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '9506'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH INT'
+    name: Intramuros
+    namewodiacritics: Intramuros
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '1207'
+    iata: ''
+    coordinates: '1436N 12058E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH IPE'
+    name: Ipil/Zamboanga
+    namewodiacritics: Ipil/Zamboanga
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH ISL'
+    name: Isabel
+    namewodiacritics: Isabel
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '9506'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH BCT'
+    name: 'Isabela, Basilan'
+    namewodiacritics: 'Isabela, Basilan'
+    subdiv: BAS
+    function: 1-3-----
+    status: RL
+    date: '0401'
+    iata: ''
+    coordinates: '0642N 12158E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH JAG'
+    name: Jagna
+    namewodiacritics: Jagna
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '9506'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH JAS'
+    name: Jasaan
+    namewodiacritics: Jasaan
+    subdiv: ''
+    function: 1-3-----
+    status: RL
+    date: '0212'
+    iata: ''
+    coordinates: '0839N 12445E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH JNZ'
+    name: Jimenez/Ozamis
+    namewodiacritics: Jimenez/Ozamis
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH JOL'
+    name: Jolo
+    namewodiacritics: Jolo
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH JPM'
+    name: 'Jose Panganiban, Luzon'
+    namewodiacritics: 'Jose Panganiban, Luzon'
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH KAS'
+    name: Kabasalan/Zamboanga
+    namewodiacritics: Kabasalan/Zamboanga
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH KLM'
+    name: Kalamansig
+    namewodiacritics: Kalamansig
+    subdiv: SUK
+    function: 1-3-----
+    status: RL
+    date: '0307'
+    iata: ''
+    coordinates: '0633N 12403E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH KLO'
+    name: Kalibo
+    namewodiacritics: Kalibo
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9401'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH KAR'
+    name: Karomatan/Iligan
+    namewodiacritics: Karomatan/Iligan
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH KAT'
+    name: Katipunan/Ozamis
+    namewodiacritics: Katipunan/Ozamis
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH KIA'
+    name: Kiamba/Dadiangas
+    namewodiacritics: Kiamba/Dadiangas
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH KIL'
+    name: 'Kilbay Point/Jose Panganiban'
+    namewodiacritics: 'Kilbay Point/Jose Panganiban'
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH KIN'
+    name: Kinogitan/Iligan
+    namewodiacritics: Kinogitan/Iligan
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH KIP'
+    name: Kipit/Ozamis
+    namewodiacritics: Kipit/Ozamis
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH KIW'
+    name: Kiwalan/Iligan
+    namewodiacritics: Kiwalan/Iligan
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH KOL'
+    name: Kolambugan/Iligan
+    namewodiacritics: Kolambugan/Iligan
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH KUM'
+    name: Kumalarang/Zamboanga
+    namewodiacritics: Kumalarang/Zamboanga
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH LPZ'
+    name: 'La Paz/Iloilo'
+    namewodiacritics: 'La Paz/Iloilo'
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH LRP'
+    name: 'La Rap/Jose Panganiban'
+    namewodiacritics: 'La Rap/Jose Panganiban'
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH LAB'
+    name: Labason/Zamboanga
+    namewodiacritics: Labason/Zamboanga
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH LAY'
+    name: 'Lagondy River'
+    namewodiacritics: 'Lagondy River'
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH LAG'
+    name: 'Lagonoy/Jose Panganiban'
+    namewodiacritics: 'Lagonoy/Jose Panganiban'
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH LGU'
+    name: Laguna
+    namewodiacritics: Laguna
+    subdiv: ''
+    function: 1-------
+    status: RL
+    date: '1107'
+    iata: ''
+    coordinates: '1018N 12353E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH LAM'
+    name: 'Lamit Bay/Jose Panganiban'
+    namewodiacritics: 'Lamit Bay/Jose Panganiban'
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH LAN'
+    name: Lanuza/Bislig
+    namewodiacritics: Lanuza/Bislig
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH LAO'
+    name: 'Laoag, Luzon'
+    namewodiacritics: 'Laoag, Luzon'
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH LPU'
+    name: 'Lapu-Lapu, Cebu'
+    namewodiacritics: 'Lapu-Lapu, Cebu'
+    subdiv: ''
+    function: 1-3-----
+    status: RL
+    date: '0307'
+    iata: ''
+    coordinates: '1019N 12357E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH LNA'
+    name: Larena
+    namewodiacritics: Larena
+    subdiv: SIG
+    function: 1-------
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '0915N 12335E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH APN'
+    name: 'Las Pinas'
+    namewodiacritics: 'Las Pinas'
+    subdiv: CAV
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '1427N 12058E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH PNS'
+    name: 'Las Pinas'
+    namewodiacritics: 'Las Pinas'
+    subdiv: NUE
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '1522N 12100E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH LZB'
+    name: Lazi
+    namewodiacritics: Lazi
+    subdiv: SIG
+    function: 1-3-----
+    status: RL
+    date: '0401'
+    iata: ''
+    coordinates: '0907N 12338E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH LBK'
+    name: Lebak/Parang
+    namewodiacritics: Lebak/Parang
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH LIC'
+    name: Legaspi
+    namewodiacritics: Legaspi
+    subdiv: ALB
+    function: '--3-----'
+    status: RL
+    date: '0701'
+    iata: ''
+    coordinates: '1308N 12344E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH LGP'
+    name: 'Legaspi Apt, Luzon'
+    namewodiacritics: 'Legaspi Apt, Luzon'
+    subdiv: ''
+    function: 1-34----
+    status: AI
+    date: '0401'
+    iata: ''
+    coordinates: '1308N 12345E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH LEG'
+    name: Legazpi
+    namewodiacritics: Legazpi
+    subdiv: PAN
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '1602N 12049E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH LEY'
+    name: Leyte
+    namewodiacritics: Leyte
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH LIA'
+    name: Lianga/Bislig
+    namewodiacritics: Lianga/Bislig
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH LBS'
+    name: Libis
+    namewodiacritics: Libis
+    subdiv: ''
+    function: '-----6--'
+    status: RL
+    date: '1107'
+    iata: ''
+    coordinates: '1436N 12104E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH LIB'
+    name: Libjo/Surigao
+    namewodiacritics: Libjo/Surigao
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH LIM'
+    name: Limay/Bataan
+    namewodiacritics: Limay/Bataan
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH LIN'
+    name: 'Lingayen, Luzon'
+    namewodiacritics: 'Lingayen, Luzon'
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH LGG'
+    name: Lingig/Bislig
+    namewodiacritics: Lingig/Bislig
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH LNK'
+    name: Linik/Dadiangas
+    namewodiacritics: Linik/Dadiangas
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH LPA'
+    name: Lipa
+    namewodiacritics: Lipa
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH LOM'
+    name: Lomuyon/Dadiangas
+    namewodiacritics: Lomuyon/Dadiangas
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH LOP'
+    name: 'Long Point/Puerto Princesa'
+    namewodiacritics: 'Long Point/Puerto Princesa'
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH LOO'
+    name: 'Looc Bay/San Jose'
+    namewodiacritics: 'Looc Bay/San Jose'
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH LBX'
+    name: Lubang
+    namewodiacritics: Lubang
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH LUC'
+    name: Lucanin
+    namewodiacritics: Lucanin
+    subdiv: ''
+    function: 1-------
+    status: RL
+    date: '1107'
+    iata: ''
+    coordinates: '1428N 12037E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH LUG'
+    name: Lugait
+    namewodiacritics: Lugait
+    subdiv: ''
+    function: 1-3-----
+    status: RL
+    date: '0212'
+    iata: ''
+    coordinates: '0820N 12415E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH LUM'
+    name: Lumasal/Dadiangas
+    namewodiacritics: Lumasal/Dadiangas
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH LNO'
+    name: Lunao
+    namewodiacritics: Lunao
+    subdiv: ''
+    function: 1-3-----
+    status: RL
+    date: '0212'
+    iata: ''
+    coordinates: '0852N 12503E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH NCP'
+    name: 'Luzon Island'
+    namewodiacritics: 'Luzon Island'
+    subdiv: ''
+    function: '---4----'
+    status: RQ
+    date: '1001'
+    iata: ''
+    coordinates: '1448N 12017E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH LWA'
+    name: Lwbak
+    namewodiacritics: Lwbak
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH MAA'
+    name: Maasin
+    namewodiacritics: Maasin
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '9506'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH MGD'
+    name: Mabaguid
+    namewodiacritics: Mabaguid
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH MAB'
+    name: 'Mabini, Mindanao'
+    namewodiacritics: 'Mabini, Mindanao'
+    subdiv: MSR
+    function: 1-3-----
+    status: RL
+    date: '0401'
+    iata: ''
+    coordinates: '0857N 12447E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH MCO'
+    name: Maco/Davao
+    namewodiacritics: Maco/Davao
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH MCJ'
+    name: Macojalan/Ozamis
+    namewodiacritics: Macojalan/Ozamis
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH NOP'
+    name: 'Mactan Island Apt'
+    namewodiacritics: 'Mactan Island Apt'
+    subdiv: ''
+    function: 1-34----
+    status: AI
+    date: '0401'
+    iata: ''
+    coordinates: '1018N 12400E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH MAD'
+    name: Madaum/Davao
+    namewodiacritics: Madaum/Davao
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH MGA'
+    name: Magalona/Iloilo
+    namewodiacritics: Magalona/Iloilo
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH MLS'
+    name: Magellanes/Masao
+    namewodiacritics: Magellanes/Masao
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH MGB'
+    name: 'Magueda Bay/Catbalogan'
+    namewodiacritics: 'Magueda Bay/Catbalogan'
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH MAI'
+    name: Maitum/Dadiangas
+    namewodiacritics: Maitum/Dadiangas
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH MAK'
+    name: Makar/Dadiangas
+    namewodiacritics: Makar/Dadiangas
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH MTI'
+    name: Makati
+    namewodiacritics: Makati
+    subdiv: NUV
+    function: 1-3-----
+    status: RL
+    date: '0701'
+    iata: ''
+    coordinates: '1625N 12106E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH MKC'
+    name: 'Makati City'
+    namewodiacritics: 'Makati City'
+    subdiv: ''
+    function: 1-------
+    status: RL
+    date: '1207'
+    iata: ''
+    coordinates: '1433N 12102W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH MLP'
+    name: Malabang
+    namewodiacritics: Malabang
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9401'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH MLL'
+    name: Malalag/Davao
+    namewodiacritics: Malalag/Davao
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH MAL'
+    name: Malampaya
+    namewodiacritics: Malampaya
+    subdiv: ''
+    function: '------7-'
+    status: RQ
+    date: '0907'
+    iata: ''
+    coordinates: '1132N 11906E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH MSB'
+    name: 'Malasugat Bay/Zamboanga'
+    namewodiacritics: 'Malasugat Bay/Zamboanga'
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH MTP'
+    name: Malatapay
+    namewodiacritics: Malatapay
+    subdiv: NER
+    function: 1-------
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '0933N 12309E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH MLB'
+    name: 'Maluso, Basilan'
+    namewodiacritics: 'Maluso, Basilan'
+    subdiv: BAS
+    function: 1-3-----
+    status: RL
+    date: '0401'
+    iata: ''
+    coordinates: '0632N 12152E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH MGI'
+    name: Mambagid
+    namewodiacritics: Mambagid
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '9506'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH MBO'
+    name: Mamburao
+    namewodiacritics: Mamburao
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9401'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH MSY'
+    name: Manansalay/Batangas
+    namewodiacritics: Manansalay/Batangas
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH MNY'
+    name: Manay/Mati
+    namewodiacritics: Manay/Mati
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH MDL'
+    name: Mandaluyong
+    namewodiacritics: Mandaluyong
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0607'
+    iata: ''
+    coordinates: '1435N 12103E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH MCY'
+    name: 'Mandaue City'
+    namewodiacritics: 'Mandaue City'
+    subdiv: CEB
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '1019N 12355E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH MAN'
+    name: 'Mandaue, Cebu'
+    namewodiacritics: 'Mandaue, Cebu'
+    subdiv: CEB
+    function: '-23-----'
+    status: RL
+    date: '0212'
+    iata: ''
+    coordinates: '1020N 12356E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH MGG'
+    name: Mangogoy/Bislig
+    namewodiacritics: Mangogoy/Bislig
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH MNI'
+    name: Manicani
+    namewodiacritics: Manicani
+    subdiv: EAS
+    function: 1-------
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '1100N 12539E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH MNL'
+    name: Manila
+    namewodiacritics: Manila
+    subdiv: ''
+    function: 1--45---
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH MNN'
+    name: 'Manila North Harbour'
+    namewodiacritics: 'Manila North Harbour'
+    subdiv: ''
+    function: 1-3-----
+    status: RL
+    date: '0010'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH MNS'
+    name: 'Manila South Harbour'
+    namewodiacritics: 'Manila South Harbour'
+    subdiv: ''
+    function: 1-3-----
+    status: RL
+    date: '9805'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH XMA'
+    name: Maramag
+    namewodiacritics: Maramag
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH MHT'
+    name: 'Marihatag, Mindanao'
+    namewodiacritics: 'Marihatag, Mindanao'
+    subdiv: SUR
+    function: 1-3-----
+    status: RL
+    date: '0401'
+    iata: ''
+    coordinates: '0847N 12617E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH MRQ'
+    name: Marinduque
+    namewodiacritics: Marinduque
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH MVS'
+    name: 'Mariveles, Luzon'
+    namewodiacritics: 'Mariveles, Luzon'
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH MAS'
+    name: Masao
+    namewodiacritics: Masao
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '9506'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH MBT'
+    name: Masbate
+    namewodiacritics: Masbate
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH MSC'
+    name: Masinloc/Sual
+    namewodiacritics: Masinloc/Sual
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH MAC'
+    name: 'Matho Cortez/Bislig'
+    namewodiacritics: 'Matho Cortez/Bislig'
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH MXI'
+    name: 'Mati, Mindanao'
+    namewodiacritics: 'Mati, Mindanao'
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH MTA'
+    name: 'Matina Aplaya/Davao'
+    namewodiacritics: 'Matina Aplaya/Davao'
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH MDN'
+    name: Medina
+    namewodiacritics: Medina
+    subdiv: ''
+    function: 1-3-----
+    status: RL
+    date: '0212'
+    iata: ''
+    coordinates: '0855N 12501E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH MCD'
+    name: 'Mercedes/Jose Panganiban'
+    namewodiacritics: 'Mercedes/Jose Panganiban'
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: +
+    locode: 'PH MEY'
+    name: Meycauayan
+    namewodiacritics: Meycauayan
+    subdiv: BUL
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '1444N 12057E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH MIL'
+    name: Milbuk/Dadiangas
+    namewodiacritics: Milbuk/Dadiangas
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH MIO'
+    name: 'Misamis Occ./Ozamis'
+    namewodiacritics: 'Misamis Occ./Ozamis'
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH MIC'
+    name: 'Misamis Or./Cagayan de Oro'
+    namewodiacritics: 'Misamis Or./Cagayan de Oro'
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH MSS'
+    name: Mission/Aparri
+    namewodiacritics: Mission/Aparri
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH MON'
+    name: Monserrat/Mati
+    namewodiacritics: Monserrat/Mati
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH MOR'
+    name: Morong/Mariveles
+    namewodiacritics: Morong/Mariveles
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH MUL'
+    name: Mulanay/Siain
+    namewodiacritics: Mulanay/Siain
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH MNT'
+    name: 'Muntinlupa City'
+    namewodiacritics: 'Muntinlupa City'
+    subdiv: ''
+    function: 1-3--6--
+    status: RQ
+    date: '1001'
+    iata: ''
+    coordinates: '1437S 12103E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH NAB'
+    name: 'Nabulao Bay/Iloilo'
+    namewodiacritics: 'Nabulao Bay/Iloilo'
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH NAG'
+    name: 'Naga, Luzon'
+    namewodiacritics: 'Naga, Luzon'
+    subdiv: ''
+    function: '-234----'
+    status: RL
+    date: '0212'
+    iata: ''
+    coordinates: '1337N 12310E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH WNP'
+    name: Naga/Zamboanga
+    namewodiacritics: Naga/Zamboanga
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH NGH'
+    name: Nagh
+    namewodiacritics: Nagh
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH NAL'
+    name: Nalungga/Iloilo
+    namewodiacritics: Nalungga/Iloilo
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH NPT'
+    name: 'Napot Point'
+    namewodiacritics: 'Napot Point'
+    subdiv: ''
+    function: 0-------
+    status: RQ
+    date: '9307'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH NAP'
+    name: 'Napsan/Puerto Princesa'
+    namewodiacritics: 'Napsan/Puerto Princesa'
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH NAR'
+    name: 'Naris Point/Puerto Princesa'
+    namewodiacritics: 'Naris Point/Puerto Princesa'
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH NAS'
+    name: Nasipit/Masao
+    namewodiacritics: Nasipit/Masao
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH NUG'
+    name: 'Nasugbu, Luzon'
+    namewodiacritics: 'Nasugbu, Luzon'
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH NTO'
+    name: Nato
+    namewodiacritics: Nato
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '9506'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH NAV'
+    name: Navotas
+    namewodiacritics: Navotas
+    subdiv: ''
+    function: '-----6--'
+    status: RL
+    date: '1107'
+    iata: ''
+    coordinates: '1439N 01205E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH NID'
+    name: 'Nido Terminal'
+    namewodiacritics: 'Nido Terminal'
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '0401'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH NON'
+    name: 'Nonoc/Surigao Del Norte'
+    namewodiacritics: 'Nonoc/Surigao Del Norte'
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH ODI'
+    name: Odiongan
+    namewodiacritics: Odiongan
+    subdiv: ROM
+    function: 1-------
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '1224N 12159E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH OLO'
+    name: Olongapo
+    namewodiacritics: Olongapo
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '9506'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH OPO'
+    name: Opol
+    namewodiacritics: Opol
+    subdiv: ''
+    function: 1-3-----
+    status: RL
+    date: '0212'
+    iata: ''
+    coordinates: '0831N 12434E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH ORS'
+    name: Oras/Catbalogan
+    namewodiacritics: Oras/Catbalogan
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH ORA'
+    name: Orayuita
+    namewodiacritics: Orayuita
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH ORC'
+    name: Ormoc/Tacloban
+    namewodiacritics: Ormoc/Tacloban
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH ORL'
+    name: Oroquieta
+    namewodiacritics: Oroquieta
+    subdiv: MSC
+    function: 1-------
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '0829N 12348E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH OTE'
+    name: Oteiza/Bislig
+    namewodiacritics: Oteiza/Bislig
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH OZC'
+    name: 'Ozamis, Mindanao'
+    namewodiacritics: 'Ozamis, Mindanao'
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH PDR'
+    name: 'Pacio de Rozas/Batangas'
+    namewodiacritics: 'Pacio de Rozas/Batangas'
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH PAG'
+    name: Pagadian/Zamboanga
+    namewodiacritics: Pagadian/Zamboanga
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH PPP'
+    name: 'Pagudpud, Luzon'
+    namewodiacritics: 'Pagudpud, Luzon'
+    subdiv: LUN
+    function: 1-3-----
+    status: RL
+    date: '0401'
+    iata: ''
+    coordinates: '1637N 12019E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH PLB'
+    name: 'Palamit Bay/San Jose'
+    namewodiacritics: 'Palamit Bay/San Jose'
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH PLP'
+    name: 'Palapag/San Jose'
+    namewodiacritics: 'Palapag/San Jose'
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH PLW'
+    name: Palawan/Ozamis
+    namewodiacritics: Palawan/Ozamis
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH PPN'
+    name: Palompon
+    namewodiacritics: Palompon
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '0101'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH PMT'
+    name: Pamintayan/Zamboanga
+    namewodiacritics: Pamintayan/Zamboanga
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH PAM'
+    name: Pampanga
+    namewodiacritics: Pampanga
+    subdiv: ''
+    function: 1-3-----
+    status: RL
+    date: '9805'
+    iata: ''
+    coordinates: ''
+    remarks: Mindanao
+-
+    ch: ''
+    locode: 'PH PPL'
+    name: Pamplona/Aparri
+    namewodiacritics: Pamplona/Aparri
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH PNB'
+    name: Panabutan/Zamboanga
+    namewodiacritics: Panabutan/Zamboanga
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH PCN'
+    name: Panacan/Davao
+    namewodiacritics: Panacan/Davao
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH PCA'
+    name: 'Panacosa/Puerto Princesa'
+    namewodiacritics: 'Panacosa/Puerto Princesa'
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH PGT'
+    name: Pangutaran/Jolo
+    namewodiacritics: Pangutaran/Jolo
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH PNN'
+    name: Paninirongan/Sanjose
+    namewodiacritics: Paninirongan/Sanjose
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH PPA'
+    name: Parañaque
+    namewodiacritics: Paranaque
+    subdiv: ''
+    function: '-----6--'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '1431N 12059E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH PRA'
+    name: Parang
+    namewodiacritics: Parang
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH PSL'
+    name: 'Pasaleng, Luzon'
+    namewodiacritics: 'Pasaleng, Luzon'
+    subdiv: ILN
+    function: 1-3-----
+    status: RL
+    date: '0401'
+    iata: ''
+    coordinates: '1833N 12055E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH PAS'
+    name: 'Pasay, Luzon'
+    namewodiacritics: 'Pasay, Luzon'
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH PSG'
+    name: Pasig/Manila
+    namewodiacritics: Pasig/Manila
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0201'
+    iata: ''
+    coordinates: '1436N 12104E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH PIS'
+    name: Philippines
+    namewodiacritics: Philippines
+    subdiv: ''
+    function: 1-------
+    status: RL
+    date: '1207'
+    iata: ''
+    coordinates: '1435N 12100E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH PIN'
+    name: Pinamalayan/Batangas
+    namewodiacritics: Pinamalayan/Batangas
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH PLA'
+    name: Plaridel/Ozamis
+    namewodiacritics: Plaridel/Ozamis
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH PDC'
+    name: 'Polanco, Mindanao'
+    namewodiacritics: 'Polanco, Mindanao'
+    subdiv: ZAN
+    function: 1-3-----
+    status: RL
+    date: '0401'
+    iata: ''
+    coordinates: '0831N 12321E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH PLL'
+    name: 'Polillo, Polillo Isl'
+    namewodiacritics: 'Polillo, Polillo Isl'
+    subdiv: QUE
+    function: 1-3-----
+    status: RL
+    date: '0401'
+    iata: ''
+    coordinates: '1442N 12156E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH PLC'
+    name: Polloc
+    namewodiacritics: Polloc
+    subdiv: ''
+    function: 1-3-----
+    status: RQ
+    date: '9506'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH PRO'
+    name: 'Poro/San Fernando'
+    namewodiacritics: 'Poro/San Fernando'
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH PBA'
+    name: 'Port Barton/Palawan'
+    namewodiacritics: 'Port Barton/Palawan'
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH PHD'
+    name: 'Port Holland'
+    namewodiacritics: 'Port Holland'
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '9506'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH IRN'
+    name: 'Port Irene'
+    namewodiacritics: 'Port Irene'
+    subdiv: CAG
+    function: 1-------
+    status: RL
+    date: '1101'
+    iata: ''
+    coordinates: '1822N 12206E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH PTR'
+    name: Potrero
+    namewodiacritics: Potrero
+    subdiv: PAM
+    function: '-----6--'
+    status: RL
+    date: '1201'
+    iata: ''
+    coordinates: '1502N 12036E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH PGA'
+    name: 'Puerto Galera'
+    namewodiacritics: 'Puerto Galera'
+    subdiv: MDR
+    function: 1-------
+    status: RQ
+    date: '1101'
+    iata: ''
+    coordinates: '1330N 12056E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH PPS'
+    name: 'Puerto Princesa, Palawan'
+    namewodiacritics: 'Puerto Princesa, Palawan'
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH PSM'
+    name: 'Puerto Santa Maria'
+    namewodiacritics: 'Puerto Santa Maria'
+    subdiv: ''
+    function: 0-------
+    status: RL
+    date: '9811'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH PUG'
+    name: Pugad/Bislig
+    namewodiacritics: Pugad/Bislig
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH PUL'
+    name: Pulupandan
+    namewodiacritics: Pulupandan
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '9506'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH PTL'
+    name: Puntalinao/Mati
+    namewodiacritics: Puntalinao/Mati
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH PNT'
+    name: Punti/Aparri
+    namewodiacritics: Punti/Aparri
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH QUE'
+    name: Queson/Siain
+    namewodiacritics: Queson/Siain
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH QZT'
+    name: 'Quezon City'
+    namewodiacritics: 'Quezon City'
+    subdiv: ''
+    function: '-----6--'
+    status: RQ
+    date: '1001'
+    iata: ''
+    coordinates: '1438N 12102E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH QUI'
+    name: Quiddiao/Aparri
+    namewodiacritics: Quiddiao/Aparri
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH QBI'
+    name: Quinabigan
+    namewodiacritics: Quinabigan
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '9506'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH QBL'
+    name: Quinablagan/Mati
+    namewodiacritics: Quinablagan/Mati
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH QPT'
+    name: 'Quipit Bay/Ozamis'
+    namewodiacritics: 'Quipit Bay/Ozamis'
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH REA'
+    name: Real/Siain
+    namewodiacritics: Real/Siain
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH RTB'
+    name: 'Rio Tuba'
+    namewodiacritics: 'Rio Tuba'
+    subdiv: PLW
+    function: '--3-----'
+    status: RL
+    date: '0401'
+    iata: ''
+    coordinates: '0831N 11726E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH RIZ'
+    name: 'Rizal, Luzon'
+    namewodiacritics: 'Rizal, Luzon'
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '0212'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH RLN'
+    name: Romblon
+    namewodiacritics: Romblon
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH ROM'
+    name: Romblon
+    namewodiacritics: Romblon
+    subdiv: ROM
+    function: 1-------
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '1234N 12216E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH RSO'
+    name: Rosario
+    namewodiacritics: Rosario
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '9705'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH RXS'
+    name: 'Roxas/Puerto Princesa'
+    namewodiacritics: 'Roxas/Puerto Princesa'
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH SBG'
+    name: Sabang
+    namewodiacritics: Sabang
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH SBB'
+    name: Sabbot/Siain
+    namewodiacritics: Sabbot/Siain
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH SBY'
+    name: Sablayan/Batangas
+    namewodiacritics: Sablayan/Batangas
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH SAG'
+    name: Sagay/Iloilo
+    namewodiacritics: Sagay/Iloilo
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH SLM'
+    name: Salomague
+    namewodiacritics: Salomague
+    subdiv: ILS
+    function: 1-------
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '1747N 12025E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH SAE'
+    name: 'San Antonio Este'
+    namewodiacritics: 'San Antonio Este'
+    subdiv: NUE
+    function: '-----6--'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH SCA'
+    name: 'San Carlos/Dumaguete'
+    namewodiacritics: 'San Carlos/Dumaguete'
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH SFE'
+    name: 'San Fernando, Luzon'
+    namewodiacritics: 'San Fernando, Luzon'
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH SIO'
+    name: 'San Ignacio/Mati'
+    namewodiacritics: 'San Ignacio/Mati'
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH SIS'
+    name: 'San Isidro/Sanjose'
+    namewodiacritics: 'San Isidro/Sanjose'
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH SJI'
+    name: 'San Jose Apt, Mindoro'
+    namewodiacritics: 'San Jose Apt, Mindoro'
+    subdiv: ZAN
+    function: 1-34----
+    status: AI
+    date: '0401'
+    iata: ''
+    coordinates: '1221N 12105E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH NJU'
+    name: 'San Juan'
+    namewodiacritics: 'San Juan'
+    subdiv: ''
+    function: '-----6--'
+    status: RL
+    date: '1107'
+    iata: ''
+    coordinates: '1438N 12102E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH SPQ'
+    name: 'San Pio Quinto/Aparri'
+    namewodiacritics: 'San Pio Quinto/Aparri'
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH STE'
+    name: 'San Teodoro/Batangas'
+    namewodiacritics: 'San Teodoro/Batangas'
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH SGS'
+    name: 'Sanga Sanga'
+    namewodiacritics: 'Sanga Sanga'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH SNG'
+    name: Sangi/Cebu
+    namewodiacritics: Sangi/Cebu
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH NSP'
+    name: 'Sangley Point'
+    namewodiacritics: 'Sangley Point'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH SAN'
+    name: 'Santa Ana/Aparri'
+    namewodiacritics: 'Santa Ana/Aparri'
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '0401'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH SCT'
+    name: 'Santa Catalina/Dumaguete'
+    namewodiacritics: 'Santa Catalina/Dumaguete'
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH SCR'
+    name: 'Santa Cruz/Sual'
+    namewodiacritics: 'Santa Cruz/Sual'
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH SLU'
+    name: 'Santa Lucia/Puerto Princesa'
+    namewodiacritics: 'Santa Lucia/Puerto Princesa'
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH SMA'
+    name: 'Santa Maria/Zamboanga'
+    namewodiacritics: 'Santa Maria/Zamboanga'
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH SNI'
+    name: 'Santa Nino'
+    namewodiacritics: 'Santa Nino'
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '9506'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH STR'
+    name: 'Santa Rosa'
+    namewodiacritics: 'Santa Rosa'
+    subdiv: RIZ
+    function: '-----6--'
+    status: RL
+    date: '1107'
+    iata: ''
+    coordinates: '1434N 12107E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH STS'
+    name: 'Santo Tomas'
+    namewodiacritics: 'Santo Tomas'
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0601'
+    iata: ''
+    coordinates: '1339N 12052E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH SAS'
+    name: Sasa/Davao
+    namewodiacritics: Sasa/Davao
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH IAO'
+    name: 'Sayak Apt del Carmen'
+    namewodiacritics: 'Sayak Apt del Carmen'
+    subdiv: SUN
+    function: '---4----'
+    status: RQ
+    date: '1001'
+    iata: ''
+    coordinates: '0951N 12601E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH SAY'
+    name: Sayao/Batangas
+    namewodiacritics: Sayao/Batangas
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH SMR'
+    name: Semirara
+    namewodiacritics: Semirara
+    subdiv: ANT
+    function: 1-3-----
+    status: RL
+    date: '0401'
+    iata: ''
+    coordinates: '1204N 12124E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH SIN'
+    name: 'Siain, Luzon'
+    namewodiacritics: 'Siain, Luzon'
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH SIR'
+    name: Siari/Ozamis
+    namewodiacritics: Siari/Ozamis
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH SSV'
+    name: Siasi
+    namewodiacritics: Siasi
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH SIY'
+    name: Siay/Zamboanga
+    namewodiacritics: Siay/Zamboanga
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH ICO'
+    name: 'Sicogon Island'
+    namewodiacritics: 'Sicogon Island'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH SIG'
+    name: Sigayan/Parang
+    namewodiacritics: Sigayan/Parang
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH SDG'
+    name: Sindangan/Ozamis
+    namewodiacritics: Sindangan/Ozamis
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH XSO'
+    name: Siocon/Zamboanga
+    namewodiacritics: Siocon/Zamboanga
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH SGD'
+    name: Sogod/Tacloban
+    namewodiacritics: Sogod/Tacloban
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH SOR'
+    name: Sorsogon/Legaspi
+    namewodiacritics: Sorsogon/Legaspi
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH SUA'
+    name: Sual
+    namewodiacritics: Sual
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH SFS'
+    name: 'Subic Bay'
+    namewodiacritics: 'Subic Bay'
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '9506'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH SUT'
+    name: Sucat
+    namewodiacritics: Sucat
+    subdiv: ISA
+    function: '-----6--'
+    status: RL
+    date: '1107'
+    iata: ''
+    coordinates: '1701N 12154W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH SKU'
+    name: 'Sultan Kudarat/Dadiangas'
+    namewodiacritics: 'Sultan Kudarat/Dadiangas'
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH SUG'
+    name: 'Surigao, Mindanao'
+    namewodiacritics: 'Surigao, Mindanao'
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH TBC'
+    name: Tabaco/Legaspi
+    namewodiacritics: Tabaco/Legaspi
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH TAB'
+    name: 'Tabango, Leyte'
+    namewodiacritics: 'Tabango, Leyte'
+    subdiv: LEY
+    function: '--3-----'
+    status: RL
+    date: '0212'
+    iata: ''
+    coordinates: '1118N 12422E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH TBG'
+    name: Tabangoa
+    namewodiacritics: Tabangoa
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH TBH'
+    name: Tablas
+    namewodiacritics: Tablas
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9401'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH TAC'
+    name: 'Tacloban, Leyte'
+    namewodiacritics: 'Tacloban, Leyte'
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH TBU'
+    name: Tagabuli/Davao
+    namewodiacritics: Tagabuli/Davao
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH TTO'
+    name: Taganito
+    namewodiacritics: Taganito
+    subdiv: SUN
+    function: 1-------
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '0933N 12549E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH TAG'
+    name: 'Tagbilaran, Bohol'
+    namewodiacritics: 'Tagbilaran, Bohol'
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH TGB'
+    name: Tagbita
+    namewodiacritics: Tagbita
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH TKW'
+    name: Tagkawayan/Siain
+    namewodiacritics: Tagkawayan/Siain
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH TGO'
+    name: Tagoloan
+    namewodiacritics: Tagoloan
+    subdiv: ''
+    function: 1-3-----
+    status: RL
+    date: '0212'
+    iata: ''
+    coordinates: '0832N 12445E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH TGD'
+    name: 'Tagudin/San Fernando'
+    namewodiacritics: 'Tagudin/San Fernando'
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH TAU'
+    name: Taguig
+    namewodiacritics: Taguig
+    subdiv: ''
+    function: '-----6--'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '1431N 12142E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH TGL'
+    name: Taguilon/Ozamis
+    namewodiacritics: Taguilon/Ozamis
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH TGT'
+    name: 'Taguite Bay/Zamboanga'
+    namewodiacritics: 'Taguite Bay/Zamboanga'
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH TAL'
+    name: Talibon
+    namewodiacritics: Talibon
+    subdiv: BOH
+    function: 1-3-----
+    status: RL
+    date: '0401'
+    iata: ''
+    coordinates: '1008N 12419E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH TLM'
+    name: Talomo/Davao
+    namewodiacritics: Talomo/Davao
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH TGN'
+    name: Tambungon/Davao
+    namewodiacritics: Tambungon/Davao
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH TNA'
+    name: Tanauan
+    namewodiacritics: Tanauan
+    subdiv: BTG
+    function: '-----6--'
+    status: RL
+    date: '1201'
+    iata: ''
+    coordinates: '1404N 12109E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH TNU'
+    name: Tanauan/Tacloban
+    namewodiacritics: Tanauan/Tacloban
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH TDG'
+    name: Tandag/Bislig
+    namewodiacritics: Tandag/Bislig
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH TAN'
+    name: Tandayag
+    namewodiacritics: Tandayag
+    subdiv: NER
+    function: 1-3-----
+    status: RL
+    date: '0401'
+    iata: ''
+    coordinates: '0927N 12313E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH TDC'
+    name: Tandoc
+    namewodiacritics: Tandoc
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH TAR'
+    name: 'Tarlac, Luzon'
+    namewodiacritics: 'Tarlac, Luzon'
+    subdiv: LAG
+    function: '--3-----'
+    status: RL
+    date: '0401'
+    iata: ''
+    coordinates: '1530N 12030E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH TWT'
+    name: Tawitawi
+    namewodiacritics: Tawitawi
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH RZP'
+    name: 'Taytay Sandoval'
+    namewodiacritics: 'Taytay Sandoval'
+    subdiv: PLW
+    function: '---4----'
+    status: RQ
+    date: '1001'
+    iata: ''
+    coordinates: '1049N 11931E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH TAY'
+    name: 'Taytay/Puerto Princesa'
+    namewodiacritics: 'Taytay/Puerto Princesa'
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH TIB'
+    name: Tibungco/Davao
+    namewodiacritics: Tibungco/Davao
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH TIN'
+    name: 'Tindalo Oil Field'
+    namewodiacritics: 'Tindalo Oil Field'
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '1001'
+    iata: ''
+    coordinates: '1104N 11854E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH TOB'
+    name: Toboso/Dumaguete
+    namewodiacritics: Toboso/Dumaguete
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH TLD'
+    name: Toledo/Cebu
+    namewodiacritics: Toledo/Cebu
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH TLG'
+    name: Tolong/Dumaguete
+    namewodiacritics: Tolong/Dumaguete
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH TLP'
+    name: Tolopo
+    namewodiacritics: Tolopo
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH TLS'
+    name: Tolosa/Tacloban
+    namewodiacritics: Tolosa/Tacloban
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH TMA'
+    name: 'Trece Martires'
+    namewodiacritics: 'Trece Martires'
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0601'
+    iata: ''
+    coordinates: '1417N 12052E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH TRO'
+    name: Troloban
+    namewodiacritics: Troloban
+    subdiv: ''
+    function: 0-------
+    status: RQ
+    date: '9307'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH TON'
+    name: Tubigon
+    namewodiacritics: Tubigon
+    subdiv: BOH
+    function: 1-------
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '0957N 12358E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH TUG'
+    name: Tuguegarao
+    namewodiacritics: Tuguegarao
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9401'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH TGI'
+    name: Tuguis/Dadiangas
+    namewodiacritics: Tuguis/Dadiangas
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH TGW'
+    name: 'Tungawan Bay/Zamboanga'
+    namewodiacritics: 'Tungawan Bay/Zamboanga'
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH ULY'
+    name: 'Ulugan Bay'
+    namewodiacritics: 'Ulugan Bay'
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH URR'
+    name: Umrur
+    namewodiacritics: Umrur
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH VZA'
+    name: Valenzuela
+    namewodiacritics: Valenzuela
+    subdiv: BUL
+    function: '-----6--'
+    status: RQ
+    date: '1001'
+    iata: ''
+    coordinates: '1442N 12058E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH VCS'
+    name: 'Victorias, Negros'
+    namewodiacritics: 'Victorias, Negros'
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH VNV'
+    name: Villanueva
+    namewodiacritics: Villanueva
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '9506'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH VRC'
+    name: Virac
+    namewodiacritics: Virac
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9401'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH VTL'
+    name: Vitali/Zamboanga
+    namewodiacritics: Vitali/Zamboanga
+    subdiv: ''
+    function: 1-3-----
+    status: RL
+    date: '0212'
+    iata: ''
+    coordinates: '0722N 12217E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH VTO'
+    name: Vito/Iloilo
+    namewodiacritics: Vito/Iloilo
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH WAS'
+    name: Wasag/Dadiangas
+    namewodiacritics: Wasag/Dadiangas
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH WAW'
+    name: Wawa/Batangas
+    namewodiacritics: Wawa/Batangas
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PH ZAM'
+    name: Zamboanga
+    namewodiacritics: Zamboanga
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: Mindanao

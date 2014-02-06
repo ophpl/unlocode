@@ -1,0 +1,648 @@
+-
+    ch: ''
+    locode: 'KE ASV'
+    name: Amboseli
+    namewodiacritics: Amboseli
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'KE ARI'
+    name: 'Athi River'
+    namewodiacritics: 'Athi River'
+    subdiv: '400'
+    function: '--3-----'
+    status: RL
+    date: '1101'
+    iata: ''
+    coordinates: '0127S 03659E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'KE BMQ'
+    name: Bamburi
+    namewodiacritics: Bamburi
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'KE DDB'
+    name: Dadaab
+    namewodiacritics: Dadaab
+    subdiv: '500'
+    function: '--3-----'
+    status: RQ
+    date: '1001'
+    iata: ''
+    coordinates: '0003N 04019E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'KE EDL'
+    name: Eldoret
+    namewodiacritics: Eldoret
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'KE EYS'
+    name: 'Eliye Springs'
+    namewodiacritics: 'Eliye Springs'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'KE EMB'
+    name: Embakasi
+    namewodiacritics: Embakasi
+    subdiv: ''
+    function: 0-------
+    status: RQ
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'KE FER'
+    name: 'Fergusons Gulf'
+    namewodiacritics: 'Fergusons Gulf'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'KE GAS'
+    name: Garissa
+    namewodiacritics: Garissa
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'KE HOA'
+    name: Hola
+    namewodiacritics: Hola
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'KE KAJ'
+    name: Kajiado
+    namewodiacritics: Kajiado
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '0607'
+    iata: ''
+    coordinates: '0150S 03647E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'KE KAK'
+    name: Kakamega
+    namewodiacritics: Kakamega
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0507'
+    iata: ''
+    coordinates: '0016N 03444E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'KE KLK'
+    name: Kalokol
+    namewodiacritics: Kalokol
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'KE KAP'
+    name: Kapsowar
+    namewodiacritics: Kapsowar
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '1107'
+    iata: ''
+    coordinates: '0059N 03534E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'KE KEY'
+    name: Kericho
+    namewodiacritics: Kericho
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'KE KRV'
+    name: 'Kerio Valley'
+    namewodiacritics: 'Kerio Valley'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'KE ILU'
+    name: Kilaguni
+    namewodiacritics: Kilaguni
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'KE KIL'
+    name: Kilindini
+    namewodiacritics: Kilindini
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '9506'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'KE KIS'
+    name: Kisumu
+    namewodiacritics: Kisumu
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'KE KTL'
+    name: Kitale
+    namewodiacritics: Kitale
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'KE KIU'
+    name: Kiunga
+    namewodiacritics: Kiunga
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'KE KWY'
+    name: Kiwayu
+    namewodiacritics: Kiwayu
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'KE LBN'
+    name: 'Lake Baringo'
+    namewodiacritics: 'Lake Baringo'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'KE LKU'
+    name: 'Lake Rudolf'
+    namewodiacritics: 'Lake Rudolf'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'KE LAU'
+    name: Lamu
+    namewodiacritics: Lamu
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'KE LBK'
+    name: Liboi
+    namewodiacritics: Liboi
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'KE LIM'
+    name: Limuru
+    namewodiacritics: Limuru
+    subdiv: '200'
+    function: '--3-----'
+    status: RL
+    date: '1207'
+    iata: ''
+    coordinates: '0106S 03639E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'KE LOK'
+    name: Lodwar
+    namewodiacritics: Lodwar
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'KE LKG'
+    name: Lokichoggio
+    namewodiacritics: Lokichoggio
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'KE LOY'
+    name: Loyangalani
+    namewodiacritics: Loyangalani
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'KE MAL'
+    name: Malaba
+    namewodiacritics: Malaba
+    subdiv: ''
+    function: '-23-----'
+    status: RL
+    date: '0212'
+    iata: ''
+    coordinates: '0037N 03416E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'KE MYD'
+    name: Malindi
+    namewodiacritics: Malindi
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'KE NDE'
+    name: Mandera
+    namewodiacritics: Mandera
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'KE MRE'
+    name: 'Mara Lodges'
+    namewodiacritics: 'Mara Lodges'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'KE RBT'
+    name: Marsabit
+    namewodiacritics: Marsabit
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'KE MBA'
+    name: Mombasa
+    namewodiacritics: Mombasa
+    subdiv: ''
+    function: 1--45---
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'KE OYL'
+    name: Moyale
+    namewodiacritics: Moyale
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'KE MUH'
+    name: Muhoroni
+    namewodiacritics: Muhoroni
+    subdiv: '600'
+    function: '--3-----'
+    status: RL
+    date: '1101'
+    iata: ''
+    coordinates: '0009S 03511E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'KE MUM'
+    name: Mumias
+    namewodiacritics: Mumias
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'KE MWI'
+    name: Mwingi
+    namewodiacritics: Mwingi
+    subdiv: '400'
+    function: '--3--6--'
+    status: RQ
+    date: '0907'
+    iata: ''
+    coordinates: '0056S 03804E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'KE NBO'
+    name: Nairobi
+    namewodiacritics: Nairobi
+    subdiv: ''
+    function: '-2345---'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'KE RNA'
+    name: Naivasha
+    namewodiacritics: Naivasha
+    subdiv: '700'
+    function: '-----6--'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '0043S 03626E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'KE NUU'
+    name: Nakuru
+    namewodiacritics: Nakuru
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'KE NYK'
+    name: Nanyuki
+    namewodiacritics: Nanyuki
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'KE NAR'
+    name: Narok
+    namewodiacritics: Narok
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '0607'
+    iata: ''
+    coordinates: '0104S 03551E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'KE NYE'
+    name: Nyeri
+    namewodiacritics: Nyeri
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'KE NZO'
+    name: Nzoia
+    namewodiacritics: Nzoia
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'KE UAS'
+    name: Samburu
+    namewodiacritics: Samburu
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'KE SIA'
+    name: Siaya
+    namewodiacritics: Siaya
+    subdiv: '600'
+    function: 1-------
+    status: RL
+    date: '1107'
+    iata: ''
+    coordinates: '0004N 03417E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'KE SOT'
+    name: Sotik
+    namewodiacritics: Sotik
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0201'
+    iata: ''
+    coordinates: '0040S 03506E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'KE THK'
+    name: Thika
+    namewodiacritics: Thika
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0201'
+    iata: ''
+    coordinates: '0102S 03705E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'KE UKA'
+    name: Ukunda
+    namewodiacritics: Ukunda
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'KE WJR'
+    name: Wajir
+    namewodiacritics: Wajir
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'KE WIL'
+    name: 'Wilson Apt/Nairobi'
+    namewodiacritics: 'Wilson Apt/Nairobi'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9506'
+    iata: ''
+    coordinates: ''
+    remarks: ''

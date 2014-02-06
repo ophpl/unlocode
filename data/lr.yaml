@@ -1,0 +1,336 @@
+-
+    ch: ''
+    locode: 'LR BYL'
+    name: 'Bella Yella'
+    namewodiacritics: 'Bella Yella'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'LR UCN'
+    name: Buchanan
+    namewodiacritics: Buchanan
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'LR CMT'
+    name: 'Cape Mount'
+    namewodiacritics: 'Cape Mount'
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'LR CPA'
+    name: 'Cape Palmas'
+    namewodiacritics: 'Cape Palmas'
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'LR FIM'
+    name: Fimibo
+    namewodiacritics: Fimibo
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'LR FOY'
+    name: Foya
+    namewodiacritics: Foya
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'LR GBS'
+    name: 'Grand Bassa'
+    namewodiacritics: 'Grand Bassa'
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'LR GRC'
+    name: 'Grand Cess'
+    namewodiacritics: 'Grand Cess'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'LR GRE'
+    name: Greenville
+    namewodiacritics: Greenville
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'LR HBL'
+    name: Harbel
+    namewodiacritics: Harbel
+    subdiv: MO
+    function: '--3-----'
+    status: RL
+    date: '1207'
+    iata: ''
+    coordinates: '0616N 01020W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LR HAR'
+    name: Harper
+    namewodiacritics: Harper
+    subdiv: MY
+    function: 1-3-----
+    status: RL
+    date: '1207'
+    iata: ''
+    coordinates: '0422N 00743W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LR LOB'
+    name: 'Lower Buchanan'
+    namewodiacritics: 'Lower Buchanan'
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'LR MAR'
+    name: Marshall
+    namewodiacritics: Marshall
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'LR MLW'
+    name: Monrovia
+    namewodiacritics: Monrovia
+    subdiv: MO
+    function: 1-345---
+    status: AI
+    date: '1207'
+    iata: ''
+    coordinates: '0618N 01048W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LR NIA'
+    name: Nimba
+    namewodiacritics: Nimba
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'LR RVC'
+    name: 'River Cess'
+    namewodiacritics: 'River Cess'
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '0212'
+    iata: ''
+    coordinates: '0528N 00935W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LR ROB'
+    name: 'Roberts International Airport'
+    namewodiacritics: 'Roberts International Airport'
+    subdiv: MO
+    function: '--34----'
+    status: AI
+    date: '1207'
+    iata: ''
+    coordinates: '0614N 01021W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LR ROX'
+    name: Robertsport
+    namewodiacritics: Robertsport
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'LR SAG'
+    name: Sagleipie
+    namewodiacritics: Sagleipie
+    subdiv: NI
+    function: '--3-----'
+    status: RL
+    date: '1101'
+    iata: ''
+    coordinates: '0657N 00850W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LR SAB'
+    name: 'Sarioe Bay'
+    namewodiacritics: 'Sarioe Bay'
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'LR SAZ'
+    name: Sasstown
+    namewodiacritics: Sasstown
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'LR SNI'
+    name: Sinoe
+    namewodiacritics: Sinoe
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'LR TPT'
+    name: Tapeta
+    namewodiacritics: Tapeta
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'LR THC'
+    name: Tchien
+    namewodiacritics: Tchien
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'LR TRT'
+    name: 'Trade Town'
+    namewodiacritics: 'Trade Town'
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'LR VOI'
+    name: Voinjama
+    namewodiacritics: Voinjama
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'LR WES'
+    name: Weasua
+    namewodiacritics: Weasua
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'LR WOI'
+    name: Wologissi
+    namewodiacritics: Wologissi
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''

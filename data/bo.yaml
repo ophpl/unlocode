@@ -1,0 +1,624 @@
+-
+    ch: ''
+    locode: 'BO AQL'
+    name: Aiquile
+    namewodiacritics: Aiquile
+    subdiv: C
+    function: '-----6--'
+    status: RL
+    date: '1201'
+    iata: ''
+    coordinates: '1810S 06510W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BO APB'
+    name: Apolo
+    namewodiacritics: Apolo
+    subdiv: L
+    function: '--34----'
+    status: AI
+    date: '0407'
+    iata: ''
+    coordinates: '1443S 06825W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BO ASC'
+    name: Ascensión
+    namewodiacritics: Ascension
+    subdiv: S
+    function: '--34----'
+    status: AI
+    date: '0407'
+    iata: ''
+    coordinates: '1542S 06305W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BO ABA'
+    name: Avaroa
+    namewodiacritics: Avaroa
+    subdiv: P
+    function: '-2------'
+    status: RL
+    date: '1007'
+    iata: ''
+    coordinates: '2120S 06821W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BO BVL'
+    name: Baures
+    namewodiacritics: Baures
+    subdiv: B
+    function: '--34----'
+    status: AI
+    date: '0407'
+    iata: ''
+    coordinates: '1335S 06335W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BO BJO'
+    name: Bermejo
+    namewodiacritics: Bermejo
+    subdiv: T
+    function: '--34----'
+    status: AI
+    date: '0407'
+    iata: ''
+    coordinates: '2239S 06422W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BO CAM'
+    name: Camiri
+    namewodiacritics: Camiri
+    subdiv: S
+    function: '--34----'
+    status: AI
+    date: '0407'
+    iata: ''
+    coordinates: '2006S 06332W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BO CAR'
+    name: Carrasco
+    namewodiacritics: Carrasco
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0701'
+    iata: ''
+    coordinates: '1540S 06733W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BO CIJ'
+    name: Cobija
+    namewodiacritics: Cobija
+    subdiv: N
+    function: '--34----'
+    status: AI
+    date: '0407'
+    iata: ''
+    coordinates: '1102S 06844W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BO CBB'
+    name: Cochabamba
+    namewodiacritics: Cochabamba
+    subdiv: C
+    function: '--345---'
+    status: AI
+    date: '0407'
+    iata: ''
+    coordinates: '1723S 06609W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BO CLN'
+    name: Collpani
+    namewodiacritics: Collpani
+    subdiv: P
+    function: '--3-----'
+    status: RL
+    date: '1101'
+    iata: ''
+    coordinates: '2055S 06701W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BO COL'
+    name: Collpani
+    namewodiacritics: Collpani
+    subdiv: L
+    function: '--3-----'
+    status: RL
+    date: '1101'
+    iata: ''
+    coordinates: '1709S 06738W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BO CEP'
+    name: Concepción
+    namewodiacritics: Concepcion
+    subdiv: S
+    function: '--34----'
+    status: AI
+    date: '0407'
+    iata: ''
+    coordinates: '1608S 06202W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BO ALT'
+    name: 'El Alto'
+    namewodiacritics: 'El Alto'
+    subdiv: L
+    function: '-23-----'
+    status: RL
+    date: '1101'
+    iata: ''
+    coordinates: '1630S 06810W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BO GUQ'
+    name: Guaqui
+    namewodiacritics: Guaqui
+    subdiv: L
+    function: 1-3-----
+    status: AI
+    date: '0407'
+    iata: ''
+    coordinates: '1635S 06852W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BO GYA'
+    name: Guayaramerín
+    namewodiacritics: Guayaramerin
+    subdiv: B
+    function: '---4----'
+    status: AI
+    date: '0212'
+    iata: ''
+    coordinates: '1048S 06523W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BO BVK'
+    name: Huacaraje
+    namewodiacritics: Huacaraje
+    subdiv: B
+    function: '--34----'
+    status: AI
+    date: '0407'
+    iata: ''
+    coordinates: '1333S 06345W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BO LPB'
+    name: 'La Paz'
+    namewodiacritics: 'La Paz'
+    subdiv: L
+    function: '-2345---'
+    status: AI
+    date: '0407'
+    iata: ''
+    coordinates: '1630S 06809W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BO MGD'
+    name: Magdalena
+    namewodiacritics: Magdalena
+    subdiv: B
+    function: '--34----'
+    status: AI
+    date: '0407'
+    iata: ''
+    coordinates: '1314S 06412W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BO MHW'
+    name: Monteagudo
+    namewodiacritics: Monteagudo
+    subdiv: H
+    function: '---4----'
+    status: RL
+    date: '0907'
+    iata: ''
+    coordinates: '1949S 06358W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BO ORU'
+    name: Oruro
+    namewodiacritics: Oruro
+    subdiv: O
+    function: '-234----'
+    status: AI
+    date: '0407'
+    iata: ''
+    coordinates: '1759S 06709W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BO POI'
+    name: Potosí
+    namewodiacritics: Potosi
+    subdiv: P
+    function: '--34----'
+    status: AI
+    date: '0407'
+    iata: ''
+    coordinates: '1935S 06545W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BO PBU'
+    name: 'Puerto Busch'
+    namewodiacritics: 'Puerto Busch'
+    subdiv: S
+    function: 1-3-----
+    status: AI
+    date: '0407'
+    iata: ''
+    coordinates: '2002S 05758W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BO QJR'
+    name: 'Puerto Quijarro'
+    namewodiacritics: 'Puerto Quijarro'
+    subdiv: S
+    function: 1-3-----
+    status: AI
+    date: '0501'
+    iata: ''
+    coordinates: '1747S 05746W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BO PUR'
+    name: 'Puerto Rico'
+    namewodiacritics: 'Puerto Rico'
+    subdiv: N
+    function: 1-34----
+    status: RL
+    date: '0407'
+    iata: ''
+    coordinates: '1105S 06738W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BO PSZ'
+    name: 'Puerto Suárez'
+    namewodiacritics: 'Puerto Suarez'
+    subdiv: S
+    function: 1--4----
+    status: AI
+    date: '0212'
+    iata: ''
+    coordinates: '1857S 05748W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BO REY'
+    name: Reyes
+    namewodiacritics: Reyes
+    subdiv: B
+    function: '--34----'
+    status: AI
+    date: '0407'
+    iata: ''
+    coordinates: '1419S 06723W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BO RIB'
+    name: Riberalta
+    namewodiacritics: Riberalta
+    subdiv: B
+    function: 1-34----
+    status: AI
+    date: '0407'
+    iata: ''
+    coordinates: '1059S 06606W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BO RBO'
+    name: Roboré
+    namewodiacritics: Robore
+    subdiv: S
+    function: '--34----'
+    status: AI
+    date: '0407'
+    iata: ''
+    coordinates: '1820S 05945W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BO RBQ'
+    name: Rurrenabaque
+    namewodiacritics: Rurrenabaque
+    subdiv: B
+    function: 1-34----
+    status: AI
+    date: '0407'
+    iata: ''
+    coordinates: '1428S 06734W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BO SRJ'
+    name: 'San Borja'
+    namewodiacritics: 'San Borja'
+    subdiv: B
+    function: '--34----'
+    status: AI
+    date: '0407'
+    iata: ''
+    coordinates: '1449S 06651W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BO SNM'
+    name: 'San Ignacio de Moxo'
+    namewodiacritics: 'San Ignacio de Moxo'
+    subdiv: B
+    function: '---4----'
+    status: AI
+    date: '0212'
+    iata: ''
+    coordinates: '1500S 06539W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BO SNG'
+    name: 'San Ignacio de Velasco'
+    namewodiacritics: 'San Ignacio de Velasco'
+    subdiv: S
+    function: '--34----'
+    status: AI
+    date: '0407'
+    iata: ''
+    coordinates: '1622S 06057W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BO SJV'
+    name: 'San Javier'
+    namewodiacritics: 'San Javier'
+    subdiv: S
+    function: '--34----'
+    status: AI
+    date: '0407'
+    iata: ''
+    coordinates: '1620S 06238W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BO SJB'
+    name: 'San Joaquín'
+    namewodiacritics: 'San Joaquin'
+    subdiv: B
+    function: '--34----'
+    status: AI
+    date: '0407'
+    iata: ''
+    coordinates: '1304S 06449W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BO SJS'
+    name: 'San José'
+    namewodiacritics: 'San Jose'
+    subdiv: S
+    function: '--34----'
+    status: AI
+    date: '0407'
+    iata: ''
+    coordinates: '1751S 06045W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BO MQK'
+    name: 'San Matias'
+    namewodiacritics: 'San Matias'
+    subdiv: B
+    function: '---4----'
+    status: RL
+    date: '0907'
+    iata: ''
+    coordinates: '1141S 06639W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BO SRD'
+    name: 'San Ramón'
+    namewodiacritics: 'San Ramon'
+    subdiv: B
+    function: '--34----'
+    status: AI
+    date: '0407'
+    iata: ''
+    coordinates: '1317S 06443W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BO SBL'
+    name: 'Santa Ana'
+    namewodiacritics: 'Santa Ana'
+    subdiv: B
+    function: '--34----'
+    status: AI
+    date: '0407'
+    iata: ''
+    coordinates: '1345S 06526W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BO SRZ'
+    name: 'Santa Cruz'
+    namewodiacritics: 'Santa Cruz'
+    subdiv: L
+    function: '-2345---'
+    status: AI
+    date: '0407'
+    iata: ''
+    coordinates: '1747S 06311W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BO SCS'
+    name: 'Santa Cruz de la Sierra'
+    namewodiacritics: 'Santa Cruz de la Sierra'
+    subdiv: S
+    function: '--3-----'
+    status: RQ
+    date: '0907'
+    iata: ''
+    coordinates: '1748S 63100W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BO SRB'
+    name: 'Santa Rosa'
+    namewodiacritics: 'Santa Rosa'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'BO SAN'
+    name: Santiváñez
+    namewodiacritics: Santivanez
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0701'
+    iata: ''
+    coordinates: '1733S 06615W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BO SIP'
+    name: 'Sipe Sipe'
+    namewodiacritics: 'Sipe Sipe'
+    subdiv: C
+    function: '-----6--'
+    status: RL
+    date: '1107'
+    iata: ''
+    coordinates: '1727S 06623W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BO SRE'
+    name: Sucre
+    namewodiacritics: Sucre
+    subdiv: H
+    function: '-234----'
+    status: AI
+    date: '0407'
+    iata: ''
+    coordinates: '1902S 06515W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BO TJA'
+    name: Tarija
+    namewodiacritics: Tarija
+    subdiv: T
+    function: '--34----'
+    status: AI
+    date: '0407'
+    iata: ''
+    coordinates: '2131S 06445W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BO TDD'
+    name: Trinidad
+    namewodiacritics: Trinidad
+    subdiv: B
+    function: 1-34----
+    status: AI
+    date: '0407'
+    iata: ''
+    coordinates: '1450S 06454W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BO UYU'
+    name: Uyuni
+    namewodiacritics: Uyuni
+    subdiv: P
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '2027S 06649W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BO VAH'
+    name: Vallegrande
+    namewodiacritics: Vallegrande
+    subdiv: S
+    function: '--34----'
+    status: AI
+    date: '0407'
+    iata: ''
+    coordinates: '1829S 06406W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BO VLM'
+    name: Villamontes
+    namewodiacritics: Villamontes
+    subdiv: T
+    function: '--34----'
+    status: AI
+    date: '0407'
+    iata: ''
+    coordinates: '2115S 06330W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BO VVI'
+    name: 'Viru Viru'
+    namewodiacritics: 'Viru Viru'
+    subdiv: H
+    function: '---4----'
+    status: AI
+    date: '0212'
+    iata: ''
+    coordinates: '1823S 06539W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BO BYC'
+    name: Yacuiba
+    namewodiacritics: Yacuiba
+    subdiv: T
+    function: '-234----'
+    status: AI
+    date: '0407'
+    iata: ''
+    coordinates: '2202S 06341W'
+    remarks: ''

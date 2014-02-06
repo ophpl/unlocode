@@ -1,0 +1,324 @@
+-
+    ch: ''
+    locode: 'MU BAM'
+    name: Bambous
+    namewodiacritics: Bambous
+    subdiv: AG
+    function: 1-------
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MU BEB'
+    name: 'Beau Bassin'
+    namewodiacritics: 'Beau Bassin'
+    subdiv: PW
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '2013S 05727E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MU BPL'
+    name: 'Beau Plan'
+    namewodiacritics: 'Beau Plan'
+    subdiv: PA
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '2005S 05734E'
+    remarks: ''
+-
+    ch: +
+    locode: 'MU BEL'
+    name: 'Bel Air'
+    namewodiacritics: 'Bel Air'
+    subdiv: FL
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '2015S 05744E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MU CDF'
+    name: 'Centre de Flacq'
+    namewodiacritics: 'Centre de Flacq'
+    subdiv: FL
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '2012S 05743E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MU CDE'
+    name: Cloverdale
+    namewodiacritics: Cloverdale
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '0004'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MU CUR'
+    name: Curepipe
+    namewodiacritics: Curepipe
+    subdiv: ''
+    function: 1-3-----
+    status: RL
+    date: '9805'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MU EBN'
+    name: Ebene
+    namewodiacritics: Ebene
+    subdiv: ''
+    function: '-----6--'
+    status: RQ
+    date: '1007'
+    iata: ''
+    coordinates: '2014S 05747E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MU FLF'
+    name: 'Flic en Flac'
+    namewodiacritics: 'Flic en Flac'
+    subdiv: BL
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '2016S 05721E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MU MAH'
+    name: Mahébourg
+    namewodiacritics: Mahebourg
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0212'
+    iata: ''
+    coordinates: '2024S 05741E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MU MOK'
+    name: Moka
+    namewodiacritics: Moka
+    subdiv: MO
+    function: '--3-----'
+    status: RQ
+    date: '1207'
+    iata: ''
+    coordinates: '2013S 05729E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MU MSA'
+    name: 'Morcellemont Saint André'
+    namewodiacritics: 'Morcellemont Saint Andre'
+    subdiv: PU
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '2004S 05733E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MU PAI'
+    name: Pailles
+    namewodiacritics: Pailles
+    subdiv: PW
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '2011S 05728E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MU PAM'
+    name: Pamplemousses
+    namewodiacritics: Pamplemousses
+    subdiv: PA
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '2006S 05734E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MU PNX'
+    name: Phoenix
+    namewodiacritics: Phoenix
+    subdiv: PW
+    function: '-----6--'
+    status: RL
+    date: '1107'
+    iata: ''
+    coordinates: '2017S 05730E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MU PMG'
+    name: 'Plaine Magnien'
+    namewodiacritics: 'Plaine Magnien'
+    subdiv: GP
+    function: '--3-----'
+    status: RL
+    date: '0507'
+    iata: ''
+    coordinates: '2025S 05739E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MU PSB'
+    name: 'Pointe aux Sables'
+    namewodiacritics: 'Pointe aux Sables'
+    subdiv: PU
+    function: '--3-----'
+    status: RL
+    date: '1101'
+    iata: ''
+    coordinates: '2009S 05727E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MU PLU'
+    name: 'Port Louis'
+    namewodiacritics: 'Port Louis'
+    subdiv: ''
+    function: 1--4----
+    status: QQ
+    date: '8111'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MU PMA'
+    name: 'Port Mathurin'
+    namewodiacritics: 'Port Mathurin'
+    subdiv: ''
+    function: 1-3-----
+    status: RL
+    date: '0607'
+    iata: ''
+    coordinates: '1941S 06325E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MU QBE'
+    name: 'Quatre Bornes'
+    namewodiacritics: 'Quatre Bornes'
+    subdiv: PW
+    function: '--3-----'
+    status: RL
+    date: '1101'
+    iata: ''
+    coordinates: '2015S 05728E'
+    remarks: ''
+-
+    ch: +
+    locode: 'MU RCT'
+    name: Richeterre
+    namewodiacritics: Richeterre
+    subdiv: FL
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '2007S 05730E'
+    remarks: ''
+-
+    ch: +
+    locode: 'MU RDR'
+    name: 'Rivière du Rempart'
+    namewodiacritics: 'Riviere du Rempart'
+    subdiv: FL
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '2006S 05741E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MU RRG'
+    name: Rodrigues
+    namewodiacritics: Rodrigues
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0212'
+    iata: ''
+    coordinates: '1942S 06325E'
+    remarks: ''
+-
+    ch: +
+    locode: 'MU SAU'
+    name: 'Saint Aubin'
+    namewodiacritics: 'Saint Aubin'
+    subdiv: SA
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '2029S 05733E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MU STP'
+    name: 'Saint Pierre'
+    namewodiacritics: 'Saint Pierre'
+    subdiv: MO
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '2013S 05731E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MU MRU'
+    name: 'Sir Seewoosagur Ramgoolam Int Apt'
+    namewodiacritics: 'Sir Seewoosagur Ramgoolam Int Apt'
+    subdiv: ''
+    function: '---45---'
+    status: AI
+    date: '0401'
+    iata: ''
+    coordinates: '2026S 05741E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MU TAM'
+    name: Tamarin
+    namewodiacritics: Tamarin
+    subdiv: BL
+    function: 1----6--
+    status: RL
+    date: '1107'
+    iata: ''
+    coordinates: '2019S 05722E'
+    remarks: ''

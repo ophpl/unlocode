@@ -1,0 +1,888 @@
+-
+    ch: ''
+    locode: 'BA BNX'
+    name: 'Banja Luka'
+    namewodiacritics: 'Banja Luka'
+    subdiv: SRP
+    function: '--34----'
+    status: AI
+    date: '1207'
+    iata: ''
+    coordinates: '4446N 01711E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BA BHC'
+    name: Bihac
+    namewodiacritics: Bihac
+    subdiv: BIH
+    function: '--3-----'
+    status: RL
+    date: '0407'
+    iata: ''
+    coordinates: '4449N 01552E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BA BJA'
+    name: Bijeljina
+    namewodiacritics: Bijeljina
+    subdiv: SRP
+    function: '-23-----'
+    status: RL
+    date: '0501'
+    iata: ''
+    coordinates: '4445N 01912E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BA BIR'
+    name: Biracevac
+    namewodiacritics: Biracevac
+    subdiv: ''
+    function: 1-3-----
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'BA BZJ'
+    name: 'Blazuj, Sarajevo'
+    namewodiacritics: 'Blazuj, Sarajevo'
+    subdiv: BIH
+    function: '--3-----'
+    status: RL
+    date: '0501'
+    iata: ''
+    coordinates: '4350N 01815E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BA BKR'
+    name: 'Bosanska Krupa'
+    namewodiacritics: 'Bosanska Krupa'
+    subdiv: ''
+    function: '-23-----'
+    status: RL
+    date: '0701'
+    iata: ''
+    coordinates: '4453N 01609E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BA BBR'
+    name: 'Bosanski Brod (Srpski Brod)'
+    namewodiacritics: 'Bosanski Brod (Srpski Brod)'
+    subdiv: SRP
+    function: '-23-----'
+    status: RL
+    date: '0407'
+    iata: ''
+    coordinates: '4508N 01759E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BA BKO'
+    name: Brcko
+    namewodiacritics: Brcko
+    subdiv: SRP
+    function: '-23-----'
+    status: RL
+    date: '0407'
+    iata: ''
+    coordinates: '4452N 01848E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BA BUD'
+    name: Budinscina
+    namewodiacritics: Budinscina
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '4607N 01612E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BA BUG'
+    name: Bugojno
+    namewodiacritics: Bugojno
+    subdiv: ''
+    function: '-23-----'
+    status: RL
+    date: '0701'
+    iata: ''
+    coordinates: '4403N 01726E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BA CIT'
+    name: Citluk
+    namewodiacritics: Citluk
+    subdiv: ''
+    function: '-----6--'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '4331N 01744E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BA DVA'
+    name: Derventa
+    namewodiacritics: Derventa
+    subdiv: SRP
+    function: '--3-----'
+    status: RL
+    date: '0407'
+    iata: ''
+    coordinates: '4458N 01754E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BA DBJ'
+    name: Doboj
+    namewodiacritics: Doboj
+    subdiv: BIH
+    function: '--3-----'
+    status: RL
+    date: '0207'
+    iata: ''
+    coordinates: '4407N 01806E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BA DOJ'
+    name: Domaljevac
+    namewodiacritics: Domaljevac
+    subdiv: ''
+    function: 1----6--
+    status: RL
+    date: '1201'
+    iata: ''
+    coordinates: '4503N 01834E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BA DOV'
+    name: 'Donji Vakuf'
+    namewodiacritics: 'Donji Vakuf'
+    subdiv: BIH
+    function: '-23-----'
+    status: RL
+    date: '0407'
+    iata: ''
+    coordinates: '4408N 01724E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BA DBA'
+    name: Dubica
+    namewodiacritics: Dubica
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '1101'
+    iata: ''
+    coordinates: '4431N 01659E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BA FOJ'
+    name: Fojnica
+    namewodiacritics: Fojnica
+    subdiv: ''
+    function: 1----6--
+    status: RL
+    date: '1201'
+    iata: ''
+    coordinates: '4357N 01754E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BA GOZ'
+    name: Gorazde
+    namewodiacritics: Gorazde
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '4340N 01859E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BA GDC'
+    name: Gradacac
+    namewodiacritics: Gradacac
+    subdiv: '10'
+    function: '--3-----'
+    status: RL
+    date: '1101'
+    iata: ''
+    coordinates: '4452N 01825E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BA GDA'
+    name: Gradiska
+    namewodiacritics: Gradiska
+    subdiv: SRP
+    function: '--3-----'
+    status: RL
+    date: '0501'
+    iata: ''
+    coordinates: '4508N 01715E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BA GRU'
+    name: Grude
+    namewodiacritics: Grude
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '1101'
+    iata: ''
+    coordinates: '4321N 01725E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BA HDC'
+    name: Hadzici
+    namewodiacritics: Hadzici
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '4424N 01850E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BA HRE'
+    name: Hresa
+    namewodiacritics: Hresa
+    subdiv: SRP
+    function: '--3-----'
+    status: RL
+    date: '0501'
+    iata: ''
+    coordinates: '4352N 01829E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BA JBA'
+    name: Jablanica
+    namewodiacritics: Jablanica
+    subdiv: ''
+    function: 1----6--
+    status: RL
+    date: '1201'
+    iata: ''
+    coordinates: '4339N 01745E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BA JAJ'
+    name: Jajce
+    namewodiacritics: Jajce
+    subdiv: ''
+    function: '-----6--'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '4020N 01715E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BA KSA'
+    name: Kalesija
+    namewodiacritics: Kalesija
+    subdiv: BIH
+    function: '--3-----'
+    status: RL
+    date: '0407'
+    iata: ''
+    coordinates: '4426N 01854E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BA KJK'
+    name: Kiseljak
+    namewodiacritics: Kiseljak
+    subdiv: BIH
+    function: '--3-----'
+    status: RL
+    date: '0407'
+    iata: ''
+    coordinates: '4356N 01804E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BA KLJ'
+    name: Kljuc
+    namewodiacritics: Kljuc
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0601'
+    iata: ''
+    coordinates: '4357N 01805E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BA KJC'
+    name: Konjic
+    namewodiacritics: Konjic
+    subdiv: BIH
+    function: '-23-----'
+    status: RL
+    date: '0407'
+    iata: ''
+    coordinates: '4337N 01758E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BA KSO'
+    name: Kresevo
+    namewodiacritics: Kresevo
+    subdiv: BIH
+    function: '--3-----'
+    status: RL
+    date: '0407'
+    iata: ''
+    coordinates: '4351N 01802E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BA KNU'
+    name: 'Krupa na Uni'
+    namewodiacritics: 'Krupa na Uni'
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '4452N 01609E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BA LTI'
+    name: Laktasi
+    namewodiacritics: Laktasi
+    subdiv: SRP
+    function: '--3-----'
+    status: RL
+    date: '0407'
+    iata: ''
+    coordinates: '4454N 01718E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BA LVO'
+    name: Livno
+    namewodiacritics: Livno
+    subdiv: BIH
+    function: '--3-----'
+    status: RL
+    date: '0501'
+    iata: ''
+    coordinates: '4349N 01700E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BA LBS'
+    name: Ljubuski
+    namewodiacritics: Ljubuski
+    subdiv: BIH
+    function: '--3-----'
+    status: RL
+    date: '0407'
+    iata: ''
+    coordinates: '4311N 01732E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BA LKV'
+    name: Lukavac
+    namewodiacritics: Lukavac
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '4446N 01853E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BA MAG'
+    name: Maglaj
+    namewodiacritics: Maglaj
+    subdiv: BIH
+    function: 123-----
+    status: RL
+    date: '0501'
+    iata: ''
+    coordinates: '4432N 01805E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BA MZI'
+    name: Matuzici
+    namewodiacritics: Matuzici
+    subdiv: BIH
+    function: '-23-----'
+    status: RL
+    date: '0407'
+    iata: ''
+    coordinates: '4441N 01803E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BA MGE'
+    name: Medugorje
+    namewodiacritics: Medugorje
+    subdiv: BIH
+    function: '--3-----'
+    status: RL
+    date: '0501'
+    iata: ''
+    coordinates: '4311N 01740E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BA MOD'
+    name: Modrica
+    namewodiacritics: Modrica
+    subdiv: ''
+    function: '-23-----'
+    status: RL
+    date: '0601'
+    iata: ''
+    coordinates: '4457N 01817E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BA OMO'
+    name: Mostar
+    namewodiacritics: Mostar
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'BA MRA'
+    name: Mravnjac
+    namewodiacritics: Mravnjac
+    subdiv: ''
+    function: '-23-----'
+    status: RL
+    date: '0701'
+    iata: ''
+    coordinates: '4338N 01856E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BA MGR'
+    name: 'Mrkonji Grad'
+    namewodiacritics: 'Mrkonji Grad'
+    subdiv: SRP
+    function: '--3-----'
+    status: RL
+    date: '0407'
+    iata: ''
+    coordinates: '4424N 01705E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BA NEM'
+    name: Neum
+    namewodiacritics: Neum
+    subdiv: ''
+    function: 1----6--
+    status: RL
+    date: '1201'
+    iata: ''
+    coordinates: '4255N 01737E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BA ORA'
+    name: Orasje
+    namewodiacritics: Orasje
+    subdiv: ''
+    function: '-----6--'
+    status: RQ
+    date: '1007'
+    iata: ''
+    coordinates: '4502N 01842E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BA PER'
+    name: 'Perduhovo Selo'
+    namewodiacritics: 'Perduhovo Selo'
+    subdiv: BIH
+    function: '--3-----'
+    status: RL
+    date: '0501'
+    iata: ''
+    coordinates: '4410N 01648E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BA PSE'
+    name: Posusje
+    namewodiacritics: Posusje
+    subdiv: BIH
+    function: '--3-----'
+    status: RL
+    date: '0501'
+    iata: ''
+    coordinates: '4328N 01719E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BA PDR'
+    name: Prijedor
+    namewodiacritics: Prijedor
+    subdiv: SRP
+    function: '-23-----'
+    status: RL
+    date: '0407'
+    iata: ''
+    coordinates: '4458N 01642E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BA PJR'
+    name: Prnjavor
+    namewodiacritics: Prnjavor
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '0407'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'BA RAJ'
+    name: Rajlovac
+    namewodiacritics: Rajlovac
+    subdiv: BIH
+    function: '-23-5---'
+    status: RL
+    date: '0401'
+    iata: ''
+    coordinates: '4352N 01818E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BA SMT'
+    name: 'Sanski Most'
+    namewodiacritics: 'Sanski Most'
+    subdiv: ''
+    function: 1----6--
+    status: RL
+    date: '1201'
+    iata: ''
+    coordinates: '4446N 01640E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BA SJJ'
+    name: Sarajevo
+    namewodiacritics: Sarajevo
+    subdiv: '09'
+    function: '--34----'
+    status: AI
+    date: '1207'
+    iata: ''
+    coordinates: '4351N 01823E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BA SKV'
+    name: Sekovici
+    namewodiacritics: Sekovici
+    subdiv: SRP
+    function: '--3-----'
+    status: RL
+    date: '0407'
+    iata: ''
+    coordinates: '4417N 01851E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BA SIB'
+    name: 'Siroki Brijeg'
+    namewodiacritics: 'Siroki Brijeg'
+    subdiv: SRP
+    function: '--3-----'
+    status: RL
+    date: '0207'
+    iata: ''
+    coordinates: '4321N 01853E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BA SIC'
+    name: Srebrenica
+    namewodiacritics: Srebrenica
+    subdiv: SRP
+    function: '--3-----'
+    status: RL
+    date: '0212'
+    iata: ''
+    coordinates: '4406N 01918E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BA SRB'
+    name: Srebrenik
+    namewodiacritics: Srebrenik
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '1101'
+    iata: ''
+    coordinates: '4442N 01829E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BA SOR'
+    name: 'Srpsko Orasje'
+    namewodiacritics: 'Srpsko Orasje'
+    subdiv: SRP
+    function: '--3-----'
+    status: RL
+    date: '0407'
+    iata: ''
+    coordinates: '4456N 01838E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BA SJA'
+    name: Stijena
+    namewodiacritics: Stijena
+    subdiv: BIH
+    function: '-23-----'
+    status: RL
+    date: '0407'
+    iata: ''
+    coordinates: '4456N 01601E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BA SUH'
+    name: Suha
+    namewodiacritics: Suha
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '4418N 01844E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BA TSJ'
+    name: Tesanj
+    namewodiacritics: Tesanj
+    subdiv: BIH
+    function: '--3-----'
+    status: RL
+    date: '0407'
+    iata: ''
+    coordinates: '4436N 01759E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BA TLC'
+    name: Teslic
+    namewodiacritics: Teslic
+    subdiv: SRP
+    function: '--3-----'
+    status: RL
+    date: '0407'
+    iata: ''
+    coordinates: '4436N 01751E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BA TIH'
+    name: Tihaljina
+    namewodiacritics: Tihaljina
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0307'
+    iata: ''
+    coordinates: '4319N 01722E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BA TOM'
+    name: Tomislavgrad
+    namewodiacritics: Tomislavgrad
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '4343N 01714E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BA TNK'
+    name: Travnik
+    namewodiacritics: Travnik
+    subdiv: ''
+    function: '-----6--'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '4413N 01740E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BA TBJ'
+    name: Trebinje
+    namewodiacritics: Trebinje
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '4242N 01820E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BA TZL'
+    name: Tuzla
+    namewodiacritics: Tuzla
+    subdiv: ''
+    function: '-234----'
+    status: AI
+    date: '0101'
+    iata: ''
+    coordinates: '4432N 01840E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BA UJV'
+    name: Ugljevik
+    namewodiacritics: Ugljevik
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'BA VKB'
+    name: 'Velika Kladusa'
+    namewodiacritics: 'Velika Kladusa'
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '1101'
+    iata: ''
+    coordinates: '4511N 01548E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BA VIS'
+    name: Visoko
+    namewodiacritics: Visoko
+    subdiv: BIH
+    function: '--3-----'
+    status: RL
+    date: '0212'
+    iata: ''
+    coordinates: '4359N 01811E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BA VIT'
+    name: Vitez
+    namewodiacritics: Vitez
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0507'
+    iata: ''
+    coordinates: '4409N 01746E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BA VGS'
+    name: Vogosca
+    namewodiacritics: Vogosca
+    subdiv: ''
+    function: 1----6--
+    status: RL
+    date: '1201'
+    iata: ''
+    coordinates: '4354N 01821E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BA ZAV'
+    name: Zavidovici
+    namewodiacritics: Zavidovici
+    subdiv: BIH
+    function: '--3-----'
+    status: RL
+    date: '0207'
+    iata: ''
+    coordinates: '4426N 01808E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BA ZCA'
+    name: Zenica
+    namewodiacritics: Zenica
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '0101'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'BA ZEP'
+    name: Zepce
+    namewodiacritics: Zepce
+    subdiv: BIH
+    function: '--3-----'
+    status: RL
+    date: '0207'
+    iata: ''
+    coordinates: '4425N 01801E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BA ZNK'
+    name: Zvornik
+    namewodiacritics: Zvornik
+    subdiv: ''
+    function: 123-----
+    status: RL
+    date: '0601'
+    iata: ''
+    coordinates: '4423N 01906E'
+    remarks: ''

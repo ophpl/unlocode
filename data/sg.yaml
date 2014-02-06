@@ -1,0 +1,276 @@
+-
+    ch: ''
+    locode: 'SG CHG'
+    name: Changi
+    namewodiacritics: Changi
+    subdiv: ''
+    function: 1-34----
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '0119N 10400E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SG CCK'
+    name: 'Choa Chu Kang'
+    namewodiacritics: 'Choa Chu Kang'
+    subdiv: ''
+    function: '-----6--'
+    status: RQ
+    date: '1001'
+    iata: ''
+    coordinates: '0117N 10351E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SG CLE'
+    name: Clementi
+    namewodiacritics: Clementi
+    subdiv: ''
+    function: '-----6--'
+    status: RQ
+    date: '1001'
+    iata: ''
+    coordinates: '0117N 10351E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SG JUR'
+    name: Jurong/Singapore
+    namewodiacritics: Jurong/Singapore
+    subdiv: ''
+    function: 1-3-----
+    status: RL
+    date: '0207'
+    iata: ''
+    coordinates: '0120N 10342E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SG KEP'
+    name: 'Keppel Wharves'
+    namewodiacritics: 'Keppel Wharves'
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SG PAP'
+    name: 'Pasir Panjang Wharves'
+    namewodiacritics: 'Pasir Panjang Wharves'
+    subdiv: ''
+    function: 1-------
+    status: RL
+    date: '0401'
+    iata: ''
+    coordinates: '0116N 10347E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SG PAR'
+    name: 'Pasir Ris New Town'
+    namewodiacritics: 'Pasir Ris New Town'
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '1201'
+    iata: ''
+    coordinates: '0122N 10356E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SG AYC'
+    name: 'Pulan Ayer Chawan'
+    namewodiacritics: 'Pulan Ayer Chawan'
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SG PUB'
+    name: 'Pulau Bukom'
+    namewodiacritics: 'Pulau Bukom'
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '9506'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SG SEB'
+    name: 'Pulau Sebarok'
+    namewodiacritics: 'Pulau Sebarok'
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '9506'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SG SLT'
+    name: Seletar
+    namewodiacritics: Seletar
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '9506'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SG SEM'
+    name: 'Sembawang Port'
+    namewodiacritics: 'Sembawang Port'
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SG SIN'
+    name: Singapore
+    namewodiacritics: Singapore
+    subdiv: ''
+    function: 1--45---
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SG SCT'
+    name: 'Singapore Container Terminal'
+    namewodiacritics: 'Singapore Container Terminal'
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SG TAM'
+    name: Tampines
+    namewodiacritics: Tampines
+    subdiv: ''
+    function: '--34----'
+    status: RL
+    date: '1207'
+    iata: ''
+    coordinates: '0120N 10356E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SG TPG'
+    name: 'Tanjong Pagar'
+    namewodiacritics: 'Tanjong Pagar'
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '9506'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SG TPN'
+    name: 'Tanjong Penjuru'
+    namewodiacritics: 'Tanjong Penjuru'
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '9506'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SG TAY'
+    name: 'Telok Ayer Basin'
+    namewodiacritics: 'Telok Ayer Basin'
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SG TGA'
+    name: Tengah
+    namewodiacritics: Tengah
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SG TPY'
+    name: 'Toa Payoh'
+    namewodiacritics: 'Toa Payoh'
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '1207'
+    iata: ''
+    coordinates: '0120N 10351E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SG TUA'
+    name: Tuas
+    namewodiacritics: Tuas
+    subdiv: ''
+    function: 1-3-----
+    status: RL
+    date: '1207'
+    iata: ''
+    coordinates: '0119N 10339E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SG WES'
+    name: 'West Coast Town'
+    namewodiacritics: 'West Coast Town'
+    subdiv: ''
+    function: '-----6--'
+    status: RQ
+    date: '1001'
+    iata: ''
+    coordinates: '0117N 10351E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SG WDL'
+    name: Woodlands
+    namewodiacritics: Woodlands
+    subdiv: ''
+    function: 0-------
+    status: RQ
+    date: '9506'
+    iata: ''
+    coordinates: ''
+    remarks: ''

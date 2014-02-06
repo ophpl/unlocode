@@ -1,0 +1,444 @@
+-
+    ch: ''
+    locode: 'BD AKH'
+    name: Akhaura
+    namewodiacritics: Akhaura
+    subdiv: ''
+    function: '----5---'
+    status: AI
+    date: '9805'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'BD BZL'
+    name: Barisal
+    namewodiacritics: Barisal
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'BD BNP'
+    name: Benapole
+    namewodiacritics: Benapole
+    subdiv: ''
+    function: 1-------
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '2303N 08854E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BD BRG'
+    name: Bogra
+    namewodiacritics: Bogra
+    subdiv: ''
+    function: '-----6--'
+    status: RL
+    date: '1107'
+    iata: ''
+    coordinates: '2451N 08922E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BD CHL'
+    name: Chalna
+    namewodiacritics: Chalna
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'BD CGP'
+    name: Chittagong
+    namewodiacritics: Chittagong
+    subdiv: ''
+    function: 1---5---
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'BD CDG'
+    name: Chuadanga
+    namewodiacritics: Chuadanga
+    subdiv: '27'
+    function: '-----6--'
+    status: RQ
+    date: '1007'
+    iata: ''
+    coordinates: '2360N 08870E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BD CLA'
+    name: Comilla
+    namewodiacritics: Comilla
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'BD CXB'
+    name: 'Cox''s Bazar'
+    namewodiacritics: 'Cox''s Bazar'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0212'
+    iata: ''
+    coordinates: '2126N 09159E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BD DAC'
+    name: Dhaka
+    namewodiacritics: Dhaka
+    subdiv: ''
+    function: '---45---'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ¦
+    locode: 'BD FNI'
+    name: Feni
+    namewodiacritics: Feni
+    subdiv: '10'
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '2301N 09124E'
+    remarks: '@Sub'
+-
+    ch: ¦
+    locode: 'BD GAZ'
+    name: Gazipur
+    namewodiacritics: Gazipur
+    subdiv: '10'
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '2342N 09057E'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'BD IRD'
+    name: Ishurdi
+    namewodiacritics: Ishurdi
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'BD JSR'
+    name: Jessore
+    namewodiacritics: Jessore
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'BD KAM'
+    name: Kamalapur/Dhaka
+    namewodiacritics: Kamalapur/Dhaka
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '9709'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'BD KHL'
+    name: Khulna
+    namewodiacritics: Khulna
+    subdiv: ''
+    function: 1-------
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'BD KUS'
+    name: Kushtia
+    namewodiacritics: Kushtia
+    subdiv: ''
+    function: '-----6--'
+    status: RL
+    date: '1107'
+    iata: ''
+    coordinates: '2545N 08950E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BD LAK'
+    name: Laksham
+    namewodiacritics: Laksham
+    subdiv: ''
+    function: '----5---'
+    status: AI
+    date: '9805'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'BD MNK'
+    name: Manikganj
+    namewodiacritics: Manikganj
+    subdiv: '13'
+    function: '--3-----'
+    status: RL
+    date: '1107'
+    iata: ''
+    coordinates: '2351N 09000E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BD MON'
+    name: Monella
+    namewodiacritics: Monella
+    subdiv: ''
+    function: 0-------
+    status: RQ
+    date: '9307'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'BD MGL'
+    name: Mongla
+    namewodiacritics: Mongla
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ¦
+    locode: 'BD MBB'
+    name: 'Moulvi Bazar'
+    namewodiacritics: 'Moulvi Bazar'
+    subdiv: '60'
+    function: '-----6--'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '2429N 09147E'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'BD MYM'
+    name: Mymensingh
+    namewodiacritics: Mymensingh
+    subdiv: ''
+    function: '----5---'
+    status: AI
+    date: '9805'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'BD NAR'
+    name: Narayanganj
+    namewodiacritics: Narayanganj
+    subdiv: ''
+    function: 123-----
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'BD DHA'
+    name: Narsingdi
+    namewodiacritics: Narsingdi
+    subdiv: '13'
+    function: '-----6--'
+    status: RL
+    date: '1107'
+    iata: ''
+    coordinates: '2355N 09043E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BD PAN'
+    name: Pabna
+    namewodiacritics: Pabna
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '9901'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'BD PAR'
+    name: Parbatipur
+    namewodiacritics: Parbatipur
+    subdiv: ''
+    function: '----5---'
+    status: AI
+    date: '9805'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'BD RJH'
+    name: Rajshahi
+    namewodiacritics: Rajshahi
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'BD RAU'
+    name: Rangpur
+    namewodiacritics: Rangpur
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'BD SPD'
+    name: Saidpur
+    namewodiacritics: Saidpur
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'BD SDW'
+    name: Sandwip
+    namewodiacritics: Sandwip
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'BD SAV'
+    name: Savar
+    namewodiacritics: Savar
+    subdiv: '13'
+    function: '-----6--'
+    status: RL
+    date: '1201'
+    iata: ''
+    coordinates: '2350N 09015E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BD ZHM'
+    name: Shamshernagar
+    namewodiacritics: Shamshernagar
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'BD SAJ'
+    name: Sirajganj
+    namewodiacritics: Sirajganj
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'BD ZYL'
+    name: Sylhet
+    namewodiacritics: Sylhet
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ¦
+    locode: 'BD TEJ'
+    name: Tejgaon
+    namewodiacritics: Tejgaon
+    subdiv: '13'
+    function: '-----6--'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '2346N 09024E'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'BD TKR'
+    name: Thakurgaon
+    namewodiacritics: Thakurgaon
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''

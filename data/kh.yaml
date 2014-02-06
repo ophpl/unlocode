@@ -1,0 +1,264 @@
+-
+    ch: ''
+    locode: 'KH BBM'
+    name: Battambang
+    namewodiacritics: Battambang
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'KH BVT'
+    name: Bavet
+    namewodiacritics: Bavet
+    subdiv: '20'
+    function: '--3-----'
+    status: RL
+    date: '1207'
+    iata: ''
+    coordinates: '1104N 10608E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'KH CHE'
+    name: Cheko
+    namewodiacritics: Cheko
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'KH KZC'
+    name: 'Kâmpóng Chhnang'
+    namewodiacritics: 'Kampong Chhnang'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0212'
+    iata: ''
+    coordinates: '1215N 10440E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'KH KOS'
+    name: 'Kâmpóng Saôm'
+    namewodiacritics: 'Kampong Saom'
+    subdiv: ''
+    function: 1-34--7-
+    status: AI
+    date: '0501'
+    iata: ''
+    coordinates: '1036N 10331E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'KH KMT'
+    name: Kampot
+    namewodiacritics: Kampot
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'KH KKO'
+    name: 'Kas Kong'
+    namewodiacritics: 'Kas Kong'
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'KH KKZ'
+    name: 'Koh Kong'
+    namewodiacritics: 'Koh Kong'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'KH KZK'
+    name: 'Kompong Thom'
+    namewodiacritics: 'Kompong Thom'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'KH KZD'
+    name: Krâkôr
+    namewodiacritics: Krakor
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0212'
+    iata: ''
+    coordinates: '1232N 10412E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'KH KTI'
+    name: Kratie
+    namewodiacritics: Kratie
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'KH MWV'
+    name: Mundulkiri
+    namewodiacritics: Mundulkiri
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'KH OMY'
+    name: 'Oddor Meanche'
+    namewodiacritics: 'Oddor Meanche'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'KH PAI'
+    name: Pailin
+    namewodiacritics: Pailin
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'KH PPT'
+    name: 'Paôy Pêt (Poipet)'
+    namewodiacritics: 'Paoy Pet (Poipet)'
+    subdiv: ''
+    function: '-23-----'
+    status: RL
+    date: '0507'
+    iata: ''
+    coordinates: '1339N 10233E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'KH PNH'
+    name: 'Phnom Penh'
+    namewodiacritics: 'Phnom Penh'
+    subdiv: ''
+    function: 1--45---
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'KH PPT'
+    name: 'Poipet (Paôy Pêt)'
+    namewodiacritics: 'Poipet (Paoy Pet)'
+    subdiv: ''
+    function: '-23-----'
+    status: RL
+    date: '0507'
+    iata: ''
+    coordinates: '1339N 10233E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'KH RBE'
+    name: Ratanakiri
+    namewodiacritics: Ratanakiri
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'KH REP'
+    name: 'Siem Reap'
+    namewodiacritics: 'Siem Reap'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: '='
+    locode: KH
+    name: 'Sihanoukville = Kâmpóng Saôm'
+    namewodiacritics: 'Sihanoukville = Kampong Saom'
+    subdiv: ''
+    function: ''
+    status: ''
+    date: ''
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'KH TNX'
+    name: 'Stung Treng'
+    namewodiacritics: 'Stung Treng'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'KH SVR'
+    name: 'Svay Rieng'
+    namewodiacritics: 'Svay Rieng'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''

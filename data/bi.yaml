@@ -1,0 +1,96 @@
+-
+    ch: ''
+    locode: 'BI BBZ'
+    name: Bubanza
+    namewodiacritics: Bubanza
+    subdiv: BB
+    function: '--3-----'
+    status: RL
+    date: '0501'
+    iata: ''
+    coordinates: '0305S 02923E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BI BJM'
+    name: Bujumbura
+    namewodiacritics: Bujumbura
+    subdiv: ''
+    function: '---45---'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'BI BRR'
+    name: Bururi
+    namewodiacritics: Bururi
+    subdiv: BR
+    function: '--3-----'
+    status: RL
+    date: '0501'
+    iata: ''
+    coordinates: '0357S 02937E'
+    remarks: ''
+-
+    ch: ¦
+    locode: 'BI CBK'
+    name: Cibitoke
+    namewodiacritics: Cibitoke
+    subdiv: BJ
+    function: 1-3-----
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '0320S 02922E'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'BI GID'
+    name: Gitega
+    namewodiacritics: Gitega
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'BI KRE'
+    name: Kirundo
+    namewodiacritics: Kirundo
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9912'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'BI MYG'
+    name: Muyinga
+    namewodiacritics: Muyinga
+    subdiv: MY
+    function: '--3-----'
+    status: RL
+    date: '0501'
+    iata: ''
+    coordinates: '0250S 03020E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BI NGZ'
+    name: Ngozi
+    namewodiacritics: Ngozi
+    subdiv: NG
+    function: '--3-----'
+    status: RL
+    date: '0501'
+    iata: ''
+    coordinates: '0254S 02949E'
+    remarks: ''

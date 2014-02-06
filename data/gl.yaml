@@ -1,0 +1,696 @@
+-
+    ch: ''
+    locode: 'GL JEG'
+    name: 'Aasiaat (Egedesminde)'
+    namewodiacritics: 'Aasiaat (Egedesminde)'
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '8401'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'GL LLU'
+    name: 'Alluitsup Paa'
+    namewodiacritics: 'Alluitsup Paa'
+    subdiv: ''
+    function: '---45---'
+    status: AI
+    date: '1207'
+    iata: ''
+    coordinates: '6027N 04533W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GL JRK'
+    name: Arsuk
+    namewodiacritics: Arsuk
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: '='
+    locode: GL
+    name: 'Christianshaab = Qasigiannguit (Christianshaab)'
+    namewodiacritics: 'Christianshaab = Qasigiannguit (Christianshaab)'
+    subdiv: ''
+    function: ''
+    status: ''
+    date: ''
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'GL DAN'
+    name: Daneborg
+    namewodiacritics: Daneborg
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8401'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'GL DUN'
+    name: Dundas
+    namewodiacritics: Dundas
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: '='
+    locode: GL
+    name: 'Fredrikshaab = Paamiut'
+    namewodiacritics: 'Fredrikshaab = Paamiut'
+    subdiv: ''
+    function: ''
+    status: ''
+    date: ''
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: '='
+    locode: GL
+    name: 'Godhavn = Qeqertarsuaq'
+    namewodiacritics: 'Godhavn = Qeqertarsuaq'
+    subdiv: ''
+    function: ''
+    status: ''
+    date: ''
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: '='
+    locode: GL
+    name: 'Gronnedal = Kangilinguit'
+    namewodiacritics: 'Gronnedal = Kangilinguit'
+    subdiv: ''
+    function: ''
+    status: ''
+    date: ''
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: '='
+    locode: GL
+    name: 'Holsteinsborg = Sisimiut'
+    namewodiacritics: 'Holsteinsborg = Sisimiut'
+    subdiv: ''
+    function: ''
+    status: ''
+    date: ''
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'GL IKE'
+    name: Ikerasak
+    namewodiacritics: Ikerasak
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '7030N 05118W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GL OBY'
+    name: 'Illorqortoormiut (Scoresbysund)'
+    namewodiacritics: 'Illorqortoormiut (Scoresbysund)'
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '8401'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'GL ILL'
+    name: Illorsuit
+    namewodiacritics: Illorsuit
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '7100N 05300W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GL JAV'
+    name: 'Ilulissat (Jakobshavn)'
+    namewodiacritics: 'Ilulissat (Jakobshavn)'
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '8401'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'GL ITQ'
+    name: Isertoq
+    namewodiacritics: Isertoq
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '6434N 03901W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GL IUT'
+    name: Ivigtut
+    namewodiacritics: Ivigtut
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8401'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: '='
+    locode: GL
+    name: 'Jakobshavn = Ilulissat'
+    namewodiacritics: 'Jakobshavn = Ilulissat'
+    subdiv: ''
+    function: ''
+    status: ''
+    date: ''
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: '='
+    locode: GL
+    name: 'Julianehaab = Qaqortoq'
+    namewodiacritics: 'Julianehaab = Qaqortoq'
+    subdiv: ''
+    function: ''
+    status: ''
+    date: ''
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'GL QKT'
+    name: Kangaamiut
+    namewodiacritics: Kangaamiut
+    subdiv: ''
+    function: '--34----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '6550N 05320W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GL QPW'
+    name: Kangaatsiaq
+    namewodiacritics: Kangaatsiaq
+    subdiv: ''
+    function: '----5---'
+    status: AI
+    date: '1207'
+    iata: ''
+    coordinates: '6818N 05328W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GL FHN'
+    name: 'Kangerdluarssoruseg (Færingehavn'
+    namewodiacritics: 'Kangerdluarssoruseg (Faringehavn'
+    subdiv: ''
+    function: 1-------
+    status: AI
+    date: '8401'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'GL SFJ'
+    name: 'Kangerlussuaq (Sondre Stromfjord'
+    namewodiacritics: 'Kangerlussuaq (Sondre Stromfjord'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '8401'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'GL KAN'
+    name: 'Kangerlussuaq Havn'
+    namewodiacritics: 'Kangerlussuaq Havn'
+    subdiv: ''
+    function: 1-------
+    status: RL
+    date: '1001'
+    iata: ''
+    coordinates: '6658N 05056W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GL JGR'
+    name: 'Kangilinguit (Gronnedal)'
+    namewodiacritics: 'Kangilinguit (Gronnedal)'
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '8401'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'GL KUL'
+    name: Kullorsuaq
+    namewodiacritics: Kullorsuaq
+    subdiv: ''
+    function: 1-3-----
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '7435N 05712W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GL KUS'
+    name: Kulusuk
+    namewodiacritics: Kulusuk
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: ''
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'GL KUN'
+    name: Kuummiut
+    namewodiacritics: Kuummiut
+    subdiv: ''
+    function: 1-------
+    status: RL
+    date: '0201'
+    iata: ''
+    coordinates: '6552N 03701W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GL MML'
+    name: Maarmorliik
+    namewodiacritics: Maarmorliik
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '7108N 05117W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GL JSU'
+    name: 'Maniitsoq (Sukkertoppen)'
+    namewodiacritics: 'Maniitsoq (Sukkertoppen)'
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '8401'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'GL MRG'
+    name: 'Mesters Vig'
+    namewodiacritics: 'Mesters Vig'
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8401'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'GL NAL'
+    name: 'Nalunaq Gold Mine'
+    namewodiacritics: 'Nalunaq Gold Mine'
+    subdiv: ''
+    function: 1-3-----
+    status: RL
+    date: '0607'
+    iata: ''
+    coordinates: '6019N 04456W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GL JNN'
+    name: Nanortalik
+    namewodiacritics: Nanortalik
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '9401'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'GL JNS'
+    name: Narsaq
+    namewodiacritics: Narsaq
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'GL UAK'
+    name: Narsarsuaq
+    namewodiacritics: Narsarsuaq
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'GL CNP'
+    name: 'Neerlerit Inaat'
+    namewodiacritics: 'Neerlerit Inaat'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'GL NUG'
+    name: Nuugaatsiaq
+    namewodiacritics: Nuugaatsiaq
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'GL GOH'
+    name: 'Nuuk (Godthaab)'
+    namewodiacritics: 'Nuuk (Godthaab)'
+    subdiv: ''
+    function: 1-34----
+    status: AI
+    date: '0907'
+    iata: ''
+    coordinates: '6411N 05145W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GL JFR'
+    name: 'Paamiut (Fredrikshaab)'
+    namewodiacritics: 'Paamiut (Fredrikshaab)'
+    subdiv: ''
+    function: 1--4----
+    status: QQ
+    date: '8401'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'GL THU'
+    name: Pituffik
+    namewodiacritics: Pituffik
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'GL NAQ'
+    name: Qaanaaq
+    namewodiacritics: Qaanaaq
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '9506'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'GL JQA'
+    name: Qaarsut
+    namewodiacritics: Qaarsut
+    subdiv: ''
+    function: '---45---'
+    status: AI
+    date: '1207'
+    iata: ''
+    coordinates: '7044N 05239W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GL JJU'
+    name: 'Qaqortoq (Julianehaab)'
+    namewodiacritics: 'Qaqortoq (Julianehaab)'
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'GL JCH'
+    name: 'Qasigiannguit (Christianshaab)'
+    namewodiacritics: 'Qasigiannguit (Christianshaab)'
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'GL JGO'
+    name: 'Qeqertarsuaq (Godhavn)'
+    namewodiacritics: 'Qeqertarsuaq (Godhavn)'
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'GL QUE'
+    name: Qullissat
+    namewodiacritics: Qullissat
+    subdiv: ''
+    function: '---4----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'GL SAA'
+    name: Saattut
+    namewodiacritics: Saattut
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '7048N 05137W'
+    remarks: ''
+-
+    ch: '='
+    locode: GL
+    name: 'Scoresbysund = Illorqortoormiut'
+    namewodiacritics: 'Scoresbysund = Illorqortoormiut'
+    subdiv: ''
+    function: ''
+    status: ''
+    date: ''
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'GL SEQ'
+    name: 'Seqi Olivine Mine'
+    namewodiacritics: 'Seqi Olivine Mine'
+    subdiv: ''
+    function: 1-3-----
+    status: RL
+    date: '0607'
+    iata: ''
+    coordinates: '6458N 05134W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GL JHS'
+    name: 'Sisimiut (Holsteinsborg)'
+    namewodiacritics: 'Sisimiut (Holsteinsborg)'
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '8401'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: '='
+    locode: GL
+    name: 'Sondre Stromfjord = Kangerlussua'
+    namewodiacritics: 'Sondre Stromfjord = Kangerlussua'
+    subdiv: ''
+    function: ''
+    status: ''
+    date: ''
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: '='
+    locode: GL
+    name: 'Sukkertoppen = Manitsoq'
+    namewodiacritics: 'Sukkertoppen = Manitsoq'
+    subdiv: ''
+    function: ''
+    status: ''
+    date: ''
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'GL AGM'
+    name: Tasiilaq
+    namewodiacritics: Tasiilaq
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '1301'
+    iata: ''
+    coordinates: '6536N 03738W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GL TAS'
+    name: Tasiusaq
+    namewodiacritics: Tasiusaq
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '7324N 05600W'
+    remarks: ''
+-
+    ch: '='
+    locode: GL
+    name: 'Thule = Pituffik'
+    namewodiacritics: 'Thule = Pituffik'
+    subdiv: ''
+    function: ''
+    status: ''
+    date: ''
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'GL TNT'
+    name: Tiniteqilaaq
+    namewodiacritics: Tiniteqilaaq
+    subdiv: ''
+    function: 1-3-----
+    status: RL
+    date: '0601'
+    iata: ''
+    coordinates: '6554N 03749W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GL TOV'
+    name: Toqqusaq
+    namewodiacritics: Toqqusaq
+    subdiv: ''
+    function: 1-------
+    status: RL
+    date: '0212'
+    iata: ''
+    coordinates: '6452N 05212W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GL JUV'
+    name: Upernavik
+    namewodiacritics: Upernavik
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'GL UMD'
+    name: Uummannaq
+    namewodiacritics: Uummannaq
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''

@@ -1,0 +1,48 @@
+-
+    ch: ''
+    locode: 'EH VIC'
+    name: 'Ad Dakhla'
+    namewodiacritics: 'Ad Dakhla'
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0401'
+    iata: ''
+    coordinates: '2342N 01556W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'EH EAI'
+    name: 'Ejbei Uad el Aabd'
+    namewodiacritics: 'Ejbei Uad el Aabd'
+    subdiv: ''
+    function: 1-3-----
+    status: RL
+    date: '0307'
+    iata: ''
+    coordinates: '2709N 01312W'
+    remarks: ''
+-
+    ch: '='
+    locode: EH
+    name: 'El Aaiún = Ejbei Uad el Aabd'
+    namewodiacritics: 'El Aaiun = Ejbei Uad el Aabd'
+    subdiv: ''
+    function: ''
+    status: ''
+    date: ''
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: '='
+    locode: EH
+    name: 'Villa Cisneros = Ad Dakhla'
+    namewodiacritics: 'Villa Cisneros = Ad Dakhla'
+    subdiv: ''
+    function: ''
+    status: ''
+    date: ''
+    iata: ''
+    coordinates: ''
+    remarks: ''

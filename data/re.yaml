@@ -1,0 +1,288 @@
+-
+    ch: ''
+    locode: 'RE ESH'
+    name: 'Etang Sale les Hauts'
+    namewodiacritics: 'Etang Sale les Hauts'
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'RE SLH'
+    name: 'La Saline les Hauts'
+    namewodiacritics: 'La Saline les Hauts'
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'RE LPT'
+    name: 'Le Port'
+    namewodiacritics: 'Le Port'
+    subdiv: ''
+    function: 1-3-5---
+    status: AF
+    date: '0401'
+    iata: ''
+    coordinates: '2055S 05518E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'RE LTM'
+    name: 'Le Tampon'
+    namewodiacritics: 'Le Tampon'
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: +
+    locode: 'RE LES'
+    name: 'L''Étang-Salé'
+    namewodiacritics: 'L''Etang-Sale'
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '2115S 05522E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'RE CAF'
+    name: 'Plaine des Cafres'
+    namewodiacritics: 'Plaine des Cafres'
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'RE PAL'
+    name: 'Plaine des Palmistes'
+    namewodiacritics: 'Plaine des Palmistes'
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'RE PDG'
+    name: 'Port de Pointe des Galets'
+    namewodiacritics: 'Port de Pointe des Galets'
+    subdiv: ''
+    function: 1-------
+    status: RL
+    date: '0307'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'RE POS'
+    name: Possession
+    namewodiacritics: Possession
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'RE REU'
+    name: Réunion
+    namewodiacritics: Reunion
+    subdiv: ''
+    function: 123-----
+    status: RL
+    date: '0401'
+    iata: ''
+    coordinates: '2053S 05532E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'RE BNT'
+    name: 'Saint Benoît'
+    namewodiacritics: 'Saint Benoit'
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '1101'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'RE LEU'
+    name: 'Saint Leu'
+    namewodiacritics: 'Saint Leu'
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '1101'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'RE ZSE'
+    name: 'Saint Pierre de la Reunion'
+    namewodiacritics: 'Saint Pierre de la Reunion'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '1101'
+    iata: ''
+    coordinates: '2119S 05529E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'RE SDR'
+    name: Saint-André
+    namewodiacritics: Saint-Andre
+    subdiv: ''
+    function: '-23-5---'
+    status: RL
+    date: '0212'
+    iata: ''
+    coordinates: '2056S 05539E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'RE RUN'
+    name: 'Saint-Denis de la Réunion Apt'
+    namewodiacritics: 'Saint-Denis de la Reunion Apt'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0401'
+    iata: ''
+    coordinates: '2053S 05532E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'RE ANN'
+    name: 'Sainte Anne'
+    namewodiacritics: 'Sainte Anne'
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '1101'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'RE CLO'
+    name: 'Sainte Clotilde'
+    namewodiacritics: 'Sainte Clotilde'
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '1107'
+    iata: ''
+    coordinates: '2053S 05529E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'RE SMA'
+    name: 'Sainte Marie'
+    namewodiacritics: 'Sainte Marie'
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '1101'
+    iata: ''
+    coordinates: '2053S 05533E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'RE SSZ'
+    name: 'Sainte Suzanne'
+    namewodiacritics: 'Sainte Suzanne'
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '1101'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'RE SGL'
+    name: 'Saint-Gilles-les Bains'
+    namewodiacritics: 'Saint-Gilles-les Bains'
+    subdiv: ''
+    function: '-23-5---'
+    status: RL
+    date: '0212'
+    iata: ''
+    coordinates: '2102S 05514E'
+    remarks: 'a.k.a Saint Gilles'
+-
+    ch: ''
+    locode: 'RE SJH'
+    name: Saint-Joseph
+    namewodiacritics: Saint-Joseph
+    subdiv: ''
+    function: '-2--5---'
+    status: RL
+    date: '0212'
+    iata: ''
+    coordinates: '2121S 05537E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'RE SPL'
+    name: Saint-Paul
+    namewodiacritics: Saint-Paul
+    subdiv: ''
+    function: '-23-5---'
+    status: RL
+    date: '0212'
+    iata: ''
+    coordinates: '2059S 05516E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'RE SPH'
+    name: Saint-Philippe
+    namewodiacritics: Saint-Philippe
+    subdiv: ''
+    function: '-2--5---'
+    status: RL
+    date: '0212'
+    iata: ''
+    coordinates: '2121S 05546E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'RE SLO'
+    name: 'Sat Louis'
+    namewodiacritics: 'Sat Louis'
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: ''
+    remarks: ''

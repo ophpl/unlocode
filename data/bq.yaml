@@ -1,0 +1,96 @@
+-
+    ch: ¦
+    locode: 'BQ BON'
+    name: Bonaire
+    namewodiacritics: Bonaire
+    subdiv: ''
+    function: 1--45---
+    status: AI
+    date: '1307'
+    iata: ''
+    coordinates: '1207N 06816W'
+    remarks: '@Fun'
+-
+    ch: ¦
+    locode: 'BQ RIN'
+    name: 'Dorp Rincón'
+    namewodiacritics: 'Dorp Rincon'
+    subdiv: ''
+    function: 1-3-----
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '1214N 06820W'
+    remarks: '@Fun'
+-
+    ch: ''
+    locode: 'BQ DTK'
+    name: 'Dorp Tera Kora'
+    namewodiacritics: 'Dorp Tera Kora'
+    subdiv: ''
+    function: '-----6--'
+    status: RL
+    date: '1107'
+    iata: ''
+    coordinates: '1208N 06816W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BQ GOT'
+    name: Goto
+    namewodiacritics: Goto
+    subdiv: ''
+    function: 1-------
+    status: RL
+    date: '1101'
+    iata: ''
+    coordinates: '1213N 06823W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BQ KRA'
+    name: Kralendijk
+    namewodiacritics: Kralendijk
+    subdiv: ''
+    function: 1-------
+    status: AI
+    date: '1101'
+    iata: ''
+    coordinates: '1209N 06816W'
+    remarks: ''
+-
+    ch: ¦
+    locode: 'BQ SAB'
+    name: Saba
+    namewodiacritics: Saba
+    subdiv: ''
+    function: 1--45---
+    status: AI
+    date: '1307'
+    iata: ''
+    coordinates: '1738N 06314W'
+    remarks: '@Fun'
+-
+    ch: ¦
+    locode: 'BQ EUX'
+    name: 'Sint Eustatius'
+    namewodiacritics: 'Sint Eustatius'
+    subdiv: ''
+    function: 1--45---
+    status: AI
+    date: '1307'
+    iata: ''
+    coordinates: '1729N 06258W'
+    remarks: '@Fun'
+-
+    ch: ''
+    locode: 'BQ BOT'
+    name: 'The Bottom'
+    namewodiacritics: 'The Bottom'
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '1101'
+    iata: ''
+    coordinates: '1738N 06314W'
+    remarks: ''

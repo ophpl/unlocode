@@ -1,0 +1,552 @@
+-
+    ch: ''
+    locode: 'XZ AAD'
+    name: Aasgard
+    namewodiacritics: Aasgard
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '0212'
+    iata: ''
+    coordinates: '6505N 00644E'
+    remarks: 'Country: NO'
+-
+    ch: ''
+    locode: 'XZ SHA'
+    name: 'Al Shaheen terminal'
+    namewodiacritics: 'Al Shaheen terminal'
+    subdiv: ''
+    function: 1-------
+    status: RL
+    date: '0207'
+    iata: ''
+    coordinates: '2635N 05200E'
+    remarks: 'Country: QA'
+-
+    ch: ''
+    locode: 'XZ ALV'
+    name: Alve
+    namewodiacritics: Alve
+    subdiv: ''
+    function: '------7-'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '6558N 00730E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'XZ ANU'
+    name: 'Anoa Natuna'
+    namewodiacritics: 'Anoa Natuna'
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '0207'
+    iata: ''
+    coordinates: '0514N 10536E'
+    remarks: 'Country: ID'
+-
+    ch: ''
+    locode: 'XZ ANT'
+    name: Ardjuna
+    namewodiacritics: Ardjuna
+    subdiv: ''
+    function: 1-------
+    status: RL
+    date: '0207'
+    iata: ''
+    coordinates: '0554S 10557E'
+    remarks: 'Country: ID'
+-
+    ch: ''
+    locode: 'XZ BRA'
+    name: Brage
+    namewodiacritics: Brage
+    subdiv: ''
+    function: '------7-'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '6035N 00305E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'XZ BUV'
+    name: 'Buffalo Venture'
+    namewodiacritics: 'Buffalo Venture'
+    subdiv: ''
+    function: 1-------
+    status: RN
+    date: '0501'
+    iata: ''
+    coordinates: ''
+    remarks: 'Country: AU'
+-
+    ch: ''
+    locode: 'XZ CMT'
+    name: 'Camar Marine Terminal'
+    namewodiacritics: 'Camar Marine Terminal'
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '0207'
+    iata: ''
+    coordinates: '0618S 11300E'
+    remarks: 'Country: ID'
+-
+    ch: ''
+    locode: 'XZ OCA'
+    name: 'Co-operation Zone A (AU,ID)'
+    namewodiacritics: 'Co-operation Zone A (AU,ID)'
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '9704'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'XZ DHS'
+    name: 'Dai Hung (STS Load)'
+    namewodiacritics: 'Dai Hung (STS Load)'
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '0207'
+    iata: ''
+    coordinates: '0852N 10318E'
+    remarks: 'Country: VN'
+-
+    ch: ''
+    locode: 'XZ DHT'
+    name: 'Dai Hung (Tandem Load)'
+    namewodiacritics: 'Dai Hung (Tandem Load)'
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '0207'
+    iata: ''
+    coordinates: '0828N 10841E'
+    remarks: 'Country: VN'
+-
+    ch: ''
+    locode: 'XZ DRT'
+    name: 'De Ruiter'
+    namewodiacritics: 'De Ruiter'
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '0701'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'XZ DRA'
+    name: Draugen
+    namewodiacritics: Draugen
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '0212'
+    iata: ''
+    coordinates: '6420N 00745E'
+    remarks: 'Country: NO'
+-
+    ch: ''
+    locode: 'XZ DTL'
+    name: 'Dulang Marine Terminal'
+    namewodiacritics: 'Dulang Marine Terminal'
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '0207'
+    iata: ''
+    coordinates: '0548N 10410E'
+    remarks: 'Country: MY'
+-
+    ch: ''
+    locode: 'XZ FRM'
+    name: Fram
+    namewodiacritics: Fram
+    subdiv: ''
+    function: '------7-'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '6105N 00330E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'XZ GJO'
+    name: Gjoa
+    namewodiacritics: Gjoa
+    subdiv: ''
+    function: '------7-'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '6122N 00400E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'XZ GRA'
+    name: Grane
+    namewodiacritics: Grane
+    subdiv: ''
+    function: '------7-'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '5910N 00230E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'XZ HEI'
+    name: Heidrun
+    namewodiacritics: Heidrun
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '0212'
+    iata: ''
+    coordinates: '6519N 00720E'
+    remarks: 'Country: NO'
+-
+    ch: ''
+    locode: 'XZ HUL'
+    name: Huldra
+    namewodiacritics: Huldra
+    subdiv: ''
+    function: '------7-'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '6052N 00240E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'XZ KMT'
+    name: 'Kakap Marine Terminal'
+    namewodiacritics: 'Kakap Marine Terminal'
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '0207'
+    iata: ''
+    coordinates: '0501N 10557E'
+    remarks: 'Country: ID'
+-
+    ch: ''
+    locode: 'XZ KRI'
+    name: Kristin
+    namewodiacritics: Kristin
+    subdiv: ''
+    function: '------7-'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '6502N 00625E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'XZ KBJ'
+    name: Kvitebjorn
+    namewodiacritics: Kvitebjorn
+    subdiv: ''
+    function: '------7-'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '6105N 00230E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'XZ LAM'
+    name: 'Laminaria Terminal'
+    namewodiacritics: 'Laminaria Terminal'
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '0212'
+    iata: ''
+    coordinates: '1100S 12600E'
+    remarks: 'Country: AU'
+-
+    ch: ''
+    locode: 'XZ LGT'
+    name: 'Legendre Terminal'
+    namewodiacritics: 'Legendre Terminal'
+    subdiv: ''
+    function: 1-------
+    status: RN
+    date: '0501'
+    iata: ''
+    coordinates: ''
+    remarks: 'Country: AU'
+-
+    ch: ''
+    locode: 'XZ MKL'
+    name: Mikkel
+    namewodiacritics: Mikkel
+    subdiv: ''
+    function: '------7-'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '6440N 00745E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'XZ MVI'
+    name: Morvin
+    namewodiacritics: Morvin
+    subdiv: ''
+    function: '------7-'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '6508N 00628E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'XZ NJO'
+    name: Njord
+    namewodiacritics: Njord
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '0212'
+    iata: ''
+    coordinates: '6415N 00712E'
+    remarks: 'Country: NO'
+-
+    ch: ''
+    locode: 'XZ NNE'
+    name: Norne
+    namewodiacritics: Norne
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '0212'
+    iata: ''
+    coordinates: '6600N 00759E'
+    remarks: 'Country: NO'
+-
+    ch: ''
+    locode: 'XZ NTE'
+    name: 'Northern Endevour'
+    namewodiacritics: 'Northern Endevour'
+    subdiv: ''
+    function: 1-------
+    status: RN
+    date: '0501'
+    iata: ''
+    coordinates: ''
+    remarks: 'Country: AU'
+-
+    ch: ''
+    locode: 'XZ SBY'
+    name: 'Sibuko Bay'
+    namewodiacritics: 'Sibuko Bay'
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '0207'
+    iata: ''
+    coordinates: '0351N 11806E'
+    remarks: 'Country: ID'
+-
+    ch: ''
+    locode: 'XZ SHV'
+    name: Snohvit
+    namewodiacritics: Snohvit
+    subdiv: ''
+    function: '------7-'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '7137N 02125E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'XZ STP'
+    name: 'Stage Platform'
+    namewodiacritics: 'Stage Platform'
+    subdiv: ''
+    function: 1-------
+    status: RN
+    date: '0501'
+    iata: ''
+    coordinates: ''
+    remarks: 'Country: AU'
+-
+    ch: ''
+    locode: 'XZ SUU'
+    name: Suursaq
+    namewodiacritics: Suursaq
+    subdiv: ''
+    function: 1--4-6--
+    status: RL
+    date: '0701'
+    iata: ''
+    coordinates: '8049N 06638W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'XZ SYG'
+    name: Sygna
+    namewodiacritics: Sygna
+    subdiv: ''
+    function: '------7-'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '6130N 00200E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'XZ TGR'
+    name: 'Tandjung Gerem'
+    namewodiacritics: 'Tandjung Gerem'
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '0207'
+    iata: ''
+    coordinates: '0558N 10559E'
+    remarks: 'Country: ID'
+-
+    ch: ''
+    locode: 'XZ TUN'
+    name: Tune
+    namewodiacritics: Tune
+    subdiv: ''
+    function: '------7-'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '6030N 00240E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'XZ THA'
+    name: Tyrihans
+    namewodiacritics: Tyrihans
+    subdiv: ''
+    function: '------7-'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '6449N 00703E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'XZ URD'
+    name: Urd
+    namewodiacritics: Urd
+    subdiv: ''
+    function: '------7-'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '6602N 00823E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'XZ VFK'
+    name: Veslefrikk
+    namewodiacritics: Veslefrikk
+    subdiv: ''
+    function: '------7-'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '6047N 00253E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'XZ VGD'
+    name: Vigdis
+    namewodiacritics: Vigdis
+    subdiv: ''
+    function: '------7-'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '6125N 00210E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'XZ VIL'
+    name: Vilje
+    namewodiacritics: Vilje
+    subdiv: ''
+    function: '------7-'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '5940N 00217E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'XZ VSU'
+    name: Visund
+    namewodiacritics: Visund
+    subdiv: ''
+    function: '------7-'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '6128N 00230E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'XZ VOV'
+    name: Volve
+    namewodiacritics: Volve
+    subdiv: ''
+    function: '------7-'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '5825N 00155E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'XZ WRT'
+    name: 'Widuri Marine Terminal'
+    namewodiacritics: 'Widuri Marine Terminal'
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '0207'
+    iata: ''
+    coordinates: '0440S 10639E'
+    remarks: 'Country: ID'
+-
+    ch: ''
+    locode: 'XZ YET'
+    name: 'Yetagun Field'
+    namewodiacritics: 'Yetagun Field'
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '0212'
+    iata: ''
+    coordinates: '1303N 09651E'
+    remarks: 'Country: MM'
+-
+    ch: ''
+    locode: 'XZ YGT'
+    name: Yttergryta
+    namewodiacritics: Yttergryta
+    subdiv: ''
+    function: '------7-'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '6507N 00742E'
+    remarks: ''

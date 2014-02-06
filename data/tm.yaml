@@ -1,0 +1,480 @@
+-
+    ch: ''
+    locode: 'TM AKD'
+    name: Akdepe
+    namewodiacritics: Akdepe
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0501'
+    iata: ''
+    coordinates: '3818N 05735E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TM ALT'
+    name: 'Altyn Asyr'
+    namewodiacritics: 'Altyn Asyr'
+    subdiv: ''
+    function: 1----6--
+    status: RQ
+    date: '0907'
+    iata: ''
+    coordinates: '3753N 05822E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TM ASB'
+    name: Ashkhabad
+    namewodiacritics: Ashkhabad
+    subdiv: ''
+    function: '--34----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'TM BAB'
+    name: Babadaýhan
+    namewodiacritics: Babadayhan
+    subdiv: A
+    function: '--3-----'
+    status: RL
+    date: '0501'
+    iata: ''
+    coordinates: '3741N 06023E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TM BAH'
+    name: Bäherden
+    namewodiacritics: Baherden
+    subdiv: ''
+    function: '-23-----'
+    status: RL
+    date: '0501'
+    iata: ''
+    coordinates: '3826N 05725E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TM BAL'
+    name: Balkanabat
+    namewodiacritics: Balkanabat
+    subdiv: B
+    function: '-23-----'
+    status: RL
+    date: '0501'
+    iata: ''
+    coordinates: '3930N 05421E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TM BAY'
+    name: Bayramaly
+    namewodiacritics: Bayramaly
+    subdiv: ''
+    function: '-23-----'
+    status: RL
+    date: '0501'
+    iata: ''
+    coordinates: '3737N 06210E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TM BKH'
+    name: Bekdash
+    namewodiacritics: Bekdash
+    subdiv: B
+    function: '--3-----'
+    status: RL
+    date: '0307'
+    iata: ''
+    coordinates: '4134N 05232E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TM BOL'
+    name: Boldumsaz
+    namewodiacritics: Boldumsaz
+    subdiv: ''
+    function: '-23-----'
+    status: RL
+    date: '0501'
+    iata: ''
+    coordinates: '4208N 05940E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TM BZY'
+    name: Büzmeyin
+    namewodiacritics: Buzmeyin
+    subdiv: ''
+    function: '-23-----'
+    status: RL
+    date: '0601'
+    iata: ''
+    coordinates: '3803N 05812E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TM CJV'
+    name: Chärjew
+    namewodiacritics: Charjew
+    subdiv: L
+    function: '--3-----'
+    status: RL
+    date: '0401'
+    iata: ''
+    coordinates: '3906N 06334E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TM CHE'
+    name: Cheleken
+    namewodiacritics: Cheleken
+    subdiv: B
+    function: 1-3-----
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '3924N 05308E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TM DHZ'
+    name: Dashhowuz
+    namewodiacritics: Dashhowuz
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0201'
+    iata: ''
+    coordinates: '4150N 05957E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TM FAR'
+    name: Farap
+    namewodiacritics: Farap
+    subdiv: L
+    function: '-23----B'
+    status: RL
+    date: '0501'
+    iata: ''
+    coordinates: '3910N 06336E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TM GAL'
+    name: Galkynys
+    namewodiacritics: Galkynys
+    subdiv: L
+    function: '-23-----'
+    status: RL
+    date: '0501'
+    iata: ''
+    coordinates: '3915N 06311E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TM GUB'
+    name: Gubadag
+    namewodiacritics: Gubadag
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0501'
+    iata: ''
+    coordinates: '4204N 05958E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TM HAL'
+    name: Halach
+    namewodiacritics: Halach
+    subdiv: ''
+    function: 1-3-----
+    status: RL
+    date: '0601'
+    iata: ''
+    coordinates: '3804N 06453E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TM JEB'
+    name: Jebel
+    namewodiacritics: Jebel
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '1101'
+    iata: ''
+    coordinates: '3937N 05413E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TM KAK'
+    name: Kaka
+    namewodiacritics: Kaka
+    subdiv: ''
+    function: '-23-----'
+    status: RL
+    date: '0501'
+    iata: ''
+    coordinates: '3721N 05936E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TM KER'
+    name: Kerkichi
+    namewodiacritics: Kerkichi
+    subdiv: L
+    function: '-23-----'
+    status: RL
+    date: '0501'
+    iata: ''
+    coordinates: '3751N 06514E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TM KHS'
+    name: Khodzhambas
+    namewodiacritics: Khodzhambas
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0601'
+    iata: ''
+    coordinates: '3807N 06500E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TM KON'
+    name: Köneürgench
+    namewodiacritics: Koneurgench
+    subdiv: ''
+    function: '-23-----'
+    status: RL
+    date: '0501'
+    iata: ''
+    coordinates: '4219N 05908E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TM KRA'
+    name: Krasnovodsk
+    namewodiacritics: Krasnovodsk
+    subdiv: B
+    function: 1-3-----
+    status: RL
+    date: '0307'
+    iata: ''
+    coordinates: '4001N 05258E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TM KUK'
+    name: Kushka
+    namewodiacritics: Kushka
+    subdiv: ''
+    function: '-23-----'
+    status: AI
+    date: '8601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'TM LEB'
+    name: Lebap
+    namewodiacritics: Lebap
+    subdiv: ''
+    function: '-23-----'
+    status: RL
+    date: '0501'
+    iata: ''
+    coordinates: '4103N 06153E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TM MYP'
+    name: Mary
+    namewodiacritics: Mary
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'TM MUR'
+    name: Murgap
+    namewodiacritics: Murgap
+    subdiv: M
+    function: '-23-----'
+    status: RL
+    date: '0501'
+    iata: ''
+    coordinates: '3729N 06158E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TM SAK'
+    name: Säkar
+    namewodiacritics: Sakar
+    subdiv: L
+    function: '--3-----'
+    status: RL
+    date: '0501'
+    iata: ''
+    coordinates: '3855N 06344E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TM SRK'
+    name: Sarakhs
+    namewodiacritics: Sarakhs
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0002'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'TM SAY'
+    name: Sayat
+    namewodiacritics: Sayat
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '0501'
+    iata: ''
+    coordinates: '3846N 06353E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TM SHI'
+    name: Shirvan-Kala
+    namewodiacritics: Shirvan-Kala
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '0501'
+    iata: ''
+    coordinates: '4215N 05838E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TM TAG'
+    name: Tagta
+    namewodiacritics: Tagta
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0501'
+    iata: ''
+    coordinates: '4139N 05954E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TM TAZ'
+    name: Tashauz
+    namewodiacritics: Tashauz
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'TM CRZ'
+    name: Tchardjou
+    namewodiacritics: Tchardjou
+    subdiv: ''
+    function: '---45---'
+    status: AI
+    date: '9808'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'TM TEJ'
+    name: Tejen
+    namewodiacritics: Tejen
+    subdiv: A
+    function: '-23-----'
+    status: RL
+    date: '0501'
+    iata: ''
+    coordinates: '3722N 06029E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TM TMZ'
+    name: Termez
+    namewodiacritics: Termez
+    subdiv: ''
+    function: 1-------
+    status: AI
+    date: '8012'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'TM KRW'
+    name: Turkmenbashi
+    namewodiacritics: Turkmenbashi
+    subdiv: B
+    function: 1234----
+    status: AI
+    date: '0501'
+    iata: ''
+    coordinates: '4001N 05258E'
+    remarks: 'ex Krasnowodsk'
+-
+    ch: ''
+    locode: 'TM TUR'
+    name: Turkmen-Kala
+    namewodiacritics: Turkmen-Kala
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0501'
+    iata: ''
+    coordinates: '3726N 06220E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TM YOL'
+    name: Yolöten
+    namewodiacritics: Yoloten
+    subdiv: ''
+    function: '-23-----'
+    status: RL
+    date: '0501'
+    iata: ''
+    coordinates: '3718N 06221E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TM YLA'
+    name: Yylanly
+    namewodiacritics: Yylanly
+    subdiv: ''
+    function: '-23-----'
+    status: RL
+    date: '0501'
+    iata: ''
+    coordinates: '4152N 05938E'
+    remarks: ''

@@ -1,0 +1,48 @@
+-
+    ch: ''
+    locode: 'SX GES'
+    name: 'Gallis Bay'
+    namewodiacritics: 'Gallis Bay'
+    subdiv: ''
+    function: 1-3-----
+    status: RL
+    date: '1101'
+    iata: ''
+    coordinates: '1801N 06304W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SX MAR'
+    name: Marigot
+    namewodiacritics: Marigot
+    subdiv: ''
+    function: 1-------
+    status: RL
+    date: '1107'
+    iata: ''
+    coordinates: '1804N 06304W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SX PHI'
+    name: Philipsburg
+    namewodiacritics: Philipsburg
+    subdiv: ''
+    function: 1-3-----
+    status: RL
+    date: '1101'
+    iata: ''
+    coordinates: '1801N 06302W'
+    remarks: ''
+-
+    ch: ¦
+    locode: 'SX SXM'
+    name: 'Sint-Maarten Apt'
+    namewodiacritics: 'Sint-Maarten Apt'
+    subdiv: ''
+    function: 1--45---
+    status: AI
+    date: '1307'
+    iata: ''
+    coordinates: '1803N 06307W'
+    remarks: '@Fun'

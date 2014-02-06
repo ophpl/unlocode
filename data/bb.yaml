@@ -1,0 +1,96 @@
+-
+    ch: ''
+    locode: 'BB BGI'
+    name: Bridgetown
+    namewodiacritics: Bridgetown
+    subdiv: ''
+    function: 1--45---
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'BB CCH'
+    name: 'Christ Church'
+    namewodiacritics: 'Christ Church'
+    subdiv: '01'
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '1305N 05932W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BB OST'
+    name: Oistins
+    namewodiacritics: Oistins
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '1101'
+    iata: ''
+    coordinates: '1304N 05932W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BB STM'
+    name: 'Saint Michael'
+    namewodiacritics: 'Saint Michael'
+    subdiv: '08'
+    function: 1----6--
+    status: RL
+    date: '1101'
+    iata: ''
+    coordinates: '1307N 05936W'
+    remarks: ''
+-
+    ch: +
+    locode: 'BB SPR'
+    name: 'Saint Peter'
+    namewodiacritics: 'Saint Peter'
+    subdiv: '09'
+    function: '-23-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '1315N 05937W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BB SAP'
+    name: 'Saint Philip'
+    namewodiacritics: 'Saint Philip'
+    subdiv: '10'
+    function: '-----6--'
+    status: RL
+    date: '1107'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'BB SLC'
+    name: 'Sam Lords Castle'
+    namewodiacritics: 'Sam Lords Castle'
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '1307N 05926W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BB SPT'
+    name: Speightstown
+    namewodiacritics: Speightstown
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '0907'
+    iata: ''
+    coordinates: '1315N 05939W'
+    remarks: ''

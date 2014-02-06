@@ -1,0 +1,456 @@
+-
+    ch: ''
+    locode: 'HK ABD'
+    name: Aberdeen
+    namewodiacritics: Aberdeen
+    subdiv: ''
+    function: 1-3-----
+    status: RL
+    date: '1107'
+    iata: ''
+    coordinates: '2215N 11409E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'HK ALC'
+    name: 'Ap Lei Chau'
+    namewodiacritics: 'Ap Lei Chau'
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'HK CWB'
+    name: 'Causeway Bay'
+    namewodiacritics: 'Causeway Bay'
+    subdiv: ''
+    function: 1-3-----
+    status: RL
+    date: '0407'
+    iata: ''
+    coordinates: '2217N 11411E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'HK CHW'
+    name: 'Chai Wan'
+    namewodiacritics: 'Chai Wan'
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0212'
+    iata: ''
+    coordinates: '2215N 11414E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'HK CSW'
+    name: 'Cheung Sha Wan'
+    namewodiacritics: 'Cheung Sha Wan'
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '1207'
+    iata: ZZQ
+    coordinates: '2214N 11400E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'HK FOT'
+    name: 'Fo Tan'
+    namewodiacritics: 'Fo Tan'
+    subdiv: ''
+    function: '-----6--'
+    status: RL
+    date: '1201'
+    iata: ''
+    coordinates: '2224N 11412E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'HK HKC'
+    name: 'Ha Kwai Chung'
+    namewodiacritics: 'Ha Kwai Chung'
+    subdiv: ''
+    function: 1-3-----
+    status: RL
+    date: '0207'
+    iata: ''
+    coordinates: '2222N 11407E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'HK HKG'
+    name: 'Hong Kong'
+    namewodiacritics: 'Hong Kong'
+    subdiv: ''
+    function: 1--45---
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'HK GOM'
+    name: 'Hung Hom'
+    namewodiacritics: 'Hung Hom'
+    subdiv: ''
+    function: '-----6--'
+    status: RQ
+    date: '1001'
+    iata: ''
+    coordinates: '2218N 11411E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'HK KWN'
+    name: Kowloon
+    namewodiacritics: Kowloon
+    subdiv: ''
+    function: 123-----
+    status: RL
+    date: '0701'
+    iata: ''
+    coordinates: '2218N 11410E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'HK KCO'
+    name: 'Kwai Chung'
+    namewodiacritics: 'Kwai Chung'
+    subdiv: ''
+    function: '-----6--'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '2222N 11408E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'HK KTG'
+    name: 'Kwun Tong'
+    namewodiacritics: 'Kwun Tong'
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '0907'
+    iata: ''
+    coordinates: '2219N 11413E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'HK KTZ'
+    name: 'Kwun Tong'
+    namewodiacritics: 'Kwun Tong'
+    subdiv: ''
+    function: '-2-4----'
+    status: RL
+    date: '1201'
+    iata: ''
+    coordinates: '2219N 11413E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'HK LCK'
+    name: 'Lai Chi Kok'
+    namewodiacritics: 'Lai Chi Kok'
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0701'
+    iata: ''
+    coordinates: '2220N 11408E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'HK LAM'
+    name: 'Lamma Island'
+    namewodiacritics: 'Lamma Island'
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'HK MKK'
+    name: 'Mong Kok'
+    namewodiacritics: 'Mong Kok'
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '2219N 11410E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'HK NPT'
+    name: 'North Point'
+    namewodiacritics: 'North Point'
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '1207'
+    iata: ''
+    coordinates: '2218N 11412E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'HK QBY'
+    name: 'Quarry Bay'
+    namewodiacritics: 'Quarry Bay'
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '1207'
+    iata: ''
+    coordinates: '2217N 11413E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'HK STN'
+    name: 'Sha Tin'
+    namewodiacritics: 'Sha Tin'
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '2223N 11411E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'HK SSP'
+    name: 'Sham Shui Po'
+    namewodiacritics: 'Sham Shui Po'
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '2220N 11409E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'HK SKK'
+    name: 'Shek Kong'
+    namewodiacritics: 'Shek Kong'
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '1207'
+    iata: ''
+    coordinates: '2226N 11406E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'HK SGS'
+    name: 'Sheung Shui'
+    namewodiacritics: 'Sheung Shui'
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '2231N 11407E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'HK SHW'
+    name: 'Sheung Wan'
+    namewodiacritics: 'Sheung Wan'
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '1101'
+    iata: ''
+    coordinates: '2217N 11409E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'HK TKT'
+    name: 'Tai Kok Tsui'
+    namewodiacritics: 'Tai Kok Tsui'
+    subdiv: ''
+    function: '-23--6--'
+    status: RL
+    date: '0601'
+    iata: ''
+    coordinates: '2219N 11410E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'HK TLS'
+    name: 'Tai Lang Shui'
+    namewodiacritics: 'Tai Lang Shui'
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0607'
+    iata: ''
+    coordinates: '2224N 11356E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'HK TNO'
+    name: 'Tai No'
+    namewodiacritics: 'Tai No'
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0212'
+    iata: ''
+    coordinates: '2222N 11414E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'HK TPO'
+    name: 'Tai Po'
+    namewodiacritics: 'Tai Po'
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '0907'
+    iata: ''
+    coordinates: '2218N 11357E'
+    remarks: ''
+-
+    ch: +
+    locode: 'HK TKW'
+    name: 'To Kwa Wan'
+    namewodiacritics: 'To Kwa Wan'
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '2219N 11411E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'HK TOL'
+    name: 'Tolo Harbour'
+    namewodiacritics: 'Tolo Harbour'
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'HK TKO'
+    name: 'Tseung Kwan O'
+    namewodiacritics: 'Tseung Kwan O'
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '2220N 11415E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'HK TST'
+    name: 'Tsim Sha Tsui'
+    namewodiacritics: 'Tsim Sha Tsui'
+    subdiv: ''
+    function: 1-3-----
+    status: RL
+    date: '1207'
+    iata: ''
+    coordinates: '2218N 11410E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'HK TSI'
+    name: 'Tsing Yi'
+    namewodiacritics: 'Tsing Yi'
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '1001'
+    iata: ''
+    coordinates: '2221N 11406E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'HK ZTW'
+    name: 'Tsuen Wan'
+    namewodiacritics: 'Tsuen Wan'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'HK MUN'
+    name: 'Tuen Mun'
+    namewodiacritics: 'Tuen Mun'
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0607'
+    iata: ''
+    coordinates: '2224N 11359E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'HK VIC'
+    name: Victoria
+    namewodiacritics: Victoria
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'HK WNI'
+    name: 'Wan Chai'
+    namewodiacritics: 'Wan Chai'
+    subdiv: ''
+    function: 1-3-----
+    status: RL
+    date: '1101'
+    iata: ''
+    coordinates: '2217N 11410E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'HK WON'
+    name: 'Wong Chuk Hang'
+    namewodiacritics: 'Wong Chuk Hang'
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '1207'
+    iata: ''
+    coordinates: '2223N 11421E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'HK YUE'
+    name: 'Yuen Long'
+    namewodiacritics: 'Yuen Long'
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: ''
+    remarks: ''

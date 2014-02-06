@@ -1,0 +1,396 @@
+-
+    ch: ''
+    locode: 'ML AMB'
+    name: Ambidédi
+    namewodiacritics: Ambidedi
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0401'
+    iata: ''
+    coordinates: '1435N 01147W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ML BKO'
+    name: Bamako
+    namewodiacritics: Bamako
+    subdiv: ''
+    function: '---45---'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'ML BLA'
+    name: Bla
+    namewodiacritics: Bla
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'ML BGI'
+    name: Bougouni
+    namewodiacritics: Bougouni
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0212'
+    iata: ''
+    coordinates: '1124N 00729W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ML FAN'
+    name: Fana
+    namewodiacritics: Fana
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '9903'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'ML GAQ'
+    name: Gao
+    namewodiacritics: Gao
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'ML GUD'
+    name: Goundam
+    namewodiacritics: Goundam
+    subdiv: ''
+    function: '---4----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'ML KYS'
+    name: Kayes
+    namewodiacritics: Kayes
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'ML KPR'
+    name: Kemparana
+    namewodiacritics: Kemparana
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'ML KNZ'
+    name: Kenieba
+    namewodiacritics: Kenieba
+    subdiv: ''
+    function: '---4----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'ML KIT'
+    name: Kita
+    namewodiacritics: Kita
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'ML KOR'
+    name: Korouma
+    namewodiacritics: Korouma
+    subdiv: ''
+    function: '--3--6--'
+    status: RL
+    date: '0307'
+    iata: ''
+    coordinates: '1329N 01126W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ML IKO'
+    name: Koulikoro
+    namewodiacritics: Koulikoro
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'ML KTX'
+    name: Koutiala
+    namewodiacritics: Koutiala
+    subdiv: ''
+    function: '--34----'
+    status: AI
+    date: '9506'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'ML MAH'
+    name: Mahana
+    namewodiacritics: Mahana
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0005'
+    iata: ''
+    coordinates: '1611N 00642W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ML MAI'
+    name: Mahina
+    namewodiacritics: Mahina
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0401'
+    iata: ''
+    coordinates: '1318N 01039W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ML MZI'
+    name: Mopti
+    namewodiacritics: Mopti
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'ML MOR'
+    name: Morila
+    namewodiacritics: Morila
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0401'
+    iata: ''
+    coordinates: '1212N 00638W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ML NRM'
+    name: Nara
+    namewodiacritics: Nara
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'ML NDE'
+    name: Ndébougou
+    namewodiacritics: Ndebougou
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0401'
+    iata: ''
+    coordinates: '1422N 00559W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ML NEG'
+    name: Négala
+    namewodiacritics: Negala
+    subdiv: '2'
+    function: '--3-----'
+    status: RL
+    date: '0401'
+    iata: ''
+    coordinates: '1252N 00827W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ML NIO'
+    name: Niono
+    namewodiacritics: Niono
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0401'
+    iata: ''
+    coordinates: '1415N 00600W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ML NIX'
+    name: Nioro
+    namewodiacritics: Nioro
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'ML OLB'
+    name: Ouolossébougou
+    namewodiacritics: Ouolossebougou
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'ML SLA'
+    name: Sadiola
+    namewodiacritics: Sadiola
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0212'
+    iata: ''
+    coordinates: '1353N 01142W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ML SAN'
+    name: San
+    namewodiacritics: San
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0307'
+    iata: ''
+    coordinates: '1317N 00453W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ML SZU'
+    name: Ségou
+    namewodiacritics: Segou
+    subdiv: ''
+    function: '--34----'
+    status: RL
+    date: '0212'
+    iata: ''
+    coordinates: '1327N 00616W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ML SEV'
+    name: Sévaré
+    namewodiacritics: Sevare
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0401'
+    iata: ''
+    coordinates: '1432N 00406W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ML SIK'
+    name: Sikasso
+    namewodiacritics: Sikasso
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0212'
+    iata: ''
+    coordinates: '1119N 00540W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ML TOM'
+    name: Tombouctou
+    namewodiacritics: Tombouctou
+    subdiv: ''
+    function: '---4----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '1643N 00300W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ML TOU'
+    name: Touana
+    namewodiacritics: Touana
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0307'
+    iata: ''
+    coordinates: '1338N 00729W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ML YAT'
+    name: Yatéla
+    namewodiacritics: Yatela
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0212'
+    iata: ''
+    coordinates: '1406N 01146W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ML EYL'
+    name: Yelimane
+    namewodiacritics: Yelimane
+    subdiv: ''
+    function: '---4----'
+    status: RL
+    date: '0907'
+    iata: ''
+    coordinates: '1508N 01034W'
+    remarks: ''

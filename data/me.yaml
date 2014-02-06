@@ -1,0 +1,228 @@
+-
+    ch: ''
+    locode: 'ME BAR'
+    name: Bar
+    namewodiacritics: Bar
+    subdiv: ''
+    function: 123-----
+    status: RL
+    date: '0607'
+    iata: ''
+    coordinates: '4205N 01905E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ME IVG'
+    name: 'Berane (Yvangrad)'
+    namewodiacritics: 'Berane (Yvangrad)'
+    subdiv: ''
+    function: '-234----'
+    status: AI
+    date: '0607'
+    iata: ''
+    coordinates: '4251N 01952E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ME BIJ'
+    name: Bijela
+    namewodiacritics: Bijela
+    subdiv: ''
+    function: 1-3-----
+    status: RL
+    date: '0607'
+    iata: ''
+    coordinates: '4227N 01840E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ME BOP'
+    name: 'Bijelo Polje'
+    namewodiacritics: 'Bijelo Polje'
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '4302N 01944E'
+    remarks: ''
+-
+    ch: ¦
+    locode: 'ME BUD'
+    name: Budva
+    namewodiacritics: Budva
+    subdiv: '05'
+    function: 1-3-----
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '4217N 01850E'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'ME CET'
+    name: Cetinje
+    namewodiacritics: Cetinje
+    subdiv: '06'
+    function: '--3-----'
+    status: RL
+    date: '1207'
+    iata: ''
+    coordinates: '4222N 01855E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ME HNO'
+    name: Hercegnovi
+    namewodiacritics: Hercegnovi
+    subdiv: ''
+    function: 1234----
+    status: RL
+    date: '0607'
+    iata: ''
+    coordinates: '4227N 01832E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ME IGL'
+    name: Igalo
+    namewodiacritics: Igalo
+    subdiv: ''
+    function: 1-3-----
+    status: RL
+    date: '0607'
+    iata: ''
+    coordinates: '4228N 01831E'
+    remarks: ''
+-
+    ch: ¦
+    locode: 'ME KOT'
+    name: Kotor
+    namewodiacritics: Kotor
+    subdiv: '10'
+    function: 1-34----
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '4225N 01846E'
+    remarks: '@Sub'
+-
+    ch: ¦
+    locode: 'ME NIK'
+    name: Niksic
+    namewodiacritics: Niksic
+    subdiv: '12'
+    function: '-23-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '4246N 01856E'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'ME PVC'
+    name: Petrovac
+    namewodiacritics: Petrovac
+    subdiv: ''
+    function: 1-3-----
+    status: RL
+    date: '0607'
+    iata: ''
+    coordinates: '4212N 01856E'
+    remarks: ''
+-
+    ch: ¦
+    locode: 'ME PLJ'
+    name: Pljevlja
+    namewodiacritics: Pljevlja
+    subdiv: '14'
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '4321N 01921E'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'ME TGD'
+    name: Podgorica
+    namewodiacritics: Podgorica
+    subdiv: ''
+    function: '-234----'
+    status: RL
+    date: '0607'
+    iata: ''
+    coordinates: '4226N 01915E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ME RIJ'
+    name: 'Rijeka Crnojevica'
+    namewodiacritics: 'Rijeka Crnojevica'
+    subdiv: '16'
+    function: '--3-----'
+    status: RQ
+    date: '0907'
+    iata: ''
+    coordinates: '4231N 19158E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ME RSN'
+    name: 'Risan (Risano)'
+    namewodiacritics: 'Risan (Risano)'
+    subdiv: ''
+    function: 1-3-----
+    status: RQ
+    date: '0607'
+    iata: ''
+    coordinates: '4231N 01842E'
+    remarks: ''
+-
+    ch: ¦
+    locode: 'ME TIV'
+    name: Tivat
+    namewodiacritics: Tivat
+    subdiv: '19'
+    function: 1-34----
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '4226N 01842E'
+    remarks: '@Sub'
+-
+    ch: ¦
+    locode: 'ME ULC'
+    name: Ulcinj
+    namewodiacritics: Ulcinj
+    subdiv: '20'
+    function: 1-3-----
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '4155N 01912E'
+    remarks: '@Sub'
+-
+    ch: ¦
+    locode: 'ME ZBK'
+    name: Zabljak
+    namewodiacritics: Zabljak
+    subdiv: '21'
+    function: '--34----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '4309N 01907E'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'ME ZEL'
+    name: Zelenika
+    namewodiacritics: Zelenika
+    subdiv: ''
+    function: 123-----
+    status: RL
+    date: '0607'
+    iata: ''
+    coordinates: '4227N 01835E'
+    remarks: ''

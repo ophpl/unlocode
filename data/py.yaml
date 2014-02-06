@@ -1,0 +1,708 @@
+-
+    ch: ''
+    locode: 'PY ARE'
+    name: Aregua
+    namewodiacritics: Aregua
+    subdiv: '11'
+    function: '--3-----'
+    status: RL
+    date: '1107'
+    iata: ''
+    coordinates: '2517S 05724W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PY AYE'
+    name: 'Arroyos y Esteros'
+    namewodiacritics: 'Arroyos y Esteros'
+    subdiv: '3'
+    function: '-----6--'
+    status: RQ
+    date: '1007'
+    iata: ''
+    coordinates: '2504S 05706W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PY ASU'
+    name: Asunción
+    namewodiacritics: Asuncion
+    subdiv: ASU
+    function: 1--45---
+    status: AI
+    date: '0212'
+    iata: ''
+    coordinates: '2516S 05740W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PY AYO'
+    name: Ayolas
+    namewodiacritics: Ayolas
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PY BFA'
+    name: 'Bahia Negra'
+    namewodiacritics: 'Bahia Negra'
+    subdiv: '16'
+    function: '---4----'
+    status: RL
+    date: '0907'
+    iata: ''
+    coordinates: '2015S 05812W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PY BCM'
+    name: 'Barrio Caacupé Mí'
+    namewodiacritics: 'Barrio Caacupe Mi'
+    subdiv: '11'
+    function: 1-3--6--
+    status: RL
+    date: '0907'
+    iata: ''
+    coordinates: '2513S 05733W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PY BVT'
+    name: 'Bella Vista'
+    namewodiacritics: 'Bella Vista'
+    subdiv: '7'
+    function: 1-------
+    status: RQ
+    date: '1001'
+    iata: ''
+    coordinates: '2730S 55330W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PY BAL'
+    name: 'Benjamin Aceval'
+    namewodiacritics: 'Benjamin Aceval'
+    subdiv: '15'
+    function: '--3-----'
+    status: RL
+    date: '1101'
+    iata: ''
+    coordinates: '2458S 05734W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PY CAA'
+    name: Caacupé
+    namewodiacritics: Caacupe
+    subdiv: '3'
+    function: 1-3-----
+    status: RL
+    date: '1207'
+    iata: ''
+    coordinates: '2523S 05708W'
+    remarks: ''
+-
+    ch: +
+    locode: 'PY PCA'
+    name: Caacupé
+    namewodiacritics: Caacupe
+    subdiv: '3'
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '2523S 05708W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PY GGU'
+    name: Caaguazu
+    namewodiacritics: Caaguazu
+    subdiv: '5'
+    function: '-----6--'
+    status: RL
+    date: '1007'
+    iata: ''
+    coordinates: '2527S 05601W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PY CCP'
+    name: Capiata
+    namewodiacritics: Capiata
+    subdiv: '11'
+    function: '-----6--'
+    status: RQ
+    date: '1007'
+    iata: ''
+    coordinates: '2521S 05725W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PY CRG'
+    name: Caraguatay
+    namewodiacritics: Caraguatay
+    subdiv: '3'
+    function: '-----6--'
+    status: RL
+    date: '1107'
+    iata: ''
+    coordinates: '2514S 05649W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PY CAL'
+    name: 'Carlos Antonio Lopez'
+    namewodiacritics: 'Carlos Antonio Lopez'
+    subdiv: '7'
+    function: '--3-----'
+    status: RL
+    date: '1107'
+    iata: ''
+    coordinates: '2623S 05445W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PY CDP'
+    name: 'Carmen del Paraná'
+    namewodiacritics: 'Carmen del Parana'
+    subdiv: '7'
+    function: '-----6--'
+    status: RL
+    date: '1201'
+    iata: ''
+    coordinates: '2714S 05613W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PY AGT'
+    name: 'Ciudad del Este'
+    namewodiacritics: 'Ciudad del Este'
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '9612'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PY CTT'
+    name: 'Colonia Catuete'
+    namewodiacritics: 'Colonia Catuete'
+    subdiv: '14'
+    function: '--3-----'
+    status: RL
+    date: '1101'
+    iata: ''
+    coordinates: '2408S 05437W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PY MRA'
+    name: 'Colonia Mariano Roque Alonso'
+    namewodiacritics: 'Colonia Mariano Roque Alonso'
+    subdiv: '11'
+    function: 1-3-----
+    status: RL
+    date: '0507'
+    iata: ''
+    coordinates: '2510S 05733W'
+    remarks: 'Short: Mariano Roque Alonso'
+-
+    ch: ''
+    locode: 'PY CND'
+    name: 'Colonia Neuland'
+    namewodiacritics: 'Colonia Neuland'
+    subdiv: '19'
+    function: '--3-----'
+    status: RL
+    date: '1101'
+    iata: ''
+    coordinates: '2240S 06007W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PY CNP'
+    name: Concepción
+    namewodiacritics: Concepcion
+    subdiv: '1'
+    function: 1-------
+    status: AI
+    date: '0212'
+    iata: ''
+    coordinates: '2324S 05726W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PY COO'
+    name: 'Coronel Oviedo'
+    namewodiacritics: 'Coronel Oviedo'
+    subdiv: '5'
+    function: '-----6--'
+    status: RQ
+    date: '1007'
+    iata: ''
+    coordinates: '2525S 05627W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PY ENO'
+    name: Encarnación
+    namewodiacritics: Encarnacion
+    subdiv: '7'
+    function: 1--45---
+    status: AI
+    date: '0212'
+    iata: ''
+    coordinates: '2720S 05554W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PY FNX'
+    name: Fenix
+    namewodiacritics: Fenix
+    subdiv: ASU
+    function: 1-------
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PY FLM'
+    name: Filadelfia
+    namewodiacritics: Filadelfia
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PY FRM'
+    name: Fram
+    namewodiacritics: Fram
+    subdiv: '7'
+    function: '-----6--'
+    status: RL
+    date: '1107'
+    iata: ''
+    coordinates: '2659S 05553W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PY FUO'
+    name: 'Fuerte Olimpo'
+    namewodiacritics: 'Fuerte Olimpo'
+    subdiv: ''
+    function: 1-3-----
+    status: RL
+    date: '0601'
+    iata: ''
+    coordinates: '2103S 05752W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PY HER'
+    name: Hernandarias
+    namewodiacritics: Hernandarias
+    subdiv: '10'
+    function: '--3-----'
+    status: RL
+    date: '1107'
+    iata: ''
+    coordinates: '2524S 05437W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PY HHU'
+    name: Hohenau
+    namewodiacritics: Hohenau
+    subdiv: '7'
+    function: '-----6--'
+    status: RL
+    date: '1107'
+    iata: ''
+    coordinates: '2205S 05545W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PY ITE'
+    name: 'Ita Enramada'
+    namewodiacritics: 'Ita Enramada'
+    subdiv: ''
+    function: 1-------
+    status: AI
+    date: '9401'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PY CIG'
+    name: Itaugua
+    namewodiacritics: Itaugua
+    subdiv: '11'
+    function: '-----6--'
+    status: RQ
+    date: '1007'
+    iata: ''
+    coordinates: '2523S 05720W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PY IUB'
+    name: Iturbe
+    namewodiacritics: Iturbe
+    subdiv: '4'
+    function: '-----6--'
+    status: RQ
+    date: '1007'
+    iata: ''
+    coordinates: '2603S 05629W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PY JFC'
+    name: 'José Falcón'
+    namewodiacritics: 'Jose Falcon'
+    subdiv: '15'
+    function: '--3-----'
+    status: RL
+    date: '1107'
+    iata: ''
+    coordinates: '2515S 05742W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PY KTT'
+    name: Katuete
+    namewodiacritics: Katuete
+    subdiv: '14'
+    function: '-----6--'
+    status: RL
+    date: '1107'
+    iata: ''
+    coordinates: '2407S 05437W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PY LPZ'
+    name: 'La Paz'
+    namewodiacritics: 'La Paz'
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '1207'
+    iata: ''
+    coordinates: '2659S 05553W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PY LAM'
+    name: Lambare
+    namewodiacritics: Lambare
+    subdiv: '11'
+    function: '-----6--'
+    status: RL
+    date: '1007'
+    iata: ''
+    coordinates: '2521S 05739W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PY LPO'
+    name: Limpio
+    namewodiacritics: Limpio
+    subdiv: '11'
+    function: '-----6--'
+    status: RQ
+    date: '1007'
+    iata: ''
+    coordinates: '2511S 05732W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PY LUQ'
+    name: Luque
+    namewodiacritics: Luque
+    subdiv: '11'
+    function: '--3-----'
+    status: RL
+    date: '1101'
+    iata: ''
+    coordinates: '2516N 05734W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PY ESG'
+    name: 'Mariscal Estigarribia'
+    namewodiacritics: 'Mariscal Estigarribia'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PY OBP'
+    name: Obligado
+    namewodiacritics: Obligado
+    subdiv: ''
+    function: '-----6--'
+    status: RL
+    date: '1107'
+    iata: ''
+    coordinates: '2702S 05538W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PY PJC'
+    name: 'Pedro Juan Caballero'
+    namewodiacritics: 'Pedro Juan Caballero'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PY PIL'
+    name: Pilar
+    namewodiacritics: Pilar
+    subdiv: ''
+    function: '--34----'
+    status: RL
+    date: '9805'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PY PCJ'
+    name: 'Puerto la Victoria'
+    namewodiacritics: 'Puerto la Victoria'
+    subdiv: ''
+    function: 123-----
+    status: RL
+    date: '0601'
+    iata: ''
+    coordinates: '2217S 05756W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PY PBT'
+    name: 'Puerto Leda'
+    namewodiacritics: 'Puerto Leda'
+    subdiv: '16'
+    function: '---4----'
+    status: RL
+    date: '0907'
+    iata: ''
+    coordinates: '2043S 05759W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PY PPS'
+    name: 'Puerto Pinasco'
+    namewodiacritics: 'Puerto Pinasco'
+    subdiv: '1'
+    function: '--3-----'
+    status: RL
+    date: '1101'
+    iata: ''
+    coordinates: '2243S 05750W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PY SBT'
+    name: 'San Alberto'
+    namewodiacritics: 'San Alberto'
+    subdiv: '10'
+    function: '--3-----'
+    status: RL
+    date: '1101'
+    iata: ''
+    coordinates: '2458S 05454W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PY SAN'
+    name: 'San Antonio'
+    namewodiacritics: 'San Antonio'
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '9506'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PY SJE'
+    name: 'San José'
+    namewodiacritics: 'San Jose'
+    subdiv: '7'
+    function: '-----6--'
+    status: RL
+    date: '1201'
+    iata: ''
+    coordinates: '2642S 05502W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PY SLO'
+    name: 'San Lorenzo'
+    namewodiacritics: 'San Lorenzo'
+    subdiv: ''
+    function: '----5---'
+    status: AI
+    date: '9805'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PY SPP'
+    name: 'San Pedro del Paraná'
+    namewodiacritics: 'San Pedro del Parana'
+    subdiv: '7'
+    function: '-----6--'
+    status: RL
+    date: '1201'
+    iata: ''
+    coordinates: '2650S 05612W'
+    remarks: ''
+-
+    ch: ¦
+    locode: 'PY SYG'
+    name: 'San Ygnacio'
+    namewodiacritics: 'San Ygnacio'
+    subdiv: '8'
+    function: '-----6--'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '2652S 05703W'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'PY TER'
+    name: 'Terport (San Antonio)'
+    namewodiacritics: 'Terport (San Antonio)'
+    subdiv: ''
+    function: 1-3-----
+    status: RL
+    date: '0212'
+    iata: ''
+    coordinates: '2523S 05738W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PY TND'
+    name: Trinidad
+    namewodiacritics: Trinidad
+    subdiv: '7'
+    function: '-----6--'
+    status: RL
+    date: '1201'
+    iata: ''
+    coordinates: '2707S 05547W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PY VMI'
+    name: Vallemi
+    namewodiacritics: Vallemi
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PY VEL'
+    name: 'Villa Elisa'
+    namewodiacritics: 'Villa Elisa'
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0201'
+    iata: ''
+    coordinates: '2521N 05737W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PY VFL'
+    name: 'Villa Florida'
+    namewodiacritics: 'Villa Florida'
+    subdiv: '9'
+    function: '-----6--'
+    status: RL
+    date: '1107'
+    iata: ''
+    coordinates: '2623S 05709W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PY VLR'
+    name: Villarrica
+    namewodiacritics: Villarrica
+    subdiv: '4'
+    function: '-----6--'
+    status: RQ
+    date: '1007'
+    iata: ''
+    coordinates: '2545S 05626W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PY VLL'
+    name: Villeta
+    namewodiacritics: Villeta
+    subdiv: ''
+    function: 1-------
+    status: AI
+    date: '9401'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PY YCI'
+    name: Ypacarai
+    namewodiacritics: Ypacarai
+    subdiv: '11'
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '2523S 05716W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PY YPE'
+    name: Ypane
+    namewodiacritics: Ypane
+    subdiv: '11'
+    function: '-----6--'
+    status: RQ
+    date: '1007'
+    iata: ''
+    coordinates: '2527S 05732W'
+    remarks: ''

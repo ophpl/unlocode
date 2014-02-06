@@ -1,0 +1,828 @@
+-
+    ch: ''
+    locode: 'CU ANT'
+    name: Antilla
+    namewodiacritics: Antilla
+    subdiv: ''
+    function: '-23-----'
+    status: RL
+    date: '0701'
+    iata: ''
+    coordinates: '2050N 07551W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CU BHO'
+    name: 'Bahía Honda'
+    namewodiacritics: 'Bahia Honda'
+    subdiv: ''
+    function: 1-------
+    status: RL
+    date: '0212'
+    iata: ''
+    coordinates: '2254N 08310W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CU BAN'
+    name: Banes
+    namewodiacritics: Banes
+    subdiv: ''
+    function: 123-----
+    status: RL
+    date: '0701'
+    iata: ''
+    coordinates: '2058N 07543W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CU BCA'
+    name: Baracoa
+    namewodiacritics: Baracoa
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'CU BYM'
+    name: Bayamo
+    namewodiacritics: Bayamo
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'CU BOG'
+    name: 'Boca Grande'
+    namewodiacritics: 'Boca Grande'
+    subdiv: ''
+    function: 1-------
+    status: RL
+    date: '0701'
+    iata: ''
+    coordinates: '2135N 07840W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CU BOQ'
+    name: Boqueron
+    namewodiacritics: Boqueron
+    subdiv: ''
+    function: '-23-----'
+    status: RL
+    date: '0701'
+    iata: ''
+    coordinates: '2210N 07901W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CU BUF'
+    name: Bufadero
+    namewodiacritics: Bufadero
+    subdiv: ''
+    function: 123-----
+    status: RL
+    date: '0701'
+    iata: ''
+    coordinates: '2134N 07714W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CU CAB'
+    name: Cabañas
+    namewodiacritics: Cabanas
+    subdiv: ''
+    function: 1-------
+    status: RL
+    date: '0212'
+    iata: ''
+    coordinates: '2259N 08255W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CU CAI'
+    name: Caibarién
+    namewodiacritics: Caibarien
+    subdiv: ''
+    function: 1-------
+    status: RL
+    date: '0212'
+    iata: ''
+    coordinates: '2231N 07928W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CU CMW'
+    name: Camagüey
+    namewodiacritics: Camaguey
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '0212'
+    iata: ''
+    coordinates: '2123N 07755W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CU CAR'
+    name: Cárdenas
+    namewodiacritics: Cardenas
+    subdiv: ''
+    function: 123-----
+    status: RL
+    date: '0701'
+    iata: ''
+    coordinates: '2302N 08112W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CU CAS'
+    name: Casilda
+    namewodiacritics: Casilda
+    subdiv: ''
+    function: 1-3-----
+    status: RL
+    date: '0701'
+    iata: ''
+    coordinates: '2146N 08000W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CU CCC'
+    name: 'Cayo Coco'
+    namewodiacritics: 'Cayo Coco'
+    subdiv: ''
+    function: '---4----'
+    status: RL
+    date: '0907'
+    iata: ''
+    coordinates: '2230N 07830W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CU CYO'
+    name: 'Cayo Largo del Sur'
+    namewodiacritics: 'Cayo Largo del Sur'
+    subdiv: ''
+    function: '---4----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '2137N 08133W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CU CEI'
+    name: 'Ceiba Hueca'
+    namewodiacritics: 'Ceiba Hueca'
+    subdiv: ''
+    function: 1-3-----
+    status: RL
+    date: '0701'
+    iata: ''
+    coordinates: '2013N 07720W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CU CFG'
+    name: Cienfuegos
+    namewodiacritics: Cienfuegos
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'CU QCO'
+    name: Colon
+    namewodiacritics: Colon
+    subdiv: ''
+    function: 1-34----
+    status: RL
+    date: '9805'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'CU GIB'
+    name: Gibara
+    namewodiacritics: Gibara
+    subdiv: ''
+    function: 123--6--
+    status: RL
+    date: '0701'
+    iata: ''
+    coordinates: '2106N 07608W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CU GUB'
+    name: 'Guantanamo Bay'
+    namewodiacritics: 'Guantanamo Bay'
+    subdiv: ''
+    function: 1-3-----
+    status: RQ
+    date: '9506'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'CU NBW'
+    name: 'Guantanamo Nas Apt'
+    namewodiacritics: 'Guantanamo Nas Apt'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'CU GYB'
+    name: Guayabal
+    namewodiacritics: Guayabal
+    subdiv: ''
+    function: 1-------
+    status: AI
+    date: '9401'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: '='
+    locode: CU
+    name: 'Havana = La Habana'
+    namewodiacritics: 'Havana = La Habana'
+    subdiv: ''
+    function: ''
+    status: ''
+    date: ''
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'CU HOG'
+    name: Holguin
+    namewodiacritics: Holguin
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'CU IDS'
+    name: 'Isabela de Sagua'
+    namewodiacritics: 'Isabela de Sagua'
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '9506'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'CU JUC'
+    name: Júcaro
+    namewodiacritics: Jucaro
+    subdiv: ''
+    function: 123-----
+    status: RL
+    date: '0701'
+    iata: ''
+    coordinates: '2138N 07851W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CU LCL'
+    name: 'La Coloma'
+    namewodiacritics: 'La Coloma'
+    subdiv: ''
+    function: '---4----'
+    status: RL
+    date: '0907'
+    iata: ''
+    coordinates: '2220N 08338W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CU HAV'
+    name: 'La Habana'
+    namewodiacritics: 'La Habana'
+    subdiv: '03'
+    function: 12345---
+    status: AI
+    date: '0501'
+    iata: ''
+    coordinates: '2307N 08221W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CU BWW'
+    name: 'Las Brujas'
+    namewodiacritics: 'Las Brujas'
+    subdiv: ''
+    function: '---4----'
+    status: RL
+    date: '0907'
+    iata: ''
+    coordinates: '2337N 01779W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CU VTU'
+    name: 'Las Tunas'
+    namewodiacritics: 'Las Tunas'
+    subdiv: '10'
+    function: '-234----'
+    status: AI
+    date: '0207'
+    iata: ''
+    coordinates: '2057N 07657W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CU GAO'
+    name: 'Los Canos Apt/Guantanamo'
+    namewodiacritics: 'Los Canos Apt/Guantanamo'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: ''
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'CU MZO'
+    name: Manzanillo
+    namewodiacritics: Manzanillo
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'CU MAR'
+    name: Mariel
+    namewodiacritics: Mariel
+    subdiv: ''
+    function: 1234----
+    status: RL
+    date: '0701'
+    iata: ''
+    coordinates: '2300N 08245W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CU QMA'
+    name: Matanzas
+    namewodiacritics: Matanzas
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'CU AVI'
+    name: 'Maximo Gomez Apt'
+    namewodiacritics: 'Maximo Gomez Apt'
+    subdiv: ''
+    function: '---4----'
+    status: RL
+    date: '0907'
+    iata: ''
+    coordinates: '2201N 07847W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CU MJG'
+    name: Mayajigua
+    namewodiacritics: Mayajigua
+    subdiv: '07'
+    function: '---4----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '2145N 07900W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CU MEL'
+    name: 'Media Luna'
+    namewodiacritics: 'Media Luna'
+    subdiv: ''
+    function: 1-3-----
+    status: RL
+    date: '0701'
+    iata: ''
+    coordinates: '2009N 07726W'
+    remarks: ''
+-
+    ch: +
+    locode: 'CU MLG'
+    name: Melgarejo
+    namewodiacritics: Melgarejo
+    subdiv: '13'
+    function: '-23-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '2003N 07556W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CU MIR'
+    name: Miramar
+    namewodiacritics: Miramar
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '1207'
+    iata: ''
+    coordinates: '2307N 08225W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CU MOA'
+    name: Moa
+    namewodiacritics: Moa
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'CU ICR'
+    name: Nicaro
+    namewodiacritics: Nicaro
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '9506'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'CU NIQ'
+    name: Niquero
+    namewodiacritics: Niquero
+    subdiv: ''
+    function: 123-----
+    status: RL
+    date: '0701'
+    iata: ''
+    coordinates: '2003N 07735W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CU GER'
+    name: 'Nueva Gerona'
+    namewodiacritics: 'Nueva Gerona'
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'CU NVT'
+    name: Nuevitas
+    namewodiacritics: Nuevitas
+    subdiv: ''
+    function: 123-----
+    status: RL
+    date: '0701'
+    iata: ''
+    coordinates: '2133N 07716W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CU PAL'
+    name: 'Palo Alto'
+    namewodiacritics: 'Palo Alto'
+    subdiv: ''
+    function: 1-3-----
+    status: RL
+    date: '0307'
+    iata: ''
+    coordinates: '2136N 07858W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CU PIL'
+    name: Pilón
+    namewodiacritics: Pilon
+    subdiv: ''
+    function: '-23-----'
+    status: RL
+    date: '0701'
+    iata: ''
+    coordinates: '2051N 07549W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CU QPD'
+    name: 'Pinar del Rio'
+    namewodiacritics: 'Pinar del Rio'
+    subdiv: ''
+    function: '---4----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '2225N 08340W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CU PST'
+    name: Preston
+    namewodiacritics: Preston
+    subdiv: ''
+    function: '---4----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '2045N 07539W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CU VIT'
+    name: 'Puerto da Vita'
+    namewodiacritics: 'Puerto da Vita'
+    subdiv: ''
+    function: 123-----
+    status: RL
+    date: '0701'
+    iata: ''
+    coordinates: '2105N 07558W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CU PAS'
+    name: 'Puerto de Pastelillo'
+    namewodiacritics: 'Puerto de Pastelillo'
+    subdiv: ''
+    function: 1-3-----
+    status: RL
+    date: '0701'
+    iata: ''
+    coordinates: '2133N 07713W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CU MNT'
+    name: 'Puerto Manatí'
+    namewodiacritics: 'Puerto Manati'
+    subdiv: ''
+    function: 123-----
+    status: RL
+    date: '0701'
+    iata: ''
+    coordinates: '2122N 07650W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CU PPA'
+    name: 'Puerto Padre'
+    namewodiacritics: 'Puerto Padre'
+    subdiv: ''
+    function: 123-----
+    status: RL
+    date: '0701'
+    iata: ''
+    coordinates: '2112N 07636W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CU PTA'
+    name: 'Puerto Tarafa'
+    namewodiacritics: 'Puerto Tarafa'
+    subdiv: ''
+    function: 123-----
+    status: RL
+    date: '0701'
+    iata: ''
+    coordinates: '2134N 07715W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CU UPA'
+    name: 'Punta Alegre'
+    namewodiacritics: 'Punta Alegre'
+    subdiv: ''
+    function: '---4----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '2222N 07848W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CU UMA'
+    name: 'Punta de Maisi'
+    namewodiacritics: 'Punta de Maisi'
+    subdiv: '14'
+    function: '--34----'
+    status: RQ
+    date: '0907'
+    iata: ''
+    coordinates: '2015N 07409W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CU SDT'
+    name: 'Sagua de Tánamo'
+    namewodiacritics: 'Sagua de Tanamo'
+    subdiv: '11'
+    function: 1-------
+    status: RL
+    date: '0212'
+    iata: ''
+    coordinates: '2035N 07514W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CU RSL'
+    name: 'Sagua la Grande'
+    namewodiacritics: 'Sagua la Grande'
+    subdiv: ''
+    function: 1234----
+    status: RL
+    date: '0701'
+    iata: ''
+    coordinates: '2248N 08004W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CU SNJ'
+    name: 'San Julian'
+    namewodiacritics: 'San Julian'
+    subdiv: ''
+    function: '---4----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '2204N 08409W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CU QSN'
+    name: 'San Nicolas Bari'
+    namewodiacritics: 'San Nicolas Bari'
+    subdiv: ''
+    function: '---4----'
+    status: RL
+    date: '0907'
+    iata: ''
+    coordinates: '2245N 08155W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CU SNU'
+    name: 'Santa Clara'
+    namewodiacritics: 'Santa Clara'
+    subdiv: ''
+    function: 1-------
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'CU SCS'
+    name: 'Santa Cruz del Sur'
+    namewodiacritics: 'Santa Cruz del Sur'
+    subdiv: ''
+    function: 1-------
+    status: AI
+    date: '9401'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'CU USS'
+    name: 'Santi Spiritus'
+    namewodiacritics: 'Santi Spiritus'
+    subdiv: ''
+    function: '--34----'
+    status: RL
+    date: '0907'
+    iata: ''
+    coordinates: '2155N 07926W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CU SCU'
+    name: 'Santiago de Cuba'
+    namewodiacritics: 'Santiago de Cuba'
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'CU SZJ'
+    name: Siguanea
+    namewodiacritics: Siguanea
+    subdiv: '99'
+    function: '---4----'
+    status: RL
+    date: '0907'
+    iata: ''
+    coordinates: '2137N 08257W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CU TAN'
+    name: Tánamo
+    namewodiacritics: Tanamo
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0212'
+    iata: ''
+    coordinates: '2041N 07521W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CU TND'
+    name: Trinidad
+    namewodiacritics: Trinidad
+    subdiv: ''
+    function: '--34----'
+    status: RL
+    date: '9805'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'CU TDZ'
+    name: 'Tunas de Zaza'
+    namewodiacritics: 'Tunas de Zaza'
+    subdiv: ''
+    function: 123-----
+    status: RL
+    date: '0701'
+    iata: ''
+    coordinates: '2138N 07933W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CU VRA'
+    name: Varadero
+    namewodiacritics: Varadero
+    subdiv: '04'
+    function: '--34----'
+    status: AI
+    date: '0401'
+    iata: ''
+    coordinates: '2309N 08115W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CU VDO'
+    name: Vedado
+    namewodiacritics: Vedado
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '1101'
+    iata: ''
+    coordinates: '2308N 08323W'
+    remarks: ''

@@ -1,0 +1,576 @@
+-
+    ch: ''
+    locode: 'GH ABK'
+    name: Abeka
+    namewodiacritics: Abeka
+    subdiv: AA
+    function: '--3-----'
+    status: RL
+    date: '1101'
+    iata: ''
+    coordinates: '0536N 00014W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GH ABO'
+    name: Abor
+    namewodiacritics: Abor
+    subdiv: TV
+    function: '--3-----'
+    status: RL
+    date: '1101'
+    iata: ''
+    coordinates: '0603N 00052E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GH ACC'
+    name: Accra
+    namewodiacritics: Accra
+    subdiv: ''
+    function: '---45---'
+    status: AI
+    date: ''
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'GH ACH'
+    name: Achimota
+    namewodiacritics: Achimota
+    subdiv: ''
+    function: '-----6--'
+    status: RL
+    date: '1107'
+    iata: ''
+    coordinates: '0537N 00014W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GH ADA'
+    name: Ada
+    namewodiacritics: Ada
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'GH ANN'
+    name: Ahinsan
+    namewodiacritics: Ahinsan
+    subdiv: AH
+    function: '-----6--'
+    status: RL
+    date: '1107'
+    iata: ''
+    coordinates: '0620N 00131W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GH AMA'
+    name: Amasaman
+    namewodiacritics: Amasaman
+    subdiv: ''
+    function: '-----6--'
+    status: RL
+    date: '1107'
+    iata: ''
+    coordinates: '0542N 00018W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GH ASA'
+    name: Asamankese
+    namewodiacritics: Asamankese
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0607'
+    iata: ''
+    coordinates: '0552N 00040W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GH ASH'
+    name: Ashaiman
+    namewodiacritics: Ashaiman
+    subdiv: AA
+    function: '-----6--'
+    status: RL
+    date: '1107'
+    iata: ''
+    coordinates: '0542N 00020W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GH AUR'
+    name: Aura
+    namewodiacritics: Aura
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'GH AXI'
+    name: Axim
+    namewodiacritics: Axim
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'GH BKM'
+    name: Berekum
+    namewodiacritics: Berekum
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '0607'
+    iata: ''
+    coordinates: '0727N 00234W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GH BOG'
+    name: Bogoso
+    namewodiacritics: Bogoso
+    subdiv: WP
+    function: '--3-----'
+    status: RL
+    date: '1001'
+    iata: ''
+    coordinates: '0534N 00201W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GH BTG'
+    name: Bolgatanga
+    namewodiacritics: Bolgatanga
+    subdiv: UE
+    function: '-----6--'
+    status: RL
+    date: '1201'
+    iata: ''
+    coordinates: '1047N 00051W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GH CCT'
+    name: 'Cape Coast'
+    namewodiacritics: 'Cape Coast'
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'GH EJU'
+    name: Ejura
+    namewodiacritics: Ejura
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0601'
+    iata: ''
+    coordinates: '0722N 00122W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GH GUM'
+    name: Gumani
+    namewodiacritics: Gumani
+    subdiv: NP
+    function: '-----6--'
+    status: RL
+    date: '1107'
+    iata: ''
+    coordinates: '0927N 00046W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GH HOV'
+    name: Ho
+    namewodiacritics: Ho
+    subdiv: TV
+    function: '--3-----'
+    status: RL
+    date: '1207'
+    iata: ''
+    coordinates: '0636N 00028E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GH JUB'
+    name: 'Jubilee FPSO'
+    namewodiacritics: 'Jubilee FPSO'
+    subdiv: ''
+    function: '------7-'
+    status: RQ
+    date: '1101'
+    iata: ''
+    coordinates: '0437N 00255W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GH JUM'
+    name: Jumapo
+    namewodiacritics: Jumapo
+    subdiv: EP
+    function: '-----6--'
+    status: RL
+    date: '1001'
+    iata: ''
+    coordinates: '0609N 00018W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GH KTM'
+    name: Katamanso
+    namewodiacritics: Katamanso
+    subdiv: AA
+    function: '-----6--'
+    status: RL
+    date: '1201'
+    iata: ''
+    coordinates: '0544N 00050W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GH KIT'
+    name: Keta
+    namewodiacritics: Keta
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'GH KOF'
+    name: Koforidua
+    namewodiacritics: Koforidua
+    subdiv: ''
+    function: '-23-----'
+    status: RL
+    date: '0307'
+    iata: ''
+    coordinates: '0605N 00015W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GH KKL'
+    name: Kokomlemle
+    namewodiacritics: Kokomlemle
+    subdiv: AA
+    function: '-----6--'
+    status: RL
+    date: '1201'
+    iata: ''
+    coordinates: '0534N 00013W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GH KGO'
+    name: Konongo
+    namewodiacritics: Konongo
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '0607'
+    iata: ''
+    coordinates: '0637N 00112W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GH KTP'
+    name: Kotoka
+    namewodiacritics: Kotoka
+    subdiv: ''
+    function: '----5---'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'GH KPA'
+    name: Kpandu
+    namewodiacritics: Kpandu
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '0607'
+    iata: ''
+    coordinates: '0700N 00017E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GH KPE'
+    name: Kpetoe
+    namewodiacritics: Kpetoe
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '0607'
+    iata: ''
+    coordinates: '0633N 00041E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GH KMS'
+    name: Kumasi
+    namewodiacritics: Kumasi
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'GH KMU'
+    name: Kumawu
+    namewodiacritics: Kumawu
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '0607'
+    iata: ''
+    coordinates: '0654N 00116W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GH LEG'
+    name: Legon
+    namewodiacritics: Legon
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0212'
+    iata: ''
+    coordinates: '0539N 00012W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GH MAD'
+    name: Madina
+    namewodiacritics: Madina
+    subdiv: AA
+    function: '--3-----'
+    status: RL
+    date: '1101'
+    iata: ''
+    coordinates: '0541N 00010W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GH MIM'
+    name: Mim
+    namewodiacritics: Mim
+    subdiv: BA
+    function: '-----6--'
+    status: RL
+    date: '1107'
+    iata: ''
+    coordinates: '0654N 00234W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GH NSA'
+    name: Nsawam
+    namewodiacritics: Nsawam
+    subdiv: ''
+    function: '-23-----'
+    status: RL
+    date: '0307'
+    iata: ''
+    coordinates: '0548N 00021W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GH OBU'
+    name: Obuasi
+    namewodiacritics: Obuasi
+    subdiv: ''
+    function: '-23-----'
+    status: RL
+    date: '0307'
+    iata: ''
+    coordinates: '0612N 00140W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GH ODA'
+    name: Oda
+    namewodiacritics: Oda
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '0607'
+    iata: ''
+    coordinates: '0555N 00590W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GH SKM'
+    name: Sakumono
+    namewodiacritics: Sakumono
+    subdiv: ''
+    function: '-----6--'
+    status: RL
+    date: '1201'
+    iata: ''
+    coordinates: '0537N 00003W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GH SPD'
+    name: Saltpond
+    namewodiacritics: Saltpond
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '9506'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'GH SEK'
+    name: Sekondi
+    namewodiacritics: Sekondi
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'GH SHA'
+    name: Shama
+    namewodiacritics: Shama
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'GH SOM'
+    name: Somanya
+    namewodiacritics: Somanya
+    subdiv: EP
+    function: '--3-----'
+    status: RL
+    date: '1207'
+    iata: ''
+    coordinates: '0606N 00010W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GH NYI'
+    name: Sunyani
+    namewodiacritics: Sunyani
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'GH TKD'
+    name: Takoradi
+    namewodiacritics: Takoradi
+    subdiv: ''
+    function: 1--45---
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'GH TML'
+    name: Tamale
+    namewodiacritics: Tamale
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'GH TWA'
+    name: Tarkwa
+    namewodiacritics: Tarkwa
+    subdiv: AH
+    function: '--3-----'
+    status: RL
+    date: '0212'
+    iata: ''
+    coordinates: '0518N 00159W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GH TEM'
+    name: Tema
+    namewodiacritics: Tema
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'GH TES'
+    name: Tesano
+    namewodiacritics: Tesano
+    subdiv: AA
+    function: '-----6--'
+    status: RL
+    date: '1201'
+    iata: ''
+    coordinates: '0536N 00013W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GH WEA'
+    name: Winneba
+    namewodiacritics: Winneba
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''

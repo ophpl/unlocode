@@ -1,0 +1,120 @@
+-
+    ch: ''
+    locode: 'LI BAZ'
+    name: Balzers
+    namewodiacritics: Balzers
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0601'
+    iata: ''
+    coordinates: '4704N 00930E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LI ESC'
+    name: Eschen
+    namewodiacritics: Eschen
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '4712N 00931E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LI GAM'
+    name: Gamprin-Bendern
+    namewodiacritics: Gamprin-Bendern
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '1107'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'LI MAU'
+    name: Mauren
+    namewodiacritics: Mauren
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '1001'
+    iata: ''
+    coordinates: '4713N 00932E'
+    remarks: ''
+-
+    ch: +
+    locode: 'LI PLK'
+    name: Planken
+    namewodiacritics: Planken
+    subdiv: '05'
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '4711N 00932E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LI RGL'
+    name: Ruggell
+    namewodiacritics: Ruggell
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0407'
+    iata: ''
+    coordinates: '4714N 00931E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LI SCN'
+    name: Schaan
+    namewodiacritics: Schaan
+    subdiv: ''
+    function: '-23-----'
+    status: RL
+    date: '0601'
+    iata: ''
+    coordinates: '4710N 00930E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LI SCH'
+    name: Schaanwald
+    namewodiacritics: Schaanwald
+    subdiv: ''
+    function: '--3----B'
+    status: RL
+    date: '0501'
+    iata: ''
+    coordinates: '4713N 00934E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LI TES'
+    name: Triesen
+    namewodiacritics: Triesen
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '9705'
+    iata: QVU
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'LI VDZ'
+    name: Vaduz
+    namewodiacritics: Vaduz
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0201'
+    iata: ''
+    coordinates: '4709N 00932E'
+    remarks: ''

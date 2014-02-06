@@ -1,0 +1,228 @@
+-
+    ch: ''
+    locode: 'AL ARG'
+    name: Argyrokastro
+    namewodiacritics: Argyrokastro
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '1001'
+    iata: ''
+    coordinates: '4007N 02013E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AL BRT'
+    name: Berat
+    namewodiacritics: Berat
+    subdiv: BR
+    function: '--3--6--'
+    status: RL
+    date: '0701'
+    iata: ''
+    coordinates: '4043N 01957E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AL BUT'
+    name: Butrint
+    namewodiacritics: Butrint
+    subdiv: SR
+    function: 1-------
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '3945N 02001E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AL DRZ'
+    name: Durrës
+    namewodiacritics: Durres
+    subdiv: ''
+    function: 1-------
+    status: RL
+    date: '0103'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'AL NPP'
+    name: Elbasan
+    namewodiacritics: Elbasan
+    subdiv: EL
+    function: '-23-----'
+    status: RL
+    date: '1101'
+    iata: ''
+    coordinates: '4106N 02004E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AL FIE'
+    name: Fier
+    namewodiacritics: Fier
+    subdiv: ''
+    function: '-23-----'
+    status: RL
+    date: '0701'
+    iata: ''
+    coordinates: '4044N 01934E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AL FUS'
+    name: 'Fushe Arrez'
+    namewodiacritics: 'Fushe Arrez'
+    subdiv: SH
+    function: '-----6--'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '4203N 02001E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AL GOK'
+    name: Gjirokastër
+    namewodiacritics: Gjirokaster
+    subdiv: GJ
+    function: '--3--6--'
+    status: RL
+    date: '0701'
+    iata: ''
+    coordinates: '4005N 02009E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AL HMR'
+    name: Himare
+    namewodiacritics: Himare
+    subdiv: SR
+    function: 1-------
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '4008N 01943E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AL KRC'
+    name: Korçë
+    namewodiacritics: Korce
+    subdiv: KO
+    function: '--3-----'
+    status: RL
+    date: '0501'
+    iata: ''
+    coordinates: '4037N 02046E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AL KKU'
+    name: Kukes
+    namewodiacritics: Kukes
+    subdiv: KU
+    function: '--3--6--'
+    status: RQ
+    date: '0907'
+    iata: ''
+    coordinates: '4204N 20251E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AL LUS'
+    name: Lushnjë
+    namewodiacritics: Lushnje
+    subdiv: LU
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '4056N 01942E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AL SAR'
+    name: Sarandë
+    namewodiacritics: Sarande
+    subdiv: SR
+    function: 1-------
+    status: RL
+    date: '0212'
+    iata: ''
+    coordinates: '3953N 02000E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AL SHG'
+    name: Shëngjin
+    namewodiacritics: Shengjin
+    subdiv: LE
+    function: 1-------
+    status: RL
+    date: '0212'
+    iata: ''
+    coordinates: '4148N 01934E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AL SHK'
+    name: Shkoder
+    namewodiacritics: Shkoder
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '4204N 01931E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AL SHZ'
+    name: Shkozet
+    namewodiacritics: Shkozet
+    subdiv: KA
+    function: '-----6--'
+    status: RL
+    date: '1201'
+    iata: ''
+    coordinates: '4162N 01934E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AL TEN'
+    name: Tenes
+    namewodiacritics: Tenes
+    subdiv: ''
+    function: 0-------
+    status: RQ
+    date: '8910'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'AL TIA'
+    name: Tirana
+    namewodiacritics: Tirana
+    subdiv: ''
+    function: '---45---'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'AL VOA'
+    name: Vlora
+    namewodiacritics: Vlora
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '8103'
+    iata: ''
+    coordinates: ''
+    remarks: ''

@@ -1,0 +1,5352 @@
+-
+    ch: ''
+    locode: 'PG ABW'
+    name: Abau
+    namewodiacritics: Abau
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: '='
+    locode: PG
+    name: 'Admiralty Island = Manus Island'
+    namewodiacritics: 'Admiralty Island = Manus Island'
+    subdiv: ''
+    function: ''
+    status: ''
+    date: ''
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG AFR'
+    name: Afore
+    namewodiacritics: Afore
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG AUP'
+    name: Agaun
+    namewodiacritics: Agaun
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG AHO'
+    name: Ahioma
+    namewodiacritics: Ahioma
+    subdiv: ''
+    function: 1-------
+    status: RL
+    date: '9811'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG AIA'
+    name: Aiambak
+    namewodiacritics: Aiambak
+    subdiv: WPD
+    function: 1-------
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '0721S 14116E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG AIE'
+    name: Aiome
+    namewodiacritics: Aiome
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG ATP'
+    name: Aitape
+    namewodiacritics: Aitape
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG AYU'
+    name: Aiyura
+    namewodiacritics: Aiyura
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG AKI'
+    name: Akinum
+    namewodiacritics: Akinum
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8311'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG ALC'
+    name: 'Alcester Island'
+    namewodiacritics: 'Alcester Island'
+    subdiv: MBA
+    function: 1-------
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '0934S 15227E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG GUR'
+    name: Alotau
+    namewodiacritics: Alotau
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG AMF'
+    name: Ama
+    namewodiacritics: Ama
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG AMU'
+    name: Amanab
+    namewodiacritics: Amanab
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG AZB'
+    name: 'Amazon Bay'
+    namewodiacritics: 'Amazon Bay'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG AMG'
+    name: Amboin
+    namewodiacritics: Amboin
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG AUJ'
+    name: Ambunti
+    namewodiacritics: Ambunti
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG AMI'
+    name: Amio
+    namewodiacritics: Amio
+    subdiv: EBR
+    function: 1-------
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '0607S 15045E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG ADC'
+    name: Andakombe
+    namewodiacritics: Andakombe
+    subdiv: ''
+    function: '---4----'
+    status: RL
+    date: '0907'
+    iata: ''
+    coordinates: '0708S 14544E'
+    remarks: ''
+-
+    ch: ¦
+    locode: 'PG ANB'
+    name: 'Anewa Bay'
+    namewodiacritics: 'Anewa Bay'
+    subdiv: NSA
+    function: 1-------
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '0612S 15533E'
+    remarks: '@Sub'
+-
+    ch: ''
+    locode: 'PG AGG'
+    name: Angoram
+    namewodiacritics: Angoram
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG AKG'
+    name: Anguganak
+    namewodiacritics: Anguganak
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG AOB'
+    name: Annanberg
+    namewodiacritics: Annanberg
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG APR'
+    name: 'April River'
+    namewodiacritics: 'April River'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG ARP'
+    name: Aragip
+    namewodiacritics: Aragip
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG RAW'
+    name: Arawa
+    namewodiacritics: Arawa
+    subdiv: ''
+    function: '---45---'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: '0613S 15533E'
+    remarks: IMPC
+-
+    ch: ''
+    locode: 'PG AOA'
+    name: Aroa
+    namewodiacritics: Aroa
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG AON'
+    name: Arona
+    namewodiacritics: Arona
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG APP'
+    name: Asapa
+    namewodiacritics: Asapa
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG AEK'
+    name: Aseki
+    namewodiacritics: Aseki
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG ASZ'
+    name: Asirim
+    namewodiacritics: Asirim
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG ABP'
+    name: Atkamba
+    namewodiacritics: Atkamba
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG AUI'
+    name: 'Aua Island'
+    namewodiacritics: 'Aua Island'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG AUV'
+    name: Aumo
+    namewodiacritics: Aumo
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG AWB'
+    name: Awaba
+    namewodiacritics: Awaba
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG AWR'
+    name: Awar
+    namewodiacritics: Awar
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG BAP'
+    name: Baibara
+    namewodiacritics: Baibara
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG VMU'
+    name: Baimuru
+    namewodiacritics: Baimuru
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG BDZ'
+    name: Baindoung
+    namewodiacritics: Baindoung
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG BAJ'
+    name: Bali
+    namewodiacritics: Bali
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG OPU'
+    name: Balimo
+    namewodiacritics: Balimo
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG BCP'
+    name: Bambu
+    namewodiacritics: Bambu
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG BMZ'
+    name: Bamu
+    namewodiacritics: Bamu
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG BNZ'
+    name: Banz
+    namewodiacritics: Banz
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG BPD'
+    name: Bapi
+    namewodiacritics: Bapi
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG BWJ'
+    name: Bawan
+    namewodiacritics: Bawan
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG BSP'
+    name: Bensbach
+    namewodiacritics: Bensbach
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG BEA'
+    name: Bereina
+    namewodiacritics: Bereina
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG BWP'
+    name: Bewani
+    namewodiacritics: Bewani
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG BAA'
+    name: Bialla
+    namewodiacritics: Bialla
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG BPK'
+    name: Biangabip
+    namewodiacritics: Biangabip
+    subdiv: ''
+    function: '---4----'
+    status: RL
+    date: '0907'
+    iata: ''
+    coordinates: '0604S 14456E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG BRP'
+    name: Biaru
+    namewodiacritics: Biaru
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG BIJ'
+    name: Biliau
+    namewodiacritics: Biliau
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG BIZ'
+    name: Bimin
+    namewodiacritics: Bimin
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG XBN'
+    name: Biniguni
+    namewodiacritics: Biniguni
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG BNV'
+    name: Boana
+    namewodiacritics: Boana
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG BOV'
+    name: Boang
+    namewodiacritics: Boang
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG BNM'
+    name: Bodinumu
+    namewodiacritics: Bodinumu
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG BOI'
+    name: 'Boigu Island'
+    namewodiacritics: 'Boigu Island'
+    subdiv: WPD
+    function: 1-------
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '0916S 14213E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG BOQ'
+    name: Boku
+    namewodiacritics: Boku
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG BVP'
+    name: Bolovip
+    namewodiacritics: Bolovip
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG BMH'
+    name: Bomai
+    namewodiacritics: Bomai
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG BPB'
+    name: Boridi
+    namewodiacritics: Boridi
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG BOR'
+    name: Boroko
+    namewodiacritics: Boroko
+    subdiv: ''
+    function: 1---5---
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG BOT'
+    name: Boset
+    namewodiacritics: Boset
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG BRH'
+    name: Brahman
+    namewodiacritics: Brahman
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG UBI'
+    name: Buin
+    namewodiacritics: Buin
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG BUA'
+    name: Buka
+    namewodiacritics: Buka
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG BUL'
+    name: Bulolo
+    namewodiacritics: Bulolo
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG BNA'
+    name: Buna
+    namewodiacritics: Buna
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8311'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG BNT'
+    name: Bundi
+    namewodiacritics: Bundi
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG BXZ'
+    name: Bunsil
+    namewodiacritics: Bunsil
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG CGC'
+    name: 'Cape Gloucester'
+    namewodiacritics: 'Cape Gloucester'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG CPI'
+    name: 'Cape Orford'
+    namewodiacritics: 'Cape Orford'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG CPN'
+    name: 'Cape Rodney'
+    namewodiacritics: 'Cape Rodney'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG CVL'
+    name: 'Cape Vogel'
+    namewodiacritics: 'Cape Vogel'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG CVB'
+    name: Chungribu
+    namewodiacritics: Chungribu
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG CFG'
+    name: 'Conflict Group'
+    namewodiacritics: 'Conflict Group'
+    subdiv: MBA
+    function: 1-------
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '1047S 15148E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG DAO'
+    name: Dabo
+    namewodiacritics: Dabo
+    subdiv: ''
+    function: '---4----'
+    status: RQ
+    date: '0907'
+    iata: ''
+    coordinates: '1308N 04210E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG DLB'
+    name: Dalbertis
+    namewodiacritics: Dalbertis
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG DAU'
+    name: Daru
+    namewodiacritics: Daru
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG DGG'
+    name: Daugo
+    namewodiacritics: Daugo
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG DAF'
+    name: Daup
+    namewodiacritics: Daup
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG DBP'
+    name: Debepare
+    namewodiacritics: Debepare
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG DBL'
+    name: 'Deboyne Lagoon'
+    namewodiacritics: 'Deboyne Lagoon'
+    subdiv: MBA
+    function: 1-------
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '1047S 15224E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG DER'
+    name: Derim
+    namewodiacritics: Derim
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG DNU'
+    name: Dinangat
+    namewodiacritics: Dinangat
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG DOS'
+    name: Dios
+    namewodiacritics: Dios
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG DDM'
+    name: Dodoima
+    namewodiacritics: Dodoima
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG DOI'
+    name: Doini
+    namewodiacritics: Doini
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG DOO'
+    name: Dorobisoro
+    namewodiacritics: Dorobisoro
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG DPU'
+    name: Dumpu
+    namewodiacritics: Dumpu
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG EFG'
+    name: Efogi
+    namewodiacritics: Efogi
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG EIA'
+    name: Eia
+    namewodiacritics: Eia
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG EPT'
+    name: Eliptamin
+    namewodiacritics: Eliptamin
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG EMS'
+    name: Embessa
+    namewodiacritics: Embessa
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG EMI'
+    name: Emirau
+    namewodiacritics: Emirau
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG EMO'
+    name: Emo
+    namewodiacritics: Emo
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG EGA'
+    name: Engati
+    namewodiacritics: Engati
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG ERE'
+    name: Erave
+    namewodiacritics: Erave
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG ERU'
+    name: Erume
+    namewodiacritics: Erume
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG ESA'
+    name: 'Esa''ala'
+    namewodiacritics: 'Esa''ala'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG FNE'
+    name: Fane
+    namewodiacritics: Fane
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG FRQ'
+    name: Feramin
+    namewodiacritics: Feramin
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG FIN'
+    name: Finschhafen
+    namewodiacritics: Finschhafen
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG FAQ'
+    name: 'Freida River'
+    namewodiacritics: 'Freida River'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG FUB'
+    name: Fulleborn
+    namewodiacritics: Fulleborn
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG FUM'
+    name: Fuma
+    namewodiacritics: Fuma
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG GAR'
+    name: Garaina
+    namewodiacritics: Garaina
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG GRL'
+    name: Garasa
+    namewodiacritics: Garasa
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG GRH'
+    name: Garuahi
+    namewodiacritics: Garuahi
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG GMI'
+    name: 'Gasmata Island'
+    namewodiacritics: 'Gasmata Island'
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG GBC'
+    name: Gasuke
+    namewodiacritics: Gasuke
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG GAW'
+    name: 'Gawa Island'
+    namewodiacritics: 'Gawa Island'
+    subdiv: MBA
+    function: 1-------
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '0858S 15159E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG GEW'
+    name: Gewoia
+    namewodiacritics: Gewoia
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG GIL'
+    name: Gilau
+    namewodiacritics: Gilau
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8311'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG GWN'
+    name: Gnarowein
+    namewodiacritics: Gnarowein
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG GOE'
+    name: Gonalia
+    namewodiacritics: Gonalia
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG GOC'
+    name: Gora
+    namewodiacritics: Gora
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG GKA'
+    name: Goroka
+    namewodiacritics: Goroka
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG GEI'
+    name: 'Green Islands'
+    namewodiacritics: 'Green Islands'
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG GVI'
+    name: 'Green River'
+    namewodiacritics: 'Green River'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG GUG'
+    name: Guari
+    namewodiacritics: Guari
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG GAZ'
+    name: Guasopa
+    namewodiacritics: Guasopa
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG GLP'
+    name: Gulgubip
+    namewodiacritics: Gulgubip
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG GUE'
+    name: Guriaso
+    namewodiacritics: Guriaso
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG GAP'
+    name: Gusap
+    namewodiacritics: Gusap
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG HBD'
+    name: Habi
+    namewodiacritics: Habi
+    subdiv: ''
+    function: '---4----'
+    status: RL
+    date: '0907'
+    iata: ''
+    coordinates: '0617S 14522E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG HEO'
+    name: Haelogo
+    namewodiacritics: Haelogo
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG HAZ'
+    name: Hatzfeldthaven
+    namewodiacritics: Hatzfeldthaven
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG HWA'
+    name: Hawabango
+    namewodiacritics: Hawabango
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG HYF'
+    name: Hayfields
+    namewodiacritics: Hayfields
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG HNI'
+    name: Heiweni
+    namewodiacritics: Heiweni
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG HIT'
+    name: Hivaro
+    namewodiacritics: Hivaro
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG HNN'
+    name: Honinabi
+    namewodiacritics: Honinabi
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG HKN'
+    name: Hoskins
+    namewodiacritics: Hoskins
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG IMA'
+    name: Iamalele
+    namewodiacritics: Iamalele
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG IAU'
+    name: Iaura
+    namewodiacritics: Iaura
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG IBI'
+    name: Iboki
+    namewodiacritics: Iboki
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG IHU'
+    name: Ihu
+    namewodiacritics: Ihu
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG ILX'
+    name: Ileg
+    namewodiacritics: Ileg
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG IMN'
+    name: Imane
+    namewodiacritics: Imane
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG IMD'
+    name: Imonda
+    namewodiacritics: Imonda
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG IDN'
+    name: Indagen
+    namewodiacritics: Indagen
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG IUS'
+    name: Inus
+    namewodiacritics: Inus
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG IOK'
+    name: Iokea
+    namewodiacritics: Iokea
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG IOP'
+    name: Ioma
+    namewodiacritics: Ioma
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG ITK'
+    name: Itogama
+    namewodiacritics: Itogama
+    subdiv: ''
+    function: '--34----'
+    status: AI
+    date: '0207'
+    iata: ''
+    coordinates: '0911S 14815E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG JAC'
+    name: Jacksons
+    namewodiacritics: Jacksons
+    subdiv: ''
+    function: '----5---'
+    status: AI
+    date: '9805'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG JAQ'
+    name: 'Jacquinot Bay'
+    namewodiacritics: 'Jacquinot Bay'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG JOP'
+    name: Josephstaal
+    namewodiacritics: Josephstaal
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG KBM'
+    name: Kabwum
+    namewodiacritics: Kabwum
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG KGW'
+    name: Kagi
+    namewodiacritics: Kagi
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG AGK'
+    name: Kagua
+    namewodiacritics: Kagua
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG KIA'
+    name: Kaiapit
+    namewodiacritics: Kaiapit
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG KAI'
+    name: Kaibola
+    namewodiacritics: Kaibola
+    subdiv: MBA
+    function: 1-------
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '0825S 15106E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG KZF'
+    name: Kaintiba
+    namewodiacritics: Kaintiba
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG KRK'
+    name: Kairuku
+    namewodiacritics: Kairuku
+    subdiv: CPM
+    function: 1-3-----
+    status: RL
+    date: '0401'
+    iata: ''
+    coordinates: '0850N 14632E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG KPP'
+    name: Kakapo
+    namewodiacritics: Kakapo
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8311'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG KLO'
+    name: Kalo
+    namewodiacritics: Kalo
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8311'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG KDQ'
+    name: Kamberatoro
+    namewodiacritics: Kamberatoro
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG KMF'
+    name: Kamina
+    namewodiacritics: Kamina
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG KJU'
+    name: Kamiraba
+    namewodiacritics: Kamiraba
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG KAQ'
+    name: Kamulai
+    namewodiacritics: Kamulai
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG KUY'
+    name: Kamusi
+    namewodiacritics: Kamusi
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG KEX'
+    name: Kanabea
+    namewodiacritics: Kanabea
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG KNE'
+    name: Kanainj
+    namewodiacritics: Kanainj
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG KDP'
+    name: Kandep
+    namewodiacritics: Kandep
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG KDR'
+    name: Kandrian
+    namewodiacritics: Kandrian
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG KTK'
+    name: Kanua
+    namewodiacritics: Kanua
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG KPL'
+    name: Kapal
+    namewodiacritics: Kapal
+    subdiv: ''
+    function: '---4----'
+    status: RL
+    date: '0907'
+    iata: ''
+    coordinates: '0838S 14251E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG KAK'
+    name: Kar
+    namewodiacritics: Kar
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG KAF'
+    name: Karato
+    namewodiacritics: Karato
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG KRJ'
+    name: Karawari
+    namewodiacritics: Karawari
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG KMR'
+    name: Karimui
+    namewodiacritics: Karimui
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG KRX'
+    name: 'Karkar Is'
+    namewodiacritics: 'Karkar Is'
+    subdiv: ''
+    function: 1-34----
+    status: AI
+    date: '0207'
+    iata: ''
+    coordinates: '0438S 14558E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG KXR'
+    name: Karoola
+    namewodiacritics: Karoola
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG KSB'
+    name: Kasanombe
+    namewodiacritics: Kasanombe
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG KVG'
+    name: Kavieng
+    namewodiacritics: Kavieng
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG KWO'
+    name: Kawito
+    namewodiacritics: Kawito
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG KEG'
+    name: Keglsugl
+    namewodiacritics: Keglsugl
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG KNL'
+    name: Kelanoa
+    namewodiacritics: Kelanoa
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG KRU'
+    name: Kerau
+    namewodiacritics: Kerau
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG KMA'
+    name: Kerema
+    namewodiacritics: Kerema
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG KII'
+    name: Kibuli
+    namewodiacritics: Kibuli
+    subdiv: ''
+    function: '---4----'
+    status: RL
+    date: '0907'
+    iata: ''
+    coordinates: '0853S 14247E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG KIE'
+    name: Kieta
+    namewodiacritics: Kieta
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG KIZ'
+    name: Kikinonda
+    namewodiacritics: Kikinonda
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG KRI'
+    name: Kikori
+    namewodiacritics: Kikori
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG KIM'
+    name: Kimbe
+    namewodiacritics: Kimbe
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8311'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG KIQ'
+    name: Kira
+    namewodiacritics: Kira
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG KSG'
+    name: Kisengan
+    namewodiacritics: Kisengan
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG KVE'
+    name: Kitava
+    namewodiacritics: Kitava
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG UNG'
+    name: Kiunga
+    namewodiacritics: Kiunga
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG KWX'
+    name: 'Kiwai Island'
+    namewodiacritics: 'Kiwai Island'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG KMB'
+    name: Koinambe
+    namewodiacritics: Koinambe
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG KKD'
+    name: Kokoda
+    namewodiacritics: Kokoda
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG KOR'
+    name: Kokoro
+    namewodiacritics: Kokoro
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG KQL'
+    name: Kol
+    namewodiacritics: Kol
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG KCJ'
+    name: Komaio
+    namewodiacritics: Komaio
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG HOC'
+    name: Komako
+    namewodiacritics: Komako
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG KOM'
+    name: Komo-Manda
+    namewodiacritics: Komo-Manda
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG KPM'
+    name: Kompiam
+    namewodiacritics: Kompiam
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG KPF'
+    name: Kondubol
+    namewodiacritics: Kondubol
+    subdiv: ''
+    function: '---4----'
+    status: RL
+    date: '0907'
+    iata: ''
+    coordinates: '1012S 14942E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG KGB'
+    name: Konge
+    namewodiacritics: Konge
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG KOP'
+    name: Kopi
+    namewodiacritics: Kopi
+    subdiv: GPK
+    function: 1-------
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '0718S 14411E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG KPA'
+    name: Kopiago
+    namewodiacritics: Kopiago
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG KDE'
+    name: Koroba
+    namewodiacritics: Koroba
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG KSP'
+    name: Kosipe
+    namewodiacritics: Kosipe
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG KUL'
+    name: Kumul
+    namewodiacritics: Kumul
+    subdiv: ''
+    function: 1-----7-
+    status: RL
+    date: '0207'
+    iata: ''
+    coordinates: '0806S 14434E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG CMU'
+    name: Kundiawa
+    namewodiacritics: Kundiawa
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG KGM'
+    name: Kungum
+    namewodiacritics: Kungum
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG KUP'
+    name: Kupiano
+    namewodiacritics: Kupiano
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG KUQ'
+    name: Kuri
+    namewodiacritics: Kuri
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG KWV'
+    name: Kurwina
+    namewodiacritics: Kurwina
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG KUX'
+    name: Kuyol
+    namewodiacritics: Kuyol
+    subdiv: ''
+    function: '---4----'
+    status: RL
+    date: '0907'
+    iata: ''
+    coordinates: '3829N 12602E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG LAB'
+    name: Lablab
+    namewodiacritics: Lablab
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG LAE'
+    name: Lae
+    namewodiacritics: Lae
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG LGM'
+    name: Laiagam
+    namewodiacritics: Laiagam
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG LMY'
+    name: 'Lake Murray'
+    namewodiacritics: 'Lake Murray'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG LAK'
+    name: Lakuramau
+    namewodiacritics: Lakuramau
+    subdiv: NIK
+    function: 1-------
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '0253S 15115E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG LMG'
+    name: Lamassa
+    namewodiacritics: Lamassa
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG LAM'
+    name: 'Lambom Island'
+    namewodiacritics: 'Lambom Island'
+    subdiv: NIK
+    function: 1-------
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '0448S 15250E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG LNM'
+    name: Langimar
+    namewodiacritics: Langimar
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG LLA'
+    name: 'Laughlan Atoll'
+    namewodiacritics: 'Laughlan Atoll'
+    subdiv: MBA
+    function: 1-------
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '0917S 15340E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG LHP'
+    name: Lehu
+    namewodiacritics: Lehu
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG LTF'
+    name: Leitre
+    namewodiacritics: Leitre
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG LNC'
+    name: Lengbati
+    namewodiacritics: Lengbati
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG LPN'
+    name: 'Leron Plains'
+    namewodiacritics: 'Leron Plains'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG LNG'
+    name: Lese
+    namewodiacritics: Lese
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG LNV'
+    name: 'Lihir Island'
+    namewodiacritics: 'Lihir Island'
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '9701'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG LGN'
+    name: 'Linga Linga'
+    namewodiacritics: 'Linga Linga'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG LNQ'
+    name: Loani
+    namewodiacritics: Loani
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG LOL'
+    name: Loloho
+    namewodiacritics: Loloho
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8311'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG LOM'
+    name: Lombrum
+    namewodiacritics: Lombrum
+    subdiv: MRL
+    function: 1-------
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '0202S 14722E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG LDT'
+    name: Londolovit
+    namewodiacritics: Londolovit
+    subdiv: ''
+    function: 1-3-----
+    status: RL
+    date: '0201'
+    iata: ''
+    coordinates: '0304S 15237E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG LSJ'
+    name: 'Long Island'
+    namewodiacritics: 'Long Island'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG LOR'
+    name: 'Lorengau, Manus Island'
+    namewodiacritics: 'Lorengau, Manus Island'
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8311'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG LSA'
+    name: Losuia
+    namewodiacritics: Losuia
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG LWI'
+    name: Lowai
+    namewodiacritics: Lowai
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG LMI'
+    name: Lumi
+    namewodiacritics: Lumi
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG MAG'
+    name: Madang
+    namewodiacritics: Madang
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG MPG'
+    name: Makini
+    namewodiacritics: Makini
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG MMV'
+    name: Mal
+    namewodiacritics: Mal
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG MLQ'
+    name: Malalaua
+    namewodiacritics: Malalaua
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG MQO'
+    name: Malam
+    namewodiacritics: Malam
+    subdiv: ''
+    function: '---4----'
+    status: RL
+    date: '0907'
+    iata: ''
+    coordinates: '0843S 14239E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG MKN'
+    name: Malekolon
+    namewodiacritics: Malekolon
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG MAP'
+    name: Mamai
+    namewodiacritics: Mamai
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG MAM'
+    name: 'Manam Island'
+    namewodiacritics: 'Manam Island'
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8311'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG MRM'
+    name: Manare
+    namewodiacritics: Manare
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG MAN'
+    name: Manda
+    namewodiacritics: Manda
+    subdiv: ''
+    function: '--34----'
+    status: RL
+    date: '0207'
+    iata: KOM
+    coordinates: '0700S 14109E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG MVI'
+    name: Manetai
+    namewodiacritics: Manetai
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG MGP'
+    name: Manga
+    namewodiacritics: Manga
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG MFO'
+    name: Manguna
+    namewodiacritics: Manguna
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG UUU'
+    name: Manumu
+    namewodiacritics: Manumu
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG MAS'
+    name: 'Manus Island'
+    namewodiacritics: 'Manus Island'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG MPF'
+    name: Mapoda
+    namewodiacritics: Mapoda
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG MPU'
+    name: Mapua
+    namewodiacritics: Mapua
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG MWI'
+    name: Maramuni
+    namewodiacritics: Maramuni
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG MWG'
+    name: Marawaka
+    namewodiacritics: Marawaka
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG MGG'
+    name: Margarima
+    namewodiacritics: Margarima
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG MNP'
+    name: Maron
+    namewodiacritics: Maron
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG MBV'
+    name: Masa
+    namewodiacritics: Masa
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG MRH'
+    name: 'May River'
+    namewodiacritics: 'May River'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG MDU'
+    name: Mendi
+    namewodiacritics: Mendi
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG MYX'
+    name: Menyamya
+    namewodiacritics: Menyamya
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG MFZ'
+    name: Mesalia
+    namewodiacritics: Mesalia
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG MIE'
+    name: Mielelek
+    namewodiacritics: Mielelek
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8311'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG MXK'
+    name: Mindik
+    namewodiacritics: Mindik
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG MZN'
+    name: Minj
+    namewodiacritics: Minj
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG MIS'
+    name: 'Misima Island'
+    namewodiacritics: 'Misima Island'
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG MPX'
+    name: Miyanmin
+    namewodiacritics: Miyanmin
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG MJJ'
+    name: Moki
+    namewodiacritics: Moki
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG MHY'
+    name: Morehead
+    namewodiacritics: Morehead
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG MXH'
+    name: Moro
+    namewodiacritics: Moro
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG OBM'
+    name: Morobe
+    namewodiacritics: Morobe
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG MTK'
+    name: 'Motukea Island'
+    namewodiacritics: 'Motukea Island'
+    subdiv: NCD
+    function: 1-------
+    status: RL
+    date: '1201'
+    iata: ''
+    coordinates: '0926S 14706E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG GUV'
+    name: Mougulu
+    namewodiacritics: Mougulu
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG UAE'
+    name: 'Mount Aue'
+    namewodiacritics: 'Mount Aue'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG HGU'
+    name: 'Mount Hagen'
+    namewodiacritics: 'Mount Hagen'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG LNF'
+    name: Munbil
+    namewodiacritics: Munbil
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG MDM'
+    name: Munduku
+    namewodiacritics: Munduku
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG MWU'
+    name: Mussau
+    namewodiacritics: Mussau
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG NDN'
+    name: Nadunumu
+    namewodiacritics: Nadunumu
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG ATN'
+    name: Namatanai
+    namewodiacritics: Namatanai
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG NBA'
+    name: Nambaiyufa
+    namewodiacritics: Nambaiyufa
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG NDI'
+    name: Namudi
+    namewodiacritics: Namudi
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG NKN'
+    name: Nankina
+    namewodiacritics: Nankina
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG NOO'
+    name: Naoro
+    namewodiacritics: Naoro
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG NAP'
+    name: 'Napa Napa'
+    namewodiacritics: 'Napa Napa'
+    subdiv: NCD
+    function: 1-------
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '0927S 14707E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG GBF'
+    name: Negarbo
+    namewodiacritics: Negarbo
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG NGR'
+    name: Ningerum
+    namewodiacritics: Ningerum
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG NPG'
+    name: Nipa
+    namewodiacritics: Nipa
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG IIS'
+    name: 'Nissan Island'
+    namewodiacritics: 'Nissan Island'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG NOM'
+    name: 'Nomad River'
+    namewodiacritics: 'Nomad River'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG NMN'
+    name: Nomane
+    namewodiacritics: Nomane
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG NWT'
+    name: Nowata
+    namewodiacritics: Nowata
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG NUG'
+    name: Nuguria
+    namewodiacritics: Nuguria
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG UKU'
+    name: Nuku
+    namewodiacritics: Nuku
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG NUT'
+    name: Nutuve
+    namewodiacritics: Nutuve
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG OBX'
+    name: Obo
+    namewodiacritics: Obo
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG OGE'
+    name: Ogeranang
+    namewodiacritics: Ogeranang
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG OKV'
+    name: Okao
+    namewodiacritics: Okao
+    subdiv: ''
+    function: '---4----'
+    status: RL
+    date: '0907'
+    iata: ''
+    coordinates: '0355S 11612E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG OKP'
+    name: Oksapmin
+    namewodiacritics: Oksapmin
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG OLQ'
+    name: Olsobip
+    namewodiacritics: Olsobip
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG OML'
+    name: Omkalai
+    namewodiacritics: Omkalai
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG OSE'
+    name: Omora
+    namewodiacritics: Omora
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG ONB'
+    name: Ononge
+    namewodiacritics: Ononge
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG OPB'
+    name: 'Open Bay'
+    namewodiacritics: 'Open Bay'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG RAX'
+    name: Oram
+    namewodiacritics: Oram
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG OTY'
+    name: Oria
+    namewodiacritics: Oria
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG ROR'
+    name: Orobay
+    namewodiacritics: Orobay
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8311'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG OSG'
+    name: Ossima
+    namewodiacritics: Ossima
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG PLE'
+    name: Paiela
+    namewodiacritics: Paiela
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG PAW'
+    name: Pambwa
+    namewodiacritics: Pambwa
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG PGN'
+    name: Pangia
+    namewodiacritics: Pangia
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG PGB'
+    name: Pangoa
+    namewodiacritics: Pangoa
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG PPX'
+    name: Param
+    namewodiacritics: Param
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG PMP'
+    name: Pimaga
+    namewodiacritics: Pimaga
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG PDI'
+    name: Pindiu
+    namewodiacritics: Pindiu
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG PDO'
+    name: 'Pondo Harbour'
+    namewodiacritics: 'Pondo Harbour'
+    subdiv: EBR
+    function: 1-------
+    status: RL
+    date: '0401'
+    iata: ''
+    coordinates: '0434S 15137E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG PNP'
+    name: Popondetta
+    namewodiacritics: Popondetta
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG RGE'
+    name: Porgera
+    namewodiacritics: Porgera
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG POM'
+    name: 'Port Moresby'
+    namewodiacritics: 'Port Moresby'
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG PUA'
+    name: Puas
+    namewodiacritics: Puas
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG PMN'
+    name: Pumani
+    namewodiacritics: Pumani
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG PUI'
+    name: Pureni
+    namewodiacritics: Pureni
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG RBP'
+    name: Rabaraba
+    namewodiacritics: Rabaraba
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG RAB'
+    name: Rabaul
+    namewodiacritics: Rabaul
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG RAA'
+    name: Rakanda
+    namewodiacritics: Rakanda
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG RAM'
+    name: 'Rambutyo Island'
+    namewodiacritics: 'Rambutyo Island'
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8311'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG RNR'
+    name: 'Robinson River'
+    namewodiacritics: 'Robinson River'
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG RMN'
+    name: Rumginae
+    namewodiacritics: Rumginae
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG RVI'
+    name: 'Russel Island'
+    namewodiacritics: 'Russel Island'
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8311'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG RUU'
+    name: Ruti
+    namewodiacritics: Ruti
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG SBV'
+    name: Sabah
+    namewodiacritics: Sabah
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG SFU'
+    name: Safia
+    namewodiacritics: Safia
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG SGJ'
+    name: Sagarai
+    namewodiacritics: Sagarai
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG SAI'
+    name: Saibai
+    namewodiacritics: Saibai
+    subdiv: WPD
+    function: 1-------
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '0923S 14237E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG SDI'
+    name: Saidor
+    namewodiacritics: Saidor
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG SMU'
+    name: Salamaua
+    namewodiacritics: Salamaua
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8311'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG SAM'
+    name: Salamo
+    namewodiacritics: Salamo
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG SQT'
+    name: Samarai
+    namewodiacritics: Samarai
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: '1038S 15038E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG SGK'
+    name: Sangapi
+    namewodiacritics: Sangapi
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG SMH'
+    name: Sapmanga
+    namewodiacritics: Sapmanga
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG SWG'
+    name: Satwag
+    namewodiacritics: Satwag
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG SXW'
+    name: Sauren
+    namewodiacritics: Sauren
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG SCH'
+    name: Schauten
+    namewodiacritics: Schauten
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8311'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG SXH'
+    name: Sehulea
+    namewodiacritics: Sehulea
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG SBC'
+    name: Selbang
+    namewodiacritics: Selbang
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG SPV'
+    name: 'Sepik Plains'
+    namewodiacritics: 'Sepik Plains'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG SXA'
+    name: Sialum
+    namewodiacritics: Sialum
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG SSS'
+    name: Siassi
+    namewodiacritics: Siassi
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG SIL'
+    name: Sila
+    namewodiacritics: Sila
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG SWR'
+    name: Silur
+    namewodiacritics: Silur
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG SMJ'
+    name: Sim
+    namewodiacritics: Sim
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG SIM'
+    name: Simbai
+    namewodiacritics: Simbai
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG NIS'
+    name: 'Simberi Island'
+    namewodiacritics: 'Simberi Island'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG SGB'
+    name: Singaua
+    namewodiacritics: Singaua
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG SPL'
+    name: Sipul
+    namewodiacritics: Sipul
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8311'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG SIZ'
+    name: Sissano
+    namewodiacritics: Sissano
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG SWE'
+    name: Siwea
+    namewodiacritics: Siwea
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG SOI'
+    name: 'Sokar Island'
+    namewodiacritics: 'Sokar Island'
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8311'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG SPH'
+    name: Sopu
+    namewodiacritics: Sopu
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG SMP'
+    name: Stockholm
+    namewodiacritics: Stockholm
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG SBE'
+    name: Suabi
+    namewodiacritics: Suabi
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG SKC'
+    name: Suki
+    namewodiacritics: Suki
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG ULE'
+    name: Sule
+    namewodiacritics: Sule
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG SUZ'
+    name: Suria
+    namewodiacritics: Suria
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG TBA'
+    name: Tabibuga
+    namewodiacritics: Tabibuga
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG TBG'
+    name: Tabubil
+    namewodiacritics: Tabubil
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG TGL'
+    name: Tagula
+    namewodiacritics: Tagula
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG TLW'
+    name: Talasea
+    namewodiacritics: Talasea
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG TAM'
+    name: Tambanum
+    namewodiacritics: Tambanum
+    subdiv: ESW
+    function: 1-------
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '0412S 14336E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG TAI'
+    name: 'Tambutyo Island'
+    namewodiacritics: 'Tambutyo Island'
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8311'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG TMI'
+    name: 'Tami Island'
+    namewodiacritics: 'Tami Island'
+    subdiv: MPL
+    function: 1-------
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '0646S 14754E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG TPI'
+    name: Tapini
+    namewodiacritics: Tapini
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG TBQ'
+    name: Tarabo
+    namewodiacritics: Tarabo
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG TRJ'
+    name: Tarakbits
+    namewodiacritics: Tarakbits
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG TIZ'
+    name: Tari
+    namewodiacritics: Tari
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG TSK'
+    name: Taskul
+    namewodiacritics: Taskul
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG TAU'
+    name: 'Taugu Island'
+    namewodiacritics: 'Taugu Island'
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8311'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG TUT'
+    name: Tauta
+    namewodiacritics: Tauta
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG TWY'
+    name: Tawa
+    namewodiacritics: Tawa
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG TKB'
+    name: Tekadu
+    namewodiacritics: Tekadu
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG TKW'
+    name: Tekin
+    namewodiacritics: Tekin
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG TFM'
+    name: Telefomin
+    namewodiacritics: Telefomin
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG TEP'
+    name: Teptep
+    namewodiacritics: Teptep
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG TEO'
+    name: Terapo
+    namewodiacritics: Terapo
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG TDB'
+    name: Tetebedi
+    namewodiacritics: Tetebedi
+    subdiv: ''
+    function: '--34----'
+    status: AI
+    date: '0207'
+    iata: ''
+    coordinates: '0909S 14803E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG TFA'
+    name: Tilfalmin
+    namewodiacritics: Tilfalmin
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG TBE'
+    name: Timbunke
+    namewodiacritics: Timbunke
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG TCK'
+    name: Tinboli
+    namewodiacritics: Tinboli
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG TIG'
+    name: Tingwon
+    namewodiacritics: Tingwon
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG TLO'
+    name: Tol
+    namewodiacritics: Tol
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG TOI'
+    name: 'Tolokiwa Island'
+    namewodiacritics: 'Tolokiwa Island'
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8311'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG TON'
+    name: Tonu
+    namewodiacritics: Tonu
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG TCJ'
+    name: Torembi
+    namewodiacritics: Torembi
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG TOK'
+    name: Torokina
+    namewodiacritics: Torokina
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG TSW'
+    name: Tsewi
+    namewodiacritics: Tsewi
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG TSI'
+    name: 'Tsili Tsili'
+    namewodiacritics: 'Tsili Tsili'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG TFI'
+    name: Tufi
+    namewodiacritics: Tufi
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG TLP'
+    name: Tumolbil
+    namewodiacritics: Tumolbil
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG ULA'
+    name: Ulamona
+    namewodiacritics: Ulamona
+    subdiv: WBK
+    function: 1-------
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '0500S 15115E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG UMC'
+    name: Umba
+    namewodiacritics: Umba
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG UPR'
+    name: Upiara
+    namewodiacritics: Upiara
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG URU'
+    name: Uroubi
+    namewodiacritics: Uroubi
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG USO'
+    name: Usino
+    namewodiacritics: Usino
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG UVO'
+    name: Uvol
+    namewodiacritics: Uvol
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG VLA'
+    name: Vailala
+    namewodiacritics: Vailala
+    subdiv: GPK
+    function: 1-3-----
+    status: RL
+    date: '0401'
+    iata: ''
+    coordinates: '0757S 14527E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG VAI'
+    name: Vanimo
+    namewodiacritics: Vanimo
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG VIV'
+    name: Vivigani
+    namewodiacritics: Vivigani
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG WAB'
+    name: Wabag
+    namewodiacritics: Wabag
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG WAO'
+    name: Wabo
+    namewodiacritics: Wabo
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG WGU'
+    name: Wagau
+    namewodiacritics: Wagau
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG WKN'
+    name: Wakunai
+    namewodiacritics: Wakunai
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG AGL'
+    name: Wanigela
+    namewodiacritics: Wanigela
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG WTT'
+    name: Wantoat
+    namewodiacritics: Wantoat
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG WNU'
+    name: Wanuma
+    namewodiacritics: Wanuma
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG WBM'
+    name: Wapenamanda
+    namewodiacritics: Wapenamanda
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG WBC'
+    name: Wapolu
+    namewodiacritics: Wapolu
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG WSU'
+    name: Wasu
+    namewodiacritics: Wasu
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG WSA'
+    name: Wasua
+    namewodiacritics: Wasua
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG WUM'
+    name: Wasum
+    namewodiacritics: Wasum
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG WAT'
+    name: Watabung
+    namewodiacritics: Watabung
+    subdiv: EHG
+    function: 1-3-----
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '0605S 14513E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG WUG'
+    name: Wau
+    namewodiacritics: Wau
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG WAJ'
+    name: 'Wawoi Falls'
+    namewodiacritics: 'Wawoi Falls'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG WEP'
+    name: Weam
+    namewodiacritics: Weam
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG WED'
+    name: Wedau
+    namewodiacritics: Wedau
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG WWK'
+    name: Wewak
+    namewodiacritics: Wewak
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG WPM'
+    name: Wipim
+    namewodiacritics: Wipim
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG WIU'
+    name: Witu
+    namewodiacritics: Witu
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG WTP'
+    name: Woitape
+    namewodiacritics: Woitape
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG WOA'
+    name: Wonenara
+    namewodiacritics: Wonenara
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG WOK'
+    name: Woodlark
+    namewodiacritics: Woodlark
+    subdiv: ''
+    function: 1-------
+    status: QQ
+    date: '8311'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG WUV'
+    name: 'Wuvulu Is'
+    namewodiacritics: 'Wuvulu Is'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG KYX'
+    name: Yalumet
+    namewodiacritics: Yalumet
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG KPE'
+    name: Yapsiei
+    namewodiacritics: Yapsiei
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG KSX'
+    name: Yasuru
+    namewodiacritics: Yasuru
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG PGE'
+    name: Yegepa
+    namewodiacritics: Yegepa
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG XYR'
+    name: 'Yellow River'
+    namewodiacritics: 'Yellow River'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG YEQ'
+    name: Yenkis
+    namewodiacritics: Yenkis
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG YEN'
+    name: Yentchan
+    namewodiacritics: Yentchan
+    subdiv: ESW
+    function: 1-------
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '0408S 14315E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG YVD'
+    name: Yeva
+    namewodiacritics: Yeva
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG KGH'
+    name: Yongai
+    namewodiacritics: Yongai
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG RKU'
+    name: 'Yule Island'
+    namewodiacritics: 'Yule Island'
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG ZEN'
+    name: Zenag
+    namewodiacritics: Zenag
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''

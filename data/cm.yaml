@@ -1,0 +1,456 @@
+-
+    ch: ''
+    locode: 'CM BFX'
+    name: Bafoussam
+    namewodiacritics: Bafoussam
+    subdiv: ''
+    function: '--34----'
+    status: AI
+    date: '9903'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'CM BLC'
+    name: Bali
+    namewodiacritics: Bali
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'CM BPC'
+    name: Bamenda
+    namewodiacritics: Bamenda
+    subdiv: ''
+    function: '---4----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '0556N 01010E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CM OUR'
+    name: Batouri
+    namewodiacritics: Batouri
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'CM BEL'
+    name: Bélabo
+    namewodiacritics: Belabo
+    subdiv: ES
+    function: '-23-----'
+    status: RL
+    date: '0307'
+    iata: ''
+    coordinates: '0456N 01318E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CM BTA'
+    name: Bertoua
+    namewodiacritics: Bertoua
+    subdiv: ''
+    function: '---4----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '0435N 01341E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CM BNB'
+    name: Bonabéri
+    namewodiacritics: Bonaberi
+    subdiv: LT
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '0405N 00939E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CM BUA'
+    name: Buea
+    namewodiacritics: Buea
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '9903'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'CM CMO'
+    name: Campo
+    namewodiacritics: Campo
+    subdiv: ''
+    function: 0-------
+    status: RQ
+    date: '9506'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'CM DLA'
+    name: Douala
+    namewodiacritics: Douala
+    subdiv: ''
+    function: 1--45---
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'CM DSC'
+    name: Dschang
+    namewodiacritics: Dschang
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'CM EBW'
+    name: Ebolowa
+    namewodiacritics: Ebolowa
+    subdiv: ''
+    function: '---4----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'CM EBT'
+    name: 'Ebomé Terminal'
+    namewodiacritics: 'Ebome Terminal'
+    subdiv: ''
+    function: '-23-----'
+    status: RL
+    date: '0212'
+    iata: ''
+    coordinates: '0248N 00949E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CM EDA'
+    name: Edéa
+    namewodiacritics: Edea
+    subdiv: ''
+    function: '-23-----'
+    status: RL
+    date: '0212'
+    iata: ''
+    coordinates: '0346N 01007E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CM FOM'
+    name: Foumban
+    namewodiacritics: Foumban
+    subdiv: ''
+    function: '---4----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '0543N 01055E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CM GOU'
+    name: Garoua
+    namewodiacritics: Garoua
+    subdiv: NO
+    function: 1-34----
+    status: AI
+    date: '1301'
+    iata: ''
+    coordinates: '0918N 01324E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CM GRB'
+    name: 'Garoua Boulaï'
+    namewodiacritics: 'Garoua Boulai'
+    subdiv: ES
+    function: '--3-5---'
+    status: AI
+    date: '1301'
+    iata: ''
+    coordinates: '0553N 01433E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CM KLE'
+    name: Kaele
+    namewodiacritics: Kaele
+    subdiv: ''
+    function: '---4----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '1007N 01426E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CM KOL'
+    name: 'Kole Terminal'
+    namewodiacritics: 'Kole Terminal'
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '9012'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'CM KSI'
+    name: Kousséri
+    namewodiacritics: Kousseri
+    subdiv: EN
+    function: '----5---'
+    status: AI
+    date: '1301'
+    iata: ''
+    coordinates: '1204N 01501E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CM KOB'
+    name: Koutaba
+    namewodiacritics: Koutaba
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'CM KBI'
+    name: Kribi
+    namewodiacritics: Kribi
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'CM KUM'
+    name: Kumba
+    namewodiacritics: Kumba
+    subdiv: SW
+    function: 1----6--
+    status: RL
+    date: '1201'
+    iata: ''
+    coordinates: '0438N 00926E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CM KYE'
+    name: Kye-Ossi
+    namewodiacritics: Kye-Ossi
+    subdiv: SU
+    function: '----5---'
+    status: AI
+    date: '1301'
+    iata: ''
+    coordinates: '0215N 01115E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CM LIM'
+    name: Limbe
+    namewodiacritics: Limbe
+    subdiv: ''
+    function: 123-----
+    status: RL
+    date: '0701'
+    iata: ''
+    coordinates: '0401N 00913E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CM LIT'
+    name: 'Limboh Terminal'
+    namewodiacritics: 'Limboh Terminal'
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '9506'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'CM MMF'
+    name: Mamfe
+    namewodiacritics: Mamfe
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'CM MVR'
+    name: Maroua
+    namewodiacritics: Maroua
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'CM MBA'
+    name: Mbalmayo
+    namewodiacritics: Mbalmayo
+    subdiv: CE
+    function: '--3-----'
+    status: RL
+    date: '0212'
+    iata: ''
+    coordinates: '0331N 01130E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CM MOR'
+    name: Mora
+    namewodiacritics: Mora
+    subdiv: EN
+    function: '----5---'
+    status: AI
+    date: '1301'
+    iata: ''
+    coordinates: '1102N 01408E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CM MOU'
+    name: 'Moudi Terminal'
+    namewodiacritics: 'Moudi Terminal'
+    subdiv: ''
+    function: 1-3-----
+    status: RL
+    date: '0307'
+    iata: ''
+    coordinates: '0407N 00829E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CM NDP'
+    name: Ndop
+    namewodiacritics: Ndop
+    subdiv: NW
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '0600N 01025E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CM NGE'
+    name: Ngaoundéré
+    namewodiacritics: Ngaoundere
+    subdiv: AD
+    function: '-23-----'
+    status: RL
+    date: '0212'
+    iata: ''
+    coordinates: '0719N 01335E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CM NKS'
+    name: Nkongsamba
+    namewodiacritics: Nkongsamba
+    subdiv: ''
+    function: '-234----'
+    status: RL
+    date: '0005'
+    iata: ''
+    coordinates: '0456N 00956E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CM TKC'
+    name: Tiko
+    namewodiacritics: Tiko
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'CM VIC'
+    name: Victoria
+    namewodiacritics: Victoria
+    subdiv: SW
+    function: '--3-----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '0400N 00911E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CM GXX'
+    name: Yagoua
+    namewodiacritics: Yagoua
+    subdiv: ''
+    function: '---4----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '1021N 01514E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CM YAO'
+    name: Yaoundé
+    namewodiacritics: Yaounde
+    subdiv: CE
+    function: '---45---'
+    status: AI
+    date: '1101'
+    iata: NSI
+    coordinates: '0352N 01131E'
+    remarks: ''

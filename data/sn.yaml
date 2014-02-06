@@ -1,0 +1,288 @@
+-
+    ch: ''
+    locode: 'SN BXE'
+    name: Bakel
+    namewodiacritics: Bakel
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SN CSK'
+    name: 'Cap Skiring'
+    namewodiacritics: 'Cap Skiring'
+    subdiv: ZG
+    function: '---4----'
+    status: AI
+    date: '0212'
+    iata: ''
+    coordinates: '1223N 01645W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SN DAG'
+    name: Dagana
+    namewodiacritics: Dagana
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0607'
+    iata: ''
+    coordinates: '1630N 01530W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SN DKR'
+    name: Dakar
+    namewodiacritics: Dakar
+    subdiv: ''
+    function: 1--45---
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SN FOU'
+    name: Foundiougne
+    namewodiacritics: Foundiougne
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '9506'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SN KAH'
+    name: Kahone
+    namewodiacritics: Kahone
+    subdiv: FK
+    function: '--3-----'
+    status: RL
+    date: '0401'
+    iata: ''
+    coordinates: '1409N 01602W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SN KLC'
+    name: Kaolack
+    namewodiacritics: Kaolack
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SN KKY'
+    name: Kayar
+    namewodiacritics: Kayar
+    subdiv: TH
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '1455N 01707W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SN KGG'
+    name: Kedougou
+    namewodiacritics: Kedougou
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SN KDA'
+    name: Kolda
+    namewodiacritics: Kolda
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SN LOU'
+    name: Louga
+    namewodiacritics: Louga
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '0607'
+    iata: ''
+    coordinates: '1536N 01614W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SN LYN'
+    name: Lyndiane
+    namewodiacritics: Lyndiane
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '9506'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SN MAX'
+    name: Matam
+    namewodiacritics: Matam
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SN MBA'
+    name: 'M''bao Terminal'
+    namewodiacritics: 'M''bao Terminal'
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '9506'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SN MBO'
+    name: Mbour
+    namewodiacritics: Mbour
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '0607'
+    iata: ''
+    coordinates: '1425N 01657W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SN NIK'
+    name: 'Niokolo Koba'
+    namewodiacritics: 'Niokolo Koba'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SN POD'
+    name: Podor
+    namewodiacritics: Podor
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SN RDT'
+    name: 'Richard Toll'
+    namewodiacritics: 'Richard Toll'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SN XLS'
+    name: 'Saint Louis'
+    namewodiacritics: 'Saint Louis'
+    subdiv: SL
+    function: 1--4----
+    status: AI
+    date: '1101'
+    iata: ''
+    coordinates: '1602N 01630W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SN SMY'
+    name: Simenti
+    namewodiacritics: Simenti
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SN TUD'
+    name: Tambacounda
+    namewodiacritics: Tambacounda
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SN THI'
+    name: Thiès
+    namewodiacritics: Thies
+    subdiv: ''
+    function: '-23-----'
+    status: RL
+    date: '0307'
+    iata: ''
+    coordinates: '1448N 01656W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SN TOU'
+    name: Touba
+    namewodiacritics: Touba
+    subdiv: DB
+    function: '--3-----'
+    status: RL
+    date: '0401'
+    iata: ''
+    coordinates: '1451N 01553W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SN ZIG'
+    name: Ziguinchor
+    namewodiacritics: Ziguinchor
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''

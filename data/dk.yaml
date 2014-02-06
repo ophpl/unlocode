@@ -1,0 +1,8412 @@
+-
+    ch: ''
+    locode: 'DK AAF'
+    name: Aalbaek
+    namewodiacritics: Aalbaek
+    subdiv: '81'
+    function: '-----6--'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '5735N 01024E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK AAL'
+    name: Aalborg
+    namewodiacritics: Aalborg
+    subdiv: ''
+    function: 12345---
+    status: AF
+    date: '9606'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK ROR'
+    name: 'Aalborg Portland Cementfabrikk'
+    namewodiacritics: 'Aalborg Portland Cementfabrikk'
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '9402'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK AEY'
+    name: Aalestrup
+    namewodiacritics: Aalestrup
+    subdiv: ''
+    function: '-23-----'
+    status: AF
+    date: '9606'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK AAR'
+    name: Aarhus
+    namewodiacritics: Aarhus
+    subdiv: '82'
+    function: 12345---
+    status: AF
+    date: '1301'
+    iata: ''
+    coordinates: '5609N 01013E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK AAE'
+    name: Aarre
+    namewodiacritics: Aarre
+    subdiv: '83'
+    function: '-----6--'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '5534N 00840E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK AZS'
+    name: Aars
+    namewodiacritics: Aars
+    subdiv: ''
+    function: '--3-----'
+    status: AF
+    date: '9606'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK AAP'
+    name: Aarup
+    namewodiacritics: Aarup
+    subdiv: ''
+    function: '-23-----'
+    status: AF
+    date: '9606'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK AAB'
+    name: Åbenrå
+    namewodiacritics: Abenra
+    subdiv: '83'
+    function: 1-3-----
+    status: AF
+    date: '1101'
+    iata: XNR
+    coordinates: '5502N 00926E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK AYB'
+    name: Åbybro
+    namewodiacritics: Abybro
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0212'
+    iata: ''
+    coordinates: '5709N 00945E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK AHJ'
+    name: Åbyhøj/Århus
+    namewodiacritics: Abyhoj/Arhus
+    subdiv: ''
+    function: '-23-----'
+    status: RL
+    date: '0607'
+    iata: ''
+    coordinates: '5608N 01010E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK ARK'
+    name: Ærøskøbing
+    namewodiacritics: Aroskobing
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '9402'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK AED'
+    name: Agedrup
+    namewodiacritics: Agedrup
+    subdiv: '42'
+    function: '--3-----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '5514N 00825E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK AGD'
+    name: Agerbæk
+    namewodiacritics: Agerbak
+    subdiv: '83'
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '5536N 00848E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK AGR'
+    name: Agerskov
+    namewodiacritics: Agerskov
+    subdiv: '82'
+    function: '--3-----'
+    status: RL
+    date: '0907'
+    iata: ''
+    coordinates: '5625N 00919E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK AGO'
+    name: Agersø
+    namewodiacritics: Agerso
+    subdiv: ''
+    function: 1-------
+    status: AI
+    date: '9812'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK AGH'
+    name: 'Agger Havn'
+    namewodiacritics: 'Agger Havn'
+    subdiv: ''
+    function: 1-3-----
+    status: AF
+    date: '9606'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK ASH'
+    name: Aggersund
+    namewodiacritics: Aggersund
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '9402'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK ABT'
+    name: Albertslund
+    namewodiacritics: Albertslund
+    subdiv: ''
+    function: 0-------
+    status: RQ
+    date: '9307'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK ABK'
+    name: Ålebæk
+    namewodiacritics: Alebak
+    subdiv: '81'
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '5701N 01016E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK ALL'
+    name: Allerod
+    namewodiacritics: Allerod
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0212'
+    iata: ''
+    coordinates: '5552N 01223E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK ALV'
+    name: Allerslev
+    namewodiacritics: Allerslev
+    subdiv: '85'
+    function: '--3-----'
+    status: RL
+    date: '0907'
+    iata: ''
+    coordinates: '5505N 01203E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK ASP'
+    name: Allestrup
+    namewodiacritics: Allestrup
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0201'
+    iata: ''
+    coordinates: '5627N 01024E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK ALN'
+    name: Allingåbro
+    namewodiacritics: Allingabro
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK AGE'
+    name: Allinge
+    namewodiacritics: Allinge
+    subdiv: ''
+    function: 1-3-----
+    status: RL
+    date: '0701'
+    iata: ''
+    coordinates: '5516N 01448E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK ALM'
+    name: Almind
+    namewodiacritics: Almind
+    subdiv: '82'
+    function: '--3-----'
+    status: RL
+    date: '0907'
+    iata: ''
+    coordinates: '5622N 00924E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK ALS'
+    name: Ålsgårde
+    namewodiacritics: Alsgarde
+    subdiv: '84'
+    function: '-23-----'
+    status: RL
+    date: '0907'
+    iata: ''
+    coordinates: '5605N 01233E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK ANH'
+    name: Anholt
+    namewodiacritics: Anholt
+    subdiv: ''
+    function: 1-------
+    status: AI
+    date: '9704'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK ANB'
+    name: 'Ans by'
+    namewodiacritics: 'Ans by'
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '9705'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK ANS'
+    name: Ansager
+    namewodiacritics: Ansager
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK ADN'
+    name: Arden
+    namewodiacritics: Arden
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0101'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: '='
+    locode: DK
+    name: 'Århus = Aarhus'
+    namewodiacritics: 'Arhus = Aarhus'
+    subdiv: ''
+    function: ''
+    status: ''
+    date: ''
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK ARO'
+    name: Åro
+    namewodiacritics: Aro
+    subdiv: '83'
+    function: 1-------
+    status: AI
+    date: '1301'
+    iata: ''
+    coordinates: '5516N 00945E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK ARD'
+    name: Årosund
+    namewodiacritics: Arosund
+    subdiv: ''
+    function: 1-------
+    status: AI
+    date: '0212'
+    iata: ''
+    coordinates: '5515N 00943E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK ARR'
+    name: Arre
+    namewodiacritics: Arre
+    subdiv: ''
+    function: '-----6--'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '5534N 00840E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK ARL'
+    name: Årslev
+    namewodiacritics: Arslev
+    subdiv: '83'
+    function: '-23-----'
+    status: RL
+    date: '0907'
+    iata: ''
+    coordinates: '5518N 01029E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK ASA'
+    name: Asaa
+    namewodiacritics: Asaa
+    subdiv: ''
+    function: 1-3-----
+    status: RL
+    date: '0307'
+    iata: ''
+    coordinates: '5709N 01025E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK ABY'
+    name: Askeby
+    namewodiacritics: Askeby
+    subdiv: '83'
+    function: '--3-----'
+    status: RL
+    date: '0907'
+    iata: ''
+    coordinates: '5531N 01013E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK ASK'
+    name: Askø
+    namewodiacritics: Asko
+    subdiv: ''
+    function: 1-------
+    status: AI
+    date: '9812'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK ASS'
+    name: Asnæs
+    namewodiacritics: Asnas
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '0101'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK ASV'
+    name: 'Asnæsværkets Havn'
+    namewodiacritics: 'Asnasvarkets Havn'
+    subdiv: ''
+    function: 1-------
+    status: AI
+    date: '9704'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK ASE'
+    name: Asperup
+    namewodiacritics: Asperup
+    subdiv: '83'
+    function: '--3-----'
+    status: RL
+    date: '0907'
+    iata: ''
+    coordinates: '5529N 00955E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK ASN'
+    name: Assens
+    namewodiacritics: Assens
+    subdiv: ''
+    function: 12------
+    status: AF
+    date: '9606'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK AUB'
+    name: Augustenborg
+    namewodiacritics: Augustenborg
+    subdiv: ''
+    function: 1-------
+    status: AI
+    date: '9704'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK ABE'
+    name: Auning
+    namewodiacritics: Auning
+    subdiv: '82'
+    function: '-----6--'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '5626N 01023E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK VRE'
+    name: Avedore
+    namewodiacritics: Avedore
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK AVE'
+    name: 'Avedøreværkets Havn'
+    namewodiacritics: 'Avedorevarkets Havn'
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '9402'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK AVK'
+    name: 'Avernak By'
+    namewodiacritics: 'Avernak By'
+    subdiv: ''
+    function: 1-------
+    status: AI
+    date: '0212'
+    iata: ''
+    coordinates: '5502N 01016E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK AVN'
+    name: 'Avernakke Havn'
+    namewodiacritics: 'Avernakke Havn'
+    subdiv: '83'
+    function: 1-------
+    status: RQ
+    date: '1001'
+    iata: ''
+    coordinates: '5518N 01047E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK AVL'
+    name: Avlum
+    namewodiacritics: Avlum
+    subdiv: '82'
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '5615N 00847E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK BGO'
+    name: Baagø
+    namewodiacritics: Baago
+    subdiv: ''
+    function: 1-------
+    status: AI
+    date: '9812'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK BKK'
+    name: Bække
+    namewodiacritics: Bakke
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0907'
+    iata: ''
+    coordinates: '5534N 00909E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK BKM'
+    name: Bækmarksbro
+    namewodiacritics: Bakmarksbro
+    subdiv: '82'
+    function: '-23-----'
+    status: RL
+    date: '0907'
+    iata: ''
+    coordinates: '5625N 00819E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK BLU'
+    name: Baelum
+    namewodiacritics: Baelum
+    subdiv: ''
+    function: 1-3--6--
+    status: RL
+    date: '0601'
+    iata: ''
+    coordinates: '5649N 01006E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK BAG'
+    name: Bagenkop
+    namewodiacritics: Bagenkop
+    subdiv: ''
+    function: 1-------
+    status: AI
+    date: '9704'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK BGS'
+    name: Bagsværd
+    namewodiacritics: Bagsvard
+    subdiv: ''
+    function: 0-------
+    status: RQ
+    date: '9307'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK BLE'
+    name: Balle
+    namewodiacritics: Balle
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '0907'
+    iata: ''
+    coordinates: '5618N 01016E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK BLB'
+    name: Ballebro
+    namewodiacritics: Ballebro
+    subdiv: ''
+    function: 1-------
+    status: AI
+    date: '9812'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK BAL'
+    name: Ballen
+    namewodiacritics: Ballen
+    subdiv: ''
+    function: 1-------
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '5549N 01039E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK BLP'
+    name: Ballerup
+    namewodiacritics: Ballerup
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '9705'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK BLG'
+    name: Balling
+    namewodiacritics: Balling
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '9705'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK BDX'
+    name: Bandholm
+    namewodiacritics: Bandholm
+    subdiv: ''
+    function: 1-------
+    status: AI
+    date: '9704'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK AAH'
+    name: Barrit
+    namewodiacritics: Barrit
+    subdiv: '83'
+    function: '-----6--'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '5543N 00954E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK BED'
+    name: Beder
+    namewodiacritics: Beder
+    subdiv: '82'
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '5604N 01013E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK BDD'
+    name: Bedsted
+    namewodiacritics: Bedsted
+    subdiv: '83'
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '5503N 00906E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK BES'
+    name: Bedsted
+    namewodiacritics: Bedsted
+    subdiv: '81'
+    function: '--3-----'
+    status: RQ
+    date: '0907'
+    iata: ''
+    coordinates: '5649N 00825E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK BEL'
+    name: Bellinge
+    namewodiacritics: Bellinge
+    subdiv: ''
+    function: 0-------
+    status: RQ
+    date: '9307'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK BEV'
+    name: Bevtoft
+    namewodiacritics: Bevtoft
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '0907'
+    iata: ''
+    coordinates: '5512N 00913E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK BIL'
+    name: Billum
+    namewodiacritics: Billum
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '0907'
+    iata: ''
+    coordinates: '5537N 00820E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK BLL'
+    name: Billund
+    namewodiacritics: Billund
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK BID'
+    name: Bindslev
+    namewodiacritics: Bindslev
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '9705'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK BIR'
+    name: Birkerod
+    namewodiacritics: Birkerod
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0212'
+    iata: ''
+    coordinates: '5550N 01226E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK BRK'
+    name: Birkum
+    namewodiacritics: Birkum
+    subdiv: ''
+    function: '--3--6--'
+    status: RL
+    date: '1207'
+    iata: ''
+    coordinates: '5520N 01031E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK AAG'
+    name: Bjaeverskov
+    namewodiacritics: Bjaeverskov
+    subdiv: '85'
+    function: '-----6--'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '5527N 01202E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK BJB'
+    name: Bjerringbro
+    namewodiacritics: Bjerringbro
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK BJE'
+    name: 'Bjert Strand'
+    namewodiacritics: 'Bjert Strand'
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0201'
+    iata: ''
+    coordinates: '5526N 00936E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK BLN'
+    name: Blans
+    namewodiacritics: Blans
+    subdiv: ''
+    function: 0-------
+    status: RQ
+    date: '9307'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK BLA'
+    name: Blavand
+    namewodiacritics: Blavand
+    subdiv: ''
+    function: 1----6--
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '5533N 00808E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK BKH'
+    name: Blokhus
+    namewodiacritics: Blokhus
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0201'
+    iata: ''
+    coordinates: '5715N 00935E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK BML'
+    name: Blommenslyst
+    namewodiacritics: Blommenslyst
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '5523N 01016E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK BOE'
+    name: Boeslunde
+    namewodiacritics: Boeslunde
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '0907'
+    iata: ''
+    coordinates: '5518N 01117E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK BGZ'
+    name: Bogense
+    namewodiacritics: Bogense
+    subdiv: ''
+    function: 1-3-----
+    status: RL
+    date: '0701'
+    iata: ''
+    coordinates: '5534N 01005E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK BOG'
+    name: 'Bogo By'
+    namewodiacritics: 'Bogo By'
+    subdiv: ''
+    function: 1-------
+    status: AI
+    date: '0212'
+    iata: ''
+    coordinates: '5456N 01203E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK BOS'
+    name: Bøjden
+    namewodiacritics: Bojden
+    subdiv: ''
+    function: 1-3-----
+    status: RL
+    date: '0701'
+    iata: ''
+    coordinates: '5506N 01005E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK BOL'
+    name: Bolderslev
+    namewodiacritics: Bolderslev
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '0907'
+    iata: ''
+    coordinates: '5459N 00918E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK BDG'
+    name: Bording
+    namewodiacritics: Bording
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK BKP'
+    name: Borkop
+    namewodiacritics: Borkop
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0307'
+    iata: ''
+    coordinates: '5538N 00938E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK BRR'
+    name: Borre
+    namewodiacritics: Borre
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '0907'
+    iata: ''
+    coordinates: '5538N 00818E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK BOR'
+    name: Borup
+    namewodiacritics: Borup
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK BTP'
+    name: Bostrup
+    namewodiacritics: Bostrup
+    subdiv: ''
+    function: 0-------
+    status: RQ
+    date: '9307'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK BBG'
+    name: Bøvlingbjerg
+    namewodiacritics: Bovlingbjerg
+    subdiv: ''
+    function: 1-3-----
+    status: RL
+    date: '0601'
+    iata: ''
+    coordinates: '5626N 00812E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK BRB'
+    name: Brabrand
+    namewodiacritics: Brabrand
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '9307'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK BSU'
+    name: Braedstrup
+    namewodiacritics: Braedstrup
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0701'
+    iata: ''
+    coordinates: '5558N 00936E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK BMG'
+    name: Bramming
+    namewodiacritics: Bramming
+    subdiv: ''
+    function: '-23-----'
+    status: RQ
+    date: '9705'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK BRA'
+    name: Brande
+    namewodiacritics: Brande
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK BRV'
+    name: Brandelev
+    namewodiacritics: Brandelev
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '0907'
+    iata: ''
+    coordinates: '5513N 01153E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK BRH'
+    name: 'Branden Havn'
+    namewodiacritics: 'Branden Havn'
+    subdiv: ''
+    function: 1-------
+    status: AI
+    date: '9704'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK BRL'
+    name: Branderslev
+    namewodiacritics: Branderslev
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '5452N 01108E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK BDE'
+    name: Branderup
+    namewodiacritics: Branderup
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '0607'
+    iata: ''
+    coordinates: '5507N 00904E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK BRE'
+    name: Bredebro
+    namewodiacritics: Bredebro
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK BRD'
+    name: Bredsten
+    namewodiacritics: Bredsten
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '9501'
+    iata: ''
+    coordinates: '5542N 00922E'
+    remarks: ''
+-
+    ch: +
+    locode: 'DK BGR'
+    name: Brejning
+    namewodiacritics: Brejning
+    subdiv: '83'
+    function: '-----6--'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '5540N 00941E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK BRU'
+    name: 'Brenderup, Ejby'
+    namewodiacritics: 'Brenderup, Ejby'
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '0607'
+    iata: ''
+    coordinates: '5528N 00958E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK BRG'
+    name: Broager
+    namewodiacritics: Broager
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '0907'
+    iata: ''
+    coordinates: '5453N 00941E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK BOY'
+    name: 'Broby Overdrev'
+    namewodiacritics: 'Broby Overdrev'
+    subdiv: ''
+    function: '--3--6--'
+    status: RL
+    date: '0701'
+    iata: ''
+    coordinates: '5524N 01136E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK BBY'
+    name: Brobyvark
+    namewodiacritics: Brobyvark
+    subdiv: '83'
+    function: '-23-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '5514N 01015E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK BUP'
+    name: Broderup
+    namewodiacritics: Broderup
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0201'
+    iata: ''
+    coordinates: '5453N 00915E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK BDY'
+    name: Brody
+    namewodiacritics: Brody
+    subdiv: ''
+    function: 0-------
+    status: RQ
+    date: '9705'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK BRY'
+    name: Brøndby
+    namewodiacritics: Brondby
+    subdiv: ''
+    function: 0-------
+    status: RQ
+    date: '9307'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK BST'
+    name: 'Brondby Strand'
+    namewodiacritics: 'Brondby Strand'
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '0907'
+    iata: ''
+    coordinates: '5537N 01221E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK BRO'
+    name: Brønderslev
+    namewodiacritics: Bronderslev
+    subdiv: '81'
+    function: '-23-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '5716N 00957E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK BRN'
+    name: Bronshoj
+    namewodiacritics: Bronshoj
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '0907'
+    iata: ''
+    coordinates: '5542N 01231E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK BRP'
+    name: Brørup
+    namewodiacritics: Brorup
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK BRT'
+    name: Brovst
+    namewodiacritics: Brovst
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '9806'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK BRS'
+    name: Burso
+    namewodiacritics: Burso
+    subdiv: '85'
+    function: '-----6--'
+    status: RQ
+    date: '1007'
+    iata: ''
+    coordinates: '5444N 01130E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK BYL'
+    name: Bylderup
+    namewodiacritics: Bylderup
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '9705'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK DAN'
+    name: 'Cementfabriken Dania'
+    namewodiacritics: 'Cementfabriken Dania'
+    subdiv: ''
+    function: 1-------
+    status: AI
+    date: '9704'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK KON'
+    name: 'Cementfabrikken Kongsdal Havn'
+    namewodiacritics: 'Cementfabrikken Kongsdal Havn'
+    subdiv: ''
+    function: 1-------
+    status: AI
+    date: '9704'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK OOT'
+    name: Charlottenlund
+    namewodiacritics: Charlottenlund
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK CSF'
+    name: Christiansfeld
+    namewodiacritics: Christiansfeld
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0201'
+    iata: ''
+    coordinates: '5221N 00929E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK CSO'
+    name: 'Christiansø Havn'
+    namewodiacritics: 'Christianso Havn'
+    subdiv: '84'
+    function: 1-------
+    status: AA
+    date: '1207'
+    iata: ''
+    coordinates: '5519N 01511E'
+    remarks: ''
+-
+    ch: '='
+    locode: DK
+    name: 'Copenhagen = København'
+    namewodiacritics: 'Copenhagen = Kobenhavn'
+    subdiv: ''
+    function: ''
+    status: ''
+    date: ''
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK DLB'
+    name: Dalby
+    namewodiacritics: Dalby
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '9705'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK DAL'
+    name: Dalmose
+    namewodiacritics: Dalmose
+    subdiv: '85'
+    function: '-23-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '5517N 01125E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK DAS'
+    name: 'Dansk Salts Havn'
+    namewodiacritics: 'Dansk Salts Havn'
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '9402'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK DAU'
+    name: Daugard
+    namewodiacritics: Daugard
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '0907'
+    iata: ''
+    coordinates: '5544N 00943E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK DIA'
+    name: Dianalund
+    namewodiacritics: Dianalund
+    subdiv: '85'
+    function: '-23-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '5531N 01129E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK DKD'
+    name: Dokkedal
+    namewodiacritics: Dokkedal
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK DRA'
+    name: Dragør
+    namewodiacritics: Dragor
+    subdiv: ''
+    function: 1-------
+    status: RL
+    date: '8401'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK DRO'
+    name: Dronningborg
+    namewodiacritics: Dronningborg
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '5629N 01005E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK DLD'
+    name: Dronninglund
+    namewodiacritics: Dronninglund
+    subdiv: '81'
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '5709N 01017E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK DRN'
+    name: Dronningmolle
+    namewodiacritics: Dronningmolle
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '0907'
+    iata: ''
+    coordinates: '5606N 01224E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK DRS'
+    name: Drosby
+    namewodiacritics: Drosby
+    subdiv: ''
+    function: 0-------
+    status: RQ
+    date: '9307'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK DRP'
+    name: Durup
+    namewodiacritics: Durup
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '9705'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK DYB'
+    name: Dybvad
+    namewodiacritics: Dybvad
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '0907'
+    iata: ''
+    coordinates: '5717N 01022E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK DYS'
+    name: Dyssegard
+    namewodiacritics: Dyssegard
+    subdiv: ''
+    function: 1----6--
+    status: RL
+    date: '1201'
+    iata: ''
+    coordinates: '5544N 01232E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK AAJ'
+    name: Ebberup
+    namewodiacritics: Ebberup
+    subdiv: '83'
+    function: '-----6--'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '5514N 00958E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK EBT'
+    name: Ebeltoft
+    namewodiacritics: Ebeltoft
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '9506'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK ENH'
+    name: Ebenhausen
+    namewodiacritics: Ebenhausen
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK EGA'
+    name: Egå
+    namewodiacritics: Ega
+    subdiv: '82'
+    function: '-23--6--'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '5612N 01015E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK EGN'
+    name: Egense
+    namewodiacritics: Egense
+    subdiv: ''
+    function: 1-------
+    status: AI
+    date: '0002'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK END'
+    name: Egernsund
+    namewodiacritics: Egernsund
+    subdiv: ''
+    function: 1-3-----
+    status: AI
+    date: '9704'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK EGV'
+    name: Egtved
+    namewodiacritics: Egtved
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0201'
+    iata: ''
+    coordinates: '5537N 00918E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK EJY'
+    name: Ejby
+    namewodiacritics: Ejby
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK EJS'
+    name: Ejstrup
+    namewodiacritics: Ejstrup
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '9705'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK ETH'
+    name: Ejstrupholm
+    namewodiacritics: Ejstrupholm
+    subdiv: '83'
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '5559N 00917E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK EDL'
+    name: Endelave
+    namewodiacritics: Endelave
+    subdiv: ''
+    function: 1-------
+    status: AI
+    date: '9704'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK ENV'
+    name: Engesvang
+    namewodiacritics: Engesvang
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK ENS'
+    name: 'Enstedværket Havn'
+    namewodiacritics: 'Enstedvarket Havn'
+    subdiv: ''
+    function: 1-------
+    status: AI
+    date: '0212'
+    iata: ''
+    coordinates: '5501N 00926E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK ERR'
+    name: Errindlev
+    namewodiacritics: Errindlev
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '0907'
+    iata: ''
+    coordinates: '5440N 01130E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK ERS'
+    name: Erslev
+    namewodiacritics: Erslev
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '0907'
+    iata: ''
+    coordinates: '5622N 01005E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK EBJ'
+    name: Esbjerg
+    namewodiacritics: Esbjerg
+    subdiv: ''
+    function: 1234----
+    status: AF
+    date: '9606'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK ESK'
+    name: Eskebjerg
+    namewodiacritics: Eskebjerg
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '0907'
+    iata: ''
+    coordinates: '5543N 01119E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK ESP'
+    name: Espergærde
+    namewodiacritics: Espergarde
+    subdiv: '84'
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '5559N 01234E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK FAA'
+    name: Faaborg
+    namewodiacritics: Faaborg
+    subdiv: ''
+    function: 1-------
+    status: RL
+    date: '8401'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK FVJ'
+    name: Faarevejle
+    namewodiacritics: Faarevejle
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '9705'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK FUP'
+    name: Faarup
+    namewodiacritics: Faarup
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '9705'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK FVG'
+    name: Faarvang
+    namewodiacritics: Faarvang
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '9705'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK AAM'
+    name: Fakse
+    namewodiacritics: Fakse
+    subdiv: '85'
+    function: '-----6--'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '5515N 01208E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK FAK'
+    name: 'Fakse Ladeplads Havn'
+    namewodiacritics: 'Fakse Ladeplads Havn'
+    subdiv: ''
+    function: 1-------
+    status: AI
+    date: '9704'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK AAK'
+    name: Fanoe
+    namewodiacritics: Fanoe
+    subdiv: '83'
+    function: '-----6--'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '5526N 00823E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK FSO'
+    name: Farsø
+    namewodiacritics: Farso
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '9705'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK FRM'
+    name: Farum
+    namewodiacritics: Farum
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '9705'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK FGS'
+    name: Feggesund
+    namewodiacritics: Feggesund
+    subdiv: ''
+    function: 1-------
+    status: AI
+    date: '9812'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK FEJ'
+    name: Fejø
+    namewodiacritics: Fejo
+    subdiv: ''
+    function: 1-------
+    status: AI
+    date: '9704'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK FMO'
+    name: Femø
+    namewodiacritics: Femo
+    subdiv: ''
+    function: 1-------
+    status: AI
+    date: '9812'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK FER'
+    name: Ferritslev
+    namewodiacritics: Ferritslev
+    subdiv: ''
+    function: 1-3-----
+    status: RL
+    date: '0601'
+    iata: ''
+    coordinates: '5518N 01035E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK FJE'
+    name: Fjenneslev
+    namewodiacritics: Fjenneslev
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '0907'
+    iata: ''
+    coordinates: '5526N 01140E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK FJV'
+    name: Fjerritslev
+    namewodiacritics: Fjerritslev
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '9705'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK FMM'
+    name: Flemming
+    namewodiacritics: Flemming
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '0907'
+    iata: ''
+    coordinates: '5552N 00940E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK FOL'
+    name: Follenslev
+    namewodiacritics: Follenslev
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '0907'
+    iata: ''
+    coordinates: '5543N 01122E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK FNS'
+    name: Fornæs
+    namewodiacritics: Fornas
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '9811'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK FOV'
+    name: Fovling
+    namewodiacritics: Fovling
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '0907'
+    iata: ''
+    coordinates: '5556N 00938E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK FRA'
+    name: Fraugde
+    namewodiacritics: Fraugde
+    subdiv: '83'
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '5521N 01029E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK FRE'
+    name: Fredensborg
+    namewodiacritics: Fredensborg
+    subdiv: ''
+    function: '-23-----'
+    status: AF
+    date: '9606'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK FRC'
+    name: Fredericia
+    namewodiacritics: Fredericia
+    subdiv: ''
+    function: 12--5---
+    status: AF
+    date: '9606'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK FBG'
+    name: Frederiksberg
+    namewodiacritics: Frederiksberg
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK FDH'
+    name: Frederikshavn
+    namewodiacritics: Frederikshavn
+    subdiv: ''
+    function: 12------
+    status: AF
+    date: '9606'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK FDS'
+    name: Frederikssund
+    namewodiacritics: Frederikssund
+    subdiv: '84'
+    function: 123-----
+    status: AF
+    date: '1301'
+    iata: ''
+    coordinates: '5550N 01204E'
+    remarks: Frederiksund
+-
+    ch: ''
+    locode: 'DK FDV'
+    name: Frederiksværk
+    namewodiacritics: Frederiksvark
+    subdiv: ''
+    function: 12------
+    status: AF
+    date: '9606'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK FRO'
+    name: Frorup
+    namewodiacritics: Frorup
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '0907'
+    iata: ''
+    coordinates: '5522N 00924E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK FRS'
+    name: Frostrup
+    namewodiacritics: Frostrup
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '0907'
+    iata: ''
+    coordinates: '5544N 00825E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK FUG'
+    name: Fuglebjerg
+    namewodiacritics: Fuglebjerg
+    subdiv: '85'
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '5518N 01132E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK FUH'
+    name: Fur
+    namewodiacritics: Fur
+    subdiv: ''
+    function: 1-------
+    status: AI
+    date: '9704'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK FYH'
+    name: Fynshav
+    namewodiacritics: Fynshav
+    subdiv: ''
+    function: 1-3-----
+    status: AI
+    date: '0207'
+    iata: ''
+    coordinates: '5458N 00958E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK GBJ'
+    name: Gadbjerg
+    namewodiacritics: Gadbjerg
+    subdiv: ''
+    function: '-23-----'
+    status: RL
+    date: '0701'
+    iata: ''
+    coordinates: '5546N 00919E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK DGP'
+    name: Gadstrup
+    namewodiacritics: Gadstrup
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '5534N 01206E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK GLT'
+    name: Galten
+    namewodiacritics: Galten
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK GBY'
+    name: Gamby
+    namewodiacritics: Gamby
+    subdiv: ''
+    function: 0-------
+    status: RQ
+    date: '9307'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK GAN'
+    name: Gandrup
+    namewodiacritics: Gandrup
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '0907'
+    iata: ''
+    coordinates: '5644N 00950E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK GLO'
+    name: Ganløse
+    namewodiacritics: Ganlose
+    subdiv: '20'
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK GED'
+    name: Gedser
+    namewodiacritics: Gedser
+    subdiv: ''
+    function: 12------
+    status: RL
+    date: '8401'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK GDS'
+    name: Gedsted
+    namewodiacritics: Gedsted
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '9705'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK GDV'
+    name: Gedved
+    namewodiacritics: Gedved
+    subdiv: '82'
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '5556N 00950E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK GLD'
+    name: Gelsted
+    namewodiacritics: Gelsted
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0201'
+    iata: ''
+    coordinates: '5524N 00957E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK GFE'
+    name: Gentofte
+    namewodiacritics: Gentofte
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK GES'
+    name: Gesten
+    namewodiacritics: Gesten
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '0907'
+    iata: ''
+    coordinates: '5531N 00912E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK GLE'
+    name: Gilleleje
+    namewodiacritics: Gilleleje
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '9811'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK GIL'
+    name: Gislev
+    namewodiacritics: Gislev
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '0907'
+    iata: ''
+    coordinates: '5513N 01037E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK GIS'
+    name: Gislinge
+    namewodiacritics: Gislinge
+    subdiv: ''
+    function: '-23-----'
+    status: RL
+    date: '0701'
+    iata: ''
+    coordinates: '5544N 01132E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK GSP'
+    name: Gistrup
+    namewodiacritics: Gistrup
+    subdiv: '81'
+    function: '--3--6--'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '5659N 00959E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK GIV'
+    name: Give
+    namewodiacritics: Give
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK GJR'
+    name: Gjerlev
+    namewodiacritics: Gjerlev
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '9705'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK GJN'
+    name: Gjern
+    namewodiacritics: Gjern
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '9705'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK GJS'
+    name: Gjessing
+    namewodiacritics: Gjessing
+    subdiv: ''
+    function: 0-------
+    status: RQ
+    date: '9307'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK GLM'
+    name: Glamsbjerg
+    namewodiacritics: Glamsbjerg
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK GTS'
+    name: 'Glatved Strand'
+    namewodiacritics: 'Glatved Strand'
+    subdiv: '82'
+    function: 1-------
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '5618N 10519E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK GLJ'
+    name: Glejbjerg
+    namewodiacritics: Glejbjerg
+    subdiv: '83'
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '5533N 00850E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK GLB'
+    name: 'Glejbjerg Stationsby'
+    namewodiacritics: 'Glejbjerg Stationsby'
+    subdiv: '83'
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '5534N 00850E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK AAN'
+    name: Glesborg
+    namewodiacritics: Glesborg
+    subdiv: '82'
+    function: '-----6--'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '5629N 01044E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK GLS'
+    name: Glostrup
+    namewodiacritics: Glostrup
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK GLU'
+    name: Glumso
+    namewodiacritics: Glumso
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '0907'
+    iata: ''
+    coordinates: '5521N 01142E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK GLY'
+    name: Glyngøre
+    namewodiacritics: Glyngore
+    subdiv: ''
+    function: 1-------
+    status: RL
+    date: '8401'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK GRG'
+    name: Gording
+    namewodiacritics: Gording
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0212'
+    iata: ''
+    coordinates: '5529N 00848E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK GLV'
+    name: Gørlev
+    namewodiacritics: Gorlev
+    subdiv: '85'
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '5532N 01113E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK GRL'
+    name: Gørløse
+    namewodiacritics: Gorlose
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '5553N 01212E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK GRS'
+    name: Græsted
+    namewodiacritics: Grasted
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0212'
+    iata: ''
+    coordinates: '5604N 01217E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK GVS'
+    name: Grævinge
+    namewodiacritics: Gravinge
+    subdiv: '85'
+    function: '-23-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '5548N 01133E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK GRM'
+    name: Gram
+    namewodiacritics: Gram
+    subdiv: '83'
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '5517N 00920E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK GRA'
+    name: Gråsten
+    namewodiacritics: Grasten
+    subdiv: ''
+    function: 1-------
+    status: AI
+    date: '9704'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK GRD'
+    name: Gredstedbro
+    namewodiacritics: Gredstedbro
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK GRE'
+    name: Grenaa
+    namewodiacritics: Grenaa
+    subdiv: ''
+    function: 123-----
+    status: AF
+    date: '9606'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK GRV'
+    name: Greve
+    namewodiacritics: Greve
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0201'
+    iata: ''
+    coordinates: '5535N 01214E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK GRI'
+    name: Grimstrup
+    namewodiacritics: Grimstrup
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK GRN'
+    name: Grindsted
+    namewodiacritics: Grindsted
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK GNN'
+    name: Grønninghoved
+    namewodiacritics: Gronninghoved
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '5514N 00956E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK GUD'
+    name: Gudbjerg
+    namewodiacritics: Gudbjerg
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK GDM'
+    name: Gudhjem
+    namewodiacritics: Gudhjem
+    subdiv: ''
+    function: 1-3-----
+    status: RL
+    date: '0701'
+    iata: ''
+    coordinates: '5513N 01458E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK GUM'
+    name: Gudme
+    namewodiacritics: Gudme
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '0907'
+    iata: ''
+    coordinates: '5509N 01043E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK GDB'
+    name: Guldborg
+    namewodiacritics: Guldborg
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '0907'
+    iata: ''
+    coordinates: '5452N 01145E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK GFH'
+    name: Gulfhavn
+    namewodiacritics: Gulfhavn
+    subdiv: ''
+    function: 1-------
+    status: AI
+    date: '9704'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK HBY'
+    name: Haarby
+    namewodiacritics: Haarby
+    subdiv: ''
+    function: 0-------
+    status: RQ
+    date: '9307'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK HAD'
+    name: Haderslev
+    namewodiacritics: Haderslev
+    subdiv: ''
+    function: 1-------
+    status: AI
+    date: '9704'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK HDP'
+    name: Haderup
+    namewodiacritics: Haderup
+    subdiv: '82'
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '5623N 00859E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK HDS'
+    name: Hadsten
+    namewodiacritics: Hadsten
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK HSU'
+    name: Hadsund
+    namewodiacritics: Hadsund
+    subdiv: '81'
+    function: 1-3-----
+    status: AI
+    date: '1301'
+    iata: ''
+    coordinates: '5643N 01006E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK HAS'
+    name: Hals
+    namewodiacritics: Hals
+    subdiv: ''
+    function: 1-------
+    status: AI
+    date: '0201'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK HKV'
+    name: Halsskov
+    namewodiacritics: Halsskov
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '9811'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK HME'
+    name: Hammel
+    namewodiacritics: Hammel
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK HHV'
+    name: Hammerhavn
+    namewodiacritics: Hammerhavn
+    subdiv: ''
+    function: 1-------
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '5517N 01445E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK HPN'
+    name: Hampen
+    namewodiacritics: Hampen
+    subdiv: ''
+    function: '-----6--'
+    status: RL
+    date: '0601'
+    iata: ''
+    coordinates: '5601N 00921E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK HAN'
+    name: Hanstholm
+    namewodiacritics: Hanstholm
+    subdiv: ''
+    function: 1-3-----
+    status: AI
+    date: '9704'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK HBR'
+    name: Harboør
+    namewodiacritics: Harboor
+    subdiv: ''
+    function: '-23-----'
+    status: RL
+    date: '0207'
+    iata: ''
+    coordinates: '5637N 00811E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK HDH'
+    name: Hardeshøj
+    namewodiacritics: Hardeshoj
+    subdiv: ''
+    function: 1-------
+    status: AI
+    date: '9812'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK HLV'
+    name: Harlev
+    namewodiacritics: Harlev
+    subdiv: '82'
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '5608N 00959E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK HAA'
+    name: Hårlev
+    namewodiacritics: Harlev
+    subdiv: '85'
+    function: '-23-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '5520N 01214E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK HAU'
+    name: Harndrup
+    namewodiacritics: Harndrup
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '0907'
+    iata: ''
+    coordinates: '5528N 01002E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK HAR'
+    name: Harpelunde
+    namewodiacritics: Harpelunde
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '0907'
+    iata: ''
+    coordinates: '5453N 01106E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK HSL'
+    name: Hasle
+    namewodiacritics: Hasle
+    subdiv: ''
+    function: 1-------
+    status: AI
+    date: '9704'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK HSV'
+    name: Haslev
+    namewodiacritics: Haslev
+    subdiv: ''
+    function: '-23-----'
+    status: AF
+    date: '9606'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK HSS'
+    name: Hasselager
+    namewodiacritics: Hasselager
+    subdiv: ''
+    function: 0-------
+    status: RQ
+    date: '9307'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK HTT'
+    name: Hatting
+    namewodiacritics: Hatting
+    subdiv: ''
+    function: '-2------'
+    status: RQ
+    date: '9705'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK HAP'
+    name: Havdrup
+    namewodiacritics: Havdrup
+    subdiv: '85'
+    function: '-2------'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '5532N 01206E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK HAV'
+    name: Havndal
+    namewodiacritics: Havndal
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '0907'
+    iata: ''
+    coordinates: '5639N 01012E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK HNB'
+    name: Havneby
+    namewodiacritics: Havneby
+    subdiv: ''
+    function: 1-------
+    status: AI
+    date: '9704'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK HVG'
+    name: Havnegade
+    namewodiacritics: Havnegade
+    subdiv: ''
+    function: 0-------
+    status: RQ
+    date: '9307'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK HVN'
+    name: Havnsø
+    namewodiacritics: Havnso
+    subdiv: ''
+    function: 1-------
+    status: AI
+    date: '9704'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK HHS'
+    name: Hedehusene
+    namewodiacritics: Hedehusene
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK HED'
+    name: Hedensted
+    namewodiacritics: Hedensted
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK HEJ'
+    name: Hejls
+    namewodiacritics: Hejls
+    subdiv: '50'
+    function: 1-------
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK HJN'
+    name: Hejnsvig
+    namewodiacritics: Hejnsvig
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '0907'
+    iata: ''
+    coordinates: '5541N 00859E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK HVT'
+    name: Hellebæk
+    namewodiacritics: Hellebak
+    subdiv: '81'
+    function: 1-3-----
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '5604N 01234E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK HRP'
+    name: Hellerup
+    namewodiacritics: Hellerup
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0002'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK HLE'
+    name: Hellested
+    namewodiacritics: Hellested
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK HEL'
+    name: Helsinge
+    namewodiacritics: Helsinge
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '0101'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK HLS'
+    name: Helsingør
+    namewodiacritics: Helsingor
+    subdiv: ''
+    function: 12------
+    status: AF
+    date: '9606'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK HEM'
+    name: Hemmet
+    namewodiacritics: Hemmet
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '0907'
+    iata: ''
+    coordinates: '5551N 00823E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK HEN'
+    name: Henne
+    namewodiacritics: Henne
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '0907'
+    iata: ''
+    coordinates: '5544N 00815E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK HFE'
+    name: Herfølge
+    namewodiacritics: Herfolge
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0004'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK HRV'
+    name: Herlev
+    namewodiacritics: Herlev
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '9705'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK HEU'
+    name: Herlufmagle
+    namewodiacritics: Herlufmagle
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '0907'
+    iata: ''
+    coordinates: '5519N 01146E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK HER'
+    name: Herning
+    namewodiacritics: Herning
+    subdiv: ''
+    function: 1-------
+    status: RL
+    date: '8401'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK HRS'
+    name: Herskind
+    namewodiacritics: Herskind
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK HLG'
+    name: Hesselager
+    namewodiacritics: Hesselager
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '0907'
+    iata: ''
+    coordinates: '5510N 01045E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK HIL'
+    name: Hillerod
+    namewodiacritics: Hillerod
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0212'
+    iata: ''
+    coordinates: '5556N 01219E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK HNN'
+    name: Hinnerup
+    namewodiacritics: Hinnerup
+    subdiv: ''
+    function: '-2------'
+    status: RQ
+    date: '9705'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK HIR'
+    name: Hirtshals
+    namewodiacritics: Hirtshals
+    subdiv: ''
+    function: 1-------
+    status: AI
+    date: '9704'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK HJA'
+    name: Hjallerup
+    namewodiacritics: Hjallerup
+    subdiv: '80'
+    function: '--3-----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '5716N 01015E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK HJM'
+    name: Hjerm
+    namewodiacritics: Hjerm
+    subdiv: '82'
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '5626N 00838E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK HJT'
+    name: Hjerting
+    namewodiacritics: Hjerting
+    subdiv: ''
+    function: 1-3-----
+    status: RL
+    date: '0307'
+    iata: ''
+    coordinates: '5531N 00822E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK HJG'
+    name: Hjørring
+    namewodiacritics: Hjorring
+    subdiv: '81'
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '5727N 00959E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK JOK'
+    name: Hjortshøj
+    namewodiacritics: Hjortshoj
+    subdiv: '82'
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '5614N 01015E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK HBO'
+    name: Hobro
+    namewodiacritics: Hobro
+    subdiv: ''
+    function: 1-------
+    status: AI
+    date: '9704'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK HGL'
+    name: Hogelund
+    namewodiacritics: Hogelund
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0212'
+    iata: ''
+    coordinates: '5512N 00921E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK HJB'
+    name: Højbjerg
+    namewodiacritics: Hojbjerg
+    subdiv: ''
+    function: 0-------
+    status: RQ
+    date: '0201'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK HTP'
+    name: 'Høje Tåstrup'
+    namewodiacritics: 'Hoje Tastrup'
+    subdiv: ''
+    function: '-23-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '5539N 01217E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK HJE'
+    name: Højer
+    namewodiacritics: Hojer
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '9705'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK HOJ'
+    name: Hojslev
+    namewodiacritics: Hojslev
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '0907'
+    iata: ''
+    coordinates: '5635N 00909E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK HBK'
+    name: Holbæk
+    namewodiacritics: Holbak
+    subdiv: ''
+    function: 1-------
+    status: AI
+    date: '9704'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK HOL'
+    name: Holeby
+    namewodiacritics: Holeby
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK HOM'
+    name: Holmegård
+    namewodiacritics: Holmegard
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '5515N 01155E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK HOO'
+    name: Holme-Olstrup
+    namewodiacritics: Holme-Olstrup
+    subdiv: '85'
+    function: '-2------'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '5515N 01150E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK HSB'
+    name: Holstebro
+    namewodiacritics: Holstebro
+    subdiv: ''
+    function: 1-------
+    status: RL
+    date: '8401'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK HST'
+    name: Holsted
+    namewodiacritics: Holsted
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '9705'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK HOE'
+    name: Holte
+    namewodiacritics: Holte
+    subdiv: ''
+    function: '--3-----'
+    status: QQ
+    date: '0212'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK HNG'
+    name: Høng
+    namewodiacritics: Hong
+    subdiv: '85'
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '5531N 01117E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK HOB'
+    name: Horbelev
+    namewodiacritics: Horbelev
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '0907'
+    iata: ''
+    coordinates: '5449N 01204E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK HON'
+    name: Hornbæk
+    namewodiacritics: Hornbak
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK HRN'
+    name: Hørning
+    namewodiacritics: Horning
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK HNS'
+    name: Hornslet
+    namewodiacritics: Hornslet
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '5619N 01020E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK HSY'
+    name: Hornsyld
+    namewodiacritics: Hornsyld
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0701'
+    iata: ''
+    coordinates: '5545N 00952E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK HOR'
+    name: Horsens
+    namewodiacritics: Horsens
+    subdiv: ''
+    function: 1-------
+    status: AI
+    date: '9704'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK HHM'
+    name: Hørsholm
+    namewodiacritics: Horsholm
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '9811'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK HOS'
+    name: Horslunde
+    namewodiacritics: Horslunde
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '0907'
+    iata: ''
+    coordinates: '5454N 01114E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK HRU'
+    name: Hørup
+    namewodiacritics: Horup
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0002'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK HRE'
+    name: Hørve
+    namewodiacritics: Horve
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '5545N 01128E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK HOH'
+    name: 'Hou Havn'
+    namewodiacritics: 'Hou Havn'
+    subdiv: ''
+    function: 1-------
+    status: AI
+    date: '9704'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK HBG'
+    name: Houborg
+    namewodiacritics: Houborg
+    subdiv: ''
+    function: 0-------
+    status: RQ
+    date: '9307'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK HWO'
+    name: Hov
+    namewodiacritics: Hov
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '5555N 01015E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK HVB'
+    name: Hovborg
+    namewodiacritics: Hovborg
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '5536N 00857E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK HSD'
+    name: 'Høve Strand'
+    namewodiacritics: 'Hove Strand'
+    subdiv: '85'
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '5550N 01129E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK HOV'
+    name: Hovedgård
+    namewodiacritics: Hovedgard
+    subdiv: '82'
+    function: '-23-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '5557N 00958E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK HBL'
+    name: Humble
+    namewodiacritics: Humble
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '5450N 01042E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK HBA'
+    name: Humlebæk
+    namewodiacritics: Humlebak
+    subdiv: ''
+    function: 123-----
+    status: RL
+    date: '0701'
+    iata: ''
+    coordinates: '5558N 01231E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK HUN'
+    name: Hundested
+    namewodiacritics: Hundested
+    subdiv: ''
+    function: 123-----
+    status: AF
+    date: '9606'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK HND'
+    name: Hundslund
+    namewodiacritics: Hundslund
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '0907'
+    iata: ''
+    coordinates: '5555N 01004E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK HSE'
+    name: Hunseby
+    namewodiacritics: Hunseby
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK HUR'
+    name: Hurup
+    namewodiacritics: Hurup
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK AAO'
+    name: 'Hurup Thy'
+    namewodiacritics: 'Hurup Thy'
+    subdiv: '82'
+    function: '-----6--'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '5645N 00825E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK HVA'
+    name: Hvalpsund
+    namewodiacritics: Hvalpsund
+    subdiv: ''
+    function: 1-------
+    status: AI
+    date: '9704'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK HVL'
+    name: Hvalsø
+    namewodiacritics: Hvalso
+    subdiv: '85'
+    function: '--3--6--'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '5536N 01151E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK HVS'
+    name: 'Hvide Sande'
+    namewodiacritics: 'Hvide Sande'
+    subdiv: ''
+    function: 1-3-----
+    status: RL
+    date: '0607'
+    iata: ''
+    coordinates: '5559N 00808E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK HVV'
+    name: Hvidovre
+    namewodiacritics: Hvidovre
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '9705'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK HVI'
+    name: Hvims
+    namewodiacritics: Hvims
+    subdiv: '55'
+    function: '--3-----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '5529N 00840E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK HYL'
+    name: Hyllinge
+    namewodiacritics: Hyllinge
+    subdiv: '35'
+    function: '--3-----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK IDE'
+    name: Idestrup
+    namewodiacritics: Idestrup
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '0907'
+    iata: ''
+    coordinates: '5444N 01158E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK IKA'
+    name: Ikast
+    namewodiacritics: Ikast
+    subdiv: ''
+    function: '-23-----'
+    status: AF
+    date: '9606'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK ISJ'
+    name: Ishøj
+    namewodiacritics: Ishoj
+    subdiv: ''
+    function: 0-------
+    status: RQ
+    date: '9307'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK JAE'
+    name: Jægersborg
+    namewodiacritics: Jagersborg
+    subdiv: '84'
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '5546N 01233E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK JGP'
+    name: Jægerspris
+    namewodiacritics: Jagerspris
+    subdiv: '20'
+    function: '--3-----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '5551N 01159E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK JAN'
+    name: Janderup
+    namewodiacritics: Janderup
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '0907'
+    iata: ''
+    coordinates: '5537N 00823E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK JEL'
+    name: Jelling
+    namewodiacritics: Jelling
+    subdiv: '50'
+    function: 1-------
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK JSD'
+    name: 'Jersie Strand'
+    namewodiacritics: 'Jersie Strand'
+    subdiv: '85'
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '5531N 01213E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK JER'
+    name: Jerslev
+    namewodiacritics: Jerslev
+    subdiv: '85'
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '5536N 01114E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK JSL'
+    name: Jerslev
+    namewodiacritics: Jerslev
+    subdiv: '81'
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '5717N 01005E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK JUP'
+    name: Jerup
+    namewodiacritics: Jerup
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '0907'
+    iata: ''
+    coordinates: '5732N 01026E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK JRD'
+    name: Jordløse
+    namewodiacritics: Jordlose
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '9705'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK JOR'
+    name: Jordrup
+    namewodiacritics: Jordrup
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '0907'
+    iata: ''
+    coordinates: '5533N 00919E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK JUE'
+    name: Juelsminde
+    namewodiacritics: Juelsminde
+    subdiv: '82'
+    function: 1-------
+    status: AI
+    date: '1301'
+    iata: ''
+    coordinates: '5542N 01001E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK JRP'
+    name: Jyderup
+    namewodiacritics: Jyderup
+    subdiv: ''
+    function: '-23-----'
+    status: RL
+    date: '9806'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK JYL'
+    name: Jyllinge
+    namewodiacritics: Jyllinge
+    subdiv: '85'
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '5545N 01206E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK JYS'
+    name: Jystrup
+    namewodiacritics: Jystrup
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '0907'
+    iata: ''
+    coordinates: '5531N 01153E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK KAG'
+    name: Kagerup
+    namewodiacritics: Kagerup
+    subdiv: '20'
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '5600N 01216E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK KAL'
+    name: Kalundborg
+    namewodiacritics: Kalundborg
+    subdiv: ''
+    function: 12------
+    status: AF
+    date: '9606'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK KAV'
+    name: Kalvehave
+    namewodiacritics: Kalvehave
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '0907'
+    iata: ''
+    coordinates: '5500N 01210E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK KAB'
+    name: Karby
+    namewodiacritics: Karby
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '0907'
+    iata: ''
+    coordinates: '5645N 00834E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK KAI'
+    name: Karise
+    namewodiacritics: Karise
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '0907'
+    iata: ''
+    coordinates: '5518N 01213E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK KAR'
+    name: Karlslunde
+    namewodiacritics: Karlslunde
+    subdiv: '85'
+    function: 1-3-----
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '5534N 01213E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK KBK'
+    name: Karrebæksminde
+    namewodiacritics: Karrebaksminde
+    subdiv: '85'
+    function: 1-3-----
+    status: RL
+    date: '0907'
+    iata: ''
+    coordinates: '5511N 01140E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK KRP'
+    name: Karup
+    namewodiacritics: Karup
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK KTP'
+    name: Kastrup
+    namewodiacritics: Kastrup
+    subdiv: ''
+    function: 1-------
+    status: AI
+    date: '9704'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK KTD'
+    name: Kerteminde
+    namewodiacritics: Kerteminde
+    subdiv: ''
+    function: 1-------
+    status: AI
+    date: '9704'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK KIB'
+    name: Kibæk
+    namewodiacritics: Kibak
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK ABJ'
+    name: 'Kirke Hyllinge'
+    namewodiacritics: 'Kirke Hyllinge'
+    subdiv: '85'
+    function: '-----6--'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '5542N 01155E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK KSY'
+    name: 'Kirke Saby'
+    namewodiacritics: 'Kirke Saby'
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '0907'
+    iata: ''
+    coordinates: '5537N 01152E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK KRB'
+    name: Kirkeby
+    namewodiacritics: Kirkeby
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK KEP'
+    name: Kirke-Eskilstrup
+    namewodiacritics: Kirke-Eskilstrup
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '9806'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK KJE'
+    name: Kjellerup
+    namewodiacritics: Kjellerup
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK KLA'
+    name: Klampenborg
+    namewodiacritics: Klampenborg
+    subdiv: '15'
+    function: '--3-----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK KLR'
+    name: Klarup
+    namewodiacritics: Klarup
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '0907'
+    iata: ''
+    coordinates: '5701N 01003E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK KLE'
+    name: Klemensker
+    namewodiacritics: Klemensker
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '0907'
+    iata: ''
+    coordinates: '5510N 01449E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK KLP'
+    name: Kleppen
+    namewodiacritics: Kleppen
+    subdiv: '82'
+    function: 1-3-----
+    status: AA
+    date: '1301'
+    iata: ''
+    coordinates: '5632N 00835E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK KBG'
+    name: Klintebjerg
+    namewodiacritics: Klintebjerg
+    subdiv: '83'
+    function: 1-3-----
+    status: RQ
+    date: '1001'
+    iata: ''
+    coordinates: '5529N 01027E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK KPV'
+    name: Kliplev
+    namewodiacritics: Kliplev
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK KLI'
+    name: Klippinge
+    namewodiacritics: Klippinge
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '0907'
+    iata: ''
+    coordinates: '5521N 01220E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK KVB'
+    name: Klovborg
+    namewodiacritics: Klovborg
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK KNB'
+    name: Knebel
+    namewodiacritics: Knebel
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK KHV'
+    name: Knudshoved
+    namewodiacritics: Knudshoved
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '0407'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK CPH'
+    name: København
+    namewodiacritics: Kobenhavn
+    subdiv: '84'
+    function: 12345---
+    status: AF
+    date: '1301'
+    iata: ''
+    coordinates: '5540N 01235E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK KOG'
+    name: Køge
+    namewodiacritics: Koge
+    subdiv: ''
+    function: 12------
+    status: AF
+    date: '9606'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK KKK'
+    name: Kokkedal
+    namewodiacritics: Kokkedal
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '0907'
+    iata: ''
+    coordinates: '5554N 01231E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK KOK'
+    name: 'Kolby Kås'
+    namewodiacritics: 'Kolby Kas'
+    subdiv: '82'
+    function: 1-------
+    status: AI
+    date: '1301'
+    iata: ''
+    coordinates: '5548N 01033E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK KOL'
+    name: Kolding
+    namewodiacritics: Kolding
+    subdiv: ''
+    function: 123-----
+    status: AF
+    date: '9606'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK KLD'
+    name: Kolind
+    namewodiacritics: Kolind
+    subdiv: ''
+    function: '-23-----'
+    status: RL
+    date: '0701'
+    iata: ''
+    coordinates: '5622N 01035E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK KDM'
+    name: 'Kollund Mole'
+    namewodiacritics: 'Kollund Mole'
+    subdiv: ''
+    function: 1-3-----
+    status: AA
+    date: '0607'
+    iata: ''
+    coordinates: '5420N 00927E'
+    remarks: ''
+-
+    ch: +
+    locode: 'DK KOY'
+    name: 'Kongens Lyngby'
+    namewodiacritics: 'Kongens Lyngby'
+    subdiv: '84'
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '5546N 01231E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK SOK'
+    name: Kongerslev
+    namewodiacritics: Kongerslev
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0212'
+    iata: ''
+    coordinates: '5653N 01007E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK KGL'
+    name: 'Kongsdal Harbour'
+    namewodiacritics: 'Kongsdal Harbour'
+    subdiv: ''
+    function: 1-------
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '5642N 01004E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK KRR'
+    name: Korsør
+    namewodiacritics: Korsor
+    subdiv: ''
+    function: 12------
+    status: AF
+    date: '9606'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK KRA'
+    name: Kragenæs
+    namewodiacritics: Kragenas
+    subdiv: ''
+    function: 1-------
+    status: AI
+    date: '9704'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK KRS'
+    name: Kruså
+    namewodiacritics: Krusa
+    subdiv: ''
+    function: '-23-----'
+    status: AF
+    date: '9606'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK KVR'
+    name: Kværndrup
+    namewodiacritics: Kvarndrup
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '9307'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK KVG'
+    name: Kvistgaard
+    namewodiacritics: Kvistgaard
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '9705'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK KBY'
+    name: 'Kyndbyvaerkets Havn'
+    namewodiacritics: 'Kyndbyvaerkets Havn'
+    subdiv: ''
+    function: 1-------
+    status: AI
+    date: '9704'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK LAN'
+    name: Langå
+    namewodiacritics: Langa
+    subdiv: '82'
+    function: '-23-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '5623N 00953E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK LGN'
+    name: Langebæk
+    namewodiacritics: Langebak
+    subdiv: '85'
+    function: '--3-----'
+    status: RL
+    date: '0907'
+    iata: ''
+    coordinates: '5500N 01206E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK LGS'
+    name: Langeskov
+    namewodiacritics: Langeskov
+    subdiv: ''
+    function: '-23-----'
+    status: AF
+    date: '9606'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK AAU'
+    name: Langholt
+    namewodiacritics: Langholt
+    subdiv: '81'
+    function: '-----6--'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '5706N 01005E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK LAA'
+    name: Låsby
+    namewodiacritics: Lasby
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK LEJ'
+    name: Lejre
+    namewodiacritics: Lejre
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0607'
+    iata: ''
+    coordinates: '5536N 01158E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK LEM'
+    name: Lem
+    namewodiacritics: Lem
+    subdiv: '82'
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '5601N 00823E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK LMM'
+    name: Lemming
+    namewodiacritics: Lemming
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '0907'
+    iata: ''
+    coordinates: '5614N 00933E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK LVG'
+    name: Lemvig
+    namewodiacritics: Lemvig
+    subdiv: ''
+    function: 1-------
+    status: AI
+    date: '9704'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK LLS'
+    name: 'Lille Skensved'
+    namewodiacritics: 'Lille Skensved'
+    subdiv: ''
+    function: '-23-----'
+    status: AF
+    date: '9606'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK LHH'
+    name: 'Lindholm Havn'
+    namewodiacritics: 'Lindholm Havn'
+    subdiv: '83'
+    function: 1-------
+    status: RQ
+    date: '1001'
+    iata: ''
+    coordinates: '5517N 01048E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK LIN'
+    name: 'Lindø Havn'
+    namewodiacritics: 'Lindo Havn'
+    subdiv: ''
+    function: 1-------
+    status: AI
+    date: '9704'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK LIT'
+    name: Lintrup
+    namewodiacritics: Lintrup
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '0907'
+    iata: ''
+    coordinates: '5533N 00857E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK LIS'
+    name: Liseleje
+    namewodiacritics: Liseleje
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '0907'
+    iata: ''
+    coordinates: '5601N 01159E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK LGR'
+    name: Løgstør
+    namewodiacritics: Logstor
+    subdiv: ''
+    function: 1-------
+    status: AI
+    date: '9704'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK LOG'
+    name: Løgstrup
+    namewodiacritics: Logstrup
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK LKO'
+    name: Løgumkloster
+    namewodiacritics: Logumkloster
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK LOH'
+    name: Lohals
+    namewodiacritics: Lohals
+    subdiv: ''
+    function: 1-------
+    status: AI
+    date: '9704'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK LKK'
+    name: Lokken
+    namewodiacritics: Lokken
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '0907'
+    iata: ''
+    coordinates: '5722N 00943E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK LIG'
+    name: Losning
+    namewodiacritics: Losning
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0212'
+    iata: ''
+    coordinates: '5548N 00942E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK LBY'
+    name: Lundby
+    namewodiacritics: Lundby
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '0907'
+    iata: ''
+    coordinates: '5658N 01001E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK LUN'
+    name: Lundeborg
+    namewodiacritics: Lundeborg
+    subdiv: '83'
+    function: 1-3-----
+    status: RL
+    date: '1101'
+    iata: ''
+    coordinates: '5508N 01047E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK LND'
+    name: Lunderskov
+    namewodiacritics: Lunderskov
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '9705'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK LDT'
+    name: Lundtofte
+    namewodiacritics: Lundtofte
+    subdiv: '83'
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '5528N 00853E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK LYN'
+    name: Lyngby
+    namewodiacritics: Lyngby
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '9705'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK LNE'
+    name: Lynge
+    namewodiacritics: Lynge
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '9806'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK LYO'
+    name: 'Lyngs Odde Havn'
+    namewodiacritics: 'Lyngs Odde Havn'
+    subdiv: ''
+    function: 1-------
+    status: AI
+    date: '9704'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK AAT'
+    name: Lystrup
+    namewodiacritics: Lystrup
+    subdiv: '82'
+    function: '-----6--'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '5630N 01029E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK MLG'
+    name: Malling
+    namewodiacritics: Malling
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '0907'
+    iata: ''
+    coordinates: '5602N 01010E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK MLV'
+    name: Målov
+    namewodiacritics: Malov
+    subdiv: ''
+    function: '-23-----'
+    status: RL
+    date: '0212'
+    iata: ''
+    coordinates: '5545N 01220E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK MRB'
+    name: 'Marbæk Havn'
+    namewodiacritics: 'Marbak Havn'
+    subdiv: ''
+    function: 1-------
+    status: AI
+    date: '9704'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK MRR'
+    name: Mariager
+    namewodiacritics: Mariager
+    subdiv: ''
+    function: 123-----
+    status: RL
+    date: '0701'
+    iata: ''
+    coordinates: '5639N 01000E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK MRV'
+    name: Maribo
+    namewodiacritics: Maribo
+    subdiv: ''
+    function: '--34----'
+    status: AI
+    date: '9811'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK MLT'
+    name: Marslet
+    namewodiacritics: Marslet
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '0907'
+    iata: ''
+    coordinates: '5604N 01010E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK MAR'
+    name: Marslev
+    namewodiacritics: Marslev
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK MRS'
+    name: Marstal
+    namewodiacritics: Marstal
+    subdiv: ''
+    function: 1-------
+    status: AI
+    date: '9704'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK MTF'
+    name: Martofte
+    namewodiacritics: Martofte
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '0907'
+    iata: ''
+    coordinates: '5533N 01040E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK MAS'
+    name: Masnedø
+    namewodiacritics: Masnedo
+    subdiv: ''
+    function: 1-------
+    status: AI
+    date: '9704'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK MKH'
+    name: 'Masnedovaerkets Havn/Vordingborg'
+    namewodiacritics: 'Masnedovaerkets Havn/Vordingborg'
+    subdiv: '85'
+    function: 1-3-----
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '5458N 01153E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK MNS'
+    name: Masnedsund
+    namewodiacritics: Masnedsund
+    subdiv: '85'
+    function: 1-3-----
+    status: AA
+    date: '1301'
+    iata: ''
+    coordinates: '5500N 01152E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK UNX'
+    name: 'Masnedsund Godningshamn'
+    namewodiacritics: 'Masnedsund Godningshamn'
+    subdiv: '85'
+    function: 1-------
+    status: AI
+    date: '1301'
+    iata: ''
+    coordinates: '5500N 01155E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK MBY'
+    name: Melby
+    namewodiacritics: Melby
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '0907'
+    iata: ''
+    coordinates: '5539N 01107E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK MER'
+    name: Mern
+    namewodiacritics: Mern
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '0907'
+    iata: ''
+    coordinates: '5503N 01204E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK MES'
+    name: Mesinge
+    namewodiacritics: Mesinge
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '0907'
+    iata: ''
+    coordinates: '5530N 01039E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK MID'
+    name: Middelfart
+    namewodiacritics: Middelfart
+    subdiv: ''
+    function: 12------
+    status: AF
+    date: '9606'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK MLL'
+    name: Millinge
+    namewodiacritics: Millinge
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '0907'
+    iata: ''
+    coordinates: '5508N 01013E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK MUP'
+    name: Moldrup
+    namewodiacritics: Moldrup
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '9705'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK MOM'
+    name: Mommark
+    namewodiacritics: Mommark
+    subdiv: ''
+    function: 1-------
+    status: AI
+    date: '9704'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK MOR'
+    name: Mørdrup
+    namewodiacritics: Mordrup
+    subdiv: '85'
+    function: '--3-----'
+    status: RL
+    date: '1101'
+    iata: ''
+    coordinates: '5600N 01233E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK MKE'
+    name: Mørke
+    namewodiacritics: Morke
+    subdiv: '82'
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '5620N 01023E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK MKV'
+    name: Morkov
+    namewodiacritics: Morkov
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '0907'
+    iata: ''
+    coordinates: '5540N 01131E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK MRD'
+    name: Morud
+    namewodiacritics: Morud
+    subdiv: '42'
+    function: '--3-----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '5527N 01011E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK MRU'
+    name: Mundelstrup
+    namewodiacritics: Mundelstrup
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '9705'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK MBJ'
+    name: 'Munke Bjergby'
+    namewodiacritics: 'Munke Bjergby'
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '0907'
+    iata: ''
+    coordinates: '5530N 01132E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK MNK'
+    name: Munkebo
+    namewodiacritics: Munkebo
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0106'
+    iata: ''
+    coordinates: '5527N 01033E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK NRM'
+    name: Nærum
+    namewodiacritics: Narum
+    subdiv: '84'
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '5549N 01233E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK NUD'
+    name: Næssund
+    namewodiacritics: Nassund
+    subdiv: ''
+    function: 1-------
+    status: AI
+    date: '9812'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK NVD'
+    name: Næstved
+    namewodiacritics: Nastved
+    subdiv: ''
+    function: 123-----
+    status: AF
+    date: '9606'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK NGB'
+    name: Nagbol
+    namewodiacritics: Nagbol
+    subdiv: ''
+    function: 123-----
+    status: RL
+    date: '0601'
+    iata: ''
+    coordinates: '5527N 00917E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK NAK'
+    name: Nakskov
+    namewodiacritics: Nakskov
+    subdiv: ''
+    function: 12------
+    status: AF
+    date: '9606'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK NEX'
+    name: Neksø
+    namewodiacritics: Nekso
+    subdiv: ''
+    function: 1-------
+    status: AI
+    date: '9704'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK NIB'
+    name: Nibe
+    namewodiacritics: Nibe
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK NIM'
+    name: Nimtofte
+    namewodiacritics: Nimtofte
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '0907'
+    iata: ''
+    coordinates: '5625N 01034E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK NIV'
+    name: Niva
+    namewodiacritics: Niva
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '0907'
+    iata: ''
+    coordinates: '5556N 01231E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK NAG'
+    name: Nørager
+    namewodiacritics: Norager
+    subdiv: '81'
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '5642N 00938E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK NBR'
+    name: Nordborg
+    namewodiacritics: Nordborg
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0701'
+    iata: ''
+    coordinates: '5502N 00948E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK NDB'
+    name: 'Nordby Havn, Fanø'
+    namewodiacritics: 'Nordby Havn, Fano'
+    subdiv: ''
+    function: 1-------
+    status: AI
+    date: '9704'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK NKV'
+    name: Nordenskov
+    namewodiacritics: Nordenskov
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK VSV'
+    name: 'Norjyllandsvarkets havn'
+    namewodiacritics: 'Norjyllandsvarkets havn'
+    subdiv: ''
+    function: 1-------
+    status: AI
+    date: '9704'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK NRE'
+    name: 'Nørre Aaby'
+    namewodiacritics: 'Norre Aaby'
+    subdiv: ''
+    function: 12------
+    status: AF
+    date: '9606'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK NAV'
+    name: 'Norre Alslev'
+    namewodiacritics: 'Norre Alslev'
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '9705'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK NAS'
+    name: 'Norre Asmindrup'
+    namewodiacritics: 'Norre Asmindrup'
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '0907'
+    iata: ''
+    coordinates: '5553N 01138E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK NBL'
+    name: 'Norre Nebel'
+    namewodiacritics: 'Norre Nebel'
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '0907'
+    iata: ''
+    coordinates: '5547N 00818E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK NSD'
+    name: 'Nørre Snede'
+    namewodiacritics: 'Norre Snede'
+    subdiv: ''
+    function: 1-3-----
+    status: RL
+    date: '0207'
+    iata: ''
+    coordinates: '5557N 00923E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK NRV'
+    name: 'Norre Vium'
+    namewodiacritics: 'Norre Vium'
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0212'
+    iata: ''
+    coordinates: '5602N 00843E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK NBE'
+    name: Nørreballe
+    namewodiacritics: Norreballe
+    subdiv: '85'
+    function: '-23-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '5448N 01126E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK NRS'
+    name: Nørresundby
+    namewodiacritics: Norresundby
+    subdiv: ''
+    function: 12------
+    status: AF
+    date: '9606'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK NBG'
+    name: Nyborg
+    namewodiacritics: Nyborg
+    subdiv: ''
+    function: 12------
+    status: AF
+    date: '9606'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK NYB'
+    name: 'Nyborg Lystbådehavn'
+    namewodiacritics: 'Nyborg Lystbadehavn'
+    subdiv: '83'
+    function: 1-------
+    status: RQ
+    date: '1001'
+    iata: ''
+    coordinates: '5518N 01047E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK NYF'
+    name: 'Nykøbing Falster'
+    namewodiacritics: 'Nykobing Falster'
+    subdiv: '85'
+    function: 123-----
+    status: AF
+    date: '1301'
+    iata: ''
+    coordinates: '5446N 01153E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK NYM'
+    name: 'Nykøbing Mors'
+    namewodiacritics: 'Nykobing Mors'
+    subdiv: '81'
+    function: 1-3-----
+    status: AI
+    date: '1301'
+    iata: ''
+    coordinates: '5647N 00851E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK NYS'
+    name: 'Nykøbing Sjælland'
+    namewodiacritics: 'Nykobing Sjalland'
+    subdiv: '85'
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '5555N 01140E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK NTD'
+    name: Nysted
+    namewodiacritics: Nysted
+    subdiv: ''
+    function: 1-------
+    status: AI
+    date: '9704'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK ODX'
+    name: Odder
+    namewodiacritics: Odder
+    subdiv: '82'
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '5558N 01010E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK ODE'
+    name: Odense
+    namewodiacritics: Odense
+    subdiv: ''
+    function: 1234----
+    status: AF
+    date: '9606'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK AAW'
+    name: Oelgod
+    namewodiacritics: Oelgod
+    subdiv: '83'
+    function: '-----6--'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '5549N 00837E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK AAI'
+    name: Oelsted
+    namewodiacritics: Oelsted
+    subdiv: '84'
+    function: '-----6--'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '5555N 12043E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK OSB'
+    name: Oksbol
+    namewodiacritics: Oksbol
+    subdiv: ''
+    function: '-----6--'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '5538N 00817E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK OLG'
+    name: Olgod
+    namewodiacritics: Olgod
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0212'
+    iata: ''
+    coordinates: '5549N 00837E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK OTK'
+    name: Ølstykke
+    namewodiacritics: Olstykke
+    subdiv: ''
+    function: '-23-----'
+    status: RL
+    date: '0607'
+    iata: ''
+    coordinates: '5548N 01210E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK OEL'
+    name: 'Ølstykke Stationsby'
+    namewodiacritics: 'Olstykke Stationsby'
+    subdiv: '84'
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '5547N 01208E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK OMO'
+    name: Omø
+    namewodiacritics: Omo
+    subdiv: ''
+    function: 1-------
+    status: AI
+    date: '9812'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK OFQ'
+    name: Orbæk
+    namewodiacritics: Orbak
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '0212'
+    iata: ''
+    coordinates: ''
+    remarks: 'Arhus? Fyn?'
+-
+    ch: ''
+    locode: 'DK ORE'
+    name: 'Orehoved, Falster'
+    namewodiacritics: 'Orehoved, Falster'
+    subdiv: ''
+    function: 1-------
+    status: AI
+    date: '9704'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK OHJ'
+    name: Ornhoj
+    namewodiacritics: Ornhoj
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0212'
+    iata: ''
+    coordinates: '5612N 00835E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK ORO'
+    name: Orø
+    namewodiacritics: Oro
+    subdiv: ''
+    function: 1-------
+    status: AI
+    date: '9812'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK ORS'
+    name: Orsted
+    namewodiacritics: Orsted
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '0907'
+    iata: ''
+    coordinates: '5630N 01021E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK ORM'
+    name: Orum
+    namewodiacritics: Orum
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '0907'
+    iata: ''
+    coordinates: '5627N 01041E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK OSX'
+    name: Osby
+    namewodiacritics: Osby
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0212'
+    iata: ''
+    coordinates: '5514N 00939E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK OKB'
+    name: Østbirk
+    namewodiacritics: Ostbirk
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK OAS'
+    name: 'Øster Assels'
+    namewodiacritics: 'Oster Assels'
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0607'
+    iata: ''
+    coordinates: '5642N 00841E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK ODD'
+    name: 'Øster Doense'
+    namewodiacritics: 'Oster Doense'
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0201'
+    iata: ''
+    coordinates: '5642N 00950E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK OSD'
+    name: 'Øster Snede'
+    namewodiacritics: 'Oster Snede'
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '9806'
+    iata: ''
+    coordinates: ''
+    remarks: Vejle
+-
+    ch: ''
+    locode: 'DK OTV'
+    name: 'Øster Tørslev'
+    namewodiacritics: 'Oster Torslev'
+    subdiv: '82'
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '5634N 01012E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK OUL'
+    name: 'Oster Ulslev'
+    namewodiacritics: 'Oster Ulslev'
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '0907'
+    iata: ''
+    coordinates: '5442N 01138E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK OST'
+    name: Ostermarie
+    namewodiacritics: Ostermarie
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '0907'
+    iata: ''
+    coordinates: '5508N 01502E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK OVR'
+    name: Ostervra
+    namewodiacritics: Ostervra
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '0907'
+    iata: ''
+    coordinates: '5721N 01015E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK OTT'
+    name: Otterup
+    namewodiacritics: Otterup
+    subdiv: ''
+    function: 0-------
+    status: RQ
+    date: '9705'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK AAV'
+    name: Oure
+    namewodiacritics: Oure
+    subdiv: '83'
+    function: '-----6--'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '5507N 01044E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK OTR'
+    name: Ovtrup
+    namewodiacritics: Ovtrup
+    subdiv: ''
+    function: 0-------
+    status: RQ
+    date: '9307'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK PAO'
+    name: Padborg
+    namewodiacritics: Padborg
+    subdiv: ''
+    function: '-23-----'
+    status: RL
+    date: '0701'
+    iata: ''
+    coordinates: '5449N 00921E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK PAN'
+    name: Pandrup
+    namewodiacritics: Pandrup
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0006'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK PJE'
+    name: Pjedsted
+    namewodiacritics: Pjedsted
+    subdiv: '60'
+    function: '--3-----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK PRS'
+    name: Præstø
+    namewodiacritics: Prasto
+    subdiv: '85'
+    function: '--3--6--'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '5507N 01203E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK RBL'
+    name: Randbol
+    namewodiacritics: Randbol
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '0907'
+    iata: ''
+    coordinates: '5542N 00916E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK RAN'
+    name: Randers
+    namewodiacritics: Randers
+    subdiv: ''
+    function: 123-----
+    status: AF
+    date: '9606'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK RNM'
+    name: Ranum
+    namewodiacritics: Ranum
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK RSM'
+    name: 'Rask Molle'
+    namewodiacritics: 'Rask Molle'
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '0907'
+    iata: ''
+    coordinates: '5552N 00937E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK RED'
+    name: Redsted
+    namewodiacritics: Redsted
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '0907'
+    iata: ''
+    coordinates: '5644N 00839E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK AAZ'
+    name: Reersoe
+    namewodiacritics: Reersoe
+    subdiv: '85'
+    function: '-----6--'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '5447N 01138E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK RGP'
+    name: Regstrup
+    namewodiacritics: Regstrup
+    subdiv: '30'
+    function: '--3-----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '5540N 01137E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK RSN'
+    name: Resenbro
+    namewodiacritics: Resenbro
+    subdiv: '70'
+    function: '--3-----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '5623N 00948E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK RIB'
+    name: Ribe
+    namewodiacritics: Ribe
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '9705'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK RIN'
+    name: Ringe
+    namewodiacritics: Ringe
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK RKG'
+    name: Ringkøbing
+    namewodiacritics: Ringkobing
+    subdiv: '82'
+    function: '-23-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '5605N 00814E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK RNG'
+    name: Ringsted
+    namewodiacritics: Ringsted
+    subdiv: ''
+    function: '-23-----'
+    status: AF
+    date: '9606'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK RSS'
+    name: Risskov
+    namewodiacritics: Risskov
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '9805'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK ROF'
+    name: Rødby
+    namewodiacritics: Rodby
+    subdiv: '85'
+    function: 1-3-----
+    status: AI
+    date: '1301'
+    iata: ''
+    coordinates: '5441N 01123E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK ROD'
+    name: Rødbyhavn
+    namewodiacritics: Rodbyhavn
+    subdiv: '85'
+    function: 123--6--
+    status: AA
+    date: '1301'
+    iata: ''
+    coordinates: '5439N 01121E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK RDG'
+    name: Rødding
+    namewodiacritics: Rodding
+    subdiv: '83'
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '5521N 00903E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK RDK'
+    name: Rødekro
+    namewodiacritics: Rodekro
+    subdiv: ''
+    function: 123-----
+    status: RL
+    date: '0601'
+    iata: ''
+    coordinates: '5504N 00919E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK RDB'
+    name: Rødkærsbro
+    namewodiacritics: Rodkarsbro
+    subdiv: '82'
+    function: '-23-----'
+    status: RL
+    date: '0907'
+    iata: ''
+    coordinates: '5621N 00931E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK RDV'
+    name: Rødovre
+    namewodiacritics: Rodovre
+    subdiv: '84'
+    function: '-23-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '5541N 01229E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK RDH'
+    name: 'Rødvig Havn'
+    namewodiacritics: 'Rodvig Havn'
+    subdiv: '85'
+    function: 1-------
+    status: AA
+    date: '1101'
+    iata: ''
+    coordinates: '5515N 01222E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK RMO'
+    name: Romo
+    namewodiacritics: Romo
+    subdiv: '50'
+    function: 1-3-----
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '5508N 00831E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK RND'
+    name: Rønde
+    namewodiacritics: Ronde
+    subdiv: '70'
+    function: '--3-----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK RNN'
+    name: Rønne
+    namewodiacritics: Ronne
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '9704'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK RON'
+    name: Rønnede
+    namewodiacritics: Ronnede
+    subdiv: '85'
+    function: '--3--6--'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '5515N 01200E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK RRV'
+    name: Rørvig
+    namewodiacritics: Rorvig
+    subdiv: ''
+    function: 1-------
+    status: AI
+    date: '9704'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK RKE'
+    name: Roskilde
+    namewodiacritics: Roskilde
+    subdiv: ''
+    function: 1234----
+    status: AF
+    date: '9606'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK RSL'
+    name: Roslev
+    namewodiacritics: Roslev
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '9705'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK RKB'
+    name: Rudkøbing
+    namewodiacritics: Rudkobing
+    subdiv: ''
+    function: 1-------
+    status: AI
+    date: '9704'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK RVY'
+    name: Ruds-Vedby
+    namewodiacritics: Ruds-Vedby
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0104'
+    iata: ''
+    coordinates: '5532N 01121E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK RUG'
+    name: Rungsted
+    namewodiacritics: Rungsted
+    subdiv: '84'
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '5553N 01231E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK REY'
+    name: Ry
+    namewodiacritics: Ry
+    subdiv: ''
+    function: '-23-----'
+    status: RL
+    date: '0607'
+    iata: ''
+    coordinates: '5605N 00945E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK RYN'
+    name: Rynkeby
+    namewodiacritics: Rynkeby
+    subdiv: '83'
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '5524N 01036E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK RYM'
+    name: Ryomgård
+    namewodiacritics: Ryomgard
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK RYS'
+    name: Ryslinge
+    namewodiacritics: Ryslinge
+    subdiv: '42'
+    function: 1-------
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK SAB'
+    name: Sabro
+    namewodiacritics: Sabro
+    subdiv: '70'
+    function: '--3-----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '5621N 01005E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK SAE'
+    name: Sæby
+    namewodiacritics: Saby
+    subdiv: ''
+    function: 123-----
+    status: RL
+    date: '0701'
+    iata: ''
+    coordinates: '5720N 01032E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK SLV'
+    name: 'Sælvig Havn'
+    namewodiacritics: 'Salvig Havn'
+    subdiv: ''
+    function: 1-------
+    status: AI
+    date: '9704'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK KII'
+    name: 'Saint Kilian'
+    namewodiacritics: 'Saint Kilian'
+    subdiv: '70'
+    function: 1-------
+    status: RQ
+    date: '1101'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK SAX'
+    name: Sakskøbing
+    namewodiacritics: Sakskobing
+    subdiv: ''
+    function: 1-------
+    status: AI
+    date: '9704'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK SAL'
+    name: Saltum
+    namewodiacritics: Saltum
+    subdiv: '70'
+    function: '--3-----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '5716N 00941E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK SAG'
+    name: Sandager
+    namewodiacritics: Sandager
+    subdiv: ''
+    function: 0-------
+    status: RL
+    date: '9307'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK SVG'
+    name: Sandvig
+    namewodiacritics: Sandvig
+    subdiv: ''
+    function: 1-3-----
+    status: RL
+    date: '0701'
+    iata: ''
+    coordinates: '5517N 01447E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK SAU'
+    name: Saunte
+    namewodiacritics: Saunte
+    subdiv: ''
+    function: '-----6--'
+    status: RL
+    date: '1201'
+    iata: ''
+    coordinates: '5605N 01230E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK SEO'
+    name: Sejerø
+    namewodiacritics: Sejero
+    subdiv: ''
+    function: 1-------
+    status: AI
+    date: '9704'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK SEJ'
+    name: Sejerslev
+    namewodiacritics: Sejerslev
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK SLB'
+    name: Silkeborg
+    namewodiacritics: Silkeborg
+    subdiv: ''
+    function: 123-----
+    status: AF
+    date: '9606'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK CNL'
+    name: Sindal
+    namewodiacritics: Sindal
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0201'
+    iata: ''
+    coordinates: '5727N 01012E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK SJO'
+    name: 'Sjællands Odde'
+    namewodiacritics: 'Sjallands Odde'
+    subdiv: ''
+    function: 0-------
+    status: RQ
+    date: '9402'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK SSK'
+    name: Skælskør
+    namewodiacritics: Skalskor
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '9704'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK SKB'
+    name: Skærbæk
+    namewodiacritics: Skarbak
+    subdiv: ''
+    function: 0-------
+    status: AI
+    date: '9704'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK SKE'
+    name: Skævinge
+    namewodiacritics: Skavinge
+    subdiv: '84'
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '5555N 01210E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK SKA'
+    name: Skagen
+    namewodiacritics: Skagen
+    subdiv: ''
+    function: 12------
+    status: AF
+    date: '9606'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK SKL'
+    name: Skals
+    namewodiacritics: Skals
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK SKM'
+    name: Skamby
+    namewodiacritics: Skamby
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK SKG'
+    name: Skanderborg
+    namewodiacritics: Skanderborg
+    subdiv: '82'
+    function: '-23-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '5602N 00950E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK SDO'
+    name: Skarø/Drejø
+    namewodiacritics: Skaro/Drejo
+    subdiv: ''
+    function: 1-------
+    status: AI
+    date: '9812'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK SJB'
+    name: Skejby
+    namewodiacritics: Skejby
+    subdiv: ''
+    function: 0-------
+    status: RQ
+    date: '9307'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK SKY'
+    name: Skibby
+    namewodiacritics: Skibby
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '9901'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK SKV'
+    name: Skive
+    namewodiacritics: Skive
+    subdiv: ''
+    function: 12------
+    status: AF
+    date: '9606'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK SKJ'
+    name: Skjern
+    namewodiacritics: Skjern
+    subdiv: ''
+    function: '-23-----'
+    status: AF
+    date: '9606'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK SKO'
+    name: Skodborg
+    namewodiacritics: Skodborg
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK SKT'
+    name: Skodstrup
+    namewodiacritics: Skodstrup
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK SKP'
+    name: Skørping
+    namewodiacritics: Skorping
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK SKD'
+    name: Skovlund
+    namewodiacritics: Skovlund
+    subdiv: '83'
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '5544N 00842E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK SVL'
+    name: Skovlunde
+    namewodiacritics: Skovlunde
+    subdiv: ''
+    function: '-2---6--'
+    status: RL
+    date: '1001'
+    iata: ''
+    coordinates: '5543N 01224E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK SKR'
+    name: Skrydstrup
+    namewodiacritics: Skrydstrup
+    subdiv: ''
+    function: '--34----'
+    status: RL
+    date: '0701'
+    iata: SKS
+    coordinates: '5514N 00915E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK SLG'
+    name: Slagelse
+    namewodiacritics: Slagelse
+    subdiv: ''
+    function: '-23-----'
+    status: AF
+    date: '9606'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK SLA'
+    name: Slangerup
+    namewodiacritics: Slangerup
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK SMG'
+    name: Slimminge
+    namewodiacritics: Slimminge
+    subdiv: '25'
+    function: '--3-----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK SMO'
+    name: Smørum
+    namewodiacritics: Smorum
+    subdiv: ''
+    function: 0-------
+    status: RQ
+    date: '9307'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK SDD'
+    name: Snedsted
+    namewodiacritics: Snedsted
+    subdiv: '76'
+    function: '--3-----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '5653N 00831E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK SNE'
+    name: Snekkersten
+    namewodiacritics: Snekkersten
+    subdiv: ''
+    function: 1-------
+    status: AI
+    date: '9704'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK SBG'
+    name: Søborg
+    namewodiacritics: Soborg
+    subdiv: ''
+    function: '-23-----'
+    status: RQ
+    date: '9705'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK SOB'
+    name: 'Søby Havn'
+    namewodiacritics: 'Soby Havn'
+    subdiv: ''
+    function: 1-------
+    status: AI
+    date: '9704'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: +
+    locode: 'DK SLS'
+    name: Sollested
+    namewodiacritics: Sollested
+    subdiv: '85'
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '5449N 01117E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK SOL'
+    name: 'Solrød Strand'
+    namewodiacritics: 'Solrod Strand'
+    subdiv: '85'
+    function: '--3--6--'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '5532N 01214E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK SND'
+    name: Sønder
+    namewodiacritics: Sonder
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '9705'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK ABA'
+    name: 'Sønder Bjert'
+    namewodiacritics: 'Sonder Bjert'
+    subdiv: '83'
+    function: '-----6--'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '5515N 01124E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK SFG'
+    name: 'Sønder Felding'
+    namewodiacritics: 'Sonder Felding'
+    subdiv: '82'
+    function: '--3-----'
+    status: RL
+    date: '1207'
+    iata: ''
+    coordinates: '5557N 00847E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK SOM'
+    name: 'Sønder Omme'
+    namewodiacritics: 'Sonder Omme'
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0607'
+    iata: ''
+    coordinates: '5550N 00854E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK SGD'
+    name: Sønderborg
+    namewodiacritics: Sonderborg
+    subdiv: '83'
+    function: 1234----
+    status: AF
+    date: '1301'
+    iata: ''
+    coordinates: '5454N 00947E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK SDS'
+    name: Søndersø
+    namewodiacritics: Sonderso
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0607'
+    iata: ''
+    coordinates: '5529N 01016E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK SRO'
+    name: Sorø
+    namewodiacritics: Soro
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '9705'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK SOV'
+    name: Sorvad
+    namewodiacritics: Sorvad
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '9705'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK SPJ'
+    name: Spjald
+    namewodiacritics: Spjald
+    subdiv: '82'
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '5607N 00831E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK SPB'
+    name: 'Spodsbjerg Havn'
+    namewodiacritics: 'Spodsbjerg Havn'
+    subdiv: ''
+    function: 1-------
+    status: AI
+    date: '9704'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK SPP'
+    name: Sporup
+    namewodiacritics: Sporup
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '0002'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK SPO'
+    name: Spottrup
+    namewodiacritics: Spottrup
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0212'
+    iata: ''
+    coordinates: '5556N 01015E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK SVV'
+    name: Stålvalseværket
+    namewodiacritics: Stalvalsevarket
+    subdiv: ''
+    function: 1-------
+    status: AI
+    date: '9704'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK STT'
+    name: Statoil-Havnen
+    namewodiacritics: Statoil-Havnen
+    subdiv: ''
+    function: 1-------
+    status: AF
+    date: '9606'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK STA'
+    name: Stavning
+    namewodiacritics: Stavning
+    subdiv: ''
+    function: 1--4----
+    status: AI
+    date: '0207'
+    iata: ''
+    coordinates: '5558N 00823E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK STE'
+    name: Stege
+    namewodiacritics: Stege
+    subdiv: ''
+    function: 1-------
+    status: AI
+    date: '9704'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK SRP'
+    name: Stenderup
+    namewodiacritics: Stenderup
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '9307'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK SKI'
+    name: Stenkilde
+    namewodiacritics: Stenkilde
+    subdiv: ''
+    function: 0-------
+    status: RQ
+    date: '9307'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK STL'
+    name: Stenlille
+    namewodiacritics: Stenlille
+    subdiv: '84'
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '5547N 01212E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK SLE'
+    name: Stenløse
+    namewodiacritics: Stenlose
+    subdiv: '84'
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '5546N 01212E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK SNS'
+    name: Stenstrup
+    namewodiacritics: Stenstrup
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK STP'
+    name: 'Stevns Pier'
+    namewodiacritics: 'Stevns Pier'
+    subdiv: '85'
+    function: 1-------
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '5519N 01227E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK STG'
+    name: 'Stignæsværkets Havn'
+    namewodiacritics: 'Stignasvarkets Havn'
+    subdiv: ''
+    function: 1-------
+    status: AI
+    date: '9704'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK STN'
+    name: Stigsnæs
+    namewodiacritics: Stigsnas
+    subdiv: ''
+    function: 1-------
+    status: AI
+    date: '9812'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK SIT'
+    name: 'Stigsnaes Inter Terminal'
+    namewodiacritics: 'Stigsnaes Inter Terminal'
+    subdiv: '85'
+    function: 1-------
+    status: RL
+    date: '1107'
+    iata: ''
+    coordinates: '5512N 01114E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK ABB'
+    name: Stilling
+    namewodiacritics: Stilling
+    subdiv: '82'
+    function: '-----6--'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '5604N 01000E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK SMA'
+    name: Stokkemarke
+    namewodiacritics: Stokkemarke
+    subdiv: '85'
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '5450N 01121E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK STV'
+    name: Storevorde
+    namewodiacritics: Storevorde
+    subdiv: '80'
+    function: '--3-----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '5700N 01010E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK STO'
+    name: Støvring
+    namewodiacritics: Stovring
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0201'
+    iata: ''
+    coordinates: '5630N 01010E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK STD'
+    name: Strandby
+    namewodiacritics: Strandby
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '1101'
+    iata: ''
+    coordinates: '5730N 01030E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK STY'
+    name: Strandby
+    namewodiacritics: Strandby
+    subdiv: '81'
+    function: '-----6--'
+    status: RL
+    date: '1201'
+    iata: ''
+    coordinates: '5647N 00913E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK STB'
+    name: 'Strib Havn'
+    namewodiacritics: 'Strib Havn'
+    subdiv: ''
+    function: 1-------
+    status: AI
+    date: '9704'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK STR'
+    name: Struer
+    namewodiacritics: Struer
+    subdiv: ''
+    function: 12------
+    status: AF
+    date: '9606'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK SNO'
+    name: Strynø
+    namewodiacritics: Stryno
+    subdiv: ''
+    function: 1-------
+    status: AI
+    date: '9812'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK SBK'
+    name: Stubbekøbing
+    namewodiacritics: Stubbekobing
+    subdiv: '85'
+    function: 1-------
+    status: AI
+    date: '1301'
+    iata: ''
+    coordinates: '5453N 01203E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK SSV'
+    name: 'Studstrupværkets Havn'
+    namewodiacritics: 'Studstrupvarkets Havn'
+    subdiv: ''
+    function: 1-------
+    status: AI
+    date: '9704'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK EOT'
+    name: Styrtom
+    namewodiacritics: Styrtom
+    subdiv: ''
+    function: 1-------
+    status: RL
+    date: '1201'
+    iata: ''
+    coordinates: '5501N 00926E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK SBY'
+    name: Sundby
+    namewodiacritics: Sundby
+    subdiv: '82'
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '5623N 01034E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK SNY'
+    name: Sundby/Mors
+    namewodiacritics: Sundby/Mors
+    subdiv: '81'
+    function: 1-3-----
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '5652N 00840E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK SUS'
+    name: Sunds
+    namewodiacritics: Sunds
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '9806'
+    iata: ''
+    coordinates: ''
+    remarks: Ringköbing
+-
+    ch: ''
+    locode: 'DK SUE'
+    name: Sundsøre
+    namewodiacritics: Sundsore
+    subdiv: ''
+    function: 1-------
+    status: AI
+    date: '9812'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK SVA'
+    name: Svaneke
+    namewodiacritics: Svaneke
+    subdiv: ''
+    function: 1-3-----
+    status: RL
+    date: '0701'
+    iata: ''
+    coordinates: '5508N 01509E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK SVB'
+    name: Svebølle
+    namewodiacritics: Svebolle
+    subdiv: '85'
+    function: '-23-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '5539N 01117E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK SVE'
+    name: Svendborg
+    namewodiacritics: Svendborg
+    subdiv: ''
+    function: 12------
+    status: AF
+    date: '9606'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK SVN'
+    name: Svenstrup
+    namewodiacritics: Svenstrup
+    subdiv: '81'
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '5658N 00950E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK SNN'
+    name: Svinninge
+    namewodiacritics: Svinninge
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK SDA'
+    name: Sydals
+    namewodiacritics: Sydals
+    subdiv: ''
+    function: 1-3--6--
+    status: RL
+    date: '0607'
+    iata: ''
+    coordinates: '5454N 00953E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK SYD'
+    name: Sydborg
+    namewodiacritics: Sydborg
+    subdiv: ''
+    function: 0-------
+    status: RQ
+    date: '9307'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK TBA'
+    name: Taarbæk
+    namewodiacritics: Taarbak
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '9811'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK TPN'
+    name: Tappernøje
+    namewodiacritics: Tappernoje
+    subdiv: '85'
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '5509N 01158E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK TRM'
+    name: Tarm
+    namewodiacritics: Tarm
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK TRS'
+    name: Tårs
+    namewodiacritics: Tars
+    subdiv: ''
+    function: 1-------
+    status: AI
+    date: '9704'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK TAA'
+    name: Tåstrup
+    namewodiacritics: Tastrup
+    subdiv: '84'
+    function: '--3-----'
+    status: RL
+    date: '1101'
+    iata: ''
+    coordinates: '5539N 01219E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK TTR'
+    name: Tåstrup-Valby
+    namewodiacritics: Tastrup-Valby
+    subdiv: '84'
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '5538N 01219E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK TLV'
+    name: Taulov
+    namewodiacritics: Taulov
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '0101'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK THM'
+    name: Them
+    namewodiacritics: Them
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '9806'
+    iata: ''
+    coordinates: ''
+    remarks: Arhus
+-
+    ch: ''
+    locode: 'DK TED'
+    name: Thisted
+    namewodiacritics: Thisted
+    subdiv: ''
+    function: 12-4----
+    status: AF
+    date: '9606'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK TSO'
+    name: Thorso
+    namewodiacritics: Thorso
+    subdiv: '70'
+    function: '--3-----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '5627N 01051E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK THO'
+    name: Thurø
+    namewodiacritics: Thuro
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '9811'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK THN'
+    name: Thyborøn
+    namewodiacritics: Thyboron
+    subdiv: ''
+    function: '-----6--'
+    status: RL
+    date: '1201'
+    iata: ''
+    coordinates: '5642N 00813E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK THY'
+    name: Thyholm
+    namewodiacritics: Thyholm
+    subdiv: ''
+    function: '-23-----'
+    status: RL
+    date: '0607'
+    iata: ''
+    coordinates: '5639N 00831E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK TIL'
+    name: Tilst
+    namewodiacritics: Tilst
+    subdiv: '82'
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '5612N 01007E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK TIM'
+    name: Tim
+    namewodiacritics: Tim
+    subdiv: '65'
+    function: '--3-----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '5612N 00819E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK TGV'
+    name: Tinglev
+    namewodiacritics: Tinglev
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK TIS'
+    name: Tistrup
+    namewodiacritics: Tistrup
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0106'
+    iata: ''
+    coordinates: '5542N 00836E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK TSV'
+    name: Tisvilde
+    namewodiacritics: Tisvilde
+    subdiv: '20'
+    function: '--3-----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '5605N 01208E'
+    remarks: ''
+-
+    ch: +
+    locode: 'DK TJA'
+    name: Tjaereborg
+    namewodiacritics: Tjaereborg
+    subdiv: '83'
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '5528N 00835E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK TFT'
+    name: Toftlund
+    namewodiacritics: Toftlund
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '9705'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK TOL'
+    name: Tølløse
+    namewodiacritics: Tollose
+    subdiv: '85'
+    function: '--3--6--'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '5536N 01146E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK TOM'
+    name: Tommerup
+    namewodiacritics: Tommerup
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK TON'
+    name: Tønder
+    namewodiacritics: Tonder
+    subdiv: ''
+    function: 0-------
+    status: RQ
+    date: '9311'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK TOE'
+    name: Tørring
+    namewodiacritics: Torring
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '9705'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK TMD'
+    name: Torsminde
+    namewodiacritics: Torsminde
+    subdiv: '82'
+    function: 1-3-----
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '5622N 00807E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK TOR'
+    name: Torup
+    namewodiacritics: Torup
+    subdiv: '70'
+    function: '--3-----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK TAG'
+    name: Tranbjerg
+    namewodiacritics: Tranbjerg
+    subdiv: '81'
+    function: '-----6--'
+    status: RL
+    date: '1107'
+    iata: ''
+    coordinates: '5606N 01009E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK TRN'
+    name: Tranebjerg
+    namewodiacritics: Tranebjerg
+    subdiv: '82'
+    function: '--3-----'
+    status: RQ
+    date: '1301'
+    iata: ''
+    coordinates: '5550N 01036E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK TKA'
+    name: Tranekaer
+    namewodiacritics: Tranekaer
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0607'
+    iata: ''
+    coordinates: '5500N 01051E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK TRI'
+    name: Trige
+    namewodiacritics: Trige
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0607'
+    iata: ''
+    coordinates: '5615N 01010E'
+    remarks: ''
+-
+    ch: +
+    locode: 'DK TRO'
+    name: Troense
+    namewodiacritics: Troense
+    subdiv: '83'
+    function: 1-------
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '5502N 01039E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK TRU'
+    name: Trustrup
+    namewodiacritics: Trustrup
+    subdiv: '70'
+    function: '--3-----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK TUB'
+    name: Tuborg
+    namewodiacritics: Tuborg
+    subdiv: ''
+    function: 12------
+    status: AF
+    date: '9606'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK TNO'
+    name: Tunø
+    namewodiacritics: Tuno
+    subdiv: ''
+    function: 1-------
+    status: AI
+    date: '9812'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK TUR'
+    name: Tureby
+    namewodiacritics: Tureby
+    subdiv: '85'
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '5522N 01205E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK TYB'
+    name: Tyborøn
+    namewodiacritics: Tyboron
+    subdiv: ''
+    function: 12------
+    status: AF
+    date: '9606'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK UGE'
+    name: Ugerløse
+    namewodiacritics: Ugerlose
+    subdiv: '85'
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '5537N 01109E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK ULD'
+    name: Uldum
+    namewodiacritics: Uldum
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '9705'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK ULB'
+    name: Ulfborg
+    namewodiacritics: Ulfborg
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK ULL'
+    name: Ullerslev
+    namewodiacritics: Ullerslev
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '9704'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK ULS'
+    name: Ulstrup
+    namewodiacritics: Ulstrup
+    subdiv: '82'
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '5623N 00947E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK VAD'
+    name: Vadum
+    namewodiacritics: Vadum
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK VLE'
+    name: Værløse
+    namewodiacritics: Varlose
+    subdiv: ''
+    function: '--34----'
+    status: RL
+    date: '0207'
+    iata: ''
+    coordinates: '5516N 01208E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK VAL'
+    name: Valby
+    namewodiacritics: Valby
+    subdiv: ''
+    function: 0-------
+    status: RQ
+    date: '9307'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK VAE'
+    name: Vallensbæk
+    namewodiacritics: Vallensbak
+    subdiv: '84'
+    function: 123-----
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '5538N 01221E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK VLL'
+    name: Vallø
+    namewodiacritics: Vallo
+    subdiv: '25'
+    function: '--3-----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK VDP'
+    name: Vamdrup
+    namewodiacritics: Vamdrup
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK VDL'
+    name: Vandel
+    namewodiacritics: Vandel
+    subdiv: '83'
+    function: '--3-----'
+    status: RL
+    date: '1107'
+    iata: ''
+    coordinates: '5542N 00913E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK VNG'
+    name: 'Vang Havn'
+    namewodiacritics: 'Vang Havn'
+    subdiv: ''
+    function: 1-------
+    status: RQ
+    date: '9704'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK VAN'
+    name: Vanløse
+    namewodiacritics: Vanlose
+    subdiv: '85'
+    function: '-23--6--'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '5541N 01229E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK VDE'
+    name: Varde
+    namewodiacritics: Varde
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '9705'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK VBK'
+    name: Vedbæk
+    namewodiacritics: Vedbak
+    subdiv: '84'
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '5551N 01234E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK VJN'
+    name: Vejen
+    namewodiacritics: Vejen
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK VEJ'
+    name: Vejle
+    namewodiacritics: Vejle
+    subdiv: ''
+    function: 12------
+    status: AF
+    date: '9606'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK VJT'
+    name: Vejstrup
+    namewodiacritics: Vejstrup
+    subdiv: '83'
+    function: '--3-----'
+    status: RL
+    date: '1107'
+    iata: ''
+    coordinates: '5506N 01043E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK VMB'
+    name: Vemb
+    namewodiacritics: Vemb
+    subdiv: ''
+    function: '-23-----'
+    status: RQ
+    date: '9705'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK VEN'
+    name: 'Venø Havn'
+    namewodiacritics: 'Veno Havn'
+    subdiv: ''
+    function: 1-------
+    status: AI
+    date: '9704'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK VBJ'
+    name: Vestbjerg
+    namewodiacritics: Vestbjerg
+    subdiv: '81'
+    function: '--3--6--'
+    status: RL
+    date: '1301'
+    iata: QXF
+    coordinates: '5707N 00957E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK VES'
+    name: 'Vesterø Havn, Læsø'
+    namewodiacritics: 'Vestero Havn, Laso'
+    subdiv: ''
+    function: 1-------
+    status: AI
+    date: '9704'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK VSK'
+    name: Vester-Skerninge
+    namewodiacritics: Vester-Skerninge
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '0907'
+    iata: ''
+    coordinates: '5504N 01027E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK VIB'
+    name: Viborg
+    namewodiacritics: Viborg
+    subdiv: ''
+    function: '-23-----'
+    status: AF
+    date: '9606'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK VIY'
+    name: Viby
+    namewodiacritics: Viby
+    subdiv: '82'
+    function: '--3--6--'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '5607N 01009E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK VBI'
+    name: Viby
+    namewodiacritics: Viby
+    subdiv: '85'
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '5532N 01201E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK VID'
+    name: Videbæk
+    namewodiacritics: Videbak
+    subdiv: '82'
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '5605N 00837E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK VIG'
+    name: Vig
+    namewodiacritics: Vig
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '9705'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK VAS'
+    name: Vigsnæs
+    namewodiacritics: Vigsnas
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '9811'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK VLD'
+    name: Vildbjerg
+    namewodiacritics: Vildbjerg
+    subdiv: '65'
+    function: '--3-----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK VNR'
+    name: Vinderup
+    namewodiacritics: Vinderup
+    subdiv: ''
+    function: '-23-----'
+    status: AF
+    date: '9606'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK VPP'
+    name: Vipperød
+    namewodiacritics: Vipperod
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '9704'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK VIR'
+    name: Virum
+    namewodiacritics: Virum
+    subdiv: ''
+    function: 0-------
+    status: RQ
+    date: '9307'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK VBG'
+    name: Vissenbjerg
+    namewodiacritics: Vissenbjerg
+    subdiv: '83'
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '5523N 01008E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK NVM'
+    name: Vium
+    namewodiacritics: Vium
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0201'
+    iata: ''
+    coordinates: '5640N 00858E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK VOK'
+    name: Vodskov
+    namewodiacritics: Vodskov
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '9501'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK SKS'
+    name: Vojens
+    namewodiacritics: Vojens
+    subdiv: '83'
+    function: '--34----'
+    status: AI
+    date: '1301'
+    iata: ''
+    coordinates: '5514N 00918E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK AAS'
+    name: Vorbasse
+    namewodiacritics: Vorbasse
+    subdiv: '83'
+    function: '-----6--'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '5538N 00905E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK VOR'
+    name: Vordingborg
+    namewodiacritics: Vordingborg
+    subdiv: '85'
+    function: 12------
+    status: AF
+    date: '1301'
+    iata: ''
+    coordinates: '5500N 01154E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK VBN'
+    name: 'Vordingborg Nordhavnen'
+    namewodiacritics: 'Vordingborg Nordhavnen'
+    subdiv: '85'
+    function: 1-------
+    status: AA
+    date: '1301'
+    iata: ''
+    coordinates: '5500N 01155E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK VBS'
+    name: 'Vordingborg Sydhavnen'
+    namewodiacritics: 'Vordingborg Sydhavnen'
+    subdiv: '85'
+    function: 1-------
+    status: AA
+    date: '1301'
+    iata: ''
+    coordinates: '5459N 01153E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DK VRA'
+    name: Vrå
+    namewodiacritics: Vra
+    subdiv: '81'
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '5720N 00957E'
+    remarks: ''

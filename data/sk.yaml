@@ -1,0 +1,5232 @@
+-
+    ch: ''
+    locode: 'SK BCC'
+    name: Bacuch
+    namewodiacritics: Bacuch
+    subdiv: BC
+    function: '--3-----'
+    status: RL
+    date: '1207'
+    iata: ''
+    coordinates: '4852N 01949E'
+    remarks: ''
+-
+    ch: +
+    locode: 'SK BAJ'
+    name: Bajc
+    namewodiacritics: Bajc
+    subdiv: NI
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '4755N 01813E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK BNI'
+    name: 'Balog nad Iplom'
+    namewodiacritics: 'Balog nad Iplom'
+    subdiv: BC
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '4804N 01907E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK BNB'
+    name: 'Bánovce nad Bebravou'
+    namewodiacritics: 'Banovce nad Bebravou'
+    subdiv: ''
+    function: '-23--6--'
+    status: RL
+    date: '0607'
+    iata: ''
+    coordinates: '4843N 01815E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK BBY'
+    name: 'Banská Bystrica'
+    namewodiacritics: 'Banska Bystrica'
+    subdiv: BC
+    function: '--34----'
+    status: AF
+    date: '0212'
+    iata: ''
+    coordinates: '4844N 01909E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK SZN'
+    name: 'Banska Stiavnica'
+    namewodiacritics: 'Banska Stiavnica'
+    subdiv: BC
+    function: '-----6--'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '4827N 01854E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK BDV'
+    name: Bardejov
+    namewodiacritics: Bardejov
+    subdiv: ''
+    function: '-23-----'
+    status: AC
+    date: '0507'
+    iata: ''
+    coordinates: '4917N 02116E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK BEC'
+    name: Becherov
+    namewodiacritics: Becherov
+    subdiv: PV
+    function: '--3----B'
+    status: AF
+    date: '9803'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK BCK'
+    name: Beckov
+    namewodiacritics: Beckov
+    subdiv: TA
+    function: 1-------
+    status: RL
+    date: '0701'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK BEL'
+    name: Belusa
+    namewodiacritics: Belusa
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '0607'
+    iata: ''
+    coordinates: '4904N 01819E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK BLO'
+    name: Bernolákovo
+    namewodiacritics: Bernolakovo
+    subdiv: BL
+    function: '--3-----'
+    status: RL
+    date: '0701'
+    iata: ''
+    coordinates: '4812N 01718E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK BES'
+    name: Besenova
+    namewodiacritics: Besenova
+    subdiv: NI
+    function: '--3-----'
+    status: RQ
+    date: '1001'
+    iata: ''
+    coordinates: '4803N 01816E'
+    remarks: ''
+-
+    ch: +
+    locode: 'SK BNT'
+    name: 'Bohdanovce nad Trnavou'
+    namewodiacritics: 'Bohdanovce nad Trnavou'
+    subdiv: TA
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '4826N 01733E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK BOJ'
+    name: Bojnice
+    namewodiacritics: Bojnice
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0207'
+    iata: ''
+    coordinates: '4847N 01834E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK NOL'
+    name: Boleráz
+    namewodiacritics: Boleraz
+    subdiv: ''
+    function: '-23-----'
+    status: RL
+    date: '0607'
+    iata: ''
+    coordinates: '4827N 01730E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK BSC'
+    name: Bosáca
+    namewodiacritics: Bosaca
+    subdiv: ''
+    function: '--3--6--'
+    status: RL
+    date: '1201'
+    iata: ''
+    coordinates: '4850N 01750E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK BOS'
+    name: Bosany
+    namewodiacritics: Bosany
+    subdiv: ''
+    function: '-23-----'
+    status: RL
+    date: '0307'
+    iata: ''
+    coordinates: '4835N 01817E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK BVO'
+    name: Branovo
+    namewodiacritics: Branovo
+    subdiv: NI
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '4802N 01818E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK BTS'
+    name: Bratislava
+    namewodiacritics: Bratislava
+    subdiv: BL
+    function: '-2345---'
+    status: AI
+    date: '0907'
+    iata: ''
+    coordinates: '4809N 01707E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK BAB'
+    name: 'Bratislava Port'
+    namewodiacritics: 'Bratislava Port'
+    subdiv: BL
+    function: 1-------
+    status: AF
+    date: '9803'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK BTY'
+    name: Brestovany
+    namewodiacritics: Brestovany
+    subdiv: TA
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '4823N 01741E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK BZO'
+    name: Brezno
+    namewodiacritics: Brezno
+    subdiv: BC
+    function: '-23--6--'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '4849N 01939E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK BPB'
+    name: 'Brezova pod Bradlom'
+    namewodiacritics: 'Brezova pod Bradlom'
+    subdiv: ''
+    function: '-----6--'
+    status: RQ
+    date: '1001'
+    iata: ''
+    coordinates: '4840N 01732E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK BRO'
+    name: Brodské
+    namewodiacritics: Brodske
+    subdiv: TA
+    function: '--3----B'
+    status: AF
+    date: '9803'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK BDM'
+    name: Budmerice
+    namewodiacritics: Budmerice
+    subdiv: TA
+    function: '--3-----'
+    status: RL
+    date: '0407'
+    iata: ''
+    coordinates: '4822N 01725E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK SZF'
+    name: Buzica
+    namewodiacritics: Buzica
+    subdiv: KI
+    function: '-----6--'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '4832N 02104E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK BYS'
+    name: Bystré
+    namewodiacritics: Bystre
+    subdiv: PV
+    function: '--3-----'
+    status: RL
+    date: '1007'
+    iata: ''
+    coordinates: '4901N 02133E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK YRK'
+    name: Bystricka
+    namewodiacritics: Bystricka
+    subdiv: ''
+    function: '-----6--'
+    status: RL
+    date: '1107'
+    iata: ''
+    coordinates: '4903N 01853E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK BCA'
+    name: Bytca
+    namewodiacritics: Bytca
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0501'
+    iata: ''
+    coordinates: '4913N 01834E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK CAB'
+    name: Cab
+    namewodiacritics: Cab
+    subdiv: NI
+    function: '--3--6--'
+    status: RL
+    date: '1207'
+    iata: ''
+    coordinates: '4824N 01759E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK CTE'
+    name: Cachtice
+    namewodiacritics: Cachtice
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '1001'
+    iata: ''
+    coordinates: '4842N 01747E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK CAD'
+    name: Cadca
+    namewodiacritics: Cadca
+    subdiv: ZI
+    function: '-2-----B'
+    status: AF
+    date: '9803'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK CAN'
+    name: Cana
+    namewodiacritics: Cana
+    subdiv: KI
+    function: '-2------'
+    status: AF
+    date: '9803'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK CKC'
+    name: Castkovce
+    namewodiacritics: Castkovce
+    subdiv: TC
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '4841N 01747E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK CEL'
+    name: Celadice
+    namewodiacritics: Celadice
+    subdiv: NI
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '4820N 01815E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK CER'
+    name: Certizné
+    namewodiacritics: Certizne
+    subdiv: PV
+    function: '--3-----'
+    status: RL
+    date: '1007'
+    iata: ''
+    coordinates: '4921N 02150E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK CEK'
+    name: 'Cerveny Kamen'
+    namewodiacritics: 'Cerveny Kamen'
+    subdiv: TC
+    function: '--3----B'
+    status: AF
+    date: '0212'
+    iata: ''
+    coordinates: '4905N 01811E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK CVG'
+    name: 'Chorvátsky Grob'
+    namewodiacritics: 'Chorvatsky Grob'
+    subdiv: BL
+    function: '-----6--'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '4813N 01717E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK CHO'
+    name: Chotín
+    namewodiacritics: Chotin
+    subdiv: NI
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '4748N 01814E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK CNT'
+    name: 'Cierna nad Tisou'
+    namewodiacritics: 'Cierna nad Tisou'
+    subdiv: KI
+    function: '-2-----B'
+    status: AF
+    date: '9803'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK CIE'
+    name: Cierny
+    namewodiacritics: Cierny
+    subdiv: TA
+    function: '-----6--'
+    status: RQ
+    date: '0907'
+    iata: ''
+    coordinates: '4753N 01738E'
+    remarks: ''
+-
+    ch: +
+    locode: 'SK CNB'
+    name: 'Cierny Brod'
+    namewodiacritics: 'Cierny Brod'
+    subdiv: TA
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '4809N 01740E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK SFA'
+    name: Cifare
+    namewodiacritics: Cifare
+    subdiv: NI
+    function: '--3-----'
+    status: RL
+    date: '1107'
+    iata: ''
+    coordinates: '4814N 01824E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK CFR'
+    name: Cífer
+    namewodiacritics: Cifer
+    subdiv: TA
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '4819N 01730E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK DTA'
+    name: Detva
+    namewodiacritics: Detva
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0101'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK BAA'
+    name: 'Devinska Nova Ves/Bratislava'
+    namewodiacritics: 'Devinska Nova Ves/Bratislava'
+    subdiv: BL
+    function: '-2------'
+    status: AF
+    date: '9803'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK TDN'
+    name: 'Diviaky nad Nitricou'
+    namewodiacritics: 'Diviaky nad Nitricou'
+    subdiv: TC
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '4846N 01830E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK DBR'
+    name: Dobrá
+    namewodiacritics: Dobra
+    subdiv: ''
+    function: '-23-----'
+    status: AC
+    date: '0507'
+    iata: ''
+    coordinates: '4825N 02201E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK DOJ'
+    name: Dojc
+    namewodiacritics: Dojc
+    subdiv: TA
+    function: '--3--6--'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '4840N 01716E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK DNS'
+    name: 'Dolna Streda'
+    namewodiacritics: 'Dolna Streda'
+    subdiv: TA
+    function: '-----6--'
+    status: RL
+    date: '1107'
+    iata: ''
+    coordinates: '4816N 01745E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK DOV'
+    name: 'Dolné Vestenice'
+    namewodiacritics: 'Dolne Vestenice'
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0212'
+    iata: ''
+    coordinates: '4842N 01823E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK DOK'
+    name: 'Dolny Kubín'
+    namewodiacritics: 'Dolny Kubin'
+    subdiv: ZI
+    function: '-23-----'
+    status: RL
+    date: '0407'
+    iata: ''
+    coordinates: '4912N 01918E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK DLV'
+    name: 'Dolný Lieskov'
+    namewodiacritics: 'Dolny Lieskov'
+    subdiv: TC
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '4903N 01825E'
+    remarks: ''
+-
+    ch: +
+    locode: 'SK DOS'
+    name: 'Dolný Stál'
+    namewodiacritics: 'Dolny Stal'
+    subdiv: TA
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '4756N 01743E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK DOM'
+    name: Domica
+    namewodiacritics: Domica
+    subdiv: KI
+    function: '--3----B'
+    status: AF
+    date: '9803'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK DVE'
+    name: Drahovce
+    namewodiacritics: Drahovce
+    subdiv: TA
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '4831N 01748E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK DRI'
+    name: Drietoma
+    namewodiacritics: Drietoma
+    subdiv: TC
+    function: '--3----B'
+    status: AF
+    date: '9803'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK DRZ'
+    name: Drzenice
+    namewodiacritics: Drzenice
+    subdiv: NI
+    function: '-----6--'
+    status: RL
+    date: '1007'
+    iata: ''
+    coordinates: '4817N 01842E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK SZH'
+    name: Dubnica
+    namewodiacritics: Dubnica
+    subdiv: TC
+    function: '-----6--'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '4848N 01835E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK DNV'
+    name: 'Dubnica nad Váhom'
+    namewodiacritics: 'Dubnica nad Vahom'
+    subdiv: ''
+    function: '-23-----'
+    status: RL
+    date: '0601'
+    iata: ''
+    coordinates: '4858N 01811E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK DUB'
+    name: Dubova
+    namewodiacritics: Dubova
+    subdiv: BL
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '4822N 01720E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK SZI'
+    name: Dulovce
+    namewodiacritics: Dulovce
+    subdiv: NI
+    function: '-----6--'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '4752N 01816E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK DJZ'
+    name: 'Dunajska Luzna'
+    namewodiacritics: 'Dunajska Luzna'
+    subdiv: BL
+    function: '--3-----'
+    status: RL
+    date: '1207'
+    iata: ''
+    coordinates: '4805N 01716W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK DJA'
+    name: 'Dunajská Streda'
+    namewodiacritics: 'Dunajska Streda'
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0607'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK DVO'
+    name: Dvorniky
+    namewodiacritics: Dvorniky
+    subdiv: KI
+    function: 1----6--
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '4836N 02050E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK DZI'
+    name: 'Dvory nad Zitavou'
+    namewodiacritics: 'Dvory nad Zitavou'
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0701'
+    iata: ''
+    coordinates: '4759N 01816E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK FIA'
+    name: Filakovo
+    namewodiacritics: Filakovo
+    subdiv: BC
+    function: '-2------'
+    status: AF
+    date: '9803'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK GLT'
+    name: Galanta
+    namewodiacritics: Galanta
+    subdiv: TA
+    function: 123-----
+    status: RL
+    date: '0407'
+    iata: ''
+    coordinates: '4812N 01743E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK GAN'
+    name: Gan
+    namewodiacritics: Gan
+    subdiv: TA
+    function: '--3-----'
+    status: RQ
+    date: '1001'
+    iata: ''
+    coordinates: '4814N 01743E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK GBY'
+    name: Gbelany
+    namewodiacritics: Gbelany
+    subdiv: ZI
+    function: '-----6--'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '4913N 01851E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK GBL'
+    name: Gbely
+    namewodiacritics: Gbely
+    subdiv: TA
+    function: '-----6--'
+    status: RL
+    date: '1107'
+    iata: ''
+    coordinates: '4843N 01708E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK GLA'
+    name: Gelnica
+    namewodiacritics: Gelnica
+    subdiv: ''
+    function: '-23-----'
+    status: RL
+    date: '0601'
+    iata: ''
+    coordinates: '4851N 02056E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK GEM'
+    name: 'Gemerska Horka'
+    namewodiacritics: 'Gemerska Horka'
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0507'
+    iata: ''
+    coordinates: '4832N 02022E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK HML'
+    name: Hamuliakovo
+    namewodiacritics: Hamuliakovo
+    subdiv: BL
+    function: '--3-----'
+    status: RL
+    date: '1101'
+    iata: ''
+    coordinates: '4802N 01715E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK HLA'
+    name: Handlova
+    namewodiacritics: Handlova
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '0607'
+    iata: ''
+    coordinates: '4843N 01833E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK HDL'
+    name: Handlová
+    namewodiacritics: Handlova
+    subdiv: ''
+    function: '-23-----'
+    status: RL
+    date: '0601'
+    iata: ''
+    coordinates: '4844N 01846E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK HKS'
+    name: 'Haniska pri Kosiciach'
+    namewodiacritics: 'Haniska pri Kosiciach'
+    subdiv: ''
+    function: '--3-----'
+    status: AC
+    date: '0507'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK HNT'
+    name: 'Hanusovce nad Topl''ou'
+    namewodiacritics: 'Hanusovce nad Topl''ou'
+    subdiv: PV
+    function: '-----6--'
+    status: RL
+    date: '1007'
+    iata: ''
+    coordinates: '4902N 02130E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK HAR'
+    name: Harichovce
+    namewodiacritics: Harichovce
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0401'
+    iata: ''
+    coordinates: '4858N 02035E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK NEC'
+    name: Harmanec
+    namewodiacritics: Harmanec
+    subdiv: BC
+    function: '-23-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '4849N 01903E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK HCV'
+    name: Hencovce
+    namewodiacritics: Hencovce
+    subdiv: PV
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '4853N 02144E'
+    remarks: ''
+-
+    ch: +
+    locode: 'SK HNH'
+    name: 'Hliník nad Hronom'
+    namewodiacritics: 'Hlinik nad Hronom'
+    subdiv: BC
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '4833N 01847E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK HLO'
+    name: Hlohovec
+    namewodiacritics: Hlohovec
+    subdiv: TA
+    function: '-23-----'
+    status: RL
+    date: '0507'
+    iata: ''
+    coordinates: '4825N 01748E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK HZD'
+    name: Hniezdne
+    namewodiacritics: Hniezdne
+    subdiv: PV
+    function: '--3--6--'
+    status: RL
+    date: '1107'
+    iata: ''
+    coordinates: '4918N 02038E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK SZK'
+    name: Hnústa
+    namewodiacritics: Hnusta
+    subdiv: BC
+    function: '-----6--'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '4835N 01958E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK HRS'
+    name: Hodrusa
+    namewodiacritics: Hodrusa
+    subdiv: BC
+    function: '-----6--'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '4828N 01849E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK HOL'
+    name: Holíc
+    namewodiacritics: Holic
+    subdiv: TA
+    function: '-23----B'
+    status: AF
+    date: '0212'
+    iata: ''
+    coordinates: '4848N 01710E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK HOK'
+    name: 'Horná Králová'
+    namewodiacritics: 'Horna Kralova'
+    subdiv: NI
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '4814N 01755E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK HST'
+    name: 'Horna Streda'
+    namewodiacritics: 'Horna Streda'
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '0907'
+    iata: ''
+    coordinates: '4840N 01751E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK HSM'
+    name: 'Horné Srnie'
+    namewodiacritics: 'Horne Srnie'
+    subdiv: TC
+    function: '--3----B'
+    status: AF
+    date: '0201'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK SZL'
+    name: 'Horný Hricov'
+    namewodiacritics: 'Horny Hricov'
+    subdiv: ZI
+    function: '-----6--'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '4915N 01840E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK HOR'
+    name: Horovce
+    namewodiacritics: Horovce
+    subdiv: ''
+    function: '-----6--'
+    status: RQ
+    date: '1001'
+    iata: ''
+    coordinates: '4909N 01815E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK HOS'
+    name: Hostovce
+    namewodiacritics: Hostovce
+    subdiv: KI
+    function: '--3----B'
+    status: AF
+    date: '9803'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK HRV'
+    name: 'Hradiste pod Vrátnom'
+    namewodiacritics: 'Hradiste pod Vratnom'
+    subdiv: TA
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '4838N 01730E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK HHA'
+    name: Hranicné
+    namewodiacritics: Hranicne
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0401'
+    iata: ''
+    coordinates: '4922N 02043E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK HRI'
+    name: Hricov
+    namewodiacritics: Hricov
+    subdiv: ZI
+    function: '---4---B'
+    status: AF
+    date: '9803'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK HNA'
+    name: Hrinová
+    namewodiacritics: Hrinova
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0212'
+    iata: ''
+    coordinates: '4835N 01932E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK HRN'
+    name: 'Hrnciarovce nad Parnou'
+    namewodiacritics: 'Hrnciarovce nad Parnou'
+    subdiv: TA
+    function: '-23--6--'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '4821N 01734E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK HDU'
+    name: 'Hronska Dubrava'
+    namewodiacritics: 'Hronska Dubrava'
+    subdiv: BC
+    function: '-----6--'
+    status: RQ
+    date: '1001'
+    iata: ''
+    coordinates: '4835N 19000E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK HUL'
+    name: Hul
+    namewodiacritics: Hul
+    subdiv: NI
+    function: '--3-----'
+    status: RQ
+    date: '1001'
+    iata: ''
+    coordinates: '4806N 01816E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK HNE'
+    name: Humenné
+    namewodiacritics: Humenne
+    subdiv: ''
+    function: '-23--6--'
+    status: AC
+    date: '0507'
+    iata: ''
+    coordinates: '4855N 02154E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK HUM'
+    name: Humenné
+    namewodiacritics: Humenne
+    subdiv: ''
+    function: '-23-----'
+    status: RL
+    date: '0601'
+    iata: ''
+    coordinates: '4856N 02155E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK HBV'
+    name: 'Hurbanova Ves'
+    namewodiacritics: 'Hurbanova Ves'
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0201'
+    iata: ''
+    coordinates: '4809N 01724E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK HBO'
+    name: Hurbanovo
+    namewodiacritics: Hurbanovo
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0701'
+    iata: ''
+    coordinates: '4752N 01811E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK ILV'
+    name: Ilava
+    namewodiacritics: Ilava
+    subdiv: ''
+    function: '-23--6--'
+    status: AC
+    date: '0507'
+    iata: ''
+    coordinates: '4900N 01813E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK PEL'
+    name: 'Ipelský Sokolec'
+    namewodiacritics: 'Ipelsky Sokolec'
+    subdiv: NI
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '4801N 01849E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK SZC'
+    name: Istebné
+    namewodiacritics: Istebne
+    subdiv: ZI
+    function: '-----6--'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '4913N 01913E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK IVA'
+    name: 'Ivanka pri Dunaji'
+    namewodiacritics: 'Ivanka pri Dunaji'
+    subdiv: BL
+    function: '-----6--'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '4811N 01716E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK IPN'
+    name: 'Ivanka pri Nitre'
+    namewodiacritics: 'Ivanka pri Nitre'
+    subdiv: NI
+    function: '--3-----'
+    status: RL
+    date: '1201'
+    iata: ''
+    coordinates: '4814N 01807E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK SZP'
+    name: Jablonica
+    namewodiacritics: Jablonica
+    subdiv: TA
+    function: '-----6--'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '4836N 01725E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK JNT'
+    name: 'Jablonov nad Turnou'
+    namewodiacritics: 'Jablonov nad Turnou'
+    subdiv: ''
+    function: '--3-----'
+    status: AC
+    date: '0507'
+    iata: ''
+    coordinates: '4835N 02040E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK JLO'
+    name: Jablonové
+    namewodiacritics: Jablonove
+    subdiv: BL
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '4821N 01706E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK SZO'
+    name: Jahodna
+    namewodiacritics: Jahodna
+    subdiv: TA
+    function: '-----6--'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '4803N 01742E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK JAR'
+    name: Jarovce
+    namewodiacritics: Jarovce
+    subdiv: BL
+    function: '--3----B'
+    status: AF
+    date: '9803'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK JAS'
+    name: Jasenica
+    namewodiacritics: Jasenica
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0501'
+    iata: ''
+    coordinates: '4911N 01827E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK JBE'
+    name: 'Jaslovské Bohunice'
+    namewodiacritics: 'Jaslovske Bohunice'
+    subdiv: TA
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '4828N 01739E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK JAO'
+    name: Jasova
+    namewodiacritics: Jasova
+    subdiv: NI
+    function: '--3-----'
+    status: RL
+    date: '1007'
+    iata: ''
+    coordinates: '4759N 01824W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK JSV'
+    name: Jasová
+    namewodiacritics: Jasova
+    subdiv: NI
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '4759N 01824E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK JAV'
+    name: Javorina
+    namewodiacritics: Javorina
+    subdiv: PV
+    function: '--3-----'
+    status: AF
+    date: '0307'
+    iata: ''
+    coordinates: '4916N 02009E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK JKA'
+    name: Jelka
+    namewodiacritics: Jelka
+    subdiv: TA
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '4809N 01731E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK JJJ'
+    name: Jelsava
+    namewodiacritics: Jelsava
+    subdiv: BC
+    function: '-23-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '4838N 02014E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK JSK'
+    name: Jesenské
+    namewodiacritics: Jesenske
+    subdiv: ''
+    function: '-23--6--'
+    status: AC
+    date: '0507'
+    iata: ''
+    coordinates: '4810N 01825E'
+    remarks: ''
+-
+    ch: +
+    locode: 'SK KA2'
+    name: Kalinkovo
+    namewodiacritics: Kalinkovo
+    subdiv: BL
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '4804N 01715E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK KAL'
+    name: Kalonda
+    namewodiacritics: Kalonda
+    subdiv: BC
+    function: '--3----B'
+    status: AF
+    date: '9803'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK KSY'
+    name: Kapusany
+    namewodiacritics: Kapusany
+    subdiv: PV
+    function: '-23-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '4903N 02120E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK KHU'
+    name: 'Katarinska Huta'
+    namewodiacritics: 'Katarinska Huta'
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '0607'
+    iata: ''
+    coordinates: '4827N 01937E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK KHC'
+    name: Kechnec
+    namewodiacritics: Kechnec
+    subdiv: KI
+    function: '-23--6--'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '4833N 02116E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK KZK'
+    name: Kezmarok
+    namewodiacritics: Kezmarok
+    subdiv: ''
+    function: '--3-----'
+    status: AC
+    date: '0507'
+    iata: ''
+    coordinates: '4908N 02025E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK KLO'
+    name: Klokocov
+    namewodiacritics: Klokocov
+    subdiv: ZI
+    function: '--3----B'
+    status: AF
+    date: '9803'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK KOC'
+    name: Kocovce
+    namewodiacritics: Kocovce
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0407'
+    iata: ''
+    coordinates: '4845N 01753E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK KAO'
+    name: Kolárovo
+    namewodiacritics: Kolarovo
+    subdiv: NI
+    function: 123-----
+    status: RL
+    date: '0701'
+    iata: ''
+    coordinates: '4754N 01759E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK KNA'
+    name: Komarno
+    namewodiacritics: Komarno
+    subdiv: NI
+    function: '-23-----'
+    status: AF
+    date: '9803'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK KNP'
+    name: 'Komarno Port'
+    namewodiacritics: 'Komarno Port'
+    subdiv: NI
+    function: 1-------
+    status: AF
+    date: '9803'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK KRM'
+    name: Koromla
+    namewodiacritics: Koromla
+    subdiv: ''
+    function: '--3-----'
+    status: AC
+    date: '0507'
+    iata: ''
+    coordinates: '4842N 02217E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK KTK'
+    name: Kos
+    namewodiacritics: Kos
+    subdiv: TC
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '4845N 01835E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK KSC'
+    name: Kosice
+    namewodiacritics: Kosice
+    subdiv: KI
+    function: '-2345---'
+    status: AF
+    date: '0401'
+    iata: ''
+    coordinates: '4843N 02115E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK KNT'
+    name: 'Kostany nad Turcom'
+    namewodiacritics: 'Kostany nad Turcom'
+    subdiv: ZI
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '4920N 18540E'
+    remarks: ''
+-
+    ch: +
+    locode: 'SK KOV'
+    name: Kovarce
+    namewodiacritics: Kovarce
+    subdiv: NI
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '4830N 01810E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK KKV'
+    name: Krakovany
+    namewodiacritics: Krakovany
+    subdiv: TA
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '4837N 01746E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK KRA'
+    name: Kral
+    namewodiacritics: Kral
+    subdiv: BC
+    function: '--3----B'
+    status: AF
+    date: '9803'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK KNN'
+    name: 'Králová nad Váhom'
+    namewodiacritics: 'Kralova nad Vahom'
+    subdiv: NI
+    function: '--3-----'
+    status: RL
+    date: '1207'
+    iata: ''
+    coordinates: '4810N 01751E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK SZQ'
+    name: 'Kralovsky Chlmec'
+    namewodiacritics: 'Kralovsky Chlmec'
+    subdiv: KI
+    function: '-----6--'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '4825N 02159E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK KKU'
+    name: 'Krásno nad Kysucou'
+    namewodiacritics: 'Krasno nad Kysucou'
+    subdiv: ZI
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '4923N 01850E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK SZR'
+    name: Kremnica
+    namewodiacritics: Kremnica
+    subdiv: BC
+    function: '-----6--'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '4842N 01855E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK KRV'
+    name: Kriván
+    namewodiacritics: Krivan
+    subdiv: ''
+    function: '-23-----'
+    status: RL
+    date: '0607'
+    iata: ''
+    coordinates: '4832N 01926E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK KRY'
+    name: Krízovany
+    namewodiacritics: Krizovany
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0601'
+    iata: ''
+    coordinates: '4859N 02103E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK KDV'
+    name: 'Krízovany nad Dudváhom'
+    namewodiacritics: 'Krizovany nad Dudvahom'
+    subdiv: ''
+    function: '--3--6--'
+    status: RL
+    date: '0507'
+    iata: ''
+    coordinates: '4820N 01740E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK KPY'
+    name: Krompachy
+    namewodiacritics: Krompachy
+    subdiv: ''
+    function: '-23--6--'
+    status: RL
+    date: '0601'
+    iata: ''
+    coordinates: '4855N 02052E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK KRU'
+    name: Krupina
+    namewodiacritics: Krupina
+    subdiv: ''
+    function: '-23-----'
+    status: RL
+    date: '0601'
+    iata: ''
+    coordinates: '4821N 01904E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK KUR'
+    name: Krusovce
+    namewodiacritics: Krusovce
+    subdiv: NI
+    function: '-----6--'
+    status: RL
+    date: '1201'
+    iata: ''
+    coordinates: '4835N 01812E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK KKO'
+    name: Kuklov
+    namewodiacritics: Kuklov
+    subdiv: TA
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '4838N 01705E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK KUT'
+    name: Kúty
+    namewodiacritics: Kuty
+    subdiv: TA
+    function: '-23----B'
+    status: AF
+    date: '0212'
+    iata: ''
+    coordinates: '4840N 01701E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK KVE'
+    name: Kvetoslavov
+    namewodiacritics: Kvetoslavov
+    subdiv: TA
+    function: 1----6--
+    status: RL
+    date: '1201'
+    iata: ''
+    coordinates: '4803N 01721E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK KNM'
+    name: 'Kysucké Nové Mesto'
+    namewodiacritics: 'Kysucke Nove Mesto'
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0307'
+    iata: ''
+    coordinates: '4918N 01847E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK LAS'
+    name: Laskar
+    namewodiacritics: Laskar
+    subdiv: ''
+    function: '-----6--'
+    status: RL
+    date: '1107'
+    iata: ''
+    coordinates: '4844N 01834E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK LNR'
+    name: 'Lednické Rovné'
+    namewodiacritics: 'Lednicke Rovne'
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0601'
+    iata: ''
+    coordinates: '4904N 01817E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK LEH'
+    name: Lehota
+    namewodiacritics: Lehota
+    subdiv: TA
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '4819N 01800E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK LEN'
+    name: Lenartovce
+    namewodiacritics: Lenartovce
+    subdiv: BC
+    function: '-2------'
+    status: AF
+    date: '9803'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK LVE'
+    name: Levice
+    namewodiacritics: Levice
+    subdiv: ''
+    function: '-23-----'
+    status: AC
+    date: '0507'
+    iata: ''
+    coordinates: '4813N 01836E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK VOA'
+    name: Levoca
+    namewodiacritics: Levoca
+    subdiv: PV
+    function: '-----6--'
+    status: RL
+    date: '1007'
+    iata: ''
+    coordinates: '4902N 02036E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK LLA'
+    name: 'Lietavska Lucka'
+    namewodiacritics: 'Lietavska Lucka'
+    subdiv: ZI
+    function: '-----6--'
+    status: RQ
+    date: '0907'
+    iata: ''
+    coordinates: '4910N 01843E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK LIA'
+    name: Likavka
+    namewodiacritics: Likavka
+    subdiv: ZI
+    function: '-----6--'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '4960N 19190E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK LIP'
+    name: Lipany
+    namewodiacritics: Lipany
+    subdiv: PV
+    function: '-----6--'
+    status: RL
+    date: '1007'
+    iata: ''
+    coordinates: '4909N 02058E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK SZS'
+    name: 'Liptovsky Hradok'
+    namewodiacritics: 'Liptovsky Hradok'
+    subdiv: ZI
+    function: '-----6--'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '4902N 01944E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK LIM'
+    name: 'Liptovsky Mikulás'
+    namewodiacritics: 'Liptovsky Mikulas'
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0212'
+    iata: ''
+    coordinates: '4905N 01937E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK LZO'
+    name: Lozorno
+    namewodiacritics: Lozorno
+    subdiv: ''
+    function: '-23-----'
+    status: RL
+    date: '0601'
+    iata: ''
+    coordinates: '4820N 01703E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK LUB'
+    name: Lubeník
+    namewodiacritics: Lubenik
+    subdiv: BC
+    function: '-23-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '4840N 02012E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK LBT'
+    name: Lubotice
+    namewodiacritics: Lubotice
+    subdiv: PV
+    function: '-----6--'
+    status: RL
+    date: '1007'
+    iata: ''
+    coordinates: '4901N 02117E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK LUE'
+    name: Lucenec
+    namewodiacritics: Lucenec
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK LCY'
+    name: Lúcky
+    namewodiacritics: Lucky
+    subdiv: KI
+    function: '-----6--'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '4846N 02203E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK LMH'
+    name: 'Luky p Makytou-Horni Lidéc'
+    namewodiacritics: 'Luky p Makytou-Horni Lidec'
+    subdiv: TC
+    function: '-2-----B'
+    status: AF
+    date: '9803'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK LUZ'
+    name: Luzianky
+    namewodiacritics: Luzianky
+    subdiv: NI
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '4820N 01803E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK LYD'
+    name: 'Lysá nad Dunajcom'
+    namewodiacritics: 'Lysa nad Dunajcom'
+    subdiv: PV
+    function: '--3----B'
+    status: AF
+    date: '0212'
+    iata: ''
+    coordinates: '4924N 02020E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK LMS'
+    name: 'Lysa pod Makytou-Strelna'
+    namewodiacritics: 'Lysa pod Makytou-Strelna'
+    subdiv: TC
+    function: '--3----B'
+    status: AF
+    date: '9803'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK MAO'
+    name: Macov
+    namewodiacritics: Macov
+    subdiv: TC
+    function: '--3-----'
+    status: RL
+    date: '0701'
+    iata: ''
+    coordinates: '4845N 01829E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK MAD'
+    name: Mad
+    namewodiacritics: Mad
+    subdiv: TA
+    function: '-23-----'
+    status: RL
+    date: '1207'
+    iata: ''
+    coordinates: '4757N 01740E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK MDC'
+    name: Madunice
+    namewodiacritics: Madunice
+    subdiv: TA
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '4829N 01747E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK MJH'
+    name: Majcichov
+    namewodiacritics: Majcichov
+    subdiv: TA
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '4817N 01738E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK MHB'
+    name: 'Makov-Horni Becva'
+    namewodiacritics: 'Makov-Horni Becva'
+    subdiv: ZI
+    function: '--3----B'
+    status: AF
+    date: '9803'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK MDM'
+    name: 'Mala Domasa'
+    namewodiacritics: 'Mala Domasa'
+    subdiv: PV
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '4858N 02143E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK MAC'
+    name: Malacky
+    namewodiacritics: Malacky
+    subdiv: ''
+    function: '-23--6--'
+    status: AC
+    date: '0507'
+    iata: ''
+    coordinates: '4826N 01701E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK SZT'
+    name: 'Male Bielice'
+    namewodiacritics: 'Male Bielice'
+    subdiv: TC
+    function: '-----6--'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '4838N 01820E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK MDV'
+    name: 'Male Dvorniky'
+    namewodiacritics: 'Male Dvorniky'
+    subdiv: TA
+    function: '--3-----'
+    status: RL
+    date: '1207'
+    iata: ''
+    coordinates: '4801N 01739E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK MUH'
+    name: 'Male Uherce'
+    namewodiacritics: 'Male Uherce'
+    subdiv: TC
+    function: '-----6--'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '4837N 01824E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK MKS'
+    name: 'Maly Krtis'
+    namewodiacritics: 'Maly Krtis'
+    subdiv: BC
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '4811N 01922E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK MRT'
+    name: Martin
+    namewodiacritics: Martin
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '9704'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK MAT'
+    name: Martovce
+    namewodiacritics: Martovce
+    subdiv: ''
+    function: 1-3-----
+    status: RL
+    date: '0601'
+    iata: ''
+    coordinates: '4751N 01807E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK MVA'
+    name: 'Matovské Vojkovské'
+    namewodiacritics: 'Matovske Vojkovske'
+    subdiv: ''
+    function: '-2------'
+    status: AF
+    date: '9803'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK MED'
+    name: Medvedov
+    namewodiacritics: Medvedov
+    subdiv: TA
+    function: '--3----B'
+    status: AF
+    date: '9803'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK MEZ'
+    name: Medzilaborce
+    namewodiacritics: Medzilaborce
+    subdiv: PV
+    function: '--3-----'
+    status: RL
+    date: '1007'
+    iata: ''
+    coordinates: '4916N 02155E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK MHC'
+    name: Michalovce
+    namewodiacritics: Michalovce
+    subdiv: ''
+    function: '-23--6--'
+    status: AC
+    date: '0507'
+    iata: ''
+    coordinates: '4845N 02155E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK MIL'
+    name: Milhost
+    namewodiacritics: Milhost
+    subdiv: KI
+    function: '--3----B'
+    status: AF
+    date: '9803'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK MLV'
+    name: Miloslavov
+    namewodiacritics: Miloslavov
+    subdiv: BL
+    function: '--3-----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '4806N 01718E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK MPA'
+    name: 'Mnísek nad Popradom'
+    namewodiacritics: 'Mnisek nad Popradom'
+    subdiv: PV
+    function: '--3-----'
+    status: AF
+    date: '0212'
+    iata: ''
+    coordinates: '4925N 02043E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK MHV'
+    name: Mochovce
+    namewodiacritics: Mochovce
+    subdiv: NI
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '4816N 01827E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK MOD'
+    name: Modra
+    namewodiacritics: Modra
+    subdiv: ''
+    function: 1----6--
+    status: RQ
+    date: '1001'
+    iata: ''
+    coordinates: '4820N 01719E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK HIL'
+    name: Mojmirovce
+    namewodiacritics: Mojmirovce
+    subdiv: TA
+    function: 1-3-----
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '4813N 01804E'
+    remarks: ''
+-
+    ch: +
+    locode: 'SK MOV'
+    name: Mojmírovce
+    namewodiacritics: Mojmirovce
+    subdiv: NI
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '4813N 01804E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK MOL'
+    name: 'Moravské Lieskové'
+    namewodiacritics: 'Moravske Lieskove'
+    subdiv: TC
+    function: '--3----B'
+    status: AF
+    date: '0212'
+    iata: ''
+    coordinates: '4849N 01748E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK MSJ'
+    name: 'Moravsky Sväty Ján'
+    namewodiacritics: 'Moravsky Svaty Jan'
+    subdiv: TA
+    function: '--3----B'
+    status: AF
+    date: '0212'
+    iata: ''
+    coordinates: '4835N 01701E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK MYJ'
+    name: Myjava
+    namewodiacritics: Myjava
+    subdiv: TC
+    function: '-2-----B'
+    status: AF
+    date: '9803'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK MYV'
+    name: Myjava-Vrbovce
+    namewodiacritics: Myjava-Vrbovce
+    subdiv: TC
+    function: '--3----B'
+    status: AF
+    date: '9803'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK NSO'
+    name: Námestovo
+    namewodiacritics: Namestovo
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0201'
+    iata: ''
+    coordinates: '4924N 01928E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK NSV'
+    name: Nemsová
+    namewodiacritics: Nemsova
+    subdiv: TC
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '4858N 01807E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK SVA'
+    name: Nesvady
+    namewodiacritics: Nesvady
+    subdiv: NI
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '4756N 01807E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK NRA'
+    name: Nitra
+    namewodiacritics: Nitra
+    subdiv: ''
+    function: 0-------
+    status: RL
+    date: '9012'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK NTB'
+    name: 'Nitrianska Blatnica'
+    namewodiacritics: 'Nitrianska Blatnica'
+    subdiv: NI
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '4833N 01758E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK SZU'
+    name: 'Nitrianske Hrnciarovce'
+    namewodiacritics: 'Nitrianske Hrnciarovce'
+    subdiv: NI
+    function: '-----6--'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '4820N 01808E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK SZV'
+    name: 'Nitrianske Pravno'
+    namewodiacritics: 'Nitrianske Pravno'
+    subdiv: TC
+    function: '-----6--'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '4852N 01838E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK NZA'
+    name: Nizná
+    namewodiacritics: Nizna
+    subdiv: PV
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '4832N 01739E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK NZZ'
+    name: Nizná
+    namewodiacritics: Nizna
+    subdiv: ZI
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '4919N 01931E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK NBA'
+    name: 'Nová Bana'
+    namewodiacritics: 'Nova Bana'
+    subdiv: BC
+    function: '--3--6--'
+    status: RQ
+    date: '1001'
+    iata: ''
+    coordinates: '4826N 01839E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK NOB'
+    name: 'Nova Bosaca'
+    namewodiacritics: 'Nova Bosaca'
+    subdiv: TC
+    function: '--3----B'
+    status: AF
+    date: '9803'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK NOY'
+    name: 'Nova Bystrica'
+    namewodiacritics: 'Nova Bystrica'
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '1107'
+    iata: ''
+    coordinates: '4921N 01901E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK NDD'
+    name: 'Nová Dedinka'
+    namewodiacritics: 'Nova Dedinka'
+    subdiv: BL
+    function: '--3-----'
+    status: RL
+    date: '1207'
+    iata: ''
+    coordinates: '4811N 01721E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK NDN'
+    name: 'Nova Dubnica'
+    namewodiacritics: 'Nova Dubnica'
+    subdiv: TC
+    function: '-----6--'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '4857N 01809E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK SYC'
+    name: 'Nova Straz'
+    namewodiacritics: 'Nova Straz'
+    subdiv: NI
+    function: '-----6--'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '4746N 01803E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK NVE'
+    name: 'Nová Ves'
+    namewodiacritics: 'Nova Ves'
+    subdiv: TC
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '4902N 01815E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK NVV'
+    name: 'Nová Ves'
+    namewodiacritics: 'Nova Ves'
+    subdiv: BC
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '4810N 01922E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK NKY'
+    name: Nováky
+    namewodiacritics: Novaky
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0212'
+    iata: ''
+    coordinates: '4843N 01833E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK NMV'
+    name: 'Nové Mesto nad Váhom'
+    namewodiacritics: 'Nove Mesto nad Vahom'
+    subdiv: TC
+    function: '--3-----'
+    status: RL
+    date: '0401'
+    iata: ''
+    coordinates: '4845N 01750E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK NSA'
+    name: 'Nové Sady'
+    namewodiacritics: 'Nove Sady'
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0407'
+    iata: ''
+    coordinates: '4824N 01759E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK NOV'
+    name: 'Nové Zámky'
+    namewodiacritics: 'Nove Zamky'
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0212'
+    iata: ''
+    coordinates: '4759N 01810E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK ORJ'
+    name: 'Oravska Jasenica'
+    namewodiacritics: 'Oravska Jasenica'
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '1107'
+    iata: ''
+    coordinates: '4939N 01943E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK ORP'
+    name: 'Oravská Polhora'
+    namewodiacritics: 'Oravska Polhora'
+    subdiv: ZI
+    function: '--3----B'
+    status: AF
+    date: '0212'
+    iata: ''
+    coordinates: '4931N 01927E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK OVE'
+    name: 'Oravské Veselé'
+    namewodiacritics: 'Oravske Vesele'
+    subdiv: ZI
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '4928N 01923E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK OLV'
+    name: Orlov
+    namewodiacritics: Orlov
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0501'
+    iata: ''
+    coordinates: '4917N 02052E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK SZW'
+    name: Oslany
+    namewodiacritics: Oslany
+    subdiv: TC
+    function: '-----6--'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '4838N 01828E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK OST'
+    name: Ostrov
+    namewodiacritics: Ostrov
+    subdiv: TA
+    function: '--3-----'
+    status: RL
+    date: '0701'
+    iata: ''
+    coordinates: '4837N 01745E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK PAL'
+    name: Palota
+    namewodiacritics: Palota
+    subdiv: PV
+    function: '-2-----B'
+    status: AF
+    date: '9803'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK PAR'
+    name: Partizánske
+    namewodiacritics: Partizanske
+    subdiv: TC
+    function: '-23--6--'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '4838N 01823E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK PTV'
+    name: Petrovany
+    namewodiacritics: Petrovany
+    subdiv: PV
+    function: '-----6--'
+    status: RQ
+    date: '1001'
+    iata: ''
+    coordinates: '4855N 02116E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK BRP'
+    name: Petrzalka/Bratislava
+    namewodiacritics: Petrzalka/Bratislava
+    subdiv: BL
+    function: '--3----B'
+    status: AF
+    date: '9803'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK PZK'
+    name: Pezinok
+    namewodiacritics: Pezinok
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '0101'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK PZY'
+    name: Piestany
+    namewodiacritics: Piestany
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK SYB'
+    name: 'Plave Vozokany'
+    namewodiacritics: 'Plave Vozokany'
+    subdiv: NI
+    function: '-----6--'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '4804N 01829E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK PLA'
+    name: Plavec
+    namewodiacritics: Plavec
+    subdiv: PV
+    function: '-2-----B'
+    status: AF
+    date: '9803'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK PLE'
+    name: Plesivec
+    namewodiacritics: Plesivec
+    subdiv: KI
+    function: '-23-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '4833N 02024E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK POB'
+    name: Podbrezová
+    namewodiacritics: Podbrezova
+    subdiv: BC
+    function: '-23-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '4849N 01932E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK PHJ'
+    name: Podhajska
+    namewodiacritics: Podhajska
+    subdiv: NI
+    function: '--3--6--'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '4806N 01820E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK PDC'
+    name: Podolinec
+    namewodiacritics: Podolinec
+    subdiv: PV
+    function: '-----6--'
+    status: RQ
+    date: '0907'
+    iata: ''
+    coordinates: '4915N 02032E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK POD'
+    name: Podspady
+    namewodiacritics: Podspady
+    subdiv: PV
+    function: '--3----B'
+    status: AF
+    date: '9803'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK PDT'
+    name: Podturen
+    namewodiacritics: Podturen
+    subdiv: ZI
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '4903N 01942E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK POM'
+    name: 'Podzavoz (Milosova)'
+    namewodiacritics: 'Podzavoz (Milosova)'
+    subdiv: ZI
+    function: '--3----B'
+    status: AF
+    date: '9803'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK PPH'
+    name: 'Pohronska Polhora'
+    namewodiacritics: 'Pohronska Polhora'
+    subdiv: BC
+    function: '--3-----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '4845N 01948E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK PRV'
+    name: 'Pohronsky Ruskov'
+    namewodiacritics: 'Pohronsky Ruskov'
+    subdiv: NI
+    function: '--3-----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK PLK'
+    name: Polomka
+    namewodiacritics: Polomka
+    subdiv: BC
+    function: '-----6--'
+    status: RL
+    date: '1107'
+    iata: ''
+    coordinates: '4851N 01951E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK PLT'
+    name: Poltár
+    namewodiacritics: Poltar
+    subdiv: ''
+    function: '-23-----'
+    status: RL
+    date: '0601'
+    iata: ''
+    coordinates: '4826N 01948E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK POP'
+    name: Poprad
+    namewodiacritics: Poprad
+    subdiv: PV
+    function: 1-------
+    status: RL
+    date: '1201'
+    iata: ''
+    coordinates: '4903N 02018E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK TAT'
+    name: Poprad/Tatry
+    namewodiacritics: Poprad/Tatry
+    subdiv: PV
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: +
+    locode: 'SK PVR'
+    name: Potvorice
+    namewodiacritics: Potvorice
+    subdiv: TC
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '4841N 01751E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK PVZ'
+    name: Povazany
+    namewodiacritics: Povazany
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0601'
+    iata: ''
+    coordinates: '4829N 01847E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK PBY'
+    name: 'Povazská Bystrica'
+    namewodiacritics: 'Povazska Bystrica'
+    subdiv: ''
+    function: '-23--6--'
+    status: AC
+    date: '0507'
+    iata: ''
+    coordinates: '4906N 01826E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK PRA'
+    name: Prakovce
+    namewodiacritics: Prakovce
+    subdiv: KI
+    function: '-----6--'
+    status: RL
+    date: '1201'
+    iata: ''
+    coordinates: '4849N 02054E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK SZX'
+    name: Pravenec
+    namewodiacritics: Pravenec
+    subdiv: TC
+    function: '-----6--'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '4851N 01839E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK PRD'
+    name: Predmier
+    namewodiacritics: Predmier
+    subdiv: ZI
+    function: '--3-----'
+    status: RL
+    date: '1207'
+    iata: ''
+    coordinates: '4912N 01832E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK POV'
+    name: Presov
+    namewodiacritics: Presov
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '0001'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK SYA'
+    name: Pribenik
+    namewodiacritics: Pribenik
+    subdiv: KI
+    function: '-----6--'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '4823N 02200E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK PRI'
+    name: Pribeta
+    namewodiacritics: Pribeta
+    subdiv: NI
+    function: '--3-----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK PZA'
+    name: Prievidza
+    namewodiacritics: Prievidza
+    subdiv: ''
+    function: '-23-----'
+    status: RL
+    date: '0601'
+    iata: ''
+    coordinates: '4846N 01838E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK PRS'
+    name: Pruské
+    namewodiacritics: Pruske
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0601'
+    iata: ''
+    coordinates: '4901N 01813E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK PCV'
+    name: Púchov
+    namewodiacritics: Puchov
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0212'
+    iata: ''
+    coordinates: '4908N 01820E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK RAD'
+    name: Radzovce
+    namewodiacritics: Radzovce
+    subdiv: ''
+    function: '-23-----'
+    status: RL
+    date: '0601'
+    iata: ''
+    coordinates: '4813N 01950E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK RRK'
+    name: Rajec
+    namewodiacritics: Rajec
+    subdiv: ZI
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '4905N 01838E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK RKA'
+    name: Rakova
+    namewodiacritics: Rakova
+    subdiv: ''
+    function: '-23-----'
+    status: RL
+    date: '0601'
+    iata: ''
+    coordinates: '4926N 01844E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK RAZ'
+    name: Raztocno
+    namewodiacritics: Raztocno
+    subdiv: TC
+    function: '--3-----'
+    status: RL
+    date: '1207'
+    iata: ''
+    coordinates: '4846N 01846E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK REV'
+    name: Revúca
+    namewodiacritics: Revuca
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0212'
+    iata: ''
+    coordinates: '4841N 02007E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK RST'
+    name: 'Rimavská Sobota'
+    namewodiacritics: 'Rimavska Sobota'
+    subdiv: BC
+    function: '--3-----'
+    status: RQ
+    date: '1301'
+    iata: ''
+    coordinates: '4823N 02002E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK RZY'
+    name: 'Rimavske Zaluzany'
+    namewodiacritics: 'Rimavske Zaluzany'
+    subdiv: BC
+    function: '-----6--'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '4830N 01956E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK XXX'
+    name: 'RIS Inland waterways'
+    namewodiacritics: 'RIS Inland waterways'
+    subdiv: ''
+    function: 1-------
+    status: AI
+    date: '1101'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK RCE'
+    name: Risnovce
+    namewodiacritics: Risnovce
+    subdiv: NI
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '4822N 01754E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK SLZ'
+    name: Rohoznik
+    namewodiacritics: Rohoznik
+    subdiv: BL
+    function: '-----6--'
+    status: RQ
+    date: '1001'
+    iata: ''
+    coordinates: '4828N 01710E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK RSA'
+    name: Rosina
+    namewodiacritics: Rosina
+    subdiv: ZI
+    function: '--3-----'
+    status: RL
+    date: '1007'
+    iata: ''
+    coordinates: '4911N 01846E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK RVK'
+    name: Rovinka
+    namewodiacritics: Rovinka
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0201'
+    iata: ''
+    coordinates: '4806N 01713E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK RVN'
+    name: Rovne
+    namewodiacritics: Rovne
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '0201'
+    iata: ''
+    coordinates: '4806N 01713E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK ROZ'
+    name: Roznava
+    namewodiacritics: Roznava
+    subdiv: KI
+    function: '--3-----'
+    status: RL
+    date: '0407'
+    iata: ''
+    coordinates: '4840N 02032E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK RDN'
+    name: Rudná
+    namewodiacritics: Rudna
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0201'
+    iata: ''
+    coordinates: '4838N 02029E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK RSV'
+    name: Rusovce/Bratislava
+    namewodiacritics: Rusovce/Bratislava
+    subdiv: BL
+    function: '-23-----'
+    status: AF
+    date: '9803'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK RZK'
+    name: Ruzomberok
+    namewodiacritics: Ruzomberok
+    subdiv: ''
+    function: '-23--6--'
+    status: AC
+    date: '0507'
+    iata: ''
+    coordinates: '4904N 01918E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK RYB'
+    name: Rybany
+    namewodiacritics: Rybany
+    subdiv: TC
+    function: '--3-----'
+    status: RL
+    date: '1107'
+    iata: ''
+    coordinates: '4840N 01815E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK SAB'
+    name: Sabinov
+    namewodiacritics: Sabinov
+    subdiv: ''
+    function: '-23-----'
+    status: RL
+    date: '0307'
+    iata: ''
+    coordinates: '4906N 02106E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK SHA'
+    name: Sahy
+    namewodiacritics: Sahy
+    subdiv: NI
+    function: '--3-----'
+    status: AF
+    date: '9803'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK SJH'
+    name: 'Sajdikove Humence'
+    namewodiacritics: 'Sajdikove Humence'
+    subdiv: TA
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '4839N 01716E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK SAA'
+    name: Sala
+    namewodiacritics: Sala
+    subdiv: ''
+    function: '-23-----'
+    status: RL
+    date: '0601'
+    iata: ''
+    coordinates: '4809N 01753E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK SLA'
+    name: Sala
+    namewodiacritics: Sala
+    subdiv: ''
+    function: '--3--6--'
+    status: RQ
+    date: '0607'
+    iata: ''
+    coordinates: '4802N 01753E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK SAL'
+    name: Salka
+    namewodiacritics: Salka
+    subdiv: NI
+    function: '--3----B'
+    status: AF
+    date: '9803'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK SZG'
+    name: Samorin
+    namewodiacritics: Samorin
+    subdiv: TA
+    function: '-----6--'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '4802N 01719E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK SEN'
+    name: Sankovce
+    namewodiacritics: Sankovce
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0207'
+    iata: ''
+    coordinates: '4829N 02016E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK MLY'
+    name: 'Sarisské Michal''any'
+    namewodiacritics: 'Sarisske Michal''any'
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0201'
+    iata: ''
+    coordinates: '4904N 02107E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK SAK'
+    name: Sarkan
+    namewodiacritics: Sarkan
+    subdiv: NI
+    function: '--3-----'
+    status: RL
+    date: '1007'
+    iata: ''
+    coordinates: '4752N 01834E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK SAR'
+    name: Sarovce
+    namewodiacritics: Sarovce
+    subdiv: NI
+    function: '-----6--'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '4816N 01822E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK SEB'
+    name: Sebedrazie
+    namewodiacritics: Sebedrazie
+    subdiv: TC
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '4844N 01838E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK SVC'
+    name: Secovce
+    namewodiacritics: Secovce
+    subdiv: ''
+    function: '--3--6--'
+    status: RQ
+    date: '0607'
+    iata: ''
+    coordinates: '4842N 02139E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK SLP'
+    name: Selpice
+    namewodiacritics: Selpice
+    subdiv: ''
+    function: '--3-----'
+    status: AC
+    date: '0507'
+    iata: ''
+    coordinates: '4826N 01731E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK SNE'
+    name: Senec
+    namewodiacritics: Senec
+    subdiv: ''
+    function: '-23-----'
+    status: RL
+    date: '0601'
+    iata: ''
+    coordinates: '4813N 01724E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK SEA'
+    name: Senica
+    namewodiacritics: Senica
+    subdiv: TA
+    function: '--3-----'
+    status: RQ
+    date: '1001'
+    iata: ''
+    coordinates: '4841N 01722E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK SNI'
+    name: Senica
+    namewodiacritics: Senica
+    subdiv: BC
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '4845N 01912E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK SNC'
+    name: 'Senica, Okres'
+    namewodiacritics: 'Senica, Okres'
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0507'
+    iata: ''
+    coordinates: '4841N 01722E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK SKV'
+    name: Senkvice
+    namewodiacritics: Senkvice
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0407'
+    iata: ''
+    coordinates: '4818N 01721E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK SER'
+    name: Sered
+    namewodiacritics: Sered
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0401'
+    iata: ''
+    coordinates: '4817N 01744E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK SIB'
+    name: 'Siatorska Bukovinka'
+    namewodiacritics: 'Siatorska Bukovinka'
+    subdiv: BC
+    function: '--3-----'
+    status: AF
+    date: '9803'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK SKA'
+    name: Skalica
+    namewodiacritics: Skalica
+    subdiv: TA
+    function: '-23----B'
+    status: AF
+    date: '9803'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK SKE'
+    name: Skalité
+    namewodiacritics: Skalite
+    subdiv: ZI
+    function: '--3----B'
+    status: AF
+    date: '9803'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK SKZ'
+    name: Skalité-Zwardon
+    namewodiacritics: Skalite-Zwardon
+    subdiv: ZI
+    function: '-2-----B'
+    status: AF
+    date: '9803'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK SLV'
+    name: Sládkovicovo
+    namewodiacritics: Sladkovicovo
+    subdiv: ''
+    function: '-23-----'
+    status: RL
+    date: '0601'
+    iata: ''
+    coordinates: '4812N 01739E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK VEC'
+    name: Slavec
+    namewodiacritics: Slavec
+    subdiv: KI
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '4835N 02029E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK SLD'
+    name: Sliac
+    namewodiacritics: Sliac
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK SLO'
+    name: 'Slovenská Lupca'
+    namewodiacritics: 'Slovenska Lupca'
+    subdiv: ''
+    function: '-23-----'
+    status: RL
+    date: '0607'
+    iata: ''
+    coordinates: '4846N 01917E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK SDA'
+    name: 'Slovenske Darmoty'
+    namewodiacritics: 'Slovenske Darmoty'
+    subdiv: BC
+    function: '--3-----'
+    status: AF
+    date: '9803'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK SSA'
+    name: 'Slovenské Nové Mesto'
+    namewodiacritics: 'Slovenske Nove Mesto'
+    subdiv: KI
+    function: '-23-----'
+    status: AF
+    date: '9803'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK SZY'
+    name: Smizany
+    namewodiacritics: Smizany
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0307'
+    iata: ''
+    coordinates: '4858N 02032E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK SMO'
+    name: Smolenice
+    namewodiacritics: Smolenice
+    subdiv: TA
+    function: '--3-----'
+    status: RL
+    date: '0907'
+    iata: ''
+    coordinates: '4830N 01726E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK SNA'
+    name: Snina
+    namewodiacritics: Snina
+    subdiv: ''
+    function: '-23-----'
+    status: AC
+    date: '0507'
+    iata: ''
+    coordinates: '4858N 02209E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK SOB'
+    name: Sobrance
+    namewodiacritics: Sobrance
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0607'
+    iata: ''
+    coordinates: '4845N 02211E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK SOK'
+    name: Sokolce
+    namewodiacritics: Sokolce
+    subdiv: NI
+    function: '--3-----'
+    status: RL
+    date: '1007'
+    iata: ''
+    coordinates: '4751N 01750E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK SKC'
+    name: Sokolovce
+    namewodiacritics: Sokolovce
+    subdiv: TA
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '4832N 01751E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK SOP'
+    name: Soporna
+    namewodiacritics: Soporna
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0607'
+    iata: ''
+    coordinates: '4815N 01749E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK SNV'
+    name: 'Spisská Nová Ves'
+    namewodiacritics: 'Spisska Nova Ves'
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0212'
+    iata: ''
+    coordinates: '4857N 02034E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK SSV'
+    name: 'Spisská Stará Ves'
+    namewodiacritics: 'Spisska Stara Ves'
+    subdiv: PV
+    function: '-----6--'
+    status: RL
+    date: '1107'
+    iata: ''
+    coordinates: '4922N 02021E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK SPR'
+    name: 'Spisske Podhradie'
+    namewodiacritics: 'Spisske Podhradie'
+    subdiv: PV
+    function: '-----6--'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '4900N 02045E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK SHY'
+    name: 'Spisske Vlachy'
+    namewodiacritics: 'Spisske Vlachy'
+    subdiv: KI
+    function: '--3-----'
+    status: RL
+    date: '1207'
+    iata: ''
+    coordinates: '4857N 02048E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK SVR'
+    name: Srvcinovec
+    namewodiacritics: Srvcinovec
+    subdiv: ZI
+    function: '--3----B'
+    status: AF
+    date: '9803'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK SLB'
+    name: 'Stará Lubovna'
+    namewodiacritics: 'Stara Lubovna'
+    subdiv: ''
+    function: '--3-----'
+    status: AC
+    date: '0507'
+    iata: ''
+    coordinates: '4918N 02042E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK STA'
+    name: 'Stará Turá'
+    namewodiacritics: 'Stara Tura'
+    subdiv: TC
+    function: '-23-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '4847N 01742E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK STV'
+    name: Staskov
+    namewodiacritics: Staskov
+    subdiv: ZI
+    function: '--3-----'
+    status: RL
+    date: '1207'
+    iata: ''
+    coordinates: '4925N 01842E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK ZSK'
+    name: Strázske
+    namewodiacritics: Strazske
+    subdiv: ''
+    function: '-23-----'
+    status: RL
+    date: '0601'
+    iata: ''
+    coordinates: '4852N 02150E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK STR'
+    name: Strba
+    namewodiacritics: Strba
+    subdiv: ''
+    function: '-23-----'
+    status: RL
+    date: '0507'
+    iata: ''
+    coordinates: '4904N 02005E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK SBP'
+    name: 'Strbské Pleso'
+    namewodiacritics: 'Strbske Pleso'
+    subdiv: PV
+    function: '--3--6--'
+    status: RL
+    date: '1007'
+    iata: ''
+    coordinates: '4907N 02003E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK SPV'
+    name: Stropkov
+    namewodiacritics: Stropkov
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0002'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK SPA'
+    name: Stupava
+    namewodiacritics: Stupava
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0201'
+    iata: ''
+    coordinates: '4816N 01701E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK SRA'
+    name: Stúrovo
+    namewodiacritics: Sturovo
+    subdiv: NI
+    function: '-23-----'
+    status: AF
+    date: '0212'
+    iata: ''
+    coordinates: '4748N 01844E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK SCY'
+    name: Sucany
+    namewodiacritics: Sucany
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '0607'
+    iata: ''
+    coordinates: '4906N 01900E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK SUH'
+    name: 'Suchá Hora'
+    namewodiacritics: 'Sucha Hora'
+    subdiv: ZI
+    function: '--3----B'
+    status: AF
+    date: '0212'
+    iata: ''
+    coordinates: '4922N 01948E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK SUC'
+    name: Sumiac
+    namewodiacritics: Sumiac
+    subdiv: BC
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '4851N 02008E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK SUR'
+    name: Surany
+    namewodiacritics: Surany
+    subdiv: NI
+    function: '-23-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '4805N 01811E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK SVJ'
+    name: 'Svaty Jur'
+    namewodiacritics: 'Svaty Jur'
+    subdiv: BL
+    function: '-----6--'
+    status: RQ
+    date: '0907'
+    iata: ''
+    coordinates: '4815N 01703E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK SVK'
+    name: Svidník
+    namewodiacritics: Svidnik
+    subdiv: ''
+    function: '--3-----'
+    status: AC
+    date: '0507'
+    iata: ''
+    coordinates: '4918N 02134E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK SVI'
+    name: Svinna
+    namewodiacritics: Svinna
+    subdiv: TC
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '4847N 01810E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK SVT'
+    name: Svit
+    namewodiacritics: Svit
+    subdiv: PV
+    function: '--3-----'
+    status: RL
+    date: '0002'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK SZM'
+    name: Svodin
+    namewodiacritics: Svodin
+    subdiv: NI
+    function: '-----6--'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '4755N 01830E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK TAJ'
+    name: Tajna
+    namewodiacritics: Tajna
+    subdiv: NI
+    function: '--3-----'
+    status: RL
+    date: '1207'
+    iata: ''
+    coordinates: '4816N 01822E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK TEP'
+    name: 'Teplicka nad Vahom'
+    namewodiacritics: 'Teplicka nad Vahom'
+    subdiv: ZI
+    function: 1----6--
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '4914N 01848E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK TER'
+    name: Terchová
+    namewodiacritics: Terchova
+    subdiv: ZI
+    function: '--3-----'
+    status: RL
+    date: '1201'
+    iata: ''
+    coordinates: '4916N 01902E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK TIS'
+    name: Tisovec
+    namewodiacritics: Tisovec
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0701'
+    iata: ''
+    coordinates: '4841N 01956E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK TLM'
+    name: Tlmace
+    namewodiacritics: Tlmace
+    subdiv: ''
+    function: 1-3-----
+    status: RL
+    date: '0501'
+    iata: ''
+    coordinates: '4817N 01832E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK TKV'
+    name: Tomásikovo
+    namewodiacritics: Tomasikovo
+    subdiv: TA
+    function: '--3--6--'
+    status: RL
+    date: '1201'
+    iata: ''
+    coordinates: '4805N 01742E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK TOM'
+    name: Tomásov
+    namewodiacritics: Tomasov
+    subdiv: BL
+    function: '--3-----'
+    status: RL
+    date: '0701'
+    iata: ''
+    coordinates: '4808N 01720E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK TON'
+    name: Ton
+    namewodiacritics: Ton
+    subdiv: NI
+    function: '--3-----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK TCY'
+    name: 'Topol''cany'
+    namewodiacritics: 'Topol''cany'
+    subdiv: NI
+    function: '--3-----'
+    status: RL
+    date: '1207'
+    iata: ''
+    coordinates: '4834N 01811E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK SZD'
+    name: Topolcianky
+    namewodiacritics: Topolcianky
+    subdiv: NI
+    function: '-----6--'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '4825N 01825E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK TOP'
+    name: Topolnica
+    namewodiacritics: Topolnica
+    subdiv: TA
+    function: '-----6--'
+    status: RL
+    date: '1107'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK TKY'
+    name: Topolníky
+    namewodiacritics: Topolniky
+    subdiv: ''
+    function: '-----6--'
+    status: RL
+    date: '1107'
+    iata: ''
+    coordinates: '4758N 01747E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK TOR'
+    name: Tornala
+    namewodiacritics: Tornala
+    subdiv: BC
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '4825N 02020E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK TRK'
+    name: Trakovice
+    namewodiacritics: Trakovice
+    subdiv: ''
+    function: '--3--6--'
+    status: RQ
+    date: '1001'
+    iata: ''
+    coordinates: '4826N 17042E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK TRT'
+    name: 'Trancianska Tapla'
+    namewodiacritics: 'Trancianska Tapla'
+    subdiv: TC
+    function: '-2-----B'
+    status: AF
+    date: '9803'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK TBC'
+    name: Trebatice
+    namewodiacritics: Trebatice
+    subdiv: PV
+    function: '-----6--'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '4836N 17450E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK TRB'
+    name: Trebiaov
+    namewodiacritics: Trebiaov
+    subdiv: KI
+    function: '--3-----'
+    status: RL
+    date: '0401'
+    iata: ''
+    coordinates: '4838N 02143E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK TEB'
+    name: Trebisov
+    namewodiacritics: Trebisov
+    subdiv: KI
+    function: '--3-----'
+    status: RL
+    date: '0907'
+    iata: ''
+    coordinates: '4837N 02143E'
+    remarks: ''
+-
+    ch: +
+    locode: 'SK TTA'
+    name: 'Trencianska Turná'
+    namewodiacritics: 'Trencianska Turna'
+    subdiv: TC
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '4851N 01801E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK TRA'
+    name: 'Trencianska Turná'
+    namewodiacritics: 'Trencianska Turna'
+    subdiv: TC
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '4851N 01801E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK TBE'
+    name: 'Trencianske Bohuslavice'
+    namewodiacritics: 'Trencianske Bohuslavice'
+    subdiv: TC
+    function: 1-3-----
+    status: RL
+    date: '0701'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK TSK'
+    name: 'Trencianske Stankovce'
+    namewodiacritics: 'Trencianske Stankovce'
+    subdiv: TC
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '4850N 01759E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK TST'
+    name: 'Trencianske Teplice'
+    namewodiacritics: 'Trencianske Teplice'
+    subdiv: TC
+    function: '-----6--'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '4854N 01810E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK TRE'
+    name: Trencín
+    namewodiacritics: Trencin
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0201'
+    iata: ''
+    coordinates: '4853N 01803E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK TRH'
+    name: Trhoviste
+    namewodiacritics: Trhoviste
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0601'
+    iata: ''
+    coordinates: '4842N 02149E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK TNA'
+    name: Trnava
+    namewodiacritics: Trnava
+    subdiv: TA
+    function: 123-----
+    status: RL
+    date: '0401'
+    iata: ''
+    coordinates: '4822N 01735E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK TSA'
+    name: Trstena
+    namewodiacritics: Trstena
+    subdiv: ZI
+    function: '--3-----'
+    status: AF
+    date: '9803'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK TTE'
+    name: Trstice
+    namewodiacritics: Trstice
+    subdiv: TA
+    function: '--3-----'
+    status: RL
+    date: '1007'
+    iata: ''
+    coordinates: '4801N 01749E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK TRS'
+    name: Trstín
+    namewodiacritics: Trstin
+    subdiv: TA
+    function: '--3-----'
+    status: RL
+    date: '0701'
+    iata: ''
+    coordinates: '4831N 01727E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK SZB'
+    name: Tupa
+    namewodiacritics: Tupa
+    subdiv: NI
+    function: '-----6--'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '4807N 01854E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK TNY'
+    name: Turany
+    namewodiacritics: Turany
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0607'
+    iata: ''
+    coordinates: '4907N 01902E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK TNB'
+    name: 'Turna Nad Bodvou'
+    namewodiacritics: 'Turna Nad Bodvou'
+    subdiv: KI
+    function: '--3-----'
+    status: RL
+    date: '0701'
+    iata: ''
+    coordinates: '4836N 02052E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK TNV'
+    name: 'Turnianska Nová Ves'
+    namewodiacritics: 'Turnianska Nova Ves'
+    subdiv: KI
+    function: '--3-----'
+    status: RL
+    date: '1201'
+    iata: ''
+    coordinates: '4835N 02054E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK TVR'
+    name: Tvrdosin
+    namewodiacritics: Tvrdosin
+    subdiv: ''
+    function: '-----6--'
+    status: RQ
+    date: '1001'
+    iata: ''
+    coordinates: '4920N 01934E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK UBL'
+    name: Ubla
+    namewodiacritics: Ubla
+    subdiv: PV
+    function: '--3----B'
+    status: AF
+    date: '9803'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK VOC'
+    name: Vadovce
+    namewodiacritics: Vadovce
+    subdiv: TC
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '4844N 01744E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK VRN'
+    name: Varín
+    namewodiacritics: Varin
+    subdiv: ''
+    function: '-23-----'
+    status: RL
+    date: '0407'
+    iata: ''
+    coordinates: '4912N 01853E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK VEK'
+    name: 'Vefky Kamenec, Pacin'
+    namewodiacritics: 'Vefky Kamenec, Pacin'
+    subdiv: KI
+    function: '--3----B'
+    status: AF
+    date: '9803'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK VLA'
+    name: Velicná
+    namewodiacritics: Velicna
+    subdiv: ''
+    function: '-23-----'
+    status: RL
+    date: '0601'
+    iata: ''
+    coordinates: '4912N 01915E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK VLD'
+    name: 'Vel''Ká Ida'
+    namewodiacritics: 'Vel''Ka Ida'
+    subdiv: KI
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '4836N 02110E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK VLN'
+    name: 'Velká Lomnica'
+    namewodiacritics: 'Velka Lomnica'
+    subdiv: PV
+    function: '-----6--'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '4907N 02022E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK VEP'
+    name: 'Velká Paka'
+    namewodiacritics: 'Velka Paka'
+    subdiv: TA
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '4802N 01724E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK VBC'
+    name: 'Velke Bierovce'
+    namewodiacritics: 'Velke Bierovce'
+    subdiv: TC
+    function: '-----6--'
+    status: RQ
+    date: '1001'
+    iata: ''
+    coordinates: '4851N 17590E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK VKB'
+    name: 'Vel''Ke Bierovce'
+    namewodiacritics: 'Vel''Ke Bierovce'
+    subdiv: TC
+    function: '-----6--'
+    status: RQ
+    date: '1001'
+    iata: ''
+    coordinates: '4851N 01759E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK VEL'
+    name: 'Velke Blahovo'
+    namewodiacritics: 'Velke Blahovo'
+    subdiv: ''
+    function: '-----6--'
+    status: RQ
+    date: '1001'
+    iata: ''
+    coordinates: '4801N 01735E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK VKP'
+    name: 'Velké Kapusany'
+    namewodiacritics: 'Velke Kapusany'
+    subdiv: ''
+    function: '-23-----'
+    status: AC
+    date: '0507'
+    iata: ''
+    coordinates: '4833N 02205E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK VKO'
+    name: 'Vel''ké Kostol''any'
+    namewodiacritics: 'Vel''ke Kostol''any'
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0607'
+    iata: ''
+    coordinates: '4830N 01744E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK VKL'
+    name: 'Velké Leváre'
+    namewodiacritics: 'Velke Levare'
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0307'
+    iata: ''
+    coordinates: '4830N 01700E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK VTY'
+    name: 'Velke Ripnany'
+    namewodiacritics: 'Velke Ripnany'
+    subdiv: NI
+    function: '--3--6--'
+    status: RL
+    date: '1207'
+    iata: ''
+    coordinates: '4830N 01759E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK VKR'
+    name: 'Vel''Ke Rovne'
+    namewodiacritics: 'Vel''Ke Rovne'
+    subdiv: ZI
+    function: '-----6--'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '4918N 01835E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK VSC'
+    name: 'Velké Slemence'
+    namewodiacritics: 'Velke Slemence'
+    subdiv: ''
+    function: '--3-----'
+    status: AC
+    date: '0507'
+    iata: ''
+    coordinates: '4831N 02209E'
+    remarks: ''
+-
+    ch: +
+    locode: 'SK VUE'
+    name: 'Velké Uherce'
+    namewodiacritics: 'Velke Uherce'
+    subdiv: TC
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '4836N 01826E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK VZZ'
+    name: 'Vel''ké Záluzie'
+    namewodiacritics: 'Vel''ke Zaluzie'
+    subdiv: NI
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '4818N 01757E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK VZK'
+    name: 'Vel''ké Zlievce'
+    namewodiacritics: 'Vel''ke Zlievce'
+    subdiv: BC
+    function: 1----6--
+    status: RL
+    date: '1201'
+    iata: ''
+    coordinates: '4812N 01927E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK VKS'
+    name: 'Velký Krtís'
+    namewodiacritics: 'Velky Krtis'
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0201'
+    iata: ''
+    coordinates: '4813N 01920E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK VMD'
+    name: 'Velky Meder'
+    namewodiacritics: 'Velky Meder'
+    subdiv: ''
+    function: '-23--6--'
+    status: AC
+    date: '0507'
+    iata: ''
+    coordinates: '4751N 01746E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK VES'
+    name: Veselé
+    namewodiacritics: Vesele
+    subdiv: TA
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '4833N 01744E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK VIG'
+    name: Viglas
+    namewodiacritics: Viglas
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '1001'
+    iata: ''
+    coordinates: '4855N 19293E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK VHR'
+    name: Vinohrady
+    namewodiacritics: Vinohrady
+    subdiv: BL
+    function: '-----6--'
+    status: RQ
+    date: '1001'
+    iata: ''
+    coordinates: '4809N 01706E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK VIN'
+    name: Vinosady
+    namewodiacritics: Vinosady
+    subdiv: BL
+    function: '-----6--'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '4518N 01717E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK VNV'
+    name: Visnové
+    namewodiacritics: Visnove
+    subdiv: ZI
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '4910N 01847E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK VHY'
+    name: Vlachy
+    namewodiacritics: Vlachy
+    subdiv: ZI
+    function: '--3-----'
+    status: RL
+    date: '1207'
+    iata: ''
+    coordinates: '4905N 01929E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK VLY'
+    name: Vlcany
+    namewodiacritics: Vlcany
+    subdiv: NI
+    function: '-----6--'
+    status: RQ
+    date: '0907'
+    iata: ''
+    coordinates: '4801N 01756E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK VVC'
+    name: Vlckovce
+    namewodiacritics: Vlckovce
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0201'
+    iata: ''
+    coordinates: '4818N 01739E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK VNA'
+    name: Vlkanová
+    namewodiacritics: Vlkanova
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0212'
+    iata: ''
+    coordinates: '4840N 01909E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK VRD'
+    name: Voderady
+    namewodiacritics: Voderady
+    subdiv: TA
+    function: '-----6--'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '4817N 01734E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK VBE'
+    name: Vráble
+    namewodiacritics: Vrable
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0212'
+    iata: ''
+    coordinates: '4815N 01819E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK VKN'
+    name: Vrakun
+    namewodiacritics: Vrakun
+    subdiv: TA
+    function: '-----6--'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '4757N 01736E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK VRA'
+    name: 'Vranov nad Toplou'
+    namewodiacritics: 'Vranov nad Toplou'
+    subdiv: PV
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '4854N 02141E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK VBO'
+    name: Vrbové
+    namewodiacritics: Vrbove
+    subdiv: TA
+    function: '--3-----'
+    status: RL
+    date: '0701'
+    iata: ''
+    coordinates: '4837N 01743E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK VKY'
+    name: Vrutky
+    namewodiacritics: Vrutky
+    subdiv: ''
+    function: '-----6--'
+    status: RQ
+    date: '0907'
+    iata: ''
+    coordinates: '4907N 01855E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK VDY'
+    name: Vydrany
+    namewodiacritics: Vydrany
+    subdiv: TA
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '4801N 01735E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK VJB'
+    name: 'Vysná Jablonka'
+    namewodiacritics: 'Vysna Jablonka'
+    subdiv: ''
+    function: '--3-----'
+    status: AC
+    date: '0507'
+    iata: ''
+    coordinates: '4909N 02206E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK VYN'
+    name: 'Vysné Nemecké'
+    namewodiacritics: 'Vysne Nemecke'
+    subdiv: KI
+    function: '--3-----'
+    status: AF
+    date: '0212'
+    iata: ''
+    coordinates: '4840N 02216E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK VSK'
+    name: 'Vysny Komárnik'
+    namewodiacritics: 'Vysny Komarnik'
+    subdiv: PV
+    function: '--3-----'
+    status: AF
+    date: '0212'
+    iata: ''
+    coordinates: '4924N 02143E'
+    remarks: ''
+-
+    ch: +
+    locode: 'SK ZI4'
+    name: 'Vysný Kubín'
+    namewodiacritics: 'Vysny Kubin'
+    subdiv: ZI
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '4911N 01919E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK VPM'
+    name: 'Vysoká pri Morave'
+    namewodiacritics: 'Vysoka pri Morave'
+    subdiv: BL
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '4820N 01655E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK ZAB'
+    name: Záborské
+    namewodiacritics: Zaborske
+    subdiv: PV
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '4857N 02118E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK ZAR'
+    name: Zarnovica
+    namewodiacritics: Zarnovica
+    subdiv: BC
+    function: '-----6--'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '4829N 01844E'
+    remarks: ''
+-
+    ch: +
+    locode: 'SK ZHM'
+    name: 'Závadka nad Hronom'
+    namewodiacritics: 'Zavadka nad Hronom'
+    subdiv: BC
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '4851N 01955E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK ZAV'
+    name: Zavar
+    namewodiacritics: Zavar
+    subdiv: TA
+    function: '--3-----'
+    status: RQ
+    date: '1001'
+    iata: ''
+    coordinates: '4821N 01741E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK SZA'
+    name: 'Zavazna Poruba'
+    namewodiacritics: 'Zavazna Poruba'
+    subdiv: ZI
+    function: '-----6--'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '4904N 01939E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK ZBE'
+    name: Zbehy
+    namewodiacritics: Zbehy
+    subdiv: NI
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '4822N 01802E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK ZBY'
+    name: Zbehy
+    namewodiacritics: Zbehy
+    subdiv: TA
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '4840N 01741E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK EEC'
+    name: Zelenec
+    namewodiacritics: Zelenec
+    subdiv: TA
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '4820N 01736E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK ZEL'
+    name: Zeliezovce
+    namewodiacritics: Zeliezovce
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0401'
+    iata: ''
+    coordinates: '4803N 01840E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK ZIA'
+    name: 'Ziar nad Hronom'
+    namewodiacritics: 'Ziar nad Hronom'
+    subdiv: ''
+    function: 123-----
+    status: RL
+    date: '0601'
+    iata: ''
+    coordinates: '4835N 01852E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK ILZ'
+    name: Zilina
+    namewodiacritics: Zilina
+    subdiv: ''
+    function: '---45---'
+    status: AI
+    date: '9601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK ZVE'
+    name: Zitavce
+    namewodiacritics: Zitavce
+    subdiv: NI
+    function: '-----6--'
+    status: RL
+    date: '1007'
+    iata: ''
+    coordinates: '4812N 01818E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK ZLM'
+    name: 'Zlaté Moravce'
+    namewodiacritics: 'Zlate Moravce'
+    subdiv: ''
+    function: '-23-----'
+    status: RL
+    date: '0501'
+    iata: ''
+    coordinates: '4823N 01824E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK ZHR'
+    name: Zohor
+    namewodiacritics: Zohor
+    subdiv: ''
+    function: '-23-----'
+    status: RL
+    date: '0607'
+    iata: ''
+    coordinates: '4819N 01659E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK ZRC'
+    name: Zuberec
+    namewodiacritics: Zuberec
+    subdiv: ''
+    function: '--3-----'
+    status: AC
+    date: '0507'
+    iata: ''
+    coordinates: '4915N 01936E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK ZBH'
+    name: Zubrohlava
+    namewodiacritics: Zubrohlava
+    subdiv: ZI
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '4927N 01931E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK ZVN'
+    name: Zvolen
+    namewodiacritics: Zvolen
+    subdiv: BC
+    function: '-23-----'
+    status: RL
+    date: '0407'
+    iata: ''
+    coordinates: '4835N 01908E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK ZSL'
+    name: 'Zvolenská Slatina'
+    namewodiacritics: 'Zvolenska Slatina'
+    subdiv: ''
+    function: '-23-----'
+    status: RL
+    date: '0507'
+    iata: ''
+    coordinates: '4834N 01916E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SK ZVO'
+    name: Zvoncín
+    namewodiacritics: Zvoncin
+    subdiv: ''
+    function: '-----6--'
+    status: RL
+    date: '1107'
+    iata: ''
+    coordinates: '4824N 01730E'
+    remarks: ''
