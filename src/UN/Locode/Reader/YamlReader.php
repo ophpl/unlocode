@@ -21,14 +21,14 @@ class YamlReader implements ReaderInterface
 
         if (!file_exists($fileName)) {
             throw new \RuntimeException(sprintf(
-                'The resource bundle "%s" does not exist.',
+                'The data file "%s" does not exist.',
                 $fileName
             ));
         }
 
         if (!is_file($fileName)) {
             throw new \RuntimeException(sprintf(
-                'The resource bundle "%s" is not a file.',
+                'The "%s" is not a file.',
                 $fileName
             ));
         }
