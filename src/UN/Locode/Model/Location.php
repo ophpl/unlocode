@@ -3,11 +3,11 @@
 namespace UN\Locode\Model;
 
 /**
- * Class Locode
+ * Class Location
  * @package UN\Locode\Model
- * @description Locode data model
+ * @description Location data model
  */
-class Locode {
+class Location {
 
     protected $ch;
     protected $locode;
@@ -118,6 +118,24 @@ class Locode {
     public function getRemarks()
     {
         return $this->remarks;
+    }
+
+    /**
+     * Get city code
+     *
+     * @return string
+     */
+    public function getCode()
+    {
+        return substr($this->locode, 3);
+    }
+
+    /**
+     * @return string
+     */
+    public function getCountry()
+    {
+        return substr($this->locode, 0, 2);
     }
 
 }

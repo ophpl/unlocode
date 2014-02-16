@@ -52,6 +52,8 @@ class LocodeTest extends \PHPUnit_Framework_TestCase
 
         $this->assertNotNull($entry, 'Entry not found');
         $this->assertEquals('EE TLL', $entry->getLocode(), 'Invalid entry code');
+        $this->assertEquals('TLL', $entry->getCode(), 'Invalid entry code');
+        $this->assertEquals('EE', $entry->getCountry(), 'Invalid entry country');
     }
 
     /**
@@ -63,6 +65,8 @@ class LocodeTest extends \PHPUnit_Framework_TestCase
 
         $this->assertNotNull($entry, 'Entry not found');
         $this->assertEquals('Tallinn', $entry->getName(), 'Invalid entry name');
+        $this->assertEquals('TLL', $entry->getCode(), 'Invalid entry code');
+        $this->assertEquals('EE', $entry->getCountry(), 'Invalid entry country');
     }
 
     /**
@@ -74,6 +78,8 @@ class LocodeTest extends \PHPUnit_Framework_TestCase
 
         $this->assertNotNull($entry, 'Entry not found');
         $this->assertEquals('Frankfurt am Main', $entry->getName(), 'Invalid entry name');
+        $this->assertEquals('FRA', $entry->getCode(), 'Invalid entry code');
+        $this->assertEquals('DE', $entry->getCountry(), 'Invalid entry country');
     }
 
     /**

@@ -2,7 +2,7 @@
 
 namespace UN\Locode;
 
-use UN\Locode\Model;
+use UN\Locode\Model\Location;
 use UN\Locode\Reader\ReaderInterface;
 use UN\Locode\Reader\YamlReader;
 
@@ -50,7 +50,7 @@ class Locode
         $list = $this->reader->read($this->path, $country);
 
         foreach($list as $key => $entry) {
-            $list[$key] = new Model\Locode($entry);
+            $list[$key] = new Location($entry);
         }
 
         return $list;
@@ -61,7 +61,7 @@ class Locode
      *
      * @param string $country ISO 3166-1 country code
      * @param string $name city name
-     * @return null|Model\Locode
+     * @return null|Location
      */
     public function getByCountryAndName($country, $name)
     {
@@ -71,7 +71,7 @@ class Locode
             return null;
         }
 
-        return new Model\Locode($entry);
+        return new Location($entry);
     }
 
     /**
@@ -79,7 +79,7 @@ class Locode
      *
      * @param string $country ISO 3166-1 country code
      * @param string $code city code
-     * @return null|Model\Locode
+     * @return null|Location
      */
     public function getByCountryAndCode($country, $code)
     {
@@ -89,7 +89,7 @@ class Locode
             return null;
         }
 
-        return new Model\Locode($entry);
+        return new Location($entry);
     }
 
     /**
@@ -97,7 +97,7 @@ class Locode
      *
      * @param string $locode UN locode
      * @throws \InvalidArgumentException
-     * @return null|Model\Locode
+     * @return null|Location
      */
     public function getByLocode($locode)
     {
