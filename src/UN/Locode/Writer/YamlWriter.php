@@ -17,6 +17,8 @@ class YamlWriter implements WriterInterface
      */
     public function write($path, $country, array $data)
     {
+        $country = strtolower($country);
+
         $fileName = $path.'/'.$country.'.yaml';
 
         if (!file_put_contents($fileName, Yaml::dump($data))) {

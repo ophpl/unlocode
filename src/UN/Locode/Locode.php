@@ -47,8 +47,6 @@ class Locode
      */
     public function getListByCountry($country)
     {
-        $country = strtolower($country);
-
         $list = $this->reader->read($this->path, $country);
 
         foreach($list as $key => $entry) {
@@ -67,8 +65,6 @@ class Locode
      */
     public function getByCountryAndName($country, $name)
     {
-        $country = strtolower($country);
-
         $entry = $this->reader->findEntry($this->path, $country, 'name', $name);
 
         if (null === $entry) {
@@ -79,23 +75,39 @@ class Locode
     }
 
     /**
-     * Get by country and locode
+     * Get by country and code
      *
      * @param string $country ISO 3166-1 country code
-     * @param string $code UN locode
+     * @param string $code city code
      * @return null|Model\Locode
      */
     public function getByCountryAndCode($country, $code)
     {
-        $country = strtolower($country);
-
-        $entry = $this->reader->findEntry($this->path, $country, 'locode', $code);
+        $entry = $this->reader->findEntry($this->path, $country, 'locode', strtoupper($country.' '.$code));
 
         if (null === $entry) {
             return null;
         }
 
         return new Model\Locode($entry);
+    }
+
+    /**
+     * Get by locode
+     *
+     * @param string $locode UN locode
+     * @throws \InvalidArgumentException
+     * @return null|Model\Locode
+     */
+    public function getByLocode($locode)
+    {
+        if (!preg_match("/^[A-Z]{2} [A-Z]{3}$/i", $locode)) {
+            throw new \InvalidArgumentException("Invalid locode format, ex: DE FRA");
+        }
+
+        list($country, $code) = explode(" ", $locode, 2);
+
+        return $this->getByCountryAndCode($country, $code);
     }
 
     /**

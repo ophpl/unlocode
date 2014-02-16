@@ -46,7 +46,7 @@ class LocodeTest extends \PHPUnit_Framework_TestCase
     /**
      * @covers {className}::{origMethodName}
      */
-    public function testGetCodeByCountryAndName()
+    public function testGetByCountryAndName()
     {
         $entry = $this->object->getByCountryAndName('EE', 'Tallinn');
 
@@ -57,12 +57,32 @@ class LocodeTest extends \PHPUnit_Framework_TestCase
     /**
      * @covers {className}::{origMethodName}
      */
-    public function testGetCodeByCountryAndLocode()
+    public function testGetByCountryAndLocode()
     {
-        $entry = $this->object->getByCountryAndCode('EE', 'EE TLL');
+        $entry = $this->object->getByCountryAndCode('EE', 'TLL');
 
         $this->assertNotNull($entry, 'Entry not found');
         $this->assertEquals('Tallinn', $entry->getName(), 'Invalid entry name');
+    }
+
+    /**
+     * @covers {className}::{origMethodName}
+     */
+    public function testGetByLocode()
+    {
+        $entry = $this->object->getByLocode('DE FRA');
+
+        $this->assertNotNull($entry, 'Entry not found');
+        $this->assertEquals('Frankfurt am Main', $entry->getName(), 'Invalid entry name');
+    }
+
+    /**
+     * @covers {className}::{origMethodName}
+     * @expectedException \InvalidArgumentException
+     */
+    public function testGetByLocodeInvalidFormat()
+    {
+        $this->object->getByLocode('EETLL');
     }
 
 }

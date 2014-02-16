@@ -17,6 +17,8 @@ class YamlReader implements ReaderInterface
      */
     public function read($path, $country)
     {
+        $country = strtolower($country);
+
         $fileName = $path . '/' . $country . '.yaml';
 
         if (!file_exists($fileName)) {
@@ -41,6 +43,8 @@ class YamlReader implements ReaderInterface
      */
     public function findEntry($path, $country, $field, $value)
     {
+        $country = strtolower($country);
+
         $data = $this->read($path, $country);
 
         foreach($data as $entry) {
