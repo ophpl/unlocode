@@ -20,6 +20,9 @@
         "symfony/css-selector": "2.4.*",
         "symfony/console": "2.4.*"
     },
+    "suggest": {
+        "doctrine/cache": "Allows reader to cache data"
+    },
     "autoload": {
         "psr-0": { "UN\\Locode\\": "src/" }
     }
