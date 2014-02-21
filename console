@@ -7,7 +7,7 @@ if (!$loader = @include __DIR__.'/vendor/autoload.php') {
         'php composer.phar install --dev'.PHP_EOL);
 }
 
-use UN\Locode\Builder\Builder;
+use UN\Locode\Console;
 
-$builder = new Builder();
-$builder->run();
+$console = new Console();
+$console->run();

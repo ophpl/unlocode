@@ -1,6 +1,6 @@
 <?php
 
-namespace UN\Locode\Builder;
+namespace UN\Locode\Command;
 
 use Symfony\Component\Console\Command\Command;
 use Symfony\Component\Console\Input\InputArgument;
@@ -14,7 +14,7 @@ use UN\Locode\Writer\YamlWriter;
 
 /**
  * Class Build
- * @package UN\Locode\Builder
+ * @package UN\Locode\Command
  * @description Command to build code files
  */
 class Build extends Command
