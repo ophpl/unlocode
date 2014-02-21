@@ -25,16 +25,19 @@ class Locode
     private $reader;
 
     /**
-     * @var Locode
+     * @param string $path path to data folder
+     * @param ReaderInterface $reader data reader, by default yaml reader
      */
-    private static $defaultInstance;
-
-    /**
-     * @param $path
-     * @param ReaderInterface $reader
-     */
-    public function __construct($path, ReaderInterface $reader)
+    public function __construct($path = null, ReaderInterface $reader = null)
     {
+        if (null === $path) {
+            $path = __DIR__."/../../../data";
+        }
+
+        if (null === $reader) {
+            $reader = new YamlReader();
+        }
+
         $this->path = $path;
         $this->reader = $reader;
     }
@@ -108,20 +111,6 @@ class Locode
         list($country, $code) = explode(" ", $locode, 2);
 
         return $this->getByCountryAndCode($country, $code);
-    }
-
-    /**
-     * Get default instance
-     *
-     * @return Locode
-     */
-    public static function getDefaultInstance()
-    {
-        if (null === self::$defaultInstance) {
-            self::$defaultInstance = new Locode(__DIR__."/../../../data", new YamlReader());
-        }
-
-        return self::$defaultInstance;
     }
 
 }
