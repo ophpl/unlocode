@@ -13,35 +13,11 @@ class YamlReader implements ReaderInterface
 {
 
     /**
-     * @var Object $cache doctrine cache if provided
-     */
-    protected $cache = null;
-
-    /**
-     * @param Object $cache optional doctrine cache instance
-     * @throws \InvalidArgumentException incorrect cache provider
-     */
-    public function __construct($cache = null)
-    {
-        if (null !== $cache && !is_a($cache, 'Doctrine\Common\Cache\Cache')) {
-            throw new \InvalidArgumentException(sprintf("Provided argument `cache` must be an instance of `Doctrine\\Common\\Cache\\Cache`, an instance of `%s` provided", get_class($cache)));
-        }
-
-        $this->cache = $cache;
-    }
-
-    /**
      * {@inheritdoc}
      */
     public function read($path, $country)
     {
         $country = strtolower($country);
-
-        $data = $this->getCache($country);
-
-        if (null !== $data) {
-            return $data;
-        }
 
         $fileName = $path . '/' . $country . '.yaml';
 
@@ -59,7 +35,7 @@ class YamlReader implements ReaderInterface
             ));
         }
 
-        return $this->saveCache($country, Yaml::parse($fileName));
+        return Yaml::parse($fileName);
     }
 
     /**
@@ -78,43 +54,6 @@ class YamlReader implements ReaderInterface
         }
 
         return null;
-    }
-
-    /**
-     * Get data from cache, if cache provider is set
-     *
-     * @param string $key
-     * @return array
-     */
-    protected function getCache($key) {
-        if (null === $this->cache) {
-            return null;
-        }
-
-        if (!$data = $this->cache->fetch($key)) {
-            return null;
-        }
-
-        return $data;
-    }
-
-    /**
-     * Save data to cache
-     * @param string $key
-     * @param array $data
-     * @throws \RuntimeException thrown if data could not be saved to cache
-     * @return array
-     */
-    protected function saveCache($key, array $data) {
-        if (null === $this->cache) {
-            return $data;
-        }
-
-        if (!$this->cache->save($key, $data)) {
-            throw new \RuntimeException("Unable to save data to cache");
-        }
-
-        return $data;
     }
 
 }
