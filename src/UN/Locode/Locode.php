@@ -104,7 +104,7 @@ class Locode
      */
     public function getByLocode($locode)
     {
-        if (!preg_match("/^[A-Z]{2} [A-Z]{3}$/i", $locode)) {
+        if (!preg_match("/^[A-Z]{2}\\s[A-Z0-9]{3}$/i", $locode)) {
             throw new \InvalidArgumentException("Invalid locode format, ex: DE FRA");
         }
 
