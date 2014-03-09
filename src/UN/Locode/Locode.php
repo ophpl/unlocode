@@ -11,7 +11,7 @@ use UN\Locode\Reader\YamlReader;
  * @package UN\Locode
  * @description Locode API
  */
-class Locode
+class Locode implements LocodeInterface
 {
 
     /**
@@ -43,10 +43,7 @@ class Locode
     }
 
     /**
-     * Get list by country
-     *
-     * @param string $country ISO 3166-1 country code
-     * @return array<Model\Locode>
+     * {@inheritdoc}
      */
     public function getListByCountry($country)
     {
@@ -60,11 +57,7 @@ class Locode
     }
 
     /**
-     * Get by country and city name
-     *
-     * @param string $country ISO 3166-1 country code
-     * @param string $name city name
-     * @return null|Location
+     * {@inheritdoc}
      */
     public function getByCountryAndName($country, $name)
     {
@@ -78,11 +71,7 @@ class Locode
     }
 
     /**
-     * Get by country and code
-     *
-     * @param string $country ISO 3166-1 country code
-     * @param string $code city code
-     * @return null|Location
+     * {@inheritdoc}
      */
     public function getByCountryAndCode($country, $code)
     {
@@ -96,11 +85,7 @@ class Locode
     }
 
     /**
-     * Get by locode
-     *
-     * @param string $locode UN locode
-     * @throws \InvalidArgumentException
-     * @return null|Location
+     * {@inheritdoc}
      */
     public function getByLocode($locode)
     {
