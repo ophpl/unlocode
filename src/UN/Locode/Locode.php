@@ -90,7 +90,7 @@ class Locode implements LocodeInterface
     public function getByLocode($locode)
     {
         if (!preg_match("/^[A-Z]{2}\\s[A-Z0-9]{3}$/i", $locode)) {
-            throw new \InvalidArgumentException("Invalid locode format, ex: DE FRA");
+            throw new \InvalidArgumentException(sprintf("Invalid locode value `%s`", $locode));
         }
 
         list($country, $code) = explode(" ", $locode, 2);
