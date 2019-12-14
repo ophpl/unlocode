@@ -35,7 +35,7 @@ class YamlReader implements ReaderInterface
             ));
         }
 
-        return Yaml::parse($fileName);
+        return Yaml::parseFile($fileName);
     }
 
     /**
