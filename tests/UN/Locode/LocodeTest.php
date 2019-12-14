@@ -85,11 +85,11 @@ class LocodeTest extends TestCase
 
     /**
      * @covers {className}::{origMethodName}
-     * @expectedException \InvalidArgumentException
      */
     public function testGetByLocodeInvalidFormat()
     {
-        $this->object->getByLocode('EETLL');
+        $this->expectException(\InvalidArgumentException::class);
+    	$this->object->getByLocode('EETLL');
     }
 
 }
