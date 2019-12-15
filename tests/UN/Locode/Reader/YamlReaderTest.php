@@ -2,12 +2,14 @@
 
 namespace UN\Locode\Reader;
 
+use PHPUnit\Framework\TestCase;
+
 /**
  * Class YamlReaderTest
  * @package UN\Locode\Reader
  * @description Yaml Reader Tests
  */
-class YamlReaderTest extends \PHPUnit_Framework_TestCase
+class YamlReaderTest extends TestCase
 {
 
     /**
