@@ -15,14 +15,14 @@
         }
     ],
     "require": {
-        "php": "^7.2",
-        "symfony/yaml": "^4.3"
+        "php": "^8.0",
+        "symfony/yaml": "^5.2"
     },
     "require-dev": {
-        "phpunit/phpunit": "^8.0",
-        "symfony/dom-crawler":  "^4.3",
-        "symfony/css-selector": "^4.3",
-        "symfony/console": "^4.3"
+        "phpunit/phpunit": "^9.0",
+        "symfony/dom-crawler":  "^5.2",
+        "symfony/css-selector": "^5.2",
+        "symfony/console": "^5.2"
     },
     "suggest": {
         "doctrine/cache": "Allows reader to cache data"
