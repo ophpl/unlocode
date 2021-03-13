@@ -2,12 +2,14 @@
 
 namespace UN\Locode\Reader;
 
+use PHPUnit\Framework\TestCase;
+
 /**
  * Class CachedReaderTest
  * @package UN\Locode\Reader
  * @description Cached Reader Tests
  */
-class CachedReaderTest extends \PHPUnit_Framework_TestCase
+class CachedReaderTest extends TestCase
 {
 
     /**
