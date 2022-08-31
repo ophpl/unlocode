@@ -237,10 +237,9 @@ class Build extends Command
     {
         $format = $input->getOption("format");
 
-        switch($format) {
+        switch ($format) {
             case 'yaml':
                 return new YamlWriter();
-                break;
         }
 
         throw new \RuntimeException(sprintf("Writer for format %s not found", $format));
