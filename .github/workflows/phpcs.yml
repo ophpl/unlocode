@@ -11,8 +11,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      - name: PHP Code Style (phpcs)
-        uses: chindit/actions-phpcs@master
+      - name: PHP CS Fixer
+        uses: StephaneBour/actions-php-cs-fixer@1.0
         with:
-          # Folder to check code style
-          dir: src/
+          dir: './src'
