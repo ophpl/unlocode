@@ -24,6 +24,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'AM A3A'
+    name: Aparan
+    namewodiacritics: Aparan
+    subdiv: AG
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4035N 04421E'
+    remarks: ''
+-
+    ch: ''
     locode: 'AM ARG'
     name: Aragatsotn
     namewodiacritics: Aragatsotn
@@ -144,6 +156,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'AM HRA'
+    name: Hrazdan
+    namewodiacritics: Hrazdan
+    subdiv: KT
+    function: '-23-----'
+    status: AM
+    date: '2101'
+    iata: ''
+    coordinates: '4032N 04446E'
+    remarks: ''
+-
+    ch: ''
     locode: 'AM JER'
     name: Jermuk
     namewodiacritics: Jermuk
@@ -155,7 +179,7 @@
     coordinates: ''
     remarks: ''
 -
-    ch: +
+    ch: ''
     locode: 'AM KJN'
     name: Kajaran
     namewodiacritics: Kajaran
@@ -168,6 +192,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'AM KPN'
+    name: Kapan
+    namewodiacritics: Kapan
+    subdiv: SU
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '3912N 04624E'
+    remarks: ''
+-
+    ch: ''
     locode: 'AM ARM'
     name: Masis
     namewodiacritics: Masis
@@ -177,6 +213,42 @@
     date: '0901'
     iata: ''
     coordinates: '4001N 04429E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AM MMA'
+    name: 'Mets Masrik'
+    namewodiacritics: 'Mets Masrik'
+    subdiv: GR
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '4013N 04546E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AM MTR'
+    name: Metsamor
+    namewodiacritics: Metsamor
+    subdiv: ER
+    function: '-----6--'
+    status: RL
+    date: '1901'
+    iata: ''
+    coordinates: '4004N 04417E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AM RN4'
+    name: Rind
+    namewodiacritics: Rind
+    subdiv: VD
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '3945N 04510E'
     remarks: ''
 -
     ch: ''
@@ -201,6 +273,18 @@
     date: '0207'
     iata: ''
     coordinates: '4048N 04428E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AM VED'
+    name: Vedi
+    namewodiacritics: Vedi
+    subdiv: AR
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3954N 04443E'
     remarks: ''
 -
     ch: ''

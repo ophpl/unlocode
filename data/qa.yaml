@@ -1,5 +1,89 @@
 -
     ch: ''
+    locode: 'QA ABH'
+    name: 'Abu Hamur'
+    namewodiacritics: 'Abu Hamur'
+    subdiv: RA
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '2514N 05129E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'QA ABS'
+    name: 'Abu Samra'
+    namewodiacritics: 'Abu Samra'
+    subdiv: RA
+    function: '--3-----'
+    status: RL
+    date: '1707'
+    iata: ''
+    coordinates: '2444N 05049E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'QA ALK'
+    name: 'Al Karaana'
+    namewodiacritics: 'Al Karaana'
+    subdiv: RA
+    function: '--3-----'
+    status: RL
+    date: '1707'
+    iata: ''
+    coordinates: '2500N 05102E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'QA KHR'
+    name: 'Al Khor'
+    namewodiacritics: 'Al Khor'
+    subdiv: KH
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '2541N 05130E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'QA RYN'
+    name: 'Al Rayyan'
+    namewodiacritics: 'Al Rayyan'
+    subdiv: RA
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '2519N 05122E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'QA RUS'
+    name: 'Al Ruwais Qatar'
+    namewodiacritics: 'Al Ruwais Qatar'
+    subdiv: MS
+    function: 1-------
+    status: AA
+    date: '1801'
+    iata: ''
+    coordinates: '2614N 05120E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'QA ASH'
+    name: 'Al Shahaniya'
+    namewodiacritics: 'Al Shahaniya'
+    subdiv: RA
+    function: '--3-----'
+    status: RL
+    date: '1707'
+    iata: ''
+    coordinates: '2522N 05112E'
+    remarks: ''
+-
+    ch: ''
     locode: 'QA ASN'
     name: 'Al Shaheen'
     namewodiacritics: 'Al Shaheen'
@@ -9,6 +93,18 @@
     date: '0401'
     iata: ''
     coordinates: '2633N 05204E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'QA ALS'
+    name: 'Al Shamal City'
+    namewodiacritics: 'Al Shamal City'
+    subdiv: MS
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '2607N 05113E'
     remarks: ''
 -
     ch: ''
@@ -23,7 +119,79 @@
     coordinates: '2506N 05118E'
     remarks: ''
 -
-    ch: ¦
+    ch: ''
+    locode: 'QA ALW'
+    name: 'Al Wa''b'
+    namewodiacritics: 'Al Wa''b'
+    subdiv: KH
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '2550N 05127E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'QA WAK'
+    name: 'Al Wakrah'
+    namewodiacritics: 'Al Wakrah'
+    subdiv: WA
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '2510N 05136E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'QA ALZ'
+    name: 'Al Zubarah'
+    namewodiacritics: 'Al Zubarah'
+    subdiv: DA
+    function: '--3-----'
+    status: RL
+    date: '1707'
+    iata: ''
+    coordinates: '2558N 05101E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'QA SLW'
+    name: 'As Salwa'
+    namewodiacritics: 'As Salwa'
+    subdiv: RA
+    function: 1-------
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '2444N 05045E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'QA ASL'
+    name: 'As Sayliyah'
+    namewodiacritics: 'As Sayliyah'
+    subdiv: DA
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '2512N 05122E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'QA HMD'
+    name: 'BGN/PCGN1956 - HAMAD'
+    namewodiacritics: 'BGN/PCGN1956 - HAMAD'
+    subdiv: WA
+    function: 1-------
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '2500N 05137E'
+    remarks: ''
+-
+    ch: ''
     locode: 'QA DOH'
     name: Doha
     namewodiacritics: Doha
@@ -33,19 +201,31 @@
     date: '1307'
     iata: ''
     coordinates: ''
-    remarks: '@Sub'
+    remarks: ''
 -
     ch: ''
+    locode: 'QA DHN'
+    name: Dukhan
+    namewodiacritics: Dukhan
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '2525N 05047E'
+    remarks: ''
+-
+    ch: ¦
     locode: 'QA HAL'
     name: Halul
     namewodiacritics: Halul
     subdiv: ''
-    function: 1-------
+    function: 1-----7-
     status: RQ
-    date: '9506'
+    date: '2201'
     iata: ''
     coordinates: ''
-    remarks: ''
+    remarks: '@Fun'
 -
     ch: ''
     locode: 'QA HNA'
@@ -60,16 +240,28 @@
     remarks: ''
 -
     ch: ''
+    locode: 'QA LSL'
+    name: Lusail
+    namewodiacritics: Lusail
+    subdiv: DA
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '2530N 05129E'
+    remarks: ''
+-
+    ch: X
     locode: 'QA MES'
     name: Mesaieed
     namewodiacritics: Mesaieed
     subdiv: WA
     function: 1----6--
-    status: RQ
-    date: '0907'
+    status: XX
+    date: '2201'
     iata: ''
     coordinates: '2498N 05155E'
-    remarks: ''
+    remarks: 'Use QAUMS'
 -
     ch: ''
     locode: 'QA QAP'
@@ -78,9 +270,9 @@
     subdiv: US
     function: 1-------
     status: RQ
-    date: '0901'
+    date: '1707'
     iata: ''
-    coordinates: '2455N 51342E'
+    coordinates: '2455N 05134E'
     remarks: ''
 -
     ch: ''
@@ -90,12 +282,12 @@
     subdiv: US
     function: 1-------
     status: RQ
-    date: '0901'
+    date: '1707'
     iata: ''
-    coordinates: '2451N 51325E'
+    coordinates: '2451N 05132E'
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'QA RLF'
     name: 'Ras Laffan'
     namewodiacritics: 'Ras Laffan'
@@ -105,19 +297,55 @@
     date: '1307'
     iata: ''
     coordinates: '2556N 05132E'
-    remarks: '@Sub'
+    remarks: ''
 -
-    ch: ¦
+    ch: ''
+    locode: 'QA SIM'
+    name: Simaisma
+    namewodiacritics: Simaisma
+    subdiv: DA
+    function: '--3-----'
+    status: RL
+    date: '1707'
+    iata: ''
+    coordinates: '2535N 05129E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'QA TPQ'
+    name: 'The Pearl-Qatar'
+    namewodiacritics: 'The Pearl-Qatar'
+    subdiv: DA
+    function: '--3-----'
+    status: RL
+    date: '1707'
+    iata: ''
+    coordinates: '2522N 05133E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'QA MBB'
+    name: 'Umm Bab'
+    namewodiacritics: 'Umm Bab'
+    subdiv: RA
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '2513N 05048E'
+    remarks: ''
+-
+    ch: ''
     locode: 'QA UMQ'
     name: 'Umm Qarn'
     namewodiacritics: 'Umm Qarn'
-    subdiv: US
+    subdiv: ZA
     function: '-----6--'
     status: RQ
     date: '1307'
     iata: ''
     coordinates: '2532N 05125E'
-    remarks: '@Sub'
+    remarks: ''
 -
     ch: ''
     locode: 'QA UMS'

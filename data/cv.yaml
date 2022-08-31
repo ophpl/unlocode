@@ -1,5 +1,17 @@
 -
     ch: ''
+    locode: 'CV ASS'
+    name: Assomada
+    namewodiacritics: Assomada
+    subdiv: CA
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '1506N 02341W'
+    remarks: ''
+-
+    ch: ''
     locode: 'CV BVC'
     name: 'Boa Vista'
     namewodiacritics: 'Boa Vista'
@@ -23,7 +35,7 @@
     coordinates: '3140S 05635W'
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'CV SID'
     name: 'Ilha do Sal'
     namewodiacritics: 'Ilha do Sal'
@@ -33,7 +45,7 @@
     date: '1307'
     iata: ''
     coordinates: '1645N 02255W'
-    remarks: '@Sub'
+    remarks: ''
 -
     ch: ''
     locode: 'CV MMO'
@@ -47,7 +59,7 @@
     coordinates: ''
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'CV MIN'
     name: Mindelo
     namewodiacritics: Mindelo
@@ -57,7 +69,7 @@
     date: '1307'
     iata: ''
     coordinates: '1653N 02500W'
-    remarks: '@Sub'
+    remarks: ''
 -
     ch: ''
     locode: 'CV MTI'
@@ -95,7 +107,7 @@
     coordinates: ''
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'CV GRA'
     name: 'Porto Grande'
     namewodiacritics: 'Porto Grande'
@@ -105,9 +117,9 @@
     date: '1307'
     iata: ''
     coordinates: '1652N 02500W'
-    remarks: '@Sub'
+    remarks: ''
 -
-    ch: '#'
+    ch: ''
     locode: 'CV POI'
     name: 'Porto Inglez'
     namewodiacritics: 'Porto Inglez'
@@ -117,7 +129,7 @@
     date: '1307'
     iata: ''
     coordinates: '1508N 02313W'
-    remarks: '@Sub'
+    remarks: ''
 -
     ch: ''
     locode: 'CV PON'
@@ -180,6 +192,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CV 4SM'
+    name: Santiago
+    namewodiacritics: Santiago
+    subdiv: MA
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '1508N 02332W'
+    remarks: ''
+-
+    ch: ''
     locode: 'CV NTO'
     name: 'Santo Antao'
     namewodiacritics: 'Santo Antao'
@@ -191,7 +215,7 @@
     coordinates: ''
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'CV SFL'
     name: 'Sao Filipe'
     namewodiacritics: 'Sao Filipe'
@@ -201,7 +225,7 @@
     date: '1307'
     iata: ''
     coordinates: '1454N 02431W'
-    remarks: '@Sub'
+    remarks: ''
 -
     ch: ''
     locode: 'CV SNE'

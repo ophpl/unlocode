@@ -36,6 +36,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'TW BDA'
+    name: Budai
+    namewodiacritics: Budai
+    subdiv: ''
+    function: 1-------
+    status: AA
+    date: '2101'
+    iata: ''
+    coordinates: '2322N 12006E'
+    remarks: ''
+-
+    ch: ''
     locode: 'TW CHW'
     name: Chang-Hua
     namewodiacritics: Chang-Hua
@@ -180,6 +192,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'TW HCH'
+    name: Hsi-Chih
+    namewodiacritics: Hsi-Chih
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '2504N 12139E'
+    remarks: ''
+-
+    ch: ''
     locode: 'TW HSZ'
     name: Hsin-chu
     namewodiacritics: Hsin-chu
@@ -189,6 +213,18 @@
     date: '0201'
     iata: ''
     coordinates: '2449N 12058E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TW ACH'
+    name: Hsin-chuang
+    namewodiacritics: Hsin-chuang
+    subdiv: KHH
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '2245N 12018E'
     remarks: ''
 -
     ch: ''
@@ -213,6 +249,18 @@
     date: '9601'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'TW HUK'
+    name: Hukou
+    namewodiacritics: Hukou
+    subdiv: HSQ
+    function: 1-------
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '2454N 12103E'
     remarks: ''
 -
     ch: ''
@@ -443,7 +491,7 @@
     coordinates: ''
     remarks: ''
 -
-    ch: +
+    ch: ''
     locode: 'TW TTA'
     name: Pingzhen
     namewodiacritics: Pingzhen
@@ -453,18 +501,6 @@
     date: '1307'
     iata: ''
     coordinates: '2456N 12112E'
-    remarks: ''
--
-    ch: ''
-    locode: 'TW SEL'
-    name: Selangdor
-    namewodiacritics: Selangdor
-    subdiv: '04'
-    function: '--3-----'
-    status: RQ
-    date: '0901'
-    iata: ''
-    coordinates: ''
     remarks: ''
 -
     ch: ''
@@ -519,10 +555,10 @@
     locode: 'TW TXG'
     name: Taichung
     namewodiacritics: Taichung
-    subdiv: ''
+    subdiv: TXG
     function: 1--4----
     status: AI
-    date: '9601'
+    date: '1701'
     iata: ''
     coordinates: ''
     remarks: ''
@@ -549,6 +585,18 @@
     date: '0212'
     iata: ''
     coordinates: '2318N 12019E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TW TAP'
+    name: 'T''ai-pao'
+    namewodiacritics: 'T''ai-pao'
+    subdiv: CYQ
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '2327N 12019E'
     remarks: ''
 -
     ch: ''
@@ -753,4 +801,16 @@
     date: '0901'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'TW ZHB'
+    name: Zhubei
+    namewodiacritics: Zhubei
+    subdiv: HSZ
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '2450N 12100E'
     remarks: ''

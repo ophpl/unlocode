@@ -1,5 +1,17 @@
 -
     ch: ''
+    locode: 'NL AAH'
+    name: 'Aa en Hunze'
+    namewodiacritics: 'Aa en Hunze'
+    subdiv: DR
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5300N 00646E'
+    remarks: ''
+-
+    ch: ''
     locode: 'NL ALB'
     name: Aalburg
     namewodiacritics: Aalburg
@@ -39,12 +51,12 @@
     locode: 'NL AAL'
     name: Aalst
     namewodiacritics: Aalst
-    subdiv: ''
-    function: '--3-----'
+    subdiv: GE
+    function: 1-3-----
     status: AF
-    date: '9602'
+    date: '2107'
     iata: ''
-    coordinates: ''
+    coordinates: '5157N 00532E'
     remarks: ''
 -
     ch: ''
@@ -99,12 +111,12 @@
     locode: 'NL ARI'
     name: 'Aarle Rixtel'
     namewodiacritics: 'Aarle Rixtel'
-    subdiv: ''
-    function: '--3-----'
+    subdiv: NB
+    function: 1-3-----
     status: AF
-    date: '9602'
+    date: '1607'
     iata: ''
-    coordinates: ''
+    coordinates: '5130N 00538E'
     remarks: ''
 -
     ch: ''
@@ -216,6 +228,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'NL ACK'
+    name: Achtkarspelen
+    namewodiacritics: Achtkarspelen
+    subdiv: FR
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5315N 00609E'
+    remarks: ''
+-
+    ch: ''
     locode: 'NL ADU'
     name: Aduard
     namewodiacritics: Aduard
@@ -303,12 +327,12 @@
     locode: 'NL ALK'
     name: Alkmaar
     namewodiacritics: Alkmaar
-    subdiv: ''
-    function: '-23-----'
+    subdiv: NH
+    function: 123-----
     status: AF
-    date: '9602'
+    date: '1601'
     iata: ''
-    coordinates: ''
+    coordinates: '5238N 00445E'
     remarks: ''
 -
     ch: ''
@@ -327,12 +351,12 @@
     locode: 'NL ALM'
     name: Almelo
     namewodiacritics: Almelo
-    subdiv: ''
-    function: '-23-----'
+    subdiv: OV
+    function: 123-----
     status: AF
-    date: '9602'
+    date: '1601'
     iata: QYL
-    coordinates: ''
+    coordinates: '5221N 00640E'
     remarks: ''
 -
     ch: ''
@@ -351,12 +375,12 @@
     locode: 'NL AER'
     name: Almere
     namewodiacritics: Almere
-    subdiv: ''
-    function: '--3-----'
+    subdiv: FL
+    function: 1-3--6--
     status: AF
-    date: '9602'
+    date: '2007'
     iata: ''
-    coordinates: ''
+    coordinates: '5222N 00513E'
     remarks: ''
 -
     ch: ''
@@ -387,12 +411,48 @@
     locode: 'NL APN'
     name: 'Alphen aan den Rijn'
     namewodiacritics: 'Alphen aan den Rijn'
-    subdiv: ''
-    function: '-23-----'
+    subdiv: ZH
+    function: 123-----
     status: AF
-    date: '9602'
+    date: '1607'
     iata: ''
-    coordinates: ''
+    coordinates: '5208N 00440E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NL AAC'
+    name: Alphen-Chaam
+    namewodiacritics: Alphen-Chaam
+    subdiv: NB
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5129N 00457E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NL VRT'
+    name: Alteveer
+    namewodiacritics: Alteveer
+    subdiv: GR
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5303N 00700E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NL 5RD'
+    name: Alteveer
+    namewodiacritics: Alteveer
+    subdiv: DR
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5241N 00629E'
     remarks: ''
 -
     ch: ''
@@ -424,9 +484,9 @@
     name: Ameland
     namewodiacritics: Ameland
     subdiv: ''
-    function: 1-------
+    function: 1--4----
     status: AI
-    date: '9901'
+    date: '1607'
     iata: ''
     coordinates: ''
     remarks: ''
@@ -448,9 +508,9 @@
     name: Amerongen
     namewodiacritics: Amerongen
     subdiv: UT
-    function: '--3-----'
+    function: 1-3-----
     status: AF
-    date: '0907'
+    date: '1607'
     iata: ''
     coordinates: '5200N 00528E'
     remarks: ''
@@ -522,9 +582,9 @@
     subdiv: ''
     function: 12345---
     status: AF
-    date: '9602'
+    date: '1907'
     iata: ''
-    coordinates: ''
+    coordinates: '5224N 00449E'
     remarks: ''
 -
     ch: ''
@@ -549,6 +609,18 @@
     date: '9602'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'NL AND'
+    name: Anderen
+    namewodiacritics: Anderen
+    subdiv: DR
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5300N 00641E'
     remarks: ''
 -
     ch: ''
@@ -591,12 +663,12 @@
     locode: 'NL ANP'
     name: 'Anna Paulowna'
     namewodiacritics: 'Anna Paulowna'
-    subdiv: ''
-    function: '--3-----'
+    subdiv: NH
+    function: 1-3-----
     status: AF
-    date: '9602'
+    date: '1607'
     iata: ''
-    coordinates: ''
+    coordinates: '5252N 00452E'
     remarks: ''
 -
     ch: ''
@@ -639,24 +711,24 @@
     locode: 'NL APP'
     name: Appingedam
     namewodiacritics: Appingedam
-    subdiv: ''
-    function: '--3-----'
+    subdiv: GR
+    function: 1-3-----
     status: AF
-    date: '9602'
+    date: '1607'
     iata: ''
-    coordinates: ''
+    coordinates: '5319N 00652E'
     remarks: ''
 -
     ch: ''
     locode: 'NL ARC'
     name: Arcen
     namewodiacritics: Arcen
-    subdiv: ''
-    function: '--3-----'
+    subdiv: LI
+    function: 1-3-----
     status: AF
-    date: '9602'
+    date: '1607'
     iata: ''
-    coordinates: ''
+    coordinates: '5129N 00611E'
     remarks: ''
 -
     ch: ''
@@ -690,9 +762,33 @@
     subdiv: ''
     function: '-23-----'
     status: AF
-    date: '9602'
+    date: '2101'
     iata: QAR
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'NL ARU'
+    name: Arum
+    namewodiacritics: Arum
+    subdiv: FR
+    function: '--3-----'
+    status: RL
+    date: '1901'
+    iata: ''
+    coordinates: '5308N 00529E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NL ASC'
+    name: Asch
+    namewodiacritics: Asch
+    subdiv: GE
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '5156N 00519E'
     remarks: ''
 -
     ch: ''
@@ -777,6 +873,30 @@
     date: '0212'
     iata: ''
     coordinates: '5116N 00355E'
+    remarks: ''
+-
+    ch: +
+    locode: 'NL AZG'
+    name: Azewijn
+    namewodiacritics: Azewijn
+    subdiv: GE
+    function: '--3--6--'
+    status: AA
+    date: '2201'
+    iata: ''
+    coordinates: '5153N 00618E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NL BA2'
+    name: Baak
+    namewodiacritics: Baak
+    subdiv: GE
+    function: '--3-----'
+    status: RL
+    date: '1907'
+    iata: ''
+    coordinates: '5207N 00620E'
     remarks: ''
 -
     ch: ''
@@ -964,9 +1084,9 @@
     name: Barendrecht
     namewodiacritics: Barendrecht
     subdiv: ''
-    function: '-23-----'
+    function: 123-----
     status: AF
-    date: '9602'
+    date: '1607'
     iata: ''
     coordinates: ''
     remarks: ''
@@ -1044,6 +1164,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'NL BGD'
+    name: Beegden
+    namewodiacritics: Beegden
+    subdiv: LI
+    function: '--3-----'
+    status: AA
+    date: '2107'
+    iata: ''
+    coordinates: '5111N 00555E'
+    remarks: ''
+-
+    ch: ''
     locode: 'NL BEQ'
     name: Beek
     namewodiacritics: Beek
@@ -1060,9 +1192,9 @@
     name: Beek
     namewodiacritics: Beek
     subdiv: LI
-    function: '-----6--'
+    function: '---4-6--'
     status: RL
-    date: '0901'
+    date: '1607'
     iata: ''
     coordinates: '5132N 00557E'
     remarks: ''
@@ -1152,6 +1284,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'NL BEZ'
+    name: Beetsterzwaag
+    namewodiacritics: Beetsterzwaag
+    subdiv: FR
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '5330N 00650E'
+    remarks: ''
+-
+    ch: ''
     locode: 'NL BEI'
     name: Beilen
     namewodiacritics: Beilen
@@ -1192,11 +1336,23 @@
     name: Belfeld
     namewodiacritics: Belfeld
     subdiv: LI
-    function: '--3-----'
+    function: 1-3-----
     status: RL
-    date: '0307'
+    date: '1607'
     iata: ''
     coordinates: '5119N 00607E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NL NWR'
+    name: Bellingwedde
+    namewodiacritics: Bellingwedde
+    subdiv: GR
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5307N 00709E'
     remarks: ''
 -
     ch: ''
@@ -1204,9 +1360,9 @@
     name: Bemmel
     namewodiacritics: Bemmel
     subdiv: GE
-    function: '--3-----'
+    function: 1-3-----
     status: RL
-    date: '0212'
+    date: '1607'
     iata: ''
     coordinates: '5154N 00554E'
     remarks: ''
@@ -1215,12 +1371,12 @@
     locode: 'NL BUW'
     name: Beneden-Leeuwen
     namewodiacritics: Beneden-Leeuwen
-    subdiv: ''
+    subdiv: GE
     function: '--3-----'
     status: AF
-    date: '9602'
+    date: '1607'
     iata: ''
-    coordinates: ''
+    coordinates: '5153N 00531E'
     remarks: ''
 -
     ch: ''
@@ -1245,6 +1401,18 @@
     date: '9602'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'NL BBK'
+    name: Benningbroek
+    namewodiacritics: Benningbroek
+    subdiv: NH
+    function: '--3-----'
+    status: RL
+    date: '1901'
+    iata: ''
+    coordinates: '5242N 00502E'
     remarks: ''
 -
     ch: ''
@@ -1344,6 +1512,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'NL BGN'
+    name: Bergen
+    namewodiacritics: Bergen
+    subdiv: NH
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '5240N 04420E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NL BRX'
+    name: Bergen
+    namewodiacritics: Bergen
+    subdiv: LI
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '5136N 00602E'
+    remarks: ''
+-
+    ch: ''
     locode: 'NL BEG'
     name: 'Bergen aan Zee'
     namewodiacritics: 'Bergen aan Zee'
@@ -1353,6 +1545,18 @@
     date: '1107'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'NL BZM'
+    name: 'Bergen op Zoom'
+    namewodiacritics: 'Bergen op Zoom'
+    subdiv: NB
+    function: 123-----
+    status: AF
+    date: '1701'
+    iata: ''
+    coordinates: '5130N 00418E'
     remarks: ''
 -
     ch: ''
@@ -1392,6 +1596,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'NL BHR'
+    name: Bergharen
+    namewodiacritics: Bergharen
+    subdiv: GE
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '5151N 00540E'
+    remarks: ''
+-
+    ch: ''
     locode: 'NL BEH'
     name: Bergh-Autoweg
     namewodiacritics: Bergh-Autoweg
@@ -1404,27 +1620,27 @@
     remarks: ''
 -
     ch: ''
-    locode: 'NL BEK'
-    name: Bergschenhoek
-    namewodiacritics: Bergschenhoek
-    subdiv: ''
+    locode: 'NL BHE'
+    name: Berghem
+    namewodiacritics: Berghem
+    subdiv: NB
     function: '--3-----'
-    status: AF
-    date: '9602'
+    status: RL
+    date: '1601'
     iata: ''
-    coordinates: ''
+    coordinates: '5146N 00534E'
     remarks: ''
 -
     ch: ''
-    locode: 'NL BZM'
-    name: 'Bergse Diepsluis/Bergen op Zoom'
-    namewodiacritics: 'Bergse Diepsluis/Bergen op Zoom'
-    subdiv: ''
-    function: '-23-----'
+    locode: 'NL BEK'
+    name: Bergschenhoek
+    namewodiacritics: Bergschenhoek
+    subdiv: ZH
+    function: '--3-----'
     status: AF
-    date: '1107'
+    date: '1607'
     iata: ''
-    coordinates: '5130N 00418E'
+    coordinates: '5159N 00429E'
     remarks: ''
 -
     ch: ''
@@ -1488,6 +1704,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'NL KLL'
+    name: Berkelland
+    namewodiacritics: Berkelland
+    subdiv: GE
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5207N 00632E'
+    remarks: ''
+-
+    ch: ''
     locode: 'NL BKT'
     name: Berkhout
     namewodiacritics: Berkhout
@@ -1512,15 +1740,39 @@
     remarks: ''
 -
     ch: ''
+    locode: 'NL BLM'
+    name: Berlikum
+    namewodiacritics: Berlikum
+    subdiv: FR
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5315N 00539E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NL EEZ'
+    name: Bernheze
+    namewodiacritics: Bernheze
+    subdiv: NB
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5144N 00532E'
+    remarks: ''
+-
+    ch: ''
     locode: 'NL BST'
     name: Best
     namewodiacritics: Best
-    subdiv: ''
-    function: '--3-----'
+    subdiv: NB
+    function: 1-3-----
     status: AF
-    date: '9602'
+    date: '1607'
     iata: QWZ
-    coordinates: ''
+    coordinates: '5130N 00524E'
     remarks: ''
 -
     ch: ''
@@ -1539,12 +1791,12 @@
     locode: 'NL BNN'
     name: Beuningen
     namewodiacritics: Beuningen
-    subdiv: ''
-    function: '--3-----'
+    subdiv: GE
+    function: 1-3-----
     status: AF
-    date: '9602'
+    date: '1607'
     iata: ''
-    coordinates: ''
+    coordinates: '5152N 00547E'
     remarks: ''
 -
     ch: ''
@@ -1732,9 +1984,9 @@
     name: Blerick
     namewodiacritics: Blerick
     subdiv: LI
-    function: '-23-----'
+    function: 123-----
     status: RL
-    date: '0212'
+    date: '2107'
     iata: ''
     coordinates: '5122N 00610E'
     remarks: ''
@@ -1749,6 +2001,18 @@
     date: '9602'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'NL BLI'
+    name: Blije
+    namewodiacritics: Blije
+    subdiv: FR
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '5321N 00551E'
     remarks: ''
 -
     ch: ''
@@ -1800,6 +2064,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'NL BOA'
+    name: Boazum
+    namewodiacritics: Boazum
+    subdiv: FR
+    function: '--3-----'
+    status: AM
+    date: '2007'
+    iata: ''
+    coordinates: '5305N 00541E'
+    remarks: ''
+-
+    ch: ''
     locode: 'NL BDK'
     name: Bobeldijk
     namewodiacritics: Bobeldijk
@@ -1823,7 +2099,19 @@
     coordinates: '5205N 00445E'
     remarks: ''
 -
-    ch: +
+    ch: ''
+    locode: 'NL BRW'
+    name: Bodegraven-Reeuwijk
+    namewodiacritics: Bodegraven-Reeuwijk
+    subdiv: ZH
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5205N 00445E'
+    remarks: ''
+-
+    ch: ''
     locode: 'NL BCP'
     name: Boeicop
     namewodiacritics: Boeicop
@@ -1968,6 +2256,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'NL BOO'
+    name: Borger-Odoorn
+    namewodiacritics: Borger-Odoorn
+    subdiv: DR
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5253N 00652E'
+    remarks: ''
+-
+    ch: ''
     locode: 'NL BGW'
     name: Borgsweer
     namewodiacritics: Borgsweer
@@ -1983,12 +2283,12 @@
     locode: 'NL BON'
     name: Born
     namewodiacritics: Born
-    subdiv: ''
-    function: '--3-----'
+    subdiv: LI
+    function: 1-3-----
     status: AF
-    date: '9602'
+    date: '1607'
     iata: ''
-    coordinates: ''
+    coordinates: '5102N 00549E'
     remarks: ''
 -
     ch: ''
@@ -2019,10 +2319,10 @@
     locode: 'NL BOR'
     name: Borssele
     namewodiacritics: Borssele
-    subdiv: ''
+    subdiv: ZE
     function: 1-3-----
     status: AF
-    date: '9602'
+    date: '1501'
     iata: ''
     coordinates: '5125N 00343E'
     remarks: ''
@@ -2040,15 +2340,39 @@
     remarks: ''
 -
     ch: ''
+    locode: 'NL UTB'
+    name: 'Bosch En Duin'
+    namewodiacritics: 'Bosch En Duin'
+    subdiv: UT
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5207N 00515E'
+    remarks: ''
+-
+    ch: ''
     locode: 'NL BSK'
     name: Boskoop
     namewodiacritics: Boskoop
     subdiv: ''
-    function: '--3-----'
+    function: 1-3-----
     status: AF
-    date: '9602'
+    date: '1607'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'NL BOS'
+    name: Bosschenhoofd
+    namewodiacritics: Bosschenhoofd
+    subdiv: NB
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '5134N 00433E'
     remarks: ''
 -
     ch: ''
@@ -2160,6 +2484,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'NL BMT'
+    name: Braamt
+    namewodiacritics: Braamt
+    subdiv: GE
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '5155N 00616E'
+    remarks: ''
+-
+    ch: ''
     locode: 'NL BRK'
     name: Brakel
     namewodiacritics: Brakel
@@ -2187,12 +2523,24 @@
     locode: 'NL BRD'
     name: Breda
     namewodiacritics: Breda
-    subdiv: ''
-    function: '-23-----'
+    subdiv: NB
+    function: 123-----
     status: AF
-    date: '9602'
+    date: '1607'
     iata: GLZ
-    coordinates: ''
+    coordinates: '5134N 00448E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NL BDV'
+    name: Bredevoort
+    namewodiacritics: Bredevoort
+    subdiv: GE
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '5157N 00637W'
     remarks: ''
 -
     ch: ''
@@ -2214,9 +2562,9 @@
     subdiv: ''
     function: 1-3-----
     status: AF
-    date: '9602'
+    date: '1907'
     iata: ''
-    coordinates: ''
+    coordinates: '5123N 00334E'
     remarks: ''
 -
     ch: ''
@@ -2224,9 +2572,9 @@
     name: Breukelen
     namewodiacritics: Breukelen
     subdiv: ''
-    function: '--3-----'
+    function: 1-3-----
     status: AF
-    date: '9602'
+    date: '1607'
     iata: ''
     coordinates: ''
     remarks: ''
@@ -2236,9 +2584,9 @@
     name: Brielle
     namewodiacritics: Brielle
     subdiv: ''
-    function: '--3-----'
+    function: 1-3-----
     status: AF
-    date: '9602'
+    date: '1607'
     iata: ''
     coordinates: ''
     remarks: ''
@@ -2292,6 +2640,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'NL BCK'
+    name: Bronckhorst
+    namewodiacritics: Bronckhorst
+    subdiv: GE
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5203N 00618E'
+    remarks: ''
+-
+    ch: ''
     locode: 'NL BRO'
     name: Brouwershaven
     namewodiacritics: Brouwershaven
@@ -2320,9 +2680,9 @@
     name: Bruinisse
     namewodiacritics: Bruinisse
     subdiv: ''
-    function: '--3-----'
+    function: 1-3-----
     status: AF
-    date: '9602'
+    date: '1607'
     iata: ''
     coordinates: ''
     remarks: ''
@@ -2332,9 +2692,9 @@
     name: Brummen
     namewodiacritics: Brummen
     subdiv: ''
-    function: '--3-----'
+    function: 1-3-----
     status: AF
-    date: '9602'
+    date: '1607'
     iata: ''
     coordinates: ''
     remarks: ''
@@ -2356,9 +2716,9 @@
     name: Budel
     namewodiacritics: Budel
     subdiv: ''
-    function: 1-------
+    function: 1--4----
     status: AI
-    date: '9901'
+    date: '1607'
     iata: ''
     coordinates: ''
     remarks: ''
@@ -2406,9 +2766,9 @@
     subdiv: FR
     function: '-----6--'
     status: RL
-    date: '0901'
+    date: '1601'
     iata: ''
-    coordinates: '5325N 61500E'
+    coordinates: '5315N 00609E'
     remarks: ''
 -
     ch: ''
@@ -2452,9 +2812,9 @@
     name: Bunschoten
     namewodiacritics: Bunschoten
     subdiv: ''
-    function: '--3-----'
+    function: 1-3-----
     status: AF
-    date: '9602'
+    date: '1607'
     iata: ''
     coordinates: ''
     remarks: ''
@@ -2541,6 +2901,18 @@
     date: '0501'
     iata: ''
     coordinates: '5305N 00533E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NL BUU'
+    name: Burum
+    namewodiacritics: Burum
+    subdiv: FR
+    function: '--3-----'
+    status: RL
+    date: '1907'
+    iata: ''
+    coordinates: '5316N 00614E'
     remarks: ''
 -
     ch: ''
@@ -2680,9 +3052,9 @@
     name: Coevorden
     namewodiacritics: Coevorden
     subdiv: ''
-    function: '-23-----'
+    function: 123-----
     status: AF
-    date: '9602'
+    date: '1607'
     iata: ''
     coordinates: ''
     remarks: ''
@@ -2724,6 +3096,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'NL CRK'
+    name: Cranendonck
+    namewodiacritics: Cranendonck
+    subdiv: NB
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5118N 00535E'
+    remarks: ''
+-
+    ch: ''
     locode: 'NL CRI'
     name: Creil
     namewodiacritics: Creil
@@ -2733,6 +3117,18 @@
     date: '0501'
     iata: ''
     coordinates: '5246N 00540E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NL CIJ'
+    name: Cromstrijen
+    namewodiacritics: Cromstrijen
+    subdiv: ZH
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5144N 00426E'
     remarks: ''
 -
     ch: ''
@@ -2751,12 +3147,12 @@
     locode: 'NL CUY'
     name: Cuijk
     namewodiacritics: Cuijk
-    subdiv: ''
+    subdiv: NB
     function: '--3-----'
     status: AF
-    date: '9602'
+    date: '1501'
     iata: ''
-    coordinates: ''
+    coordinates: '5144N 00553E'
     remarks: ''
 -
     ch: ''
@@ -2764,11 +3160,23 @@
     name: Culemborg
     namewodiacritics: Culemborg
     subdiv: ''
-    function: '--3-----'
+    function: 1-3-----
     status: AF
-    date: '9602'
+    date: '1607'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'NL TRE'
+    name: Dalen
+    namewodiacritics: Dalen
+    subdiv: DR
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '5242N 00645E'
     remarks: ''
 -
     ch: ''
@@ -2796,6 +3204,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'NL DTU'
+    name: Dantumadeel
+    namewodiacritics: Dantumadeel
+    subdiv: FR
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5317N 00600E'
+    remarks: ''
+-
+    ch: ''
     locode: 'NL DBI'
     name: 'De Bilt'
     namewodiacritics: 'De Bilt'
@@ -2805,6 +3225,18 @@
     date: '9602'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'NL BLS'
+    name: 'De Blesse'
+    namewodiacritics: 'De Blesse'
+    subdiv: FR
+    function: '--3-----'
+    status: RL
+    date: '1901'
+    iata: ''
+    coordinates: '5250N 00630E'
     remarks: ''
 -
     ch: ''
@@ -2829,6 +3261,18 @@
     date: '1107'
     iata: ''
     coordinates: '5309N 00453E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NL DFM'
+    name: 'De Fryske Marren'
+    namewodiacritics: 'De Fryske Marren'
+    subdiv: FR
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5258N 00547E'
     remarks: ''
 -
     ch: ''
@@ -3000,6 +3444,18 @@
     remarks: Overijsel
 -
     ch: ''
+    locode: 'NL DMA'
+    name: 'De Marne'
+    namewodiacritics: 'De Marne'
+    subdiv: GR
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5322N 00623E'
+    remarks: ''
+-
+    ch: ''
     locode: 'NL DEM'
     name: 'De Meern'
     namewodiacritics: 'De Meern'
@@ -3011,7 +3467,7 @@
     coordinates: ''
     remarks: ''
 -
-    ch: +
+    ch: ''
     locode: 'NL DM9'
     name: 'De Moer'
     namewodiacritics: 'De Moer'
@@ -3060,6 +3516,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'NL RIP'
+    name: 'De Rips'
+    namewodiacritics: 'De Rips'
+    subdiv: NB
+    function: '--3-----'
+    status: RL
+    date: '1707'
+    iata: ''
+    coordinates: '5133N 00548E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NL RVE'
+    name: 'De Ronde Venen'
+    namewodiacritics: 'De Ronde Venen'
+    subdiv: UT
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5212N 00452E'
+    remarks: ''
+-
+    ch: ''
     locode: 'NL RUY'
     name: 'de Ruyter'
     namewodiacritics: 'de Ruyter'
@@ -3100,11 +3580,23 @@
     name: 'de Waal'
     namewodiacritics: 'de Waal'
     subdiv: NH
-    function: 1-------
-    status: RQ
-    date: '1001'
+    function: '--3-----'
+    status: RL
+    date: '1707'
     iata: ''
-    coordinates: '5340N 40490E'
+    coordinates: '5304N 00449E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NL DWS'
+    name: 'De Westereen'
+    namewodiacritics: 'De Westereen'
+    subdiv: FR
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '5315N 00602E'
     remarks: ''
 -
     ch: ''
@@ -3144,6 +3636,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'NL WOD'
+    name: 'De Wolden'
+    namewodiacritics: 'De Wolden'
+    subdiv: DR
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5240N 00626E'
+    remarks: ''
+-
+    ch: ''
     locode: 'NL DZK'
     name: 'De Zilk'
     namewodiacritics: 'De Zilk'
@@ -3180,13 +3684,25 @@
     remarks: ''
 -
     ch: ''
+    locode: 'NL DLL'
+    name: Deil
+    namewodiacritics: Deil
+    subdiv: GE
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5153N 00515E'
+    remarks: ''
+-
+    ch: ''
     locode: 'NL DEL'
     name: Delden
     namewodiacritics: Delden
     subdiv: OV
-    function: '-23-----'
+    function: 123-----
     status: RL
-    date: '0212'
+    date: '1607'
     iata: ''
     coordinates: '5216N 00643E'
     remarks: ''
@@ -3208,9 +3724,9 @@
     name: Delft
     namewodiacritics: Delft
     subdiv: ''
-    function: '-23-----'
+    function: 123-----
     status: AF
-    date: '9602'
+    date: '1607'
     iata: ''
     coordinates: ''
     remarks: ''
@@ -3222,9 +3738,9 @@
     subdiv: ''
     function: 123-----
     status: AF
-    date: '9602'
+    date: '1907'
     iata: ''
-    coordinates: ''
+    coordinates: '5231N 00656E'
     remarks: ''
 -
     ch: ''
@@ -3306,9 +3822,9 @@
     subdiv: ''
     function: 123-----
     status: AF
-    date: '9602'
+    date: '1907'
     iata: ''
-    coordinates: ''
+    coordinates: '5257N 00446E'
     remarks: ''
 -
     ch: ''
@@ -3348,6 +3864,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'NL NB4'
+    name: 'Den Hout'
+    namewodiacritics: 'Den Hout'
+    subdiv: NB
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5139N 00449E'
+    remarks: ''
+-
+    ch: ''
     locode: 'NL DIL'
     name: 'Den Lip'
     namewodiacritics: 'Den Lip'
@@ -3375,12 +3903,24 @@
     locode: 'NL DEU'
     name: Deurne
     namewodiacritics: Deurne
-    subdiv: ''
+    subdiv: NB
     function: '--3-----'
     status: AF
-    date: '9602'
+    date: '1601'
     iata: ''
-    coordinates: ''
+    coordinates: '5128N 00548E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NL AZQ'
+    name: Deurningen
+    namewodiacritics: Deurningen
+    subdiv: OV
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '5218N 00650E'
     remarks: ''
 -
     ch: ''
@@ -3492,6 +4032,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'NL IKL'
+    name: Dinkelland
+    namewodiacritics: Dinkelland
+    subdiv: OV
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5222N 00700E'
+    remarks: ''
+-
+    ch: ''
     locode: 'NL DIN'
     name: Dinteloord
     namewodiacritics: Dinteloord
@@ -3568,9 +4120,9 @@
     name: Doesburg
     namewodiacritics: Doesburg
     subdiv: ''
-    function: '--3-----'
+    function: 1-3-----
     status: AF
-    date: '9602'
+    date: '1607'
     iata: ''
     coordinates: ''
     remarks: ''
@@ -3580,9 +4132,9 @@
     name: Doetinchem
     namewodiacritics: Doetinchem
     subdiv: ''
-    function: '--3-----'
+    function: 1-3-----
     status: AF
-    date: '9602'
+    date: '1607'
     iata: ''
     coordinates: ''
     remarks: ''
@@ -3628,11 +4180,23 @@
     name: Dongen
     namewodiacritics: Dongen
     subdiv: ''
-    function: '--3-----'
+    function: 1-3-----
     status: AF
-    date: '9602'
+    date: '1607'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'NL DDE'
+    name: Dongeradeel
+    namewodiacritics: Dongeradeel
+    subdiv: FR
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5320N 00600E'
     remarks: ''
 -
     ch: ''
@@ -3688,11 +4252,23 @@
     name: Doornenburg
     namewodiacritics: Doornenburg
     subdiv: GE
-    function: 1----6--
-    status: RQ
-    date: '1001'
+    function: '--3-----'
+    status: RL
+    date: '1707'
     iata: ''
-    coordinates: '5153N 60000W'
+    coordinates: '5153N 00600E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NL DOS'
+    name: Doornspijk
+    namewodiacritics: Doornspijk
+    subdiv: GE
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5225N 00549E'
     remarks: ''
 -
     ch: ''
@@ -3714,9 +4290,9 @@
     subdiv: ''
     function: 123-----
     status: AF
-    date: '9602'
+    date: '1907'
     iata: ''
-    coordinates: ''
+    coordinates: '5147N 00438E'
     remarks: ''
 -
     ch: ''
@@ -3736,11 +4312,23 @@
     name: Drachten
     namewodiacritics: Drachten
     subdiv: ''
-    function: '--3-----'
+    function: '--34----'
     status: AF
-    date: '9602'
+    date: '1607'
     iata: QYC
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'NL ND5'
+    name: Dreischor
+    namewodiacritics: Dreischor
+    subdiv: ZE
+    function: 1----6--
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '5141N 00359E'
     remarks: ''
 -
     ch: ''
@@ -3792,6 +4380,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'NL DB2'
+    name: Drieborg
+    namewodiacritics: Drieborg
+    subdiv: GR
+    function: '--3-----'
+    status: RL
+    date: '1907'
+    iata: ''
+    coordinates: '5312N 00711E'
+    remarks: ''
+-
+    ch: ''
     locode: 'NL DBU'
     name: Driebruggen
     namewodiacritics: Driebruggen
@@ -3828,6 +4428,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'NL D8Z'
+    name: Driewegen
+    namewodiacritics: Driewegen
+    subdiv: ZE
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5125N 00348E'
+    remarks: ''
+-
+    ch: ''
     locode: 'NL DRM'
     name: Drimmelen
     namewodiacritics: Drimmelen
@@ -3856,9 +4468,9 @@
     name: Dronten
     namewodiacritics: Dronten
     subdiv: ''
-    function: '--3-----'
+    function: 1-3-----
     status: AF
-    date: '9602'
+    date: '1607'
     iata: ''
     coordinates: ''
     remarks: ''
@@ -4008,6 +4620,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'NL ESU'
+    name: Echt-Susteren
+    namewodiacritics: Echt-Susteren
+    subdiv: LI
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5106N 00552E'
+    remarks: ''
+-
+    ch: ''
     locode: 'NL EWI'
     name: 'Eck en Wiel'
     namewodiacritics: 'Eck en Wiel'
@@ -4036,11 +4660,23 @@
     name: Edam
     namewodiacritics: Edam
     subdiv: ''
-    function: '--3-----'
+    function: 1-3-----
     status: AF
-    date: '9602'
+    date: '1607'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'NL EVO'
+    name: Edam-Volendam
+    namewodiacritics: Edam-Volendam
+    subdiv: NH
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5230N 00503E'
     remarks: ''
 -
     ch: ''
@@ -4149,6 +4785,18 @@
     date: '9602'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'NL EMO'
+    name: Eemsmond
+    namewodiacritics: Eemsmond
+    subdiv: GR
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5324N 00640E'
     remarks: ''
 -
     ch: ''
@@ -4272,15 +4920,27 @@
     remarks: ''
 -
     ch: ''
+    locode: 'NL EIJ'
+    name: Eijsden-Margraten
+    namewodiacritics: Eijsden-Margraten
+    subdiv: LI
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5047N 00542E'
+    remarks: ''
+-
+    ch: ''
     locode: 'NL EIN'
     name: Eindhoven
     namewodiacritics: Eindhoven
-    subdiv: ''
-    function: '-234----'
+    subdiv: NB
+    function: 1234----
     status: AF
-    date: '9602'
+    date: '1607'
     iata: ''
-    coordinates: ''
+    coordinates: '5127N 00528E'
     remarks: ''
 -
     ch: ''
@@ -4296,15 +4956,39 @@
     remarks: ''
 -
     ch: ''
+    locode: 'NL ELA'
+    name: Elahuizen
+    namewodiacritics: Elahuizen
+    subdiv: FR
+    function: '--3-----'
+    status: RL
+    date: '1901'
+    iata: ''
+    coordinates: '5256N 00532E'
+    remarks: ''
+-
+    ch: ''
     locode: 'NL ELB'
     name: Elburg
     namewodiacritics: Elburg
     subdiv: ''
-    function: '--3-----'
+    function: 1-3-----
     status: AF
-    date: '9602'
+    date: '1607'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'NL EDN'
+    name: Elden
+    namewodiacritics: Elden
+    subdiv: GE
+    function: '--3--6--'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '5158N 00553E'
     remarks: ''
 -
     ch: ''
@@ -4329,6 +5013,18 @@
     date: '9602'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'NL EET'
+    name: Ellemeet
+    namewodiacritics: Ellemeet
+    subdiv: ZE
+    function: '--3-----'
+    status: RL
+    date: '1707'
+    iata: ''
+    coordinates: '5144N 00349E'
     remarks: ''
 -
     ch: ''
@@ -4371,12 +5067,12 @@
     locode: 'NL ELO'
     name: Elsloo
     namewodiacritics: Elsloo
-    subdiv: ''
+    subdiv: LI
     function: '--3-----'
-    status: RQ
-    date: '0101'
+    status: RL
+    date: '1607'
     iata: ''
-    coordinates: ''
+    coordinates: '5057N 00546E'
     remarks: ''
 -
     ch: ''
@@ -4396,9 +5092,9 @@
     name: Elst
     namewodiacritics: Elst
     subdiv: ''
-    function: '--3-----'
+    function: 1-3-----
     status: AF
-    date: '0701'
+    date: '1607'
     iata: ''
     coordinates: '5155N 00551E'
     remarks: ''
@@ -4488,6 +5184,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'NL EGM'
+    name: Engelum
+    namewodiacritics: Engelum
+    subdiv: FR
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5314N 00543E'
+    remarks: ''
+-
+    ch: ''
     locode: 'NL ENG'
     name: Engwierum
     namewodiacritics: Engwierum
@@ -4504,9 +5212,9 @@
     name: Enkhuizen
     namewodiacritics: Enkhuizen
     subdiv: ''
-    function: '--3-----'
+    function: 1-3-----
     status: AF
-    date: '9602'
+    date: '1607'
     iata: ''
     coordinates: ''
     remarks: ''
@@ -4528,9 +5236,9 @@
     name: Enschede
     namewodiacritics: Enschede
     subdiv: ''
-    function: '-234----'
+    function: 1234----
     status: AF
-    date: '9602'
+    date: '1607'
     iata: ''
     coordinates: ''
     remarks: ''
@@ -4581,6 +5289,18 @@
     date: '9602'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'NL EPS'
+    name: Epse
+    namewodiacritics: Epse
+    subdiv: GE
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '5213N 00612E'
     remarks: ''
 -
     ch: ''
@@ -4668,6 +5388,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'NL ET2'
+    name: Etten
+    namewodiacritics: Etten
+    subdiv: GE
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5155N 00620E'
+    remarks: ''
+-
+    ch: ''
     locode: 'NL ETT'
     name: 'Etten Leur'
     namewodiacritics: 'Etten Leur'
@@ -4691,16 +5423,16 @@
     coordinates: ''
     remarks: ''
 -
-    ch: +
-    locode: 'NL ANK'
-    name: Everingen
-    namewodiacritics: Everingen
-    subdiv: ZE
-    function: 1-------
+    ch: ''
+    locode: 'NL EVD'
+    name: Everdingen
+    namewodiacritics: Everdingen
+    subdiv: ZH
+    function: '--3-----'
     status: RL
-    date: '1307'
+    date: '1407'
     iata: ''
-    coordinates: '5123N 00347E'
+    coordinates: '5158N 00509E'
     remarks: ''
 -
     ch: ''
@@ -4713,6 +5445,18 @@
     date: '0407'
     iata: ''
     coordinates: '5123N 00347E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NL ANK'
+    name: Everingen
+    namewodiacritics: Everingen
+    subdiv: ZE
+    function: 1-------
+    status: RL
+    date: '1907'
+    iata: ''
+    coordinates: '5124N 00345E'
     remarks: ''
 -
     ch: ''
@@ -4752,13 +5496,25 @@
     remarks: ''
 -
     ch: ''
+    locode: 'NL EZI'
+    name: Ezinge
+    namewodiacritics: Ezinge
+    subdiv: GR
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '5319N 00627E'
+    remarks: ''
+-
+    ch: ''
     locode: 'NL FAR'
     name: Farmsum
     namewodiacritics: Farmsum
     subdiv: ''
-    function: '--3-----'
+    function: 1-3-----
     status: AF
-    date: '9602'
+    date: '1607'
     iata: ''
     coordinates: ''
     remarks: ''
@@ -4788,6 +5544,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'NL FWD'
+    name: Ferwerderadeel
+    namewodiacritics: Ferwerderadeel
+    subdiv: FR
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5320N 00550E'
+    remarks: ''
+-
+    ch: ''
     locode: 'NL FFJ'
     name: Fijnaart
     namewodiacritics: Fijnaart
@@ -4797,6 +5565,30 @@
     date: '9602'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'NL FIN'
+    name: Finsterwolde
+    namewodiacritics: Finsterwolde
+    subdiv: GR
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5312N 00705E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NL FGM'
+    name: Firdgum
+    namewodiacritics: Firdgum
+    subdiv: FR
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '5315N 00534E'
     remarks: ''
 -
     ch: ''
@@ -4864,9 +5656,9 @@
     name: Foxhol
     namewodiacritics: Foxhol
     subdiv: ''
-    function: '--3-----'
+    function: 1-3-----
     status: AF
-    date: '9602'
+    date: '1901'
     iata: ''
     coordinates: ''
     remarks: ''
@@ -4893,6 +5685,18 @@
     date: '9602'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'NL FKD'
+    name: Franekeradeel
+    namewodiacritics: Franekeradeel
+    subdiv: FR
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5311N 00532E'
     remarks: ''
 -
     ch: ''
@@ -4965,6 +5769,18 @@
     date: '0501'
     iata: ''
     coordinates: '5315N 00639E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NL GRP'
+    name: Garyp
+    namewodiacritics: Garyp
+    subdiv: FR
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '5309N 00558E'
     remarks: ''
 -
     ch: ''
@@ -5080,9 +5896,9 @@
     name: Geldermalsen
     namewodiacritics: Geldermalsen
     subdiv: ''
-    function: '--3-----'
+    function: 1-3-----
     status: AF
-    date: '9602'
+    date: '1607'
     iata: ''
     coordinates: ''
     remarks: ''
@@ -5097,6 +5913,18 @@
     date: '9602'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'NL GOM'
+    name: Geldrop-Mierlo
+    namewodiacritics: Geldrop-Mierlo
+    subdiv: NB
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5125N 00534E'
     remarks: ''
 -
     ch: ''
@@ -5136,6 +5964,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'NL GBA'
+    name: Gemert-Bakel
+    namewodiacritics: Gemert-Bakel
+    subdiv: NB
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5133N 00541E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NL GMD'
+    name: Gemonde
+    namewodiacritics: Gemonde
+    subdiv: NH
+    function: '-----6--'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '5137N 00521E'
+    remarks: ''
+-
+    ch: ''
     locode: 'NL GND'
     name: Genderen
     namewodiacritics: Genderen
@@ -5164,9 +6016,9 @@
     name: Gendt
     namewodiacritics: Gendt
     subdiv: GE
-    function: '--3-----'
+    function: 1-3-----
     status: RL
-    date: '0407'
+    date: '1607'
     iata: ''
     coordinates: '5153N 00558E'
     remarks: ''
@@ -5244,6 +6096,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'NL GIE'
+    name: Giessenlanden
+    namewodiacritics: Giessenlanden
+    subdiv: ZH
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5153N 00457E'
+    remarks: ''
+-
+    ch: ''
     locode: 'NL GTN'
     name: Gieten
     namewodiacritics: Gieten
@@ -5277,6 +6141,18 @@
     date: '9602'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'NL GIZ'
+    name: 'Gilze En Rijen'
+    namewodiacritics: 'Gilze En Rijen'
+    subdiv: NB
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5135N 00455E'
     remarks: ''
 -
     ch: ''
@@ -5316,13 +6192,25 @@
     remarks: ''
 -
     ch: ''
+    locode: 'NL GOF'
+    name: Goeree-Overflakkee
+    namewodiacritics: Goeree-Overflakkee
+    subdiv: ZH
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5145N 00410E'
+    remarks: ''
+-
+    ch: ''
     locode: 'NL GOE'
     name: Goes
     namewodiacritics: Goes
     subdiv: ''
-    function: '--3-----'
+    function: 1-3-----
     status: AF
-    date: '9602'
+    date: '1607'
     iata: ''
     coordinates: ''
     remarks: ''
@@ -5356,9 +6244,9 @@
     name: Goor
     namewodiacritics: Goor
     subdiv: ''
-    function: '--3-----'
+    function: 1-3-----
     status: AF
-    date: '9602'
+    date: '1607'
     iata: ''
     coordinates: ''
     remarks: ''
@@ -5368,9 +6256,9 @@
     name: Gorinchem
     namewodiacritics: Gorinchem
     subdiv: ''
-    function: '-23-----'
+    function: 123-----
     status: AF
-    date: '9602'
+    date: '1901'
     iata: ''
     coordinates: ''
     remarks: ''
@@ -5388,13 +6276,25 @@
     remarks: ''
 -
     ch: ''
+    locode: 'NL ESL'
+    name: Gorssel
+    namewodiacritics: Gorssel
+    subdiv: GE
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5212N 00612E'
+    remarks: ''
+-
+    ch: ''
     locode: 'NL GOU'
     name: Gouda
     namewodiacritics: Gouda
     subdiv: ''
-    function: '-23-----'
+    function: 123-----
     status: AF
-    date: '9602'
+    date: '1607'
     iata: ''
     coordinates: ''
     remarks: ''
@@ -5448,6 +6348,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'NL GHK'
+    name: Grashoek
+    namewodiacritics: Grashoek
+    subdiv: LI
+    function: '-----6--'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '5122N 00557E'
+    remarks: ''
+-
+    ch: ''
     locode: 'NL GAV'
     name: Grave
     namewodiacritics: Grave
@@ -5469,6 +6381,18 @@
     date: '9602'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'NL GRI'
+    name: Grijpskerk
+    namewodiacritics: Grijpskerk
+    subdiv: GR
+    function: '-23-----'
+    status: AM
+    date: '2007'
+    iata: ''
+    coordinates: '5316N 00618E'
     remarks: ''
 -
     ch: ''
@@ -5676,6 +6600,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'NL GJK'
+    name: Gytsjerk
+    namewodiacritics: Gytsjerk
+    subdiv: FR
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '5314N 00553E'
+    remarks: ''
+-
+    ch: ''
     locode: 'NL HFN'
     name: Haaften
     namewodiacritics: Haaften
@@ -5685,6 +6621,18 @@
     date: '0607'
     iata: ''
     coordinates: '5149N 00513E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NL HGG'
+    name: Haag
+    namewodiacritics: Haag
+    subdiv: LI
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5131N 00555E'
     remarks: ''
 -
     ch: ''
@@ -5728,9 +6676,9 @@
     name: Haarlem
     namewodiacritics: Haarlem
     subdiv: ''
-    function: '-23-----'
+    function: 123-----
     status: AF
-    date: '9602'
+    date: '1607'
     iata: ''
     coordinates: ''
     remarks: ''
@@ -5745,6 +6693,42 @@
     date: '0501'
     iata: ''
     coordinates: '5223N 00441E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NL HMM'
+    name: Haarlemmermeer
+    namewodiacritics: Haarlemmermeer
+    subdiv: NH
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '5200N 00400E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NL ARL'
+    name: Haarlo
+    namewodiacritics: Haarlo
+    subdiv: GE
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '5211N 00656E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NL HSE'
+    name: Haarsteeg
+    namewodiacritics: Haarsteeg
+    subdiv: NB
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5143N 00512E'
     remarks: ''
 -
     ch: ''
@@ -5776,9 +6760,9 @@
     name: Haelen
     namewodiacritics: Haelen
     subdiv: ''
-    function: '--3-----'
+    function: 1-3-----
     status: AF
-    date: '9602'
+    date: '1607'
     iata: ''
     coordinates: ''
     remarks: ''
@@ -5817,6 +6801,18 @@
     date: '0501'
     iata: ''
     coordinates: '5219N 00506E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NL HDB'
+    name: Halderberge
+    namewodiacritics: Halderberge
+    subdiv: NB
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5135N 00432E'
     remarks: ''
 -
     ch: ''
@@ -5898,9 +6894,9 @@
     subdiv: ''
     function: 1-3-----
     status: AF
-    date: '1107'
+    date: '1907'
     iata: ''
-    coordinates: ''
+    coordinates: '5126N 00400E'
     remarks: ''
 -
     ch: ''
@@ -5944,9 +6940,9 @@
     name: Hardenberg
     namewodiacritics: Hardenberg
     subdiv: ''
-    function: '--3-----'
+    function: 1-3-----
     status: AF
-    date: '9602'
+    date: '1607'
     iata: ''
     coordinates: ''
     remarks: ''
@@ -5956,9 +6952,9 @@
     name: Harderwijk
     namewodiacritics: Harderwijk
     subdiv: ''
-    function: '--3-----'
+    function: 1-3-----
     status: AF
-    date: '9602'
+    date: '1607'
     iata: ''
     coordinates: ''
     remarks: ''
@@ -5973,6 +6969,18 @@
     date: '0701'
     iata: ''
     coordinates: '5149N 00452E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NL HXG'
+    name: Hardinxveld-Giessendam
+    namewodiacritics: Hardinxveld-Giessendam
+    subdiv: ZH
+    function: 1-3-----
+    status: RL
+    date: '1901'
+    iata: ''
+    coordinates: '5149N 00450E'
     remarks: ''
 -
     ch: ''
@@ -6018,9 +7026,9 @@
     subdiv: ''
     function: 123-----
     status: AF
-    date: '9602'
+    date: '1907'
     iata: ''
-    coordinates: ''
+    coordinates: '5311N 00526E'
     remarks: ''
 -
     ch: ''
@@ -6120,6 +7128,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'NL HAB'
+    name: Haule
+    namewodiacritics: Haule
+    subdiv: FR
+    function: '--3-----'
+    status: RL
+    date: '1901'
+    iata: ''
+    coordinates: '5320N 00618E'
+    remarks: ''
+-
+    ch: ''
     locode: 'NL HAU'
     name: Haulerwijk
     namewodiacritics: Haulerwijk
@@ -6180,15 +7200,39 @@
     remarks: ''
 -
     ch: ''
+    locode: 'NL HDG'
+    name: Hedel
+    namewodiacritics: Hedel
+    subdiv: GE
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5145N 00516E'
+    remarks: ''
+-
+    ch: ''
     locode: 'NL HDL'
     name: Hedel
     namewodiacritics: Hedel
     subdiv: ''
-    function: '--3-----'
+    function: 1-3-----
     status: AF
-    date: '9602'
+    date: '1607'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'NL HDN'
+    name: Hedel
+    namewodiacritics: Hedel
+    subdiv: NB
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5131N 00518E'
     remarks: ''
 -
     ch: ''
@@ -6220,9 +7264,9 @@
     name: Heel
     namewodiacritics: Heel
     subdiv: ''
-    function: '--3-----'
+    function: 1-3-----
     status: AF
-    date: '9602'
+    date: '1607'
     iata: ''
     coordinates: ''
     remarks: ''
@@ -6268,23 +7312,11 @@
     name: Heemstede
     namewodiacritics: Heemstede
     subdiv: ''
-    function: '--3-----'
+    function: 1-3-----
     status: AF
-    date: '9602'
+    date: '1607'
     iata: ''
     coordinates: ''
-    remarks: ''
--
-    ch: ''
-    locode: 'NL HRR'
-    name: Heerde
-    namewodiacritics: Heerde
-    subdiv: OV
-    function: '-----6--'
-    status: RQ
-    date: '0907'
-    iata: ''
-    coordinates: '5223N 00602E'
     remarks: ''
 -
     ch: ''
@@ -6300,13 +7332,25 @@
     remarks: ''
 -
     ch: ''
+    locode: 'NL HRR'
+    name: Heerde
+    namewodiacritics: Heerde
+    subdiv: OV
+    function: '-----6--'
+    status: RQ
+    date: '0907'
+    iata: ''
+    coordinates: '5223N 00602E'
+    remarks: ''
+-
+    ch: ''
     locode: 'NL HRV'
     name: Heerenveen
     namewodiacritics: Heerenveen
     subdiv: ''
-    function: '--3-----'
+    function: 1-3-----
     status: AF
-    date: '9602'
+    date: '1607'
     iata: QYZ
     coordinates: ''
     remarks: ''
@@ -6316,9 +7360,9 @@
     name: Heerewaarden
     namewodiacritics: Heerewaarden
     subdiv: ''
-    function: '--3-----'
+    function: 1-3-----
     status: RL
-    date: '0002'
+    date: '1607'
     iata: ''
     coordinates: ''
     remarks: ''
@@ -6384,6 +7428,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'NL HBN'
+    name: Heesbeen
+    namewodiacritics: Heesbeen
+    subdiv: NB
+    function: '--3-----'
+    status: RL
+    date: '2001'
+    iata: ''
+    coordinates: '5144N 00507E'
+    remarks: ''
+-
+    ch: ''
     locode: 'NL HEC'
     name: Heesch
     namewodiacritics: Heesch
@@ -6432,6 +7488,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'NL HEZ'
+    name: Heeze-Leende
+    namewodiacritics: Heeze-Leende
+    subdiv: NB
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5123N 00535E'
+    remarks: ''
+-
+    ch: ''
     locode: 'NL HSM'
     name: Hegelsom
     namewodiacritics: Hegelsom
@@ -6443,7 +7511,7 @@
     coordinates: '5126N 00602E'
     remarks: ''
 -
-    ch: +
+    ch: ''
     locode: 'NL HEB'
     name: 'Hei- en Boeicop'
     namewodiacritics: 'Hei- en Boeicop'
@@ -6453,6 +7521,18 @@
     date: '1307'
     iata: ''
     coordinates: '5157N 00505E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NL HCP'
+    name: Heicop
+    namewodiacritics: Heicop
+    subdiv: ZH
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '5157N 00506E'
     remarks: ''
 -
     ch: ''
@@ -6472,9 +7552,9 @@
     name: Heijen
     namewodiacritics: Heijen
     subdiv: ''
-    function: '-23-----'
+    function: 123-----
     status: RL
-    date: '9805'
+    date: '1607'
     iata: ''
     coordinates: ''
     remarks: ''
@@ -6516,13 +7596,25 @@
     remarks: ''
 -
     ch: ''
+    locode: 'NL HEI'
+    name: Heiligerlee
+    namewodiacritics: Heiligerlee
+    subdiv: GR
+    function: '--3-----'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '5309N 00701E'
+    remarks: ''
+-
+    ch: ''
     locode: 'NL HLO'
     name: Heiloo
     namewodiacritics: Heiloo
     subdiv: ''
-    function: '--3-----'
+    function: 1-3-----
     status: AF
-    date: '9602'
+    date: '1607'
     iata: ''
     coordinates: ''
     remarks: ''
@@ -6635,6 +7727,18 @@
     coordinates: ''
     remarks: ''
 -
+    ch: +
+    locode: 'NL HUW'
+    name: Hellouw
+    namewodiacritics: Hellouw
+    subdiv: GE
+    function: '--3-----'
+    status: AA
+    date: '2201'
+    iata: ''
+    coordinates: '5150N 00510E'
+    remarks: ''
+-
     ch: ''
     locode: 'NL HLM'
     name: Helmond
@@ -6681,6 +7785,18 @@
     date: '0501'
     iata: ''
     coordinates: '5311N 00550E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NL HRI'
+    name: Hemrik
+    namewodiacritics: Hemrik
+    subdiv: FR
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5302N 00608E'
     remarks: ''
 -
     ch: ''
@@ -6792,6 +7908,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'NL HRT'
+    name: Hertme
+    namewodiacritics: Hertme
+    subdiv: OV
+    function: '--3-----'
+    status: RQ
+    date: '1607'
+    iata: ''
+    coordinates: '5219N 00646E'
+    remarks: ''
+-
+    ch: ''
     locode: 'NL HVD'
     name: Herveld
     namewodiacritics: Herveld
@@ -6828,13 +7956,25 @@
     remarks: ''
 -
     ch: ''
+    locode: 'NL HBT'
+    name: 'het Bildt'
+    namewodiacritics: 'het Bildt'
+    subdiv: FR
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5317N 00540E'
+    remarks: ''
+-
+    ch: ''
     locode: 'NL HTR'
     name: Heteren
     namewodiacritics: Heteren
     subdiv: ''
-    function: '--3-----'
+    function: 1-3-----
     status: AF
-    date: '9602'
+    date: '1607'
     iata: ''
     coordinates: ''
     remarks: ''
@@ -6912,13 +8052,25 @@
     remarks: ''
 -
     ch: ''
+    locode: 'NL HJM'
+    name: Hijum
+    namewodiacritics: Hijum
+    subdiv: FR
+    function: '--3-----'
+    status: RL
+    date: '2001'
+    iata: ''
+    coordinates: '5318N 00446E'
+    remarks: ''
+-
+    ch: ''
     locode: 'NL HIL'
     name: Hillegom
     namewodiacritics: Hillegom
     subdiv: ''
-    function: '--3-----'
+    function: 1-3-----
     status: AF
-    date: '9602'
+    date: '1607'
     iata: ''
     coordinates: ''
     remarks: ''
@@ -6940,9 +8092,9 @@
     name: Hilversum
     namewodiacritics: Hilversum
     subdiv: ''
-    function: '-23-----'
+    function: 123-----
     status: AF
-    date: '9602'
+    date: '1607'
     iata: QYI
     coordinates: ''
     remarks: ''
@@ -6957,6 +8109,18 @@
     date: '0501'
     iata: ''
     coordinates: '5257N 00524E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NL HPH'
+    name: Hippolytushoef
+    namewodiacritics: Hippolytushoef
+    subdiv: NH
+    function: '--3-----'
+    status: RL
+    date: '1901'
+    iata: ''
+    coordinates: '5254N 00458E'
     remarks: ''
 -
     ch: ''
@@ -6978,9 +8142,9 @@
     subdiv: ''
     function: 123-----
     status: AF
-    date: '9602'
+    date: '1907'
     iata: ''
-    coordinates: ''
+    coordinates: '5158N 00407E'
     remarks: ''
 -
     ch: ''
@@ -7024,11 +8188,23 @@
     name: Hoeven
     namewodiacritics: Hoeven
     subdiv: ''
-    function: '--3-----'
+    function: '--34----'
     status: AF
-    date: '9602'
+    date: '1607'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'NL HTW'
+    name: 'Hof Van Twente'
+    namewodiacritics: 'Hof Van Twente'
+    subdiv: OV
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5214N 00635E'
     remarks: ''
 -
     ch: ''
@@ -7041,6 +8217,18 @@
     date: '0501'
     iata: ''
     coordinates: '5202N 00448E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NL HKN'
+    name: 'Hollands Kroon'
+    namewodiacritics: 'Hollands Kroon'
+    subdiv: NH
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5252N 00449E'
     remarks: ''
 -
     ch: ''
@@ -7188,6 +8376,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'NL HO2'
+    name: Hoogeloon
+    namewodiacritics: Hoogeloon
+    subdiv: NB
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '5123N 00516E'
+    remarks: ''
+-
+    ch: ''
     locode: 'NL HOH'
     name: Hoogerheide
     namewodiacritics: Hoogerheide
@@ -7216,9 +8416,9 @@
     name: Hoogeveen
     namewodiacritics: Hoogeveen
     subdiv: ''
-    function: '--3-----'
+    function: 1-34----
     status: AF
-    date: '9602'
+    date: '1607'
     iata: ''
     coordinates: ''
     remarks: ''
@@ -7233,6 +8433,18 @@
     date: '0607'
     iata: ''
     coordinates: '5310N 00646E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NL HGZ'
+    name: Hoogezand-Sappemeer
+    namewodiacritics: Hoogezand-Sappemeer
+    subdiv: GR
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5309N 00645E'
     remarks: ''
 -
     ch: ''
@@ -7296,6 +8508,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'NL HOS'
+    name: Hoog-Soeren
+    namewodiacritics: Hoog-Soeren
+    subdiv: GE
+    function: '--3-----'
+    status: AA
+    date: '2107'
+    iata: ''
+    coordinates: '5213N 00553E'
+    remarks: ''
+-
+    ch: ''
     locode: 'NL HGV'
     name: Hoogvliet
     namewodiacritics: Hoogvliet
@@ -7324,9 +8548,9 @@
     name: Hoorn
     namewodiacritics: Hoorn
     subdiv: ''
-    function: '-23-----'
+    function: 123-----
     status: AF
-    date: '9602'
+    date: '1607'
     iata: ''
     coordinates: ''
     remarks: ''
@@ -7380,6 +8604,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'NL HSS'
+    name: Horssen
+    namewodiacritics: Horssen
+    subdiv: GE
+    function: '--3-----'
+    status: RL
+    date: '2001'
+    iata: ''
+    coordinates: '5151N 00537E'
+    remarks: ''
+-
+    ch: ''
     locode: 'NL HRS'
     name: Horst
     namewodiacritics: Horst
@@ -7392,13 +8628,25 @@
     remarks: ''
 -
     ch: ''
+    locode: 'NL HSA'
+    name: 'Horst aan de Maas'
+    namewodiacritics: 'Horst aan de Maas'
+    subdiv: LI
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5127N 00603E'
+    remarks: ''
+-
+    ch: ''
     locode: 'NL HOU'
     name: Houten
     namewodiacritics: Houten
     subdiv: ''
-    function: '--3-----'
+    function: 1-3-----
     status: AF
-    date: '9602'
+    date: '1607'
     iata: ''
     coordinates: ''
     remarks: ''
@@ -7476,6 +8724,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'NL HML'
+    name: Hummelo
+    namewodiacritics: Hummelo
+    subdiv: GE
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5200N 00614E'
+    remarks: ''
+-
+    ch: ''
     locode: 'NL HUN'
     name: Hunsel
     namewodiacritics: Hunsel
@@ -7485,6 +8745,30 @@
     date: '0501'
     iata: ''
     coordinates: '5111N 00549E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NL IDS'
+    name: Idskenhuizen
+    namewodiacritics: Idskenhuizen
+    subdiv: FL
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5256N 05430E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NL IJH'
+    name: Ijhorst
+    namewodiacritics: Ijhorst
+    subdiv: OV
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5240N 00618E'
     remarks: ''
 -
     ch: ''
@@ -7533,6 +8817,18 @@
     date: '0212'
     iata: ''
     coordinates: '5201N 00503E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NL SL7'
+    name: Ijsselsteyn
+    namewodiacritics: Ijsselsteyn
+    subdiv: LI
+    function: 1----6--
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '5129N 00554E'
     remarks: ''
 -
     ch: ''
@@ -7668,6 +8964,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'NL KAA'
+    name: 'Kaag en Braassem'
+    namewodiacritics: 'Kaag en Braassem'
+    subdiv: ZH
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5212N 00438E'
+    remarks: ''
+-
+    ch: ''
     locode: 'NL KTS'
     name: Kaatsheuvel
     namewodiacritics: Kaatsheuvel
@@ -7703,7 +9011,7 @@
     coordinates: ''
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'NL KAM'
     name: Kampen
     namewodiacritics: Kampen
@@ -7713,7 +9021,7 @@
     date: '1307'
     iata: ''
     coordinates: ''
-    remarks: '@Fun'
+    remarks: ''
 -
     ch: ''
     locode: 'NL KAD'
@@ -7809,6 +9117,18 @@
     date: '0607'
     iata: ''
     coordinates: '5134N 00352E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NL KWI'
+    name: Katwijk
+    namewodiacritics: Katwijk
+    subdiv: NB
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5145N 00552E'
     remarks: ''
 -
     ch: ''
@@ -7908,6 +9228,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'NL KDK'
+    name: Keldonk
+    namewodiacritics: Keldonk
+    subdiv: NB
+    function: '--3-----'
+    status: RL
+    date: '2001'
+    iata: ''
+    coordinates: '5135N 00535E'
+    remarks: ''
+-
+    ch: ''
     locode: 'NL KPE'
     name: Kelpen
     namewodiacritics: Kelpen
@@ -7943,7 +9275,7 @@
     coordinates: ''
     remarks: ''
 -
-    ch: +
+    ch: ''
     locode: 'NL KEW'
     name: Kerkwijk
     namewodiacritics: Kerkwijk
@@ -7960,9 +9292,9 @@
     name: Kessel
     namewodiacritics: Kessel
     subdiv: ''
-    function: '--3-----'
+    function: 1-3-----
     status: AF
-    date: '9602'
+    date: '1607'
     iata: ''
     coordinates: ''
     remarks: ''
@@ -7972,9 +9304,9 @@
     name: Kesteren
     namewodiacritics: Kesteren
     subdiv: ''
-    function: '--3-----'
+    function: 1-3-----
     status: AF
-    date: '9602'
+    date: '1607'
     iata: ''
     coordinates: ''
     remarks: ''
@@ -8040,6 +9372,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'NL KNZ'
+    name: Klein-Zundert
+    namewodiacritics: Klein-Zundert
+    subdiv: NB
+    function: '-----6--'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '5129N 00439E'
+    remarks: ''
+-
+    ch: ''
     locode: 'NL KLN'
     name: Klimmen
     namewodiacritics: Klimmen
@@ -8049,6 +9393,18 @@
     date: '1007'
     iata: ''
     coordinates: '5053N 00553E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NL KOT'
+    name: Kloetinge
+    namewodiacritics: Kloetinge
+    subdiv: ZE
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5130N 00355E'
     remarks: ''
 -
     ch: ''
@@ -8112,6 +9468,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'NL KOE'
+    name: Koekange
+    namewodiacritics: Koekange
+    subdiv: DR
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '5242N 00619E'
+    remarks: ''
+-
+    ch: ''
     locode: 'NL KWT'
     name: Koewacht
     namewodiacritics: Koewacht
@@ -8121,6 +9489,18 @@
     date: '9602'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'NL KOL'
+    name: Koggenland
+    namewodiacritics: Koggenland
+    subdiv: NH
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5238N 00457E'
     remarks: ''
 -
     ch: ''
@@ -8157,6 +9537,18 @@
     date: '0501'
     iata: ''
     coordinates: '5317N 00609E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NL KUN'
+    name: 'Kollumerland en Nieuwkruisland'
+    namewodiacritics: 'Kollumerland en Nieuwkruisland'
+    subdiv: FR
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5317N 00608E'
     remarks: ''
 -
     ch: ''
@@ -8217,6 +9609,30 @@
     date: '0901'
     iata: ''
     coordinates: '5313N 00606E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NL KW2'
+    name: Kootwijkerbroek
+    namewodiacritics: Kootwijkerbroek
+    subdiv: GE
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '5209N 00540E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NL KOI'
+    name: Korendijk
+    namewodiacritics: Korendijk
+    subdiv: ZH
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5148N 00419E'
     remarks: ''
 -
     ch: ''
@@ -8380,9 +9796,9 @@
     name: 'Krimpen aan den IJssel'
     namewodiacritics: 'Krimpen aan den IJssel'
     subdiv: ''
-    function: '--3-----'
+    function: 1-3-----
     status: RL
-    date: '0201'
+    date: '1901'
     iata: ''
     coordinates: '5155N 00436E'
     remarks: ''
@@ -8436,6 +9852,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'NL KLD'
+    name: Kruisland
+    namewodiacritics: Kruisland
+    subdiv: NB
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5134N 00425E'
+    remarks: ''
+-
+    ch: ''
     locode: 'NL KDS'
     name: Kudelstaart
     namewodiacritics: Kudelstaart
@@ -8471,7 +9899,7 @@
     coordinates: ''
     remarks: ''
 -
-    ch: +
+    ch: ''
     locode: 'NL KWJ'
     name: Kwadijk
     namewodiacritics: Kwadijk
@@ -8508,6 +9936,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'NL LAA'
+    name: Laarbeek
+    namewodiacritics: Laarbeek
+    subdiv: NB
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5132N 00538E'
+    remarks: ''
+-
+    ch: ''
     locode: 'NL LTS'
     name: 'Laatste Stuiver'
     namewodiacritics: 'Laatste Stuiver'
@@ -8536,9 +9976,9 @@
     name: 'Lage Weide'
     namewodiacritics: 'Lage Weide'
     subdiv: ''
-    function: '--3-----'
+    function: 1-3-----
     status: AF
-    date: '9602'
+    date: '1607'
     iata: ''
     coordinates: ''
     remarks: ''
@@ -8592,6 +10032,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'NL LAD'
+    name: Landerd
+    namewodiacritics: Landerd
+    subdiv: NB
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5142N 00540E'
+    remarks: ''
+-
+    ch: ''
     locode: 'NL LGB'
     name: 'Landgoed Baest'
     namewodiacritics: 'Landgoed Baest'
@@ -8640,6 +10092,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'NL LIK'
+    name: 'Langedijk (Gemeente)'
+    namewodiacritics: 'Langedijk (Gemeente)'
+    subdiv: NH
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5241N 00448E'
+    remarks: ''
+-
+    ch: ''
     locode: 'NL LGI'
     name: Langelille
     namewodiacritics: Langelille
@@ -8649,6 +10113,30 @@
     date: '0501'
     iata: ''
     coordinates: '5251N 00551E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NL LGO'
+    name: Langelo
+    namewodiacritics: Langelo
+    subdiv: DR
+    function: '-----6--'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '5306N 00627E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NL LAB'
+    name: Langenboom
+    namewodiacritics: Langenboom
+    subdiv: NB
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5142N 00544E'
     remarks: ''
 -
     ch: ''
@@ -8697,6 +10185,18 @@
     date: '0212'
     iata: ''
     coordinates: '5258N 00543E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NL LSG'
+    name: Lansingerland
+    namewodiacritics: Lansingerland
+    subdiv: ZH
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5159N 00430E'
     remarks: ''
 -
     ch: ''
@@ -8800,9 +10300,9 @@
     name: Leerdam
     namewodiacritics: Leerdam
     subdiv: ''
-    function: '--3-----'
+    function: 1-3-----
     status: AF
-    date: '9602'
+    date: '1607'
     iata: ''
     coordinates: ''
     remarks: ''
@@ -8832,13 +10332,25 @@
     remarks: ''
 -
     ch: ''
+    locode: 'NL LUW'
+    name: Leeuwarderadeel
+    namewodiacritics: Leeuwarderadeel
+    subdiv: FR
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5316N 00546E'
+    remarks: ''
+-
+    ch: ''
     locode: 'NL LID'
     name: Leiden
     namewodiacritics: Leiden
     subdiv: ''
-    function: '-234----'
+    function: 1234----
     status: AF
-    date: '9602'
+    date: '1607'
     iata: ''
     coordinates: ''
     remarks: ''
@@ -8848,9 +10360,9 @@
     name: Leiderdorp
     namewodiacritics: Leiderdorp
     subdiv: ''
-    function: '--3-----'
+    function: 1-3-----
     status: AF
-    date: '9602'
+    date: '1607'
     iata: ''
     coordinates: ''
     remarks: ''
@@ -8865,6 +10377,18 @@
     date: '9602'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'NL LSV'
+    name: Leidschendam-Voorburg
+    namewodiacritics: Leidschendam-Voorburg
+    subdiv: ZH
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5205N 00424E'
     remarks: ''
 -
     ch: ''
@@ -8920,9 +10444,9 @@
     name: Lelystad
     namewodiacritics: Lelystad
     subdiv: ''
-    function: '--3-----'
+    function: 1-34----
     status: AF
-    date: '9602'
+    date: '1607'
     iata: ''
     coordinates: ''
     remarks: ''
@@ -8988,6 +10512,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'NL LEP'
+    name: Lepelstraat
+    namewodiacritics: Lepelstraat
+    subdiv: NB
+    function: '--3-----'
+    status: AM
+    date: '2007'
+    iata: ''
+    coordinates: '5156N 00435E'
+    remarks: ''
+-
+    ch: ''
     locode: 'NL TTE'
     name: Lettele
     namewodiacritics: Lettele
@@ -8997,6 +10533,18 @@
     date: '0901'
     iata: ''
     coordinates: '5217N 00616E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NL LED'
+    name: Leudal
+    namewodiacritics: Leudal
+    subdiv: LI
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5151N 00554E'
     remarks: ''
 -
     ch: ''
@@ -9048,6 +10596,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'NL LEV'
+    name: Leveroij
+    namewodiacritics: Leveroij
+    subdiv: LI
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5115N 00551E'
+    remarks: ''
+-
+    ch: ''
     locode: 'NL LWD'
     name: Lewedorp
     namewodiacritics: Lewedorp
@@ -9083,6 +10643,18 @@
     coordinates: ''
     remarks: ''
 -
+    ch: +
+    locode: 'NL LMP'
+    name: Liempde
+    namewodiacritics: Liempde
+    subdiv: NB
+    function: '--3-----'
+    status: AA
+    date: '2201'
+    iata: ''
+    coordinates: '5134N 00522E'
+    remarks: ''
+-
     ch: ''
     locode: 'NL LIE'
     name: Lienden
@@ -9093,6 +10665,18 @@
     date: '9602'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'NL LEN'
+    name: Lieren
+    namewodiacritics: Lieren
+    subdiv: GE
+    function: 1-------
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5210N 06000E'
     remarks: ''
 -
     ch: ''
@@ -9168,6 +10752,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'NL LIW'
+    name: Lingewaal
+    namewodiacritics: Lingewaal
+    subdiv: GE
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5153N 00507E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NL LIR'
+    name: Lingewaard
+    namewodiacritics: Lingewaard
+    subdiv: GE
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5153N 00554E'
+    remarks: ''
+-
+    ch: ''
     locode: 'NL LIN'
     name: Linne
     namewodiacritics: Linne
@@ -9192,6 +10800,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'NL LIO'
+    name: Lintelo
+    namewodiacritics: Lintelo
+    subdiv: GE
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '5156N 06310E'
+    remarks: ''
+-
+    ch: ''
     locode: 'NL LWO'
     name: Lippenwoude
     namewodiacritics: Lippenwoude
@@ -9208,9 +10828,9 @@
     name: Lisse
     namewodiacritics: Lisse
     subdiv: ''
-    function: '--3-----'
+    function: 1-3-----
     status: AF
-    date: '9602'
+    date: '1607'
     iata: ''
     coordinates: ''
     remarks: ''
@@ -9249,6 +10869,18 @@
     date: '0901'
     iata: ''
     coordinates: '5148N 00528E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NL LIL'
+    name: Littenseradeel
+    namewodiacritics: Littenseradeel
+    subdiv: FR
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5307N 00535E'
     remarks: ''
 -
     ch: ''
@@ -9292,9 +10924,9 @@
     name: 'Loenen aan de Vecht'
     namewodiacritics: 'Loenen aan de Vecht'
     subdiv: ''
-    function: '--3-----'
+    function: 1-3-----
     status: AF
-    date: '9602'
+    date: '1607'
     iata: ''
     coordinates: ''
     remarks: ''
@@ -9321,6 +10953,30 @@
     date: '9602'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'NL LOO'
+    name: Loo
+    namewodiacritics: Loo
+    subdiv: GE
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '5156N 00559E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NL LOZ'
+    name: 'loon op zand'
+    namewodiacritics: 'loon op zand'
+    subdiv: NB
+    function: '--3-----'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '5138N 00505E'
     remarks: ''
 -
     ch: ''
@@ -9396,6 +11052,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'NL LTM'
+    name: Lottum
+    namewodiacritics: Lottum
+    subdiv: LI
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5128N 00610E'
+    remarks: ''
+-
+    ch: ''
     locode: 'NL LTN'
     name: Lunteren
     namewodiacritics: Lunteren
@@ -9443,6 +11111,18 @@
     coordinates: '5245N 00551E'
     remarks: ''
 -
+    ch: +
+    locode: 'NL LTT'
+    name: Luttenberg
+    namewodiacritics: Luttenberg
+    subdiv: OV
+    function: '--3-----'
+    status: AA
+    date: '2201'
+    iata: ''
+    coordinates: '5224N 00622E'
+    remarks: ''
+-
     ch: ''
     locode: 'NL LYG'
     name: Luyksgestel
@@ -9459,12 +11139,12 @@
     locode: 'NL MHZ'
     name: Maarheeze
     namewodiacritics: Maarheeze
-    subdiv: ''
+    subdiv: NB
     function: '--3-----'
     status: AF
-    date: '9602'
+    date: '1601'
     iata: ''
-    coordinates: ''
+    coordinates: '5119N 00536E'
     remarks: ''
 -
     ch: ''
@@ -9588,6 +11268,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'NL MDR'
+    name: Maasdriel
+    namewodiacritics: Maasdriel
+    subdiv: GE
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5146N 00520E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NL MGW'
+    name: Maasgouw
+    namewodiacritics: Maasgouw
+    subdiv: LI
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5109N 00554E'
+    remarks: ''
+-
+    ch: ''
     locode: 'NL MAA'
     name: Maashees
     namewodiacritics: Maashees
@@ -9640,11 +11344,23 @@
     name: Maasvlakte
     namewodiacritics: Maasvlakte
     subdiv: ''
-    function: '--3-----'
+    function: 1-3-----
     status: AF
-    date: '9602'
+    date: '1701'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'NL MAC'
+    name: Macharen
+    namewodiacritics: Macharen
+    subdiv: NB
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '5148N 05330E'
     remarks: ''
 -
     ch: ''
@@ -9696,6 +11412,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'NL MTN'
+    name: Mantinge
+    namewodiacritics: Mantinge
+    subdiv: DR
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '5248N 00637E'
+    remarks: ''
+-
+    ch: ''
     locode: 'NL MRK'
     name: Maren-Kessel
     namewodiacritics: Maren-Kessel
@@ -9736,9 +11464,9 @@
     name: Markelo
     namewodiacritics: Markelo
     subdiv: ''
-    function: '--3-----'
+    function: 1-3-----
     status: AF
-    date: '9602'
+    date: '1607'
     iata: ''
     coordinates: ''
     remarks: ''
@@ -9808,9 +11536,9 @@
     name: Maurik
     namewodiacritics: Maurik
     subdiv: ''
-    function: '--3-----'
+    function: 1-3-----
     status: AF
-    date: '9602'
+    date: '1607'
     iata: ''
     coordinates: ''
     remarks: ''
@@ -9851,7 +11579,7 @@
     coordinates: ''
     remarks: ''
 -
-    ch: +
+    ch: ''
     locode: 'NL MEK'
     name: Meeden
     namewodiacritics: Meeden
@@ -9948,6 +11676,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'NL MGN'
+    name: Megen
+    namewodiacritics: Megen
+    subdiv: NB
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5149N 00534E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NL MEJ'
+    name: Meijel
+    namewodiacritics: Meijel
+    subdiv: LI
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5121N 00553E'
+    remarks: ''
+-
+    ch: ''
     locode: 'NL MDO'
     name: Melderslo
     namewodiacritics: Melderslo
@@ -9969,6 +11721,18 @@
     date: '9602'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'NL MKU'
+    name: Meliskere
+    namewodiacritics: Meliskere
+    subdiv: ZE
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '5131N 00331E'
     remarks: ''
 -
     ch: ''
@@ -9996,6 +11760,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'NL MLD'
+    name: Menaldumadeel
+    namewodiacritics: Menaldumadeel
+    subdiv: FR
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5313N 00540E'
+    remarks: ''
+-
+    ch: ''
     locode: 'NL MSW'
     name: Mensingeweer
     namewodiacritics: Mensingeweer
@@ -10005,6 +11781,18 @@
     date: '0501'
     iata: ''
     coordinates: '5321N 00628E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NL MTW'
+    name: Menterwolde
+    namewodiacritics: Menterwolde
+    subdiv: GR
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5308N 00652E'
     remarks: ''
 -
     ch: ''
@@ -10044,6 +11832,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'NL GE7'
+    name: Meteren
+    namewodiacritics: Meteren
+    subdiv: GE
+    function: 1----6--
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '5152N 00517E'
+    remarks: ''
+-
+    ch: ''
     locode: 'NL MTK'
     name: Meterik
     namewodiacritics: Meterik
@@ -10080,6 +11880,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'NL MDL'
+    name: Middelburg
+    namewodiacritics: Middelburg
+    subdiv: ZE
+    function: '--3-----'
+    status: RL
+    date: '0212'
+    iata: ''
+    coordinates: '5130N 00336E'
+    remarks: ''
+-
+    ch: ''
     locode: 'NL MID'
     name: Middelburg
     namewodiacritics: Middelburg
@@ -10092,18 +11904,6 @@
     remarks: ''
 -
     ch: ''
-    locode: 'NL MDL'
-    name: Middelburg
-    namewodiacritics: Middelburg
-    subdiv: ZE
-    function: '--3-----'
-    status: RL
-    date: '0212'
-    iata: ''
-    coordinates: '5130N 00336E'
-    remarks: ''
--
-    ch: ¦
     locode: 'NL MIH'
     name: Middelharnis
     namewodiacritics: Middelharnis
@@ -10113,7 +11913,7 @@
     date: '1307'
     iata: ''
     coordinates: ''
-    remarks: '@Fun'
+    remarks: ''
 -
     ch: ''
     locode: 'NL MVE'
@@ -10164,6 +11964,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'NL MDF'
+    name: Midden-Delfland
+    namewodiacritics: Midden-Delfland
+    subdiv: ZH
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5159N 00419E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NL MDD'
+    name: Midden-Drenthe
+    namewodiacritics: Midden-Drenthe
+    subdiv: DR
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5252N 00631E'
+    remarks: ''
+-
+    ch: ''
     locode: 'NL ZBD'
     name: Middenmeer
     namewodiacritics: Middenmeer
@@ -10187,7 +12011,7 @@
     coordinates: '5312N 00700E'
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'NL MIE'
     name: Mierlo
     namewodiacritics: Mierlo
@@ -10197,7 +12021,7 @@
     date: '1307'
     iata: ''
     coordinates: '5126N 00537E'
-    remarks: '@Fun@Sub@Coo'
+    remarks: ''
 -
     ch: ''
     locode: 'NL MIJ'
@@ -10260,6 +12084,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'NL MSH'
+    name: 'Mill en Sint Hubert'
+    namewodiacritics: 'Mill en Sint Hubert'
+    subdiv: NB
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5141N 00547E'
+    remarks: ''
+-
+    ch: ''
     locode: 'NL MLR'
     name: 'Millingen aan de Rijn'
     namewodiacritics: 'Millingen aan de Rijn'
@@ -10284,15 +12120,27 @@
     remarks: ''
 -
     ch: ''
+    locode: 'NL M9G'
+    name: Minnertsga
+    namewodiacritics: Minnertsga
+    subdiv: FR
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '5315N 00536E'
+    remarks: ''
+-
+    ch: ''
     locode: 'NL MOE'
     name: Moerdijk
     namewodiacritics: Moerdijk
     subdiv: ''
     function: 123-----
     status: AF
-    date: '9602'
+    date: '1907'
     iata: ''
-    coordinates: ''
+    coordinates: '5141N 00434E'
     remarks: ''
 -
     ch: ''
@@ -10317,6 +12165,18 @@
     date: '9602'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'NL MSN'
+    name: Moerstraten
+    namewodiacritics: Moerstraten
+    subdiv: NB
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5132N 00421E'
     remarks: ''
 -
     ch: ''
@@ -10368,6 +12228,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'NL MLW'
+    name: Molenwaard
+    namewodiacritics: Molenwaard
+    subdiv: ZH
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5152N 00447E'
+    remarks: ''
+-
+    ch: ''
     locode: 'NL MWU'
     name: Molkwerum
     namewodiacritics: Molkwerum
@@ -10401,6 +12273,18 @@
     date: '9602'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'NL MTL'
+    name: Montferland
+    namewodiacritics: Montferland
+    subdiv: GE
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5156N 00608E'
     remarks: ''
 -
     ch: ''
@@ -10476,6 +12360,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'NL MUN'
+    name: Munein
+    namewodiacritics: Munein
+    subdiv: FR
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '5315N 00555E'
+    remarks: ''
+-
+    ch: ''
     locode: 'NL MKE'
     name: Munnekeburen
     namewodiacritics: Munnekeburen
@@ -10500,6 +12396,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'NL MTD'
+    name: Muntendam
+    namewodiacritics: Muntendam
+    subdiv: GR
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '5308N 00652E'
+    remarks: ''
+-
+    ch: ''
     locode: 'NL MUS'
     name: Musselkanaal
     namewodiacritics: Musselkanaal
@@ -10516,9 +12424,9 @@
     name: Naaldwijk
     namewodiacritics: Naaldwijk
     subdiv: ''
-    function: '--3-----'
+    function: 1-3-----
     status: AF
-    date: '9602'
+    date: '1607'
     iata: ''
     coordinates: ''
     remarks: ''
@@ -10600,9 +12508,9 @@
     name: 'Nederhorst den Berg'
     namewodiacritics: 'Nederhorst den Berg'
     subdiv: ''
-    function: '--3-----'
+    function: 1-3-----
     status: AF
-    date: '0212'
+    date: '1607'
     iata: ''
     coordinates: '5216N 00503E'
     remarks: ''
@@ -10653,6 +12561,30 @@
     date: '9602'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'NL NEJ'
+    name: Neerijnen
+    namewodiacritics: Neerijnen
+    subdiv: GE
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5150N 00517E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NL EER'
+    name: Neeritter
+    namewodiacritics: Neeritter
+    subdiv: LI
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5110N 00548E'
     remarks: ''
 -
     ch: ''
@@ -10740,6 +12672,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'NL NB3'
+    name: Nieuw-Buinen
+    namewodiacritics: Nieuw-Buinen
+    subdiv: DR
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5257N 00656E'
+    remarks: ''
+-
+    ch: ''
     locode: 'NL NIU'
     name: Nieuwdorp
     namewodiacritics: Nieuwdorp
@@ -10816,9 +12760,9 @@
     name: Nieuwegein
     namewodiacritics: Nieuwegein
     subdiv: ''
-    function: '--3-----'
+    function: 1-3-----
     status: AF
-    date: '9602'
+    date: '1607'
     iata: ''
     coordinates: ''
     remarks: ''
@@ -10860,15 +12804,39 @@
     remarks: ''
 -
     ch: ''
+    locode: 'NL NRK'
+    name: Nieuwerkerk
+    namewodiacritics: Nieuwerkerk
+    subdiv: ZE
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5142N 00354E'
+    remarks: ''
+-
+    ch: ''
     locode: 'NL NIE'
     name: 'Nieuwerkerk aan den IJssel'
     namewodiacritics: 'Nieuwerkerk aan den IJssel'
     subdiv: ZH
-    function: '--3-----'
+    function: 1-3-----
     status: RL
-    date: '0212'
+    date: '1607'
     iata: ''
     coordinates: '5158N 00437E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NL N8W'
+    name: Nieuwerkerke
+    namewodiacritics: Nieuwerkerke
+    subdiv: ZE
+    function: 1-------
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '5142N 00354E'
     remarks: ''
 -
     ch: ''
@@ -11188,9 +13156,9 @@
     name: Nijkerk
     namewodiacritics: Nijkerk
     subdiv: ''
-    function: '--3-----'
+    function: 1-3-----
     status: AF
-    date: '9602'
+    date: '1607'
     iata: ''
     coordinates: ''
     remarks: ''
@@ -11212,9 +13180,9 @@
     name: Nijmegen
     namewodiacritics: Nijmegen
     subdiv: ''
-    function: '-23-----'
+    function: 123-----
     status: AF
-    date: '9602'
+    date: '1901'
     iata: ''
     coordinates: ''
     remarks: ''
@@ -11268,6 +13236,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'NL NBN'
+    name: Nissewaard
+    namewodiacritics: Nissewaard
+    subdiv: ZH
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5149N 00416E'
+    remarks: ''
+-
+    ch: ''
     locode: 'NL NTR'
     name: Nistelrode
     namewodiacritics: Nistelrode
@@ -11277,6 +13257,18 @@
     date: '0901'
     iata: ''
     coordinates: '5142N 00534E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NL NGD'
+    name: 'Nooit Gedacht'
+    namewodiacritics: 'Nooit Gedacht'
+    subdiv: DR
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '5258N 00640E'
     remarks: ''
 -
     ch: ''
@@ -11292,6 +13284,54 @@
     remarks: ''
 -
     ch: ''
+    locode: 'NL OOG'
+    name: Noordbergum
+    namewodiacritics: Noordbergum
+    subdiv: FR
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5313N 00601E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NL NOQ'
+    name: Noord-Beveland
+    namewodiacritics: Noord-Beveland
+    subdiv: ZE
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5135N 00345E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NL EOR'
+    name: Noordbroek
+    namewodiacritics: Noordbroek
+    subdiv: GR
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5312N 00652E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NL NZ8'
+    name: Noordeloos
+    namewodiacritics: Noordeloos
+    subdiv: ZH
+    function: 1----6--
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '5154N 00457E'
+    remarks: ''
+-
+    ch: ''
     locode: 'NL NDN'
     name: Noorden
     namewodiacritics: Noorden
@@ -11304,6 +13344,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'NL NOV'
+    name: Noordenveld
+    namewodiacritics: Noordenveld
+    subdiv: DR
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5308N 00626E'
+    remarks: ''
+-
+    ch: ''
     locode: 'NL NWE'
     name: Noordgouwe
     namewodiacritics: Noordgouwe
@@ -11313,6 +13365,42 @@
     date: '0901'
     iata: ''
     coordinates: '5142N 00357E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NL NDH'
+    name: Noordhoek
+    namewodiacritics: Noordhoek
+    subdiv: NB
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '5139N 00432E'
+    remarks: ''
+-
+    ch: +
+    locode: 'NL NHR'
+    name: Noordhorn
+    namewodiacritics: Noordhorn
+    subdiv: GR
+    function: '--3-----'
+    status: AA
+    date: '2201'
+    iata: ''
+    coordinates: '5326N 00634E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NL NOP'
+    name: Noordoostpolder
+    namewodiacritics: Noordoostpolder
+    subdiv: FL
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5243N 00545E'
     remarks: ''
 -
     ch: ''
@@ -11409,6 +13497,18 @@
     date: '0907'
     iata: ''
     coordinates: '5303N 00627E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NL NGN'
+    name: Nuenen
+    namewodiacritics: Nuenen
+    subdiv: NB
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5128N 00533E'
     remarks: ''
 -
     ch: ''
@@ -11560,14 +13660,26 @@
     name: Oegstgeest
     namewodiacritics: Oegstgeest
     subdiv: ''
-    function: '--3-----'
+    function: 1-3-----
     status: AF
-    date: '9602'
+    date: '1607'
     iata: ''
     coordinates: ''
     remarks: ''
 -
-    ch: +
+    ch: ''
+    locode: 'NL OGW'
+    name: Offingawier
+    namewodiacritics: Offingawier
+    subdiv: FR
+    function: '--3-----'
+    status: RL
+    date: '1907'
+    iata: ''
+    coordinates: '5302N 00542E'
+    remarks: ''
+-
+    ch: ''
     locode: 'NL OEL'
     name: 'Ohé en Laak'
     namewodiacritics: 'Ohe en Laak'
@@ -11596,9 +13708,9 @@
     name: Oirschot
     namewodiacritics: Oirschot
     subdiv: ''
-    function: '--3-----'
+    function: 1-3-----
     status: AF
-    date: '9602'
+    date: '1607'
     iata: ''
     coordinates: ''
     remarks: ''
@@ -11625,6 +13737,18 @@
     date: '1107'
     iata: ''
     coordinates: '5202N 00607E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NL OWI'
+    name: Oldambt
+    namewodiacritics: Oldambt
+    subdiv: OV
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5309N 00702E'
     remarks: ''
 -
     ch: ''
@@ -11700,6 +13824,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'NL OWE'
+    name: Oldeouwer
+    namewodiacritics: Oldeouwer
+    subdiv: FL
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5255N 00548E'
+    remarks: ''
+-
+    ch: ''
     locode: 'NL OSI'
     name: Olst
     namewodiacritics: Olst
@@ -11707,6 +13843,18 @@
     function: '-23--6--'
     status: RL
     date: '0901'
+    iata: ''
+    coordinates: '5220N 00607E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NL OBK'
+    name: Olst-Wijhe
+    namewodiacritics: Olst-Wijhe
+    subdiv: LI
+    function: '--3-----'
+    status: RL
+    date: '1601'
     iata: ''
     coordinates: '5220N 00607E'
     remarks: ''
@@ -11748,6 +13896,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'NL OOW'
+    name: Onderbanken
+    namewodiacritics: Onderbanken
+    subdiv: FR
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5058N 00559E'
+    remarks: ''
+-
+    ch: ''
     locode: 'NL OOY'
     name: Ooij
     namewodiacritics: Ooij
@@ -11769,6 +13929,18 @@
     date: '0501'
     iata: ''
     coordinates: '5141N 00421E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NL OPT'
+    name: 'Oost Gelre'
+    namewodiacritics: 'Oost Gelre'
+    subdiv: FR
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5159N 00634E'
     remarks: ''
 -
     ch: ''
@@ -11817,6 +13989,18 @@
     date: '9602'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'NL OSM'
+    name: Oosterbierum
+    namewodiacritics: Oosterbierum
+    subdiv: FR
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '5314N 00531E'
     remarks: ''
 -
     ch: ''
@@ -11979,12 +14163,48 @@
     locode: 'NL OST'
     name: Oostrum
     namewodiacritics: Oostrum
-    subdiv: ''
+    subdiv: FR
     function: '--3-----'
-    status: AF
-    date: '9602'
+    status: AM
+    date: '2007'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'NL OTR'
+    name: Oostrum
+    namewodiacritics: Oostrum
+    subdiv: LI
+    function: '--3-----'
+    status: AM
+    date: '2007'
+    iata: ''
+    coordinates: '5132N 00601E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NL OSO'
+    name: Oost-Souburg
+    namewodiacritics: Oost-Souburg
+    subdiv: ZE
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5128N 00336E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NL OOL'
+    name: Ooststellingwerf
+    namewodiacritics: Ooststellingwerf
+    subdiv: GE
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5300N 00618E'
     remarks: ''
 -
     ch: ''
@@ -11997,6 +14217,18 @@
     date: '9602'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'NL NHO'
+    name: Oostwoud
+    namewodiacritics: Oostwoud
+    subdiv: NH
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '5244N 05505E'
     remarks: ''
 -
     ch: ''
@@ -12048,6 +14280,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'NL OPG'
+    name: Opende
+    namewodiacritics: Opende
+    subdiv: GR
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '5310N 00612E'
+    remarks: ''
+-
+    ch: ''
     locode: 'NL OPH'
     name: Ophemert
     namewodiacritics: Ophemert
@@ -12072,6 +14316,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'NL OPL'
+    name: Oploo
+    namewodiacritics: Oploo
+    subdiv: NB
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5136N 00553E'
+    remarks: ''
+-
+    ch: ''
     locode: 'NL ZBQ'
     name: Opmeer
     namewodiacritics: Opmeer
@@ -12081,6 +14337,30 @@
     date: '0901'
     iata: ''
     coordinates: '5242N 00457E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NL OPP'
+    name: Opperdoes
+    namewodiacritics: Opperdoes
+    subdiv: NH
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '5246N 00505E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NL OUT'
+    name: Opsterland
+    namewodiacritics: Opsterland
+    subdiv: GE
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5304N 00605E'
     remarks: ''
 -
     ch: ''
@@ -12099,12 +14379,12 @@
     locode: 'NL OSS'
     name: Oss
     namewodiacritics: Oss
-    subdiv: ''
+    subdiv: NB
     function: 123-----
     status: AF
-    date: '9602'
+    date: '1601'
     iata: ''
-    coordinates: ''
+    coordinates: '5146N 00532E'
     remarks: ''
 -
     ch: ''
@@ -12168,15 +14448,39 @@
     remarks: ''
 -
     ch: ''
+    locode: 'NL A2Z'
+    name: Oud-Alblas
+    namewodiacritics: Oud-Alblas
+    subdiv: ZH
+    function: 1----6--
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '5151N 00442E'
+    remarks: ''
+-
+    ch: ''
     locode: 'NL OBL'
     name: Oud-Beijerland
     namewodiacritics: Oud-Beijerland
     subdiv: ''
-    function: '--3-----'
+    function: 1-3-----
     status: AF
-    date: '9602'
+    date: '1607'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'NL ODU'
+    name: Ouddorp
+    namewodiacritics: Ouddorp
+    subdiv: ZH
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '5149N 00356E'
     remarks: ''
 -
     ch: ''
@@ -12191,7 +14495,19 @@
     coordinates: '5318N 00543E'
     remarks: ''
 -
-    ch: +
+    ch: ''
+    locode: 'NL OAT'
+    name: 'Oude Ijsselstreek'
+    namewodiacritics: 'Oude Ijsselstreek'
+    subdiv: NH
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5153N 00623E'
+    remarks: ''
+-
+    ch: ''
     locode: 'NL PRW'
     name: 'Oude Leije'
     namewodiacritics: 'Oude Leije'
@@ -12225,6 +14541,18 @@
     date: '0401'
     iata: ''
     coordinates: '5217N 00446E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NL 6LN'
+    name: 'Oude Niedorp'
+    namewodiacritics: 'Oude Niedorp'
+    subdiv: NH
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5243N 00452E'
     remarks: ''
 -
     ch: ''
@@ -12297,6 +14625,18 @@
     date: '0507'
     iata: ''
     coordinates: '5251N 00531E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NL OMO'
+    name: Oudemolen
+    namewodiacritics: Oudemolen
+    subdiv: NB
+    function: '--3-----'
+    status: RL
+    date: '1907'
+    iata: ''
+    coordinates: '5139N 00428E'
     remarks: ''
 -
     ch: ''
@@ -12376,9 +14716,9 @@
     name: Oudeschild
     namewodiacritics: Oudeschild
     subdiv: NH
-    function: '--3-----'
+    function: 1-3-----
     status: RN
-    date: '0501'
+    date: '2107'
     iata: ''
     coordinates: '5302N 00452E'
     remarks: ''
@@ -12516,6 +14856,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'NL OWK'
+    name: Ouwerkerk
+    namewodiacritics: Ouwerkerk
+    subdiv: ZE
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5138N 00359E'
+    remarks: ''
+-
+    ch: ''
     locode: 'NL OAS'
     name: Overasselt
     namewodiacritics: Overasselt
@@ -12573,6 +14925,18 @@
     date: '0501'
     iata: ''
     coordinates: '5317N 00647E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NL OVE'
+    name: Overvecht
+    namewodiacritics: Overvecht
+    subdiv: UT
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5207N 00507E'
     remarks: ''
 -
     ch: ''
@@ -12640,14 +15004,38 @@
     name: Papendrecht
     namewodiacritics: Papendrecht
     subdiv: ''
-    function: '--3-----'
+    function: 1-3-----
     status: AF
-    date: '9602'
+    date: '1901'
     iata: QYT
     coordinates: ''
     remarks: ''
 -
-    ch: +
+    ch: ''
+    locode: 'NL PAT'
+    name: Paterswolde
+    namewodiacritics: Paterswolde
+    subdiv: DR
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5310N 00634E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NL PEE'
+    name: 'Peel en Maas'
+    namewodiacritics: 'Peel en Maas'
+    subdiv: LI
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5120N 00559E'
+    remarks: ''
+-
+    ch: ''
     locode: 'NL PET'
     name: Peest
     namewodiacritics: Peest
@@ -12660,6 +15048,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'NL PIZ'
+    name: Peize
+    namewodiacritics: Peize
+    subdiv: DR
+    function: '-----6--'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '5309N 00630E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NL PEK'
+    name: Pekela
+    namewodiacritics: Pekela
+    subdiv: GR
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5306N 00700E'
+    remarks: ''
+-
+    ch: ''
     locode: 'NL PER'
     name: Pernis
     namewodiacritics: Pernis
@@ -12669,6 +15081,18 @@
     date: '0907'
     iata: ''
     coordinates: '5153N 00423E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NL PSE'
+    name: Pesse
+    namewodiacritics: Pesse
+    subdiv: DR
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '5246N 00627E'
     remarks: ''
 -
     ch: ''
@@ -12729,6 +15153,18 @@
     date: '9602'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'NL PIN'
+    name: Pijnacker-Nootdorp
+    namewodiacritics: Pijnacker-Nootdorp
+    subdiv: ZH
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5201N 00426E'
     remarks: ''
 -
     ch: ''
@@ -12820,9 +15256,9 @@
     name: Purmerend
     namewodiacritics: Purmerend
     subdiv: ''
-    function: '--3-----'
+    function: 1-3-----
     status: AF
-    date: '9602'
+    date: '1607'
     iata: ''
     coordinates: ''
     remarks: ''
@@ -12868,9 +15304,9 @@
     name: Raalte
     namewodiacritics: Raalte
     subdiv: ''
-    function: '--3-----'
+    function: 1-3-----
     status: AF
-    date: '9602'
+    date: '1607'
     iata: ''
     coordinates: ''
     remarks: ''
@@ -12885,6 +15321,18 @@
     date: '1001'
     iata: ''
     coordinates: '5142N 00454E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NL RDK'
+    name: Ramsdonk
+    namewodiacritics: Ramsdonk
+    subdiv: NB
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5141N 00455E'
     remarks: ''
 -
     ch: ''
@@ -12904,9 +15352,9 @@
     name: Ravenstein
     namewodiacritics: Ravenstein
     subdiv: ''
-    function: '--3-----'
+    function: 1-3-----
     status: AF
-    date: '9602'
+    date: '1607'
     iata: ''
     coordinates: ''
     remarks: ''
@@ -12971,7 +15419,7 @@
     coordinates: '5143N 00346E'
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'NL RNK'
     name: Renkum
     namewodiacritics: Renkum
@@ -12981,7 +15429,7 @@
     date: '1307'
     iata: ''
     coordinates: ''
-    remarks: '@Fun'
+    remarks: ''
 -
     ch: ''
     locode: 'NL RWD'
@@ -13008,6 +15456,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'NL RDM'
+    name: 'Reusel-De Mierden'
+    namewodiacritics: 'Reusel-De Mierden'
+    subdiv: NB
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5122N 00510E'
+    remarks: ''
+-
+    ch: ''
     locode: 'NL REU'
     name: Reuver
     namewodiacritics: Reuver
@@ -13024,9 +15484,9 @@
     name: Rheden
     namewodiacritics: Rheden
     subdiv: ''
-    function: '--3-----'
+    function: 1-3-----
     status: AF
-    date: '9602'
+    date: '1607'
     iata: ''
     coordinates: ''
     remarks: ''
@@ -13055,7 +15515,7 @@
     coordinates: ''
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'NL RID'
     name: Ridderkerk
     namewodiacritics: Ridderkerk
@@ -13065,7 +15525,7 @@
     date: '1307'
     iata: ''
     coordinates: ''
-    remarks: '@Fun'
+    remarks: ''
 -
     ch: ''
     locode: 'NL RED'
@@ -13144,11 +15604,23 @@
     name: Rijnsburg
     namewodiacritics: Rijnsburg
     subdiv: ''
-    function: '--3-----'
+    function: 1-3-----
     status: AF
-    date: '9602'
+    date: '1607'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'NL RIW'
+    name: Rijnwaarden
+    namewodiacritics: Rijnwaarden
+    subdiv: GE
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5152N 00607E'
     remarks: ''
 -
     ch: ''
@@ -13212,13 +15684,25 @@
     remarks: ''
 -
     ch: ''
+    locode: 'NL RIH'
+    name: Rijssen-Holten
+    namewodiacritics: Rijssen-Holten
+    subdiv: OV
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5218N 00631E'
+    remarks: ''
+-
+    ch: ''
     locode: 'NL RYS'
     name: Rijswijk
     namewodiacritics: Rijswijk
     subdiv: ''
-    function: '--3-----'
+    function: 1-3-----
     status: AF
-    date: '9602'
+    date: '1607'
     iata: ''
     coordinates: ''
     remarks: ''
@@ -13332,13 +15816,25 @@
     remarks: ''
 -
     ch: ''
+    locode: 'NL ROE'
+    name: Roerdalen
+    namewodiacritics: Roerdalen
+    subdiv: LI
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5109N 00600E'
+    remarks: ''
+-
+    ch: ''
     locode: 'NL OMD'
     name: Roermond
     namewodiacritics: Roermond
     subdiv: ''
-    function: '--3-----'
+    function: 1-3-----
     status: AF
-    date: '9602'
+    date: '1901'
     iata: ''
     coordinates: ''
     remarks: ''
@@ -13380,27 +15876,51 @@
     remarks: ''
 -
     ch: ''
+    locode: 'NL RDS'
+    name: Roodeschool
+    namewodiacritics: Roodeschool
+    subdiv: GR
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '5325N 00646E'
+    remarks: ''
+-
+    ch: ''
     locode: 'NL RSL'
     name: Roompotsluis
     namewodiacritics: Roompotsluis
     subdiv: ''
-    function: '--3-----'
+    function: 1-3-----
     status: AF
-    date: '1107'
+    date: '1901'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'NL RDH'
+    name: Roordahuizum
+    namewodiacritics: Roordahuizum
+    subdiv: FR
+    function: '--3-----'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '5307N 00548E'
     remarks: ''
 -
     ch: ''
     locode: 'NL ROO'
     name: Roosendaal
     namewodiacritics: Roosendaal
-    subdiv: ''
+    subdiv: NB
     function: '-23-5---'
     status: AF
-    date: '9602'
+    date: '1601'
     iata: ZYO
-    coordinates: ''
+    coordinates: '5132N 00428E'
     remarks: ''
 -
     ch: ''
@@ -13427,7 +15947,7 @@
     coordinates: ''
     remarks: ''
 -
-    ch: +
+    ch: ''
     locode: 'NL GRM'
     name: Rossum
     namewodiacritics: Rossum
@@ -13487,7 +16007,7 @@
     coordinates: ''
     remarks: ''
 -
-    ch: +
+    ch: ''
     locode: 'NL RZG'
     name: Rozenburg
     namewodiacritics: Rozenburg
@@ -13619,7 +16139,7 @@
     coordinates: '5220N 00649E'
     remarks: ''
 -
-    ch: +
+    ch: ''
     locode: 'NL SAB'
     name: Saba
     namewodiacritics: Saba
@@ -13641,6 +16161,18 @@
     date: '0501'
     iata: ''
     coordinates: '5138N 00558E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NL STC'
+    name: Santpoort-Noord
+    namewodiacritics: Santpoort-Noord
+    subdiv: NH
+    function: '--3-----'
+    status: RL
+    date: '1907'
+    iata: ''
+    coordinates: '5226N 00438E'
     remarks: ''
 -
     ch: ''
@@ -13684,9 +16216,9 @@
     name: Schagen
     namewodiacritics: Schagen
     subdiv: ''
-    function: '--3-----'
+    function: 1-3-----
     status: RL
-    date: '0201'
+    date: '1607'
     iata: ''
     coordinates: '5247N 00447E'
     remarks: ''
@@ -13740,6 +16272,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'NL SFR'
+    name: Scharnegoutum
+    namewodiacritics: Scharnegoutum
+    subdiv: FR
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5304N 00541E'
+    remarks: ''
+-
+    ch: ''
     locode: 'NL SBG'
     name: Scharsterbrug
     namewodiacritics: Scharsterbrug
@@ -13756,9 +16300,9 @@
     name: Scheemda
     namewodiacritics: Scheemda
     subdiv: ''
-    function: '--3-----'
+    function: 1-3-----
     status: AF
-    date: '9602'
+    date: '1901'
     iata: ''
     coordinates: ''
     remarks: ''
@@ -13812,6 +16356,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'NL ZE5'
+    name: Scherpenisse
+    namewodiacritics: Scherpenisse
+    subdiv: ZE
+    function: 1----6--
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '5133N 00406E'
+    remarks: ''
+-
+    ch: ''
     locode: 'NL SRP'
     name: Scherpenzeel
     namewodiacritics: Scherpenzeel
@@ -13830,9 +16386,9 @@
     subdiv: ''
     function: 1-3-----
     status: AF
-    date: '9602'
+    date: '1907'
     iata: ''
-    coordinates: ''
+    coordinates: '5206N 00415E'
     remarks: ''
 -
     ch: ''
@@ -13845,6 +16401,18 @@
     date: '9602'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'NL SMO'
+    name: Schiermonnikoog
+    namewodiacritics: Schiermonnikoog
+    subdiv: FR
+    function: 1-3-----
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '5329N 00610E'
     remarks: ''
 -
     ch: ''
@@ -13864,9 +16432,9 @@
     name: Schijndel
     namewodiacritics: Schijndel
     subdiv: ''
-    function: '--3-----'
+    function: 1-3-----
     status: AF
-    date: '9602'
+    date: '1607'
     iata: ''
     coordinates: ''
     remarks: ''
@@ -13956,6 +16524,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'NL SCT'
+    name: Schiphorst
+    namewodiacritics: Schiphorst
+    subdiv: DR
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '5241N 00615E'
+    remarks: ''
+-
+    ch: ''
     locode: 'NL SCP'
     name: Schipluiden
     namewodiacritics: Schipluiden
@@ -13996,11 +16576,23 @@
     name: Schoonhoven
     namewodiacritics: Schoonhoven
     subdiv: ''
-    function: '--3-----'
+    function: 1-3-----
     status: AF
-    date: '9602'
+    date: '1607'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'NL SC2'
+    name: Schoonoord
+    namewodiacritics: Schoonoord
+    subdiv: DR
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '5251N 00645E'
     remarks: ''
 -
     ch: ''
@@ -14040,6 +16632,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'NL SWD'
+    name: Schouwen-Duiveland
+    namewodiacritics: Schouwen-Duiveland
+    subdiv: ZE
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5139N 00655E'
+    remarks: ''
+-
+    ch: ''
     locode: 'NL SWL'
     name: Schouwerzijl
     namewodiacritics: Schouwerzijl
@@ -14052,6 +16656,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'NL SER'
+    name: Serooskerke
+    namewodiacritics: Serooskerke
+    subdiv: ZE
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '5133N 00336E'
+    remarks: ''
+-
+    ch: ''
     locode: 'NL SVM'
     name: Sevenum
     namewodiacritics: Sevenum
@@ -14061,6 +16677,18 @@
     date: '0701'
     iata: ''
     coordinates: '5125N 00602E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NL SBM'
+    name: Sexbierum
+    namewodiacritics: Sexbierum
+    subdiv: FL
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '5313N 00529E'
     remarks: ''
 -
     ch: ''
@@ -14085,18 +16713,6 @@
     date: '0212'
     iata: ''
     coordinates: '5147N 00437E'
-    remarks: ''
--
-    ch: ''
-    locode: 'NL HAG'
-    name: '''s-Gravenhage (Den Haag)'
-    namewodiacritics: '''s-Gravenhage (Den Haag)'
-    subdiv: ZH
-    function: '-234-6--'
-    status: AF
-    date: '0907'
-    iata: ''
-    coordinates: '5205N 00418E'
     remarks: ''
 -
     ch: ''
@@ -14205,6 +16821,18 @@
     date: '0212'
     iata: ''
     coordinates: '5142N 00519E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NL SDD'
+    name: Siddeburen
+    namewodiacritics: Siddeburen
+    subdiv: GR
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '5315N 00652E'
     remarks: ''
 -
     ch: ''
@@ -14375,14 +17003,14 @@
     coordinates: '5247N 00443E'
     remarks: ''
 -
-    ch: +
+    ch: ''
     locode: 'NL SMG'
     name: 'Sint Michielsgestel'
     namewodiacritics: 'Sint Michielsgestel'
     subdiv: NB
-    function: '--3-----'
+    function: 1-3-----
     status: RL
-    date: '1307'
+    date: '1607'
     iata: ''
     coordinates: '5138N 00521E'
     remarks: ''
@@ -14397,6 +17025,18 @@
     date: '0701'
     iata: ''
     coordinates: '5255N 00545E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NL SOB'
+    name: 'Sint Odiliënberg'
+    namewodiacritics: 'Sint Odilienberg'
+    subdiv: LI
+    function: '--3-----'
+    status: RL
+    date: '2001'
+    iata: ''
+    coordinates: '5109N 00600E'
     remarks: ''
 -
     ch: ''
@@ -14496,6 +17136,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'NL SIG'
+    name: Sittard-Geleen
+    namewodiacritics: Sittard-Geleen
+    subdiv: LI
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5100N 00552E'
+    remarks: ''
+-
+    ch: ''
     locode: 'NL LGR'
     name: Slagharen
     namewodiacritics: Slagharen
@@ -14523,12 +17175,12 @@
     locode: 'NL SLD'
     name: Sliedrecht
     namewodiacritics: Sliedrecht
-    subdiv: ''
-    function: '--3-----'
+    subdiv: ZH
+    function: 1-3-----
     status: AF
-    date: '9602'
+    date: '1901'
     iata: ''
-    coordinates: ''
+    coordinates: '5149N 00446E'
     remarks: ''
 -
     ch: ''
@@ -14712,13 +17364,25 @@
     remarks: ''
 -
     ch: ''
+    locode: 'NL SIJ'
+    name: Sommelsdijk
+    namewodiacritics: Sommelsdijk
+    subdiv: ZH
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '5146N 00409E'
+    remarks: ''
+-
+    ch: ''
     locode: 'NL SON'
     name: Son
     namewodiacritics: Son
-    subdiv: ''
+    subdiv: NB
     function: 1-------
     status: AF
-    date: '1101'
+    date: '1601'
     iata: ''
     coordinates: '5130N 00530E'
     remarks: ''
@@ -14940,6 +17604,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'NL SHN'
+    name: Startenhuizen
+    namewodiacritics: Startenhuizen
+    subdiv: GR
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '5323N 00642E'
+    remarks: ''
+-
+    ch: ''
     locode: 'NL SVN'
     name: Stavenisse
     namewodiacritics: Stavenisse
@@ -14964,6 +17640,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'NL SBC'
+    name: 'Stede Broec'
+    namewodiacritics: 'Stede Broec'
+    subdiv: NH
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5242N 00514E'
+    remarks: ''
+-
+    ch: ''
     locode: 'NL STE'
     name: Steenbergen
     namewodiacritics: Steenbergen
@@ -14980,9 +17668,9 @@
     name: Steenderen
     namewodiacritics: Steenderen
     subdiv: GE
-    function: '--3-----'
+    function: 1-3-----
     status: RL
-    date: '0401'
+    date: '1607'
     iata: ''
     coordinates: '5204N 00611E'
     remarks: ''
@@ -14997,6 +17685,18 @@
     date: '9602'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'NL SEW'
+    name: Steenwijkerland
+    namewodiacritics: Steenwijkerland
+    subdiv: OV
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5247N 00607E'
     remarks: ''
 -
     ch: ''
@@ -15023,7 +17723,7 @@
     coordinates: ''
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'NL STD'
     name: Stellendam
     namewodiacritics: Stellendam
@@ -15033,7 +17733,7 @@
     date: '1307'
     iata: ''
     coordinates: ''
-    remarks: '@Fun'
+    remarks: ''
 -
     ch: ''
     locode: 'NL STR'
@@ -15069,6 +17769,18 @@
     date: '0501'
     iata: ''
     coordinates: '5108N 00551E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NL SVT'
+    name: 'Stichtse Vecht'
+    namewodiacritics: 'Stichtse Vecht'
+    subdiv: UT
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5209N 00502E'
     remarks: ''
 -
     ch: ''
@@ -15168,6 +17880,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'NL STP'
+    name: Stramproy
+    namewodiacritics: Stramproy
+    subdiv: LI
+    function: '--3-----'
+    status: RL
+    date: '1907'
+    iata: ''
+    coordinates: '5112N 00543E'
+    remarks: ''
+-
+    ch: ''
     locode: 'NL SRE'
     name: Streefkerk
     namewodiacritics: Streefkerk
@@ -15204,6 +17928,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'NL SRT'
+    name: Stroe
+    namewodiacritics: Stroe
+    subdiv: NH
+    function: 1-------
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '5256N 00459E'
+    remarks: ''
+-
+    ch: ''
     locode: 'NL STS'
     name: Stroobos
     namewodiacritics: Stroobos
@@ -15225,6 +17961,18 @@
     date: '1107'
     iata: ''
     coordinates: '5311N 00600E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NL SMR'
+    name: Sumar
+    namewodiacritics: Sumar
+    subdiv: FR
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '5310N 00600E'
     remarks: ''
 -
     ch: ''
@@ -15304,9 +18052,9 @@
     name: '''t Horntje'
     namewodiacritics: '''t Horntje'
     subdiv: NH
-    function: '--3-----'
+    function: 1-3-----
     status: RL
-    date: '1301'
+    date: '2107'
     iata: ''
     coordinates: '5300N 00447E'
     remarks: ''
@@ -15492,6 +18240,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'NL TRH'
+    name: Terherne
+    namewodiacritics: Terherne
+    subdiv: FR
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5302N 00546E'
+    remarks: ''
+-
+    ch: ''
     locode: 'NL TRO'
     name: Terhorne
     namewodiacritics: Terhorne
@@ -15546,9 +18306,9 @@
     subdiv: ''
     function: 1-3-----
     status: AF
-    date: '9602'
+    date: '1907'
     iata: ''
-    coordinates: ''
+    coordinates: '5128N 00349E'
     remarks: ''
 -
     ch: ''
@@ -15576,13 +18336,37 @@
     remarks: ''
 -
     ch: ''
+    locode: 'NL TRI'
+    name: Terwispel
+    namewodiacritics: Terwispel
+    subdiv: FR
+    function: '--3-----'
+    status: AA
+    date: '2107'
+    iata: ''
+    coordinates: '5301N 00603E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NL TRW'
+    name: Terwolde
+    namewodiacritics: Terwolde
+    subdiv: GE
+    function: '--3-----'
+    status: RL
+    date: '1707'
+    iata: ''
+    coordinates: '5217N 00606E'
+    remarks: ''
+-
+    ch: ''
     locode: 'NL TET'
     name: Teteringen
     namewodiacritics: Teteringen
-    subdiv: ''
+    subdiv: NB
     function: '-----6--'
-    status: RQ
-    date: '0907'
+    status: RL
+    date: '1901'
     iata: ''
     coordinates: '5136N 00449E'
     remarks: ''
@@ -15592,9 +18376,9 @@
     name: Teuge
     namewodiacritics: Teuge
     subdiv: GE
-    function: '--3-----'
+    function: '--34----'
     status: RL
-    date: '1301'
+    date: '1607'
     iata: ''
     coordinates: '5214N 00603E'
     remarks: ''
@@ -15604,24 +18388,36 @@
     name: Texel
     namewodiacritics: Texel
     subdiv: ''
-    function: 1-------
+    function: 1--4----
     status: AF
-    date: '9602'
+    date: '1607'
     iata: ''
     coordinates: ''
     remarks: ''
 -
-    ch: +
-    locode: 'NL HA9'
-    name: 'The Hague'
-    namewodiacritics: 'The Hague'
+    ch: ''
+    locode: 'NL TEY'
+    name: Teylingen
+    namewodiacritics: Teylingen
     subdiv: ZH
     function: '--3-----'
     status: RL
-    date: '1307'
+    date: '1601'
+    iata: ''
+    coordinates: '5213N 00429E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NL HAG'
+    name: 'The Hague'
+    namewodiacritics: 'The Hague'
+    subdiv: ZH
+    function: '-234-6--'
+    status: AF
+    date: '2007'
     iata: ''
     coordinates: '5205N 00418E'
-    remarks: ''
+    remarks: 's-Gravenhage (Den Haag)'
 -
     ch: ''
     locode: 'NL THO'
@@ -15660,6 +18456,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'NL TNY'
+    name: Tienray
+    namewodiacritics: Tienray
+    subdiv: LI
+    function: '--3-----'
+    status: AM
+    date: '2007'
+    iata: ''
+    coordinates: '5129N 00605E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NL TYT'
+    name: Tietjerksteradeel/Tytsjerksteradiel
+    namewodiacritics: Tietjerksteradeel/Tytsjerksteradiel
+    subdiv: FR
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5312N 00600E'
+    remarks: ''
+-
+    ch: ''
     locode: 'NL FR5'
     name: Tijnje
     namewodiacritics: Tijnje
@@ -15676,9 +18496,9 @@
     name: Tilburg
     namewodiacritics: Tilburg
     subdiv: ''
-    function: '-23-----'
+    function: 123-----
     status: AF
-    date: '9602'
+    date: '1607'
     iata: ''
     coordinates: ''
     remarks: ''
@@ -15804,6 +18624,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'NL 2LL'
+    name: 'Tweede Exloërmond'
+    namewodiacritics: 'Tweede Exloermond'
+    subdiv: DR
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5255N 00658E'
+    remarks: ''
+-
+    ch: ''
     locode: 'NL TWE'
     name: Twello
     namewodiacritics: Twello
@@ -15816,6 +18648,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'NL TWT'
+    name: Twenterand
+    namewodiacritics: Twenterand
+    subdiv: OV
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5225N 00638E'
+    remarks: ''
+-
+    ch: ''
     locode: 'NL TWY'
     name: Twijzel
     namewodiacritics: Twijzel
@@ -15825,6 +18669,30 @@
     date: '1201'
     iata: ''
     coordinates: '5314N 00606E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NL TWL'
+    name: Twijzelerheide
+    namewodiacritics: Twijzelerheide
+    subdiv: FR
+    function: '--3-----'
+    status: RL
+    date: '1901'
+    iata: ''
+    coordinates: '5327N 00602E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NL TWI'
+    name: Twijzelerheide
+    namewodiacritics: Twijzelerheide
+    subdiv: FR
+    function: '--3--6--'
+    status: RL
+    date: '1901'
+    iata: ''
+    coordinates: '5315N 00603E'
     remarks: ''
 -
     ch: ''
@@ -15867,12 +18735,12 @@
     locode: 'NL UDE'
     name: Uden
     namewodiacritics: Uden
-    subdiv: ''
+    subdiv: NB
     function: '--3-----'
     status: AF
-    date: '9602'
+    date: '1601'
     iata: ''
-    coordinates: ''
+    coordinates: '5140N 00537E'
     remarks: ''
 -
     ch: ''
@@ -15897,6 +18765,18 @@
     date: '0501'
     iata: ''
     coordinates: '5247N 00617E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NL ZDS'
+    name: Ugchelen
+    namewodiacritics: Ugchelen
+    subdiv: GE
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5211N 00556E'
     remarks: ''
 -
     ch: ''
@@ -16024,9 +18904,9 @@
     name: Urk
     namewodiacritics: Urk
     subdiv: ''
-    function: '--3-----'
+    function: 1-3-----
     status: AF
-    date: '9602'
+    date: '1607'
     iata: ''
     coordinates: ''
     remarks: ''
@@ -16071,12 +18951,12 @@
     locode: 'NL UTC'
     name: Utrecht
     namewodiacritics: Utrecht
-    subdiv: ''
+    subdiv: UT
     function: '-234----'
     status: AF
-    date: '9602'
+    date: '1601'
     iata: ''
-    coordinates: ''
+    coordinates: '5205N 00508E'
     remarks: ''
 -
     ch: ''
@@ -16110,9 +18990,21 @@
     subdiv: ''
     function: '--3-----'
     status: RQ
-    date: '9705'
+    date: '2107'
     iata: ''
-    coordinates: ''
+    coordinates: '5210N 00425E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NL VLB'
+    name: Valkenburg
+    namewodiacritics: Valkenburg
+    subdiv: LI
+    function: '--3-----'
+    status: AA
+    date: '2107'
+    iata: ''
+    coordinates: '5052N 00550E'
     remarks: ''
 -
     ch: ''
@@ -16137,6 +19029,18 @@
     date: '9602'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'NL VTH'
+    name: Valthermond
+    namewodiacritics: Valthermond
+    subdiv: DR
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5253N 00659E'
     remarks: ''
 -
     ch: ''
@@ -16176,6 +19080,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'NL VSS'
+    name: Vasse
+    namewodiacritics: Vasse
+    subdiv: OV
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5226N 00650E'
+    remarks: ''
+-
+    ch: ''
     locode: 'NL NEV'
     name: Veen
     namewodiacritics: Veen
@@ -16192,9 +19108,9 @@
     name: Veendam
     namewodiacritics: Veendam
     subdiv: ''
-    function: '-23-----'
+    function: 123-----
     status: AF
-    date: '9602'
+    date: '1901'
     iata: ''
     coordinates: ''
     remarks: ''
@@ -16248,6 +19164,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'NL VER'
+    name: Veere
+    namewodiacritics: Veere
+    subdiv: ZE
+    function: 1-------
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '5133N 00340E'
+    remarks: ''
+-
+    ch: ''
     locode: 'NL VEG'
     name: Veghel
     namewodiacritics: Veghel
@@ -16257,6 +19185,18 @@
     date: '9602'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'NL D6D'
+    name: Velddriel
+    namewodiacritics: Velddriel
+    subdiv: GE
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '5146N 00518E'
     remarks: ''
 -
     ch: ''
@@ -16371,12 +19311,12 @@
     locode: 'NL VEN'
     name: Venlo
     namewodiacritics: Venlo
-    subdiv: ''
-    function: '-23-----'
+    subdiv: LI
+    function: 1234----
     status: AF
-    date: '9602'
+    date: '1901'
     iata: ''
-    coordinates: ''
+    coordinates: '5122N 00610E'
     remarks: ''
 -
     ch: ''
@@ -16444,9 +19384,9 @@
     name: Vianen
     namewodiacritics: Vianen
     subdiv: ''
-    function: '--3-----'
+    function: 1-3-----
     status: AF
-    date: '9602'
+    date: '1607'
     iata: ''
     coordinates: ''
     remarks: ''
@@ -16461,6 +19401,30 @@
     date: '0212'
     iata: ''
     coordinates: '5206N 00614E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NL VHT'
+    name: Vierhouten
+    namewodiacritics: Vierhouten
+    subdiv: GE
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5220N 00550E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NL VHN'
+    name: Vierhuizen
+    namewodiacritics: Vierhuizen
+    subdiv: GR
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5322N 00618E'
     remarks: ''
 -
     ch: ''
@@ -16524,6 +19488,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'NL VKL'
+    name: Vinkel
+    namewodiacritics: Vinkel
+    subdiv: NB
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5142N 00528E'
+    remarks: ''
+-
+    ch: ''
     locode: 'NL VKB'
     name: Vinkenbuurt
     namewodiacritics: Vinkenbuurt
@@ -16576,9 +19552,9 @@
     name: Vlagtwedde
     namewodiacritics: Vlagtwedde
     subdiv: GR
-    function: '--3-----'
+    function: 1-3-----
     status: RL
-    date: '1301'
+    date: '1607'
     iata: ''
     coordinates: '5302N 00707E'
     remarks: ''
@@ -16626,9 +19602,9 @@
     subdiv: ''
     function: 123-----
     status: AF
-    date: '9602'
+    date: '1907'
     iata: ''
-    coordinates: ''
+    coordinates: '5127N 00342E'
     remarks: ''
 -
     ch: ''
@@ -16756,9 +19732,9 @@
     name: Voorburg
     namewodiacritics: Voorburg
     subdiv: ''
-    function: '--3-----'
+    function: 1-3-----
     status: AF
-    date: '9602'
+    date: '1607'
     iata: ''
     coordinates: ''
     remarks: ''
@@ -16780,9 +19756,9 @@
     name: Voorschoten
     namewodiacritics: Voorschoten
     subdiv: ''
-    function: '--3-----'
+    function: 1-3-----
     status: AF
-    date: '9602'
+    date: '1607'
     iata: ''
     coordinates: ''
     remarks: ''
@@ -16972,9 +19948,9 @@
     name: Waalwijk
     namewodiacritics: Waalwijk
     subdiv: ''
-    function: '--3-----'
+    function: 1-3-----
     status: AF
-    date: '9602'
+    date: '1607'
     iata: ''
     coordinates: ''
     remarks: ''
@@ -17040,13 +20016,25 @@
     remarks: ''
 -
     ch: ''
+    locode: 'NL WXN'
+    name: Waaxens
+    namewodiacritics: Waaxens
+    subdiv: FR
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5307N 00533E'
+    remarks: ''
+-
+    ch: ''
     locode: 'NL WAD'
     name: Waddinxveen
     namewodiacritics: Waddinxveen
     subdiv: ''
-    function: '--3-----'
+    function: 1-3-----
     status: AF
-    date: '9602'
+    date: '1607'
     iata: ''
     coordinates: ''
     remarks: ''
@@ -17063,7 +20051,7 @@
     coordinates: '5139N 00444E'
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'NL WGW'
     name: Wageningen
     namewodiacritics: Wageningen
@@ -17073,7 +20061,7 @@
     date: '1307'
     iata: ''
     coordinates: ''
-    remarks: '@Fun'
+    remarks: ''
 -
     ch: ''
     locode: 'NL WHW'
@@ -17212,9 +20200,9 @@
     name: Warmond
     namewodiacritics: Warmond
     subdiv: ''
-    function: '--3-----'
+    function: 1-3-----
     status: AF
-    date: '9602'
+    date: '1607'
     iata: ''
     coordinates: ''
     remarks: ''
@@ -17292,6 +20280,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'NL WHZ'
+    name: Waterhuizen
+    namewodiacritics: Waterhuizen
+    subdiv: GR
+    function: 1-3-----
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '5311N 00639E'
+    remarks: ''
+-
+    ch: ''
     locode: 'NL WAT'
     name: Wateringen
     namewodiacritics: Wateringen
@@ -17301,6 +20301,18 @@
     date: '9602'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'NL WTL'
+    name: Waterland
+    namewodiacritics: Waterland
+    subdiv: NH
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5227N 00502E'
     remarks: ''
 -
     ch: ''
@@ -17332,9 +20344,9 @@
     name: Weert
     namewodiacritics: Weert
     subdiv: ''
-    function: '-23-----'
+    function: 123-----
     status: AF
-    date: '9602'
+    date: '1607'
     iata: ''
     coordinates: ''
     remarks: ''
@@ -17344,9 +20356,9 @@
     name: Weesp
     namewodiacritics: Weesp
     subdiv: ''
-    function: '--3-----'
+    function: 1-3-----
     status: AF
-    date: '9602'
+    date: '1607'
     iata: ''
     coordinates: ''
     remarks: ''
@@ -17544,6 +20556,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'NL WMW'
+    name: 'West Maas en Waal'
+    namewodiacritics: 'West Maas en Waal'
+    subdiv: GE
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5153N 00531E'
+    remarks: ''
+-
+    ch: ''
     locode: 'NL WBS'
     name: Westbeemster
     namewodiacritics: Westbeemster
@@ -17640,6 +20664,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'NL G7R'
+    name: Westerlee
+    namewodiacritics: Westerlee
+    subdiv: GR
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '5309N 00659E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NL WTV'
+    name: Westerveld
+    namewodiacritics: Westerveld
+    subdiv: DR
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5252N 00619E'
+    remarks: ''
+-
+    ch: ''
     locode: 'NL WEV'
     name: Westervoort
     namewodiacritics: Westervoort
@@ -17700,6 +20748,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'NL WET'
+    name: Westland
+    namewodiacritics: Westland
+    subdiv: ZH
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5200N 00413E'
+    remarks: ''
+-
+    ch: ''
     locode: 'NL WEM'
     name: Westmaas
     namewodiacritics: Westmaas
@@ -17712,6 +20772,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'NL WSW'
+    name: Weststellingwerf
+    namewodiacritics: Weststellingwerf
+    subdiv: FR
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5253N 00600E'
+    remarks: ''
+-
+    ch: ''
     locode: 'NL WTE'
     name: West-Terschelling
     namewodiacritics: West-Terschelling
@@ -17721,6 +20793,18 @@
     date: '9602'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'NL WVO'
+    name: Westvoorne
+    namewodiacritics: Westvoorne
+    subdiv: ZH
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5152N 00404E'
     remarks: ''
 -
     ch: ''
@@ -17836,9 +20920,9 @@
     name: Wieringerwerf
     namewodiacritics: Wieringerwerf
     subdiv: ''
-    function: '--3-----'
+    function: 1-3-----
     status: AF
-    date: '9602'
+    date: '1901'
     iata: ''
     coordinates: ''
     remarks: ''
@@ -17868,6 +20952,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'NL I2W'
+    name: Wiesel
+    namewodiacritics: Wiesel
+    subdiv: GE
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5216N 00556E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NL WFR'
+    name: Wieuwerd
+    namewodiacritics: Wieuwerd
+    subdiv: FR
+    function: '-----6--'
+    status: RL
+    date: '2001'
+    iata: ''
+    coordinates: '5307N 00541E'
+    remarks: ''
+-
+    ch: ''
     locode: 'NL WCH'
     name: Wijchen
     namewodiacritics: Wijchen
@@ -17889,6 +20997,18 @@
     date: '9602'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'NL WIM'
+    name: Wijdemeren
+    namewodiacritics: Wijdemeren
+    subdiv: NH
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5212N 00509E'
     remarks: ''
 -
     ch: ''
@@ -17968,9 +21088,9 @@
     name: 'Wijk bij Duurstede'
     namewodiacritics: 'Wijk bij Duurstede'
     subdiv: ''
-    function: '--3-----'
+    function: 1-3-----
     status: AF
-    date: '9602'
+    date: '1607'
     iata: ''
     coordinates: ''
     remarks: ''
@@ -17988,6 +21108,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'NL WND'
+    name: Wijnaldum
+    namewodiacritics: Wijnaldum
+    subdiv: FR
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5312N 00528E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NL WIG'
+    name: Wijnbergen
+    namewodiacritics: Wijnbergen
+    subdiv: GE
+    function: 1----6--
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '5219N 00601E'
+    remarks: ''
+-
+    ch: ''
     locode: 'NL WJW'
     name: Wijnjewoude
     namewodiacritics: Wijnjewoude
@@ -17997,6 +21141,18 @@
     date: '0201'
     iata: ''
     coordinates: '5303N 00611E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NL WJS'
+    name: Wijster
+    namewodiacritics: Wijster
+    subdiv: DR
+    function: '--3-----'
+    status: RL
+    date: '1707'
+    iata: ''
+    coordinates: '5249N 00631E'
     remarks: ''
 -
     ch: ''
@@ -18033,6 +21189,18 @@
     date: '0501'
     iata: ''
     coordinates: '5132N 00354E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NL WHA'
+    name: Wilhelminaoord
+    namewodiacritics: Wilhelminaoord
+    subdiv: DR
+    function: '--3-----'
+    status: RL
+    date: '1707'
+    iata: ''
+    coordinates: '5252N 00610E'
     remarks: ''
 -
     ch: ''
@@ -18088,9 +21256,9 @@
     name: Winschoten
     namewodiacritics: Winschoten
     subdiv: ''
-    function: '--3-----'
+    function: 1-34----
     status: AF
-    date: '9602'
+    date: '1607'
     iata: ''
     coordinates: ''
     remarks: ''
@@ -18132,6 +21300,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'NL WTR'
+    name: Wintelre
+    namewodiacritics: Wintelre
+    subdiv: NB
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5127N 00520E'
+    remarks: ''
+-
+    ch: ''
     locode: 'NL WTW'
     name: Winterswijk
     namewodiacritics: Winterswijk
@@ -18153,6 +21333,30 @@
     date: '1301'
     iata: ''
     coordinates: '5221N 00558E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NL WZE'
+    name: Wissenkerke
+    namewodiacritics: Wissenkerke
+    subdiv: ZE
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5135N 00345E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NL WTH'
+    name: Witharen
+    namewodiacritics: Witharen
+    subdiv: OV
+    function: '--3-----'
+    status: RL
+    date: '2001'
+    iata: ''
+    coordinates: '5234N 00624E'
     remarks: ''
 -
     ch: ''
@@ -18196,9 +21400,9 @@
     name: Woerden
     namewodiacritics: Woerden
     subdiv: ''
-    function: '--3-----'
+    function: 1-3-----
     status: AF
-    date: '9602'
+    date: '1607'
     iata: ''
     coordinates: ''
     remarks: ''
@@ -18225,6 +21429,18 @@
     date: '0901'
     iata: ''
     coordinates: '5200N 00547E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NL WLM'
+    name: Wolsum
+    namewodiacritics: Wolsum
+    subdiv: FR
+    function: '--3-----'
+    status: RL
+    date: '1901'
+    iata: ''
+    coordinates: '5320N 00533E'
     remarks: ''
 -
     ch: ''
@@ -18300,6 +21516,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'NL WOM'
+    name: Wormerland
+    namewodiacritics: Wormerland
+    subdiv: NH
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5230N 00449E'
+    remarks: ''
+-
+    ch: ''
     locode: 'NL WRV'
     name: Wormerveer
     namewodiacritics: Wormerveer
@@ -18309,6 +21537,18 @@
     date: '9602'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'NL WBG'
+    name: Woubrugge
+    namewodiacritics: Woubrugge
+    subdiv: ZH
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '5210N 00438E'
     remarks: ''
 -
     ch: ''
@@ -18376,9 +21616,9 @@
     name: Yerseke
     namewodiacritics: Yerseke
     subdiv: ''
-    function: '--3-----'
+    function: 1-3-----
     status: AF
-    date: '9602'
+    date: '1901'
     iata: ''
     coordinates: ''
     remarks: ''
@@ -18504,6 +21744,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'NL ZDK'
+    name: Zederik
+    namewodiacritics: Zederik
+    subdiv: ZH
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5155N 00500E'
+    remarks: ''
+-
+    ch: ''
     locode: 'NL ZLA'
     name: Zeeland
     namewodiacritics: Zeeland
@@ -18516,13 +21768,25 @@
     remarks: ''
 -
     ch: ''
+    locode: 'NL ZEE'
+    name: Zeevang
+    namewodiacritics: Zeevang
+    subdiv: NH
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5234N 00500E'
+    remarks: ''
+-
+    ch: ''
     locode: 'NL ZEW'
     name: Zeewolde
     namewodiacritics: Zeewolde
     subdiv: FL
-    function: '--3-----'
+    function: 1-3-----
     status: RL
-    date: '0207'
+    date: '1607'
     iata: ''
     coordinates: '5221N 00533E'
     remarks: ''
@@ -18600,18 +21864,6 @@
     remarks: ''
 -
     ch: ''
-    locode: 'NL ZVB'
-    name: Zevenbergen
-    namewodiacritics: Zevenbergen
-    subdiv: NB
-    function: '--3-----'
-    status: AF
-    date: '1301'
-    iata: ''
-    coordinates: '5138N 00435E'
-    remarks: ''
--
-    ch: ''
     locode: 'NL ZVG'
     name: Zevenbergen
     namewodiacritics: Zevenbergen
@@ -18621,6 +21873,18 @@
     date: '1201'
     iata: ''
     coordinates: '5144N 00534E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NL ZVB'
+    name: Zevenbergen
+    namewodiacritics: Zevenbergen
+    subdiv: NB
+    function: '--3-----'
+    status: AF
+    date: '1301'
+    iata: ''
+    coordinates: '5138N 00435E'
     remarks: ''
 -
     ch: ''
@@ -18648,18 +21912,6 @@
     remarks: ''
 -
     ch: ''
-    locode: 'NL ZVH'
-    name: Zevenhuizen
-    namewodiacritics: Zevenhuizen
-    subdiv: GR
-    function: '-----6--'
-    status: RQ
-    date: '0907'
-    iata: ''
-    coordinates: '5307N 00621E'
-    remarks: ''
--
-    ch: ''
     locode: 'NL ZHZ'
     name: Zevenhuizen
     namewodiacritics: Zevenhuizen
@@ -18669,6 +21921,18 @@
     date: '1001'
     iata: ''
     coordinates: '5211N 00433E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NL ZVH'
+    name: Zevenhuizen
+    namewodiacritics: Zevenhuizen
+    subdiv: GR
+    function: '-----6--'
+    status: RQ
+    date: '0907'
+    iata: ''
+    coordinates: '5307N 00621E'
     remarks: ''
 -
     ch: ''
@@ -18851,7 +22115,7 @@
     coordinates: ''
     remarks: ''
 -
-    ch: +
+    ch: ''
     locode: 'NL ZUI'
     name: Zuidhorn
     namewodiacritics: Zuidhorn
@@ -18868,9 +22132,9 @@
     name: Zuidland
     namewodiacritics: Zuidland
     subdiv: ''
-    function: '--3-----'
+    function: 1-3-----
     status: AF
-    date: '9602'
+    date: '1607'
     iata: ''
     coordinates: ''
     remarks: ''
@@ -18897,6 +22161,42 @@
     date: '0907'
     iata: ''
     coordinates: '5231N 00456E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NL ZDP'
+    name: Zuidplas
+    namewodiacritics: Zuidplas
+    subdiv: ZH
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5158N 00437E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NL ZSC'
+    name: Zuid-Scharwoude
+    namewodiacritics: Zuid-Scharwoude
+    subdiv: NH
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5241N 00449E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NL SWF'
+    name: Zuidwest-Friesland/Súdwest-Fryslân
+    namewodiacritics: Zuidwest-Friesland/Sudwest-Fryslan
+    subdiv: FR
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5302N 00540E'
     remarks: ''
 -
     ch: ''
@@ -18964,11 +22264,23 @@
     name: Zutphen
     namewodiacritics: Zutphen
     subdiv: ''
-    function: '-23-----'
+    function: 123-----
     status: AF
-    date: '9602'
+    date: '1607'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'NL ZUU'
+    name: Zuurdijk
+    namewodiacritics: Zuurdijk
+    subdiv: GR
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5320N 00623E'
     remarks: ''
 -
     ch: ''

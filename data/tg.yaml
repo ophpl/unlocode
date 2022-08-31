@@ -12,6 +12,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'TG ADK'
+    name: Adéti-Kopé
+    namewodiacritics: Adeti-Kope
+    subdiv: M
+    function: '-----6--'
+    status: AM
+    date: '2107'
+    iata: ''
+    coordinates: '0621N 00112E'
+    remarks: ''
+-
+    ch: ''
     locode: 'TG ANE'
     name: Aného
     namewodiacritics: Aneho
@@ -21,6 +33,18 @@
     date: '0212'
     iata: ''
     coordinates: '0614N 00136E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TG AKP'
+    name: Atakpamé
+    namewodiacritics: Atakpame
+    subdiv: P
+    function: '--3-----'
+    status: RL
+    date: '1707'
+    iata: ''
+    coordinates: '0732N 00108E'
     remarks: ''
 -
     ch: ''

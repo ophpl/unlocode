@@ -1,26 +1,62 @@
 -
     ch: ''
+    locode: 'MF ASM'
+    name: Anse-Marcel
+    namewodiacritics: Anse-Marcel
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '1806N 06302W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MF GCY'
+    name: Cul-de-Sac
+    namewodiacritics: Cul-de-Sac
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '1901'
+    iata: ''
+    coordinates: '1806N 06302W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MF GES'
+    name: Galisbay
+    namewodiacritics: Galisbay
+    subdiv: ''
+    function: 1-------
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '1804N 06305W'
+    remarks: ''
+-
+    ch: ''
     locode: 'MF CCE'
     name: Grand-Case
     namewodiacritics: Grand-Case
     subdiv: ''
-    function: '--34----'
+    function: '--3-----'
     status: AI
-    date: '1207'
+    date: '1901'
     iata: ''
-    coordinates: '1806N 06303W'
+    coordinates: '1806N 06304W'
     remarks: ''
 -
     ch: ''
     locode: 'MF SFG'
-    name: 'L''Espérance Apt'
-    namewodiacritics: 'L''Esperance Apt'
+    name: 'L''Espérance Apt/St Martin'
+    namewodiacritics: 'L''Esperance Apt/St Martin'
     subdiv: ''
-    function: '---45---'
+    function: '--345---'
     status: AI
-    date: '1301'
+    date: '1901'
     iata: ''
-    coordinates: '1806N 06302W'
+    coordinates: '1806N 06303W'
     remarks: ''
 -
     ch: ''
@@ -30,7 +66,19 @@
     subdiv: ''
     function: 1-------
     status: RL
-    date: '1107'
+    date: '1901'
     iata: ''
-    coordinates: '1804N 06304W'
+    coordinates: '1804N 06305W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MF BOG'
+    name: 'Quartier d''Orléans'
+    namewodiacritics: 'Quartier d''Orleans'
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '1901'
+    iata: ''
+    coordinates: '1805N 06301W'
     remarks: ''

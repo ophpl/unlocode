@@ -1,5 +1,17 @@
 -
     ch: ''
+    locode: 'GN BEL'
+    name: Bel-Air
+    namewodiacritics: Bel-Air
+    subdiv: BF
+    function: 1-3-----
+    status: AM
+    date: '2101'
+    iata: ''
+    coordinates: '1014N 01428W'
+    remarks: ''
+-
+    ch: ''
     locode: 'GN BTY'
     name: Benty
     namewodiacritics: Benty
@@ -9,6 +21,30 @@
     date: '8103'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'GN BEY'
+    name: Beyla
+    namewodiacritics: Beyla
+    subdiv: BE
+    function: '--3-----'
+    status: AM
+    date: '2101'
+    iata: ''
+    coordinates: '0841N 00838W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GN BFA'
+    name: Boffa
+    namewodiacritics: Boffa
+    subdiv: BF
+    function: 1-3-----
+    status: AM
+    date: '2101'
+    iata: ''
+    coordinates: '1011N 01402W'
     remarks: ''
 -
     ch: ''
@@ -48,6 +84,78 @@
     remarks: ''
 -
     ch: ''
+    locode: 'GN COY'
+    name: Coyah
+    namewodiacritics: Coyah
+    subdiv: CO
+    function: '--3-----'
+    status: AM
+    date: '2101'
+    iata: ''
+    coordinates: '0942N 01321W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GN DAB'
+    name: Dabola
+    namewodiacritics: Dabola
+    subdiv: DB
+    function: '--3-----'
+    status: AM
+    date: '2101'
+    iata: ''
+    coordinates: '1044N 01107W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GN DPL'
+    name: Dapilon
+    namewodiacritics: Dapilon
+    subdiv: BK
+    function: 1-3-----
+    status: AM
+    date: '2101'
+    iata: ''
+    coordinates: '1051N 01430W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GN DIN'
+    name: Dinguiraye
+    namewodiacritics: Dinguiraye
+    subdiv: DI
+    function: '--3-----'
+    status: AM
+    date: '2101'
+    iata: ''
+    coordinates: '1117N 01043W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GN PMT'
+    name: Dougoula
+    namewodiacritics: Dougoula
+    subdiv: BK
+    function: 123-----
+    status: AM
+    date: '2007'
+    iata: ''
+    coordinates: '1045N 01433W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GN DKA'
+    name: Dubreka
+    namewodiacritics: Dubreka
+    subdiv: DU
+    function: 1-3-----
+    status: AM
+    date: '2101'
+    iata: ''
+    coordinates: '0947N 01330W'
+    remarks: ''
+-
+    ch: ''
     locode: 'GN FAA'
     name: Faranah
     namewodiacritics: Faranah
@@ -57,6 +165,30 @@
     date: '0001'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'GN FRM'
+    name: Farmoreya
+    namewodiacritics: Farmoreya
+    subdiv: FO
+    function: '--3-----'
+    status: AM
+    date: '2101'
+    iata: ''
+    coordinates: '0916N 01302W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GN FOR'
+    name: Forecariah
+    namewodiacritics: Forecariah
+    subdiv: FO
+    function: '--3-----'
+    status: AM
+    date: '2101'
+    iata: ''
+    coordinates: '0926N 01305W'
     remarks: ''
 -
     ch: ''
@@ -72,6 +204,54 @@
     remarks: ''
 -
     ch: ''
+    locode: 'GN GAO'
+    name: Gaoual
+    namewodiacritics: Gaoual
+    subdiv: GA
+    function: '--3-----'
+    status: AM
+    date: '2101'
+    iata: ''
+    coordinates: '1145N 01312W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GN GUE'
+    name: Gueckedou
+    namewodiacritics: Gueckedou
+    subdiv: GU
+    function: '--3-----'
+    status: AM
+    date: '2101'
+    iata: ''
+    coordinates: '8034N 01008W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GN KGB'
+    name: Kagbélen
+    namewodiacritics: Kagbelen
+    subdiv: DU
+    function: '--3-----'
+    status: AM
+    date: '2101'
+    iata: ''
+    coordinates: '0943N 01331W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GN KMC'
+    name: Kamsar
+    namewodiacritics: Kamsar
+    subdiv: BK
+    function: 1234-6--
+    status: AM
+    date: '2101'
+    iata: ''
+    coordinates: '1040N 01435W'
+    remarks: ''
+-
+    ch: ''
     locode: 'GN KNN'
     name: Kankan
     namewodiacritics: Kankan
@@ -83,7 +263,43 @@
     coordinates: ''
     remarks: ''
 -
-    ch: +
+    ch: ''
+    locode: 'GN KTG'
+    name: Katougouma
+    namewodiacritics: Katougouma
+    subdiv: BK
+    function: 1-3-----
+    status: AM
+    date: '2101'
+    iata: ''
+    coordinates: '0003N 01427W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GN KER'
+    name: Kerouane
+    namewodiacritics: Kerouane
+    subdiv: KE
+    function: '--3-----'
+    status: AM
+    date: '2101'
+    iata: ''
+    coordinates: '0916N 00901W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GN KDA'
+    name: Kindia
+    namewodiacritics: Kindia
+    subdiv: KD
+    function: '-23-----'
+    status: AM
+    date: '2101'
+    iata: ''
+    coordinates: '1003N 01251W'
+    remarks: ''
+-
+    ch: ''
     locode: 'GN KIN'
     name: Kiniéro
     namewodiacritics: Kiniero
@@ -108,6 +324,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'GN KOU'
+    name: Koubia
+    namewodiacritics: Koubia
+    subdiv: KB
+    function: '--3-----'
+    status: AM
+    date: '2101'
+    iata: ''
+    coordinates: '1004N 01338W'
+    remarks: ''
+-
+    ch: ''
     locode: 'GN SBI'
     name: Koundara
     namewodiacritics: Koundara
@@ -117,6 +345,18 @@
     date: '0001'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'GN KRS'
+    name: Kouroussa
+    namewodiacritics: Kouroussa
+    subdiv: KO
+    function: '--3-----'
+    status: AM
+    date: '2101'
+    iata: ''
+    coordinates: '1039N 00953W'
     remarks: ''
 -
     ch: ''
@@ -132,15 +372,75 @@
     remarks: ''
 -
     ch: ''
+    locode: 'GN LEL'
+    name: Lélouma
+    namewodiacritics: Lelouma
+    subdiv: LE
+    function: '--3-----'
+    status: AM
+    date: '2101'
+    iata: ''
+    coordinates: '1126N 01241W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GN LOL'
+    name: Lola
+    namewodiacritics: Lola
+    subdiv: LO
+    function: '--3-----'
+    status: AM
+    date: '2101'
+    iata: ''
+    coordinates: '0748N 00832W'
+    remarks: ''
+-
+    ch: ''
     locode: 'GN MCA'
     name: Macenta
     namewodiacritics: Macenta
     subdiv: ''
     function: '---4----'
     status: AI
-    date: '0001'
+    date: '2101'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'GN MLI'
+    name: Mali
+    namewodiacritics: Mali
+    subdiv: ML
+    function: '--3-----'
+    status: AM
+    date: '2101'
+    iata: ''
+    coordinates: '1203N 01218W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GN MMO'
+    name: Mamou
+    namewodiacritics: Mamou
+    subdiv: MM
+    function: '--3-----'
+    status: AM
+    date: '2101'
+    iata: ''
+    coordinates: '1022N 01205W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GN MDN'
+    name: Mandiana
+    namewodiacritics: Mandiana
+    subdiv: MD
+    function: '--3-----'
+    status: AM
+    date: '2101'
+    iata: ''
+    coordinates: '1038N 00842W'
     remarks: ''
 -
     ch: ''
@@ -168,6 +468,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'GN PIT'
+    name: Pita
+    namewodiacritics: Pita
+    subdiv: PI
+    function: '--3-----'
+    status: AM
+    date: '2101'
+    iata: ''
+    coordinates: '1103N 01224W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GN BRP'
+    name: 'Port de Boké'
+    namewodiacritics: 'Port de Boke'
+    subdiv: BK
+    function: 1-------
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '1031N 01443W'
+    remarks: ''
+-
+    ch: ''
     locode: 'GN KMR'
     name: Port-Kamsar
     namewodiacritics: Port-Kamsar
@@ -180,6 +504,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'GN SBL'
+    name: Sambailo
+    namewodiacritics: Sambailo
+    subdiv: KN
+    function: '--34----'
+    status: AM
+    date: '2101'
+    iata: ''
+    coordinates: '1235N 01322W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GN SGD'
+    name: Sangarédi
+    namewodiacritics: Sangaredi
+    subdiv: BK
+    function: '-23--6--'
+    status: AM
+    date: '2101'
+    iata: ''
+    coordinates: '1106N 01349W'
+    remarks: ''
+-
+    ch: ''
     locode: 'GN GII'
     name: Siguiri
     namewodiacritics: Siguiri
@@ -189,4 +537,40 @@
     date: '0001'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'GN TEL'
+    name: Télimélé
+    namewodiacritics: Telimele
+    subdiv: TE
+    function: '--3-----'
+    status: AM
+    date: '2101'
+    iata: ''
+    coordinates: '1054N 01302W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GN TOU'
+    name: Tougué
+    namewodiacritics: Tougue
+    subdiv: TO
+    function: '--3-----'
+    status: AM
+    date: '2101'
+    iata: ''
+    coordinates: '1127N 01140W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GN YOM'
+    name: Yomou
+    namewodiacritics: Yomou
+    subdiv: YO
+    function: '--3-----'
+    status: AM
+    date: '2101'
+    iata: ''
+    coordinates: '0734N 00916W'
     remarks: ''

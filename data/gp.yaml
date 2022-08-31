@@ -1,14 +1,38 @@
 -
+    ch: +
+    locode: 'GP FPI'
+    name: Anse-Bertrand
+    namewodiacritics: Anse-Bertrand
+    subdiv: ''
+    function: 1-3-----
+    status: AA
+    date: '2201'
+    iata: ''
+    coordinates: '1628N 06131W'
+    remarks: ''
+-
     ch: ''
     locode: 'GP BMH'
     name: Baie-Mahault
     namewodiacritics: Baie-Mahault
     subdiv: ''
     function: 1-3-----
-    status: RL
-    date: '1001'
+    status: AA
+    date: '1901'
     iata: ''
     coordinates: '1616N 06135W'
+    remarks: ''
+-
+    ch: +
+    locode: 'GP AIF'
+    name: Baillif
+    namewodiacritics: Baillif
+    subdiv: ''
+    function: 1-3-----
+    status: AA
+    date: '2201'
+    iata: ''
+    coordinates: '1602N 06144W'
     remarks: ''
 -
     ch: ''
@@ -18,9 +42,21 @@
     subdiv: ''
     function: 1--45---
     status: AI
-    date: '0212'
+    date: '2101'
     iata: ''
     coordinates: '1600N 06143W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GP BOU'
+    name: Bouillante
+    namewodiacritics: Bouillante
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '1901'
+    iata: ''
+    coordinates: '1608N 06146W'
     remarks: ''
 -
     ch: ''
@@ -36,6 +72,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'GP DHR'
+    name: Deshaies
+    namewodiacritics: Deshaies
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '1901'
+    iata: ''
+    coordinates: '1618N 06147W'
+    remarks: ''
+-
+    ch: ''
     locode: 'GP FAE'
     name: Folle-Anse
     namewodiacritics: Folle-Anse
@@ -46,6 +94,30 @@
     iata: ''
     coordinates: '1557N 06120W'
     remarks: ''
+-
+    ch: ''
+    locode: 'GP GOU'
+    name: Gourbeyre
+    namewodiacritics: Gourbeyre
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '1901'
+    iata: ''
+    coordinates: '1600N 06142W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GP GOY'
+    name: Goyave
+    namewodiacritics: Goyave
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '1901'
+    iata: ''
+    coordinates: '1608N 06134W'
+    remarks: 'Formerly FRGOY'
 -
     ch: ''
     locode: 'GP GRB'
@@ -66,9 +138,9 @@
     subdiv: ''
     function: 1-------
     status: AI
-    date: '0002'
+    date: '1901'
     iata: ''
-    coordinates: ''
+    coordinates: '1614N 06133W'
     remarks: ''
 -
     ch: ''
@@ -78,9 +150,9 @@
     subdiv: ''
     function: '---4----'
     status: AI
-    date: '0212'
+    date: '1901'
     iata: ''
-    coordinates: '1619N 06102W'
+    coordinates: '1618N 06105W'
     remarks: ''
 -
     ch: ''
@@ -93,6 +165,18 @@
     date: '1101'
     iata: ''
     coordinates: '1616N 06137W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GP GOS'
+    name: 'Le Gosier'
+    namewodiacritics: 'Le Gosier'
+    subdiv: ''
+    function: 1-3-----
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '1612N 06129W'
     remarks: ''
 -
     ch: ''
@@ -114,9 +198,9 @@
     subdiv: ''
     function: '-----6--'
     status: RL
-    date: '1201'
+    date: '1901'
     iata: ''
-    coordinates: '1615N 06130W'
+    coordinates: '1617N 06130W'
     remarks: ''
 -
     ch: ''
@@ -126,9 +210,9 @@
     subdiv: ''
     function: '---4----'
     status: AI
-    date: '0212'
+    date: '1901'
     iata: ''
-    coordinates: '1556N 06116W'
+    coordinates: '1552N 06116W'
     remarks: ''
 -
     ch: ''
@@ -136,23 +220,59 @@
     name: Marigot
     namewodiacritics: Marigot
     subdiv: ''
-    function: '--34----'
+    function: 1-34----
     status: AI
-    date: '0307'
+    date: '1901'
     iata: ''
     coordinates: '1804N 06305W'
     remarks: ''
 -
     ch: ''
+    locode: 'GP PBG'
+    name: Petit-Bourg
+    namewodiacritics: Petit-Bourg
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '1901'
+    iata: ''
+    coordinates: '1611N 06135W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GP PTC'
+    name: Petit-Canal
+    namewodiacritics: Petit-Canal
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '1623N 06129W'
+    remarks: ''
+-
+    ch: ''
     locode: 'GP PTP'
+    name: 'Point-à-Pitre Apt'
+    namewodiacritics: 'Point-a-Pitre Apt'
+    subdiv: ''
+    function: 1-345---
+    status: AF
+    date: '2101'
+    iata: ''
+    coordinates: '1616N 06131W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GP PAP'
     name: Pointe-à-Pitre
     namewodiacritics: Pointe-a-Pitre
     subdiv: ''
-    function: 1--45---
-    status: AF
-    date: '9506'
+    function: '--3-----'
+    status: AA
+    date: '1907'
     iata: ''
-    coordinates: ''
+    coordinates: '1614N 06131W'
     remarks: ''
 -
     ch: ''
@@ -180,30 +300,6 @@
     remarks: ''
 -
     ch: ''
-    locode: 'GP SBH'
-    name: 'Saint Barthelemy'
-    namewodiacritics: 'Saint Barthelemy'
-    subdiv: ''
-    function: 1--45---
-    status: AI
-    date: '1101'
-    iata: ''
-    coordinates: ''
-    remarks: ''
--
-    ch: ''
-    locode: 'GP SFG'
-    name: 'Saint Martin Apt'
-    namewodiacritics: 'Saint Martin Apt'
-    subdiv: ''
-    function: '--34----'
-    status: AI
-    date: '0401'
-    iata: ''
-    coordinates: ''
-    remarks: ''
--
-    ch: ''
     locode: 'GP SCL'
     name: Saint-Claude
     namewodiacritics: Saint-Claude
@@ -216,13 +312,37 @@
     remarks: ''
 -
     ch: ''
+    locode: 'GP STA'
+    name: Sainte-Anne
+    namewodiacritics: Sainte-Anne
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '1901'
+    iata: ''
+    coordinates: '1614N 06122W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GP STR'
+    name: Sainte-Rose
+    namewodiacritics: Sainte-Rose
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '1901'
+    iata: ''
+    coordinates: '1620N 06141W'
+    remarks: ''
+-
+    ch: ''
     locode: 'GP SFC'
     name: Saint-François
     namewodiacritics: Saint-Francois
     subdiv: ''
-    function: 1-34----
+    function: 1-3-----
     status: RL
-    date: '1101'
+    date: '1901'
     iata: ''
     coordinates: '1615N 06116W'
     remarks: ''
@@ -234,9 +354,9 @@
     subdiv: ''
     function: '---4----'
     status: AI
-    date: '0001'
+    date: '1901'
     iata: ''
-    coordinates: ''
+    coordinates: '1551N 06138W'
     remarks: ''
 -
     ch: ''
@@ -246,9 +366,9 @@
     subdiv: ''
     function: '---4----'
     status: AI
-    date: '9601'
+    date: '1901'
     iata: ''
-    coordinates: ''
+    coordinates: '1552N 06135W'
     remarks: ''
 -
     ch: ''

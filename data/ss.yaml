@@ -1,168 +1,216 @@
 -
-    ch: ¦
+    ch: ''
     locode: 'SS AWE'
     name: Aweil
     namewodiacritics: Aweil
-    subdiv: ''
+    subdiv: BN
     function: '--3-----'
     status: RL
     date: '1307'
     iata: ''
     coordinates: '0846N 02723E'
-    remarks: '@Sub'
+    remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'SS BEN'
     name: 'Bentiu Town'
     namewodiacritics: 'Bentiu Town'
-    subdiv: ''
+    subdiv: UY
     function: '--3-----'
     status: RL
     date: '1307'
     iata: ''
     coordinates: '0916N 02947E'
-    remarks: '@Sub'
+    remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'SS BOM'
     name: Boma
     namewodiacritics: Boma
-    subdiv: ''
+    subdiv: JG
     function: '--3-----'
     status: RL
     date: '1307'
     iata: ''
     coordinates: '0610N 03428E'
-    remarks: '@Sub'
+    remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'SS BOR'
     name: Bor
     namewodiacritics: Bor
-    subdiv: ''
+    subdiv: JG
     function: '--3-----'
     status: RL
     date: '1307'
     iata: ''
     coordinates: '0740N 03338E'
-    remarks: '@Sub'
+    remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'SS JUB'
     name: Juba
     namewodiacritics: Juba
-    subdiv: ''
+    subdiv: EC
     function: '--34----'
     status: AI
     date: '1307'
     iata: ''
     coordinates: '0451N 03137E'
-    remarks: '@Sub'
+    remarks: ''
 -
-    ch: ¦
+    ch: ''
+    locode: 'SS KAJ'
+    name: 'Kajo Keji'
+    namewodiacritics: 'Kajo Keji'
+    subdiv: EC
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '0350N 03139E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SS KYA'
+    name: Kaya
+    namewodiacritics: Kaya
+    subdiv: EC
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '0333N 03052E'
+    remarks: ''
+-
+    ch: ''
     locode: 'SS MAK'
     name: Malakal
     namewodiacritics: Malakal
-    subdiv: ''
+    subdiv: NU
     function: '--34----'
     status: AI
     date: '1307'
     iata: ''
     coordinates: '0932N 03139E'
-    remarks: '@Sub'
+    remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'SS NIM'
     name: Nimule
     namewodiacritics: Nimule
-    subdiv: ''
+    subdiv: EE
     function: '--3-----'
     status: RL
     date: '1307'
     iata: ''
     coordinates: '0336N 03203E'
-    remarks: '@Sub'
+    remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'SS RAG'
     name: Raga
     namewodiacritics: Raga
-    subdiv: ''
+    subdiv: BW
     function: '--3-----'
     status: RL
     date: '1307'
     iata: ''
     coordinates: '0827N 02540E'
-    remarks: '@Sub'
+    remarks: ''
 -
-    ch: ¦
+    ch: ''
+    locode: 'SS RBK'
+    name: Rumbek
+    namewodiacritics: Rumbek
+    subdiv: LK
+    function: '--3-----'
+    status: RL
+    date: '2001'
+    iata: ''
+    coordinates: '0648N 02942E'
+    remarks: ''
+-
+    ch: ''
     locode: 'SS RUM'
     name: Rumbek
     namewodiacritics: Rumbek
-    subdiv: ''
+    subdiv: LK
     function: '--3-----'
     status: RL
     date: '1307'
     iata: ''
     coordinates: '0648N 02941E'
-    remarks: '@Sub'
+    remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'SS TON'
     name: Tonj
     namewodiacritics: Tonj
-    subdiv: ''
+    subdiv: WR
     function: '--3-----'
     status: RL
     date: '1307'
     iata: ''
     coordinates: '0716N 02845E'
-    remarks: '@Sub'
+    remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'SS TOR'
     name: Torit
     namewodiacritics: Torit
-    subdiv: ''
+    subdiv: EE
     function: '--3-----'
     status: RL
     date: '1307'
     iata: ''
     coordinates: '0424N 03234E'
-    remarks: '@Sub'
+    remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'SS WAP'
     name: Warrap
     namewodiacritics: Warrap
-    subdiv: ''
+    subdiv: WR
     function: '--3-----'
     status: RL
     date: '1307'
     iata: ''
     coordinates: '0800N 02851E'
-    remarks: '@Sub'
+    remarks: ''
 -
-    ch: ¦
-    locode: 'SS WAU'
+    ch: ''
+    locode: 'SS WUU'
     name: Wau
     namewodiacritics: Wau
-    subdiv: ''
-    function: '--3-----'
+    subdiv: BW
+    function: '--34----'
     status: RL
-    date: '1307'
+    date: '2101'
     iata: ''
-    coordinates: '0805N 02800E'
-    remarks: '@Sub'
+    coordinates: '0742N 02800E'
+    remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'SS YAM'
     name: Yambio
     namewodiacritics: Yambio
-    subdiv: ''
+    subdiv: EW
     function: '--3-----'
     status: RL
     date: '1307'
     iata: ''
     coordinates: '0434N 02823E'
-    remarks: '@Sub'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SS YID'
+    name: Yida
+    namewodiacritics: Yida
+    subdiv: UY
+    function: '--34----'
+    status: AM
+    date: '2107'
+    iata: ''
+    coordinates: '1006N 03005E'
+    remarks: ''

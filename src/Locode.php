@@ -13,7 +13,6 @@ use UN\Locode\Reader\YamlReader;
  */
 class Locode implements LocodeInterface
 {
-
     /**
      * @var string $path path to data folder
      */
@@ -49,7 +48,11 @@ class Locode implements LocodeInterface
     {
         $list = $this->reader->read($this->path, $country);
 
-        foreach($list as $key => $entry) {
+        if ($list === null) {
+            return null;
+        }
+
+        foreach ($list as $key => $entry) {
             $list[$key] = new Location($entry);
         }
 
@@ -97,5 +100,4 @@ class Locode implements LocodeInterface
 
         return $this->getByCountryAndCode($country, $code);
     }
-
 }

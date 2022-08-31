@@ -36,6 +36,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'PT AA4'
+    name: Abraã
+    namewodiacritics: Abraa
+    subdiv: '14'
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '3925N 00847W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PT AGO'
+    name: Abragão
+    namewodiacritics: Abragao
+    subdiv: '13'
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '4109N 00813W'
+    remarks: ''
+-
+    ch: ''
     locode: 'PT ABT'
     name: Abrantes
     namewodiacritics: Abrantes
@@ -72,18 +96,6 @@
     remarks: ''
 -
     ch: ''
-    locode: 'PT ABR'
-    name: Abrunheira
-    namewodiacritics: Abrunheira
-    subdiv: '06'
-    function: '--3-----'
-    status: RL
-    date: '0401'
-    iata: ''
-    coordinates: '4007N 00843W'
-    remarks: ''
--
-    ch: ''
     locode: 'PT AHA'
     name: Abrunheira
     namewodiacritics: Abrunheira
@@ -96,6 +108,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'PT ABR'
+    name: Abrunheira
+    namewodiacritics: Abrunheira
+    subdiv: '06'
+    function: '--3-----'
+    status: RL
+    date: '0401'
+    iata: ''
+    coordinates: '4007N 00843W'
+    remarks: ''
+-
+    ch: ''
     locode: 'PT ASD'
     name: Adães
     namewodiacritics: Adaes
@@ -105,6 +129,30 @@
     date: '0401'
     iata: ''
     coordinates: '4131N 00834W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PT B4R'
+    name: Adaufe
+    namewodiacritics: Adaufe
+    subdiv: '03'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4135N 00824W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PT ADF'
+    name: Adaúfe
+    namewodiacritics: Adaufe
+    subdiv: '03'
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '4135N 00824W'
     remarks: ''
 -
     ch: ''
@@ -201,6 +249,18 @@
     date: '1201'
     iata: ''
     coordinates: '4137N 00820W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PT AGC'
+    name: Aguçadoura
+    namewodiacritics: Agucadoura
+    subdiv: '13'
+    function: '--3-----'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '4126N 00847W'
     remarks: ''
 -
     ch: ''
@@ -407,7 +467,7 @@
     coordinates: '3927N 00840W'
     remarks: ''
 -
-    ch: +
+    ch: ''
     locode: 'PT ATH'
     name: Alcantarilha
     namewodiacritics: Alcantarilha
@@ -525,6 +585,18 @@
     date: '0401'
     iata: ''
     coordinates: '4120N 00658W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PT AFZ'
+    name: Alfeizerão
+    namewodiacritics: Alfeizerao
+    subdiv: '10'
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '3930N 00906W'
     remarks: ''
 -
     ch: ''
@@ -912,6 +984,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'PT AVA'
+    name: Alvorninha
+    namewodiacritics: Alvorninha
+    subdiv: '11'
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '3923N 00902W'
+    remarks: ''
+-
+    ch: ''
     locode: 'PT AMA'
     name: Amadora
     namewodiacritics: Amadora
@@ -972,6 +1056,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'PT AMB'
+    name: 'Amiais de Baixo'
+    namewodiacritics: 'Amiais de Baixo'
+    subdiv: '14'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3927N 00844W'
+    remarks: ''
+-
+    ch: ''
     locode: 'PT AME'
     name: Amieirinha
     namewodiacritics: Amieirinha
@@ -993,6 +1089,18 @@
     date: '0401'
     iata: ''
     coordinates: '3837N 00907W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PT ADG'
+    name: 'Amoreira da Gândara'
+    namewodiacritics: 'Amoreira da Gandara'
+    subdiv: '01'
+    function: 1----6--
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '4029N 00832W'
     remarks: ''
 -
     ch: ''
@@ -1029,6 +1137,18 @@
     date: '0901'
     iata: ''
     coordinates: '4142N 00831W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PT AC6'
+    name: Ançã
+    namewodiacritics: Anca
+    subdiv: '06'
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '4016N 00831W'
     remarks: ''
 -
     ch: ''
@@ -1079,7 +1199,19 @@
     coordinates: '3955N 00826W'
     remarks: ''
 -
-    ch: +
+    ch: ''
+    locode: 'PT AAR'
+    name: Arada
+    namewodiacritics: Arada
+    subdiv: '01'
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '4055N 00836W'
+    remarks: ''
+-
+    ch: ''
     locode: 'PT AZD'
     name: Arazede
     namewodiacritics: Arazede
@@ -1092,6 +1224,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'PT ACS'
+    name: Arcos
+    namewodiacritics: Arcos
+    subdiv: '16'
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '4145N 00840W'
+    remarks: ''
+-
+    ch: ''
     locode: 'PT AVV'
     name: 'Arcos de Valdevez'
     namewodiacritics: 'Arcos de Valdevez'
@@ -1101,6 +1245,18 @@
     date: '0401'
     iata: ''
     coordinates: '4151N 00825W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PT AOR'
+    name: Arcossó
+    namewodiacritics: Arcosso
+    subdiv: '17'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4139N 00736W'
     remarks: ''
 -
     ch: ''
@@ -1149,6 +1305,18 @@
     date: '0401'
     iata: ''
     coordinates: '4013N 00803W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PT GER'
+    name: Argeriz
+    namewodiacritics: Argeriz
+    subdiv: '17'
+    function: 1-3-----
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '4135N 00723W'
     remarks: ''
 -
     ch: ''
@@ -1248,18 +1416,6 @@
     remarks: ''
 -
     ch: ''
-    locode: 'PT AFN'
-    name: Arrifana
-    namewodiacritics: Arrifana
-    subdiv: '01'
-    function: '--3-----'
-    status: RL
-    date: '1301'
-    iata: ''
-    coordinates: '4055N 00830W'
-    remarks: ''
--
-    ch: ''
     locode: 'PT ARF'
     name: Arrifana
     namewodiacritics: Arrifana
@@ -1269,6 +1425,18 @@
     date: '0601'
     iata: ''
     coordinates: '4013N 00816W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PT AFN'
+    name: Arrifana
+    namewodiacritics: Arrifana
+    subdiv: '01'
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '4055N 00830W'
     remarks: ''
 -
     ch: ''
@@ -1293,6 +1461,18 @@
     date: '0401'
     iata: ''
     coordinates: '3859N 00905W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PT RVR'
+    name: Árvore
+    namewodiacritics: Arvore
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '1707'
+    iata: ''
+    coordinates: '4120N 00843W'
     remarks: ''
 -
     ch: ''
@@ -1329,6 +1509,18 @@
     date: '0401'
     iata: ''
     coordinates: '4048N 00834W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PT AVB'
+    name: 'Aveiras De Baixo'
+    namewodiacritics: 'Aveiras De Baixo'
+    subdiv: '11'
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '3907N 00852W'
     remarks: ''
 -
     ch: ''
@@ -1485,6 +1677,18 @@
     date: '1201'
     iata: ''
     coordinates: '3850N 00927W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PT AZU'
+    name: Azueira
+    namewodiacritics: Azueira
+    subdiv: '11'
+    function: '--3-----'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '3900N 00917W'
     remarks: ''
 -
     ch: ''
@@ -1656,6 +1860,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'PT BEC'
+    name: Beça
+    namewodiacritics: Beca
+    subdiv: '17'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4142N 00742W'
+    remarks: ''
+-
+    ch: ''
     locode: 'PT BEI'
     name: Beijos
     namewodiacritics: Beijos
@@ -1689,6 +1905,18 @@
     date: '0401'
     iata: ''
     coordinates: '3801N 00752W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PT BEL'
+    name: 'Bela Salema'
+    namewodiacritics: 'Bela Salema'
+    subdiv: '08'
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '3704N 00756W'
     remarks: ''
 -
     ch: ''
@@ -1776,6 +2004,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'PT BDM'
+    name: 'Benfica do Ribatejo'
+    namewodiacritics: 'Benfica do Ribatejo'
+    subdiv: '14'
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '3909N 00841W'
+    remarks: ''
+-
+    ch: ''
     locode: 'PT BBL'
     name: Bobadela
     namewodiacritics: Bobadela
@@ -1797,6 +2037,18 @@
     date: '1207'
     iata: ''
     coordinates: '4116N 00817W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PT BOL'
+    name: Boliqueime
+    namewodiacritics: Boliqueime
+    subdiv: '08'
+    function: '-23-----'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '3707N 00809W'
     remarks: ''
 -
     ch: ''
@@ -1833,6 +2085,18 @@
     date: '0401'
     iata: ''
     coordinates: '4141N 00740W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PT BOC'
+    name: Bouça
+    namewodiacritics: Bouca
+    subdiv: '17'
+    function: 1-3-----
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '4139N 00713W'
     remarks: ''
 -
     ch: ''
@@ -1917,6 +2181,18 @@
     date: '1201'
     iata: ''
     coordinates: '4030N 00836W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PT CBV'
+    name: 'Cabanas de Tavira'
+    namewodiacritics: 'Cabanas de Tavira'
+    subdiv: '08'
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '3708N 00735W'
     remarks: ''
 -
     ch: ''
@@ -2061,6 +2337,18 @@
     date: '0401'
     iata: ''
     coordinates: '4123N 00819W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PT CDA'
+    name: 'Caldas do Moledo'
+    namewodiacritics: 'Caldas do Moledo'
+    subdiv: '13'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4109N 00750W'
     remarks: ''
 -
     ch: ''
@@ -2352,6 +2640,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'PT CPH'
+    name: Carapelhos
+    namewodiacritics: Carapelhos
+    subdiv: '06'
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '4026N 00841W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PT CRH'
+    name: Carapinha
+    namewodiacritics: Carapinha
+    subdiv: '06'
+    function: '--3-----'
+    status: AM
+    date: '2007'
+    iata: ''
+    coordinates: '4017N 00806W'
+    remarks: ''
+-
+    ch: ''
     locode: 'PT CCS'
     name: Carcavelos
     namewodiacritics: Carcavelos
@@ -2460,6 +2772,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'PT CGO'
+    name: Carregosa
+    namewodiacritics: Carregosa
+    subdiv: '01'
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '4053N 00825W'
+    remarks: ''
+-
+    ch: ''
     locode: 'PT CGS'
     name: Carregosa
     namewodiacritics: Carregosa
@@ -2508,6 +2832,42 @@
     remarks: ''
 -
     ch: ''
+    locode: 'PT CR2'
+    name: Carvalhosa
+    namewodiacritics: Carvalhosa
+    subdiv: '13'
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '4118N 00822W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PT CVA'
+    name: Carvoeira
+    namewodiacritics: Carvoeira
+    subdiv: '11'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3905N 00910W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PT CAO'
+    name: Carvoeiro
+    namewodiacritics: Carvoeiro
+    subdiv: '08'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3706N 00828W'
+    remarks: ''
+-
+    ch: ''
     locode: 'PT CRB'
     name: 'Casa Branca'
     namewodiacritics: 'Casa Branca'
@@ -2529,6 +2889,18 @@
     date: '1301'
     iata: ''
     coordinates: '4022N 00828W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PT CCM'
+    name: 'Casal De Cima'
+    namewodiacritics: 'Casal De Cima'
+    subdiv: '18'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4042N 00742W'
     remarks: ''
 -
     ch: ''
@@ -2567,7 +2939,7 @@
     coordinates: ''
     remarks: ''
 -
-    ch: +
+    ch: ''
     locode: 'PT CV5'
     name: 'Casal Velho'
     namewodiacritics: 'Casal Velho'
@@ -2625,6 +2997,18 @@
     date: '0401'
     iata: ''
     coordinates: '3949N 00730W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PT CMA'
+    name: 'Castêlo da Maia'
+    namewodiacritics: 'Castelo da Maia'
+    subdiv: '13'
+    function: '-23-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '4115N 00837W'
     remarks: ''
 -
     ch: ''
@@ -2796,6 +3180,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'PT CDB'
+    name: 'Cernache do Bonjardim'
+    namewodiacritics: 'Cernache do Bonjardim'
+    subdiv: '05'
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '3948N 00811W'
+    remarks: ''
+-
+    ch: ''
     locode: 'PT CSR'
     name: César
     namewodiacritics: Cesar
@@ -2964,6 +3360,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'PT CMP'
+    name: Comporta
+    namewodiacritics: Comporta
+    subdiv: '15'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3823N 00847W'
+    remarks: ''
+-
+    ch: ''
     locode: 'PT CAN'
     name: 'Condeixa a Nova'
     namewodiacritics: 'Condeixa a Nova'
@@ -3000,6 +3408,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'PT CTL'
+    name: Corotelo
+    namewodiacritics: Corotelo
+    subdiv: '08'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '3708N 00756W'
+    remarks: ''
+-
+    ch: ''
     locode: 'PT CRS'
     name: Corroios
     namewodiacritics: Corroios
@@ -3033,6 +3453,18 @@
     date: '0901'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PT CO5'
+    name: Cortes
+    namewodiacritics: Cortes
+    subdiv: '16'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4204N 00831W'
     remarks: ''
 -
     ch: ''
@@ -3081,6 +3513,18 @@
     date: '0401'
     iata: ''
     coordinates: '3840N 00909W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PT CDD'
+    name: 'Covas do Douro'
+    namewodiacritics: 'Covas do Douro'
+    subdiv: '17'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4111N 00736W'
     remarks: ''
 -
     ch: ''
@@ -3192,6 +3636,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'PT DNM'
+    name: Donim
+    namewodiacritics: Donim
+    subdiv: '03'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4132N 00818W'
+    remarks: ''
+-
+    ch: ''
     locode: 'PT DOU'
     name: Douro
     namewodiacritics: Douro
@@ -3201,6 +3657,18 @@
     date: '1201'
     iata: ''
     coordinates: '3953N 00816W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PT EIX'
+    name: Eixo
+    namewodiacritics: Eixo
+    subdiv: '01'
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '4037N 00834W'
     remarks: ''
 -
     ch: ''
@@ -3265,12 +3733,12 @@
 -
     ch: ''
     locode: 'PT ERM'
-    name: Ermezinde
-    namewodiacritics: Ermezinde
+    name: Ermesinde
+    namewodiacritics: Ermesinde
     subdiv: '13'
     function: '-23-----'
     status: RL
-    date: '0307'
+    date: '1607'
     iata: ''
     coordinates: '4113N 00833W'
     remarks: ''
@@ -3285,6 +3753,30 @@
     date: '0401'
     iata: ''
     coordinates: '3800N 00823W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PT EDD'
+    name: 'Ervedosa do Douro'
+    namewodiacritics: 'Ervedosa do Douro'
+    subdiv: '17'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4110N 00728W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PT ERA'
+    name: Ervosa
+    namewodiacritics: Ervosa
+    subdiv: '01'
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '4120N 00831W'
     remarks: ''
 -
     ch: ''
@@ -3312,6 +3804,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'PT XZX'
+    name: Escariz
+    namewodiacritics: Escariz
+    subdiv: '01'
+    function: 1-3-----
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '4056N 00825W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PT EM3'
+    name: Esmeriz
+    namewodiacritics: Esmeriz
+    subdiv: '13'
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '4123N 00831W'
+    remarks: ''
+-
+    ch: ''
     locode: 'PT EMZ'
     name: Esmoriz
     namewodiacritics: Esmoriz
@@ -3324,15 +3840,15 @@
     remarks: ''
 -
     ch: ''
-    locode: 'PT ESN'
-    name: Espinho
-    namewodiacritics: Espinho
+    locode: 'PT EPG'
+    name: Espargo
+    namewodiacritics: Espargo
     subdiv: '01'
-    function: '-23-----'
+    function: '--3-----'
     status: RL
-    date: '0701'
+    date: '1707'
     iata: ''
-    coordinates: '4100N 00838W'
+    coordinates: '4055N 00834W'
     remarks: ''
 -
     ch: ''
@@ -3346,6 +3862,18 @@
     iata: ''
     coordinates: ''
     remarks: '3 Espinho in Viseu'
+-
+    ch: ''
+    locode: 'PT ESN'
+    name: Espinho
+    namewodiacritics: Espinho
+    subdiv: '01'
+    function: '-23-----'
+    status: RL
+    date: '0701'
+    iata: ''
+    coordinates: '4100N 00838W'
+    remarks: ''
 -
     ch: ''
     locode: 'PT EPS'
@@ -3552,6 +4080,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'PT FAV'
+    name: Favaios
+    namewodiacritics: Favaios
+    subdiv: '17'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4116N 00730W'
+    remarks: ''
+-
+    ch: ''
     locode: 'PT FEI'
     name: Feijo
     namewodiacritics: Feijo
@@ -3600,6 +4140,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'PT FER'
+    name: Ferragudo
+    namewodiacritics: Ferragudo
+    subdiv: '08'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3707N 00831W'
+    remarks: ''
+-
+    ch: ''
     locode: 'PT FAL'
     name: 'Ferreira do Alentejo'
     namewodiacritics: 'Ferreira do Alentejo'
@@ -3621,6 +4173,18 @@
     date: '0401'
     iata: ''
     coordinates: '3942N 00818W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PT FAN'
+    name: Ferreira-a-Nova
+    namewodiacritics: Ferreira-a-Nova
+    subdiv: '06'
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '4014N 00844W'
     remarks: ''
 -
     ch: ''
@@ -3669,6 +4233,30 @@
     date: '0401'
     iata: ''
     coordinates: '4054N 00658W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PT FDL'
+    name: 'Figueira de Lorvão'
+    namewodiacritics: 'Figueira de Lorvao'
+    subdiv: '06'
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '4017N 00820W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PT FIG'
+    name: Figueiró
+    namewodiacritics: Figueiro
+    subdiv: '13'
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '4118N 00810W'
     remarks: ''
 -
     ch: ''
@@ -3777,6 +4365,30 @@
     date: '0901'
     iata: ''
     coordinates: '4122N 00835W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PT FGO'
+    name: Fragoso
+    namewodiacritics: Fragoso
+    subdiv: '03'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4136N 00842W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PT FRZ'
+    name: Frazão
+    namewodiacritics: Frazao
+    subdiv: '13'
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '4116N 00824W'
     remarks: ''
 -
     ch: ''
@@ -3936,6 +4548,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'PT G7A'
+    name: Gaia
+    namewodiacritics: Gaia
+    subdiv: '13'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4024N 00720W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PT GAA'
+    name: Galafura
+    namewodiacritics: Galafura
+    subdiv: '17'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4111N 00741W'
+    remarks: ''
+-
+    ch: ''
     locode: 'PT GAV'
     name: Gavião
     namewodiacritics: Gaviao
@@ -4080,6 +4716,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'PT GRD'
+    name: Gradil
+    namewodiacritics: Gradil
+    subdiv: '11'
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '3859N 00917W'
+    remarks: ''
+-
+    ch: ''
     locode: 'PT GDL'
     name: Grândola
     namewodiacritics: Grandola
@@ -4161,6 +4809,18 @@
     date: '0401'
     iata: ''
     coordinates: '4112N 00840W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PT GHB'
+    name: Guilhabreu
+    namewodiacritics: Guilhabreu
+    subdiv: '13'
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '4118N 00838W'
     remarks: ''
 -
     ch: ''
@@ -4248,6 +4908,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'PT JES'
+    name: Jesufrei
+    namewodiacritics: Jesufrei
+    subdiv: '03'
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '4127N 00830W'
+    remarks: ''
+-
+    ch: ''
     locode: 'PT BRA'
     name: Joane
     namewodiacritics: Joane
@@ -4257,6 +4929,18 @@
     date: '0901'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PT JUN'
+    name: Juncal
+    namewodiacritics: Juncal
+    subdiv: '05'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3955N 00734W'
     remarks: ''
 -
     ch: ''
@@ -4356,6 +5040,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'PT LCD'
+    name: Lancada
+    namewodiacritics: Lancada
+    subdiv: '11'
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '3841N 00857W'
+    remarks: ''
+-
+    ch: ''
     locode: 'PT LDI'
     name: Landim
     namewodiacritics: Landim
@@ -4377,6 +5073,18 @@
     date: '0901'
     iata: ''
     coordinates: '4103N 00840W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PT 8PS'
+    name: Lanhezes
+    namewodiacritics: Lanhezes
+    subdiv: '16'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4144N 00840W'
     remarks: ''
 -
     ch: ''
@@ -4572,6 +5280,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'PT LOV'
+    name: Loivos
+    namewodiacritics: Loivos
+    subdiv: '17'
+    function: '--3-----'
+    status: RL
+    date: '1707'
+    iata: ''
+    coordinates: '4137N 00730W'
+    remarks: ''
+-
+    ch: ''
     locode: 'PT LDO'
     name: Lordelo
     namewodiacritics: Lordelo
@@ -4668,6 +5388,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'PT LRO'
+    name: Louro
+    namewodiacritics: Louro
+    subdiv: '13'
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '4126N 00832W'
+    remarks: ''
+-
+    ch: ''
     locode: 'PT LOU'
     name: Lourosa
     namewodiacritics: Lourosa
@@ -4740,6 +5472,42 @@
     remarks: ''
 -
     ch: ''
+    locode: 'PT LUS'
+    name: Lustosa
+    namewodiacritics: Lustosa
+    subdiv: '13'
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '4120N 00819W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PT DDM'
+    name: 'Maçãs de Dona Maria'
+    namewodiacritics: 'Macas de Dona Maria'
+    subdiv: '10'
+    function: '--3-----'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '3953N 00820W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PT MAC'
+    name: Maceda
+    namewodiacritics: Maceda
+    subdiv: '13'
+    function: '-234----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '4110N 00834W'
+    remarks: ''
+-
+    ch: ''
     locode: 'PT MCD'
     name: 'Macedo de Cavaleiros'
     namewodiacritics: 'Macedo de Cavaleiros'
@@ -4788,6 +5556,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'PT MLI'
+    name: 'Macieira da Lixa'
+    namewodiacritics: 'Macieira da Lixa'
+    subdiv: '13'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4121N 00809W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PT MDE'
+    name: Madalena
+    namewodiacritics: Madalena
+    subdiv: '11'
+    function: '-23-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '3934N 00827W'
+    remarks: ''
+-
+    ch: ''
     locode: 'PT MAD'
     name: 'Madalena (Madalena do Pico)'
     namewodiacritics: 'Madalena (Madalena do Pico)'
@@ -4809,6 +5601,18 @@
     date: '1201'
     iata: ''
     coordinates: '3241N 01708W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PT M6E'
+    name: Madeira
+    namewodiacritics: Madeira
+    subdiv: '04'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4014N 00728W'
     remarks: ''
 -
     ch: ''
@@ -4845,6 +5649,18 @@
     date: '0401'
     iata: ''
     coordinates: '3750N 02523W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PT MRG'
+    name: Maiorga
+    namewodiacritics: Maiorga
+    subdiv: '10'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3935N 00859W'
     remarks: ''
 -
     ch: ''
@@ -4929,6 +5745,18 @@
     date: '0401'
     iata: ''
     coordinates: '3903N 00842W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PT MAR'
+    name: Marteleira
+    namewodiacritics: Marteleira
+    subdiv: '11'
+    function: '--3-----'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '3913N 00917W'
     remarks: ''
 -
     ch: ''
@@ -5052,6 +5880,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'PT MER'
+    name: Merceana
+    namewodiacritics: Merceana
+    subdiv: '11'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3906N 00907W'
+    remarks: ''
+-
+    ch: ''
     locode: 'PT MTL'
     name: Mértola
     namewodiacritics: Mertola
@@ -5104,9 +5944,9 @@
     name: Mindelo
     namewodiacritics: Mindelo
     subdiv: '13'
-    function: '-23-----'
+    function: '-23--6--'
     status: RL
-    date: '0701'
+    date: '1607'
     iata: ''
     coordinates: '4119N 00843W'
     remarks: ''
@@ -5172,6 +6012,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'PT MOD'
+    name: Modivas
+    namewodiacritics: Modivas
+    subdiv: '13'
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '4118N 00842W'
+    remarks: ''
+-
+    ch: ''
     locode: 'PT MGD'
     name: Mogadouro
     namewodiacritics: Mogadouro
@@ -5220,6 +6072,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'PT PI3'
+    name: Moitalina
+    namewodiacritics: Moitalina
+    subdiv: '13'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3937N 00852W'
+    remarks: ''
+-
+    ch: ''
     locode: 'PT MNO'
     name: Monção
     namewodiacritics: Moncao
@@ -5229,6 +6093,18 @@
     date: '0401'
     iata: ''
     coordinates: '4205N 00829W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PT MCP'
+    name: Moncarapacho
+    namewodiacritics: Moncarapacho
+    subdiv: '08'
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '3705N 00747W'
     remarks: ''
 -
     ch: ''
@@ -5328,6 +6204,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'PT MRD'
+    name: 'Monte Redondo'
+    namewodiacritics: 'Monte Redondo'
+    subdiv: '10'
+    function: '-23-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '3954N 00849W'
+    remarks: ''
+-
+    ch: ''
     locode: 'PT TGO'
     name: 'Monte Trigo'
     namewodiacritics: 'Monte Trigo'
@@ -5339,7 +6227,7 @@
     coordinates: ''
     remarks: ''
 -
-    ch: +
+    ch: ''
     locode: 'PT MNV'
     name: Montelavar
     namewodiacritics: Montelavar
@@ -5592,6 +6480,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'PT NAV'
+    name: Nariz
+    namewodiacritics: Nariz
+    subdiv: '01'
+    function: 1----6--
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '4032N 00836W'
+    remarks: ''
+-
+    ch: ''
     locode: 'PT NZR'
     name: Nazaré
     namewodiacritics: Nazare
@@ -5604,6 +6504,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'PT NEG'
+    name: Negrais
+    namewodiacritics: Negrais
+    subdiv: '11'
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '3853N 00917W'
+    remarks: ''
+-
+    ch: ''
     locode: 'PT NEL'
     name: Nelas
     namewodiacritics: Nelas
@@ -5613,6 +6525,18 @@
     date: '0401'
     iata: ''
     coordinates: '4032N 00751W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PT NES'
+    name: Nespereira
+    namewodiacritics: Nespereira
+    subdiv: '03'
+    function: '--3-----'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '4124N 00819W'
     remarks: ''
 -
     ch: ''
@@ -5652,6 +6576,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'PT NOR'
+    name: 'Nogueira da Regedoura'
+    namewodiacritics: 'Nogueira da Regedoura'
+    subdiv: '01'
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '4100N 00835W'
+    remarks: ''
+-
+    ch: ''
     locode: 'PT NDC'
     name: 'Nogueira do Cravo'
     namewodiacritics: 'Nogueira do Cravo'
@@ -5687,7 +6623,7 @@
     coordinates: '3922N 00909W'
     remarks: ''
 -
-    ch: +
+    ch: ''
     locode: 'PT OCX'
     name: Odeceixe
     namewodiacritics: Odeceixe
@@ -5709,6 +6645,18 @@
     date: '0401'
     iata: ''
     coordinates: '3736N 00838W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PT 8DA'
+    name: Odiáxere
+    namewodiacritics: Odiaxere
+    subdiv: '08'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '3709N 00839W'
     remarks: ''
 -
     ch: ''
@@ -5892,6 +6840,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'PT OSS'
+    name: Ossela
+    namewodiacritics: Ossela
+    subdiv: '01'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4049N 00826W'
+    remarks: ''
+-
+    ch: ''
     locode: 'PT OUR'
     name: Ourém
     namewodiacritics: Ourem
@@ -6000,6 +6960,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'PT PAH'
+    name: Palhaça
+    namewodiacritics: Palhaca
+    subdiv: '01'
+    function: '--3-----'
+    status: RL
+    date: '1707'
+    iata: ''
+    coordinates: '4032N 00836W'
+    remarks: ''
+-
+    ch: ''
     locode: 'PT PLH'
     name: Palhais
     namewodiacritics: Palhais
@@ -6033,6 +7005,18 @@
     date: '0401'
     iata: ''
     coordinates: '4003N 00757W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PT PAM'
+    name: 'Pampilhosa do Botão'
+    namewodiacritics: 'Pampilhosa do Botao'
+    subdiv: '01'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4020N 00825W'
     remarks: ''
 -
     ch: ''
@@ -6084,18 +7068,6 @@
     remarks: ''
 -
     ch: ''
-    locode: 'PT PRS'
-    name: Paredes
-    namewodiacritics: Paredes
-    subdiv: '13'
-    function: '--3-----'
-    status: RN
-    date: '0401'
-    iata: ''
-    coordinates: '4123N 00844W'
-    remarks: ''
--
-    ch: ''
     locode: 'PT PRD'
     name: Paredes
     namewodiacritics: Paredes
@@ -6105,6 +7077,18 @@
     date: '1201'
     iata: ''
     coordinates: '4112N 00820W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PT PRS'
+    name: Paredes
+    namewodiacritics: Paredes
+    subdiv: '13'
+    function: '--3-----'
+    status: RN
+    date: '0401'
+    iata: ''
+    coordinates: '4123N 00844W'
     remarks: ''
 -
     ch: ''
@@ -6165,6 +7149,18 @@
     date: '0901'
     iata: ''
     coordinates: '3827N 09043W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PT PEM'
+    name: 'Pedro Miguel'
+    namewodiacritics: 'Pedro Miguel'
+    subdiv: '20'
+    function: '--3-----'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '3834N 02837W'
     remarks: ''
 -
     ch: ''
@@ -6348,6 +7344,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'PT PLS'
+    name: Penelas
+    namewodiacritics: Penelas
+    subdiv: '06'
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '4107N 00748W'
+    remarks: ''
+-
+    ch: ''
     locode: 'PT PEN'
     name: Peniche
     namewodiacritics: Peniche
@@ -6456,6 +7464,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'PT PIS'
+    name: Pinhanços
+    namewodiacritics: Pinhancos
+    subdiv: '09'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4028N 00741W'
+    remarks: ''
+-
+    ch: ''
     locode: 'PT PNO'
     name: Pinhão
     namewodiacritics: Pinhao
@@ -6492,6 +7512,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'PT PR8'
+    name: Poceirao
+    namewodiacritics: Poceirao
+    subdiv: '11'
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '3850N 00847W'
+    remarks: ''
+-
+    ch: ''
     locode: 'PT PAS'
     name: Poiares
     namewodiacritics: Poiares
@@ -6516,18 +7548,6 @@
     remarks: ''
 -
     ch: ''
-    locode: 'PT PLO'
-    name: Pombal
-    namewodiacritics: Pombal
-    subdiv: '10'
-    function: '-23-----'
-    status: RL
-    date: '0401'
-    iata: ''
-    coordinates: '3955N 00838W'
-    remarks: ''
--
-    ch: ''
     locode: 'PT POB'
     name: Pombal
     namewodiacritics: Pombal
@@ -6537,6 +7557,18 @@
     date: '9501'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PT PLO'
+    name: Pombal
+    namewodiacritics: Pombal
+    subdiv: '10'
+    function: '-23-----'
+    status: RL
+    date: '0401'
+    iata: ''
+    coordinates: '3955N 00838W'
     remarks: ''
 -
     ch: ''
@@ -6645,6 +7677,18 @@
     date: '0401'
     iata: ''
     coordinates: '3846N 00912W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PT POC'
+    name: Porches
+    namewodiacritics: Porches
+    subdiv: '08'
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '3707N 00824W'
     remarks: ''
 -
     ch: ''
@@ -6876,6 +7920,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'PT PMI'
+    name: 'Praia de Mira'
+    namewodiacritics: 'Praia de Mira'
+    subdiv: '06'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4027N 00848W'
+    remarks: ''
+-
+    ch: ''
     locode: 'PT PEH'
     name: 'Prior Velho'
     namewodiacritics: 'Prior Velho'
@@ -6899,7 +7955,7 @@
     coordinates: '3945N 00755W'
     remarks: ''
 -
-    ch: +
+    ch: ''
     locode: 'PT VND'
     name: Provesende
     namewodiacritics: Provesende
@@ -6945,6 +8001,18 @@
     date: '0901'
     iata: ''
     coordinates: '3845N 00917W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PT QUR'
+    name: Querença
+    namewodiacritics: Querenca
+    subdiv: '08'
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '3711N 00759W'
     remarks: ''
 -
     ch: ''
@@ -7005,6 +8073,18 @@
     date: '1007'
     iata: ''
     coordinates: '4110S 00839W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PT PPR'
+    name: Rates
+    namewodiacritics: Rates
+    subdiv: '13'
+    function: '--3-----'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '4125N 00840W'
     remarks: ''
 -
     ch: ''
@@ -7092,6 +8172,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'PT RPE'
+    name: 'Reguengo Pequeno'
+    namewodiacritics: 'Reguengo Pequeno'
+    subdiv: '11'
+    function: '--3-----'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '3917N 00915W'
+    remarks: ''
+-
+    ch: ''
     locode: 'PT RMZ'
     name: 'Reguengos de Monsaraz'
     namewodiacritics: 'Reguengos de Monsaraz'
@@ -7125,6 +8217,18 @@
     date: '0401'
     iata: ''
     coordinates: '4106N 00758W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PT RVH'
+    name: Revinhade
+    namewodiacritics: Revinhade
+    subdiv: '13'
+    function: '--3-----'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '4121N 00816W'
     remarks: ''
 -
     ch: ''
@@ -7296,6 +8400,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'PT ROL'
+    name: Roliça
+    namewodiacritics: Rolica
+    subdiv: '11'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3919N 00911W'
+    remarks: ''
+-
+    ch: ''
     locode: 'PT RIZ'
     name: Romariz
     namewodiacritics: Romariz
@@ -7305,6 +8421,30 @@
     date: '0901'
     iata: ''
     coordinates: '4056N 00828W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PT ZEM'
+    name: Rozem
+    namewodiacritics: Rozem
+    subdiv: '13'
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '4109N 00811W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PT RUN'
+    name: Runa
+    namewodiacritics: Runa
+    subdiv: '11'
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '3904N 00913W'
     remarks: ''
 -
     ch: ''
@@ -7440,6 +8580,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'PT SAM'
+    name: Samouco
+    namewodiacritics: Samouco
+    subdiv: '15'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3843N 00900W'
+    remarks: ''
+-
+    ch: ''
     locode: 'PT SNH'
     name: Sanchequias
     namewodiacritics: Sanchequias
@@ -7449,6 +8601,30 @@
     date: '1301'
     iata: ''
     coordinates: '4029N 00840W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PT SDS'
+    name: Sandiães
+    namewodiacritics: Sandiaes
+    subdiv: '11'
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '4038N 00739W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PT DFZ'
+    name: Sandim
+    namewodiacritics: Sandim
+    subdiv: '13'
+    function: 1-3-----
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '4102N 00831W'
     remarks: ''
 -
     ch: ''
@@ -7464,6 +8640,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'PT SDD'
+    name: 'Sanfins do Douro'
+    namewodiacritics: 'Sanfins do Douro'
+    subdiv: '17'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4118N 00731W'
+    remarks: ''
+-
+    ch: ''
     locode: 'PT SAN'
     name: Sangalhos
     namewodiacritics: Sangalhos
@@ -7475,7 +8663,7 @@
     coordinates: '4030N 00828W'
     remarks: ''
 -
-    ch: +
+    ch: ''
     locode: 'PT SGA'
     name: Sanguedo
     namewodiacritics: Sanguedo
@@ -7485,6 +8673,18 @@
     date: '1307'
     iata: ''
     coordinates: '4100N 00831W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PT SCS'
+    name: 'Santa Catarina da Serra'
+    namewodiacritics: 'Santa Catarina da Serra'
+    subdiv: '10'
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '3940N 00841W'
     remarks: ''
 -
     ch: ''
@@ -7548,6 +8748,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'PT SCB'
+    name: 'Santa Cruz Do Bispo'
+    namewodiacritics: 'Santa Cruz Do Bispo'
+    subdiv: '13'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4113N 00840W'
+    remarks: ''
+-
+    ch: ''
     locode: 'PT SEP'
     name: 'Santa Eufémia de Prazins'
     namewodiacritics: 'Santa Eufemia de Prazins'
@@ -7608,6 +8820,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'PT MAV'
+    name: 'Santa Maria de Avioso'
+    namewodiacritics: 'Santa Maria de Avioso'
+    subdiv: '06'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4116N 00836W'
+    remarks: ''
+-
+    ch: ''
     locode: 'PT SMV'
     name: 'Santa Maria de Avioso'
     namewodiacritics: 'Santa Maria de Avioso'
@@ -7617,6 +8841,18 @@
     date: '1201'
     iata: ''
     coordinates: '4116N 00836W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PT SML'
+    name: 'Santa Maria de Lamas'
+    namewodiacritics: 'Santa Maria de Lamas'
+    subdiv: '01'
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '4058N 00834W'
     remarks: ''
 -
     ch: ''
@@ -7653,6 +8889,18 @@
     date: '0401'
     iata: ''
     coordinates: '4112N 00748W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PT SVT'
+    name: 'Santa Vitória'
+    namewodiacritics: 'Santa Vitoria'
+    subdiv: '02'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3758N 00802W'
     remarks: ''
 -
     ch: ''
@@ -7740,6 +8988,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'PT SEG'
+    name: 'Santo Estêvão das Galés'
+    namewodiacritics: 'Santo Estevao das Gales'
+    subdiv: '11'
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '3854N 00915W'
+    remarks: ''
+-
+    ch: ''
     locode: 'PT SDP'
     name: 'Santo Isidro de Pegoes'
     namewodiacritics: 'Santo Isidro de Pegoes'
@@ -7764,6 +9024,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'PT SVO'
+    name: 'Santo Varão'
+    namewodiacritics: 'Santo Varao'
+    subdiv: '06'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4011N 00836W'
+    remarks: ''
+-
+    ch: ''
     locode: 'PT SBM'
     name: 'São Bartolomeu de Messines'
     namewodiacritics: 'Sao Bartolomeu de Messines'
@@ -7776,6 +9048,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'PT BDG'
+    name: 'São Bartolomeu dos Galegos'
+    namewodiacritics: 'Sao Bartolomeu dos Galegos'
+    subdiv: '11'
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '3916N 00916W'
+    remarks: ''
+-
+    ch: ''
     locode: 'PT SBA'
     name: 'São Brás de Alportel'
     namewodiacritics: 'Sao Bras de Alportel'
@@ -7785,6 +9069,18 @@
     date: '0401'
     iata: ''
     coordinates: '3709N 00753W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PT VAQ'
+    name: 'São Cosme do Vale'
+    namewodiacritics: 'Sao Cosme do Vale'
+    subdiv: '03'
+    function: '--3-----'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '4126N 00828W'
     remarks: ''
 -
     ch: ''
@@ -7872,6 +9168,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'PT SJL'
+    name: 'Sao Joao das Lampas'
+    namewodiacritics: 'Sao Joao das Lampas'
+    subdiv: '11'
+    function: '-----6--'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '3852N 00924W'
+    remarks: ''
+-
+    ch: ''
     locode: 'PT SJA'
     name: 'São João de Areias'
     namewodiacritics: 'Sao Joao de Areias'
@@ -7893,6 +9201,18 @@
     date: '0701'
     iata: ''
     coordinates: '4057N 00833W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PT SJO'
+    name: 'São Jorge'
+    namewodiacritics: 'Sao Jorge'
+    subdiv: '10'
+    function: '--3-----'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '3938N 00851W'
     remarks: ''
 -
     ch: ''
@@ -7920,6 +9240,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'PT SLD'
+    name: 'São Lourenço do Douro'
+    namewodiacritics: 'Sao Lourenco do Douro'
+    subdiv: '13'
+    function: '--3-----'
+    status: RL
+    date: '2001'
+    iata: ''
+    coordinates: '4106N 00812W'
+    remarks: ''
+-
+    ch: ''
     locode: 'PT MAM'
     name: 'São Mamede'
     namewodiacritics: 'Sao Mamede'
@@ -7941,6 +9273,18 @@
     date: '0401'
     iata: ''
     coordinates: '4112N 00836W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PT SMO'
+    name: 'São Martinho do Porto'
+    namewodiacritics: 'Sao Martinho do Porto'
+    subdiv: '10'
+    function: 1-------
+    status: AM
+    date: '2101'
+    iata: ''
+    coordinates: '3931N 00908W'
     remarks: ''
 -
     ch: ''
@@ -8025,6 +9369,18 @@
     date: '0401'
     iata: ''
     coordinates: '4045N 00804W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PT RNV'
+    name: 'São Romão de Neiva'
+    namewodiacritics: 'Sao Romao de Neiva'
+    subdiv: '16'
+    function: '--3-----'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '4138N 00846W'
     remarks: ''
 -
     ch: ''
@@ -8316,6 +9672,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'PT SIN'
+    name: Sinde
+    namewodiacritics: Sinde
+    subdiv: '06'
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '4019N 00803W'
+    remarks: ''
+-
+    ch: ''
     locode: 'PT SIE'
     name: Sines
     namewodiacritics: Sines
@@ -8364,6 +9732,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'PT SBO'
+    name: Sobrado
+    namewodiacritics: Sobrado
+    subdiv: '13'
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '4113N 00827W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PT SOL'
+    name: Sobral
+    namewodiacritics: Sobral
+    subdiv: '11'
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '3915N 00916W'
+    remarks: ''
+-
+    ch: ''
     locode: 'PT SBG'
     name: 'Sobral de Monte Agraço'
     namewodiacritics: 'Sobral de Monte Agraco'
@@ -8400,6 +9792,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'PT SBD'
+    name: Sobreda
+    namewodiacritics: Sobreda
+    subdiv: '15'
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '3839N 00911W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PT SSO'
+    name: Sosa
+    namewodiacritics: Sosa
+    subdiv: '08'
+    function: '--3-----'
+    status: RL
+    date: '1707'
+    iata: ''
+    coordinates: '4033N 00840W'
+    remarks: ''
+-
+    ch: ''
     locode: 'PT SOU'
     name: Soure
     namewodiacritics: Soure
@@ -8412,15 +9828,27 @@
     remarks: ''
 -
     ch: ''
+    locode: 'PT SOS'
+    name: Sousa
+    namewodiacritics: Sousa
+    subdiv: '13'
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '4121N 00815W'
+    remarks: ''
+-
+    ch: ''
     locode: 'PT ELA'
     name: Souselas
     namewodiacritics: Souselas
     subdiv: '06'
     function: '--3-----'
-    status: RQ
-    date: '1001'
+    status: RL
+    date: '1707'
     iata: ''
-    coordinates: '4017N 82530W'
+    coordinates: '4017N 00825W'
     remarks: ''
 -
     ch: ''
@@ -8472,6 +9900,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'PT TAG'
+    name: Tagilde
+    namewodiacritics: Tagilde
+    subdiv: '13'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4122N 00817W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PT TAM'
+    name: Tamel
+    namewodiacritics: Tamel
+    subdiv: '03'
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '4133N 00836W'
+    remarks: ''
+-
+    ch: ''
     locode: 'PT TRC'
     name: Tarouca
     namewodiacritics: Tarouca
@@ -8484,6 +9936,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'PT TVO'
+    name: Taveiro
+    namewodiacritics: Taveiro
+    subdiv: '06'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4012N 00830W'
+    remarks: ''
+-
+    ch: ''
     locode: 'PT TVR'
     name: Tavira
     namewodiacritics: Tavira
@@ -8493,6 +9957,42 @@
     date: '0401'
     iata: ''
     coordinates: '3707N 00739W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PT TEL'
+    name: Telhado
+    namewodiacritics: Telhado
+    subdiv: '03'
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '4127N 00827W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PT TG2'
+    name: 'Telhados Grandes'
+    namewodiacritics: 'Telhados Grandes'
+    subdiv: '10'
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '3931N 00845W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PT TEN'
+    name: Tentúgal
+    namewodiacritics: Tentugal
+    subdiv: '06'
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '4013N 00835W'
     remarks: ''
 -
     ch: ''
@@ -8520,6 +10020,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'PT TRS'
+    name: Terroso
+    namewodiacritics: Terroso
+    subdiv: '13'
+    function: '--3-----'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '4125N 00844W'
+    remarks: ''
+-
+    ch: ''
     locode: 'PT TRR'
     name: Terrugem
     namewodiacritics: Terrugem
@@ -8529,6 +10041,18 @@
     date: '0901'
     iata: ''
     coordinates: '3842N 00917W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PT TOC'
+    name: Tocha
+    namewodiacritics: Tocha
+    subdiv: '14'
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '4019N 00845W'
     remarks: ''
 -
     ch: ''
@@ -8651,7 +10175,7 @@
     coordinates: '4014N 00731W'
     remarks: ''
 -
-    ch: +
+    ch: ''
     locode: 'PT TOU'
     name: Touguinho
     namewodiacritics: Touguinho
@@ -8712,6 +10236,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'PT TRD'
+    name: Trandeiras
+    namewodiacritics: Trandeiras
+    subdiv: '03'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4129N 00825W'
+    remarks: ''
+-
+    ch: ''
     locode: 'PT TRA'
     name: Travanca
     namewodiacritics: Travanca
@@ -8745,6 +10281,30 @@
     date: '0401'
     iata: ''
     coordinates: '4036N 00829W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PT TVH'
+    name: 'Trofa Velha'
+    namewodiacritics: 'Trofa Velha'
+    subdiv: '01'
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '4119N 00834W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PT TVS'
+    name: Troviscal
+    namewodiacritics: Troviscal
+    subdiv: '05'
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '3952N 00801W'
     remarks: ''
 -
     ch: ''
@@ -8805,6 +10365,18 @@
     date: '1201'
     iata: ''
     coordinates: '4033N 00845W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PT VAI'
+    name: Vaiamonte
+    namewodiacritics: Vaiamonte
+    subdiv: '04'
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '3906N 00731W'
     remarks: ''
 -
     ch: ''
@@ -8889,6 +10461,18 @@
     date: '0401'
     iata: ''
     coordinates: '3910N 00752W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PT NGV'
+    name: Valongo
+    namewodiacritics: Valongo
+    subdiv: '13'
+    function: 1-3-----
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '4111N 00830W'
     remarks: ''
 -
     ch: ''
@@ -8997,6 +10581,18 @@
     date: '1201'
     iata: ''
     coordinates: '3827N 00739W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PT VVN'
+    name: Ventosa
+    namewodiacritics: Ventosa
+    subdiv: '14'
+    function: '-----6--'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '3934N 00801W'
     remarks: ''
 -
     ch: ''
@@ -9153,6 +10749,18 @@
     date: '0401'
     iata: ''
     coordinates: '4055N 00730W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PT VFD'
+    name: 'Vila de Frades'
+    namewodiacritics: 'Vila de Frades'
+    subdiv: '02'
+    function: 1----6--
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '3813N 00749W'
     remarks: ''
 -
     ch: ''
@@ -9443,7 +11051,7 @@
     coordinates: '3940N 03106W'
     remarks: ''
 -
-    ch: +
+    ch: ''
     locode: 'PT VPB'
     name: 'Vila Pouca da Beira'
     namewodiacritics: 'Vila Pouca da Beira'
@@ -9528,6 +11136,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'PT VLS'
+    name: 'Vila Seca'
+    namewodiacritics: 'Vila Seca'
+    subdiv: '18'
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '4107N 00740W'
+    remarks: ''
+-
+    ch: ''
     locode: 'PT VVR'
     name: 'Vila Velha de Ródão'
     namewodiacritics: 'Vila Velha de Rodao'
@@ -9563,7 +11183,7 @@
     coordinates: '3847N 00725W'
     remarks: ''
 -
-    ch: +
+    ch: ''
     locode: 'PT VIL'
     name: Vilar
     namewodiacritics: Vilar
@@ -9669,6 +11289,18 @@
     date: '1207'
     iata: ''
     coordinates: '4025N 00832W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PT VDF'
+    name: 'Vilarinho dos Freires'
+    namewodiacritics: 'Vilarinho dos Freires'
+    subdiv: '17'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4110N 00745W'
     remarks: ''
 -
     ch: ''

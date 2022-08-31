@@ -36,6 +36,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'ET ALK'
+    name: Assella
+    namewodiacritics: Assella
+    subdiv: OR
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0757N 03908E'
+    remarks: ''
+-
+    ch: ''
     locode: 'ET AWA'
     name: Awassa
     namewodiacritics: Awassa
@@ -69,6 +81,18 @@
     date: '9601'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'ET BED'
+    name: Bedele
+    namewodiacritics: Bedele
+    subdiv: OR
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '0827N 03621E'
     remarks: ''
 -
     ch: ''
@@ -180,6 +204,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'ET DKM'
+    name: Dukem
+    namewodiacritics: Dukem
+    subdiv: OR
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '0848N 03854E'
+    remarks: ''
+-
+    ch: ''
     locode: 'ET GMB'
     name: Gambela
     namewodiacritics: Gambela
@@ -213,6 +249,18 @@
     date: '0901'
     iata: ''
     coordinates: '0715N 04043E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ET GIB'
+    name: Gibe
+    namewodiacritics: Gibe
+    subdiv: OR
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '0745N 03711E'
     remarks: ''
 -
     ch: ''
@@ -273,6 +321,42 @@
     date: '9601'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'ET HAR'
+    name: Harar
+    namewodiacritics: Harar
+    subdiv: HA
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '0918N 04207E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ET HRT'
+    name: Hartishek
+    namewodiacritics: Hartishek
+    subdiv: SO
+    function: '--3-----'
+    status: AM
+    date: '2007'
+    iata: ''
+    coordinates: '0909N 04321E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ET HOG'
+    name: 'Holeta Genet'
+    namewodiacritics: 'Holeta Genet'
+    subdiv: OR
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '0903N 03830E'
     remarks: ''
 -
     ch: ''
@@ -360,6 +444,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'ET KOA'
+    name: Kombolcha
+    namewodiacritics: Kombolcha
+    subdiv: AM
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '1105N 03944E'
+    remarks: ''
+-
+    ch: ''
     locode: 'ET LLI'
     name: Lalibela
     namewodiacritics: Lalibela
@@ -444,6 +540,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'ET MDP'
+    name: 'Mojo Dry Port'
+    namewodiacritics: 'Mojo Dry Port'
+    subdiv: OR
+    function: '-----6--'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '0834N 03908E'
+    remarks: ''
+-
+    ch: ''
     locode: 'ET OTA'
     name: 'Mot''a'
     namewodiacritics: 'Mot''a'
@@ -492,6 +600,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'ET W8N'
+    name: 'Nefas Mewch''a'
+    namewodiacritics: 'Nefas Mewch''a'
+    subdiv: AM
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '1144N 03828E'
+    remarks: ''
+-
+    ch: ''
     locode: 'ET EGL'
     name: Neghelli
     namewodiacritics: Neghelli
@@ -503,7 +623,19 @@
     coordinates: '0516N 03943E'
     remarks: ''
 -
-    ch: +
+    ch: ''
+    locode: 'ET PGN'
+    name: Pugnido
+    namewodiacritics: Pugnido
+    subdiv: GA
+    function: '--3-----'
+    status: AM
+    date: '2007'
+    iata: ''
+    coordinates: '0738N 03415E'
+    remarks: ''
+-
+    ch: ''
     locode: 'ET SEB'
     name: Sebeta
     namewodiacritics: Sebeta
@@ -513,6 +645,42 @@
     date: '1307'
     iata: ''
     coordinates: '0855N 03837E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ET S3M'
+    name: Semera
+    namewodiacritics: Semera
+    subdiv: AF
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '1147N 04100E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ET S7O'
+    name: Shashemene
+    namewodiacritics: Shashemene
+    subdiv: OR
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '0712N 03836E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ET SRE'
+    name: Shire
+    namewodiacritics: Shire
+    subdiv: TI
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '1408N 03824E'
     remarks: ''
 -
     ch: ''

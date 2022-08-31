@@ -12,6 +12,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'SN DSS'
+    name: 'Blaise Diagne International Airport'
+    namewodiacritics: 'Blaise Diagne International Airport'
+    subdiv: TH
+    function: '--34----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '1438N 01705W'
+    remarks: ''
+-
+    ch: ''
     locode: 'SN CSK'
     name: 'Cap Skiring'
     namewodiacritics: 'Cap Skiring'
@@ -45,6 +57,18 @@
     date: '9601'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SN DUR'
+    name: Diourbel
+    namewodiacritics: Diourbel
+    subdiv: DB
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '1439N 01623W'
     remarks: ''
 -
     ch: ''
@@ -108,6 +132,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'SN KID'
+    name: Kidira
+    namewodiacritics: Kidira
+    subdiv: TC
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '1424N 01215W'
+    remarks: ''
+-
+    ch: ''
     locode: 'SN KDA'
     name: Kolda
     namewodiacritics: Kolda
@@ -141,6 +177,18 @@
     date: '9506'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SN MGS'
+    name: 'Madina Gounass'
+    namewodiacritics: 'Madina Gounass'
+    subdiv: KD
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '1308N 01345W'
     remarks: ''
 -
     ch: ''
@@ -216,6 +264,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'SN RQ2'
+    name: Rufisque
+    namewodiacritics: Rufisque
+    subdiv: DK
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '1442N 01716W'
+    remarks: ''
+-
+    ch: ''
     locode: 'SN XLS'
     name: 'Saint Louis'
     namewodiacritics: 'Saint Louis'
@@ -237,6 +297,30 @@
     date: '9601'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SN SKN'
+    name: Sokone
+    namewodiacritics: Sokone
+    subdiv: FK
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '1353N 01622W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SN TBN'
+    name: 'Taïba Ndiaye'
+    namewodiacritics: 'Taiba Ndiaye'
+    subdiv: TH
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '1503N 01653W'
     remarks: ''
 -
     ch: ''
@@ -273,6 +357,18 @@
     date: '0401'
     iata: ''
     coordinates: '1451N 01553W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SN YDK'
+    name: Yof
+    namewodiacritics: Yof
+    subdiv: DK
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '1445N 01728W'
     remarks: ''
 -
     ch: ''

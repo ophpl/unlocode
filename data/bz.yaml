@@ -24,6 +24,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'BZ TZA'
+    name: 'Belize City Municipal Airport'
+    namewodiacritics: 'Belize City Municipal Airport'
+    subdiv: BZ
+    function: '---4----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '1732N 08818W'
+    remarks: ''
+-
+    ch: ''
     locode: 'BZ BMP'
     name: Belmopan
     namewodiacritics: Belmopan
@@ -33,6 +45,30 @@
     date: '0607'
     iata: ''
     coordinates: '1716N 08847W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BZ BVJ'
+    name: 'Benque Viejo'
+    namewodiacritics: 'Benque Viejo'
+    subdiv: CZL
+    function: '-----6--'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '1816N 08827W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BZ BVC'
+    name: 'Benque Viejo del Carmen'
+    namewodiacritics: 'Benque Viejo del Carmen'
+    subdiv: CY
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '1704N 08908W'
     remarks: ''
 -
     ch: ''
@@ -93,6 +129,18 @@
     date: '9601'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'BZ CRR'
+    name: 'Crooked Tree'
+    namewodiacritics: 'Crooked Tree'
+    subdiv: BZ
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '1746N 08832W'
     remarks: ''
 -
     ch: ''
@@ -213,6 +261,18 @@
     date: '0907'
     iata: ''
     coordinates: '1816N 08827W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BZ 4SA'
+    name: 'Santa Elena'
+    namewodiacritics: 'Santa Elena'
+    subdiv: CY
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '1709N 08903W'
     remarks: ''
 -
     ch: ''

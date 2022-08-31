@@ -47,7 +47,7 @@
     coordinates: '4007N 07038E'
     remarks: ''
 -
-    ch: +
+    ch: ''
     locode: 'TJ KHI'
     name: Khirmanak
     namewodiacritics: Khirmanak
@@ -95,17 +95,29 @@
     coordinates: '3754N 06946E'
     remarks: ''
 -
-    ch: ¦
+    ch: ''
+    locode: 'TJ NUK'
+    name: 'Nurak (Nurek)'
+    namewodiacritics: 'Nurak (Nurek)'
+    subdiv: KT
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '3823N 06919E'
+    remarks: ''
+-
+    ch: ''
     locode: 'TJ PJK'
     name: Penjikent
     namewodiacritics: Penjikent
-    subdiv: LN
+    subdiv: SU
     function: '--3-----'
     status: RL
     date: '1307'
     iata: ''
     coordinates: '3930N 06736E'
-    remarks: '@Sub'
+    remarks: ''
 -
     ch: ''
     locode: 'TJ KUR'

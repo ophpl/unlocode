@@ -15,7 +15,7 @@
     locode: 'IR JBD'
     name: Abadeh
     namewodiacritics: Abadeh
-    subdiv: '14'
+    subdiv: '07'
     function: '-----6--'
     status: RL
     date: '1201'
@@ -27,7 +27,7 @@
     locode: 'IR ABR'
     name: Abhar
     namewodiacritics: Abhar
-    subdiv: '11'
+    subdiv: '19'
     function: '-----6--'
     status: RL
     date: '1201'
@@ -39,7 +39,7 @@
     locode: 'IR AEU'
     name: 'Abu Musa'
     namewodiacritics: 'Abu Musa'
-    subdiv: '23'
+    subdiv: '22'
     function: '---4----'
     status: RL
     date: '0907'
@@ -63,7 +63,7 @@
     locode: 'IR AHR'
     name: Ahar
     namewodiacritics: Ahar
-    subdiv: '01'
+    subdiv: '03'
     function: '--3-----'
     status: RL
     date: '1101'
@@ -93,6 +93,18 @@
     date: '9012'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'IR LEH'
+    name: 'Ali Shah Avaz'
+    namewodiacritics: 'Ali Shah Avaz'
+    subdiv: '23'
+    function: '-----6--'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '3539N 05103E'
     remarks: ''
 -
     ch: ''
@@ -135,7 +147,7 @@
     locode: 'IR ARA'
     name: Arak
     namewodiacritics: Arak
-    subdiv: '22'
+    subdiv: '00'
     function: '--3-----'
     status: RL
     date: '0401'
@@ -171,7 +183,7 @@
     locode: 'IR ASA'
     name: Asaluyeh
     namewodiacritics: Asaluyeh
-    subdiv: '06'
+    subdiv: '18'
     function: 1-3-----
     status: RL
     date: '0307'
@@ -243,7 +255,7 @@
     locode: 'IR BND'
     name: 'Bandar Abbas'
     namewodiacritics: 'Bandar Abbas'
-    subdiv: '23'
+    subdiv: '22'
     function: 1--4----
     status: AI
     date: '1101'
@@ -279,7 +291,7 @@
     locode: 'IR BKM'
     name: 'Bandar Khomeini'
     namewodiacritics: 'Bandar Khomeini'
-    subdiv: '10'
+    subdiv: '06'
     function: 1-34----
     status: RL
     date: '0307'
@@ -291,7 +303,7 @@
     locode: 'IR BMR'
     name: 'Bandar Mashur'
     namewodiacritics: 'Bandar Mashur'
-    subdiv: '10'
+    subdiv: '06'
     function: 1-----7-
     status: RL
     date: '0307'
@@ -327,7 +339,7 @@
     locode: 'IR BAZ'
     name: 'Bandar-e Anzali'
     namewodiacritics: 'Bandar-e Anzali'
-    subdiv: '19'
+    subdiv: '01'
     function: 1-------
     status: RL
     date: '0212'
@@ -363,7 +375,7 @@
     locode: 'IR BDH'
     name: 'Bandar-e Lengeh'
     namewodiacritics: 'Bandar-e Lengeh'
-    subdiv: '23'
+    subdiv: '22'
     function: '---4----'
     status: AI
     date: '0212'
@@ -375,7 +387,7 @@
     locode: 'IR MRX'
     name: 'Bandar-e Måh Shahr'
     namewodiacritics: 'Bandar-e Mah Shahr'
-    subdiv: '10'
+    subdiv: '06'
     function: 1234----
     status: RL
     date: '0507'
@@ -384,10 +396,22 @@
     remarks: ''
 -
     ch: ''
+    locode: 'IR BPA'
+    name: 'Bandare Parsian'
+    namewodiacritics: 'Bandare Parsian'
+    subdiv: '22'
+    function: 1-------
+    status: RL
+    date: '2001'
+    iata: ''
+    coordinates: '2710N 05254E'
+    remarks: ''
+-
+    ch: ''
     locode: 'IR BNH'
     name: Baneh
     namewodiacritics: Baneh
-    subdiv: '22'
+    subdiv: '00'
     function: '-----6--'
     status: RL
     date: '1201'
@@ -456,15 +480,39 @@
     remarks: ''
 -
     ch: ''
+    locode: 'IR BRJ'
+    name: Borujerd
+    namewodiacritics: Borujerd
+    subdiv: '15'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3352N 04850E'
+    remarks: ''
+-
+    ch: ''
     locode: 'IR BUZ'
     name: Bushehr
     namewodiacritics: Bushehr
-    subdiv: '06'
+    subdiv: '18'
     function: 1-34----
     status: AI
     date: '1101'
     iata: ''
     coordinates: '2858N 05050E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IR CI3'
+    name: Chabahar
+    namewodiacritics: Chabahar
+    subdiv: '11'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '2517N 06038E'
     remarks: ''
 -
     ch: ''
@@ -492,10 +540,22 @@
     remarks: ''
 -
     ch: ''
+    locode: 'IR DAY'
+    name: Dayyer
+    namewodiacritics: Dayyer
+    subdiv: '18'
+    function: 1-------
+    status: AA
+    date: '1901'
+    iata: ''
+    coordinates: '2750N 05156E'
+    remarks: ''
+-
+    ch: ''
     locode: 'IR DEH'
     name: Dehbid
     namewodiacritics: Dehbid
-    subdiv: '14'
+    subdiv: '07'
     function: '-----6--'
     status: RL
     date: '1201'
@@ -507,7 +567,7 @@
     locode: 'IR DEF'
     name: Dezful
     namewodiacritics: Dezful
-    subdiv: '10'
+    subdiv: '06'
     function: '---4----'
     status: RQ
     date: '0907'
@@ -540,10 +600,34 @@
     remarks: ''
 -
     ch: ''
+    locode: 'IR ESL'
+    name: Eslamshahr
+    namewodiacritics: Eslamshahr
+    subdiv: '23'
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '3533N 05115E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IR FR7'
+    name: Fardis
+    namewodiacritics: Fardis
+    subdiv: '23'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3543N 05059E'
+    remarks: ''
+-
+    ch: ''
     locode: 'IR FAZ'
     name: Fasa
     namewodiacritics: Fasa
-    subdiv: '14'
+    subdiv: '07'
     function: '---4----'
     status: RQ
     date: '0907'
@@ -567,7 +651,7 @@
     locode: 'IR GCH'
     name: Gachsaran
     namewodiacritics: Gachsaran
-    subdiv: '18'
+    subdiv: '17'
     function: '---4----'
     status: RQ
     date: '0907'
@@ -639,7 +723,7 @@
     locode: 'IR HDR'
     name: Havadarya
     namewodiacritics: Havadarya
-    subdiv: '23'
+    subdiv: '22'
     function: '---4----'
     status: RQ
     date: '0907'
@@ -711,7 +795,7 @@
     locode: 'IR IKA'
     name: 'Imam Khomeini International Apt/Tehran'
     namewodiacritics: 'Imam Khomeini International Apt/Tehran'
-    subdiv: '07'
+    subdiv: '23'
     function: '---4----'
     status: AI
     date: '1101'
@@ -783,7 +867,7 @@
     locode: 'IR DJU'
     name: Jolfa
     namewodiacritics: Jolfa
-    subdiv: '01'
+    subdiv: '03'
     function: '-23----B'
     status: RL
     date: '1207'
@@ -815,17 +899,17 @@
     coordinates: ''
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'IR QKC'
     name: Karaj
     namewodiacritics: Karaj
-    subdiv: ''
+    subdiv: '07'
     function: '---4----'
     status: AI
     date: '1307'
     iata: ''
     coordinates: '3549N 05100E'
-    remarks: '@Sub@Coo'
+    remarks: ''
 -
     ch: ''
     locode: 'IR KAS'
@@ -855,7 +939,7 @@
     locode: 'IR KMS'
     name: Kermanshah
     namewodiacritics: Kermanshah
-    subdiv: '25'
+    subdiv: '21'
     function: '--3-----'
     status: RL
     date: '0501'
@@ -867,7 +951,7 @@
     locode: 'IR KSH'
     name: 'Kermanshah (Bakhtaran)'
     namewodiacritics: 'Kermanshah (Bakhtaran)'
-    subdiv: '17'
+    subdiv: '05'
     function: 123-----
     status: RL
     date: '0501'
@@ -951,7 +1035,7 @@
     locode: 'IR KHY'
     name: Khvoy
     namewodiacritics: Khvoy
-    subdiv: '02'
+    subdiv: '04'
     function: '--3-----'
     status: RL
     date: '0501'
@@ -975,7 +1059,7 @@
     locode: 'IR LFM'
     name: Lamerd
     namewodiacritics: Lamerd
-    subdiv: '14'
+    subdiv: '07'
     function: '---4----'
     status: RQ
     date: '0907'
@@ -1059,7 +1143,7 @@
     locode: 'IR MMH'
     name: 'Mazandaran Mahalleh'
     namewodiacritics: 'Mazandaran Mahalleh'
-    subdiv: '11'
+    subdiv: '19'
     function: '--3-----'
     status: RL
     date: '1207'
@@ -1071,7 +1155,7 @@
     locode: 'IR MEB'
     name: Meybod
     namewodiacritics: Meybod
-    subdiv: '25'
+    subdiv: '21'
     function: '--3-----'
     status: RL
     date: '1207'
@@ -1116,6 +1200,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'IR NSB'
+    name: Neyshabur
+    namewodiacritics: Neyshabur
+    subdiv: '09'
+    function: '--3-----'
+    status: RL
+    date: '1707'
+    iata: ''
+    coordinates: '3612N 05847E'
+    remarks: ''
+-
+    ch: ''
     locode: 'IR NUJ'
     name: Nojeh
     namewodiacritics: Nojeh
@@ -1143,7 +1239,7 @@
     locode: 'IR OMI'
     name: Omidiyeh
     namewodiacritics: Omidiyeh
-    subdiv: '10'
+    subdiv: '06'
     function: '---4----'
     status: RQ
     date: '0907'
@@ -1203,7 +1299,7 @@
     locode: 'IR QAZ'
     name: Qazvin
     namewodiacritics: Qazvin
-    subdiv: '11'
+    subdiv: '19'
     function: '--3-----'
     status: RL
     date: '0401'
@@ -1239,7 +1335,7 @@
     locode: 'IR QUM'
     name: Qum
     namewodiacritics: Qum
-    subdiv: '26'
+    subdiv: '25'
     function: '--34----'
     status: AI
     date: '0401'
@@ -1311,7 +1407,7 @@
     locode: 'IR SAZ'
     name: Sabzevar
     namewodiacritics: Sabzevar
-    subdiv: '20'
+    subdiv: '15'
     function: '--3-----'
     status: RL
     date: '1207'
@@ -1371,12 +1467,12 @@
     locode: 'IR SFN'
     name: Salafchegan
     namewodiacritics: Salafchegan
-    subdiv: '22'
-    function: '-----6--'
-    status: RQ
-    date: '1001'
+    subdiv: '00'
+    function: '--3-----'
+    status: RL
+    date: '1707'
     iata: ''
-    coordinates: '3428N 50272E'
+    coordinates: '3428N 05027E'
     remarks: ''
 -
     ch: ''
@@ -1455,7 +1551,7 @@
     locode: 'IR SVH'
     name: Saveh
     namewodiacritics: Saveh
-    subdiv: '22'
+    subdiv: '00'
     function: '--3-----'
     status: RL
     date: '1207'
@@ -1467,7 +1563,7 @@
     locode: 'IR SEM'
     name: Semnan
     namewodiacritics: Semnan
-    subdiv: '12'
+    subdiv: '20'
     function: '--3-----'
     status: RL
     date: '0401'
@@ -1515,7 +1611,7 @@
     locode: 'IR SEK'
     name: 'Shahr-e Kord'
     namewodiacritics: 'Shahr-e Kord'
-    subdiv: '08'
+    subdiv: '14'
     function: '--3-----'
     status: RL
     date: '0501'
@@ -1635,19 +1731,19 @@
     locode: 'IR THR'
     name: Tehran
     namewodiacritics: Tehran
-    subdiv: ''
+    subdiv: '23'
     function: '---45---'
     status: AI
-    date: '9601'
+    date: '1601'
     iata: ''
-    coordinates: ''
+    coordinates: '3540N 05125E'
     remarks: ''
 -
     ch: ''
     locode: 'IR IHR'
     name: 'Tilkuh (Iran Shahr)'
     namewodiacritics: 'Tilkuh (Iran Shahr)'
-    subdiv: '16'
+    subdiv: '12'
     function: '---4----'
     status: RQ
     date: '0907'
@@ -1671,12 +1767,24 @@
     locode: 'IR TMB'
     name: Tombak
     namewodiacritics: Tombak
-    subdiv: '06'
+    subdiv: '18'
     function: 1-3-----
     status: RL
     date: '0401'
     iata: ''
     coordinates: '2743N 05210E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IR UIM'
+    name: Urmia
+    namewodiacritics: Urmia
+    subdiv: '24'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3733N 04504E'
     remarks: ''
 -
     ch: ''
@@ -1695,7 +1803,7 @@
     locode: 'IR QYS'
     name: Yasouj
     namewodiacritics: Yasouj
-    subdiv: '18'
+    subdiv: '17'
     function: '---4----'
     status: RQ
     date: '0907'
@@ -1767,7 +1875,7 @@
     locode: 'IR ZVI'
     name: Zarand
     namewodiacritics: Zarand
-    subdiv: '15'
+    subdiv: '08'
     function: '---4----'
     status: RL
     date: '0907'

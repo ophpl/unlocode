@@ -24,15 +24,39 @@
     remarks: ''
 -
     ch: ''
+    locode: 'TM AMY'
+    name: Amyderya
+    namewodiacritics: Amyderya
+    subdiv: L
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '3753N 06514E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TM AGT'
+    name: Ashgabat
+    namewodiacritics: Ashgabat
+    subdiv: S
+    function: '-2---6--'
+    status: RQ
+    date: '2007'
+    iata: ''
+    coordinates: '3757N 05823E'
+    remarks: ''
+-
+    ch: ''
     locode: 'TM ASB'
     name: Ashkhabad
     namewodiacritics: Ashkhabad
-    subdiv: ''
+    subdiv: S
     function: '--34----'
     status: AI
-    date: '9601'
+    date: '1607'
     iata: ''
-    coordinates: ''
+    coordinates: '3757N 05823E'
     remarks: ''
 -
     ch: ''
@@ -192,6 +216,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'TM GYP'
+    name: Gypjak
+    namewodiacritics: Gypjak
+    subdiv: A
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '3800N 05815E'
+    remarks: ''
+-
+    ch: ''
     locode: 'TM HAL'
     name: Halach
     namewodiacritics: Halach
@@ -201,6 +237,18 @@
     date: '0601'
     iata: ''
     coordinates: '3804N 06453E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TM Z7H'
+    name: Hazar
+    namewodiacritics: Hazar
+    subdiv: B
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '3926N 05306E'
     remarks: ''
 -
     ch: ''
@@ -429,6 +477,18 @@
     date: '8012'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'TM TK5'
+    name: Turkmenabat
+    namewodiacritics: Turkmenabat
+    subdiv: L
+    function: '-23-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '3906N 06334E'
     remarks: ''
 -
     ch: ''

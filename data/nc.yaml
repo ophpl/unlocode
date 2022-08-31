@@ -13,26 +13,38 @@
 -
     ch: ''
     locode: 'NC BUG'
-    name: 'Baie Ugue'
+    name: 'Baie Ugué'
     namewodiacritics: 'Baie Ugue'
     subdiv: ''
     function: 1-3-----
-    status: RQ
-    date: '9506'
+    status: RL
+    date: '1901'
     iata: ''
     coordinates: ''
     remarks: ''
 -
     ch: ''
     locode: 'NC BMY'
-    name: 'Belep Island'
-    namewodiacritics: 'Belep Island'
+    name: 'Bélep I.'
+    namewodiacritics: 'Belep I.'
     subdiv: ''
     function: '---4----'
     status: AI
-    date: '9601'
+    date: '1901'
     iata: ''
-    coordinates: ''
+    coordinates: '1943S 16340E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NC 4NB'
+    name: Bourail
+    namewodiacritics: Bourail
+    subdiv: ''
+    function: '-----6--'
+    status: RL
+    date: '1901'
+    iata: ''
+    coordinates: '2134S 16529E'
     remarks: ''
 -
     ch: ''
@@ -41,8 +53,8 @@
     namewodiacritics: Doniambo/Noumea
     subdiv: ''
     function: '--3-----'
-    status: RQ
-    date: '0407'
+    status: RL
+    date: '1901'
     iata: ''
     coordinates: '2215S 16627E'
     remarks: ''
@@ -53,10 +65,22 @@
     namewodiacritics: Ducos
     subdiv: ''
     function: 1-------
-    status: RQ
-    date: '9506'
+    status: RL
+    date: '1901'
     iata: ''
-    coordinates: ''
+    coordinates: '2214S 16627E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NC DUM'
+    name: Dumbéa
+    namewodiacritics: Dumbea
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '2209S 16627E'
     remarks: ''
 -
     ch: ''
@@ -64,9 +88,9 @@
     name: Hienghene
     namewodiacritics: Hienghene
     subdiv: ''
-    function: '---4----'
-    status: RQ
-    date: '0901'
+    function: '--3-----'
+    status: RL
+    date: '1901'
     iata: ''
     coordinates: '2040S 16453E'
     remarks: ''
@@ -78,9 +102,9 @@
     subdiv: ''
     function: '---4----'
     status: AI
-    date: '0212'
+    date: '1901'
     iata: ''
-    coordinates: '2117S 16537E'
+    coordinates: '2115S 16537E'
     remarks: ''
 -
     ch: ''
@@ -90,21 +114,21 @@
     subdiv: ''
     function: '---4----'
     status: AI
-    date: '0212'
+    date: '1901'
     iata: ''
-    coordinates: ''
+    coordinates: '2235S 16727E'
     remarks: ''
 -
     ch: ''
     locode: 'NC IOU'
-    name: 'Ile Quen'
-    namewodiacritics: 'Ile Quen'
+    name: 'Ile Ouen'
+    namewodiacritics: 'Ile Ouen'
     subdiv: ''
     function: '---4----'
-    status: RQ
-    date: '0901'
+    status: RL
+    date: '1901'
     iata: ''
-    coordinates: '2227S 16646E'
+    coordinates: '2228S 16647E'
     remarks: ''
 -
     ch: ''
@@ -114,9 +138,9 @@
     subdiv: ''
     function: '---4----'
     status: AI
-    date: '0212'
+    date: '1901'
     iata: ''
-    coordinates: '2104S 16452E'
+    coordinates: '2103S 16450E'
     remarks: ''
 -
     ch: ''
@@ -125,8 +149,8 @@
     namewodiacritics: Kouaoua
     subdiv: ''
     function: 1-3-----
-    status: RQ
-    date: '9506'
+    status: RL
+    date: '1901'
     iata: ''
     coordinates: ''
     remarks: ''
@@ -138,9 +162,33 @@
     subdiv: ''
     function: '---4----'
     status: AI
-    date: '9601'
+    date: '1901'
     iata: ''
-    coordinates: ''
+    coordinates: '2033S 16415E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NC LAF'
+    name: 'La Foa'
+    namewodiacritics: 'La Foa'
+    subdiv: ''
+    function: '--3-----'
+    status: AA
+    date: '2107'
+    iata: ''
+    coordinates: '2143S 16550E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NC MTD'
+    name: 'Le Mont-Dore'
+    namewodiacritics: 'Le Mont-Dore'
+    subdiv: ''
+    function: 1----6--
+    status: RL
+    date: '1901'
+    iata: ''
+    coordinates: '2217S 16635E'
     remarks: ''
 -
     ch: ''
@@ -149,22 +197,34 @@
     namewodiacritics: Lifou
     subdiv: ''
     function: '---4----'
-    status: RQ
-    date: '0901'
+    status: RL
+    date: '1901'
     iata: ''
     coordinates: ''
     remarks: ''
 -
     ch: ''
     locode: 'NC MEE'
-    name: Mare
+    name: Maré
     namewodiacritics: Mare
     subdiv: ''
     function: '---4----'
-    status: QQ
-    date: '8103'
+    status: AI
+    date: '1901'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'NC PDC'
+    name: Muéo/Népoui
+    namewodiacritics: Mueo/Nepoui
+    subdiv: ''
+    function: '--34----'
+    status: AI
+    date: '1901'
+    iata: ''
+    coordinates: '2118S 16501E'
     remarks: ''
 -
     ch: ''
@@ -184,11 +244,11 @@
     name: Népoui
     namewodiacritics: Nepoui
     subdiv: ''
-    function: 1-------
+    function: 1--4----
     status: RL
-    date: '0212'
+    date: '1901'
     iata: ''
-    coordinates: '2121S 16500E'
+    coordinates: '2119S 16500E'
     remarks: ''
 -
     ch: ''
@@ -204,15 +264,39 @@
     remarks: ''
 -
     ch: ''
+    locode: 'NC GEA'
+    name: 'Nouméa Magenta Apt'
+    namewodiacritics: 'Noumea Magenta Apt'
+    subdiv: ''
+    function: '---4----'
+    status: RL
+    date: '1901'
+    iata: ''
+    coordinates: '2215S 16628E'
+    remarks: ''
+-
+    ch: ''
     locode: 'NC UVE'
     name: Ouvea
     namewodiacritics: Ouvea
     subdiv: ''
     function: '---4----'
-    status: QQ
-    date: '9501'
+    status: AI
+    date: '1901'
     iata: ''
-    coordinates: ''
+    coordinates: '2038S 16634E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NC PAA'
+    name: Paagoumène
+    namewodiacritics: Paagoumene
+    subdiv: ''
+    function: 1-------
+    status: AA
+    date: '2101'
+    iata: ''
+    coordinates: '2029S 16412E'
     remarks: ''
 -
     ch: ''
@@ -220,11 +304,23 @@
     name: Poro
     namewodiacritics: Poro
     subdiv: ''
-    function: 1-------
-    status: RQ
-    date: '9506'
+    function: 1-3-----
+    status: RL
+    date: '1901'
     iata: ''
-    coordinates: ''
+    coordinates: '2118S 16543E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NC PBT'
+    name: Pouembout
+    namewodiacritics: Pouembout
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '2108S 16454E'
     remarks: ''
 -
     ch: ''
@@ -232,23 +328,11 @@
     name: Prony
     namewodiacritics: Prony
     subdiv: ''
-    function: 1-------
+    function: 1-3-----
     status: RL
-    date: '0207'
+    date: '1901'
     iata: ''
-    coordinates: '2218S 16648E'
-    remarks: ''
--
-    ch: ''
-    locode: 'NC PDC'
-    name: 'Station de Muéo'
-    namewodiacritics: 'Station de Mueo'
-    subdiv: ''
-    function: '--34----'
-    status: AI
-    date: '0212'
-    iata: ''
-    coordinates: '2118S 16501E'
+    coordinates: '2219S 16649E'
     remarks: ''
 -
     ch: ''
@@ -256,11 +340,11 @@
     name: Teoudie
     namewodiacritics: Teoudie
     subdiv: ''
-    function: '--3-----'
-    status: RQ
-    date: '9506'
+    function: 1-3-----
+    status: RL
+    date: '1901'
     iata: ''
-    coordinates: ''
+    coordinates: '2046S 16424E'
     remarks: ''
 -
     ch: ''
@@ -269,8 +353,8 @@
     namewodiacritics: Thio
     subdiv: ''
     function: 1-------
-    status: RQ
-    date: '9506'
+    status: RL
+    date: '1901'
     iata: ''
     coordinates: ''
     remarks: ''
@@ -281,20 +365,20 @@
     namewodiacritics: Tiga
     subdiv: ''
     function: '---4----'
-    status: RQ
-    date: '0901'
+    status: RL
+    date: '1901'
     iata: ''
-    coordinates: '2100S 16748E'
+    coordinates: '2106S 16748E'
     remarks: ''
 -
     ch: ''
     locode: 'NC TON'
-    name: Tontouta
-    namewodiacritics: Tontouta
+    name: 'Tontouta Apt'
+    namewodiacritics: 'Tontouta Apt'
     subdiv: ''
-    function: 1---5---
+    function: 1--45---
     status: AI
-    date: '9709'
+    date: '1901'
     iata: ''
     coordinates: ''
     remarks: ''
@@ -306,9 +390,9 @@
     subdiv: ''
     function: '---4----'
     status: AI
-    date: '9601'
+    date: '1901'
     iata: ''
-    coordinates: ''
+    coordinates: '2047S 16516E'
     remarks: ''
 -
     ch: ''
@@ -317,10 +401,10 @@
     namewodiacritics: Vavouto
     subdiv: ''
     function: 1-------
-    status: RQ
-    date: '1007'
+    status: RL
+    date: '1901'
     iata: ''
-    coordinates: '2100S 16440W'
+    coordinates: '2100S 16440E'
     remarks: ''
 -
     ch: ''
@@ -329,8 +413,8 @@
     namewodiacritics: Wala
     subdiv: ''
     function: 1-------
-    status: RQ
-    date: '0901'
+    status: RL
+    date: '1901'
     iata: ''
-    coordinates: '1943S 16338E'
+    coordinates: '1943S 16339E'
     remarks: ''

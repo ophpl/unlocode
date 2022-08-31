@@ -83,7 +83,7 @@
     coordinates: '1344N 08926W'
     remarks: ''
 -
-    ch: +
+    ch: ''
     locode: 'SV AYE'
     name: Ayutuxtepeque
     namewodiacritics: Ayutuxtepeque
@@ -156,6 +156,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'SV CHQ'
+    name: Chapeltique
+    namewodiacritics: Chapeltique
+    subdiv: SM
+    function: '--3-----'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '1338N 08816W'
+    remarks: ''
+-
+    ch: ''
     locode: 'SV CHM'
     name: Chinameca
     namewodiacritics: Chinameca
@@ -201,6 +213,18 @@
     date: '1007'
     iata: ''
     coordinates: '1343N 08856W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SV COL'
+    name: Colón
+    namewodiacritics: Colon
+    subdiv: LI
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '1343N 08922W'
     remarks: ''
 -
     ch: ''
@@ -251,7 +275,7 @@
     coordinates: ''
     remarks: ''
 -
-    ch: +
+    ch: ''
     locode: 'SV EPN'
     name: 'El Paisnal'
     namewodiacritics: 'El Paisnal'
@@ -312,6 +336,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'SV ILB'
+    name: Ilobasco
+    namewodiacritics: Ilobasco
+    subdiv: CA
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '1351N 08851W'
+    remarks: ''
+-
+    ch: ''
     locode: 'SV EZC'
     name: Ilopango
     namewodiacritics: Ilopango
@@ -321,6 +357,18 @@
     date: '0901'
     iata: ''
     coordinates: '1342N 08906W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SV IZO'
+    name: Izalco
+    namewodiacritics: Izalco
+    subdiv: SO
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '1344N 08940W'
     remarks: ''
 -
     ch: ''
@@ -369,6 +417,18 @@
     date: '0901'
     iata: ''
     coordinates: '1343N 08922W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SV MJS'
+    name: Mejicanos
+    namewodiacritics: Mejicanos
+    subdiv: SS
+    function: '-23-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '1344N 08912W'
     remarks: ''
 -
     ch: ''
@@ -432,6 +492,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'SV NCN'
+    name: 'Nueva Concepción'
+    namewodiacritics: 'Nueva Concepcion'
+    subdiv: CH
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '1408N 08918W'
+    remarks: ''
+-
+    ch: ''
     locode: 'SV NSS'
     name: 'Nueva San Salvador'
     namewodiacritics: 'Nueva San Salvador'
@@ -465,6 +537,18 @@
     date: '0601'
     iata: ''
     coordinates: '1334N 08907W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SV OSI'
+    name: Osicala
+    namewodiacritics: Osicala
+    subdiv: MO
+    function: '--3-----'
+    status: RL
+    date: '1901'
+    iata: ''
+    coordinates: '1348N 08809W'
     remarks: ''
 -
     ch: ''
@@ -516,6 +600,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'SV SBO'
+    name: 'San Bartolo'
+    namewodiacritics: 'San Bartolo'
+    subdiv: CH
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '1404N 08901W'
+    remarks: ''
+-
+    ch: ''
     locode: 'SV SBT'
     name: 'San Bartolo'
     namewodiacritics: 'San Bartolo'
@@ -525,6 +621,30 @@
     date: '0401'
     iata: ''
     coordinates: '1343N 08905W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SV SBI'
+    name: 'San Bartolo Ichanmico'
+    namewodiacritics: 'San Bartolo Ichanmico'
+    subdiv: SV
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '1333N 08842W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SV ABP'
+    name: 'San Bartolome Perulapia'
+    namewodiacritics: 'San Bartolome Perulapia'
+    subdiv: CU
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '1345N 01345W'
     remarks: ''
 -
     ch: ''
@@ -540,6 +660,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'SV SIS'
+    name: 'San Isidro'
+    namewodiacritics: 'San Isidro'
+    subdiv: CA
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '1350N 08843W'
+    remarks: ''
+-
+    ch: ''
     locode: 'SV SJO'
     name: 'San Juan Opico'
     namewodiacritics: 'San Juan Opico'
@@ -549,6 +681,18 @@
     date: '0901'
     iata: ''
     coordinates: '1353N 08922W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SV SLT'
+    name: 'San Luis Talpa'
+    namewodiacritics: 'San Luis Talpa'
+    subdiv: PA
+    function: '--3-----'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '1328N 08905W'
     remarks: ''
 -
     ch: ''
@@ -624,6 +768,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'SV SRL'
+    name: 'Santa Rosa De Lima'
+    namewodiacritics: 'Santa Rosa De Lima'
+    subdiv: UN
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '1337N 08753W'
+    remarks: ''
+-
+    ch: ''
     locode: 'SV EZE'
     name: 'Santa Tecla'
     namewodiacritics: 'Santa Tecla'
@@ -693,6 +849,18 @@
     date: '0607'
     iata: ''
     coordinates: '1342N 08909W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SV TAG'
+    name: Tenancingo
+    namewodiacritics: Tenancingo
+    subdiv: CU
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '1350N 08859W'
     remarks: ''
 -
     ch: ''

@@ -1,5 +1,5 @@
 -
-    ch: +
+    ch: ''
     locode: 'SD ABY'
     name: Abyei
     namewodiacritics: Abyei
@@ -28,11 +28,11 @@
     name: 'Ar Rank'
     namewodiacritics: 'Ar Rank'
     subdiv: ''
-    function: 1-------
-    status: RQ
-    date: '0907'
+    function: '--3-----'
+    status: RL
+    date: '1707'
     iata: ''
-    coordinates: '1145N 32480E'
+    coordinates: '1145N 03248E'
     remarks: ''
 -
     ch: ''
@@ -59,19 +59,19 @@
     coordinates: ''
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'SD DOG'
     name: Dongola
     namewodiacritics: Dongola
-    subdiv: NO
+    subdiv: 'NO'
     function: '---4----'
     status: AI
     date: '1307'
     iata: ''
     coordinates: ''
-    remarks: '@Sub'
+    remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'SD ELF'
     name: 'El Fasher'
     namewodiacritics: 'El Fasher'
@@ -81,9 +81,9 @@
     date: '1307'
     iata: ''
     coordinates: '1338N 02521E'
-    remarks: '@Sub@Coo'
+    remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'SD EBD'
     name: 'El Obeid'
     namewodiacritics: 'El Obeid'
@@ -93,7 +93,7 @@
     date: '1307'
     iata: ''
     coordinates: '1311N 03013E'
-    remarks: '@Sub@Coo'
+    remarks: ''
 -
     ch: ''
     locode: 'SD EDB'
@@ -119,7 +119,7 @@
     coordinates: ''
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'SD GSU'
     name: Gedaref
     namewodiacritics: Gedaref
@@ -129,21 +129,21 @@
     date: '1307'
     iata: ''
     coordinates: ''
-    remarks: '@Sub'
+    remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'SD EGN'
     name: Geneina
     namewodiacritics: Geneina
-    subdiv: ''
+    subdiv: DW
     function: '---4----'
     status: AI
     date: '1307'
     iata: ''
     coordinates: '1327N 02226E'
-    remarks: '@Sub@Coo'
+    remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'SD JUM'
     name: Juba
     namewodiacritics: Juba
@@ -153,9 +153,9 @@
     date: '1307'
     iata: ''
     coordinates: '1209N 02427E'
-    remarks: '@Sub@Coo'
+    remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'SD KDX'
     name: Kadugli
     namewodiacritics: Kadugli
@@ -165,9 +165,9 @@
     date: '1307'
     iata: ''
     coordinates: '1100N 02943E'
-    remarks: '@Sub'
+    remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'SD KSL'
     name: Kassala
     namewodiacritics: Kassala
@@ -177,9 +177,9 @@
     date: '1307'
     iata: ''
     coordinates: ''
-    remarks: '@Sub'
+    remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'SD KRT'
     name: Khartoum
     namewodiacritics: Khartoum
@@ -189,9 +189,9 @@
     date: '1307'
     iata: ''
     coordinates: ''
-    remarks: '@Sub'
+    remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'SD GBU'
     name: 'Khashm El Girba'
     namewodiacritics: 'Khashm El Girba'
@@ -201,9 +201,9 @@
     date: '1307'
     iata: ''
     coordinates: ''
-    remarks: '@Sub'
+    remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'SD KST'
     name: Kosti
     namewodiacritics: Kosti
@@ -213,18 +213,6 @@
     date: '1307'
     iata: ''
     coordinates: '1310N 03240E'
-    remarks: '@Sub@Coo'
--
-    ch: ''
-    locode: 'SD MAK'
-    name: Malakal
-    namewodiacritics: Malakal
-    subdiv: ''
-    function: '---4----'
-    status: AI
-    date: '9601'
-    iata: ''
-    coordinates: ''
     remarks: ''
 -
     ch: ''
@@ -251,7 +239,7 @@
     coordinates: ''
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'SD NHF'
     name: 'New Halfa'
     namewodiacritics: 'New Halfa'
@@ -261,9 +249,9 @@
     date: '1307'
     iata: ''
     coordinates: ''
-    remarks: '@Sub'
+    remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'SD UYL'
     name: Nyala
     namewodiacritics: Nyala
@@ -273,9 +261,21 @@
     date: '1307'
     iata: ''
     coordinates: '1203N 02453E'
-    remarks: '@Sub@Coo'
+    remarks: ''
 -
-    ch: ¦
+    ch: ''
+    locode: 'SD BTE'
+    name: Omdurman
+    namewodiacritics: Omdurman
+    subdiv: KH
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '1538N 03226E'
+    remarks: ''
+-
+    ch: ''
     locode: 'SD PZU'
     name: 'Port Sudan'
     namewodiacritics: 'Port Sudan'
@@ -285,7 +285,7 @@
     date: '1307'
     iata: ''
     coordinates: ''
-    remarks: '@Sub'
+    remarks: ''
 -
     ch: ''
     locode: 'SD RAB'
@@ -312,18 +312,6 @@
     remarks: ''
 -
     ch: ''
-    locode: 'SD RBK'
-    name: Rumbek
-    namewodiacritics: Rumbek
-    subdiv: ''
-    function: '--3-----'
-    status: RL
-    date: '0601'
-    iata: ''
-    coordinates: '0648N 02942E'
-    remarks: ''
--
-    ch: ''
     locode: 'SD SSD'
     name: Sawakin
     namewodiacritics: Sawakin
@@ -347,7 +335,7 @@
     coordinates: ''
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'SD DNI'
     name: 'Wad Medani'
     namewodiacritics: 'Wad Medani'
@@ -357,28 +345,16 @@
     date: '1307'
     iata: ''
     coordinates: '1424N 03329E'
-    remarks: '@Sub@Coo'
+    remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'SD WHF'
     name: 'Wadi Halfa'
     namewodiacritics: 'Wadi Halfa'
-    subdiv: NO
+    subdiv: 'NO'
     function: '---4----'
     status: AI
     date: '1307'
-    iata: ''
-    coordinates: ''
-    remarks: '@Sub'
--
-    ch: ''
-    locode: 'SD WUU'
-    name: Wau
-    namewodiacritics: Wau
-    subdiv: ''
-    function: '---4----'
-    status: AI
-    date: '9601'
     iata: ''
     coordinates: ''
     remarks: ''
@@ -393,4 +369,16 @@
     date: '0901'
     iata: ''
     coordinates: '0405N 03040E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SD ZLX'
+    name: Zalingei
+    namewodiacritics: Zalingei
+    subdiv: DW
+    function: '--34----'
+    status: AM
+    date: '2107'
+    iata: ''
+    coordinates: '1254N 02329E'
     remarks: ''

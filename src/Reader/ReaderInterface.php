@@ -9,7 +9,6 @@ namespace UN\Locode\Reader;
  */
 interface ReaderInterface
 {
-
     /**
      * Read data.
      *
@@ -30,5 +29,4 @@ interface ReaderInterface
      * @return mixed
      */
     public function findEntry($path, $country, $field, $value);
-
 }

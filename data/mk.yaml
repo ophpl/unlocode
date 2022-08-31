@@ -1,27 +1,27 @@
 -
-    ch: ¦
+    ch: ''
     locode: 'MK BRV'
     name: Berovo
     namewodiacritics: Berovo
-    subdiv: '03'
+    subdiv: '201'
     function: '--3----B'
     status: AC
     date: '1307'
     iata: ''
     coordinates: '4142N 02251E'
-    remarks: '@Sub@Coo'
+    remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'MK BTL'
     name: Bitola
     namewodiacritics: Bitola
-    subdiv: '04'
+    subdiv: '501'
     function: '-234----'
     status: AC
     date: '1307'
     iata: ''
     coordinates: '4101N 02119E'
-    remarks: '@Sub@Coo'
+    remarks: ''
 -
     ch: ''
     locode: 'MK BLC'
@@ -47,17 +47,17 @@
     coordinates: ''
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'MK BDA'
     name: Bogdanci
     namewodiacritics: Bogdanci
-    subdiv: '05'
+    subdiv: '401'
     function: '--3-----'
     status: RQ
     date: '1307'
     iata: ''
     coordinates: '4112N 02234E'
-    remarks: '@Sub'
+    remarks: ''
 -
     ch: ''
     locode: 'MK BRD'
@@ -71,17 +71,29 @@
     coordinates: ''
     remarks: ''
 -
-    ch: ¦
+    ch: ''
+    locode: 'MK BT5'
+    name: Bogovinje
+    namewodiacritics: Bogovinje
+    subdiv: '609'
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '4155N 02054E'
+    remarks: ''
+-
+    ch: ''
     locode: 'MK DEB'
     name: Debar
     namewodiacritics: Debar
-    subdiv: '21'
+    subdiv: '303'
     function: '--3-----'
     status: RL
     date: '1307'
     iata: ''
     coordinates: '4132N 02031E'
-    remarks: '@Sub'
+    remarks: ''
 -
     ch: ''
     locode: 'MK DLV'
@@ -95,11 +107,11 @@
     coordinates: ''
     remarks: ''
 -
-    ch: +
+    ch: ''
     locode: 'MK DEH'
     name: 'Demir Hisar'
     namewodiacritics: 'Demir Hisar'
-    subdiv: '25'
+    subdiv: '502'
     function: '--3-----'
     status: RL
     date: '1307'
@@ -107,17 +119,17 @@
     coordinates: '4113N 02112E'
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'MK DKJ'
     name: 'Demir Kapija'
     namewodiacritics: 'Demir Kapija'
-    subdiv: '24'
+    subdiv: '103'
     function: 1-3-----
     status: RL
     date: '1307'
     iata: ''
     coordinates: '4124N 02214E'
-    remarks: '@Sub'
+    remarks: ''
 -
     ch: ''
     locode: 'MK DVB'
@@ -131,40 +143,64 @@
     coordinates: ''
     remarks: ''
 -
-    ch: ¦
+    ch: ''
+    locode: 'MK DRA'
+    name: Dracevo
+    namewodiacritics: Dracevo
+    subdiv: '85'
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '4156N 02131E'
+    remarks: ''
+-
+    ch: ''
     locode: 'MK GVL'
     name: Gevgelija
     namewodiacritics: Gevgelija
-    subdiv: '18'
+    subdiv: '405'
     function: '-23-----'
     status: AC
     date: '1307'
     iata: ''
     coordinates: '4108N 02230E'
-    remarks: '@Sub'
+    remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'MK GST'
     name: Gostivar
     namewodiacritics: Gostivar
-    subdiv: '19'
+    subdiv: '604'
     function: '--3-----'
     status: AC
     date: '1307'
     iata: ''
     coordinates: ''
-    remarks: '@Sub'
+    remarks: ''
 -
-    ch: +
+    ch: ''
     locode: 'MK GDK'
     name: Gradsko
     namewodiacritics: Gradsko
-    subdiv: '20'
+    subdiv: '102'
     function: '--3-----'
     status: RL
     date: '1307'
     iata: ''
     coordinates: '4134N 02156E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MK ILI'
+    name: Ilinden
+    namewodiacritics: Ilinden
+    subdiv: '85'
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '4159N 02134E'
     remarks: ''
 -
     ch: ''
@@ -191,29 +227,29 @@
     coordinates: ''
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'MK KBI'
     name: Karbinci
     namewodiacritics: Karbinci
-    subdiv: '37'
+    subdiv: '205'
     function: '--3-----'
     status: RQ
     date: '1307'
     iata: ''
     coordinates: '4148N 02217E'
-    remarks: '@Sub@Coo'
+    remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'MK KVD'
     name: Kavadarci
     namewodiacritics: Kavadarci
-    subdiv: '36'
+    subdiv: '104'
     function: '--3----B'
     status: AC
     date: '1307'
     iata: ''
     coordinates: '4126N 02200E'
-    remarks: '@Sub@Coo'
+    remarks: ''
 -
     ch: ''
     locode: 'MK KCV'
@@ -240,6 +276,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'MK KI8'
+    name: Konopiste
+    namewodiacritics: Konopiste
+    subdiv: '104'
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '4114N 02204E'
+    remarks: ''
+-
+    ch: ''
     locode: 'MK KOS'
     name: Kosovo
     namewodiacritics: Kosovo
@@ -251,11 +299,11 @@
     coordinates: '4149N 02107E'
     remarks: ''
 -
-    ch: +
+    ch: ''
     locode: 'MK KKP'
     name: 'Kriva Palanka'
     namewodiacritics: 'Kriva Palanka'
-    subdiv: '44'
+    subdiv: '702'
     function: '--3-----'
     status: RL
     date: '1307'
@@ -263,29 +311,41 @@
     coordinates: '4212N 02219E'
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'MK KUM'
     name: Kumanovo
     namewodiacritics: Kumanovo
-    subdiv: '47'
+    subdiv: '703'
     function: '--3-----'
     status: AC
     date: '1307'
     iata: ''
     coordinates: '4207N 02142E'
-    remarks: '@Sub@Coo'
+    remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'MK LOZ'
     name: Lozovo
     namewodiacritics: Lozovo
-    subdiv: '49'
+    subdiv: '105'
     function: '-23-----'
     status: RL
     date: '1307'
     iata: ''
     coordinates: '4145N 02156E'
-    remarks: '@Sub@Coo'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MK MB7'
+    name: 'Makedonski Brod'
+    namewodiacritics: 'Makedonski Brod'
+    subdiv: '308'
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '4130N 02112E'
+    remarks: ''
 -
     ch: ''
     locode: 'MK MTL'
@@ -299,59 +359,59 @@
     coordinates: '4056N 02126E'
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'MK MIR'
     name: Miravci
     namewodiacritics: Miravci
-    subdiv: '18'
+    subdiv: '405'
     function: '--3-----'
     status: RL
     date: '1307'
     iata: ''
     coordinates: '4118N 02226E'
-    remarks: '@Sub@Coo'
+    remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'MK NGT'
     name: Negotino
     namewodiacritics: Negotino
-    subdiv: '54'
+    subdiv: '106'
     function: '--3-----'
     status: RQ
     date: '1307'
     iata: ''
     coordinates: '4129N 02205E'
-    remarks: '@Sub@Coo'
+    remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'MK NOD'
     name: 'Novi Dojran'
     namewodiacritics: 'Novi Dojran'
-    subdiv: '26'
+    subdiv: '406'
     function: 1-------
     status: RQ
     date: '1307'
     iata: ''
     coordinates: '4113N 02242E'
-    remarks: '@Sub@Coo'
+    remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'MK NSL'
     name: 'Novo Selo'
     namewodiacritics: 'Novo Selo'
-    subdiv: '56'
+    subdiv: '408'
     function: '--3----B'
     status: AC
     date: '1307'
     iata: ''
     coordinates: '4125N 02254E'
-    remarks: '@Sub@Coo'
+    remarks: ''
 -
     ch: ''
     locode: 'MK OBL'
     name: Oblesevo
     namewodiacritics: Oblesevo
-    subdiv: '42'
+    subdiv: '206'
     function: '--3-----'
     status: RL
     date: '0701'
@@ -359,17 +419,17 @@
     coordinates: '4153N 02220E'
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'MK OHD'
     name: Ohrid
     namewodiacritics: Ohrid
-    subdiv: '58'
+    subdiv: '310'
     function: '--34---B'
     status: AC
     date: '1307'
     iata: ''
     coordinates: '4107N 02048E'
-    remarks: '@Sub@Coo'
+    remarks: ''
 -
     ch: ''
     locode: 'MK PLN'
@@ -383,53 +443,53 @@
     coordinates: ''
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'MK PTR'
     name: Petrovec
     namewodiacritics: Petrovec
-    subdiv: '59'
+    subdiv: '810'
     function: '---4---B'
     status: AC
     date: '1307'
     iata: ''
     coordinates: '4156N 02136E'
-    remarks: '@Sub@Coo'
+    remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'MK PLP'
     name: Prilep
     namewodiacritics: Prilep
-    subdiv: '62'
+    subdiv: '508'
     function: '-23-----'
     status: AC
     date: '1307'
     iata: ''
     coordinates: '4120N 02133E'
-    remarks: '@Sub@Coo'
+    remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'MK PRO'
     name: Probistip
     namewodiacritics: Probistip
-    subdiv: '63'
+    subdiv: '209'
     function: '--3-----'
     status: RL
     date: '1307'
     iata: ''
     coordinates: '4200N 02211E'
-    remarks: '@Sub@Coo'
+    remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'MK RAD'
     name: Radovis
     namewodiacritics: Radovis
-    subdiv: '64'
+    subdiv: '409'
     function: 1----6--
     status: RQ
     date: '1307'
     iata: ''
     coordinates: '4139N 02230E'
-    remarks: '@Sub@Coo'
+    remarks: ''
 -
     ch: ''
     locode: 'MK RSN'
@@ -455,41 +515,41 @@
     coordinates: ''
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'MK SPT'
     name: Sopot
     namewodiacritics: Sopot
-    subdiv: '13'
+    subdiv: '101'
     function: '--3----B'
     status: AC
     date: '1307'
     iata: ''
     coordinates: '4147N 02143E'
-    remarks: '@Sub@Coo'
+    remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'MK SDR'
     name: 'Star Dojran'
     namewodiacritics: 'Star Dojran'
-    subdiv: '26'
+    subdiv: '406'
     function: '--3----B'
     status: AC
     date: '1307'
     iata: ''
     coordinates: '4111N 02243E'
-    remarks: '@Sub@Coo'
+    remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'MK STE'
     name: Stenje
     namewodiacritics: Stenje
-    subdiv: '66'
+    subdiv: '509'
     function: '--3----B'
     status: AC
     date: '1307'
     iata: ''
     coordinates: '4056N 02054E'
-    remarks: '@Sub@Coo'
+    remarks: ''
 -
     ch: ''
     locode: 'MK STP'
@@ -503,11 +563,11 @@
     coordinates: ''
     remarks: ''
 -
-    ch: +
+    ch: ''
     locode: 'MK STO'
     name: Stojakovo
     namewodiacritics: Stojakovo
-    subdiv: '05'
+    subdiv: '401'
     function: '--3-----'
     status: RL
     date: '1307'
@@ -515,53 +575,53 @@
     coordinates: '4109N 02234E'
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'MK STG'
     name: Struga
     namewodiacritics: Struga
-    subdiv: '69'
+    subdiv: '108'
     function: '--3-----'
     status: AC
     date: '1307'
     iata: ''
     coordinates: ''
-    remarks: '@Sub'
+    remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'MK STM'
     name: Strumica
     namewodiacritics: Strumica
-    subdiv: '73'
+    subdiv: '410'
     function: '--3-----'
     status: AC
     date: '1307'
     iata: ''
     coordinates: '4126N 02238E'
-    remarks: '@Sub'
+    remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'MK STN'
     name: 'Sveti Naum'
     namewodiacritics: 'Sveti Naum'
-    subdiv: '58'
+    subdiv: '310'
     function: '--3----B'
     status: AC
     date: '1307'
     iata: ''
     coordinates: '4054N 02048E'
-    remarks: '@Sub@Coo'
+    remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'MK SNI'
     name: 'Sveti Nikole'
     namewodiacritics: 'Sveti Nikole'
-    subdiv: '69'
+    subdiv: '108'
     function: 1-------
     status: RL
     date: '1307'
     iata: ''
     coordinates: '4151N 02156E'
-    remarks: '@Sub@Coo'
+    remarks: ''
 -
     ch: ''
     locode: 'MK TBN'
@@ -575,31 +635,31 @@
     coordinates: ''
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'MK TEV'
     name: Tetovo
     namewodiacritics: Tetovo
-    subdiv: '76'
+    subdiv: '609'
     function: '--3-----'
     status: AC
     date: '1307'
     iata: ''
     coordinates: '4200N 02058E'
-    remarks: '@Sub@Coo'
+    remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'MK MTS'
     name: 'Titov Veles'
     namewodiacritics: 'Titov Veles'
-    subdiv: '13'
+    subdiv: '101'
     function: '-----6--'
     status: RL
     date: '1307'
     iata: ''
     coordinates: '4142N 02146E'
-    remarks: '@Sub'
+    remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'MK TBR'
     name: Trubarevo
     namewodiacritics: Trubarevo
@@ -609,43 +669,43 @@
     date: '1307'
     iata: ''
     coordinates: '4158N 02131E'
-    remarks: '@Sub@Coo'
+    remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'MK VAL'
     name: Valandovo
     namewodiacritics: Valandovo
-    subdiv: '10'
+    subdiv: '403'
     function: '--3-----'
     status: RL
     date: '1307'
     iata: ''
     coordinates: '4119N 02233E'
-    remarks: '@Sub'
+    remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'MK TTV'
     name: Veles
     namewodiacritics: Veles
-    subdiv: '13'
+    subdiv: '101'
     function: '-23-----'
     status: RL
     date: '1307'
     iata: ''
     coordinates: '4142N 02146E'
-    remarks: '@Sub'
+    remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'MK VIN'
     name: Vinica
     namewodiacritics: Vinica
-    subdiv: '14'
+    subdiv: '202'
     function: '--3-----'
     status: RL
     date: '1307'
     iata: ''
     coordinates: '4152N 02229E'
-    remarks: '@Sub'
+    remarks: ''
 -
     ch: ''
     locode: 'MK VLK'

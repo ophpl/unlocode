@@ -60,6 +60,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'LU BEE'
+    name: 'Beaufort (Beefort)'
+    namewodiacritics: 'Beaufort (Beefort)'
+    subdiv: EC
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4950N 00617E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LU BCH'
+    name: Bech
+    namewodiacritics: Bech
+    subdiv: EC
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4944N 00621E'
+    remarks: ''
+-
+    ch: ''
     locode: 'LU BKM'
     name: Bech-Kleinmacher
     namewodiacritics: Bech-Kleinmacher
@@ -83,7 +107,7 @@
     coordinates: '4943N 00553E'
     remarks: ''
 -
-    ch: +
+    ch: ''
     locode: 'LU BDW'
     name: Beidweiler
     namewodiacritics: Beidweiler
@@ -93,6 +117,30 @@
     date: '1307'
     iata: ''
     coordinates: '4943N 00618E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LU DK4'
+    name: Beiler
+    namewodiacritics: Beiler
+    subdiv: D
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '5009N 00605E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LU BDF'
+    name: 'Berdorf (Bäerdref)'
+    namewodiacritics: 'Berdorf (Baerdref)'
+    subdiv: GR
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4948N 00621E'
     remarks: ''
 -
     ch: ''
@@ -144,6 +192,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'LU BTB'
+    name: Bettborn
+    namewodiacritics: Bettborn
+    subdiv: D
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '4947N 00556E'
+    remarks: ''
+-
+    ch: ''
     locode: 'LU BET'
     name: Bettembourg
     namewodiacritics: Bettembourg
@@ -153,6 +213,18 @@
     date: '9501'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'LU BTF'
+    name: 'Bettendorf (Bettenduerf)'
+    namewodiacritics: 'Bettendorf (Bettenduerf)'
+    subdiv: DI
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4952N 00613E'
     remarks: ''
 -
     ch: ''
@@ -192,6 +264,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'LU BIW'
+    name: Biwer
+    namewodiacritics: Biwer
+    subdiv: GR
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4942N 00622E'
+    remarks: ''
+-
+    ch: ''
     locode: 'LU BOC'
     name: Bockholtz
     namewodiacritics: Bockholtz
@@ -204,6 +288,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'LU BOA'
+    name: 'Boevange-sur-Attert (Béiwen-Atert)'
+    namewodiacritics: 'Boevange-sur-Attert (Beiwen-Atert)'
+    subdiv: ME
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4946N 00600E'
+    remarks: ''
+-
+    ch: ''
     locode: 'LU BDB'
     name: Boudler
     namewodiacritics: Boudler
@@ -213,6 +309,42 @@
     date: '0201'
     iata: ''
     coordinates: '4943N 00620E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LU BAU'
+    name: 'Boulaide (Bauschelt)'
+    namewodiacritics: 'Boulaide (Bauschelt)'
+    subdiv: WI
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4953N 00548E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LU BUU'
+    name: 'Bourscheid (Buurschent)'
+    namewodiacritics: 'Bourscheid (Buurschent)'
+    subdiv: DI
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4954N 00604E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LU BUS'
+    name: 'Bous( Bus)'
+    namewodiacritics: 'Bous( Bus)'
+    subdiv: RM
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4933N 00619E'
     remarks: ''
 -
     ch: ''
@@ -276,6 +408,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'LU CNS'
+    name: 'Consdorf (Konsdref)'
+    namewodiacritics: 'Consdorf (Konsdref)'
+    subdiv: EC
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4946N 00620E'
+    remarks: ''
+-
+    ch: ''
     locode: 'LU CTN'
     name: Contern
     namewodiacritics: Contern
@@ -300,6 +444,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'LU DLM'
+    name: 'Dalheim (Duelem)'
+    namewodiacritics: 'Dalheim (Duelem)'
+    subdiv: GR
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4932N 00615E'
+    remarks: ''
+-
+    ch: ''
     locode: 'LU DIE'
     name: Diekirch
     namewodiacritics: Diekirch
@@ -321,6 +477,18 @@
     date: '0201'
     iata: ''
     coordinates: '4930N 00553E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LU DIP'
+    name: 'Dippach (Dippech)'
+    namewodiacritics: 'Dippach (Dippech)'
+    subdiv: CA
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4935N 00559E'
     remarks: ''
 -
     ch: ''
@@ -384,6 +552,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'LU E7N'
+    name: Eischen
+    namewodiacritics: Eischen
+    subdiv: L
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '4941N 00552E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LU LEL'
+    name: Ell
+    namewodiacritics: Ell
+    subdiv: DI
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4945N 00551E'
+    remarks: ''
+-
+    ch: ''
     locode: 'LU ELL'
     name: Ellange
     namewodiacritics: Ellange
@@ -432,6 +624,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'LU ESS'
+    name: 'Esch-sur-Sûre (Esch-Sauer)'
+    namewodiacritics: 'Esch-sur-Sure (Esch-Sauer)'
+    subdiv: WI
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4954N 00556E'
+    remarks: ''
+-
+    ch: ''
     locode: 'LU EBN'
     name: Eselborn
     namewodiacritics: Eselborn
@@ -468,6 +672,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'LU FEE'
+    name: 'Feulen (Feelen)'
+    namewodiacritics: 'Feulen (Feelen)'
+    subdiv: DI
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4951N 00603E'
+    remarks: ''
+-
+    ch: ''
     locode: 'LU FDL'
     name: Findel
     namewodiacritics: Findel
@@ -477,6 +693,30 @@
     date: '0607'
     iata: ''
     coordinates: '4937N 00612E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LU FSB'
+    name: 'Fischbach (Fëschbech)'
+    namewodiacritics: 'Fischbach (Feschbech)'
+    subdiv: ME
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4944N 00611E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LU FLW'
+    name: 'Flaxweiler (Fluessweiler)'
+    namewodiacritics: 'Flaxweiler (Fluessweiler)'
+    subdiv: GR
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4939N 00620E'
     remarks: ''
 -
     ch: ''
@@ -492,6 +732,78 @@
     remarks: ''
 -
     ch: ''
+    locode: 'LU FHN'
+    name: Fouhren
+    namewodiacritics: Fouhren
+    subdiv: VD
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '4955N 00612E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LU FRS'
+    name: 'Frisange (Fréiseng)'
+    namewodiacritics: 'Frisange (Freiseng)'
+    subdiv: ES
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4930N 00611E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LU GAR'
+    name: 'Garnich (Garnech)'
+    namewodiacritics: 'Garnich (Garnech)'
+    subdiv: CA
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4937N 00557E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LU GRE'
+    name: Godbrange
+    namewodiacritics: Godbrange
+    subdiv: GR
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '4943N 00613E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LU GSD'
+    name: 'Goesdorf (Géisdref)'
+    namewodiacritics: 'Goesdorf (Geisdref)'
+    subdiv: DI
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4955N 00558E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LU R9G'
+    name: Gonderange
+    namewodiacritics: Gonderange
+    subdiv: GR
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '4941N 00614E'
+    remarks: ''
+-
+    ch: ''
     locode: 'LU GVC'
     name: Grevenmacher
     namewodiacritics: Grevenmacher
@@ -504,6 +816,54 @@
     remarks: ''
 -
     ch: ''
+    locode: 'LU GRB'
+    name: 'Grosbous (Groussbus)'
+    namewodiacritics: 'Grosbous (Groussbus)'
+    subdiv: RD
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4949N 00558E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LU ZXC'
+    name: Grundhof
+    namewodiacritics: Grundhof
+    subdiv: G
+    function: 1-3-----
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '4950N 00619E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LU LHC'
+    name: Hagen
+    namewodiacritics: Hagen
+    subdiv: CA
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '4938N 00555E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LU HTB'
+    name: Hautbellain
+    namewodiacritics: Hautbellain
+    subdiv: CL
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5009N 00558E'
+    remarks: ''
+-
+    ch: ''
     locode: 'LU HAT'
     name: Hautcharage
     namewodiacritics: Hautcharage
@@ -513,6 +873,42 @@
     date: '1201'
     iata: ''
     coordinates: '4934N 00554E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LU HFN'
+    name: 'Heffingen (Hiefenech)'
+    namewodiacritics: 'Heffingen (Hiefenech)'
+    subdiv: ME
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4945N 00614E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LU HDH'
+    name: Heiderscheid
+    namewodiacritics: Heiderscheid
+    subdiv: WI
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '4953N 00558E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LU HAE'
+    name: Hellange
+    namewodiacritics: Hellange
+    subdiv: L
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4930N 00602E'
     remarks: ''
 -
     ch: ''
@@ -612,6 +1008,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'LU HDK'
+    name: Huldange
+    namewodiacritics: Huldange
+    subdiv: D
+    function: 1-3-----
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '5009N 00600E'
+    remarks: ''
+-
+    ch: ''
     locode: 'LU HDF'
     name: Hünsdorf
     namewodiacritics: Hunsdorf
@@ -621,6 +1029,18 @@
     date: '0607'
     iata: ''
     coordinates: '4942N 00608E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LU LD8'
+    name: Ingeldorf
+    namewodiacritics: Ingeldorf
+    subdiv: D
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '4951N 00608E'
     remarks: ''
 -
     ch: ''
@@ -648,6 +1068,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'LU KRJ'
+    name: Käerjeng
+    namewodiacritics: Kaerjeng
+    subdiv: CA
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4935N 00554E'
+    remarks: ''
+-
+    ch: ''
     locode: 'LU KAY'
     name: Kayl
     namewodiacritics: Kayl
@@ -669,6 +1101,18 @@
     date: '0307'
     iata: ''
     coordinates: '4940N 00602E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LU KII'
+    name: Kiischpelt
+    namewodiacritics: Kiischpelt
+    subdiv: WI
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4959N 00600E'
     remarks: ''
 -
     ch: ''
@@ -696,6 +1140,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'LU KRH'
+    name: Koerich
+    namewodiacritics: Koerich
+    subdiv: L
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '4940N 00557E'
+    remarks: ''
+-
+    ch: ''
     locode: 'LU KOE'
     name: Koetschette
     namewodiacritics: Koetschette
@@ -705,6 +1161,54 @@
     date: '0607'
     iata: ''
     coordinates: '4950N 00551E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LU KOP'
+    name: 'Kopstal (Koplescht)'
+    namewodiacritics: 'Kopstal (Koplescht)'
+    subdiv: CA
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4939N 00604E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LU SSG'
+    name: 'Lac de la Haute-Sûre (Stauséigemeng)'
+    namewodiacritics: 'Lac de la Haute-Sure (Stauseigemeng)'
+    subdiv: WI
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4954N 00552E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LU LDE'
+    name: Lamadelaine
+    namewodiacritics: Lamadelaine
+    subdiv: ES
+    function: '--3-----'
+    status: RL
+    date: '1707'
+    iata: ''
+    coordinates: '4932N 00551E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LU FLS'
+    name: 'Larochette (Fiels)'
+    namewodiacritics: 'Larochette (Fiels)'
+    subdiv: ME
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4946N 00613E'
     remarks: ''
 -
     ch: ''
@@ -744,6 +1248,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'LU 8LX'
+    name: Linger
+    namewodiacritics: Linger
+    subdiv: L
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4933N 00553E'
+    remarks: ''
+-
+    ch: ''
     locode: 'LU LIN'
     name: Lintgen
     namewodiacritics: Lintgen
@@ -753,6 +1269,18 @@
     date: '1001'
     iata: ''
     coordinates: '4943N 00607E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LU LRS'
+    name: Lipperscheid
+    namewodiacritics: Lipperscheid
+    subdiv: DI
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '4955N 00605E'
     remarks: ''
 -
     ch: ''
@@ -804,6 +1332,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'LU MTN'
+    name: Manternach
+    namewodiacritics: Manternach
+    subdiv: GR
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4942N 00625E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LU MCH'
+    name: Medernach
+    namewodiacritics: Medernach
+    subdiv: DI
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '4948N 00613E'
+    remarks: ''
+-
+    ch: ''
     locode: 'LU JEU'
     name: Mersch
     namewodiacritics: Mersch
@@ -825,6 +1377,42 @@
     date: '0901'
     iata: ''
     coordinates: '4942N 00629E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LU MRZ'
+    name: 'Mertzig (Mäerzeg)'
+    namewodiacritics: 'Mertzig (Maerzeg)'
+    subdiv: DI
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4950N 00600E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LU MOM'
+    name: 'Mompach (Mompech)'
+    namewodiacritics: 'Mompach (Mompech)'
+    subdiv: ES
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4944N 00627E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LU ME6'
+    name: Mondercange
+    namewodiacritics: Mondercange
+    subdiv: L
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '4931N 00559E'
     remarks: ''
 -
     ch: ''
@@ -900,6 +1488,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'LU 7NL'
+    name: Noertzange
+    namewodiacritics: Noertzange
+    subdiv: L
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4930N 00603E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LU NOU'
+    name: 'Nommern (Noumer)'
+    namewodiacritics: 'Nommern (Noumer)'
+    subdiv: ME
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4947N 00610E'
+    remarks: ''
+-
+    ch: ''
     locode: 'LU OBR'
     name: Oberanven
     namewodiacritics: Oberanven
@@ -948,6 +1560,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'LU PRH'
+    name: 'Parc Hosingen (Parc Housen)'
+    namewodiacritics: 'Parc Hosingen (Parc Housen)'
+    subdiv: CL
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5000N 00605E'
+    remarks: ''
+-
+    ch: ''
     locode: 'LU PTN'
     name: Pétange
     namewodiacritics: Petange
@@ -984,6 +1608,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'LU PRZ'
+    name: Préizerdaul
+    namewodiacritics: Preizerdaul
+    subdiv: RD
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4947N 00556E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LU PTT'
+    name: 'Putscheid (Pëtscht)'
+    namewodiacritics: 'Putscheid (Petscht)'
+    subdiv: VD
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4957N 00608E'
+    remarks: ''
+-
+    ch: ''
     locode: 'LU RBH'
     name: Rambrouch
     namewodiacritics: Rambrouch
@@ -996,6 +1644,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'LU RKM'
+    name: 'Reckange-sur-Mess (Reckeng op der Mess)'
+    namewodiacritics: 'Reckange-sur-Mess (Reckeng op der Mess)'
+    subdiv: ES
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4933N 00600E'
+    remarks: ''
+-
+    ch: ''
     locode: 'LU RDN'
     name: Redange
     namewodiacritics: Redange
@@ -1005,6 +1665,18 @@
     date: '0201'
     iata: ''
     coordinates: '4946N 00553E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LU REI'
+    name: 'Reisdorf (Reisduerf)'
+    namewodiacritics: 'Reisdorf (Reisduerf)'
+    subdiv: DI
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4952N 00616E'
     remarks: ''
 -
     ch: ''
@@ -1056,6 +1728,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'LU RAC'
+    name: Rombach
+    namewodiacritics: Rombach
+    subdiv: D
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4950N 00545E'
+    remarks: ''
+-
+    ch: ''
     locode: 'LU ROS'
     name: Roost
     namewodiacritics: Roost
@@ -1065,6 +1749,30 @@
     date: '0701'
     iata: ''
     coordinates: '4947N 00605E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LU ROR'
+    name: Rosport
+    namewodiacritics: Rosport
+    subdiv: G
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4947N 00630E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LU RSP'
+    name: 'Rosport (Rouspert)'
+    namewodiacritics: 'Rosport (Rouspert)'
+    subdiv: EC
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4947N 00630E'
     remarks: ''
 -
     ch: ''
@@ -1080,6 +1788,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'LU RUL'
+    name: Roullingen
+    namewodiacritics: Roullingen
+    subdiv: DI
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '4957N 00555E'
+    remarks: ''
+-
+    ch: ''
     locode: 'LU RUM'
     name: Rumelange
     namewodiacritics: Rumelange
@@ -1089,6 +1809,18 @@
     date: '0701'
     iata: ''
     coordinates: '4927N 00601E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LU SEL'
+    name: 'Saeul (Sëll)'
+    namewodiacritics: 'Saeul (Sell)'
+    subdiv: RD
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4943N 00559E'
     remarks: ''
 -
     ch: ''
@@ -1128,6 +1860,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'LU SCR'
+    name: Schieren
+    namewodiacritics: Schieren
+    subdiv: DI
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4949N 00605E'
+    remarks: ''
+-
+    ch: ''
     locode: 'LU SFG'
     name: Schifflange
     namewodiacritics: Schifflange
@@ -1137,6 +1881,18 @@
     date: '0701'
     iata: ''
     coordinates: '4930N 00600E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LU STG'
+    name: Schuttrange
+    namewodiacritics: Schuttrange
+    subdiv: L
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '4937N 00616E'
     remarks: ''
 -
     ch: ''
@@ -1152,6 +1908,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'LU SEB'
+    name: Senningerberg
+    namewodiacritics: Senningerberg
+    subdiv: L
+    function: '--3-----'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '4938N 00613E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LU SPT'
+    name: 'Septfontaines (Simmer)'
+    namewodiacritics: 'Septfontaines (Simmer)'
+    subdiv: CA
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4942N 00558E'
+    remarks: ''
+-
+    ch: ''
     locode: 'LU SOL'
     name: Soleuvre
     namewodiacritics: Soleuvre
@@ -1161,6 +1941,18 @@
     date: '0701'
     iata: ''
     coordinates: '4932N 00556E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LU SBD'
+    name: 'Stadtbredimus (Stadbriedemes)'
+    namewodiacritics: 'Stadtbredimus (Stadbriedemes)'
+    subdiv: RM
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4933N 00621E'
     remarks: ''
 -
     ch: ''
@@ -1200,6 +1992,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'LU 4ST'
+    name: Stuppicht
+    namewodiacritics: Stuppicht
+    subdiv: L
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '4943N 00611E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LU TDL'
+    name: Tandel
+    namewodiacritics: Tandel
+    subdiv: VD
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4953N 00611E'
+    remarks: ''
+-
+    ch: ''
     locode: 'LU TRO'
     name: Troisvierges
     namewodiacritics: Troisvierges
@@ -1209,6 +2025,18 @@
     date: '9501'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'LU TTE'
+    name: 'Tuntange (Téinten)'
+    namewodiacritics: 'Tuntange (Teinten)'
+    subdiv: ME
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4943N 00600E'
     remarks: ''
 -
     ch: ''
@@ -1224,6 +2052,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'LU EZD'
+    name: 'Vallée de l''Ernz (Ärenzdall)'
+    namewodiacritics: 'Vallee de l''Ernz (Arenzdall)'
+    subdiv: DI
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4949N 00613E'
+    remarks: ''
+-
+    ch: ''
     locode: 'LU VIA'
     name: Vianden
     namewodiacritics: Vianden
@@ -1236,6 +2076,78 @@
     remarks: ''
 -
     ch: ''
+    locode: 'LU VIC'
+    name: 'Vichten (Viichten)'
+    namewodiacritics: 'Vichten (Viichten)'
+    subdiv: RD
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4948N 00600E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LU WAL'
+    name: 'Wahl (Wal)'
+    namewodiacritics: 'Wahl (Wal)'
+    subdiv: RD
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4950N 00554E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LU WLB'
+    name: 'Waldbillig (Waldbëlleg)'
+    namewodiacritics: 'Waldbillig (Waldbelleg)'
+    subdiv: EC
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4947N 00617E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LU WBD'
+    name: 'Waldbredimus (Waldbriedemes)'
+    namewodiacritics: 'Waldbredimus (Waldbriedemes)'
+    subdiv: RM
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4933N 00617E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LU WLF'
+    name: 'Walferdange (Walfer)'
+    namewodiacritics: 'Walferdange (Walfer)'
+    subdiv: LU
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4939N 00608E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LU WSG'
+    name: Wasserbillig
+    namewodiacritics: Wasserbillig
+    subdiv: L
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '4942N 00631E'
+    remarks: ''
+-
+    ch: ''
     locode: 'LU WEK'
     name: Wecker
     namewodiacritics: Wecker
@@ -1245,6 +2157,18 @@
     date: '0701'
     iata: ''
     coordinates: '4941N 00623E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LU WET'
+    name: 'Weiler-la-Tour (Weiler zum Tuerm)'
+    namewodiacritics: 'Weiler-la-Tour (Weiler zum Tuerm)'
+    subdiv: LU
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4932N 00612E'
     remarks: ''
 -
     ch: ''
@@ -1296,6 +2220,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'LU WNG'
+    name: 'Wincrange (Wëntger)'
+    namewodiacritics: 'Wincrange (Wentger)'
+    subdiv: CL
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5003N 00555E'
+    remarks: ''
+-
+    ch: ''
     locode: 'LU WHF'
     name: Windhof
     namewodiacritics: Windhof
@@ -1305,6 +2241,30 @@
     date: '1301'
     iata: ''
     coordinates: '4938N 00557E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LU WNS'
+    name: 'Winseler (Wanseler)'
+    namewodiacritics: 'Winseler (Wanseler)'
+    subdiv: WI
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4958N 00553E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LU WTA'
+    name: Wintrange
+    namewodiacritics: Wintrange
+    subdiv: G
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4930N 00621E'
     remarks: ''
 -
     ch: ''

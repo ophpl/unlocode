@@ -36,6 +36,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'BG ATL'
+    name: Altimir
+    namewodiacritics: Altimir
+    subdiv: '06'
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '4332N 02349E'
+    remarks: ''
+-
+    ch: ''
     locode: 'BG API'
     name: Apriltsi
     namewodiacritics: Apriltsi
@@ -48,6 +60,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'BG ARD'
+    name: Ardino
+    namewodiacritics: Ardino
+    subdiv: '21'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4135N 02508E'
+    remarks: ''
+-
+    ch: ''
     locode: 'BG AND'
     name: Asenovgrad
     namewodiacritics: Asenovgrad
@@ -57,6 +81,18 @@
     date: '0001'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'BG AYT'
+    name: Aytos
+    namewodiacritics: Aytos
+    subdiv: '02'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4242N 02715E'
     remarks: ''
 -
     ch: ''
@@ -180,6 +216,78 @@
     remarks: ''
 -
     ch: ''
+    locode: 'BG BDK'
+    name: Belogradchik
+    namewodiacritics: Belogradchik
+    subdiv: '05'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4337N 02241E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BG BBK'
+    name: Belogradchik
+    namewodiacritics: Belogradchik
+    subdiv: '05'
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '4337N 02241E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BG BEV'
+    name: Beloslav
+    namewodiacritics: Beloslav
+    subdiv: '03'
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '4311N 02742E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BG BPK'
+    name: Belovo
+    namewodiacritics: Belovo
+    subdiv: '13'
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '4213N 02401E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BG BYK'
+    name: Belyakovets
+    namewodiacritics: Belyakovets
+    subdiv: '04'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '4306N 02535E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BG BEN'
+    name: Benkovski
+    namewodiacritics: Benkovski
+    subdiv: '16'
+    function: '--3-----'
+    status: RL
+    date: '2001'
+    iata: ''
+    coordinates: '4213N 02439E'
+    remarks: ''
+-
+    ch: ''
     locode: 'BG BRK'
     name: Berkovitza
     namewodiacritics: Berkovitza
@@ -240,6 +348,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'BG BOZ'
+    name: Bozhurishte
+    namewodiacritics: Bozhurishte
+    subdiv: '22'
+    function: '--3-----'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '4245N 02312E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BG VTG'
+    name: Bratsigovo
+    namewodiacritics: Bratsigovo
+    subdiv: '13'
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '4201N 02422E'
+    remarks: ''
+-
+    ch: ''
     locode: 'BG BRE'
     name: Bregovo
     namewodiacritics: Bregovo
@@ -249,6 +381,18 @@
     date: '8201'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'BG BRS'
+    name: Brestak
+    namewodiacritics: Brestak
+    subdiv: '03'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '4327N 02732E'
     remarks: ''
 -
     ch: ''
@@ -276,6 +420,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'BG BDB'
+    name: Bulgarevo
+    namewodiacritics: Bulgarevo
+    subdiv: '08'
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '4324N 02825E'
+    remarks: ''
+-
+    ch: ''
     locode: 'BG BOJ'
     name: Burgas
     namewodiacritics: Burgas
@@ -300,6 +456,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'BG BYA'
+    name: Byala
+    namewodiacritics: Byala
+    subdiv: '18'
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '4327N 02544E'
+    remarks: ''
+-
+    ch: ''
     locode: 'BG BYL'
     name: Byala
     namewodiacritics: Byala
@@ -309,6 +477,18 @@
     date: '0901'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'BG VT4'
+    name: 'Byala Cherkva'
+    namewodiacritics: 'Byala Cherkva'
+    subdiv: '04'
+    function: 1-3-----
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '4312N 02518E'
     remarks: ''
 -
     ch: ''
@@ -348,6 +528,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'BG CHL'
+    name: Chelopechene
+    namewodiacritics: Chelopechene
+    subdiv: '08'
+    function: '--3-----'
+    status: RL
+    date: '2001'
+    iata: ''
+    coordinates: '4333N 02819E'
+    remarks: ''
+-
+    ch: ''
     locode: 'BG CPA'
     name: Chepelare
     namewodiacritics: Chepelare
@@ -372,15 +564,27 @@
     remarks: ''
 -
     ch: ''
+    locode: 'BG VCA'
+    name: Chernook
+    namewodiacritics: Chernook
+    subdiv: '03'
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '4308N 02713E'
+    remarks: ''
+-
+    ch: ''
     locode: 'BG CHV'
     name: 'Cherven Bryag'
     namewodiacritics: 'Cherven Bryag'
     subdiv: '15'
-    function: '-----6--'
+    function: '--3-----'
     status: RL
-    date: '0901'
+    date: '1707'
     iata: ''
-    coordinates: '4327N 24083E'
+    coordinates: '4316N 02404E'
     remarks: ''
 -
     ch: ''
@@ -393,6 +597,42 @@
     date: '0001'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'BG BCP'
+    name: Chomakovtsi
+    namewodiacritics: Chomakovtsi
+    subdiv: '15'
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '4319N 02404E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BG CHU'
+    name: Churukovo
+    namewodiacritics: Churukovo
+    subdiv: '21'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4151N 02426E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BG DBD'
+    name: Damyanitsa
+    namewodiacritics: Damyanitsa
+    subdiv: '01'
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '4131N 02316E'
     remarks: ''
 -
     ch: ''
@@ -429,6 +669,18 @@
     date: '0212'
     iata: ''
     coordinates: '4133N 02342E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BG DEV'
+    name: Devin
+    namewodiacritics: Devin
+    subdiv: '21'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4144N 02424E'
     remarks: ''
 -
     ch: ''
@@ -492,6 +744,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'BG YMP'
+    name: 'Dolna Mitropoliya'
+    namewodiacritics: 'Dolna Mitropoliya'
+    subdiv: '15'
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '4328N 02432E'
+    remarks: ''
+-
+    ch: ''
     locode: 'BG DKC'
     name: 'Dolna Oryakhovitsa'
     namewodiacritics: 'Dolna Oryakhovitsa'
@@ -516,6 +780,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'BG KBD'
+    name: 'Dolni Dabnik'
+    namewodiacritics: 'Dolni Dabnik'
+    subdiv: '15'
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '4324N 02426E'
+    remarks: ''
+-
+    ch: ''
     locode: 'BG DSP'
     name: Dospat
     namewodiacritics: Dospat
@@ -528,6 +804,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'BG DAO'
+    name: Draginovo
+    namewodiacritics: Draginovo
+    subdiv: '13'
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '4204N 02401E'
+    remarks: ''
+-
+    ch: ''
     locode: 'BG DMN'
     name: Dragoman
     namewodiacritics: Dragoman
@@ -537,6 +825,30 @@
     date: '0001'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'BG VRN'
+    name: Drenov
+    namewodiacritics: Drenov
+    subdiv: '11'
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '4317N 02451E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BG DRV'
+    name: Drenovets
+    namewodiacritics: Drenovets
+    subdiv: '05'
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '4341N 02258E'
     remarks: ''
 -
     ch: ''
@@ -564,6 +876,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'BG DNI'
+    name: Dunavtsi
+    namewodiacritics: Dunavtsi
+    subdiv: '24'
+    function: '-23-----'
+    status: AM
+    date: '2101'
+    iata: ''
+    coordinates: '4239N 02518E'
+    remarks: ''
+-
+    ch: ''
     locode: 'BG DUP'
     name: Dupnica
     namewodiacritics: Dupnica
@@ -588,6 +912,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'BG ELE'
+    name: Elena
+    namewodiacritics: Elena
+    subdiv: '04'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4256N 02553E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BG ELH'
+    name: Elhovo
+    namewodiacritics: Elhovo
+    subdiv: '28'
+    function: '--3-----'
+    status: RL
+    date: '2001'
+    iata: ''
+    coordinates: '4210N 02634E'
+    remarks: ''
+-
+    ch: ''
     locode: 'BG EPE'
     name: 'Elin Pelin'
     namewodiacritics: 'Elin Pelin'
@@ -603,10 +951,10 @@
     locode: 'BG EHO'
     name: Elkhovo
     namewodiacritics: Elkhovo
-    subdiv: '02'
+    subdiv: '28'
     function: '-23-----'
     status: RL
-    date: '0407'
+    date: '1601'
     iata: ''
     coordinates: '4210N 02634E'
     remarks: ''
@@ -624,6 +972,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'BG FOT'
+    name: Fotinovo
+    namewodiacritics: Fotinovo
+    subdiv: '13'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4153N 02421E'
+    remarks: ''
+-
+    ch: ''
     locode: 'BG GAV'
     name: Gabrovo
     namewodiacritics: Gabrovo
@@ -633,6 +993,54 @@
     date: '0001'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'BG GAL'
+    name: Galabovo
+    namewodiacritics: Galabovo
+    subdiv: '24'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4208N 02551E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BG DA3'
+    name: Garmen
+    namewodiacritics: Garmen
+    subdiv: '01'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4136N 02349E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BG GTB'
+    name: General-Toshevo
+    namewodiacritics: General-Toshevo
+    subdiv: '08'
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '4342N 02802E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BG TOS'
+    name: General-Toshevo
+    namewodiacritics: General-Toshevo
+    subdiv: '08'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4342N 02802E'
     remarks: ''
 -
     ch: ''
@@ -684,6 +1092,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'BG GB4'
+    name: Gorublyane
+    namewodiacritics: Gorublyane
+    subdiv: '23'
+    function: '-23-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '4238N 02324E'
+    remarks: ''
+-
+    ch: ''
     locode: 'BG GDU'
     name: 'Gotse Delchev'
     namewodiacritics: 'Gotse Delchev'
@@ -693,6 +1113,42 @@
     date: '0201'
     iata: ''
     coordinates: '4135N 02344E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BG RAN'
+    name: Grancharovo
+    namewodiacritics: Grancharovo
+    subdiv: '19'
+    function: '--3-----'
+    status: RL
+    date: '2001'
+    iata: ''
+    coordinates: '4343N 02707E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BG GRU'
+    name: Gruevo
+    namewodiacritics: Gruevo
+    subdiv: '09'
+    function: '--3-----'
+    status: RL
+    date: '2001'
+    iata: ''
+    coordinates: '4134N 02525E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BG GUR'
+    name: Gurkovo
+    namewodiacritics: Gurkovo
+    subdiv: '24'
+    function: 123-----
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '4239N 02547E'
     remarks: ''
 -
     ch: ''
@@ -732,6 +1188,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'BG XCR'
+    name: Hisarya
+    namewodiacritics: Hisarya
+    subdiv: '16'
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '4230N 02442E'
+    remarks: ''
+-
+    ch: ''
     locode: 'BG IAB'
     name: Iablanitsa
     namewodiacritics: Iablanitsa
@@ -741,6 +1209,18 @@
     date: '0901'
     iata: ''
     coordinates: '4303N 02411E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BG 4IG'
+    name: Ignatievo
+    namewodiacritics: Ignatievo
+    subdiv: '03'
+    function: 1-3-----
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '4315N 02746E'
     remarks: ''
 -
     ch: ''
@@ -765,6 +1245,18 @@
     date: '8201'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'BG ISK'
+    name: Iskar
+    namewodiacritics: Iskar
+    subdiv: '03'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4323N 02729E'
     remarks: ''
 -
     ch: ''
@@ -839,6 +1331,18 @@
     coordinates: ''
     remarks: ''
 -
+    ch: +
+    locode: 'BG KAO'
+    name: Kaolinovo
+    namewodiacritics: Kaolinovo
+    subdiv: '27'
+    function: '--3-----'
+    status: AM
+    date: '2201'
+    iata: ''
+    coordinates: '4337N 02707E'
+    remarks: ''
+-
     ch: ''
     locode: 'BG KAN'
     name: Kapitan-Andreevo
@@ -849,6 +1353,30 @@
     date: '0212'
     iata: ''
     coordinates: '4143N 02619E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BG KAP'
+    name: Kapitanovtsi
+    namewodiacritics: Kapitanovtsi
+    subdiv: '05'
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '4402N 02252E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BG BKR'
+    name: Karabunar
+    namewodiacritics: Karabunar
+    subdiv: '13'
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '4216N 02410E'
     remarks: ''
 -
     ch: ''
@@ -936,6 +1464,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'BG ZHA'
+    name: Kaynardzha
+    namewodiacritics: Kaynardzha
+    subdiv: '19'
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '4359N 02730E'
+    remarks: ''
+-
+    ch: ''
     locode: 'BG KZK'
     name: Kazanlak
     namewodiacritics: Kazanlak
@@ -969,6 +1509,18 @@
     date: '0907'
     iata: ''
     coordinates: '4240N 02328E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BG RKM'
+    name: Kermen
+    namewodiacritics: Kermen
+    subdiv: '20'
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '4230N 02615E'
     remarks: ''
 -
     ch: ''
@@ -1020,6 +1572,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'BG KRL'
+    name: Klisura
+    namewodiacritics: Klisura
+    subdiv: '22'
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '4219N 02322E'
+    remarks: ''
+-
+    ch: ''
     locode: 'BG KNE'
     name: Knezha
     namewodiacritics: Knezha
@@ -1056,6 +1620,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'BG K2N'
+    name: Korten
+    namewodiacritics: Korten
+    subdiv: '20'
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '4240N 02619E'
+    remarks: ''
+-
+    ch: ''
     locode: 'BG KOS'
     name: Kostenets
     namewodiacritics: Kostenets
@@ -1080,6 +1656,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'BG KOT'
+    name: Kotel
+    namewodiacritics: Kotel
+    subdiv: '20'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4253N 02627E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BG KOY'
+    name: Koynare
+    namewodiacritics: Koynare
+    subdiv: '15'
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '4321N 02408E'
+    remarks: ''
+-
+    ch: ''
     locode: 'BG KOZ'
     name: Kozloduj
     namewodiacritics: Kozloduj
@@ -1089,6 +1689,42 @@
     date: '0901'
     iata: ''
     coordinates: '4347N 02344E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BG HKM'
+    name: Krichim
+    namewodiacritics: Krichim
+    subdiv: '16'
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '4203N 02428E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BG VKD'
+    name: Krivodol
+    namewodiacritics: Krivodol
+    subdiv: '12'
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '4345N 02313E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BG KRU'
+    name: Krumovgrad
+    namewodiacritics: Krumovgrad
+    subdiv: '09'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4128N 02539E'
     remarks: ''
 -
     ch: ''
@@ -1115,7 +1751,7 @@
     coordinates: '4348N 02630E'
     remarks: ''
 -
-    ch: +
+    ch: ''
     locode: 'BG KUK'
     name: Kuklen
     namewodiacritics: Kuklen
@@ -1125,6 +1761,18 @@
     date: '1307'
     iata: ''
     coordinates: '4202N 02447E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BG KUL'
+    name: Kula
+    namewodiacritics: Kula
+    subdiv: '05'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4353N 02231E'
     remarks: ''
 -
     ch: ''
@@ -1185,6 +1833,18 @@
     date: '1301'
     iata: ''
     coordinates: '4305N 02533E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BG LES'
+    name: Leskovets
+    namewodiacritics: Leskovets
+    subdiv: '06'
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '4342N 02401E'
     remarks: ''
 -
     ch: ''
@@ -1272,6 +1932,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'BG LUK'
+    name: Lukovit
+    namewodiacritics: Lukovit
+    subdiv: '11'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4312N 02410E'
+    remarks: ''
+-
+    ch: ''
     locode: 'BG LKS'
     name: Lyaskovets
     namewodiacritics: Lyaskovets
@@ -1281,6 +1953,18 @@
     date: '0501'
     iata: ''
     coordinates: '4306N 02543E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BG LYA'
+    name: Lyaskovo
+    namewodiacritics: Lyaskovo
+    subdiv: '21'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4148N 02430E'
     remarks: ''
 -
     ch: ''
@@ -1308,6 +1992,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'BG MAD'
+    name: Madan
+    namewodiacritics: Madan
+    subdiv: '21'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4130N 02457E'
+    remarks: ''
+-
+    ch: ''
     locode: 'BG MTI'
     name: 'Malko Tarnovo'
     namewodiacritics: 'Malko Tarnovo'
@@ -1320,6 +2016,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'BG SHU'
+    name: Malomir
+    namewodiacritics: Malomir
+    subdiv: '27'
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '4302N 02643E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BG PLO'
+    name: Manole
+    namewodiacritics: Manole
+    subdiv: '16'
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '4211N 02456E'
+    remarks: ''
+-
+    ch: ''
     locode: 'BG MAB'
     name: Marchevo
     namewodiacritics: Marchevo
@@ -1329,6 +2049,18 @@
     date: '1201'
     iata: ''
     coordinates: '4136N 02348E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BG MAI'
+    name: Marikostinovo
+    namewodiacritics: Marikostinovo
+    subdiv: '01'
+    function: '--3-----'
+    status: AM
+    date: '2107'
+    iata: ''
+    coordinates: '4126N 02320E'
     remarks: ''
 -
     ch: ''
@@ -1368,6 +2100,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'BG MIH'
+    name: Mihalkovo
+    namewodiacritics: Mihalkovo
+    subdiv: '21'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4150N 02425E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BG MIE'
+    name: Mikre
+    namewodiacritics: Mikre
+    subdiv: '11'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4302N 02431E'
+    remarks: ''
+-
+    ch: ''
     locode: 'BG MIR'
     name: Mirkovo
     namewodiacritics: Mirkovo
@@ -1377,6 +2133,30 @@
     date: '0901'
     iata: ''
     coordinates: '4242N 02359E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BG MVY'
+    name: Mirovyane
+    namewodiacritics: Mirovyane
+    subdiv: '23'
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '4247N 02318E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BG MII'
+    name: Mitrovtsi
+    namewodiacritics: Mitrovtsi
+    subdiv: '12'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4326N 02256E'
     remarks: ''
 -
     ch: ''
@@ -1488,6 +2268,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'BG NOS'
+    name: 'Novo Selo'
+    namewodiacritics: 'Novo Selo'
+    subdiv: '16'
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '4206N 02429E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BG OGN'
+    name: Ognyanovo
+    namewodiacritics: Ognyanovo
+    subdiv: '13'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4209N 02425E'
+    remarks: ''
+-
+    ch: ''
     locode: 'BG OLT'
     name: Oltomantsi
     namewodiacritics: Oltomantsi
@@ -1521,6 +2325,18 @@
     date: '1007'
     iata: ''
     coordinates: '4326N 02610E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BG OPN'
+    name: Opanets
+    namewodiacritics: Opanets
+    subdiv: '08'
+    function: '--3-----'
+    status: RL
+    date: '1707'
+    iata: ''
+    coordinates: '4329N 02747E'
     remarks: ''
 -
     ch: ''
@@ -1560,6 +2376,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'BG OSI'
+    name: Osikovo
+    namewodiacritics: Osikovo
+    subdiv: '21'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4154N 02429E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BG SIL'
+    name: Paisievo
+    namewodiacritics: Paisievo
+    subdiv: '19'
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '4347N 02658E'
+    remarks: ''
+-
+    ch: ''
     locode: 'BG PPE'
     name: Panagyurishte
     namewodiacritics: Panagyurishte
@@ -1569,6 +2409,18 @@
     date: '0901'
     iata: ''
     coordinates: '4205N 02418E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BG PVT'
+    name: Parvenets
+    namewodiacritics: Parvenets
+    subdiv: '16'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4204N 02440E'
     remarks: ''
 -
     ch: ''
@@ -1596,15 +2448,27 @@
     remarks: ''
 -
     ch: ''
+    locode: 'BG PBA'
+    name: 'Pavel Banya'
+    namewodiacritics: 'Pavel Banya'
+    subdiv: '24'
+    function: '--3-----'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '4236N 02512E'
+    remarks: ''
+-
+    ch: ''
     locode: 'BG PIV'
     name: Pavlikeni
     namewodiacritics: Pavlikeni
-    subdiv: ''
+    subdiv: '04'
     function: '--3-----'
     status: RL
-    date: '0001'
+    date: '1601'
     iata: ''
-    coordinates: ''
+    coordinates: '4314N 02518E'
     remarks: ''
 -
     ch: ''
@@ -1668,6 +2532,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'BG PTH'
+    name: Petarch
+    namewodiacritics: Petarch
+    subdiv: '23'
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '4250N 02308E'
+    remarks: ''
+-
+    ch: ''
     locode: 'BG PEG'
     name: Petrich
     namewodiacritics: Petrich
@@ -1701,6 +2577,18 @@
     date: '9912'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'BG SKP'
+    name: Pliska
+    namewodiacritics: Pliska
+    subdiv: '27'
+    function: '--3-----'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '4322N 02707E'
     remarks: ''
 -
     ch: ''
@@ -1800,6 +2688,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'BG VDN'
+    name: Rabisha
+    namewodiacritics: Rabisha
+    subdiv: '05'
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '4343N 02236E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BG RLO'
+    name: Radilovo
+    namewodiacritics: Radilovo
+    subdiv: '13'
+    function: '--3-----'
+    status: AM
+    date: '2007'
+    iata: ''
+    coordinates: '4205N 02418E'
+    remarks: ''
+-
+    ch: ''
     locode: 'BG PRO'
     name: Radinovo
     namewodiacritics: Radinovo
@@ -1884,6 +2796,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'BG RNS'
+    name: Resen
+    namewodiacritics: Resen
+    subdiv: '04'
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '4312N 02533E'
+    remarks: ''
+-
+    ch: ''
     locode: 'BG XXX'
     name: 'RIS Inland waterways'
     namewodiacritics: 'RIS Inland waterways'
@@ -1917,6 +2841,18 @@
     date: '0607'
     iata: ''
     coordinates: '4351N 02558E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BG SAD'
+    name: Sadovo
+    namewodiacritics: Sadovo
+    subdiv: '16'
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '4207N 02455E'
     remarks: ''
 -
     ch: ''
@@ -1955,6 +2891,18 @@
     coordinates: '4308N 02536E'
     remarks: ''
 -
+    ch: +
+    locode: 'BG SOV'
+    name: Samuilovo
+    namewodiacritics: Samuilovo
+    subdiv: '01'
+    function: '--3-----'
+    status: AM
+    date: '2201'
+    iata: ''
+    coordinates: '4122N 02305E'
+    remarks: ''
+-
     ch: ''
     locode: 'BG SDM'
     name: Sandanski
@@ -1968,6 +2916,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'BG SEL'
+    name: Selcha
+    namewodiacritics: Selcha
+    subdiv: '21'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4150N 02423E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BG SEI'
+    name: Seslavtsi
+    namewodiacritics: Seslavtsi
+    subdiv: '23'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4247N 02331E'
+    remarks: ''
+-
+    ch: ''
     locode: 'BG SLU'
     name: Sevlievo
     namewodiacritics: Sevlievo
@@ -1977,6 +2949,30 @@
     date: '0001'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'BG DCB'
+    name: Shabla
+    namewodiacritics: Shabla
+    subdiv: '08'
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '4332N 02832E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BG SHI'
+    name: 'Shiroka Laka'
+    namewodiacritics: 'Shiroka Laka'
+    subdiv: '21'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4141N 02435E'
     remarks: ''
 -
     ch: ''
@@ -2016,6 +3012,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'BG NLS'
+    name: Slatina
+    namewodiacritics: Slatina
+    subdiv: '23'
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '4241N 02323E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BG SLO'
+    name: Slavyanovo
+    namewodiacritics: Slavyanovo
+    subdiv: '25'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4316N 02611E'
+    remarks: ''
+-
+    ch: ''
     locode: 'BG SWQ'
     name: Slavyantsi
     namewodiacritics: Slavyantsi
@@ -2039,7 +3059,19 @@
     coordinates: ''
     remarks: ''
 -
-    ch: +
+    ch: ''
+    locode: 'BG SLN'
+    name: Slivnitsa
+    namewodiacritics: Slivnitsa
+    subdiv: '23'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4251N 02302E'
+    remarks: ''
+-
+    ch: ''
     locode: 'BG SLV'
     name: 'Slivo Pole'
     namewodiacritics: 'Slivo Pole'
@@ -2067,12 +3099,12 @@
     locode: 'BG SOF'
     name: Sofia
     namewodiacritics: Sofia
-    subdiv: ''
+    subdiv: '22'
     function: '-2-45---'
     status: AI
-    date: '9601'
+    date: '1601'
     iata: ''
-    coordinates: ''
+    coordinates: '4241N 02319E'
     remarks: ''
 -
     ch: ''
@@ -2136,6 +3168,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'BG SBV'
+    name: Stambolovo
+    namewodiacritics: Stambolovo
+    subdiv: '26'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4146N 02539E'
+    remarks: ''
+-
+    ch: ''
     locode: 'BG SDV'
     name: 'Stanke Dimitrov'
     namewodiacritics: 'Stanke Dimitrov'
@@ -2184,6 +3228,54 @@
     remarks: ''
 -
     ch: ''
+    locode: 'BG S8P'
+    name: Starosel
+    namewodiacritics: Starosel
+    subdiv: '16'
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '4229N 02434E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BG STO'
+    name: Stomanevo
+    namewodiacritics: Stomanevo
+    subdiv: '21'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4149N 02425E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BG S3W'
+    name: Straldzha
+    namewodiacritics: Straldzha
+    subdiv: '28'
+    function: 1-3-----
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '4236N 02641E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BG VDV'
+    name: Streltsi
+    namewodiacritics: Streltsi
+    subdiv: '16'
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '4223N 02455E'
+    remarks: ''
+-
+    ch: ''
     locode: 'BG PSA'
     name: Stryama
     namewodiacritics: Stryama
@@ -2193,6 +3285,18 @@
     date: '0901'
     iata: ''
     coordinates: '4215N 02453E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BG SIE'
+    name: Suedinenie
+    namewodiacritics: Suedinenie
+    subdiv: '25'
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '4319N 02638E'
     remarks: ''
 -
     ch: ''
@@ -2208,6 +3312,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'BG SRL'
+    name: Sungurlare
+    namewodiacritics: Sungurlare
+    subdiv: '02'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4246N 02647E'
+    remarks: ''
+-
+    ch: ''
     locode: 'BG SNA'
     name: Surnitsa
     namewodiacritics: Surnitsa
@@ -2217,6 +3333,18 @@
     date: '0407'
     iata: ''
     coordinates: '4144N 02402E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BG SNK'
+    name: 'Sveti Nikola'
+    namewodiacritics: 'Sveti Nikola'
+    subdiv: '08'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4326N 02829E'
     remarks: ''
 -
     ch: ''
@@ -2269,14 +3397,26 @@
 -
     ch: ''
     locode: 'BG TGV'
-    name: Targoviste
-    namewodiacritics: Targoviste
+    name: Targovishte
+    namewodiacritics: Targovishte
     subdiv: '25'
     function: '-234----'
     status: AI
-    date: '0501'
+    date: '1501'
     iata: ''
     coordinates: '4315N 02635E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BG TER'
+    name: Tervel
+    namewodiacritics: Tervel
+    subdiv: '08'
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '4345N 02724E'
     remarks: ''
 -
     ch: ''
@@ -2328,6 +3468,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'BG TRN'
+    name: Tran
+    namewodiacritics: Tran
+    subdiv: '14'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4250N 02239E'
+    remarks: ''
+-
+    ch: ''
     locode: 'BG PTK'
     name: Trastenik
     namewodiacritics: Trastenik
@@ -2355,12 +3507,24 @@
     locode: 'BG TRY'
     name: Troyan
     namewodiacritics: Troyan
-    subdiv: ''
+    subdiv: '11'
     function: '--3-----'
     status: RL
-    date: '0001'
+    date: '1601'
     iata: ''
-    coordinates: ''
+    coordinates: '4253N 02442E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BG TRD'
+    name: Trud
+    namewodiacritics: Trud
+    subdiv: '16'
+    function: '--3-----'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '4214N 02444E'
     remarks: ''
 -
     ch: ''
@@ -2388,6 +3552,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'BG TBA'
+    name: Tsalapitsa
+    namewodiacritics: Tsalapitsa
+    subdiv: '16'
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '4211N 02434E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BG TSA'
+    name: Tsaratsovo
+    namewodiacritics: Tsaratsovo
+    subdiv: '16'
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '4212N 02441E'
+    remarks: ''
+-
+    ch: ''
     locode: 'BG TRV'
     name: Tsarevo
     namewodiacritics: Tsarevo
@@ -2397,6 +3585,30 @@
     date: '1007'
     iata: ''
     coordinates: '4210N 02751E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BG TKV'
+    name: Tserkovski
+    namewodiacritics: Tserkovski
+    subdiv: '02'
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '4236N 02653E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BG GAB'
+    name: Tumbalovo
+    namewodiacritics: Tumbalovo
+    subdiv: '07'
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '4252N 02506E'
     remarks: ''
 -
     ch: ''
@@ -2421,6 +3633,18 @@
     date: '0901'
     iata: ''
     coordinates: '4207N 02509E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BG LCH'
+    name: Uglen
+    namewodiacritics: Uglen
+    subdiv: '11'
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '4312N 02419E'
     remarks: ''
 -
     ch: ''
@@ -2484,6 +3708,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'BG VEP'
+    name: 'Veliki Preslav'
+    namewodiacritics: 'Veliki Preslav'
+    subdiv: '27'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4310N 02649E'
+    remarks: ''
+-
+    ch: ''
     locode: 'BG VTT'
     name: 'Veliko Tarnovo'
     namewodiacritics: 'Veliko Tarnovo'
@@ -2520,6 +3756,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'BG VEO'
+    name: Verinsko
+    namewodiacritics: Verinsko
+    subdiv: '23'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4229N 02345E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BG QZX'
+    name: Vetrino
+    namewodiacritics: Vetrino
+    subdiv: '03'
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '4319N 02726E'
+    remarks: ''
+-
+    ch: ''
     locode: 'BG VID'
     name: Vidin
     namewodiacritics: Vidin
@@ -2541,6 +3801,18 @@
     date: '0001'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'BG VSA'
+    name: Vratsa
+    namewodiacritics: Vratsa
+    subdiv: '06'
+    function: '--3-----'
+    status: RL
+    date: '1707'
+    iata: ''
+    coordinates: '4312N 02333E'
     remarks: ''
 -
     ch: ''
@@ -2580,6 +3852,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'BG YGD'
+    name: Yagoda
+    namewodiacritics: Yagoda
+    subdiv: '24'
+    function: '--3-----'
+    status: RL
+    date: '2001'
+    iata: ''
+    coordinates: '4233N 02536E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BG YAG'
+    name: Yagodovo
+    namewodiacritics: Yagodovo
+    subdiv: '16'
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '4206N 02451E'
+    remarks: ''
+-
+    ch: ''
     locode: 'BG YAK'
     name: Yakoruda
     namewodiacritics: Yakoruda
@@ -2604,6 +3900,42 @@
     remarks: ''
 -
     ch: ''
+    locode: 'BG YKG'
+    name: Yoakim-Gruevo
+    namewodiacritics: Yoakim-Gruevo
+    subdiv: '16'
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '4207N 02434E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BG BUR'
+    name: Zavet
+    namewodiacritics: Zavet
+    subdiv: '02'
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '4250N 02704E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BG PLV'
+    name: Zhitnitsa
+    namewodiacritics: Zhitnitsa
+    subdiv: '16'
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '4223N 02442E'
+    remarks: ''
+-
+    ch: ''
     locode: 'BG ZLA'
     name: Zlatarevo
     namewodiacritics: Zlatarevo
@@ -2613,6 +3945,18 @@
     date: '8201'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'BG ZTT'
+    name: Zlataritsa
+    namewodiacritics: Zlataritsa
+    subdiv: '04'
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '4303N 02554E'
     remarks: ''
 -
     ch: ''

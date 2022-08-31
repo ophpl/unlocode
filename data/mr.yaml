@@ -48,6 +48,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'MR BSK'
+    name: Bassiknou
+    namewodiacritics: Bassiknou
+    subdiv: '01'
+    function: '--3-----'
+    status: RL
+    date: '2001'
+    iata: ''
+    coordinates: '1551N 00556W'
+    remarks: ''
+-
+    ch: ''
     locode: 'MR BGH'
     name: Boghé
     namewodiacritics: Boghe
@@ -129,6 +141,18 @@
     date: '0001'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MR KBI'
+    name: Kobenni
+    namewodiacritics: Kobenni
+    subdiv: '02'
+    function: '--3-----'
+    status: RL
+    date: '2001'
+    iata: ''
+    coordinates: '1549N 00922W'
     remarks: ''
 -
     ch: ''
@@ -273,6 +297,18 @@
     date: '0212'
     iata: ''
     coordinates: '1615N 00810W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MR TIN'
+    name: Tintane
+    namewodiacritics: Tintane
+    subdiv: '02'
+    function: '--3-----'
+    status: RL
+    date: '2001'
+    iata: ''
+    coordinates: '1624N 01010W'
     remarks: ''
 -
     ch: ''

@@ -144,27 +144,39 @@
     remarks: ''
 -
     ch: ''
-    locode: 'KW CDH'
-    name: 'Camp Doha'
-    namewodiacritics: 'Camp Doha'
-    subdiv: ''
-    function: '--3-----'
-    status: RQ
-    date: '0201'
+    locode: 'KW DOH'
+    name: Doha
+    namewodiacritics: Doha
+    subdiv: KU
+    function: 1-------
+    status: RL
+    date: '1901'
     iata: ''
-    coordinates: '2919N 04738E'
+    coordinates: '2923N 04748E'
     remarks: ''
 -
     ch: ''
-    locode: 'KW JAH'
-    name: Jahran
-    namewodiacritics: Jahran
-    subdiv: ''
-    function: 1-------
-    status: QQ
-    date: '8110'
+    locode: 'KW FIN'
+    name: Fintas
+    namewodiacritics: Fintas
+    subdiv: AH
+    function: '--3-----'
+    status: RL
+    date: '1701'
     iata: ''
-    coordinates: ''
+    coordinates: '2910N 04807E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'KW HWI'
+    name: Hawalli
+    namewodiacritics: Hawalli
+    subdiv: HA
+    function: '--3-----'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '2920N 04802E'
     remarks: ''
 -
     ch: ''
@@ -240,6 +252,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'KW MZR'
+    name: 'Mina Al Zour'
+    namewodiacritics: 'Mina Al Zour'
+    subdiv: AH
+    function: 1-------
+    status: RL
+    date: '1907'
+    iata: ''
+    coordinates: '2843N 04824E'
+    remarks: ''
+-
+    ch: ''
     locode: 'KW MAM'
     name: 'Mina Alo Manti'
     namewodiacritics: 'Mina Alo Manti'
@@ -257,10 +281,10 @@
     namewodiacritics: 'Mina Saud'
     subdiv: ''
     function: 1-------
-    status: QQ
-    date: '8103'
+    status: RL
+    date: '1907'
     iata: ''
-    coordinates: ''
+    coordinates: '2846N 04828E'
     remarks: ''
 -
     ch: ''
@@ -300,6 +324,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'KW SMY'
+    name: Salmiya
+    namewodiacritics: Salmiya
+    subdiv: HA
+    function: 1-------
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '2920N 04805E'
+    remarks: ''
+-
+    ch: ''
     locode: 'KW SAA'
     name: Shuaiba
     namewodiacritics: Shuaiba
@@ -317,8 +353,20 @@
     namewodiacritics: Shuwaikh
     subdiv: ''
     function: 1-------
-    status: QQ
-    date: '8103'
+    status: RL
+    date: '1907'
     iata: ''
-    coordinates: ''
+    coordinates: '2921N 04756E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'KW SUL'
+    name: Sulaibiya
+    namewodiacritics: Sulaibiya
+    subdiv: JA
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '2917N 04749E'
     remarks: ''

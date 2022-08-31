@@ -48,6 +48,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'IM KIR'
+    name: Kirkmichale
+    namewodiacritics: Kirkmichale
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5417N 00435W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IM 7MI'
+    name: Maughold
+    namewodiacritics: Maughold
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5418N 00419W'
+    remarks: ''
+-
+    ch: ''
     locode: 'IM OHN'
     name: Onchan
     namewodiacritics: Onchan
@@ -70,6 +94,18 @@
     iata: ''
     coordinates: '5413N 00446W'
     remarks: 'ex GB PEL'
+-
+    ch: ''
+    locode: 'IM PSM'
+    name: 'Port Saint Mary'
+    namewodiacritics: 'Port Saint Mary'
+    subdiv: ''
+    function: 1-------
+    status: RL
+    date: '1707'
+    iata: ''
+    coordinates: '5404N 00444W'
+    remarks: ''
 -
     ch: ''
     locode: 'IM RAM'

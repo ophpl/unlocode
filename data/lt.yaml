@@ -1,5 +1,17 @@
 -
     ch: ''
+    locode: 'LT AKM'
+    name: Akmene
+    namewodiacritics: Akmene
+    subdiv: '01'
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '5615N 02245E'
+    remarks: ''
+-
+    ch: ''
     locode: 'LT AYS'
     name: Alytus
     namewodiacritics: Alytus
@@ -23,7 +35,31 @@
     coordinates: '5532N 02506E'
     remarks: ''
 -
-    ch: ¦
+    ch: ''
+    locode: 'LT AGM'
+    name: Augmenai
+    namewodiacritics: Augmenai
+    subdiv: '44'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5539N 02340E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LT AUK'
+    name: Aukstkiemiai
+    namewodiacritics: Aukstkiemiai
+    subdiv: '21'
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '5546N 02110E'
+    remarks: ''
+-
+    ch: ''
     locode: 'LT AZI'
     name: Avizieniai
     namewodiacritics: Avizieniai
@@ -33,7 +69,7 @@
     date: '1307'
     iata: ''
     coordinates: '5446N 02511E'
-    remarks: '@Sub'
+    remarks: ''
 -
     ch: ''
     locode: 'LT BET'
@@ -48,6 +84,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'LT BLI'
+    name: Bilioniai
+    namewodiacritics: Bilioniai
+    subdiv: '45'
+    function: '--3-----'
+    status: AM
+    date: '2101'
+    iata: ''
+    coordinates: '5536N 02218E'
+    remarks: ''
+-
+    ch: ''
     locode: 'LT BIR'
     name: Birstonas
     namewodiacritics: Birstonas
@@ -57,6 +105,18 @@
     date: '0901'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'LT BIK'
+    name: Biruliskiai
+    namewodiacritics: Biruliskiai
+    subdiv: KU
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '5456N 02400E'
     remarks: ''
 -
     ch: ''
@@ -95,7 +155,31 @@
     coordinates: '5519N 02150E'
     remarks: ''
 -
-    ch: ¦
+    ch: ''
+    locode: 'LT BUY'
+    name: Buivydiskes
+    namewodiacritics: Buivydiskes
+    subdiv: '58'
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '5443N 02512E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LT DEW'
+    name: Darbenai
+    namewodiacritics: Darbenai
+    subdiv: KL
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5601N 02115E'
+    remarks: ''
+-
+    ch: ''
     locode: 'LT DID'
     name: 'Didzioji Reise'
     namewodiacritics: 'Didzioji Reise'
@@ -105,7 +189,31 @@
     date: '1307'
     iata: ''
     coordinates: '5447N 02515E'
-    remarks: '@Sub'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LT DYS'
+    name: Dovainonys
+    namewodiacritics: Dovainonys
+    subdiv: '16'
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '5449N 02414E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LT MBX'
+    name: Drobuksciai
+    namewodiacritics: Drobuksciai
+    subdiv: TE
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5542N 02217E'
+    remarks: ''
 -
     ch: ''
     locode: 'LT DKI'
@@ -179,17 +287,17 @@
     coordinates: '5449N 02352E'
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'LT GLI'
     name: Glitiskes
     namewodiacritics: Glitiskes
     subdiv: VL
-    function: 1-------
+    function: 0-------
     status: RL
-    date: '1307'
+    date: '1601'
     iata: ''
     coordinates: '5459N 02513E'
-    remarks: '@Sub'
+    remarks: ''
 -
     ch: ''
     locode: 'LT GKS'
@@ -215,7 +323,31 @@
     coordinates: '5544N 02408E'
     remarks: ''
 -
-    ch: ¦
+    ch: ''
+    locode: 'LT IGL'
+    name: Ignalina
+    namewodiacritics: Ignalina
+    subdiv: UT
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5521N 02610E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LT IGA'
+    name: 'Ilgakiemis (Ilgakiemio)'
+    namewodiacritics: 'Ilgakiemis (Ilgakiemio)'
+    subdiv: '16'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '5446N 02352E'
+    remarks: ''
+-
+    ch: ''
     locode: 'LT OND'
     name: Jasiunai
     namewodiacritics: Jasiunai
@@ -225,7 +357,19 @@
     date: '1307'
     iata: ''
     coordinates: '5426N 02520E'
-    remarks: '@Sub'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LT JIE'
+    name: Jieznas
+    namewodiacritics: Jieznas
+    subdiv: KU
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5436N 02410E'
+    remarks: ''
 -
     ch: ''
     locode: 'LT JNA'
@@ -300,6 +444,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'LT ZQA'
+    name: Kalvarija
+    namewodiacritics: Kalvarija
+    subdiv: MR
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5424N 02314E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LT KRM'
+    name: Karmelava
+    namewodiacritics: Karmelava
+    subdiv: '16'
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '5458N 02404E'
+    remarks: ''
+-
+    ch: ''
     locode: 'LT KUN'
     name: Kaunas
     namewodiacritics: Kaunas
@@ -347,7 +515,7 @@
     coordinates: '5537N 02256E'
     remarks: ''
 -
-    ch: +
+    ch: ''
     locode: 'LT KEN'
     name: Kena
     namewodiacritics: Kena
@@ -364,9 +532,9 @@
     name: Klaipeda
     namewodiacritics: Klaipeda
     subdiv: ''
-    function: 1--4----
+    function: 12-4----
     status: AI
-    date: '9601'
+    date: '2007'
     iata: ''
     coordinates: ''
     remarks: ''
@@ -431,7 +599,7 @@
     coordinates: '5559N 02255E'
     remarks: ''
 -
-    ch: +
+    ch: ''
     locode: 'LT KYB'
     name: Kybartai
     namewodiacritics: Kybartai
@@ -455,7 +623,7 @@
     coordinates: '5544N 02618E'
     remarks: ''
 -
-    ch: +
+    ch: ''
     locode: 'LT LVK'
     name: Lavoriskes
     namewodiacritics: Lavoriskes
@@ -479,7 +647,7 @@
     coordinates: '5414N 02331E'
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'LT LEN'
     name: Lentvaris
     namewodiacritics: Lentvaris
@@ -489,7 +657,19 @@
     date: '1307'
     iata: ''
     coordinates: '5438N 02503E'
-    remarks: '@Sub'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LT LEV'
+    name: Levaniskiai
+    namewodiacritics: Levaniskiai
+    subdiv: '54'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '5516N 02526E'
+    remarks: ''
 -
     ch: ''
     locode: 'LT LDY'
@@ -504,6 +684,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'LT MAC'
+    name: Maciuiciai
+    namewodiacritics: Maciuiciai
+    subdiv: '21'
+    function: '--3-----'
+    status: RL
+    date: '2001'
+    iata: ''
+    coordinates: '5541N 02125E'
+    remarks: ''
+-
+    ch: ''
     locode: 'LT MAI'
     name: Maisiagala
     namewodiacritics: Maisiagala
@@ -515,7 +707,7 @@
     coordinates: '5452N 02504E'
     remarks: ''
 -
-    ch: +
+    ch: ''
     locode: 'LT MLM'
     name: 'Malku ilankos juru uosto PVP/Klaipeda'
     namewodiacritics: 'Malku ilankos juru uosto PVP/Klaipeda'
@@ -551,7 +743,7 @@
     coordinates: '5619N 02221E'
     remarks: ''
 -
-    ch: +
+    ch: ''
     locode: 'LT MDK'
     name: Medininkai
     namewodiacritics: Medininkai
@@ -561,6 +753,18 @@
     date: '1307'
     iata: ''
     coordinates: '5432N 02540E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LT MCI'
+    name: Micaiciai
+    namewodiacritics: Micaiciai
+    subdiv: '44'
+    function: '-23-----'
+    status: AM
+    date: '2007'
+    iata: ''
+    coordinates: '5558N 02255E'
     remarks: ''
 -
     ch: ''
@@ -587,7 +791,7 @@
     coordinates: '5514N 02525E'
     remarks: ''
 -
-    ch: +
+    ch: ''
     locode: 'LT MOM'
     name: 'Molo juru uosto PVP/Klaipeda'
     namewodiacritics: 'Molo juru uosto PVP/Klaipeda'
@@ -660,6 +864,42 @@
     remarks: ''
 -
     ch: ''
+    locode: 'LT VIN'
+    name: Nemezis
+    namewodiacritics: Nemezis
+    subdiv: VL
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '5438N 02521E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LT NER'
+    name: Neringa
+    namewodiacritics: Neringa
+    subdiv: '21'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5522N 02103E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LT NE2'
+    name: Neveronys
+    namewodiacritics: Neveronys
+    subdiv: KU
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '5455N 02406E'
+    remarks: ''
+-
+    ch: ''
     locode: 'LT NID'
     name: Nida
     namewodiacritics: Nida
@@ -683,7 +923,19 @@
     coordinates: '5459N 02546E'
     remarks: ''
 -
-    ch: ¦
+    ch: ''
+    locode: 'LT PZI'
+    name: Paezeriai
+    namewodiacritics: Paezeriai
+    subdiv: '56'
+    function: '--3-----'
+    status: AM
+    date: '2007'
+    iata: ''
+    coordinates: '5438N 02258E'
+    remarks: ''
+-
+    ch: ''
     locode: 'LT PGI'
     name: Pagegiai
     namewodiacritics: Pagegiai
@@ -693,16 +945,16 @@
     date: '1307'
     iata: ''
     coordinates: '5508N 02154E'
-    remarks: '@Fun@Sta'
+    remarks: ''
 -
     ch: ''
     locode: 'LT PKJ'
     name: Pakruojis
     namewodiacritics: Pakruojis
     subdiv: SA
-    function: 123--6--
+    function: '-23--6--'
     status: RL
-    date: '0701'
+    date: '1601'
     iata: ''
     coordinates: '5558N 02352E'
     remarks: ''
@@ -719,7 +971,7 @@
     coordinates: ''
     remarks: ''
 -
-    ch: +
+    ch: ''
     locode: 'LT PAN'
     name: Panemune
     namewodiacritics: Panemune
@@ -738,9 +990,21 @@
     subdiv: ''
     function: '--34----'
     status: RQ
-    date: '9806'
+    date: '1407'
     iata: ''
-    coordinates: ''
+    coordinates: '5544N 02421E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LT PSS'
+    name: Pasusvys
+    namewodiacritics: Pasusvys
+    subdiv: '44'
+    function: '--3-----'
+    status: AM
+    date: '2101'
+    iata: ''
+    coordinates: '5536N 02335E'
     remarks: ''
 -
     ch: ''
@@ -760,9 +1024,9 @@
     name: Pelednagiai
     namewodiacritics: Pelednagiai
     subdiv: ''
-    function: 1-3-----
+    function: '--3-----'
     status: RL
-    date: '0501'
+    date: '1601'
     iata: ''
     coordinates: '5514N 02357E'
     remarks: ''
@@ -779,7 +1043,7 @@
     coordinates: '5452N 02358E'
     remarks: ''
 -
-    ch: +
+    ch: ''
     locode: 'LT PLM'
     name: 'Pilies juru uosto PVP/Klaipeda'
     namewodiacritics: 'Pilies juru uosto PVP/Klaipeda'
@@ -793,12 +1057,12 @@
 -
     ch: ''
     locode: 'LT PLG'
-    name: Plunges
-    namewodiacritics: Plunges
-    subdiv: ''
+    name: Plunge
+    namewodiacritics: Plunge
+    subdiv: '51'
     function: '--3-----'
     status: RL
-    date: '0201'
+    date: '2101'
     iata: ''
     coordinates: '5554N 02151E'
     remarks: ''
@@ -840,6 +1104,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'LT LTK'
+    name: Ramuciai
+    namewodiacritics: Ramuciai
+    subdiv: KU
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5457N 02402E'
+    remarks: ''
+-
+    ch: ''
     locode: 'LT RAS'
     name: Raseiniai
     namewodiacritics: Raseiniai
@@ -851,7 +1127,7 @@
     coordinates: '5523N 02307E'
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'LT RAU'
     name: Raudondvaris
     namewodiacritics: Raudondvaris
@@ -861,7 +1137,7 @@
     date: '1307'
     iata: ''
     coordinates: '5450N 02517E'
-    remarks: '@Sub'
+    remarks: ''
 -
     ch: ''
     locode: 'LT RTS'
@@ -888,6 +1164,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'LT RKL'
+    name: Rukla
+    namewodiacritics: Rukla
+    subdiv: '10'
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '5503N 02422E'
+    remarks: ''
+-
+    ch: ''
     locode: 'LT RUM'
     name: Rumiskies
     namewodiacritics: Rumiskies
@@ -897,6 +1185,18 @@
     date: '9805'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'LT SKA'
+    name: Sakiai
+    namewodiacritics: Sakiai
+    subdiv: MR
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5457N 02303E'
     remarks: ''
 -
     ch: ''
@@ -911,7 +1211,7 @@
     coordinates: '5418N 02522E'
     remarks: ''
 -
-    ch: +
+    ch: ''
     locode: 'LT SLK'
     name: 'Salcininkai kelio PVP/Salcininkai'
     namewodiacritics: 'Salcininkai kelio PVP/Salcininkai'
@@ -923,7 +1223,7 @@
     coordinates: '5418N 02523E'
     remarks: 'Border crossing'
 -
-    ch: ¦
+    ch: ''
     locode: 'LT STR'
     name: 'Senieji Trakai'
     namewodiacritics: 'Senieji Trakai'
@@ -933,7 +1233,7 @@
     date: '1307'
     iata: ''
     coordinates: '5437N 02458E'
-    remarks: '@Sub'
+    remarks: ''
 -
     ch: ''
     locode: 'LT SSK'
@@ -983,17 +1283,17 @@
     coordinates: '5520N 02128E'
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'LT SRV'
     name: Sirvintos
     namewodiacritics: Sirvintos
     subdiv: VL
-    function: 123-----
+    function: '-23-----'
     status: RL
-    date: '1307'
+    date: '1601'
     iata: ''
     coordinates: '5501N 02458E'
-    remarks: '@Sub'
+    remarks: ''
 -
     ch: ''
     locode: 'LT SKU'
@@ -1005,6 +1305,30 @@
     date: '0601'
     iata: ''
     coordinates: '5616N 02131E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LT SLA'
+    name: Slikiai
+    namewodiacritics: Slikiai
+    subdiv: '16'
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '5513N 02404E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LT SKK'
+    name: Stakliskes
+    namewodiacritics: Stakliskes
+    subdiv: '16'
+    function: '-----6--'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '5436N 02419E'
     remarks: ''
 -
     ch: ''
@@ -1067,17 +1391,17 @@
     coordinates: '5558N 02214E'
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'LT TKI'
     name: Trakai
     namewodiacritics: Trakai
     subdiv: VL
-    function: 1-3-----
+    function: '--3-----'
     status: RL
-    date: '1307'
+    date: '1601'
     iata: ''
     coordinates: '5438N 02456E'
-    remarks: '@Sub'
+    remarks: ''
 -
     ch: ''
     locode: 'LT TKS'
@@ -1127,7 +1451,7 @@
     coordinates: '5530N 02536E'
     remarks: ''
 -
-    ch: +
+    ch: ''
     locode: 'LT VAI'
     name: Vaidotai
     namewodiacritics: Vaidotai
@@ -1163,7 +1487,67 @@
     coordinates: '5413N 02434E'
     remarks: ''
 -
-    ch: ¦
+    ch: ''
+    locode: 'LT VEN'
+    name: Venta
+    namewodiacritics: Venta
+    subdiv: '01'
+    function: '--3-----'
+    status: RL
+    date: '1707'
+    iata: ''
+    coordinates: '5612N 02242E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LT VEA'
+    name: Venta
+    namewodiacritics: Venta
+    subdiv: '01'
+    function: '-----6--'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '5612N 02242E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LT VER'
+    name: Verbiskes
+    namewodiacritics: Verbiskes
+    subdiv: '27'
+    function: '--3-----'
+    status: RL
+    date: '2001'
+    iata: ''
+    coordinates: '5519N 02528E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LT VID'
+    name: Vidukle
+    namewodiacritics: Vidukle
+    subdiv: '16'
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '5524N 02253E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LT VKA'
+    name: Vieksniai
+    namewodiacritics: Vieksniai
+    subdiv: '01'
+    function: '--3-----'
+    status: AM
+    date: '2101'
+    iata: ''
+    coordinates: '5614N 02231E'
+    remarks: ''
+-
+    ch: ''
     locode: 'LT VEV'
     name: Vievis
     namewodiacritics: Vievis
@@ -1173,7 +1557,7 @@
     date: '1307'
     iata: ''
     coordinates: '5446N 02448E'
-    remarks: '@Sub'
+    remarks: ''
 -
     ch: ''
     locode: 'LT VKV'
@@ -1188,13 +1572,25 @@
     remarks: ''
 -
     ch: ''
+    locode: 'LT VIL'
+    name: Vilnius
+    namewodiacritics: Vilnius
+    subdiv: '58'
+    function: '-23-----'
+    status: RL
+    date: '2007'
+    iata: ''
+    coordinates: '5441N 02519E'
+    remarks: ''
+-
+    ch: ''
     locode: 'LT VNO'
     name: Vilnius
     namewodiacritics: Vilnius
     subdiv: ''
-    function: '---45---'
+    function: '-2-45---'
     status: AI
-    date: '9601'
+    date: '2007'
     iata: ''
     coordinates: ''
     remarks: ''
@@ -1224,13 +1620,25 @@
     remarks: ''
 -
     ch: ''
+    locode: 'LT ZYK'
+    name: Zapyskis
+    namewodiacritics: Zapyskis
+    subdiv: '16'
+    function: '--3-----'
+    status: RL
+    date: '2001'
+    iata: ''
+    coordinates: '5455N 02340E'
+    remarks: ''
+-
+    ch: ''
     locode: 'LT ZAR'
     name: Zarasai
     namewodiacritics: Zarasai
     subdiv: ''
-    function: 1-3-----
+    function: '--3-----'
     status: RL
-    date: '0601'
+    date: '1601'
     iata: ''
     coordinates: '5544N 02615E'
     remarks: ''

@@ -168,6 +168,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CM EKO'
+    name: Ekok
+    namewodiacritics: Ekok
+    subdiv: SW
+    function: '----5---'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '0548N 00853E'
+    remarks: ''
+-
+    ch: ''
     locode: 'CM FOM'
     name: Foumban
     namewodiacritics: Foumban
@@ -183,7 +195,7 @@
     locode: 'CM GOU'
     name: Garoua
     namewodiacritics: Garoua
-    subdiv: NO
+    subdiv: 'NO'
     function: 1-34----
     status: AI
     date: '1301'
@@ -336,6 +348,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CM MSG'
+    name: 'Massongo Terminal'
+    namewodiacritics: 'Massongo Terminal'
+    subdiv: ''
+    function: '------7-'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '0413N 00847E'
+    remarks: ''
+-
+    ch: ''
     locode: 'CM MBA'
     name: Mbalmayo
     namewodiacritics: Mbalmayo
@@ -345,6 +369,18 @@
     date: '0212'
     iata: ''
     coordinates: '0331N 01130E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CM MGA'
+    name: Meiganga
+    namewodiacritics: Meiganga
+    subdiv: AD
+    function: '--3-----'
+    status: AM
+    date: '2007'
+    iata: ''
+    coordinates: '0631N 01418E'
     remarks: ''
 -
     ch: ''

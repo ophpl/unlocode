@@ -48,6 +48,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'AW ND9'
+    name: Noord
+    namewodiacritics: Noord
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '1234N 07001W'
+    remarks: ''
+-
+    ch: ''
     locode: 'AW ORJ'
     name: Oranjestad
     namewodiacritics: Oranjestad
@@ -60,6 +72,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'AW PAB'
+    name: 'Palm Beach'
+    namewodiacritics: 'Palm Beach'
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '1234N 07002W'
+    remarks: ''
+-
+    ch: ''
     locode: 'AW PAR'
     name: Paradera
     namewodiacritics: Paradera
@@ -69,6 +93,18 @@
     date: '1101'
     iata: ''
     coordinates: '1232N 07000W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AW SCZ'
+    name: 'Santa Cruz'
+    namewodiacritics: 'Santa Cruz'
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '1230N 06959W'
     remarks: ''
 -
     ch: ''

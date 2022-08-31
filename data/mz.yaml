@@ -24,6 +24,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'MZ AEN'
+    name: 'António Enes'
+    namewodiacritics: 'Antonio Enes'
+    subdiv: 'N'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '1613S 03954E'
+    remarks: ''
+-
+    ch: ''
     locode: 'MZ BJN'
     name: Bajone
     namewodiacritics: Bajone
@@ -84,6 +96,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'MZ BOA'
+    name: Boane
+    namewodiacritics: Boane
+    subdiv: L
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '2602S 03219E'
+    remarks: ''
+-
+    ch: ''
     locode: 'MZ CMZ'
     name: Caia
     namewodiacritics: Caia
@@ -93,6 +117,18 @@
     date: '0001'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MZ CHA'
+    name: 'Chicamba Real'
+    namewodiacritics: 'Chicamba Real'
+    subdiv: B
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '1911S 03309E'
     remarks: ''
 -
     ch: ''
@@ -119,7 +155,7 @@
     coordinates: ''
     remarks: ''
 -
-    ch: +
+    ch: ''
     locode: 'MZ CHI'
     name: Chiúre
     namewodiacritics: Chiure
@@ -204,6 +240,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'MZ INS'
+    name: Inhassoro
+    namewodiacritics: Inhassoro
+    subdiv: I
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '2132S 03512E'
+    remarks: ''
+-
+    ch: ''
     locode: 'MZ VXC'
     name: Lichinga
     namewodiacritics: Lichinga
@@ -276,6 +324,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'MZ MCA'
+    name: Manica
+    namewodiacritics: Manica
+    subdiv: B
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '1856S 03252E'
+    remarks: ''
+-
+    ch: ''
     locode: 'MZ MPM'
     name: Maputo
     namewodiacritics: Maputo
@@ -324,6 +384,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'MZ MVI'
+    name: Mavuzi
+    namewodiacritics: Mavuzi
+    subdiv: B
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '1931S 03326E'
+    remarks: ''
+-
+    ch: ''
     locode: 'MZ MAX'
     name: Maxixe
     namewodiacritics: Maxixe
@@ -333,6 +405,18 @@
     date: '0507'
     iata: ''
     coordinates: '2351S 03520E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MZ MEC'
+    name: Meconta
+    namewodiacritics: Meconta
+    subdiv: 'N'
+    function: '-----6--'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '1459S 03950E'
     remarks: ''
 -
     ch: ''
@@ -408,6 +492,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'MZ MOS'
+    name: Mossuril
+    namewodiacritics: Mossuril
+    subdiv: 'N'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '1458S 04039E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MZ M7E'
+    name: Muecate
+    namewodiacritics: Muecate
+    subdiv: 'N'
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '1453S 03937E'
+    remarks: ''
+-
+    ch: ''
     locode: 'MZ MUD'
     name: Mueda
     namewodiacritics: Mueda
@@ -429,6 +537,18 @@
     date: '9601'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MZ MZN'
+    name: Nacaroa
+    namewodiacritics: Nacaroa
+    subdiv: 'N'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '1422S 03955E'
     remarks: ''
 -
     ch: ''

@@ -1,5 +1,29 @@
 -
     ch: ''
+    locode: 'BO ACH'
+    name: Achacachi
+    namewodiacritics: Achacachi
+    subdiv: L
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '1603S 06841W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BO ACL'
+    name: Achocalla
+    namewodiacritics: Achocalla
+    subdiv: L
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '1635S 06810W'
+    remarks: ''
+-
+    ch: ''
     locode: 'BO AQL'
     name: Aiquile
     namewodiacritics: Aiquile
@@ -9,6 +33,30 @@
     date: '1201'
     iata: ''
     coordinates: '1810S 06510W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BO ALC'
+    name: Alcalá
+    namewodiacritics: Alcala
+    subdiv: H
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '1922S 06425W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BO ANC'
+    name: Ancoraimes
+    namewodiacritics: Ancoraimes
+    subdiv: L
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '1554S 06858W'
     remarks: ''
 -
     ch: ''
@@ -24,6 +72,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'BO ARC'
+    name: Arica
+    namewodiacritics: Arica
+    subdiv: 'N'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0946S 06553W'
+    remarks: ''
+-
+    ch: ''
     locode: 'BO ASC'
     name: Ascensión
     namewodiacritics: Ascension
@@ -33,6 +93,18 @@
     date: '0407'
     iata: ''
     coordinates: '1542S 06305W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BO AUC'
+    name: Aucapata
+    namewodiacritics: Aucapata
+    subdiv: L
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '1522S 06839W'
     remarks: ''
 -
     ch: ''
@@ -48,6 +120,54 @@
     remarks: ''
 -
     ch: ''
+    locode: 'BO AYT'
+    name: Ayata
+    namewodiacritics: Ayata
+    subdiv: L
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '1521S 06845W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BO AYO'
+    name: 'Ayo Ayo'
+    namewodiacritics: 'Ayo Ayo'
+    subdiv: L
+    function: '--3-----'
+    status: AC
+    date: '1901'
+    iata: ''
+    coordinates: '1705S 06800W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BO AZY'
+    name: Azurduy
+    namewodiacritics: Azurduy
+    subdiv: H
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '2006S 06425W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BO BAT'
+    name: Batallas
+    namewodiacritics: Batallas
+    subdiv: L
+    function: '--3-----'
+    status: AC
+    date: '1901'
+    iata: ''
+    coordinates: '1620S 06830W'
+    remarks: ''
+-
+    ch: ''
     locode: 'BO BVL'
     name: Baures
     namewodiacritics: Baures
@@ -57,6 +177,18 @@
     date: '0407'
     iata: ''
     coordinates: '1335S 06335W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BO BEF'
+    name: 'Bella Flor'
+    namewodiacritics: 'Bella Flor'
+    subdiv: 'N'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '1106S 06738W'
     remarks: ''
 -
     ch: ''
@@ -72,6 +204,90 @@
     remarks: ''
 -
     ch: ''
+    locode: 'BO BPB'
+    name: Bolpebra
+    namewodiacritics: Bolpebra
+    subdiv: 'N'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '1056S 06935W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BO CJT'
+    name: Cajuata
+    namewodiacritics: Cajuata
+    subdiv: L
+    function: '--3-----'
+    status: AC
+    date: '1901'
+    iata: ''
+    coordinates: '1649S 06715W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BO CAO'
+    name: Calacoto
+    namewodiacritics: Calacoto
+    subdiv: L
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '1718S 06839W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BO CCM'
+    name: Calacoto
+    namewodiacritics: Calacoto
+    subdiv: L
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '1632S 06806W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BO CCO'
+    name: Calacoto
+    namewodiacritics: Calacoto
+    subdiv: L
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '1717S 06748W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BO CAL'
+    name: Calamarca
+    namewodiacritics: Calamarca
+    subdiv: L
+    function: '--3-----'
+    status: AC
+    date: '1901'
+    iata: ''
+    coordinates: '1654S 06806W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BO CMR'
+    name: Camargo
+    namewodiacritics: Camargo
+    subdiv: H
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '2039S 06513W'
+    remarks: ''
+-
+    ch: ''
     locode: 'BO CAM'
     name: Camiri
     namewodiacritics: Camiri
@@ -81,6 +297,54 @@
     date: '0407'
     iata: ''
     coordinates: '2006S 06332W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BO CNO'
+    name: 'Cañada Oruro'
+    namewodiacritics: 'Canada Oruro'
+    subdiv: T
+    function: '-------B'
+    status: RL
+    date: '1901'
+    iata: ''
+    coordinates: '2140S 06227W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BO CAQ'
+    name: Caquiaviri
+    namewodiacritics: Caquiaviri
+    subdiv: L
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '1701S 06837W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BO CRN'
+    name: Caranavi
+    namewodiacritics: Caranavi
+    subdiv: L
+    function: '--3-----'
+    status: AC
+    date: '1901'
+    iata: ''
+    coordinates: '1549S 06733W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BO CAI'
+    name: Carapari
+    namewodiacritics: Carapari
+    subdiv: T
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '2140S 06513W'
     remarks: ''
 -
     ch: ''
@@ -96,10 +360,70 @@
     remarks: ''
 -
     ch: ''
+    locode: 'BO CTC'
+    name: Catacora
+    namewodiacritics: Catacora
+    subdiv: L
+    function: '--3-----'
+    status: AC
+    date: '1901'
+    iata: ''
+    coordinates: '1617S 06829W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BO CHR'
+    name: Chacarilla
+    namewodiacritics: Chacarilla
+    subdiv: L
+    function: '--3-----'
+    status: AC
+    date: '1901'
+    iata: ''
+    coordinates: '1734S 06813W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BO CHA'
+    name: Charaña
+    namewodiacritics: Charana
+    subdiv: L
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '1736S 06928W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BO CHU'
+    name: Chulumani
+    namewodiacritics: Chulumani
+    subdiv: L
+    function: '--3-----'
+    status: AC
+    date: '1901'
+    iata: ''
+    coordinates: '1624S 06731W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BO CHM'
+    name: Chuma
+    namewodiacritics: Chuma
+    subdiv: L
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '1529S 06854W'
+    remarks: ''
+-
+    ch: ''
     locode: 'BO CIJ'
     name: Cobija
     namewodiacritics: Cobija
-    subdiv: N
+    subdiv: 'N'
     function: '--34----'
     status: AI
     date: '0407'
@@ -120,15 +444,15 @@
     remarks: ''
 -
     ch: ''
-    locode: 'BO CLN'
-    name: Collpani
-    namewodiacritics: Collpani
-    subdiv: P
+    locode: 'BO CLL'
+    name: Collana
+    namewodiacritics: Collana
+    subdiv: L
     function: '--3-----'
-    status: RL
-    date: '1101'
+    status: AC
+    date: '1901'
     iata: ''
-    coordinates: '2055S 06701W'
+    coordinates: '1654S 06817W'
     remarks: ''
 -
     ch: ''
@@ -144,6 +468,54 @@
     remarks: ''
 -
     ch: ''
+    locode: 'BO CLN'
+    name: Collpani
+    namewodiacritics: Collpani
+    subdiv: P
+    function: '--3-----'
+    status: RL
+    date: '1101'
+    iata: ''
+    coordinates: '2055S 06701W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BO CLQ'
+    name: Colquencha
+    namewodiacritics: Colquencha
+    subdiv: L
+    function: '--3-----'
+    status: AC
+    date: '1901'
+    iata: ''
+    coordinates: '1656S 06815W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BO CME'
+    name: Comanche
+    namewodiacritics: Comanche
+    subdiv: L
+    function: '--3-----'
+    status: AC
+    date: '1901'
+    iata: ''
+    coordinates: '1657S 06825W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BO COM'
+    name: Combaya
+    namewodiacritics: Combaya
+    subdiv: L
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '1547S 06846W'
+    remarks: ''
+-
+    ch: ''
     locode: 'BO CEP'
     name: Concepción
     namewodiacritics: Concepcion
@@ -156,6 +528,90 @@
     remarks: ''
 -
     ch: ''
+    locode: 'BO CPB'
+    name: Copacabana
+    namewodiacritics: Copacabana
+    subdiv: L
+    function: 1-3-----
+    status: AC
+    date: '1901'
+    iata: ''
+    coordinates: '1609S 06905W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BO CRP'
+    name: Coripata
+    namewodiacritics: Coripata
+    subdiv: L
+    function: '--3-----'
+    status: AC
+    date: '1901'
+    iata: ''
+    coordinates: '1618S 06736W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BO CCR'
+    name: 'Coro Coro'
+    namewodiacritics: 'Coro Coro'
+    subdiv: L
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '1710S 06827W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BO COR'
+    name: Coroico
+    namewodiacritics: Coroico
+    subdiv: L
+    function: '--3-----'
+    status: AC
+    date: '1901'
+    iata: ''
+    coordinates: '1611S 06744W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BO CUL'
+    name: Culpina
+    namewodiacritics: Culpina
+    subdiv: H
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '2050S 06458W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BO CUR'
+    name: Curva
+    namewodiacritics: Curva
+    subdiv: L
+    function: '--3-----'
+    status: AC
+    date: '1901'
+    iata: ''
+    coordinates: '1507S 06903W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BO DES'
+    name: Desaguadero
+    namewodiacritics: Desaguadero
+    subdiv: L
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '1634S 06902W'
+    remarks: ''
+-
+    ch: ''
     locode: 'BO ALT'
     name: 'El Alto'
     namewodiacritics: 'El Alto'
@@ -165,6 +621,66 @@
     date: '1101'
     iata: ''
     coordinates: '1630S 06810W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BO ENT'
+    name: 'Entre Ríos'
+    namewodiacritics: 'Entre Rios'
+    subdiv: T
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '2132S 06412W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BO ESC'
+    name: Escoma
+    namewodiacritics: Escoma
+    subdiv: L
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '1540S 06908W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BO EXA'
+    name: Exaltación
+    namewodiacritics: Exaltacion
+    subdiv: B
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '1316S 06515W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BO FIL'
+    name: Filadelfia
+    namewodiacritics: Filadelfia
+    subdiv: 'N'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '1120S 06846W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BO GUA'
+    name: Guanay
+    namewodiacritics: Guanay
+    subdiv: L
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '1529S 06753W'
     remarks: ''
 -
     ch: ''
@@ -192,6 +708,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'BO HIT'
+    name: 'Hito Cajones'
+    namewodiacritics: 'Hito Cajones'
+    subdiv: P
+    function: '--3-----'
+    status: RL
+    date: '1901'
+    iata: ''
+    coordinates: '2252S 06747W'
+    remarks: ''
+-
+    ch: ''
     locode: 'BO BVK'
     name: Huacaraje
     namewodiacritics: Huacaraje
@@ -201,6 +729,138 @@
     date: '0407'
     iata: ''
     coordinates: '1333S 06345W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BO HUA'
+    name: Huacaya
+    namewodiacritics: Huacaya
+    subdiv: H
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '2045S 06343W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BO HUR'
+    name: Huarina
+    namewodiacritics: Huarina
+    subdiv: L
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '1612S 06838W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BO HTJ'
+    name: Huatajata
+    namewodiacritics: Huatajata
+    subdiv: L
+    function: 1-3-----
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '1610S 06844W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BO HMT'
+    name: Humaitá
+    namewodiacritics: Humaita
+    subdiv: 'N'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '1201S 06813W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BO HUM'
+    name: Humanata
+    namewodiacritics: Humanata
+    subdiv: L
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '1527S 06908W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BO ICH'
+    name: Ichoca
+    namewodiacritics: Ichoca
+    subdiv: L
+    function: '--3-----'
+    status: AC
+    date: '1901'
+    iata: ''
+    coordinates: '1712S 06717W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BO INQ'
+    name: Inquisivi
+    namewodiacritics: Inquisivi
+    subdiv: L
+    function: '--3-----'
+    status: AC
+    date: '1901'
+    iata: ''
+    coordinates: '1655S 06709W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BO IRU'
+    name: Irupana
+    namewodiacritics: Irupana
+    subdiv: L
+    function: '--3-----'
+    status: AC
+    date: '1901'
+    iata: ''
+    coordinates: '1628S 06728W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BO IXM'
+    name: Ixiamas
+    namewodiacritics: Ixiamas
+    subdiv: L
+    function: '--3-----'
+    status: AC
+    date: '1901'
+    iata: ''
+    coordinates: '1345S 06809W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BO JMC'
+    name: 'Jesús de Machaca'
+    namewodiacritics: 'Jesus de Machaca'
+    subdiv: L
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '1645S 06850W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BO ASN'
+    name: 'La Asunta'
+    namewodiacritics: 'La Asunta'
+    subdiv: L
+    function: '-2------'
+    status: AC
+    date: '1901'
+    iata: ''
+    coordinates: '1602S 06710W'
     remarks: ''
 -
     ch: ''
@@ -216,6 +876,54 @@
     remarks: ''
 -
     ch: ''
+    locode: 'BO LAJ'
+    name: Laja
+    namewodiacritics: Laja
+    subdiv: L
+    function: '--3-----'
+    status: AC
+    date: '1901'
+    iata: ''
+    coordinates: '1632S 06823W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BO LOR'
+    name: Loreto
+    namewodiacritics: Loreto
+    subdiv: B
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '1511S 06446W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BO LUR'
+    name: Luribay
+    namewodiacritics: Luribay
+    subdiv: L
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '1703S 06740W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BO MCH'
+    name: Macharetí
+    namewodiacritics: Machareti
+    subdiv: H
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '2049S 06324W'
+    remarks: ''
+-
+    ch: ''
     locode: 'BO MGD'
     name: Magdalena
     namewodiacritics: Magdalena
@@ -225,6 +933,66 @@
     date: '0407'
     iata: ''
     coordinates: '1314S 06412W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BO MLL'
+    name: Malla
+    namewodiacritics: Malla
+    subdiv: L
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '1705S 06729W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BO MAP'
+    name: Mapiri
+    namewodiacritics: Mapiri
+    subdiv: L
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '1515S 06810W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BO MEC'
+    name: Mecapaca
+    namewodiacritics: Mecapaca
+    subdiv: L
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '1641S 06802W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BO MOC'
+    name: 'Moco Moco'
+    namewodiacritics: 'Moco Moco'
+    subdiv: L
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '1658S 06849W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BO MOJ'
+    name: Mojocoya
+    namewodiacritics: Mojocoya
+    subdiv: H
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '1845S 06437W'
     remarks: ''
 -
     ch: ''
@@ -240,6 +1008,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'BO NES'
+    name: 'Nueva Esperanza'
+    namewodiacritics: 'Nueva Esperanza'
+    subdiv: 'N'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '1056S 06653W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BO OBS'
+    name: Obrajes
+    namewodiacritics: Obrajes
+    subdiv: L
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '1632S 06807W'
+    remarks: ''
+-
+    ch: ''
     locode: 'BO ORU'
     name: Oruro
     namewodiacritics: Oruro
@@ -249,6 +1041,114 @@
     date: '0407'
     iata: ''
     coordinates: '1759S 06709W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BO PDC'
+    name: Padcaya
+    namewodiacritics: Padcaya
+    subdiv: T
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '2153S 06443W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BO PAD'
+    name: Padilla
+    namewodiacritics: Padilla
+    subdiv: H
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '1918S 06418W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BO PAL'
+    name: Palca
+    namewodiacritics: Palca
+    subdiv: L
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '1633S 06757W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BO PPM'
+    name: 'Papel Pampa'
+    namewodiacritics: 'Papel Pampa'
+    subdiv: L
+    function: '--3-----'
+    status: AC
+    date: '1901'
+    iata: ''
+    coordinates: '1749S 06746W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BO PAT'
+    name: Patacamaya
+    namewodiacritics: Patacamaya
+    subdiv: L
+    function: '--3-----'
+    status: AC
+    date: '1901'
+    iata: ''
+    coordinates: '1714S 06755W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BO PEL'
+    name: Pelechuco
+    namewodiacritics: Pelechuco
+    subdiv: L
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '1448S 06905W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BO PIS'
+    name: Pisiga
+    namewodiacritics: Pisiga
+    subdiv: O
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '1917S 06838W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BO POR'
+    name: Poroma
+    namewodiacritics: Poroma
+    subdiv: H
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '1829S 06530W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BO PRV'
+    name: Porvenir
+    namewodiacritics: Porvenir
+    subdiv: 'N'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '1031S 06719W'
     remarks: ''
 -
     ch: ''
@@ -264,6 +1164,42 @@
     remarks: ''
 -
     ch: ''
+    locode: 'BO PRE'
+    name: Presto
+    namewodiacritics: Presto
+    subdiv: H
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '1855S 06456W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BO PUC'
+    name: Pucarani
+    namewodiacritics: Pucarani
+    subdiv: L
+    function: '--3-----'
+    status: AC
+    date: '1901'
+    iata: ''
+    coordinates: '1624S 06829W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BO PTA'
+    name: 'Puerto Acosta'
+    namewodiacritics: 'Puerto Acosta'
+    subdiv: L
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '1532S 06915W'
+    remarks: ''
+-
+    ch: ''
     locode: 'BO PBU'
     name: 'Puerto Busch'
     namewodiacritics: 'Puerto Busch'
@@ -273,6 +1209,42 @@
     date: '0407'
     iata: ''
     coordinates: '2002S 05758W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BO PTC'
+    name: 'Puerto Carabuco'
+    namewodiacritics: 'Puerto Carabuco'
+    subdiv: L
+    function: 1-3-----
+    status: RQ
+    date: '1807'
+    iata: ''
+    coordinates: '1545S 06904W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BO PGM'
+    name: 'Puerto Gonzalo Moreno'
+    namewodiacritics: 'Puerto Gonzalo Moreno'
+    subdiv: 'N'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '1104S 06611W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BO PPR'
+    name: 'Puerto Pérez'
+    namewodiacritics: 'Puerto Perez'
+    subdiv: L
+    function: 1-3-----
+    status: AC
+    date: '1901'
+    iata: ''
+    coordinates: '1616S 06838W'
     remarks: ''
 -
     ch: ''
@@ -291,12 +1263,24 @@
     locode: 'BO PUR'
     name: 'Puerto Rico'
     namewodiacritics: 'Puerto Rico'
-    subdiv: N
+    subdiv: 'N'
     function: 1-34----
     status: RL
     date: '0407'
     iata: ''
     coordinates: '1105S 06738W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BO PTS'
+    name: 'Puerto Siles'
+    namewodiacritics: 'Puerto Siles'
+    subdiv: B
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '1248S 06505W'
     remarks: ''
 -
     ch: ''
@@ -309,6 +1293,42 @@
     date: '0212'
     iata: ''
     coordinates: '1857S 05748W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BO QBA'
+    name: Quiabaya
+    namewodiacritics: Quiabaya
+    subdiv: L
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '1537S 06846W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BO QUO'
+    name: Quillacollo
+    namewodiacritics: Quillacollo
+    subdiv: C
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '1724S 06617W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BO QME'
+    name: Quime
+    namewodiacritics: Quime
+    subdiv: L
+    function: '--3-----'
+    status: AC
+    date: '1901'
+    iata: ''
+    coordinates: '1702S 06715W'
     remarks: ''
 -
     ch: ''
@@ -360,6 +1380,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'BO SAM'
+    name: 'San Andrés de Machaca'
+    namewodiacritics: 'San Andres de Machaca'
+    subdiv: L
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '1657S 06858W'
+    remarks: ''
+-
+    ch: ''
     locode: 'BO SRJ'
     name: 'San Borja'
     namewodiacritics: 'San Borja'
@@ -369,6 +1401,18 @@
     date: '0407'
     iata: ''
     coordinates: '1449S 06651W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BO SBV'
+    name: 'San Buenaventura'
+    namewodiacritics: 'San Buenaventura'
+    subdiv: L
+    function: '--3-----'
+    status: AC
+    date: '1901'
+    iata: ''
+    coordinates: '1428S 06735W'
     remarks: ''
 -
     ch: ''
@@ -432,6 +1476,42 @@
     remarks: ''
 -
     ch: ''
+    locode: 'BO SLR'
+    name: 'San Lorenzo'
+    namewodiacritics: 'San Lorenzo'
+    subdiv: 'N'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '1153S 06651W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BO SLO'
+    name: 'San Lorenzo'
+    namewodiacritics: 'San Lorenzo'
+    subdiv: T
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '2126S 06447W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BO SLC'
+    name: 'San Lucas'
+    namewodiacritics: 'San Lucas'
+    subdiv: H
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '2006S 06507W'
+    remarks: ''
+-
+    ch: ''
     locode: 'BO MQK'
     name: 'San Matias'
     namewodiacritics: 'San Matias'
@@ -441,6 +1521,42 @@
     date: '0907'
     iata: ''
     coordinates: '1141S 06639W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BO SPH'
+    name: 'San Pablo de Huacareta'
+    namewodiacritics: 'San Pablo de Huacareta'
+    subdiv: H
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '2018S 06401W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BO SPD'
+    name: 'San Pedro'
+    namewodiacritics: 'San Pedro'
+    subdiv: 'N'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '1111S 06614W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BO SCH'
+    name: 'San Pedro de Curahuara'
+    namewodiacritics: 'San Pedro de Curahuara'
+    subdiv: L
+    function: '--3-----'
+    status: AC
+    date: '1901'
+    iata: ''
+    coordinates: '1739S 06803W'
     remarks: ''
 -
     ch: ''
@@ -485,10 +1601,10 @@
     namewodiacritics: 'Santa Cruz de la Sierra'
     subdiv: S
     function: '--3-----'
-    status: RQ
-    date: '0907'
+    status: RL
+    date: '1707'
     iata: ''
-    coordinates: '1748S 63100W'
+    coordinates: '1748N 06311W'
     remarks: ''
 -
     ch: ''
@@ -504,6 +1620,54 @@
     remarks: ''
 -
     ch: ''
+    locode: 'BO SRA'
+    name: 'Santa Rosa del Abuná'
+    namewodiacritics: 'Santa Rosa del Abuna'
+    subdiv: 'N'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '1036S 06725W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BO SDH'
+    name: 'Santiago de Huari'
+    namewodiacritics: 'Santiago de Huari'
+    subdiv: O
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '1900S 06646W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BO STH'
+    name: 'Santiago de Huata'
+    namewodiacritics: 'Santiago de Huata'
+    subdiv: L
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '1606S 06853W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BO SMC'
+    name: 'Santiago de Machaca'
+    namewodiacritics: 'Santiago de Machaca'
+    subdiv: L
+    function: '--3-----'
+    status: AC
+    date: '1901'
+    iata: ''
+    coordinates: '1705S 06916W'
+    remarks: ''
+-
+    ch: ''
     locode: 'BO SAN'
     name: Santiváñez
     namewodiacritics: Santivanez
@@ -513,6 +1677,42 @@
     date: '0701'
     iata: ''
     coordinates: '1733S 06615W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BO SME'
+    name: 'Santos Mercado'
+    namewodiacritics: 'Santos Mercado'
+    subdiv: 'N'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0957S 06637W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BO SAP'
+    name: Sapahaqui
+    namewodiacritics: Sapahaqui
+    subdiv: L
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '1654S 06755W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BO SIC'
+    name: 'Sica Sica'
+    namewodiacritics: 'Sica Sica'
+    subdiv: L
+    function: '--3-----'
+    status: AC
+    date: '1901'
+    iata: ''
+    coordinates: '1720S 06744W'
     remarks: ''
 -
     ch: ''
@@ -528,6 +1728,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'BO SOR'
+    name: Sorata
+    namewodiacritics: Sorata
+    subdiv: L
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '1546S 06838W'
+    remarks: ''
+-
+    ch: ''
     locode: 'BO SRE'
     name: Sucre
     namewodiacritics: Sucre
@@ -537,6 +1749,54 @@
     date: '0407'
     iata: ''
     coordinates: '1902S 06515W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BO TAC'
+    name: Tacacoma
+    namewodiacritics: Tacacoma
+    subdiv: L
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '1535S 06843W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BO TAQ'
+    name: 'Tambo Quemado'
+    namewodiacritics: 'Tambo Quemado'
+    subdiv: O
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '1816S 06902W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BO TAR'
+    name: Tarabuco
+    namewodiacritics: Tarabuco
+    subdiv: H
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '1910S 06455W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BO TRC'
+    name: Taraco
+    namewodiacritics: Taraco
+    subdiv: L
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '1627S 06852W'
     remarks: ''
 -
     ch: ''
@@ -552,6 +1812,66 @@
     remarks: ''
 -
     ch: ''
+    locode: 'BO TEO'
+    name: Teoponte
+    namewodiacritics: Teoponte
+    subdiv: L
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '1528S 06749W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BO TIA'
+    name: Tiahuanacu
+    namewodiacritics: Tiahuanacu
+    subdiv: L
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '1633S 06842W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BO TIP'
+    name: Tipuani
+    namewodiacritics: Tipuani
+    subdiv: L
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '1533S 06800W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BO TQY'
+    name: Tiquipaya
+    namewodiacritics: Tiquipaya
+    subdiv: C
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '1720S 06613W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BO TOM'
+    name: Tomina
+    namewodiacritics: Tomina
+    subdiv: H
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '1911S 06432W'
+    remarks: ''
+-
+    ch: ''
     locode: 'BO TDD'
     name: Trinidad
     namewodiacritics: Trinidad
@@ -561,6 +1881,30 @@
     date: '0407'
     iata: ''
     coordinates: '1450S 06454W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BO UMA'
+    name: Umala
+    namewodiacritics: Umala
+    subdiv: L
+    function: '--3-----'
+    status: AC
+    date: '1901'
+    iata: ''
+    coordinates: '1722S 06802W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BO URI'
+    name: Uriondo
+    namewodiacritics: Uriondo
+    subdiv: T
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '2141S 06441W'
     remarks: ''
 -
     ch: ''
@@ -588,6 +1932,54 @@
     remarks: ''
 -
     ch: ''
+    locode: 'BO VIA'
+    name: Viacha
+    namewodiacritics: Viacha
+    subdiv: L
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '1639S 06818W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BO VAB'
+    name: 'Villa Abecia (Camataqui)'
+    namewodiacritics: 'Villa Abecia (Camataqui)'
+    subdiv: H
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '2057S 06513W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BO VIN'
+    name: 'Villa Nueva'
+    namewodiacritics: 'Villa Nueva'
+    subdiv: 'N'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '1047S 06623W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BO VSR'
+    name: 'Villa Serrano'
+    namewodiacritics: 'Villa Serrano'
+    subdiv: H
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '1907S 06420W'
+    remarks: ''
+-
+    ch: ''
     locode: 'BO VLM'
     name: Villamontes
     namewodiacritics: Villamontes
@@ -597,6 +1989,30 @@
     date: '0407'
     iata: ''
     coordinates: '2115S 06330W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BO VL2'
+    name: Villazon
+    namewodiacritics: Villazon
+    subdiv: H
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '2032S 06216W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BO VLL'
+    name: Villazón
+    namewodiacritics: Villazon
+    subdiv: P
+    function: '-23-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '2205S 06535W'
     remarks: ''
 -
     ch: ''
@@ -612,6 +2028,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'BO WAB'
+    name: 'Waldo Ballivian'
+    namewodiacritics: 'Waldo Ballivian'
+    subdiv: L
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '1732S 06759W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BO YAC'
+    name: Yaco
+    namewodiacritics: Yaco
+    subdiv: L
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '1709S 06724W'
+    remarks: ''
+-
+    ch: ''
     locode: 'BO BYC'
     name: Yacuiba
     namewodiacritics: Yacuiba
@@ -621,4 +2061,76 @@
     date: '0407'
     iata: ''
     coordinates: '2202S 06341W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BO YAM'
+    name: Yamparáez
+    namewodiacritics: Yamparaez
+    subdiv: H
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '1911S 06507W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BO YAN'
+    name: Yanacachi
+    namewodiacritics: Yanacachi
+    subdiv: L
+    function: '--3-----'
+    status: AC
+    date: '1901'
+    iata: ''
+    coordinates: '1623S 06744W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BO YOT'
+    name: Yotala
+    namewodiacritics: Yotala
+    subdiv: H
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '1909S 06515W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BO YUO'
+    name: Yucumo
+    namewodiacritics: Yucumo
+    subdiv: B
+    function: '--3-----'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '1508S 06702W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BO YUN'
+    name: Yunchara
+    namewodiacritics: Yunchara
+    subdiv: T
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '2147S 06511W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BO ZUD'
+    name: Zudáñez
+    namewodiacritics: Zudanez
+    subdiv: H
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '1907S 06442W'
     remarks: ''

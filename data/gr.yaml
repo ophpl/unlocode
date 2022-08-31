@@ -1,5 +1,17 @@
 -
     ch: ''
+    locode: 'GR ABD'
+    name: Abdera
+    namewodiacritics: Abdera
+    subdiv: '72'
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '4056N 02458E'
+    remarks: ''
+-
+    ch: ''
     locode: 'GR ANE'
     name: 'Acharnae Akharna'
     namewodiacritics: 'Acharnae Akharna'
@@ -23,7 +35,7 @@
     coordinates: '3805N 02344E'
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'GR ACL'
     name: Achladi
     namewodiacritics: Achladi
@@ -33,16 +45,28 @@
     date: '1307'
     iata: ''
     coordinates: '3853N 02249E'
-    remarks: '@Coo'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GR HLR'
+    name: Achladiás
+    namewodiacritics: Achladias
+    subdiv: E
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '3908N 02327E'
+    remarks: ''
 -
     ch: ''
     locode: 'GR ADL'
     name: 'Adamas Milos'
     namewodiacritics: 'Adamas Milos'
-    subdiv: '82'
+    subdiv: L
     function: 1-------
     status: RQ
-    date: '1001'
+    date: '2107'
     iata: ''
     coordinates: '3643N 02426E'
     remarks: ''
@@ -95,17 +119,17 @@
     coordinates: '4031N 03233E'
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'GR GIE'
     name: Aegio
     namewodiacritics: Aegio
     subdiv: ''
     function: '--3-----'
     status: AA
-    date: '1307'
+    date: '1707'
     iata: ''
-    coordinates: '3814N 22455E'
-    remarks: '@Fun@Sta'
+    coordinates: '3815N 02205E'
+    remarks: ''
 -
     ch: ''
     locode: 'GR KIA'
@@ -131,7 +155,7 @@
     coordinates: '3727N 02658E'
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'GR AEF'
     name: 'Agia Efimia'
     namewodiacritics: 'Agia Efimia'
@@ -141,7 +165,19 @@
     date: '1307'
     iata: ''
     coordinates: '3818N 02036E'
-    remarks: '@Coo'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GR PIL'
+    name: 'Agia Galini'
+    namewodiacritics: 'Agia Galini'
+    subdiv: M
+    function: 1-------
+    status: AA
+    date: '2001'
+    iata: ''
+    coordinates: '3505N 02441E'
+    remarks: ''
 -
     ch: ''
     locode: 'GR AKM'
@@ -167,7 +203,7 @@
     coordinates: '3744N 02332E'
     remarks: ''
 -
-    ch: '#'
+    ch: ''
     locode: 'GR AGM'
     name: 'Agia Marina Fthiotidas'
     namewodiacritics: 'Agia Marina Fthiotidas'
@@ -177,9 +213,9 @@
     date: '1307'
     iata: ''
     coordinates: '3854N 02235E'
-    remarks: '@Coo'
+    remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'GR GMA'
     name: 'Agia Marina Grammatikou Attikis'
     namewodiacritics: 'Agia Marina Grammatikou Attikis'
@@ -189,7 +225,7 @@
     date: '1307'
     iata: ''
     coordinates: '3811N 02404E'
-    remarks: '@Sta@Coo'
+    remarks: ''
 -
     ch: ''
     locode: 'GR AML'
@@ -201,6 +237,18 @@
     date: '1007'
     iata: ''
     coordinates: '3709N 02651E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GR APK'
+    name: 'Agia Paraskevi'
+    namewodiacritics: 'Agia Paraskevi'
+    subdiv: A1
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '3800N 02349E'
     remarks: ''
 -
     ch: ''
@@ -239,16 +287,16 @@
     coordinates: '4030N 02252E'
     remarks: ''
 -
-    ch: X
-    locode: 'GR 86'
-    name: 'Agia Varvara'
+    ch: ''
+    locode: 'GR V6V'
+    name: 'Agía Varvára'
     namewodiacritics: 'Agia Varvara'
-    subdiv: A1
-    function: '-----6--'
-    status: XX
-    date: '1307'
+    subdiv: '53'
+    function: '--3-----'
+    status: RL
+    date: '1607'
     iata: ''
-    coordinates: '3800N 02339E'
+    coordinates: '4029N 02214E'
     remarks: ''
 -
     ch: ''
@@ -258,7 +306,7 @@
     subdiv: ''
     function: 1-34----
     status: AI
-    date: '0207'
+    date: '2007'
     iata: ''
     coordinates: '3755N 02307E'
     remarks: ''
@@ -287,19 +335,43 @@
     coordinates: '3941N 02253E'
     remarks: ''
 -
-    ch: X
-    locode: 'GR AOS'
-    name: 'Ágios Athanásios'
-    namewodiacritics: 'Agios Athanasios'
-    subdiv: ''
+    ch: ''
+    locode: 'GR AOR'
+    name: 'Agiokampos Oreon'
+    namewodiacritics: 'Agiokampos Oreon'
+    subdiv: H
     function: 1-------
-    status: XX
-    date: '1307'
+    status: AA
+    date: '2001'
     iata: ''
-    coordinates: ''
+    coordinates: '3856N 02302E'
     remarks: ''
 -
-    ch: ¦
+    ch: ''
+    locode: 'GR GTO'
+    name: 'Agios Athanasios'
+    namewodiacritics: 'Agios Athanasios'
+    subdiv: '22'
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '3944N 01942E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GR AAS'
+    name: 'Ágios Athanásios'
+    namewodiacritics: 'Agios Athanasios'
+    subdiv: '54'
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '4043N 02243E'
+    remarks: ''
+-
+    ch: ''
     locode: 'GR AGO'
     name: 'Ágios Efstrátios'
     namewodiacritics: 'Agios Efstratios'
@@ -309,9 +381,9 @@
     date: '1307'
     iata: ''
     coordinates: '3932N 02459E'
-    remarks: '@Coo'
+    remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'GR AGE'
     name: 'Agios Georgios'
     namewodiacritics: 'Agios Georgios'
@@ -321,9 +393,9 @@
     date: '1307'
     iata: ''
     coordinates: '3850N 02253E'
-    remarks: '@Sta@Coo'
+    remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'GR GRA'
     name: 'Agios Ioannis Rentis'
     namewodiacritics: 'Agios Ioannis Rentis'
@@ -333,9 +405,9 @@
     date: '1307'
     iata: ''
     coordinates: '3757N 02340E'
-    remarks: '@Fun@Sta'
+    remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'GR AKI'
     name: 'Agios Kírykos'
     namewodiacritics: 'Agios Kirykos'
@@ -345,9 +417,9 @@
     date: '1307'
     iata: ''
     coordinates: '3737N 02618E'
-    remarks: '@Coo'
+    remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'GR AKO'
     name: 'Agios Konstantínos'
     namewodiacritics: 'Agios Konstantinos'
@@ -357,7 +429,7 @@
     date: '1307'
     iata: ''
     coordinates: '3845N 02252E'
-    remarks: '@Coo'
+    remarks: ''
 -
     ch: ''
     locode: 'GR AGF'
@@ -407,7 +479,7 @@
     coordinates: ''
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'GR ASF'
     name: 'Agios Stefanos Corfu'
     namewodiacritics: 'Agios Stefanos Corfu'
@@ -417,7 +489,7 @@
     date: '1307'
     iata: ''
     coordinates: '3946N 01957E'
-    remarks: '@Sta@Coo'
+    remarks: ''
 -
     ch: ''
     locode: 'GR AGG'
@@ -431,7 +503,7 @@
     coordinates: '3743N 02321E'
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'GR ANL'
     name: 'Agnontas Skopelos'
     namewodiacritics: 'Agnontas Skopelos'
@@ -441,7 +513,7 @@
     date: '1307'
     iata: ''
     coordinates: '3905N 02342E'
-    remarks: '@Sta@Coo'
+    remarks: ''
 -
     ch: ''
     locode: 'GR AGA'
@@ -507,10 +579,10 @@
     locode: 'GR AIG'
     name: 'Aigiali Amorgou'
     namewodiacritics: 'Aigiali Amorgou'
-    subdiv: I
+    subdiv: '82'
     function: 1-------
-    status: RQ
-    date: '0901'
+    status: RL
+    date: '1501'
     iata: ''
     coordinates: '3654N 02558E'
     remarks: ''
@@ -527,7 +599,7 @@
     coordinates: '4030N 02232E'
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'GR AEN'
     name: Aígion
     namewodiacritics: Aigion
@@ -537,7 +609,7 @@
     date: '1307'
     iata: ''
     coordinates: '3815N 02205E'
-    remarks: '@Coo'
+    remarks: ''
 -
     ch: ''
     locode: 'GR GAW'
@@ -575,7 +647,7 @@
     coordinates: '3804N 02342E'
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'GR ACH'
     name: Akharnaí
     namewodiacritics: Akharnai
@@ -585,7 +657,7 @@
     date: '1307'
     iata: ''
     coordinates: '3805N 02344E'
-    remarks: '@Fun@Sta'
+    remarks: ''
 -
     ch: ''
     locode: 'GR AKH'
@@ -615,10 +687,10 @@
     locode: 'GR AKT'
     name: 'Aktio Vonitsas'
     namewodiacritics: 'Aktio Vonitsas'
-    subdiv: I
+    subdiv: A1
     function: 1-------
-    status: RQ
-    date: '0901'
+    status: RL
+    date: '1501'
     iata: ''
     coordinates: '3857N 02045E'
     remarks: ''
@@ -663,15 +735,15 @@
     locode: 'GR AIO'
     name: Alimos
     namewodiacritics: Alimos
-    subdiv: ''
-    function: '--3-----'
-    status: RQ
-    date: '0002'
+    subdiv: A1
+    function: 1-3-----
+    status: AA
+    date: '1607'
     iata: ''
-    coordinates: ''
+    coordinates: '3755N 02343E'
     remarks: 'Almiros?'
 -
-    ch: ¦
+    ch: ''
     locode: 'GR LVR'
     name: Aliverio
     namewodiacritics: Aliverio
@@ -681,7 +753,7 @@
     date: '1307'
     iata: ''
     coordinates: '3824N 02403E'
-    remarks: '@Coo'
+    remarks: ''
 -
     ch: ''
     locode: 'GR ALV'
@@ -707,7 +779,19 @@
     coordinates: ''
     remarks: ''
 -
-    ch: ¦
+    ch: ''
+    locode: 'GR ALY'
+    name: 'Almyropotamos Evvoias'
+    namewodiacritics: 'Almyropotamos Evvoias'
+    subdiv: H
+    function: '--3-----'
+    status: AM
+    date: '2107'
+    iata: ''
+    coordinates: '3816N 02411E'
+    remarks: ''
+-
+    ch: ''
     locode: 'GR ALO'
     name: Alónnisos
     namewodiacritics: Alonnisos
@@ -717,9 +801,9 @@
     date: '1307'
     iata: ''
     coordinates: '3909N 02352E'
-    remarks: '@Coo'
+    remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'GR ATS'
     name: Altsi
     namewodiacritics: Altsi
@@ -729,7 +813,19 @@
     date: '1307'
     iata: ''
     coordinates: '3510N 02553E'
-    remarks: '@Sta@Coo'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GR ADA'
+    name: Amaliada
+    namewodiacritics: Amaliada
+    subdiv: '14'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3748N 02121E'
+    remarks: ''
 -
     ch: ''
     locode: 'GR APL'
@@ -753,6 +849,18 @@
     date: '0212'
     iata: ''
     coordinates: '3748N 02121E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GR AK4'
+    name: Amaroúsion
+    namewodiacritics: Amarousion
+    subdiv: A1
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3803N 02348E'
     remarks: ''
 -
     ch: ''
@@ -828,6 +936,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'GR XX2'
+    name: Ammoulianí
+    namewodiacritics: Ammouliani
+    subdiv: '64'
+    function: '-----6--'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '4019N 02355E'
+    remarks: ''
+-
+    ch: ''
     locode: 'GR AMI'
     name: Amolianí
     namewodiacritics: Amoliani
@@ -839,17 +959,53 @@
     coordinates: '4020N 02355E'
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'GR AMO'
-    name: Amorgós
-    namewodiacritics: Amorgos
-    subdiv: ''
+    name: 'Amorgós (Katapola)'
+    namewodiacritics: 'Amorgos (Katapola)'
+    subdiv: '61'
     function: '--3-----'
     status: AA
-    date: '1307'
+    date: '1501'
     iata: ''
     coordinates: '3650N 02554E'
-    remarks: '@Fun@Sta'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GR AP3'
+    name: Ampelón
+    namewodiacritics: Ampelon
+    subdiv: '32'
+    function: '--3-----'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '3944N 02020E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GR APN'
+    name: Ampelonas
+    namewodiacritics: Ampelonas
+    subdiv: '42'
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '3945N 02222E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GR AMT'
+    name: Amyntaio
+    namewodiacritics: Amyntaio
+    subdiv: '63'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4041N 02141E'
+    remarks: ''
 -
     ch: ''
     locode: 'GR ANA'
@@ -863,7 +1019,19 @@
     coordinates: '3621N 02546E'
     remarks: ''
 -
-    ch: ¦
+    ch: ''
+    locode: 'GR ALS'
+    name: Analipsi
+    namewodiacritics: Analipsi
+    subdiv: '54'
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '4043N 02310E'
+    remarks: ''
+-
+    ch: ''
     locode: 'GR ANG'
     name: Anargyroi
     namewodiacritics: Anargyroi
@@ -873,7 +1041,31 @@
     date: '1307'
     iata: ''
     coordinates: '3802N 02343E'
-    remarks: '@Fun@Sta'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GR ANK'
+    name: Anatoliko
+    namewodiacritics: Anatoliko
+    subdiv: '54'
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '4032N 02142E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GR ASN'
+    name: Anavissos
+    namewodiacritics: Anavissos
+    subdiv: A1
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '3744N 02357E'
+    remarks: ''
 -
     ch: ''
     locode: 'GR ANT'
@@ -899,7 +1091,19 @@
     coordinates: '3750N 02456E'
     remarks: ''
 -
-    ch: ¦
+    ch: ''
+    locode: 'GR A8A'
+    name: Anixi
+    namewodiacritics: Anixi
+    subdiv: A1
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3808N 02352E'
+    remarks: ''
+-
+    ch: ''
     locode: 'GR AHS'
     name: Ankhíalos
     namewodiacritics: Ankhialos
@@ -909,7 +1113,19 @@
     date: '1307'
     iata: ''
     coordinates: '4043N 02247E'
-    remarks: '@Fun@Sta'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GR ADK'
+    name: 'Ano Diakopto'
+    namewodiacritics: 'Ano Diakopto'
+    subdiv: '13'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3808N 02214E'
+    remarks: ''
 -
     ch: ''
     locode: 'GR GAJ'
@@ -923,7 +1139,19 @@
     coordinates: '3805N 02342E'
     remarks: ''
 -
-    ch: +
+    ch: ''
+    locode: 'GR AZN'
+    name: 'Áno Zervochórion'
+    namewodiacritics: 'Ano Zervochorion'
+    subdiv: B
+    function: '--3-----'
+    status: RL
+    date: '1707'
+    iata: ''
+    coordinates: '4039N 02212E'
+    remarks: ''
+-
+    ch: ''
     locode: 'GR ANX'
     name: Anoixis
     namewodiacritics: Anoixis
@@ -947,7 +1175,7 @@
     coordinates: '3802N 02352E'
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'GR ATK'
     name: Antikyra
     namewodiacritics: Antikyra
@@ -957,9 +1185,9 @@
     date: '1307'
     iata: ''
     coordinates: '3823N 02238E'
-    remarks: '@Coo'
+    remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'GR ANP'
     name: Antiparos
     namewodiacritics: Antiparos
@@ -969,18 +1197,6 @@
     date: '1307'
     iata: ''
     coordinates: '3702N 02505E'
-    remarks: '@Coo'
--
-    ch: X
-    locode: 'GR SIF'
-    name: Apollonía
-    namewodiacritics: Apollonia
-    subdiv: ''
-    function: 1-------
-    status: XX
-    date: '1307'
-    iata: ''
-    coordinates: '3658N 02443E'
     remarks: ''
 -
     ch: ''
@@ -1019,7 +1235,7 @@
     coordinates: '3639N 02223E'
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'GR ARG'
     name: 'Argos (Argolis)'
     namewodiacritics: 'Argos (Argolis)'
@@ -1029,7 +1245,7 @@
     date: '1307'
     iata: ''
     coordinates: ''
-    remarks: '@Fun@Sta'
+    remarks: ''
 -
     ch: ''
     locode: 'GR ARM'
@@ -1043,16 +1259,16 @@
     coordinates: '3811N 02029E'
     remarks: ''
 -
-    ch: X
-    locode: 'GR EFL'
-    name: Argostólion
-    namewodiacritics: Argostolion
-    subdiv: '23'
-    function: 1-------
-    status: XX
-    date: '1307'
+    ch: ''
+    locode: 'GR ARY'
+    name: Argyropouli
+    namewodiacritics: Argyropouli
+    subdiv: '42'
+    function: '--3-----'
+    status: RL
+    date: '1601'
     iata: ''
-    coordinates: '3810N 02029E'
+    coordinates: '3949N 02218E'
     remarks: ''
 -
     ch: ''
@@ -1091,7 +1307,7 @@
     coordinates: '4058N 02203E'
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'GR ARD'
     name: 'Arkioi Dodekanissou'
     namewodiacritics: 'Arkioi Dodekanissou'
@@ -1101,7 +1317,7 @@
     date: '1307'
     iata: ''
     coordinates: '3723N 02644E'
-    remarks: '@Sta@Coo'
+    remarks: ''
 -
     ch: ''
     locode: 'GR ARK'
@@ -1139,7 +1355,7 @@
     coordinates: '3908N 02059E'
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'GR TEM'
     name: Artemis
     namewodiacritics: Artemis
@@ -1149,7 +1365,7 @@
     date: '1307'
     iata: ''
     coordinates: '3758N 02400E'
-    remarks: '@Sta@Coo'
+    remarks: ''
 -
     ch: ''
     locode: 'GR ASO'
@@ -1188,6 +1404,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'GR APP'
+    name: Aspropyrgos
+    namewodiacritics: Aspropyrgos
+    subdiv: I
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '3804N 02335E'
+    remarks: ''
+-
+    ch: ''
     locode: 'GR APO'
     name: Aspros
     namewodiacritics: Aspros
@@ -1211,7 +1439,19 @@
     coordinates: '4043N 02342E'
     remarks: ''
 -
-    ch: ¦
+    ch: ''
+    locode: 'GR AIS'
+    name: Ássiros
+    namewodiacritics: Assiros
+    subdiv: '54'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4049N 02302E'
+    remarks: ''
+-
+    ch: ''
     locode: 'GR SOS'
     name: Assos
     namewodiacritics: Assos
@@ -1221,7 +1461,7 @@
     date: '1307'
     iata: ''
     coordinates: '3823N 02032E'
-    remarks: '@Sta@Coo'
+    remarks: ''
 -
     ch: ''
     locode: 'GR AST'
@@ -1271,7 +1511,7 @@
     coordinates: '3937N 02046E'
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'GR ATA'
     name: Atalándi
     namewodiacritics: Atalandi
@@ -1281,7 +1521,7 @@
     date: '1307'
     iata: ''
     coordinates: '3839N 02300E'
-    remarks: '@Fun@Sta'
+    remarks: ''
 -
     ch: '='
     locode: GR
@@ -1295,17 +1535,29 @@
     coordinates: ''
     remarks: ''
 -
-    ch: ¦
+    ch: ''
+    locode: 'GR ATL'
+    name: 'Atherinolakos Ierapetras'
+    namewodiacritics: 'Atherinolakos Ierapetras'
+    subdiv: M
+    function: 1-------
+    status: AA
+    date: '2001'
+    iata: ''
+    coordinates: '3500N 02608E'
+    remarks: ''
+-
+    ch: ''
     locode: 'GR ATH'
     name: Athínai
     namewodiacritics: Athinai
-    subdiv: ''
+    subdiv: I
     function: '---45---'
     status: AI
-    date: '1307'
+    date: '1701'
     iata: ''
     coordinates: '3759N 02344E'
-    remarks: '@Fun'
+    remarks: ''
 -
     ch: ''
     locode: 'GR ATN'
@@ -1323,10 +1575,10 @@
     locode: 'GR ATT'
     name: Attikí
     namewodiacritics: Attiki
-    subdiv: ''
+    subdiv: A1
     function: '--3-----'
     status: RL
-    date: '0212'
+    date: '1601'
     iata: ''
     coordinates: '3800N 02344E'
     remarks: ''
@@ -1350,21 +1602,21 @@
     subdiv: ''
     function: '--3-----'
     status: RQ
-    date: '0907'
+    date: '1707'
     iata: ''
-    coordinates: '3855N 22330E'
+    coordinates: '3855N 02233E'
     remarks: ''
 -
     ch: ''
     locode: 'GR AVA'
     name: Avlida
     namewodiacritics: Avlida
-    subdiv: ''
-    function: '--3-----'
-    status: RQ
-    date: '0607'
+    subdiv: '64'
+    function: 1-3-----
+    status: AA
+    date: '1607'
     iata: ''
-    coordinates: '3824N 02335E'
+    coordinates: '3824N 02336E'
     remarks: ''
 -
     ch: ''
@@ -1401,6 +1653,30 @@
     date: '0901'
     iata: ''
     coordinates: '4059N 02232E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GR AYA'
+    name: 'Ayía Marína'
+    namewodiacritics: 'Ayia Marina'
+    subdiv: '04'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3802N 02419E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GR AYM'
+    name: 'Ayía Marína'
+    namewodiacritics: 'Ayia Marina'
+    subdiv: '06'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3834N 02242E'
     remarks: ''
 -
     ch: ''
@@ -1451,7 +1727,7 @@
     coordinates: '4037N 02245E'
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'GR CLK'
     name: Chalkida
     namewodiacritics: Chalkida
@@ -1461,7 +1737,19 @@
     date: '1307'
     iata: ''
     coordinates: '3828N 02335E'
-    remarks: '@Sta@Coo'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GR FOS'
+    name: Chalkidón
+    namewodiacritics: Chalkidon
+    subdiv: B
+    function: '--3-----'
+    status: RL
+    date: '1707'
+    iata: ''
+    coordinates: '4043N 02235E'
+    remarks: ''
 -
     ch: ''
     locode: 'GR QKG'
@@ -1475,7 +1763,7 @@
     coordinates: '3827N 02335E'
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'GR CHQ'
     name: Chania
     namewodiacritics: Chania
@@ -1485,7 +1773,7 @@
     date: '1307'
     iata: ''
     coordinates: '3531N 02401E'
-    remarks: '@Coo'
+    remarks: ''
 -
     ch: ''
     locode: 'GR CHA'
@@ -1513,12 +1801,12 @@
 -
     ch: ''
     locode: 'GR KAV'
-    name: Chrisoupoli
-    namewodiacritics: Chrisoupoli
+    name: Chrysoupoli
+    namewodiacritics: Chrysoupoli
     subdiv: '55'
     function: '-----6--'
     status: RL
-    date: '0901'
+    date: '1501'
     iata: ''
     coordinates: '4059N 02442E'
     remarks: ''
@@ -1547,7 +1835,7 @@
     coordinates: '3752N 02356E'
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'GR DOS'
     name: Delos
     namewodiacritics: Delos
@@ -1557,7 +1845,19 @@
     date: '1307'
     iata: ''
     coordinates: '3724N 02516E'
-    remarks: '@Sta@Coo'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GR DVN'
+    name: Derveni
+    namewodiacritics: Derveni
+    subdiv: '54'
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '4043N 02258E'
+    remarks: ''
 -
     ch: ''
     locode: 'GR DKI'
@@ -1581,6 +1881,30 @@
     date: '0601'
     iata: ''
     coordinates: '4121N 02630E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GR 9OP'
+    name: Dhílesi
+    namewodiacritics: Dhilesi
+    subdiv: '03'
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '3821N 02340E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GR DTM'
+    name: Dhístomon
+    namewodiacritics: Dhistomon
+    subdiv: '03'
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '3826N 02240E'
     remarks: ''
 -
     ch: ''
@@ -1643,18 +1967,6 @@
     coordinates: '3616N 02305E'
     remarks: ''
 -
-    ch: X
-    locode: 'GR DTO'
-    name: Distomo
-    namewodiacritics: Distomo
-    subdiv: '03'
-    function: 1-------
-    status: XX
-    date: '1307'
-    iata: ''
-    coordinates: ''
-    remarks: ''
--
     ch: ''
     locode: 'GR DMB'
     name: 'Dombraina Boiotias'
@@ -1691,7 +2003,7 @@
     coordinates: '3815N 02258E'
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'GR DON'
     name: 'Donousa Kykladon'
     namewodiacritics: 'Donousa Kykladon'
@@ -1701,7 +2013,7 @@
     date: '1307'
     iata: ''
     coordinates: '3706N 02548E'
-    remarks: '@Sta@Coo'
+    remarks: ''
 -
     ch: ''
     locode: 'GR DOU'
@@ -1709,10 +2021,10 @@
     namewodiacritics: Douneika
     subdiv: '14'
     function: '--3-----'
-    status: RQ
-    date: '0907'
+    status: RL
+    date: '1707'
     iata: ''
-    coordinates: '3474N 21310E'
+    coordinates: '3745N 02120E'
     remarks: ''
 -
     ch: ''
@@ -1727,7 +2039,7 @@
     coordinates: ''
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'GR DPA'
     name: Drapetzona
     namewodiacritics: Drapetzona
@@ -1737,7 +2049,7 @@
     date: '1307'
     iata: ''
     coordinates: '3757N 02337E'
-    remarks: '@Sta@Coo'
+    remarks: ''
 -
     ch: ''
     locode: 'GR DRE'
@@ -1752,6 +2064,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'GR ANR'
+    name: Drymos
+    namewodiacritics: Drymos
+    subdiv: '54'
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '4046N 02257E'
+    remarks: ''
+-
+    ch: ''
     locode: 'GR EDE'
     name: Édessa
     namewodiacritics: Edessa
@@ -1763,7 +2087,7 @@
     coordinates: '4048N 02203E'
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'GR EDI'
     name: Edipsos
     namewodiacritics: Edipsos
@@ -1773,18 +2097,6 @@
     date: '1307'
     iata: ''
     coordinates: '3852N 02302E'
-    remarks: '@Coo'
--
-    ch: X
-    locode: 'GR EFK'
-    name: Efkarpia
-    namewodiacritics: Efkarpia
-    subdiv: '54'
-    function: 1-------
-    status: XX
-    date: '1307'
-    iata: ''
-    coordinates: ''
     remarks: ''
 -
     ch: ''
@@ -1811,7 +2123,7 @@
     coordinates: ''
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'GR EGI'
     name: Eginion
     namewodiacritics: Eginion
@@ -1821,7 +2133,7 @@
     date: '1307'
     iata: ''
     coordinates: '4029N 02235E'
-    remarks: '@Sta@Coo'
+    remarks: ''
 -
     ch: ''
     locode: 'GR ELN'
@@ -1836,6 +2148,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'GR ELI'
+    name: Elaiochori
+    namewodiacritics: Elaiochori
+    subdiv: '12'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3727N 02234E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GR XZX'
+    name: Elaiokhória
+    namewodiacritics: Elaiokhoria
+    subdiv: '64'
+    function: 1-3-----
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '4020N 02310E'
+    remarks: ''
+-
+    ch: ''
     locode: 'GR ELA'
     name: Elatia
     namewodiacritics: Elatia
@@ -1847,31 +2183,7 @@
     coordinates: ''
     remarks: ''
 -
-    ch: X
-    locode: 'GR IXE'
-    name: Elefsina
-    namewodiacritics: Elefsina
-    subdiv: ''
-    function: 1-------
-    status: XX
-    date: '1307'
-    iata: ''
-    coordinates: ''
-    remarks: ''
--
-    ch: X
-    locode: 'GR ELE'
-    name: 'Elefsis (Elevsis)'
-    namewodiacritics: 'Elefsis (Elevsis)'
-    subdiv: ''
-    function: 1-------
-    status: XX
-    date: '1307'
-    iata: ''
-    coordinates: '3802N 02332E'
-    remarks: ''
--
-    ch: ¦
+    ch: ''
     locode: 'GR ELT'
     name: Eleftheres
     namewodiacritics: Eleftheres
@@ -1881,9 +2193,9 @@
     date: '1307'
     iata: ''
     coordinates: '4051N 02419E'
-    remarks: '@Coo'
+    remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'GR EEU'
     name: Eleusina
     namewodiacritics: Eleusina
@@ -1893,7 +2205,31 @@
     date: '1307'
     iata: ''
     coordinates: '3802N 02332E'
-    remarks: '@Sta@Coo'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GR FLS'
+    name: Eleusis
+    namewodiacritics: Eleusis
+    subdiv: A1
+    function: 1-3-----
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '3802N 02332E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GR KIE'
+    name: Elíki
+    namewodiacritics: Eliki
+    subdiv: J
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '3813N 02207E'
+    remarks: ''
 -
     ch: ''
     locode: 'GR ELL'
@@ -1905,6 +2241,18 @@
     date: '9307'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'GR ENK'
+    name: Ellinikón
+    namewodiacritics: Ellinikon
+    subdiv: '16'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3637N 02259E'
     remarks: ''
 -
     ch: ''
@@ -1929,6 +2277,18 @@
     date: '0212'
     iata: ''
     coordinates: '3738N 02309E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GR ETK'
+    name: Eratini
+    namewodiacritics: Eratini
+    subdiv: '07'
+    function: 1-------
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '3822N 02214E'
     remarks: ''
 -
     ch: ''
@@ -1965,6 +2325,18 @@
     date: '0212'
     iata: ''
     coordinates: '3723N 02315E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GR ERY'
+    name: Erythres
+    namewodiacritics: Erythres
+    subdiv: A1
+    function: 1-3-----
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '3813N 02319E'
     remarks: ''
 -
     ch: ''
@@ -2015,7 +2387,7 @@
     coordinates: '4106N 02233E'
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'GR EYD'
     name: Eydilos
     namewodiacritics: Eydilos
@@ -2025,7 +2397,19 @@
     date: '1307'
     iata: ''
     coordinates: '3738N 02611E'
-    remarks: '@Coo'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GR KRL'
+    name: Faliraki
+    namewodiacritics: Faliraki
+    subdiv: L
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '3620N 02812E'
+    remarks: ''
 -
     ch: ''
     locode: 'GR FNR'
@@ -2076,18 +2460,6 @@
     remarks: ''
 -
     ch: ''
-    locode: 'GR FIH'
-    name: Fihti
-    namewodiacritics: Fihti
-    subdiv: ''
-    function: '--3-----'
-    status: RQ
-    date: '0907'
-    iata: ''
-    coordinates: '3771N 22710E'
-    remarks: ''
--
-    ch: ''
     locode: 'GR FIL'
     name: Filiatrá
     namewodiacritics: Filiatra
@@ -2097,18 +2469,6 @@
     date: '0607'
     iata: ''
     coordinates: '3709N 02135E'
-    remarks: ''
--
-    ch: X
-    locode: 'GR FIP'
-    name: Filippiada
-    namewodiacritics: Filippiada
-    subdiv: '34'
-    function: 1-------
-    status: XX
-    date: '1307'
-    iata: ''
-    coordinates: ''
     remarks: ''
 -
     ch: ''
@@ -2135,19 +2495,7 @@
     coordinates: '4047N 02124E'
     remarks: ''
 -
-    ch: X
-    locode: 'GR FKD'
-    name: Fokidos
-    namewodiacritics: Fokidos
-    subdiv: ''
-    function: 1-------
-    status: XX
-    date: '1307'
-    iata: ''
-    coordinates: ''
-    remarks: ''
--
-    ch: ¦
+    ch: ''
     locode: 'GR FOL'
     name: Folégandros
     namewodiacritics: Folegandros
@@ -2157,7 +2505,7 @@
     date: '1307'
     iata: ''
     coordinates: '3637N 02457E'
-    remarks: '@Coo'
+    remarks: ''
 -
     ch: ''
     locode: 'GR FOU'
@@ -2184,13 +2532,25 @@
     remarks: ''
 -
     ch: ''
+    locode: 'GR FYT'
+    name: Fyteies
+    namewodiacritics: Fyteies
+    subdiv: '01'
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '3842N 02111E'
+    remarks: ''
+-
+    ch: ''
     locode: 'GR GAL'
     name: 'Galatas Troizinas'
     namewodiacritics: 'Galatas Troizinas'
-    subdiv: I
+    subdiv: A1
     function: 1-------
-    status: RQ
-    date: '0901'
+    status: RL
+    date: '1501'
     iata: ''
     coordinates: '3730N 02327E'
     remarks: ''
@@ -2232,6 +2592,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'GR GNO'
+    name: Ganóchora
+    namewodiacritics: Ganochora
+    subdiv: '61'
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '4018N 02230E'
+    remarks: ''
+-
+    ch: ''
     locode: 'GR GAS'
     name: Gastoúni
     namewodiacritics: Gastouni
@@ -2243,7 +2615,7 @@
     coordinates: '3751N 02115E'
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'GR GAD'
     name: 'Gavdos Chanea'
     namewodiacritics: 'Gavdos Chanea'
@@ -2253,7 +2625,7 @@
     date: '1307'
     iata: ''
     coordinates: '3451N 02407E'
-    remarks: '@Sta@Coo'
+    remarks: ''
 -
     ch: ''
     locode: 'GR GAV'
@@ -2339,7 +2711,7 @@
     coordinates: '4047N 02224E'
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'GR GLO'
     name: Glossa
     namewodiacritics: Glossa
@@ -2349,9 +2721,9 @@
     date: '1307'
     iata: ''
     coordinates: '3910N 02337E'
-    remarks: '@Coo'
+    remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'GR GLY'
     name: 'Glyfa Fthiotidas'
     namewodiacritics: 'Glyfa Fthiotidas'
@@ -2361,21 +2733,45 @@
     date: '1307'
     iata: ''
     coordinates: '3857N 02258E'
-    remarks: '@Coo'
+    remarks: ''
 -
     ch: ''
     locode: 'GR GFD'
     name: Glyfada
     namewodiacritics: Glyfada
     subdiv: A1
-    function: '--3-----'
-    status: RL
-    date: '1301'
+    function: 1-3-----
+    status: AA
+    date: '1607'
     iata: ''
     coordinates: '3752N 02345E'
     remarks: ''
 -
-    ch: ¦
+    ch: ''
+    locode: 'GR GON'
+    name: Gónnoi
+    namewodiacritics: Gonnoi
+    subdiv: '42'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3952N 02228E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GR GSA'
+    name: Gouménissa
+    namewodiacritics: Goumenissa
+    subdiv: B
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '4056N 02226E'
+    remarks: ''
+-
+    ch: ''
     locode: 'GR GVA'
     name: Grevená
     namewodiacritics: Grevena
@@ -2385,9 +2781,9 @@
     date: '1307'
     iata: ''
     coordinates: '4005N 02126E'
-    remarks: '@Fun@Sta'
+    remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'GR GYT'
     name: Gythion
     namewodiacritics: Gythion
@@ -2397,7 +2793,7 @@
     date: '1307'
     iata: ''
     coordinates: '3646N 02234E'
-    remarks: '@Sta@Coo'
+    remarks: ''
 -
     ch: ''
     locode: 'GR HRI'
@@ -2423,19 +2819,7 @@
     coordinates: '3613N 02736E'
     remarks: ''
 -
-    ch: X
-    locode: 'GR HEC'
-    name: 'Heraclion Crete'
-    namewodiacritics: 'Heraclion Crete'
-    subdiv: '91'
-    function: 1-------
-    status: XX
-    date: '1307'
-    iata: ''
-    coordinates: ''
-    remarks: ''
--
-    ch: ¦
+    ch: ''
     locode: 'GR HRK'
     name: 'Herakleia Kykladon'
     namewodiacritics: 'Herakleia Kykladon'
@@ -2445,7 +2829,7 @@
     date: '1307'
     iata: ''
     coordinates: '3652N 02528E'
-    remarks: '@Sta@Coo'
+    remarks: ''
 -
     ch: ''
     locode: 'GR HER'
@@ -2459,7 +2843,7 @@
     coordinates: '3520N 02510E'
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'GR HYD'
     name: 'Hydra (Idhra)'
     namewodiacritics: 'Hydra (Idhra)'
@@ -2469,9 +2853,9 @@
     date: '1307'
     iata: ''
     coordinates: '3721N 02328E'
-    remarks: '@Coo'
+    remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'GR HYD'
     name: 'Idhra (Hydra)'
     namewodiacritics: 'Idhra (Hydra)'
@@ -2481,7 +2865,7 @@
     date: '1307'
     iata: ''
     coordinates: '3721N 02328E'
-    remarks: '@Coo'
+    remarks: ''
 -
     ch: ''
     locode: 'GR IER'
@@ -2579,7 +2963,7 @@
     coordinates: ''
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'GR INO'
     name: Inousses
     namewodiacritics: Inousses
@@ -2589,9 +2973,9 @@
     date: '1307'
     iata: ''
     coordinates: '3831N 02613E'
-    remarks: '@Coo'
+    remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'GR IOA'
     name: Ioánnina
     namewodiacritics: Ioannina
@@ -2601,9 +2985,9 @@
     date: '1307'
     iata: ''
     coordinates: '3940N 02051E'
-    remarks: '@Fun'
+    remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'GR IOS'
     name: Ios
     namewodiacritics: Ios
@@ -2613,7 +2997,7 @@
     date: '1307'
     iata: ''
     coordinates: '3643N 02516E'
-    remarks: '@Coo'
+    remarks: ''
 -
     ch: ''
     locode: 'GR IRA'
@@ -2627,7 +3011,19 @@
     coordinates: '4110N 02316E'
     remarks: ''
 -
-    ch: ¦
+    ch: ''
+    locode: 'GR IKL'
+    name: Iraklion
+    namewodiacritics: Iraklion
+    subdiv: '15'
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '3748N 02243E'
+    remarks: ''
+-
+    ch: ''
     locode: 'GR NAI'
     name: Iráklion
     namewodiacritics: Iraklion
@@ -2637,7 +3033,7 @@
     date: '1307'
     iata: ''
     coordinates: '3520N 02243E'
-    remarks: '@Fun@Sta'
+    remarks: ''
 -
     ch: ''
     locode: 'GR HER'
@@ -2675,19 +3071,7 @@
     coordinates: ''
     remarks: ''
 -
-    ch: X
-    locode: 'GR IEA'
-    name: Istiea
-    namewodiacritics: Istiea
-    subdiv: ''
-    function: 1-------
-    status: XX
-    date: '1307'
-    iata: ''
-    coordinates: ''
-    remarks: ''
--
-    ch: ¦
+    ch: ''
     locode: 'GR ITA'
     name: Itea
     namewodiacritics: Itea
@@ -2697,9 +3081,9 @@
     date: '1307'
     iata: ''
     coordinates: '3826N 02225E'
-    remarks: '@Coo'
+    remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'GR ITH'
     name: 'Ithaki (Ithaca)'
     namewodiacritics: 'Ithaki (Ithaca)'
@@ -2709,7 +3093,7 @@
     date: '1307'
     iata: ''
     coordinates: '3822N 02043E'
-    remarks: '@Coo'
+    remarks: ''
 -
     ch: ''
     locode: 'GR KKV'
@@ -2735,7 +3119,7 @@
     coordinates: '3942N 02138E'
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'GR KLM'
     name: Kalamaki
     namewodiacritics: Kalamaki
@@ -2745,7 +3129,7 @@
     date: '1307'
     iata: ''
     coordinates: '3755N 02301E'
-    remarks: '@Sta@Coo'
+    remarks: ''
 -
     ch: ''
     locode: 'GR GAI'
@@ -2771,7 +3155,7 @@
     coordinates: '3702N 02207E'
     remarks: ''
 -
-    ch: '#'
+    ch: ''
     locode: 'GR KAI'
     name: 'Kalamos Island (Lefkada)'
     namewodiacritics: 'Kalamos Island (Lefkada)'
@@ -2781,7 +3165,7 @@
     date: '1307'
     iata: ''
     coordinates: '3837N 02055E'
-    remarks: '@Sta'
+    remarks: ''
 -
     ch: ''
     locode: 'GR KLP'
@@ -2795,7 +3179,7 @@
     coordinates: ''
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'GR KLD'
     name: 'Kalathos Rodou'
     namewodiacritics: 'Kalathos Rodou'
@@ -2805,9 +3189,9 @@
     date: '1307'
     iata: ''
     coordinates: '3607N 02804E'
-    remarks: '@Sta@Coo'
+    remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'GR KLL'
     name: Kalilimenes
     namewodiacritics: Kalilimenes
@@ -2817,7 +3201,7 @@
     date: '1307'
     iata: ''
     coordinates: '3456N 02448E'
-    remarks: '@Sta@Coo'
+    remarks: ''
 -
     ch: ''
     locode: 'GR KCH'
@@ -2831,7 +3215,7 @@
     coordinates: '3801N 02243E'
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'GR KLA'
     name: Kallithéa/Athínai
     namewodiacritics: Kallithea/Athinai
@@ -2841,30 +3225,18 @@
     date: '1307'
     iata: ''
     coordinates: '3757N 02342E'
-    remarks: '@Fun@Sta'
+    remarks: ''
 -
     ch: ''
     locode: 'GR KLH'
-    name: Kalohori
-    namewodiacritics: Kalohori
+    name: Kalochori
+    namewodiacritics: Kalochori
     subdiv: '54'
     function: '--3-----'
-    status: RQ
-    date: '0407'
+    status: RL
+    date: '1401'
     iata: ''
-    coordinates: ''
-    remarks: ''
--
-    ch: X
-    locode: 'GR KLS'
-    name: 'Kaloi Limenes Rethymnou'
-    namewodiacritics: 'Kaloi Limenes Rethymnou'
-    subdiv: '93'
-    function: 1-------
-    status: XX
-    date: '1307'
-    iata: ''
-    coordinates: '3456N 02449E'
+    coordinates: '4038N 02251E'
     remarks: ''
 -
     ch: ''
@@ -2879,16 +3251,16 @@
     coordinates: '3657N 02659E'
     remarks: ''
 -
-    ch: X
+    ch: ''
     locode: 'GR KLY'
-    name: Kalyvia
-    namewodiacritics: Kalyvia
-    subdiv: ''
-    function: 1-------
-    status: XX
-    date: '1307'
+    name: 'Kalyvia Thorikou'
+    namewodiacritics: 'Kalyvia Thorikou'
+    subdiv: I
+    function: '--3-----'
+    status: RL
+    date: '1801'
     iata: ''
-    coordinates: ''
+    coordinates: '3750N 02355E'
     remarks: ''
 -
     ch: ''
@@ -2904,6 +3276,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'GR KT6'
+    name: Kamaterón
+    namewodiacritics: Kamateron
+    subdiv: I
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '3757N 02332E'
+    remarks: ''
+-
+    ch: ''
     locode: 'GR KAM'
     name: Kamínia
     namewodiacritics: Kaminia
@@ -2915,7 +3299,19 @@
     coordinates: '3946N 02052E'
     remarks: ''
 -
-    ch: ¦
+    ch: ''
+    locode: 'GR KSK'
+    name: 'Kamiros Skala'
+    namewodiacritics: 'Kamiros Skala'
+    subdiv: '81'
+    function: 1-------
+    status: AA
+    date: '1607'
+    iata: ''
+    coordinates: '3616N 02749E'
+    remarks: ''
+-
+    ch: ''
     locode: 'GR APA'
     name: Kapandrition
     namewodiacritics: Kapandrition
@@ -2925,7 +3321,7 @@
     date: '1307'
     iata: ''
     coordinates: '3813N 02353E'
-    remarks: '@Fun@Sta'
+    remarks: ''
 -
     ch: ''
     locode: 'GR VOR'
@@ -2939,7 +3335,7 @@
     coordinates: '3746N 02455E'
     remarks: ''
 -
-    ch: '#'
+    ch: ''
     locode: 'GR KAP'
     name: 'Kapsalion (Kythira)'
     namewodiacritics: 'Kapsalion (Kythira)'
@@ -2949,9 +3345,9 @@
     date: '1307'
     iata: ''
     coordinates: '3609N 02300E'
-    remarks: '@Coo'
+    remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'GR KRM'
     name: 'Kardamaina Kos'
     namewodiacritics: 'Kardamaina Kos'
@@ -2961,9 +3357,9 @@
     date: '1307'
     iata: ''
     coordinates: '3647N 02709E'
-    remarks: '@Sta@Coo'
+    remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'GR KDM'
     name: Kardámyla
     namewodiacritics: Kardamyla
@@ -2973,7 +3369,7 @@
     date: '1307'
     iata: ''
     coordinates: '3832N 02606E'
-    remarks: '@Sta@Coo'
+    remarks: ''
 -
     ch: ''
     locode: 'GR KRD'
@@ -2987,7 +3383,7 @@
     coordinates: '3921N 02155E'
     remarks: ''
 -
-    ch: '#'
+    ch: ''
     locode: 'GR KAG'
     name: 'Karkinagri Ikarias'
     namewodiacritics: 'Karkinagri Ikarias'
@@ -2997,7 +3393,7 @@
     date: '1307'
     iata: ''
     coordinates: '3731N 02601E'
-    remarks: '@Sta'
+    remarks: ''
 -
     ch: ''
     locode: 'GR AOK'
@@ -3023,7 +3419,19 @@
     coordinates: '3855N 02147E'
     remarks: ''
 -
-    ch: ¦
+    ch: ''
+    locode: 'GR KAY'
+    name: Karyá
+    namewodiacritics: Karya
+    subdiv: '42'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3959N 02223E'
+    remarks: ''
+-
+    ch: ''
     locode: 'GR KST'
     name: Karystos
     namewodiacritics: Karystos
@@ -3033,7 +3441,19 @@
     date: '1307'
     iata: ''
     coordinates: '3801N 02425E'
-    remarks: '@Coo'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GR KAD'
+    name: Kassándra
+    namewodiacritics: Kassandra
+    subdiv: '64'
+    function: '--3-----'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '4003N 02325E'
+    remarks: ''
 -
     ch: ''
     locode: 'GR KSP'
@@ -3047,7 +3467,7 @@
     coordinates: '3947N 01955E'
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'GR KSJ'
     name: Kassos
     namewodiacritics: Kassos
@@ -3057,9 +3477,9 @@
     date: '1307'
     iata: ''
     coordinates: '3525N 02655E'
-    remarks: '@Coo'
+    remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'GR KIS'
     name: 'Kastelli Kissamou'
     namewodiacritics: 'Kastelli Kissamou'
@@ -3069,9 +3489,9 @@
     date: '1307'
     iata: ''
     coordinates: '3531N 02338E'
-    remarks: '@Coo'
+    remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'GR KAS'
     name: 'Kastellorizou (ex Megísti)'
     namewodiacritics: 'Kastellorizou (ex Megisti)'
@@ -3081,7 +3501,7 @@
     date: '1307'
     iata: ''
     coordinates: '3609N 02936E'
-    remarks: '@Coo'
+    remarks: ''
 -
     ch: ''
     locode: 'GR KZS'
@@ -3107,7 +3527,7 @@
     coordinates: '4031N 02116E'
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'GR KSI'
     name: 'Kastos Island'
     namewodiacritics: 'Kastos Island'
@@ -3117,9 +3537,9 @@
     date: '1307'
     iata: ''
     coordinates: '3834N 02055E'
-    remarks: '@Sta@Coo'
+    remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'GR KAK'
     name: Katakolon
     namewodiacritics: Katakolon
@@ -3129,7 +3549,7 @@
     date: '1307'
     iata: ''
     coordinates: '3739N 02119E'
-    remarks: '@Coo'
+    remarks: ''
 -
     ch: ''
     locode: 'GR KTP'
@@ -3143,7 +3563,7 @@
     coordinates: '3650N 02552E'
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'GR KEI'
     name: Kateríni
     namewodiacritics: Katerini
@@ -3153,7 +3573,7 @@
     date: '1307'
     iata: ''
     coordinates: '4016N 02230E'
-    remarks: '@Fun@Sta'
+    remarks: ''
 -
     ch: ''
     locode: 'GR KAH'
@@ -3183,12 +3603,24 @@
     locode: 'GR DOL'
     name: 'Kato Doliana'
     namewodiacritics: 'Kato Doliana'
-    subdiv: '12'
+    subdiv: J
     function: '--3-----'
-    status: RQ
-    date: '0907'
+    status: RL
+    date: '1707'
     iata: ''
-    coordinates: '3725N 22404E'
+    coordinates: '3725N 02240E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GR KGT'
+    name: 'Kato Gefya'
+    namewodiacritics: 'Kato Gefya'
+    subdiv: '54'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4043N 02241E'
     remarks: ''
 -
     ch: ''
@@ -3215,16 +3647,16 @@
     coordinates: '4033N 02202E'
     remarks: ''
 -
-    ch: X
-    locode: 'GR KAT'
-    name: Katokhí
-    namewodiacritics: Katokhi
-    subdiv: ''
-    function: 1-------
-    status: XX
-    date: '1307'
+    ch: ''
+    locode: 'GR KAA'
+    name: Kattavía
+    namewodiacritics: Kattavia
+    subdiv: '81'
+    function: '--3-----'
+    status: RL
+    date: '1607'
     iata: ''
-    coordinates: '3825N 02115E'
+    coordinates: '3557N 02746E'
     remarks: ''
 -
     ch: ''
@@ -3239,7 +3671,19 @@
     coordinates: '4056N 02424E'
     remarks: ''
 -
-    ch: '#'
+    ch: ''
+    locode: 'GR 3KR'
+    name: Kavallárion
+    namewodiacritics: Kavallarion
+    subdiv: B
+    function: '--3-----'
+    status: RL
+    date: '1707'
+    iata: ''
+    coordinates: '4043N 02303E'
+    remarks: ''
+-
+    ch: ''
     locode: 'GR KEA'
     name: 'Kéa (Tzia)'
     namewodiacritics: 'Kea (Tzia)'
@@ -3249,7 +3693,7 @@
     date: '1307'
     iata: ''
     coordinates: '3739N 02419E'
-    remarks: '@Coo'
+    remarks: ''
 -
     ch: ''
     locode: 'GR KFL'
@@ -3263,7 +3707,19 @@
     coordinates: ''
     remarks: ''
 -
-    ch: ¦
+    ch: ''
+    locode: 'GR K33'
+    name: Kefalonia
+    namewodiacritics: Kefalonia
+    subdiv: '33'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3815N 02030E'
+    remarks: ''
+-
+    ch: ''
     locode: 'GR KEF'
     name: 'Kefalos Ko'
     namewodiacritics: 'Kefalos Ko'
@@ -3273,7 +3729,7 @@
     date: '1307'
     iata: ''
     coordinates: '3644N 02658E'
-    remarks: '@Sta@Coo'
+    remarks: ''
 -
     ch: ''
     locode: 'GR KFO'
@@ -3287,7 +3743,7 @@
     coordinates: '3940N 02037E'
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'GR KER'
     name: Keramoti
     namewodiacritics: Keramoti
@@ -3297,7 +3753,7 @@
     date: '1307'
     iata: ''
     coordinates: '4052N 02442E'
-    remarks: '@Coo'
+    remarks: ''
 -
     ch: ''
     locode: 'GR KRA'
@@ -3309,6 +3765,18 @@
     date: '0207'
     iata: ''
     coordinates: '3748N 02358E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GR KRS'
+    name: Keratsini
+    namewodiacritics: Keratsini
+    subdiv: A1
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '3758N 02337E'
     remarks: ''
 -
     ch: ''
@@ -3335,7 +3803,7 @@
     coordinates: '3937N 01955E'
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'GR CSF'
     name: 'Khóra Sfakíon'
     namewodiacritics: 'Khora Sfakion'
@@ -3345,7 +3813,7 @@
     date: '1307'
     iata: ''
     coordinates: '3512N 02408E'
-    remarks: '@Coo'
+    remarks: ''
 -
     ch: ''
     locode: 'GR KHR'
@@ -3359,7 +3827,7 @@
     coordinates: '4059N 02441E'
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'GR KIO'
     name: Kiato
     namewodiacritics: Kiato
@@ -3369,7 +3837,7 @@
     date: '1307'
     iata: ''
     coordinates: '3800N 02245E'
-    remarks: '@Sta@Coo'
+    remarks: ''
 -
     ch: ''
     locode: 'GR KFS'
@@ -3395,7 +3863,7 @@
     coordinates: '4100N 02252E'
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'GR KIL'
     name: Killíni
     namewodiacritics: Killini
@@ -3405,7 +3873,7 @@
     date: '1307'
     iata: ''
     coordinates: '3756N 02108E'
-    remarks: '@Fun@Sta'
+    remarks: ''
 -
     ch: ''
     locode: 'GR KYM'
@@ -3431,7 +3899,7 @@
     coordinates: '3838N 02406E'
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'GR KMS'
     name: Kímolos
     namewodiacritics: Kimolos
@@ -3441,7 +3909,7 @@
     date: '1307'
     iata: ''
     coordinates: '3647N 02435E'
-    remarks: '@Coo'
+    remarks: ''
 -
     ch: ''
     locode: 'GR KIP'
@@ -3455,7 +3923,7 @@
     coordinates: '3715N 02140E'
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'GR KLI'
     name: Klima
     namewodiacritics: Klima
@@ -3465,9 +3933,9 @@
     date: '1307'
     iata: ''
     coordinates: '3908N 02339E'
-    remarks: '@Sta@Coo'
+    remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'GR KIN'
     name: 'Koilas Ermionidos'
     namewodiacritics: 'Koilas Ermionidos'
@@ -3477,7 +3945,19 @@
     date: '1307'
     iata: ''
     coordinates: '3725N 02308E'
-    remarks: '@Sta@Coo'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GR KOC'
+    name: Kolchiko
+    namewodiacritics: Kolchiko
+    subdiv: '54'
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '4045N 02308E'
+    remarks: ''
 -
     ch: ''
     locode: 'GR KDO'
@@ -3540,6 +4020,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'GR KPS'
+    name: Kopanós
+    namewodiacritics: Kopanos
+    subdiv: '53'
+    function: 1-3-----
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '4038N 02207E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GR KRK'
+    name: Korakochori
+    namewodiacritics: Korakochori
+    subdiv: '14'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3740N 02119E'
+    remarks: ''
+-
+    ch: ''
     locode: 'GR KRT'
     name: Kórinthos
     namewodiacritics: Korinthos
@@ -3599,7 +4103,7 @@
     coordinates: '3949N 02120E'
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'GR KGS'
     name: Kos
     namewodiacritics: Kos
@@ -3609,9 +4113,9 @@
     date: '1307'
     iata: ''
     coordinates: '3652N 02715E'
-    remarks: '@Coo'
+    remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'GR KEM'
     name: 'Kosta Ermionidas'
     namewodiacritics: 'Kosta Ermionidas'
@@ -3621,9 +4125,21 @@
     date: '1307'
     iata: ''
     coordinates: '3718N 02310E'
-    remarks: '@Sta@Coo'
+    remarks: ''
 -
-    ch: ¦
+    ch: ''
+    locode: 'GR KOU'
+    name: Koufália
+    namewodiacritics: Koufalia
+    subdiv: '54'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4046N 02234E'
+    remarks: ''
+-
+    ch: ''
     locode: 'GR KOF'
     name: 'Koufonissia Kykladon'
     namewodiacritics: 'Koufonissia Kykladon'
@@ -3633,13 +4149,13 @@
     date: '1307'
     iata: ''
     coordinates: '3656N 02536E'
-    remarks: '@Sta@Coo'
+    remarks: ''
 -
     ch: ''
     locode: 'GR GAM'
     name: Kounavoi
     namewodiacritics: Kounavoi
-    subdiv: '91'
+    subdiv: HK
     function: '-----6--'
     status: RL
     date: '0901'
@@ -3647,7 +4163,7 @@
     coordinates: '3514N 02511E'
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'GR KZI'
     name: Kozáni
     namewodiacritics: Kozani
@@ -3657,7 +4173,19 @@
     date: '1307'
     iata: ''
     coordinates: '4018N 02147E'
-    remarks: '@Fun'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GR KGR'
+    name: Kremasti
+    namewodiacritics: Kremasti
+    subdiv: '81'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3624N 02807E'
+    remarks: ''
 -
     ch: ''
     locode: 'GR KRI'
@@ -3719,7 +4247,7 @@
     coordinates: ''
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'GR KIT'
     name: Kythira
     namewodiacritics: Kythira
@@ -3729,9 +4257,9 @@
     date: '1307'
     iata: ''
     coordinates: '3609N 02259E'
-    remarks: '@Fun'
+    remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'GR KYT'
     name: Kythnos
     namewodiacritics: Kythnos
@@ -3741,9 +4269,21 @@
     date: '1307'
     iata: ''
     coordinates: '3723N 02424E'
-    remarks: '@Coo'
+    remarks: ''
 -
-    ch: ¦
+    ch: ''
+    locode: 'GR LGA'
+    name: Laganás
+    namewodiacritics: Laganas
+    subdiv: '14'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3750N 02134E'
+    remarks: ''
+-
+    ch: ''
     locode: 'GR LGK'
     name: Lagkadás
     namewodiacritics: Lagkadas
@@ -3753,7 +4293,7 @@
     date: '1307'
     iata: ''
     coordinates: '4037N 02314E'
-    remarks: '@Fun@Sta'
+    remarks: ''
 -
     ch: ''
     locode: 'GR PTL'
@@ -3771,12 +4311,12 @@
     locode: 'GR LAG'
     name: Lagyna
     namewodiacritics: Lagyna
-    subdiv: '54'
+    subdiv: B
     function: '--3-----'
-    status: RQ
-    date: '0907'
+    status: RL
+    date: '1707'
     iata: ''
-    coordinates: '4043N 23000E'
+    coordinates: '4043N 02300E'
     remarks: ''
 -
     ch: ''
@@ -3803,7 +4343,7 @@
     coordinates: '3708N 02651E'
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'GR KKM'
     name: Lákkoma
     namewodiacritics: Lakkoma
@@ -3813,7 +4353,7 @@
     date: '1307'
     iata: ''
     coordinates: '4026N 02532E'
-    remarks: '@Fun@Sta'
+    remarks: ''
 -
     ch: ''
     locode: 'GR LKK'
@@ -3851,7 +4391,19 @@
     coordinates: '4045N 02304E'
     remarks: ''
 -
-    ch: ¦
+    ch: ''
+    locode: 'GR LAR'
+    name: 'Lardos Rhodes'
+    namewodiacritics: 'Lardos Rhodes'
+    subdiv: '81'
+    function: 1-------
+    status: AA
+    date: '1607'
+    iata: ''
+    coordinates: '3604N 02802E'
+    remarks: ''
+-
+    ch: ''
     locode: 'GR LRA'
     name: Lárisa
     namewodiacritics: Larisa
@@ -3861,21 +4413,9 @@
     date: '1307'
     iata: ''
     coordinates: '3938N 02225E'
-    remarks: '@Fun'
--
-    ch: X
-    locode: 'GR LRM'
-    name: Larmes
-    namewodiacritics: Larmes
-    subdiv: ''
-    function: 1-------
-    status: XX
-    date: '1307'
-    iata: ''
-    coordinates: ''
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'GR LRY'
     name: Larymna
     namewodiacritics: Larymna
@@ -3885,9 +4425,9 @@
     date: '1307'
     iata: ''
     coordinates: '3834N 02317E'
-    remarks: '@Coo'
+    remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'GR LAV'
     name: 'Laurium (Lavrion)'
     namewodiacritics: 'Laurium (Lavrion)'
@@ -3897,9 +4437,9 @@
     date: '1307'
     iata: ''
     coordinates: '3743N 02404E'
-    remarks: '@Coo'
+    remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'GR LAV'
     name: 'Lavrion (Laurium)'
     namewodiacritics: 'Lavrion (Laurium)'
@@ -3909,7 +4449,7 @@
     date: '1307'
     iata: ''
     coordinates: '3743N 02404E'
-    remarks: '@Coo'
+    remarks: ''
 -
     ch: ''
     locode: 'GR LNA'
@@ -3935,7 +4475,7 @@
     coordinates: '3850N 02042E'
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'GR LEF'
     name: Lefkandi
     namewodiacritics: Lefkandi
@@ -3945,7 +4485,7 @@
     date: '1307'
     iata: ''
     coordinates: '3825N 02341E'
-    remarks: '@Sta@Coo'
+    remarks: ''
 -
     ch: ''
     locode: 'GR LEV'
@@ -3971,7 +4511,7 @@
     coordinates: '3920N 02055E'
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'GR LFK'
     name: Lefkímmi
     namewodiacritics: Lefkimmi
@@ -3981,7 +4521,7 @@
     date: '1307'
     iata: ''
     coordinates: '3925N 02006E'
-    remarks: '@Coo'
+    remarks: ''
 -
     ch: ''
     locode: 'GR LXS'
@@ -4007,7 +4547,7 @@
     coordinates: '3759N 02352E'
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'GR LND'
     name: Leonídion
     namewodiacritics: Leonidion
@@ -4017,7 +4557,7 @@
     date: '1307'
     iata: ''
     coordinates: '3709N 02254E'
-    remarks: '@Coo'
+    remarks: ''
 -
     ch: ''
     locode: 'GR LPK'
@@ -4031,7 +4571,7 @@
     coordinates: '4104N 02554E'
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'GR LRS'
     name: Leros
     namewodiacritics: Leros
@@ -4041,7 +4581,19 @@
     date: '1307'
     iata: ''
     coordinates: '3711N 02648E'
-    remarks: '@Coo'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GR L83'
+    name: Lesbos
+    namewodiacritics: Lesbos
+    subdiv: '83'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3910N 02619E'
+    remarks: ''
 -
     ch: ''
     locode: 'GR LEA'
@@ -4079,7 +4631,7 @@
     coordinates: '3804N 02347E'
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'GR LII'
     name: Limni
     namewodiacritics: Limni
@@ -4089,7 +4641,7 @@
     date: '1307'
     iata: ''
     coordinates: '3846N 02319E'
-    remarks: '@Sta@Coo'
+    remarks: ''
 -
     ch: ''
     locode: 'GR GAN'
@@ -4103,7 +4655,7 @@
     coordinates: '4057N 02237E'
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'GR LIA'
     name: Linaria
     namewodiacritics: Linaria
@@ -4113,9 +4665,9 @@
     date: '1307'
     iata: ''
     coordinates: '3851N 02432E'
-    remarks: '@Sta@Coo'
+    remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'GR LDR'
     name: 'Lindos Rodou'
     namewodiacritics: 'Lindos Rodou'
@@ -4125,9 +4677,9 @@
     date: '1307'
     iata: ''
     coordinates: '3606N 02805E'
-    remarks: '@Sta@Coo'
+    remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'GR LIN'
     name: 'Linoperamata Hrakliou'
     namewodiacritics: 'Linoperamata Hrakliou'
@@ -4137,7 +4689,7 @@
     date: '1307'
     iata: ''
     coordinates: '3521N 02503E'
-    remarks: '@Sta@Coo'
+    remarks: ''
 -
     ch: ''
     locode: 'GR LIP'
@@ -4149,6 +4701,18 @@
     date: '0407'
     iata: ''
     coordinates: '3717N 02646E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GR 6TL'
+    name: Lití
+    namewodiacritics: Liti
+    subdiv: '54'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4044N 02258E'
     remarks: ''
 -
     ch: ''
@@ -4187,7 +4751,7 @@
     coordinates: '3842N 02302E'
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'GR LIX'
     name: Lixuri
     namewodiacritics: Lixuri
@@ -4197,7 +4761,19 @@
     date: '1307'
     iata: ''
     coordinates: '3812N 02026E'
-    remarks: '@Coo'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GR LOD'
+    name: Loudias
+    namewodiacritics: Loudias
+    subdiv: '54'
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '4047N 02224E'
+    remarks: ''
 -
     ch: ''
     locode: 'GR LOU'
@@ -4236,6 +4812,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'GR M8L'
+    name: Magoúla
+    namewodiacritics: Magoula
+    subdiv: '42'
+    function: 1-------
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '3949N 02205E'
+    remarks: ''
+-
+    ch: ''
     locode: 'GR MGL'
     name: Magoúla
     namewodiacritics: Magoula
@@ -4260,6 +4848,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'GR MKR'
+    name: Makriyialos
+    namewodiacritics: Makriyialos
+    subdiv: '92'
+    function: '-23-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3502N 02558E'
+    remarks: ''
+-
+    ch: ''
     locode: 'GR MLK'
     name: Malakása
     namewodiacritics: Malakasa
@@ -4271,7 +4871,7 @@
     coordinates: '3814N 02348E'
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'GR MAL'
     name: Malaoi
     namewodiacritics: Malaoi
@@ -4281,9 +4881,9 @@
     date: '1307'
     iata: ''
     coordinates: ''
-    remarks: '@Fun@Sta'
+    remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'GR MSA'
     name: Malessina
     namewodiacritics: Malessina
@@ -4293,13 +4893,13 @@
     date: '1307'
     iata: ''
     coordinates: '3839N 02314E'
-    remarks: '@Sta@Coo'
+    remarks: ''
 -
     ch: ''
     locode: 'GR GAO'
     name: Malia
     namewodiacritics: Malia
-    subdiv: '91'
+    subdiv: HK
     function: '-----6--'
     status: RL
     date: '0901'
@@ -4371,12 +4971,24 @@
     locode: 'GR MRT'
     name: Marathítis
     namewodiacritics: Marathitis
-    subdiv: '91'
+    subdiv: HK
     function: '--3-----'
     status: RL
     date: '0901'
     iata: ''
     coordinates: '3517N 02508E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GR MKP'
+    name: 'Marathokampos Samou'
+    namewodiacritics: 'Marathokampos Samou'
+    subdiv: '84'
+    function: 1-------
+    status: AA
+    date: '1607'
+    iata: ''
+    coordinates: '3742N 02642E'
     remarks: ''
 -
     ch: ''
@@ -4387,18 +4999,6 @@
     function: '--3-----'
     status: RQ
     date: '0901'
-    iata: ''
-    coordinates: ''
-    remarks: ''
--
-    ch: X
-    locode: 'GR MAZ'
-    name: 'Marina Zeas'
-    namewodiacritics: 'Marina Zeas'
-    subdiv: ''
-    function: 1-------
-    status: XX
-    date: '1307'
     iata: ''
     coordinates: ''
     remarks: ''
@@ -4427,7 +5027,7 @@
     coordinates: ''
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'GR MRM'
     name: Marmari
     namewodiacritics: Marmari
@@ -4437,9 +5037,9 @@
     date: '1307'
     iata: ''
     coordinates: '3803N 02419E'
-    remarks: '@Coo'
+    remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'GR MRN'
     name: Marmárion
     namewodiacritics: Marmarion
@@ -4449,7 +5049,7 @@
     date: '1307'
     iata: ''
     coordinates: '3803N 02419E'
-    remarks: '@Fun@Sta'
+    remarks: ''
 -
     ch: ''
     locode: 'GR MXK'
@@ -4463,7 +5063,7 @@
     coordinates: '3651N 02704E'
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'GR MTR'
     name: 'Mathraki Diapontioi Island'
     namewodiacritics: 'Mathraki Diapontioi Island'
@@ -4473,7 +5073,7 @@
     date: '1307'
     iata: ''
     coordinates: '3947N 01931E'
-    remarks: '@Sta@Coo'
+    remarks: ''
 -
     ch: ''
     locode: 'GR MVR'
@@ -4482,9 +5082,9 @@
     subdiv: '33'
     function: '--3-----'
     status: RQ
-    date: '0907'
+    date: '1707'
     iata: ''
-    coordinates: '3957N 20365E'
+    coordinates: '3957N 02036E'
     remarks: ''
 -
     ch: ''
@@ -4497,6 +5097,18 @@
     date: '0501'
     iata: ''
     coordinates: '4054N 02345E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GR MVI'
+    name: Mavrovouni
+    namewodiacritics: Mavrovouni
+    subdiv: B
+    function: '--3-----'
+    status: RL
+    date: '1901'
+    iata: ''
+    coordinates: '4046N 02209E'
     remarks: ''
 -
     ch: ''
@@ -4523,7 +5135,7 @@
     coordinates: '3724N 02208E'
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'GR MGN'
     name: Meganísi
     namewodiacritics: Meganisi
@@ -4533,19 +5145,19 @@
     date: '1307'
     iata: ''
     coordinates: '3840N 02045E'
-    remarks: '@Coo'
+    remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'GR MGR'
     name: Mégara
     namewodiacritics: Megara
-    subdiv: ''
+    subdiv: A1
     function: 0-------
-    status: AI
-    date: '1307'
+    status: AA
+    date: '1501'
     iata: ''
     coordinates: '3759N 02321E'
-    remarks: '@Fun@Coo'
+    remarks: ''
 -
     ch: ''
     locode: 'GR MLA'
@@ -4571,7 +5183,7 @@
     coordinates: '4046N 02255E'
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'GR MEN'
     name: Menidi
     namewodiacritics: Menidi
@@ -4581,7 +5193,7 @@
     date: '1307'
     iata: ''
     coordinates: '3902N 02107E'
-    remarks: '@Sta@Coo'
+    remarks: ''
 -
     ch: ''
     locode: 'GR MEL'
@@ -4607,19 +5219,7 @@
     coordinates: '3703N 02200E'
     remarks: ''
 -
-    ch: X
-    locode: 'GR MES'
-    name: Messogia
-    namewodiacritics: Messogia
-    subdiv: ''
-    function: 1-------
-    status: XX
-    date: '1307'
-    iata: ''
-    coordinates: ''
-    remarks: ''
--
-    ch: ¦
+    ch: ''
     locode: 'GR MHI'
     name: 'Mesta Hiou'
     namewodiacritics: 'Mesta Hiou'
@@ -4629,7 +5229,7 @@
     date: '1307'
     iata: ''
     coordinates: '3817N 02556E'
-    remarks: '@Coo'
+    remarks: ''
 -
     ch: ''
     locode: 'GR MMS'
@@ -4643,7 +5243,19 @@
     coordinates: ''
     remarks: ''
 -
-    ch: ¦
+    ch: ''
+    locode: 'GR MEA'
+    name: Methana
+    namewodiacritics: Methana
+    subdiv: A1
+    function: 1-------
+    status: AA
+    date: '1607'
+    iata: ''
+    coordinates: '3735N 02333E'
+    remarks: ''
+-
+    ch: ''
     locode: 'GR MET'
     name: Methoni
     namewodiacritics: Methoni
@@ -4653,7 +5265,7 @@
     date: '1307'
     iata: ''
     coordinates: '3649N 02143E'
-    remarks: '@Coo'
+    remarks: ''
 -
     ch: ''
     locode: 'GR MSV'
@@ -4667,17 +5279,17 @@
     coordinates: '3946N 02110E'
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'GR MLO'
-    name: Milos
-    namewodiacritics: Milos
-    subdiv: ''
+    name: 'Milos (Adamas)'
+    namewodiacritics: 'Milos (Adamas)'
+    subdiv: '61'
     function: '---4----'
     status: AI
-    date: '1307'
+    date: '1501'
     iata: ''
-    coordinates: ''
-    remarks: '@Fun'
+    coordinates: '3645N 02426E'
+    remarks: ''
 -
     ch: ''
     locode: 'GR MYR'
@@ -4691,7 +5303,7 @@
     coordinates: '3952N 02504E'
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'GR MIS'
     name: Missimi
     namewodiacritics: Missimi
@@ -4701,7 +5313,19 @@
     date: '1307'
     iata: ''
     coordinates: ''
-    remarks: '@Fun@Sta'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GR MOA'
+    name: Molai
+    namewodiacritics: Molai
+    subdiv: J
+    function: '--3-----'
+    status: RL
+    date: '1707'
+    iata: ''
+    coordinates: '3648N 02251E'
+    remarks: ''
 -
     ch: ''
     locode: 'GR MOL'
@@ -4725,6 +5349,18 @@
     date: '0212'
     iata: ''
     coordinates: '3641N 02303E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GR MVO'
+    name: 'Moní Vatopedíou'
+    namewodiacritics: 'Moni Vatopediou'
+    subdiv: '69'
+    function: 1-------
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '4018N 02412E'
     remarks: ''
 -
     ch: ''
@@ -4787,7 +5423,7 @@
     coordinates: '4115N 02248E'
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'GR MOU'
     name: Moutsoúna
     namewodiacritics: Moutsouna
@@ -4797,7 +5433,7 @@
     date: '1307'
     iata: ''
     coordinates: '3705N 02535E'
-    remarks: '@Sta@Coo'
+    remarks: ''
 -
     ch: ''
     locode: 'GR JMK'
@@ -4811,7 +5447,7 @@
     coordinates: '3727N 02520E'
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'GR MYL'
     name: Mylaki
     namewodiacritics: Mylaki
@@ -4821,7 +5457,19 @@
     date: '1307'
     iata: ''
     coordinates: '3823N 02404E'
-    remarks: '@Fun@Sta@Coo'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GR MRS'
+    name: 'Myrties Kalymnou'
+    namewodiacritics: 'Myrties Kalymnou'
+    subdiv: L
+    function: 1-------
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '3659N 02655E'
+    remarks: ''
 -
     ch: ''
     locode: 'GR MYB'
@@ -4835,7 +5483,7 @@
     coordinates: '3821N 02032E'
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'GR MJT'
     name: Mytilene
     namewodiacritics: Mytilene
@@ -4845,7 +5493,7 @@
     date: '1307'
     iata: ''
     coordinates: '3906N 02633E'
-    remarks: '@Coo'
+    remarks: ''
 -
     ch: ''
     locode: 'GR NAF'
@@ -4863,12 +5511,12 @@
     locode: 'GR NSA'
     name: Náousa
     namewodiacritics: Naousa
-    subdiv: ''
+    subdiv: '53'
     function: '--3-----'
-    status: RQ
-    date: '0212'
+    status: RL
+    date: '1607'
     iata: ''
-    coordinates: ''
+    coordinates: '4037N 02204E'
     remarks: ''
 -
     ch: ''
@@ -4919,7 +5567,7 @@
     coordinates: '3706N 02523E'
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'GR NAL'
     name: 'Néa Alikarnassós'
     namewodiacritics: 'Nea Alikarnassos'
@@ -4929,7 +5577,7 @@
     date: '1307'
     iata: ''
     coordinates: '3520N 02509E'
-    remarks: '@Fun@Sta'
+    remarks: ''
 -
     ch: ''
     locode: 'GR NAR'
@@ -4967,28 +5615,16 @@
     coordinates: '3806N 02349E'
     remarks: ''
 -
-    ch: X
-    locode: 'GR NFA'
-    name: 'Nea Filadelfia'
-    namewodiacritics: 'Nea Filadelfia'
-    subdiv: ''
-    function: 1-------
-    status: XX
-    date: '1307'
-    iata: ''
-    coordinates: ''
-    remarks: ''
--
-    ch: X
-    locode: 'GR NIO'
+    ch: ''
+    locode: 'GR NOA'
     name: 'Nea Ionia'
     namewodiacritics: 'Nea Ionia'
-    subdiv: ''
-    function: 1-------
-    status: XX
-    date: '1307'
+    subdiv: A1
+    function: '--3-----'
+    status: RL
+    date: '1407'
     iata: ''
-    coordinates: ''
+    coordinates: '3802N 02345E'
     remarks: ''
 -
     ch: ''
@@ -5056,11 +5692,11 @@
     name: 'Nea Makri'
     namewodiacritics: 'Nea Makri'
     subdiv: A1
-    function: '-----6--'
+    function: '--3-----'
     status: RL
-    date: '0901'
+    date: '1707'
     iata: ''
-    coordinates: '3850N 23590E'
+    coordinates: '3805N 02359E'
     remarks: ''
 -
     ch: ''
@@ -5087,7 +5723,7 @@
     coordinates: '4028N 02252E'
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'GR NMA'
     name: 'Néa Moudhaniá'
     namewodiacritics: 'Nea Moudhania'
@@ -5097,7 +5733,7 @@
     date: '1307'
     iata: ''
     coordinates: '4014N 02317E'
-    remarks: '@Coo'
+    remarks: ''
 -
     ch: ''
     locode: 'GR NPA'
@@ -5172,6 +5808,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'GR ANS'
+    name: 'Nea Smyrni'
+    namewodiacritics: 'Nea Smyrni'
+    subdiv: A1
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '3757N 02343E'
+    remarks: ''
+-
+    ch: ''
     locode: 'GR NST'
     name: 'Néa Stíra'
     namewodiacritics: 'Nea Stira'
@@ -5183,7 +5831,19 @@
     coordinates: '3811N 02412E'
     remarks: ''
 -
-    ch: ¦
+    ch: ''
+    locode: 'GR NVA'
+    name: 'Néa Víssa'
+    namewodiacritics: 'Nea Vissa'
+    subdiv: A
+    function: '--3-----'
+    status: RL
+    date: '2001'
+    iata: ''
+    coordinates: '4135N 02632E'
+    remarks: ''
+-
+    ch: ''
     locode: 'GR NEA'
     name: Neapolis
     namewodiacritics: Neapolis
@@ -5193,7 +5853,7 @@
     date: '1307'
     iata: ''
     coordinates: '3630N 02304E'
-    remarks: '@Coo'
+    remarks: ''
 -
     ch: ''
     locode: 'GR NME'
@@ -5205,6 +5865,18 @@
     date: '0212'
     iata: ''
     coordinates: '3749N 02240E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GR NEO'
+    name: Neochoroúda
+    namewodiacritics: Neochorouda
+    subdiv: E
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '4044N 02252E'
     remarks: ''
 -
     ch: ''
@@ -5220,6 +5892,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'GR NEH'
+    name: Neokhorákion
+    namewodiacritics: Neokhorakion
+    subdiv: E
+    function: '--3-----'
+    status: AM
+    date: '2107'
+    iata: ''
+    coordinates: '3910N 02237E'
+    remarks: ''
+-
+    ch: ''
     locode: 'GR NCO'
     name: Neokhoroúdha
     namewodiacritics: Neokhoroudha
@@ -5231,7 +5915,7 @@
     coordinates: '4044N 02253E'
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'GR KAR'
     name: 'Néon Karlovásion'
     namewodiacritics: 'Neon Karlovasion'
@@ -5241,7 +5925,19 @@
     date: '1307'
     iata: ZKR
     coordinates: '3748N 02641E'
-    remarks: '@Coo'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GR 2NR'
+    name: 'Neon Rysion'
+    namewodiacritics: 'Neon Rysion'
+    subdiv: '54'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4029N 02259E'
+    remarks: ''
 -
     ch: ''
     locode: 'GR NIA'
@@ -5291,7 +5987,7 @@
     coordinates: ''
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'GR NIS'
     name: Nisiros
     namewodiacritics: Nisiros
@@ -5301,9 +5997,9 @@
     date: '1307'
     iata: ''
     coordinates: '3637N 02708E'
-    remarks: '@Coo'
+    remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'GR OIK'
     name: 'Oia Kyklades'
     namewodiacritics: 'Oia Kyklades'
@@ -5313,7 +6009,7 @@
     date: '1307'
     iata: ''
     coordinates: '3628N 02523E'
-    remarks: '@Sta@Coo'
+    remarks: ''
 -
     ch: ''
     locode: 'GR OIN'
@@ -5340,6 +6036,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'GR OLY'
+    name: Olympiada
+    namewodiacritics: Olympiada
+    subdiv: C
+    function: '--3-----'
+    status: RQ
+    date: '1901'
+    iata: ''
+    coordinates: '4034N 02135E'
+    remarks: ''
+-
+    ch: ''
     locode: 'GR ORA'
     name: Oraiókastron
     namewodiacritics: Oraiokastron
@@ -5363,7 +6071,7 @@
     coordinates: '3830N 02259E'
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'GR ORE'
     name: Orei
     namewodiacritics: Orei
@@ -5373,7 +6081,7 @@
     date: '1307'
     iata: ''
     coordinates: '3857N 02305E'
-    remarks: '@Coo'
+    remarks: ''
 -
     ch: ''
     locode: 'GR OEO'
@@ -5411,7 +6119,19 @@
     coordinates: '4018N 02333E'
     remarks: ''
 -
-    ch: ¦
+    ch: ''
+    locode: 'GR PNT'
+    name: 'Órmos Panórmou'
+    namewodiacritics: 'Ormos Panormou'
+    subdiv: '82'
+    function: 1-------
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '3739N 02503E'
+    remarks: ''
+-
+    ch: ''
     locode: 'GR ORO'
     name: Oropos
     namewodiacritics: Oropos
@@ -5421,9 +6141,9 @@
     date: '1307'
     iata: ''
     coordinates: '3819N 02347E'
-    remarks: '@Coo'
+    remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'GR OTH'
     name: Othonoí
     namewodiacritics: Othonoi
@@ -5433,7 +6153,7 @@
     date: '1307'
     iata: ''
     coordinates: '3951N 01924E'
-    remarks: '@Sta@Coo'
+    remarks: ''
 -
     ch: ''
     locode: 'GR OUR'
@@ -5496,6 +6216,42 @@
     remarks: ''
 -
     ch: ''
+    locode: 'GR PAK'
+    name: Palaiokastritsa
+    namewodiacritics: Palaiokastritsa
+    subdiv: F
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '3941N 01943E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GR PKT'
+    name: Palaiókastro
+    namewodiacritics: Palaiokastro
+    subdiv: '64'
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '4026N 02326E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GR PMO'
+    name: Palaiomonástiro
+    namewodiacritics: Palaiomonastiro
+    subdiv: '44'
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '3927N 02139E'
+    remarks: ''
+-
+    ch: ''
     locode: 'GR PAL'
     name: 'Palaión Fáliron'
     namewodiacritics: 'Palaion Faliron'
@@ -5507,7 +6263,7 @@
     coordinates: '3756N 02342E'
     remarks: ''
 -
-    ch: +
+    ch: ''
     locode: 'GR PML'
     name: Palamas
     namewodiacritics: Palamas
@@ -5531,7 +6287,7 @@
     coordinates: '3513N 02340E'
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'GR PSF'
     name: 'Paleohora Sfakion'
     namewodiacritics: 'Paleohora Sfakion'
@@ -5541,7 +6297,7 @@
     date: '1307'
     iata: ''
     coordinates: '3512N 02408E'
-    remarks: '@Coo'
+    remarks: ''
 -
     ch: ''
     locode: 'GR PPG'
@@ -5555,7 +6311,7 @@
     coordinates: '3800N 02353E'
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'GR PAO'
     name: Paloúkia
     namewodiacritics: Paloukia
@@ -5565,7 +6321,7 @@
     date: '1307'
     iata: ''
     coordinates: '3758N 02332E'
-    remarks: '@Coo'
+    remarks: ''
 -
     ch: ''
     locode: 'GR PAT'
@@ -5575,18 +6331,6 @@
     function: 0-------
     status: RQ
     date: '9307'
-    iata: ''
-    coordinates: ''
-    remarks: ''
--
-    ch: X
-    locode: 'GR PAN'
-    name: Panoi
-    namewodiacritics: Panoi
-    subdiv: ''
-    function: 1-------
-    status: XX
-    date: '1307'
     iata: ''
     coordinates: ''
     remarks: ''
@@ -5615,7 +6359,7 @@
     coordinates: ''
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'GR PAM'
     name: Paramythía
     namewodiacritics: Paramythia
@@ -5625,7 +6369,7 @@
     date: '1307'
     iata: ''
     coordinates: '3928N 02031E'
-    remarks: '@Fun@Sta'
+    remarks: ''
 -
     ch: ''
     locode: 'GR PAR'
@@ -5651,7 +6395,7 @@
     coordinates: '3705N 02509E'
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'GR PMS'
     name: Pátmos
     namewodiacritics: Patmos
@@ -5661,9 +6405,9 @@
     date: '1307'
     iata: ''
     coordinates: '3719N 02633E'
-    remarks: '@Coo'
+    remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'GR GPA'
     name: Patras
     namewodiacritics: Patras
@@ -5673,9 +6417,9 @@
     date: '1307'
     iata: ''
     coordinates: '3814N 02143E'
-    remarks: '@Coo'
+    remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'GR PAX'
     name: Paxi
     namewodiacritics: Paxi
@@ -5685,18 +6429,42 @@
     date: '1307'
     iata: ''
     coordinates: '3912N 02011E'
-    remarks: '@Coo'
+    remarks: ''
 -
-    ch: X
-    locode: 'GR PEK'
-    name: Pekfi
-    namewodiacritics: Pekfi
-    subdiv: '04'
-    function: 1-------
-    status: XX
-    date: '1307'
+    ch: ''
+    locode: 'GR PEF'
+    name: Péfki
+    namewodiacritics: Pefki
+    subdiv: '44'
+    function: '--3-----'
+    status: RL
+    date: '1601'
     iata: ''
-    coordinates: '3900N 02312E'
+    coordinates: '3947N 02122E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GR PLS'
+    name: Pelasgia
+    namewodiacritics: Pelasgia
+    subdiv: H
+    function: '--3-----'
+    status: RL
+    date: '1707'
+    iata: ''
+    coordinates: '3857N 02250E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GR PEL'
+    name: Pelasyía
+    namewodiacritics: Pelasyia
+    subdiv: '06'
+    function: 1-3-----
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '3857N 02250E'
     remarks: ''
 -
     ch: ''
@@ -5711,7 +6479,7 @@
     coordinates: '4046N 02231E'
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'GR PTF'
     name: Pendálofos
     namewodiacritics: Pendalofos
@@ -5721,9 +6489,33 @@
     date: '1307'
     iata: ''
     coordinates: '4044N 02251E'
-    remarks: '@Fun@Sta'
+    remarks: ''
 -
-    ch: ¦
+    ch: ''
+    locode: 'GR TTL'
+    name: Pentalofos
+    namewodiacritics: Pentalofos
+    subdiv: '54'
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '4044N 02251E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GR PTO'
+    name: Pentálofos
+    namewodiacritics: Pentalofos
+    subdiv: '54'
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '4045N 02251E'
+    remarks: ''
+-
+    ch: ''
     locode: 'GR PER'
     name: Perama
     namewodiacritics: Perama
@@ -5733,7 +6525,7 @@
     date: '1307'
     iata: ''
     coordinates: '3758N 02333E'
-    remarks: '@Coo'
+    remarks: ''
 -
     ch: ''
     locode: 'GR PGM'
@@ -5747,7 +6539,7 @@
     coordinates: '3902N 02630E'
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'GR PRR'
     name: Perea
     namewodiacritics: Perea
@@ -5757,7 +6549,19 @@
     date: '1307'
     iata: ''
     coordinates: '4030N 02254E'
-    remarks: '@Fun@Sta@Coo'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GR P6K'
+    name: Perigiali
+    namewodiacritics: Perigiali
+    subdiv: '15'
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '3756N 02250E'
+    remarks: ''
 -
     ch: ''
     locode: 'GR PST'
@@ -5807,7 +6611,7 @@
     coordinates: '3816N 02022E'
     remarks: ''
 -
-    ch: +
+    ch: ''
     locode: 'GR PLV'
     name: Petra
     namewodiacritics: Petra
@@ -5819,17 +6623,17 @@
     coordinates: '3920N 02611E'
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'GR PET'
-    name: Pétra
-    namewodiacritics: Petra
+    name: 'Pétra Lesvou'
+    namewodiacritics: 'Petra Lesvou'
     subdiv: '83'
     function: '-23-----'
     status: AA
-    date: '1307'
+    date: '1501'
     iata: ''
     coordinates: '3822N 02304E'
-    remarks: '@Fun@Sta'
+    remarks: ''
 -
     ch: ''
     locode: 'GR PRE'
@@ -5844,6 +6648,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'GR PTC'
+    name: Petrití
+    namewodiacritics: Petriti
+    subdiv: '22'
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '3927N 02000E'
+    remarks: ''
+-
+    ch: ''
     locode: 'GR PYV'
     name: 'Peyki Evvoias'
     namewodiacritics: 'Peyki Evvoias'
@@ -5855,7 +6671,7 @@
     coordinates: '3900N 02313E'
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'GR PSE'
     name: 'Phserimos Dodekanisou'
     namewodiacritics: 'Phserimos Dodekanisou'
@@ -5865,7 +6681,7 @@
     date: '1307'
     iata: ''
     coordinates: '3656N 02708E'
-    remarks: '@Sta@Coo'
+    remarks: ''
 -
     ch: ''
     locode: 'GR PIK'
@@ -5903,17 +6719,17 @@
     coordinates: '4036N 02259E'
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'GR PIR'
     name: Piraeus
     namewodiacritics: Piraeus
-    subdiv: ''
+    subdiv: I
     function: 1-------
     status: AI
-    date: '1307'
+    date: '1701'
     iata: ''
     coordinates: '3756N 02337E'
-    remarks: '@Coo'
+    remarks: ''
 -
     ch: ''
     locode: 'GR PIS'
@@ -5927,7 +6743,19 @@
     coordinates: '3821N 02041E'
     remarks: ''
 -
-    ch: ¦
+    ch: ''
+    locode: 'GR ISS'
+    name: Pissónas
+    namewodiacritics: Pissonas
+    subdiv: H
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '3832N 02343E'
+    remarks: ''
+-
+    ch: ''
     locode: 'GR PIT'
     name: Pitra
     namewodiacritics: Pitra
@@ -5937,7 +6765,7 @@
     date: '1307'
     iata: ''
     coordinates: '3641N 02250E'
-    remarks: '@Sta'
+    remarks: ''
 -
     ch: ''
     locode: 'GR PGN'
@@ -5949,6 +6777,18 @@
     date: '0901'
     iata: ''
     coordinates: '4028N 02257E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GR ALG'
+    name: Plakias
+    namewodiacritics: Plakias
+    subdiv: M
+    function: 1-------
+    status: AA
+    date: '2001'
+    iata: ''
+    coordinates: '3511N 02423E'
     remarks: ''
 -
     ch: ''
@@ -6000,6 +6840,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'GR P5T'
+    name: Platy
+    namewodiacritics: Platy
+    subdiv: '53'
+    function: 1-3-----
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '4038N 02232E'
+    remarks: ''
+-
+    ch: ''
     locode: 'GR PLG'
     name: 'Platygiali Etoloakarnanias'
     namewodiacritics: 'Platygiali Etoloakarnanias'
@@ -6035,7 +6887,7 @@
     coordinates: '3859N 02622E'
     remarks: ''
 -
-    ch: +
+    ch: ''
     locode: 'GR PON'
     name: Políchni
     namewodiacritics: Polichni
@@ -6047,7 +6899,7 @@
     coordinates: '4039N 02256E'
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'GR PTK'
     name: Politiká
     namewodiacritics: Politika
@@ -6057,7 +6909,7 @@
     date: '1307'
     iata: ''
     coordinates: '3835N 02333E'
-    remarks: '@Coo'
+    remarks: ''
 -
     ch: ''
     locode: 'GR PLC'
@@ -6075,12 +6927,12 @@
     locode: 'GR PLD'
     name: Polydendri
     namewodiacritics: Polydendri
-    subdiv: A1
+    subdiv: I
     function: '--3-----'
-    status: RQ
-    date: '1001'
+    status: RL
+    date: '1707'
     iata: ''
-    coordinates: '3813N 23526E'
+    coordinates: '3812N 02352E'
     remarks: ''
 -
     ch: ''
@@ -6093,6 +6945,18 @@
     date: '0212'
     iata: ''
     coordinates: '4023N 02327E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GR PLK'
+    name: Polykastron
+    namewodiacritics: Polykastron
+    subdiv: '57'
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '4059N 02233E'
     remarks: ''
 -
     ch: ''
@@ -6204,6 +7068,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'GR DSD'
+    name: Prosotsáni
+    namewodiacritics: Prosotsani
+    subdiv: '52'
+    function: 1-3-----
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '4111N 02358E'
+    remarks: ''
+-
+    ch: ''
     locode: 'GR PRO'
     name: Próti
     namewodiacritics: Proti
@@ -6228,6 +7104,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'GR PSC'
+    name: Psachna
+    namewodiacritics: Psachna
+    subdiv: '04'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3835N 02339E'
+    remarks: ''
+-
+    ch: ''
     locode: 'GR PSA'
     name: Psakhná
     namewodiacritics: Psakhna
@@ -6239,7 +7127,7 @@
     coordinates: '3835N 02338E'
     remarks: ''
 -
-    ch: '#'
+    ch: ''
     locode: 'GR PAA'
     name: Psará
     namewodiacritics: Psara
@@ -6249,6 +7137,18 @@
     date: '1307'
     iata: ''
     coordinates: '3832N 02534E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GR PS2'
+    name: Psychiko
+    namewodiacritics: Psychiko
+    subdiv: A1
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3801N 02346E'
     remarks: ''
 -
     ch: ''
@@ -6411,12 +7311,24 @@
     locode: 'GR RIZ'
     name: Rízes
     namewodiacritics: Rizes
-    subdiv: I
+    subdiv: A1
     function: 1----6--
     status: RL
-    date: '1201'
+    date: '1501'
     iata: ''
     coordinates: '3614N 02257E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GR RZM'
+    name: Rízoma
+    namewodiacritics: Rizoma
+    subdiv: E
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '3939N 02144E'
     remarks: ''
 -
     ch: ''
@@ -6516,6 +7428,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'GR SPS'
+    name: Sapes
+    namewodiacritics: Sapes
+    subdiv: '73'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4102N 02542E'
+    remarks: ''
+-
+    ch: ''
     locode: 'GR SVL'
     name: Savália
     namewodiacritics: Savalia
@@ -6525,6 +7449,18 @@
     date: '0212'
     iata: ''
     coordinates: '3749N 02117E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GR SCH'
+    name: Schimatari
+    namewodiacritics: Schimatari
+    subdiv: '03'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3821N 02335E'
     remarks: ''
 -
     ch: ''
@@ -6549,6 +7485,18 @@
     date: '0901'
     iata: ''
     coordinates: '3652N 02530E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GR ZAQ'
+    name: Sérifos
+    namewodiacritics: Serifos
+    subdiv: '82'
+    function: 1-3-----
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '3709N 02430W'
     remarks: ''
 -
     ch: ''
@@ -6579,12 +7527,24 @@
     locode: 'GR SRS'
     name: Serres
     namewodiacritics: Serres
-    subdiv: ''
+    subdiv: '62'
     function: 0-------
-    status: RQ
-    date: '9307'
+    status: RL
+    date: '1501'
     iata: ''
-    coordinates: ''
+    coordinates: '4105N 02333E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GR SVT'
+    name: Sevasti
+    namewodiacritics: Sevasti
+    subdiv: B
+    function: '--3-----'
+    status: RL
+    date: '2001'
+    iata: ''
+    coordinates: '4021N 02232E'
     remarks: ''
 -
     ch: ''
@@ -6696,6 +7656,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'GR T9H'
+    name: Sithonia
+    namewodiacritics: Sithonia
+    subdiv: '64'
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '4013N 02341E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GR V8S'
+    name: Sivota
+    namewodiacritics: Sivota
+    subdiv: D
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '3837N 02041E'
+    remarks: ''
+-
+    ch: ''
     locode: 'GR SKD'
     name: Skafidia
     namewodiacritics: Skafidia
@@ -6804,13 +7788,49 @@
     remarks: ''
 -
     ch: ''
+    locode: 'GR SFD'
+    name: Sofades
+    namewodiacritics: Sofades
+    subdiv: '41'
+    function: '--3-----'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '3920N 02206E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GR QW3'
+    name: Sofiko
+    namewodiacritics: Sofiko
+    subdiv: '15'
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '3748N 02303E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GR SOI'
+    name: Soroni
+    namewodiacritics: Soroni
+    subdiv: L
+    function: 1-------
+    status: AA
+    date: '2001'
+    iata: ''
+    coordinates: '3622N 02800E'
+    remarks: ''
+-
+    ch: ''
     locode: 'GR SDH'
     name: Soúda
     namewodiacritics: Souda
-    subdiv: ''
-    function: '--3-----'
-    status: RL
-    date: '0212'
+    subdiv: '94'
+    function: 1-3-----
+    status: AA
+    date: '1607'
     iata: ''
     coordinates: '3531N 02408E'
     remarks: ''
@@ -6864,15 +7884,27 @@
     remarks: ''
 -
     ch: ''
+    locode: 'GR TSS'
+    name: Soúrpi
+    namewodiacritics: Sourpi
+    subdiv: E
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '3906N 02254E'
+    remarks: ''
+-
+    ch: ''
     locode: 'GR SOU'
     name: Soussaki
     namewodiacritics: Soussaki
     subdiv: ''
-    function: 0-------
-    status: RQ
-    date: '9307'
+    function: 1-------
+    status: AA
+    date: '1607'
     iata: ''
-    coordinates: ''
+    coordinates: '3755N 02303E'
     remarks: ''
 -
     ch: ''
@@ -6921,6 +7953,18 @@
     date: '0212'
     iata: ''
     coordinates: '3716N 02309E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GR STM'
+    name: Stamáta
+    namewodiacritics: Stamata
+    subdiv: A1
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3808N 02353E'
     remarks: ''
 -
     ch: ''
@@ -7104,6 +8148,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'GR SYV'
+    name: Syvota
+    namewodiacritics: Syvota
+    subdiv: '32'
+    function: 1-------
+    status: AA
+    date: '1607'
+    iata: ''
+    coordinates: '3924N 02014E'
+    remarks: ''
+-
+    ch: ''
     locode: 'GR TAK'
     name: Taktikoupolis
     namewodiacritics: Taktikoupolis
@@ -7149,6 +8205,18 @@
     date: '0901'
     iata: ''
     coordinates: '4055N 02329E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GR TPA'
+    name: Terpsithéa
+    namewodiacritics: Terpsithea
+    subdiv: '42'
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '3937N 02222E'
     remarks: ''
 -
     ch: ''
@@ -7224,6 +8292,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'GR TPT'
+    name: Thiriopetra
+    namewodiacritics: Thiriopetra
+    subdiv: '59'
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '4103N 02209E'
+    remarks: ''
+-
+    ch: ''
     locode: 'GR THI'
     name: Thísvi
     namewodiacritics: Thisvi
@@ -7233,6 +8313,18 @@
     date: '0212'
     iata: ''
     coordinates: '3816N 02258E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GR THP'
+    name: 'Thisvi Port'
+    namewodiacritics: 'Thisvi Port'
+    subdiv: '07'
+    function: 1-------
+    status: AA
+    date: '1607'
+    iata: ''
+    coordinates: '3813N 02257E'
     remarks: ''
 -
     ch: ''
@@ -7248,10 +8340,22 @@
     remarks: ''
 -
     ch: ''
+    locode: 'GR THK'
+    name: Thrakomakedones
+    namewodiacritics: Thrakomakedones
+    subdiv: A1
+    function: '-23-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3807N 02345E'
+    remarks: ''
+-
+    ch: ''
     locode: 'GR GAY'
     name: Thrapsanon
     namewodiacritics: Thrapsanon
-    subdiv: '91'
+    subdiv: HK
     function: '-----6--'
     status: RL
     date: '0901'
@@ -7391,7 +8495,7 @@
     coordinates: '3905N 02304E'
     remarks: ''
 -
-    ch: +
+    ch: ''
     locode: 'GR TLF'
     name: Trilofon
     namewodiacritics: Trilofon
@@ -7464,6 +8568,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'GR VFO'
+    name: Vafiochórion
+    namewodiacritics: Vafiochorion
+    subdiv: '57'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4100N 02239E'
+    remarks: ''
+-
+    ch: ''
     locode: 'GR VRD'
     name: Várda
     namewodiacritics: Varda
@@ -7500,6 +8616,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'GR VAI'
+    name: Vasilikó
+    namewodiacritics: Vasiliko
+    subdiv: D
+    function: '--3-----'
+    status: RL
+    date: '2001'
+    iata: ''
+    coordinates: '3912N 02358E'
+    remarks: ''
+-
+    ch: ''
     locode: 'GR VAO'
     name: Vasilikón
     namewodiacritics: Vasilikon
@@ -7509,6 +8637,18 @@
     date: '0601'
     iata: ''
     coordinates: '3826N 02340E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GR VU5'
+    name: Vasiloúdhion
+    namewodiacritics: Vasiloudhion
+    subdiv: E
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '4038N 02311E'
     remarks: ''
 -
     ch: ''
@@ -7704,6 +8844,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'GR VOM'
+    name: 'Voudia Milos'
+    namewodiacritics: 'Voudia Milos'
+    subdiv: L
+    function: 1-------
+    status: AA
+    date: '2001'
+    iata: ''
+    coordinates: '3645N 02432E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GR VOU'
+    name: Voula
+    namewodiacritics: Voula
+    subdiv: A1
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '3751N 02346E'
+    remarks: ''
+-
+    ch: ''
     locode: 'GR VLM'
     name: Vouliagméni
     namewodiacritics: Vouliagmeni
@@ -7716,6 +8880,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'GR V3A'
+    name: Vrilissia
+    namewodiacritics: Vrilissia
+    subdiv: I
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '3802N 02350E'
+    remarks: ''
+-
+    ch: ''
     locode: 'GR VRI'
     name: Vrisákia
     namewodiacritics: Vrisakia
@@ -7725,6 +8901,18 @@
     date: '0212'
     iata: ''
     coordinates: '3834N 02336E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GR VYR'
+    name: Vyronas
+    namewodiacritics: Vyronas
+    subdiv: A1
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3757N 02345E'
     remarks: ''
 -
     ch: ''
@@ -7812,6 +9000,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'GR GRG'
+    name: Ypato
+    namewodiacritics: Ypato
+    subdiv: '03'
+    function: '--3-----'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '3823N 02323E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GR ZGA'
+    name: Zagorá
+    namewodiacritics: Zagora
+    subdiv: E
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '3927N 02306E'
+    remarks: ''
+-
+    ch: ''
     locode: 'GR ZTH'
     name: Zákynthos
     namewodiacritics: Zakynthos
@@ -7845,6 +9057,42 @@
     date: '0907'
     iata: ''
     coordinates: '3642N 02429E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GR EE3'
+    name: Zefyri
+    namewodiacritics: Zefyri
+    subdiv: A1
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '3804N 02343E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GR 5ZE'
+    name: Zervochórion
+    namewodiacritics: Zervochorion
+    subdiv: '32'
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '3924N 02033E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GR ZEG'
+    name: Zevgolateio
+    namewodiacritics: Zevgolateio
+    subdiv: J
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '3756N 02248E'
     remarks: ''
 -
     ch: ''

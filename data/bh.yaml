@@ -1,5 +1,17 @@
 -
     ch: ''
+    locode: 'BH AAL'
+    name: 'A''ali'
+    namewodiacritics: 'A''ali'
+    subdiv: '15'
+    function: '--3-----'
+    status: RL
+    date: '1707'
+    iata: ''
+    coordinates: '2609N 05031E'
+    remarks: ''
+-
+    ch: ''
     locode: 'BH ADA'
     name: Adliya
     namewodiacritics: Adliya
@@ -96,6 +108,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'BH ISA'
+    name: 'ISA Air Base'
+    namewodiacritics: 'ISA Air Base'
+    subdiv: '14'
+    function: '---4----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '2555N 05035E'
+    remarks: ''
+-
+    ch: ''
     locode: 'BH JAL'
     name: 'Jidd ''Ali'
     namewodiacritics: 'Jidd ''Ali'
@@ -105,6 +129,18 @@
     date: '1201'
     iata: ''
     coordinates: '2610N 05033E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BH JDF'
+    name: Jidhafs
+    namewodiacritics: Jidhafs
+    subdiv: '17'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '2613N 02032E'
     remarks: ''
 -
     ch: ''
@@ -165,6 +201,30 @@
     date: '1107'
     iata: ''
     coordinates: '2616N 05029E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BH RAJ'
+    name: 'Ras Abu Jarjur'
+    namewodiacritics: 'Ras Abu Jarjur'
+    subdiv: '14'
+    function: '--3-----'
+    status: RL
+    date: '2001'
+    iata: ''
+    coordinates: '2604N 05037E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BH RIF'
+    name: Riffa
+    namewodiacritics: Riffa
+    subdiv: '15'
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '2607N 05033E'
     remarks: ''
 -
     ch: ''

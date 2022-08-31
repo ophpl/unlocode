@@ -24,6 +24,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'UZ ALT'
+    name: Altyaryk
+    namewodiacritics: Altyaryk
+    subdiv: FA
+    function: '-23-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '4023N 07128E'
+    remarks: ''
+-
+    ch: ''
     locode: 'UZ AZN'
     name: Andizhan
     namewodiacritics: Andizhan
@@ -45,6 +57,18 @@
     date: '1001'
     iata: ''
     coordinates: '4038N 07214E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'UZ AST'
+    name: Astana
+    namewodiacritics: Astana
+    subdiv: XO
+    function: '-23-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '4120N 06036E'
     remarks: ''
 -
     ch: ''
@@ -120,6 +144,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'UZ KAM'
+    name: Kamashi
+    namewodiacritics: Kamashi
+    subdiv: QA
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '3849N 06627E'
+    remarks: ''
+-
+    ch: ''
     locode: 'UZ KPA'
     name: Karakalpakiya
     namewodiacritics: Karakalpakiya
@@ -153,6 +189,18 @@
     date: '0401'
     iata: ''
     coordinates: '3851N 06547E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'UZ KGS'
+    name: Kengsoy
+    namewodiacritics: Kengsoy
+    subdiv: QA
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '3821N 06551E'
     remarks: ''
 -
     ch: ''
@@ -192,6 +240,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'UZ 6BT'
+    name: Kungrad
+    namewodiacritics: Kungrad
+    subdiv: QR
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '4304N 05854E'
+    remarks: ''
+-
+    ch: ''
     locode: 'UZ MGN'
     name: Marghilon
     namewodiacritics: Marghilon
@@ -215,16 +275,16 @@
     coordinates: ''
     remarks: ''
 -
-    ch: +
+    ch: ''
     locode: 'UZ NVI'
     name: 'Navoi Apt.'
     namewodiacritics: 'Navoi Apt.'
     subdiv: NW
     function: '---4----'
     status: RL
-    date: '1307'
+    date: '1607'
     iata: ''
-    coordinates: '4112N 06859E'
+    coordinates: '4007N 06510E'
     remarks: ''
 -
     ch: ''
@@ -276,6 +336,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'UZ QUN'
+    name: Qunghirot
+    namewodiacritics: Qunghirot
+    subdiv: QR
+    function: '-23-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '4302N 05850E'
+    remarks: ''
+-
+    ch: ''
     locode: 'UZ SKD'
     name: Samarkand
     namewodiacritics: Samarkand
@@ -300,6 +372,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'UZ TSH'
+    name: Sergeli
+    namewodiacritics: Sergeli
+    subdiv: TO
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '4124N 06944E'
+    remarks: ''
+-
+    ch: ''
     locode: 'UZ SHU'
     name: Shurkhasan
     namewodiacritics: Shurkhasan
@@ -316,9 +400,9 @@
     name: Tashkent
     namewodiacritics: Tashkent
     subdiv: ''
-    function: '---45---'
+    function: '-2-45---'
     status: AI
-    date: '9501'
+    date: '2007'
     iata: ''
     coordinates: ''
     remarks: ''
@@ -340,9 +424,9 @@
     name: Uchquduq
     namewodiacritics: Uchquduq
     subdiv: NW
-    function: '---4----'
-    status: RQ
-    date: '1101'
+    function: '-2-4----'
+    status: AM
+    date: '2007'
     iata: ''
     coordinates: '4215N 06355E'
     remarks: ''
@@ -359,19 +443,31 @@
     coordinates: '4123N 06924E'
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'UZ UGC'
     name: 'Urganch (Urgench)'
     namewodiacritics: 'Urganch (Urgench)'
-    subdiv: KH
+    subdiv: XO
     function: '-234----'
     status: AI
     date: '1307'
     iata: ''
     coordinates: '4133N 06038E'
-    remarks: '@Sub'
+    remarks: ''
 -
-    ch: +
+    ch: ''
+    locode: 'UZ GUT'
+    name: Urgut
+    namewodiacritics: Urgut
+    subdiv: SA
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '3924N 06714E'
+    remarks: ''
+-
+    ch: ''
     locode: 'UZ YLH'
     name: Yalangach
     namewodiacritics: Yalangach

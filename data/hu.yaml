@@ -24,6 +24,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'HU ABB'
+    name: Abasár
+    namewodiacritics: Abasar
+    subdiv: HE
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4748N 02000E'
+    remarks: ''
+-
+    ch: ''
     locode: 'HU HAM'
     name: Abaújszántó
     namewodiacritics: Abaujszanto
@@ -240,6 +252,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'HU ASZ'
+    name: Alsozsolca
+    namewodiacritics: Alsozsolca
+    subdiv: BZ
+    function: 1-3-----
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '4804N 02053E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'HU ANA'
+    name: Anarcs
+    namewodiacritics: Anarcs
+    subdiv: SZ
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '4810N 02206E'
+    remarks: ''
+-
+    ch: ''
     locode: 'HU AND'
     name: Andocs
     namewodiacritics: Andocs
@@ -273,6 +309,18 @@
     date: '1301'
     iata: ''
     coordinates: '4657N 01647E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'HU A8Y'
+    name: Annavolgy
+    namewodiacritics: Annavolgy
+    subdiv: KE
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '4742N 01840E'
     remarks: ''
 -
     ch: ''
@@ -348,6 +396,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'HU BCS'
+    name: Bácsalmás
+    namewodiacritics: Bacsalmas
+    subdiv: BK
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4607N 01920E'
+    remarks: ''
+-
+    ch: ''
     locode: 'HU BAC'
     name: Bácsbokod
     namewodiacritics: Bacsbokod
@@ -420,6 +480,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'HU BJA'
+    name: Bajna
+    namewodiacritics: Bajna
+    subdiv: KE
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '4739N 01836E'
+    remarks: ''
+-
+    ch: ''
     locode: 'HU BAO'
     name: Bajot
     namewodiacritics: Bajot
@@ -429,6 +501,18 @@
     date: '1007'
     iata: ''
     coordinates: '4772N 01855E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'HU BAK'
+    name: Bakonysárkány
+    namewodiacritics: Bakonysarkany
+    subdiv: KE
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4727N 01806E'
     remarks: ''
 -
     ch: ''
@@ -516,6 +600,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'HU BZD'
+    name: Balatonoszöd
+    namewodiacritics: Balatonoszod
+    subdiv: SO
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4648N 01748E'
+    remarks: ''
+-
+    ch: ''
     locode: 'HU BZO'
     name: Balatonszárszó
     namewodiacritics: Balatonszarszo
@@ -525,6 +621,18 @@
     date: '1201'
     iata: ''
     coordinates: '4650N 01750E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'HU BLF'
+    name: Balf
+    namewodiacritics: Balf
+    subdiv: SN
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4739N 01640E'
     remarks: ''
 -
     ch: ''
@@ -543,7 +651,7 @@
     locode: 'HU BND'
     name: Bank
     namewodiacritics: Bank
-    subdiv: NO
+    subdiv: 'NO'
     function: '--3-----'
     status: RL
     date: '1207'
@@ -561,6 +669,18 @@
     date: '0212'
     iata: ''
     coordinates: '4818N 02022E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'HU QW2'
+    name: Baracska
+    namewodiacritics: Baracska
+    subdiv: FE
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '4717N 01846E'
     remarks: ''
 -
     ch: ''
@@ -615,12 +735,48 @@
     locode: 'HU BTY'
     name: Bátonyterenye
     namewodiacritics: Batonyterenye
-    subdiv: NO
+    subdiv: 'NO'
     function: '--3-----'
     status: RL
     date: '0901'
     iata: ''
     coordinates: '4758N 01950E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'HU BAT'
+    name: Battonya
+    namewodiacritics: Battonya
+    subdiv: BE
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '4617N 02101E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'HU BFA'
+    name: Becefa
+    namewodiacritics: Becefa
+    subdiv: BA
+    function: '--3-----'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '4604N 01751E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'HU BKS'
+    name: Bekecs
+    namewodiacritics: Bekecs
+    subdiv: BZ
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4809N 02111E'
     remarks: ''
 -
     ch: ''
@@ -660,6 +816,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'HU BET'
+    name: Békésszentandrás
+    namewodiacritics: Bekesszentandras
+    subdiv: BE
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '4652N 02029E'
+    remarks: ''
+-
+    ch: ''
     locode: 'HU BPF'
     name: Bélapátfalva
     namewodiacritics: Belapatfalva
@@ -687,7 +855,7 @@
     locode: 'HU BRC'
     name: Bercel
     namewodiacritics: Bercel
-    subdiv: NO
+    subdiv: 'NO'
     function: '-23-----'
     status: RQ
     date: '1001'
@@ -708,13 +876,25 @@
     remarks: ''
 -
     ch: ''
+    locode: 'HU BED'
+    name: Beremend
+    namewodiacritics: Beremend
+    subdiv: BA
+    function: '--3-----'
+    status: RL
+    date: '1707'
+    iata: ''
+    coordinates: '4547N 01826E'
+    remarks: ''
+-
+    ch: ''
     locode: 'HU BTF'
-    name: Berettyóúfalu
-    namewodiacritics: Berettyoufalu
+    name: Berettyóújfalu
+    namewodiacritics: Berettyoujfalu
     subdiv: HB
     function: '-23-----'
     status: RL
-    date: '0507'
+    date: '1801'
     iata: ''
     coordinates: '4713N 02132E'
     remarks: ''
@@ -741,6 +921,18 @@
     date: '0601'
     iata: ''
     coordinates: '4612N 01709E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'HU BYK'
+    name: Besenyotelek
+    namewodiacritics: Besenyotelek
+    subdiv: HE
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4742N 02026E'
     remarks: ''
 -
     ch: ''
@@ -791,7 +983,7 @@
     coordinates: '4708N 02143E'
     remarks: ''
 -
-    ch: +
+    ch: ''
     locode: 'HU BGB'
     name: Biharnagybajom
     namewodiacritics: Biharnagybajom
@@ -900,6 +1092,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'HU BCE'
+    name: Bölcske
+    namewodiacritics: Bolcske
+    subdiv: TO
+    function: '--3-----'
+    status: RL
+    date: '1707'
+    iata: ''
+    coordinates: '4644N 01858E'
+    remarks: ''
+-
+    ch: ''
     locode: 'HU BOL'
     name: Bóly
     namewodiacritics: Boly
@@ -948,6 +1152,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'HU BOJ'
+    name: Borjad
+    namewodiacritics: Borjad
+    subdiv: BA
+    function: '--3-----'
+    status: RL
+    date: '2001'
+    iata: ''
+    coordinates: '4556N 01828E'
+    remarks: ''
+-
+    ch: ''
     locode: 'HU BOD'
     name: Borsod
     namewodiacritics: Borsod
@@ -981,6 +1197,18 @@
     date: '1207'
     iata: ''
     coordinates: '4816N 02046E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'HU BOK'
+    name: Bosárkány
+    namewodiacritics: Bosarkany
+    subdiv: GS
+    function: '--3-----'
+    status: RL
+    date: '1901'
+    iata: ''
+    coordinates: '4741N 01715E'
     remarks: ''
 -
     ch: ''
@@ -1047,12 +1275,12 @@
     locode: 'HU BUD'
     name: Budapest
     namewodiacritics: Budapest
-    subdiv: ''
-    function: 1--45---
+    subdiv: BU
+    function: 12-45---
     status: AI
-    date: '9601'
+    date: '2007'
     iata: ''
-    coordinates: ''
+    coordinates: '4730N 01905E'
     remarks: ''
 -
     ch: ''
@@ -1092,6 +1320,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'HU BU2'
+    name: Bükkösd
+    namewodiacritics: Bukkosd
+    subdiv: BA
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4606N 01759E'
+    remarks: ''
+-
+    ch: ''
     locode: 'HU CEG'
     name: Cegléd
     namewodiacritics: Cegled
@@ -1116,6 +1356,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'HU 2NJ'
+    name: Cibakháza
+    namewodiacritics: Cibakhaza
+    subdiv: JN
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '4658N 02012E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'HU CDP'
+    name: Csanadapaca
+    namewodiacritics: Csanadapaca
+    subdiv: BE
+    function: '--3-----'
+    status: RL
+    date: '2001'
+    iata: ''
+    coordinates: '4633N 02053E'
+    remarks: ''
+-
+    ch: ''
     locode: 'HU CSA'
     name: Csaszar
     namewodiacritics: Csaszar
@@ -1128,6 +1392,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'HU CST'
+    name: Császártöltés
+    namewodiacritics: Csaszartoltes
+    subdiv: BK
+    function: '--3-----'
+    status: RL
+    date: '1707'
+    iata: ''
+    coordinates: '4625N 01911E'
+    remarks: ''
+-
+    ch: ''
     locode: 'HU CVY'
     name: Csávoly
     namewodiacritics: Csavoly
@@ -1137,6 +1413,30 @@
     date: '0701'
     iata: ''
     coordinates: '4611N 01908E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'HU CDE'
+    name: Csegold
+    namewodiacritics: Csegold
+    subdiv: SZ
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4754N 02241E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'HU CSB'
+    name: Csehbánya
+    namewodiacritics: Csehbanya
+    subdiv: VM
+    function: '--3-----'
+    status: RL
+    date: '2001'
+    iata: ''
+    coordinates: '4711N 01741E'
     remarks: ''
 -
     ch: ''
@@ -1173,6 +1473,18 @@
     date: '8202'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'HU CND'
+    name: Csengod
+    namewodiacritics: Csengod
+    subdiv: BK
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4643N 01916E'
     remarks: ''
 -
     ch: ''
@@ -1236,6 +1548,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'HU CKY'
+    name: Csokvaomany
+    namewodiacritics: Csokvaomany
+    subdiv: BZ
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '4810N 02023E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'HU CSY'
+    name: Csólyospálos
+    namewodiacritics: Csolyospalos
+    subdiv: BK
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '4625N 01950E'
+    remarks: ''
+-
+    ch: ''
     locode: 'HU CMD'
     name: Csomád
     namewodiacritics: Csomad
@@ -1296,6 +1632,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'HU 8TW'
+    name: Csót
+    namewodiacritics: Csot
+    subdiv: VE
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '4722N 01737E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'HU C4S'
+    name: Csovár
+    namewodiacritics: Csovar
+    subdiv: PE
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '4749N 01920E'
+    remarks: ''
+-
+    ch: ''
     locode: 'HU CSU'
     name: Csurgo
     namewodiacritics: Csurgo
@@ -1320,6 +1680,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'HU DZT'
+    name: Dánszentmiklós
+    namewodiacritics: Danszentmiklos
+    subdiv: PE
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4713N 01933E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'HU DAY'
+    name: Dány
+    namewodiacritics: Dany
+    subdiv: PE
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '4731N 01933E'
+    remarks: ''
+-
+    ch: ''
     locode: 'HU DEB'
     name: Debrecen
     namewodiacritics: Debrecen
@@ -1329,6 +1713,18 @@
     date: '9601'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'HU DES'
+    name: Decs
+    namewodiacritics: Decs
+    subdiv: TO
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '4628N 01807E'
     remarks: ''
 -
     ch: ''
@@ -1353,6 +1749,18 @@
     date: '1107'
     iata: ''
     coordinates: '4702N 02058E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'HU DEV'
+    name: Devecser
+    namewodiacritics: Devecser
+    subdiv: VE
+    function: '--3-----'
+    status: RL
+    date: '1707'
+    iata: ''
+    coordinates: '4706N 01726E'
     remarks: ''
 -
     ch: ''
@@ -1407,7 +1815,7 @@
     locode: 'HU DGP'
     name: Drégelypalánk
     namewodiacritics: Dregelypalank
-    subdiv: NO
+    subdiv: 'NO'
     function: '-----6--'
     status: RL
     date: '0901'
@@ -1425,6 +1833,18 @@
     date: '0607'
     iata: ''
     coordinates: '4719N 01756E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'HU DKE'
+    name: Dunaalmás
+    namewodiacritics: Dunaalmas
+    subdiv: KE
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '4744N 01820E'
     remarks: ''
 -
     ch: ''
@@ -1620,6 +2040,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'HU EGE'
+    name: Egerszalok
+    namewodiacritics: Egerszalok
+    subdiv: HE
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4752N 02020E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'HU EGY'
+    name: Egyházasdengeleg
+    namewodiacritics: Egyhazasdengeleg
+    subdiv: 'NO'
+    function: '--3-----'
+    status: RL
+    date: '1707'
+    iata: ''
+    coordinates: '4748N 01934E'
+    remarks: ''
+-
+    ch: ''
     locode: 'HU ELK'
     name: Elek
     namewodiacritics: Elek
@@ -1647,7 +2091,7 @@
     locode: 'HU EDF'
     name: Endrefalva
     namewodiacritics: Endrefalva
-    subdiv: NO
+    subdiv: 'NO'
     function: '-23-----'
     status: RL
     date: '0307'
@@ -1728,6 +2172,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'HU EEK'
+    name: Erdotelek
+    namewodiacritics: Erdotelek
+    subdiv: HE
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '4741N 02019E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'HU ESD'
+    name: Ersekcsanad
+    namewodiacritics: Ersekcsanad
+    subdiv: BK
+    function: '--3-----'
+    status: RQ
+    date: '1601'
+    iata: ''
+    coordinates: '4515N 01859E'
+    remarks: ''
+-
+    ch: ''
     locode: 'HU EXH'
     name: Érsekhalma
     namewodiacritics: Ersekhalma
@@ -1749,6 +2217,18 @@
     date: '8202'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'HU ETY'
+    name: Etyek
+    namewodiacritics: Etyek
+    subdiv: FE
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '4727N 01845E'
     remarks: ''
 -
     ch: ''
@@ -1848,6 +2328,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'HU FOS'
+    name: Felsoszenterzsébet
+    namewodiacritics: Felsoszenterzsebet
+    subdiv: ZA
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4645N 01627E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'HU FTK'
+    name: Felsotarkany
+    namewodiacritics: Felsotarkany
+    subdiv: HE
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4758N 02025E'
+    remarks: ''
+-
+    ch: ''
     locode: 'HU FZC'
     name: Felsozsolca
     namewodiacritics: Felsozsolca
@@ -1857,6 +2361,18 @@
     date: '0907'
     iata: ''
     coordinates: '4806N 02052E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'HU FKE'
+    name: Fenyeslitke
+    namewodiacritics: Fenyeslitke
+    subdiv: SZ
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4816N 02206E'
     remarks: ''
 -
     ch: ''
@@ -1883,7 +2399,7 @@
     coordinates: '4734N 01653E'
     remarks: ''
 -
-    ch: +
+    ch: ''
     locode: 'HU FZS'
     name: Fertoszentmiklós
     namewodiacritics: Fertoszentmiklos
@@ -1917,6 +2433,42 @@
     date: '0501'
     iata: ''
     coordinates: '4734N 01653E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'HU FKT'
+    name: Fokto
+    namewodiacritics: Fokto
+    subdiv: BK
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4631N 01855E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'HU FON'
+    name: Fonyód
+    namewodiacritics: Fonyod
+    subdiv: SO
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '4644N 01733E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'HU FRR'
+    name: Forráskút
+    namewodiacritics: Forraskut
+    subdiv: CS
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '4622N 01955E'
     remarks: ''
 -
     ch: ''
@@ -2004,6 +2556,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'HU VCS'
+    name: Gávavencsello
+    namewodiacritics: Gavavencsello
+    subdiv: SZ
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '4810N 02136E'
+    remarks: ''
+-
+    ch: ''
     locode: 'HU GCS'
     name: Gecse
     namewodiacritics: Gecse
@@ -2088,6 +2652,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'HU GOM'
+    name: Gomba
+    namewodiacritics: Gomba
+    subdiv: PE
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '4722N 01932E'
+    remarks: ''
+-
+    ch: ''
     locode: 'HU GNY'
     name: Gónyú
     namewodiacritics: Gonyu
@@ -2109,6 +2685,18 @@
     date: '1301'
     iata: ''
     coordinates: '4749N 02114E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'HU GRG'
+    name: Görgeteg
+    namewodiacritics: Gorgeteg
+    subdiv: SO
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '4609N 01726E'
     remarks: ''
 -
     ch: ''
@@ -2172,6 +2760,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'HU GGZ'
+    name: Gyöngyöshalász
+    namewodiacritics: Gyongyoshalasz
+    subdiv: HE
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '4744N 01956E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'HU GLM'
+    name: Gyongyossolymos
+    namewodiacritics: Gyongyossolymos
+    subdiv: HE
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4749N 01956E'
+    remarks: ''
+-
+    ch: ''
     locode: 'HU GYJ'
     name: Gyöngyöstárjan
     namewodiacritics: Gyongyostarjan
@@ -2188,9 +2800,9 @@
     name: Gyor
     namewodiacritics: Gyor
     subdiv: GS
-    function: 1-------
+    function: 12------
     status: RL
-    date: '1101'
+    date: '2007'
     iata: ''
     coordinates: '4741N 01738E'
     remarks: ''
@@ -2205,6 +2817,18 @@
     date: '1201'
     iata: ''
     coordinates: '4745N 01734E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'HU GYZ'
+    name: Gyorszemere
+    namewodiacritics: Gyorszemere
+    subdiv: GS
+    function: '--3-----'
+    status: RL
+    date: '1707'
+    iata: ''
+    coordinates: '4733N 01734E'
     remarks: ''
 -
     ch: ''
@@ -2243,7 +2867,7 @@
     coordinates: '4751N 02126E'
     remarks: ''
 -
-    ch: +
+    ch: ''
     locode: 'HU HJS'
     name: Hajdúsámson
     namewodiacritics: Hajdusamson
@@ -2253,6 +2877,66 @@
     date: '1307'
     iata: ''
     coordinates: '4736N 02146E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'HU HSZ'
+    name: Hajdúszoboszló
+    namewodiacritics: Hajduszoboszlo
+    subdiv: HB
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '4727N 02124E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'HU HJM'
+    name: Hajmáskér
+    namewodiacritics: Hajmasker
+    subdiv: VE
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4709N 01801E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'HU AJS'
+    name: Hajos
+    namewodiacritics: Hajos
+    subdiv: BK
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4623N 01907E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'HU GHH'
+    name: Halászi
+    namewodiacritics: Halaszi
+    subdiv: GS
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '4753N 01720E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'HU HAB'
+    name: Halásztelek
+    namewodiacritics: Halasztelek
+    subdiv: BK
+    function: '--3-----'
+    status: RL
+    date: '0307'
+    iata: ''
+    coordinates: '4701N 01902E'
     remarks: ''
 -
     ch: ''
@@ -2267,16 +2951,28 @@
     coordinates: '4722N 01859E'
     remarks: ''
 -
-    ch: ''
-    locode: 'HU HAB'
-    name: Halásztelek
-    namewodiacritics: Halasztelek
-    subdiv: BK
+    ch: +
+    locode: 'HU HKY'
+    name: Harkany
+    namewodiacritics: Harkany
+    subdiv: BA
     function: '--3-----'
-    status: RL
-    date: '0307'
+    status: AM
+    date: '2201'
     iata: ''
-    coordinates: '4701N 01902E'
+    coordinates: '4550N 01814E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'HU HRT'
+    name: Harta
+    namewodiacritics: Harta
+    subdiv: BK
+    function: 1-------
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '4641N 01901E'
     remarks: ''
 -
     ch: ''
@@ -2325,6 +3021,18 @@
     date: '1107'
     iata: ''
     coordinates: '4721N 01653E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'HU HE5'
+    name: Hegymagas
+    namewodiacritics: Hegymagas
+    subdiv: VE
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '4650N 01726E'
     remarks: ''
 -
     ch: ''
@@ -2388,6 +3096,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'HU HGN'
+    name: Hernád
+    namewodiacritics: Hernad
+    subdiv: PE
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '4710N 01926E'
+    remarks: ''
+-
+    ch: ''
     locode: 'HU HEV'
     name: Heves
     namewodiacritics: Heves
@@ -2436,6 +3156,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'HU HRZ'
+    name: Hort
+    namewodiacritics: Hort
+    subdiv: HE
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '4742N 01947E'
+    remarks: ''
+-
+    ch: ''
     locode: 'HU HOS'
     name: Hosszúpereszteg
     namewodiacritics: Hosszupereszteg
@@ -2460,6 +3192,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'HU IGA'
+    name: Igal
+    namewodiacritics: Igal
+    subdiv: SO
+    function: '--3-----'
+    status: RL
+    date: '2001'
+    iata: ''
+    coordinates: '4632N 01757E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'HU IGI'
+    name: Igrici
+    namewodiacritics: Igrici
+    subdiv: BZ
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '4752N 02053E'
+    remarks: ''
+-
+    ch: ''
     locode: 'HU ILD'
     name: Iklad
     namewodiacritics: Iklad
@@ -2469,6 +3225,30 @@
     date: '0901'
     iata: ''
     coordinates: '4740N 01927E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'HU IGY'
+    name: Imrehegy
+    namewodiacritics: Imrehegy
+    subdiv: BK
+    function: '--3-----'
+    status: RL
+    date: '1707'
+    iata: ''
+    coordinates: '4629N 01919E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'HU INA'
+    name: Inárcs
+    namewodiacritics: Inarcs
+    subdiv: PE
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4716N 01920E'
     remarks: ''
 -
     ch: ''
@@ -2532,6 +3312,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'HU IVS'
+    name: Iváncsa
+    namewodiacritics: Ivancsa
+    subdiv: FE
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '4709N 01849E'
+    remarks: ''
+-
+    ch: ''
     locode: 'HU IZK'
     name: Izsák
     namewodiacritics: Izsak
@@ -2553,6 +3345,18 @@
     date: '0907'
     iata: ''
     coordinates: '4818N 02040E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'HU VJA'
+    name: Jákfa
+    namewodiacritics: Jakfa
+    subdiv: VA
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '4720N 01658E'
     remarks: ''
 -
     ch: ''
@@ -2640,6 +3444,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'HU LEK'
+    name: Jásztelek
+    namewodiacritics: Jasztelek
+    subdiv: JN
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '4729N 02000E'
+    remarks: ''
+-
+    ch: ''
     locode: 'HU KAB'
     name: Kaba
     namewodiacritics: Kaba
@@ -2649,6 +3465,18 @@
     date: '0507'
     iata: ''
     coordinates: '4721N 02117E'
+    remarks: ''
+-
+    ch: +
+    locode: 'HU KDK'
+    name: Kadarkut
+    namewodiacritics: Kadarkut
+    subdiv: SO
+    function: '--3-----'
+    status: AM
+    date: '2201'
+    iata: ''
+    coordinates: '4614N 01738E'
     remarks: ''
 -
     ch: ''
@@ -2700,6 +3528,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'HU KPK'
+    name: Kaposújlak
+    namewodiacritics: Kaposujlak
+    subdiv: SO
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4622N 01744E'
+    remarks: ''
+-
+    ch: ''
     locode: 'HU KPS'
     name: Kaposvár
     namewodiacritics: Kaposvar
@@ -2709,6 +3549,18 @@
     date: '0212'
     iata: ''
     coordinates: '4622N 01748E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'HU KPT'
+    name: Káptalantóti
+    namewodiacritics: Kaptalantoti
+    subdiv: VE
+    function: '--3-----'
+    status: RL
+    date: '1707'
+    iata: ''
+    coordinates: '4651N 01731E'
     remarks: ''
 -
     ch: ''
@@ -2784,6 +3636,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'HU CKS'
+    name: Kecskéd
+    namewodiacritics: Kecsked
+    subdiv: KE
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '4731N 01819E'
+    remarks: ''
+-
+    ch: ''
     locode: 'HU KCS'
     name: Kecskemet
     namewodiacritics: Kecskemet
@@ -2819,7 +3683,7 @@
     coordinates: ''
     remarks: ''
 -
-    ch: +
+    ch: ''
     locode: 'HU VES'
     name: Kemeneshogyész
     namewodiacritics: Kemeneshogyesz
@@ -2841,6 +3705,18 @@
     date: '1301'
     iata: ''
     coordinates: '4712N 01707E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'HU KMS'
+    name: Kemenessömjén
+    namewodiacritics: Kemenessomjen
+    subdiv: VA
+    function: '--3-----'
+    status: RL
+    date: '1901'
+    iata: ''
+    coordinates: '4718N 01708E'
     remarks: ''
 -
     ch: ''
@@ -2952,6 +3828,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'HU KIM'
+    name: Kimle
+    namewodiacritics: Kimle
+    subdiv: GS
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '4750N 01722E'
+    remarks: ''
+-
+    ch: ''
     locode: 'HU KIR'
     name: Királd
     namewodiacritics: Kirald
@@ -2961,6 +3849,30 @@
     date: '1201'
     iata: ''
     coordinates: '4815N 02024E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'HU KBJ'
+    name: Kisbajcs
+    namewodiacritics: Kisbajcs
+    subdiv: GS
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '4745N 01741E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'HU KBO'
+    name: Kisbajom
+    namewodiacritics: Kisbajom
+    subdiv: SO
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '4618N 01730E'
     remarks: ''
 -
     ch: ''
@@ -2976,6 +3888,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'HU KGD'
+    name: Kisigmánd
+    namewodiacritics: Kisigmand
+    subdiv: KE
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '4739N 01806E'
+    remarks: ''
+-
+    ch: ''
     locode: 'HU KKS'
     name: Kiskõrös
     namewodiacritics: Kiskoros
@@ -2985,6 +3909,18 @@
     date: '0907'
     iata: ''
     coordinates: '4637N 01917E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'HU KPD'
+    name: Kiskorpád
+    namewodiacritics: Kiskorpad
+    subdiv: SO
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '4621N 01737E'
     remarks: ''
 -
     ch: ''
@@ -3011,18 +3947,6 @@
     coordinates: ''
     remarks: ''
 -
-    ch: +
-    locode: 'HU ZHK'
-    name: Kiskunlacháza
-    namewodiacritics: Kiskunlachaza
-    subdiv: PE
-    function: '--3-----'
-    status: RL
-    date: '1307'
-    iata: ''
-    coordinates: '4712N 01901E'
-    remarks: ''
--
     ch: ''
     locode: 'HU ZHA'
     name: Kiskunlacháza
@@ -3031,6 +3955,18 @@
     function: '-----6--'
     status: RQ
     date: '0907'
+    iata: ''
+    coordinates: '4712N 01901E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'HU ZHK'
+    name: Kiskunlacháza
+    namewodiacritics: Kiskunlachaza
+    subdiv: PE
+    function: '--3-----'
+    status: RL
+    date: '1307'
     iata: ''
     coordinates: '4712N 01901E'
     remarks: ''
@@ -3045,6 +3981,18 @@
     date: '0607'
     iata: ''
     coordinates: '4629N 01344E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'HU KSJ'
+    name: Kismarj
+    namewodiacritics: Kismarj
+    subdiv: HB
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '4715N 02150E'
     remarks: ''
 -
     ch: ''
@@ -3069,6 +4017,18 @@
     date: '0207'
     iata: ''
     coordinates: '4628N 01958E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'HU KTJ'
+    name: Kistokaj
+    namewodiacritics: Kistokaj
+    subdiv: BZ
+    function: '--3-----'
+    status: RL
+    date: '1707'
+    iata: ''
+    coordinates: '4803N 02051E'
     remarks: ''
 -
     ch: ''
@@ -3141,6 +4101,42 @@
     date: '0212'
     iata: ''
     coordinates: '4744N 01807E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'HU KLO'
+    name: Komló
+    namewodiacritics: Komlo
+    subdiv: BA
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '4612N 01816E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'HU KML'
+    name: Kömlo
+    namewodiacritics: Komlo
+    subdiv: HE
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '4736N 02027E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'HU KLM'
+    name: Komlóska
+    namewodiacritics: Komloska
+    subdiv: BZ
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4820N 02128E'
     remarks: ''
 -
     ch: ''
@@ -3264,6 +4260,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'HU KOV'
+    name: Köveskál
+    namewodiacritics: Koveskal
+    subdiv: VE
+    function: '--3-----'
+    status: RL
+    date: '1707'
+    iata: ''
+    coordinates: '4653N 01736E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'HU MIS'
+    name: Kozármisleny
+    namewodiacritics: Kozarmisleny
+    subdiv: BA
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '4602N 01818E'
+    remarks: ''
+-
+    ch: ''
     locode: 'HU KS8'
     name: Kulcs
     namewodiacritics: Kulcs
@@ -3273,6 +4293,18 @@
     date: '1107'
     iata: ''
     coordinates: '4703N 01855E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'HU KFR'
+    name: Kunfehértó
+    namewodiacritics: Kunfeherto
+    subdiv: BK
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '4621N 01925E'
     remarks: ''
 -
     ch: ''
@@ -3311,7 +4343,7 @@
     coordinates: '4646N 01945E'
     remarks: ''
 -
-    ch: +
+    ch: ''
     locode: 'HU KZT'
     name: Kunszentmárton
     namewodiacritics: Kunszentmarton
@@ -3357,6 +4389,18 @@
     date: '0607'
     iata: ''
     coordinates: '4745N 01831E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'HU SLO'
+    name: Lábod
+    namewodiacritics: Labod
+    subdiv: SO
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4612N 01727E'
     remarks: ''
 -
     ch: ''
@@ -3419,7 +4463,7 @@
     coordinates: '4652N 01959E'
     remarks: ''
 -
-    ch: +
+    ch: ''
     locode: 'HU LT9'
     name: Látrány
     namewodiacritics: Latrany
@@ -3465,6 +4509,18 @@
     date: '0901'
     iata: ''
     coordinates: '4744N 01723E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'HU LYI'
+    name: Lengyeltóti
+    namewodiacritics: Lengyeltoti
+    subdiv: SO
+    function: '--3-----'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '4640N 01739E'
     remarks: ''
 -
     ch: ''
@@ -3539,7 +4595,43 @@
     coordinates: '4744N 01941E'
     remarks: ''
 -
-    ch: +
+    ch: ''
+    locode: 'HU FE3'
+    name: Lovasberény
+    namewodiacritics: Lovasbereny
+    subdiv: FE
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '4718N 01833E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'HU LVA'
+    name: Lovászi
+    namewodiacritics: Lovaszi
+    subdiv: ZA
+    function: '--3-----'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '4633N 01634E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'HU LZA'
+    name: Lovászpatona
+    namewodiacritics: Lovaszpatona
+    subdiv: VE
+    function: '--3-----'
+    status: RL
+    date: '1707'
+    iata: ''
+    coordinates: '4726N 01738E'
+    remarks: ''
+-
+    ch: ''
     locode: 'HU LOV'
     name: Lövo
     namewodiacritics: Lovo
@@ -3597,6 +4689,18 @@
     date: '0901'
     iata: ''
     coordinates: '4727N 01922E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'HU MGO'
+    name: Mágocs
+    namewodiacritics: Magocs
+    subdiv: BA
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '4621N 01814E'
     remarks: ''
 -
     ch: ''
@@ -3684,6 +4788,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'HU MNY'
+    name: Mány
+    namewodiacritics: Many
+    subdiv: FE
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '4732N 01840E'
+    remarks: ''
+-
+    ch: ''
     locode: 'HU MAR'
     name: Marcali
     namewodiacritics: Marcali
@@ -3693,6 +4809,18 @@
     date: '0207'
     iata: ''
     coordinates: '4635N 01724E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'HU 2ZS'
+    name: Máriapócs
+    namewodiacritics: Mariapocs
+    subdiv: SZ
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '4753N 02202E'
     remarks: ''
 -
     ch: ''
@@ -3767,7 +4895,7 @@
     coordinates: '4630N 02102E'
     remarks: ''
 -
-    ch: +
+    ch: ''
     locode: 'HU MEH'
     name: Méhkerék
     namewodiacritics: Mehkerek
@@ -3777,6 +4905,42 @@
     date: '1307'
     iata: ''
     coordinates: '4647N 02127E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'HU BKR'
+    name: Mélykut
+    namewodiacritics: Melykut
+    subdiv: BK
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '4612N 01923E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'HU MND'
+    name: Mende
+    namewodiacritics: Mende
+    subdiv: PE
+    function: '-23-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '4725N 01927E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'HU MET'
+    name: Mesteri
+    namewodiacritics: Mesteri
+    subdiv: VA
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '4713N 01705E'
     remarks: ''
 -
     ch: ''
@@ -3804,6 +4968,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'HU MZZ'
+    name: Mezokeresztes
+    namewodiacritics: Mezokeresztes
+    subdiv: BZ
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '4749N 02041E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'HU MZK'
+    name: Mezokomárom
+    namewodiacritics: Mezokomarom
+    subdiv: FE
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4650N 01817E'
+    remarks: ''
+-
+    ch: ''
     locode: 'HU MKS'
     name: Mezokovácsháza
     namewodiacritics: Mezokovacshaza
@@ -3825,6 +5013,18 @@
     date: '0212'
     iata: ''
     coordinates: '4749N 02035E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'HU VEZ'
+    name: Mezolak
+    namewodiacritics: Mezolak
+    subdiv: VE
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '4720N 01722E'
     remarks: ''
 -
     ch: ''
@@ -3863,6 +5063,30 @@
     coordinates: '4718N 01720E'
     remarks: ''
 -
+    ch: +
+    locode: 'HU MPC'
+    name: Mikepércs
+    namewodiacritics: Mikepercs
+    subdiv: HB
+    function: '--3-----'
+    status: AM
+    date: '2201'
+    iata: ''
+    coordinates: '4727N 02138E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'HU ZGM'
+    name: Mindszentgodisa
+    namewodiacritics: Mindszentgodisa
+    subdiv: BA
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '4613N 01804E'
+    remarks: ''
+-
     ch: ''
     locode: 'HU MIR'
     name: Mirelite
@@ -3885,6 +5109,18 @@
     date: '9601'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'HU MCS'
+    name: Mocsa
+    namewodiacritics: Mocsa
+    subdiv: KE
+    function: '-----6--'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '4740N 01811E'
     remarks: ''
 -
     ch: ''
@@ -4044,6 +5280,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'HU NGS'
+    name: Nagycsécs
+    namewodiacritics: Nagycsecs
+    subdiv: BZ
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '4758N 02057E'
+    remarks: ''
+-
+    ch: ''
     locode: 'HU FUG'
     name: Nagyfüged
     namewodiacritics: Nagyfuged
@@ -4055,7 +5303,7 @@
     coordinates: '4741N 02007E'
     remarks: ''
 -
-    ch: +
+    ch: ''
     locode: 'HU NYH'
     name: Nagyharsány
     namewodiacritics: Nagyharsany
@@ -4092,6 +5340,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'HU NKM'
+    name: Nagykamarás
+    namewodiacritics: Nagykamaras
+    subdiv: BE
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '4628N 02107E'
+    remarks: ''
+-
+    ch: ''
     locode: 'HU NGY'
     name: Nagykanizsa
     namewodiacritics: Nagykanizsa
@@ -4113,6 +5373,30 @@
     date: '1001'
     iata: ''
     coordinates: '4725N 01944E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'HU NYY'
+    name: Nagykökényes
+    namewodiacritics: Nagykokenyes
+    subdiv: HE
+    function: '--3-----'
+    status: AM
+    date: '2107'
+    iata: ''
+    coordinates: '4744N 01936E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'HU NGK'
+    name: Nagykölked
+    namewodiacritics: Nagykolked
+    subdiv: VA
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '4704N 01633E'
     remarks: ''
 -
     ch: ''
@@ -4152,6 +5436,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'HU NG2'
+    name: Nagymányok
+    namewodiacritics: Nagymanyok
+    subdiv: TO
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '4617N 01828E'
+    remarks: ''
+-
+    ch: ''
     locode: 'HU NGM'
     name: Nagymaros
     namewodiacritics: Nagymaros
@@ -4161,6 +5457,78 @@
     date: '1201'
     iata: ''
     coordinates: '4747N 01858E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'HU ZAN'
+    name: Nagypáli
+    namewodiacritics: Nagypali
+    subdiv: ZA
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '4655N 01651E'
+    remarks: ''
+-
+    ch: +
+    locode: 'HU NGL'
+    name: Nagypall
+    namewodiacritics: Nagypall
+    subdiv: BA
+    function: '--3-----'
+    status: AM
+    date: '2201'
+    iata: ''
+    coordinates: '4609N 01827E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'HU NHB'
+    name: Nagyrábé
+    namewodiacritics: Nagyrabe
+    subdiv: HB
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '4712N 02120E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'HU NZA'
+    name: Nagyrada
+    namewodiacritics: Nagyrada
+    subdiv: ZA
+    function: 1-3-----
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '4637N 01707E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'HU NAK'
+    name: Nagyrákos
+    namewodiacritics: Nagyrakos
+    subdiv: VA
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '4650N 01628E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'HU AEW'
+    name: Nagyrecse
+    namewodiacritics: Nagyrecse
+    subdiv: ZA
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '4629N 01700E'
     remarks: ''
 -
     ch: ''
@@ -4176,6 +5544,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'HU NSK'
+    name: Nagyszekeres
+    namewodiacritics: Nagyszekeres
+    subdiv: SZ
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4758N 02237E'
+    remarks: ''
+-
+    ch: ''
     locode: 'HU NSA'
     name: Nagytarcsa
     namewodiacritics: Nagytarcsa
@@ -4185,6 +5565,30 @@
     date: '1207'
     iata: ''
     coordinates: '4732N 01917E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'HU NVY'
+    name: Nagyvazsony
+    namewodiacritics: Nagyvazsony
+    subdiv: VE
+    function: '--3-----'
+    status: RL
+    date: '2001'
+    iata: ''
+    coordinates: '4700N 01742E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'HU N2G'
+    name: Nagyvenyim
+    namewodiacritics: Nagyvenyim
+    subdiv: DU
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '4658N 01851E'
     remarks: ''
 -
     ch: ''
@@ -4212,6 +5616,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'HU NVD'
+    name: Nemesvid
+    namewodiacritics: Nemesvid
+    subdiv: SO
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '4629N 01715E'
+    remarks: ''
+-
+    ch: ''
     locode: 'HU NSZ'
     name: Neszmély
     namewodiacritics: Neszmely
@@ -4221,6 +5637,42 @@
     date: '0607'
     iata: ''
     coordinates: '4743N 01821E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'HU NOG'
+    name: Nógrád
+    namewodiacritics: Nograd
+    subdiv: 'NO'
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '4755N 01903E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'HU NGP'
+    name: Nógrádsáp
+    namewodiacritics: Nogradsap
+    subdiv: 'NO'
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '4750N 01921E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'HU NZO'
+    name: Noszlop
+    namewodiacritics: Noszlop
+    subdiv: VE
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '4711N 01728E'
     remarks: ''
 -
     ch: ''
@@ -4308,6 +5760,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'HU NYA'
+    name: Nyíracsad
+    namewodiacritics: Nyiracsad
+    subdiv: HB
+    function: '--3-----'
+    status: RL
+    date: '2001'
+    iata: ''
+    coordinates: '4736N 02159E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'HU NYD'
+    name: Nyirád
+    namewodiacritics: Nyirad
+    subdiv: VE
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '4700N 01727E'
+    remarks: ''
+-
+    ch: ''
     locode: 'HU NDO'
     name: Nyiradony
     namewodiacritics: Nyiradony
@@ -4368,6 +5844,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'HU NYS'
+    name: Nyírlugos
+    namewodiacritics: Nyirlugos
+    subdiv: SZ
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '4742N 02203E'
+    remarks: ''
+-
+    ch: ''
     locode: 'HU STZ'
     name: Nyírmada
     namewodiacritics: Nyirmada
@@ -4380,6 +5868,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'HU NY7'
+    name: Nyirmeggyes
+    namewodiacritics: Nyirmeggyes
+    subdiv: SZ
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '4755N 02216E'
+    remarks: ''
+-
+    ch: ''
     locode: 'HU NHY'
     name: Nyírmihálydi
     namewodiacritics: Nyirmihalydi
@@ -4389,6 +5889,18 @@
     date: '0701'
     iata: ''
     coordinates: '4744N 02159E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'HU NTS'
+    name: Nyírtass
+    namewodiacritics: Nyirtass
+    subdiv: SZ
+    function: '--3-----'
+    status: RL
+    date: '1707'
+    iata: ''
+    coordinates: '4807N 02202E'
     remarks: ''
 -
     ch: ''
@@ -4428,6 +5940,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'HU OCD'
+    name: Ócsárd
+    namewodiacritics: Ocsard
+    subdiv: BA
+    function: '--3-----'
+    status: AM
+    date: '2101'
+    iata: ''
+    coordinates: '4556N 01809E'
+    remarks: ''
+-
+    ch: ''
     locode: 'HU OKY'
     name: Oerkeny
     namewodiacritics: Oerkeny
@@ -4452,6 +5976,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'HU OKF'
+    name: Ököritófülpös
+    namewodiacritics: Okoritofulpos
+    subdiv: SZ
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '4755N 02230E'
+    remarks: ''
+-
+    ch: ''
     locode: 'HU OLZ'
     name: Olasz
     namewodiacritics: Olasz
@@ -4461,6 +5997,18 @@
     date: '0901'
     iata: ''
     coordinates: '4601N 01825E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'HU OPU'
+    name: Opusztaszer
+    namewodiacritics: Opusztaszer
+    subdiv: CS
+    function: '--3-----'
+    status: AM
+    date: '2101'
+    iata: ''
+    coordinates: '4629N 02005E'
     remarks: ''
 -
     ch: ''
@@ -4488,6 +6036,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'HU OGV'
+    name: Orgovány
+    namewodiacritics: Orgovany
+    subdiv: BK
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '4644N 01928E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'HU ORK'
+    name: Örkény
+    namewodiacritics: Orkeny
+    subdiv: PE
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4708N 01926E'
+    remarks: ''
+-
+    ch: ''
     locode: 'HU ORS'
     name: Orosháza
     namewodiacritics: Oroshaza
@@ -4512,6 +6084,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'HU 5OS'
+    name: Ostffyasszonyfa
+    namewodiacritics: Ostffyasszonyfa
+    subdiv: VA
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '4719N 01703E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'HU HOT'
+    name: Ostoros
+    namewodiacritics: Ostoros
+    subdiv: HE
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '4752N 02026E'
+    remarks: ''
+-
+    ch: ''
     locode: 'HU OZD'
     name: Ózd
     namewodiacritics: Ozd
@@ -4524,6 +6120,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'HU PCS'
+    name: Pacsa
+    namewodiacritics: Pacsa
+    subdiv: ZA
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4643N 01701E'
+    remarks: ''
+-
+    ch: ''
     locode: 'HU PAH'
     name: Páhi
     namewodiacritics: Pahi
@@ -4533,6 +6141,18 @@
     date: '1301'
     iata: ''
     coordinates: '4642N 01923E'
+    remarks: ''
+-
+    ch: +
+    locode: 'HU PKA'
+    name: Paka
+    namewodiacritics: Paka
+    subdiv: ZA
+    function: '--3-----'
+    status: AM
+    date: '2201'
+    iata: ''
+    coordinates: '4635N 01639E'
     remarks: ''
 -
     ch: ''
@@ -4572,6 +6192,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'HU NPP'
+    name: Palotás
+    namewodiacritics: Palotas
+    subdiv: 'NO'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4747N 01935E'
+    remarks: ''
+-
+    ch: ''
     locode: 'HU PAN'
     name: Pánd
     namewodiacritics: Pand
@@ -4581,6 +6213,18 @@
     date: '1301'
     iata: ''
     coordinates: '4721N 01938E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'HU PNL'
+    name: Pannonhalma
+    namewodiacritics: Pannonhalma
+    subdiv: GS
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4733N 01745E'
     remarks: ''
 -
     ch: ''
@@ -4623,7 +6267,7 @@
     locode: 'HU PAS'
     name: Paszto
     namewodiacritics: Paszto
-    subdiv: NO
+    subdiv: 'NO'
     function: '--3-----'
     status: RQ
     date: '0907'
@@ -4635,7 +6279,7 @@
     locode: 'HU PAT'
     name: Patak
     namewodiacritics: Patak
-    subdiv: NO
+    subdiv: 'NO'
     function: '--3-----'
     status: RL
     date: '1207'
@@ -4692,6 +6336,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'HU PED'
+    name: Pécsvárad
+    namewodiacritics: Pecsvarad
+    subdiv: BA
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '4609N 01825W'
+    remarks: ''
+-
+    ch: ''
     locode: 'HU PGY'
     name: Peremarton-Gyártelep
     namewodiacritics: Peremarton-Gyartelep
@@ -4728,6 +6384,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'HU 4PS'
+    name: Petnehaza
+    namewodiacritics: Petnehaza
+    subdiv: SZ
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '4804N 02205E'
+    remarks: ''
+-
+    ch: ''
     locode: 'HU HAF'
     name: Petofibánya
     namewodiacritics: Petofibanya
@@ -4737,6 +6405,42 @@
     date: '0901'
     iata: ''
     coordinates: '4746N 01943E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'HU PFZ'
+    name: Petofiszállás
+    namewodiacritics: Petofiszallas
+    subdiv: BK
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '4637N 01950E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'HU PTU'
+    name: Petrikeresztúr
+    namewodiacritics: Petrikeresztur
+    subdiv: ZA
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '4644N 01644E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'HU PIS'
+    name: Pilis
+    namewodiacritics: Pilis
+    subdiv: PE
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '4717N 01933E'
     remarks: ''
 -
     ch: ''
@@ -4836,6 +6540,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'HU PPL'
+    name: Püspökladány
+    namewodiacritics: Puspokladany
+    subdiv: HB
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '4719N 02107E'
+    remarks: ''
+-
+    ch: ''
     locode: 'HU PUS'
     name: Püspökmolnári
     namewodiacritics: Puspokmolnari
@@ -4851,7 +6567,7 @@
     locode: 'HU PZB'
     name: Pusztaberki
     namewodiacritics: Pusztaberki
-    subdiv: NO
+    subdiv: 'NO'
     function: '--3-----'
     status: RL
     date: '1301'
@@ -4908,6 +6624,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'HU RCY'
+    name: Rábacsécsény
+    namewodiacritics: Rabacsecseny
+    subdiv: GS
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '4734N 01725E'
+    remarks: ''
+-
+    ch: ''
     locode: 'HU RAB'
     name: Rábafüzes
     namewodiacritics: Rabafuzes
@@ -4917,6 +6645,18 @@
     date: '0207'
     iata: ''
     coordinates: '4657N 01619E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'HU RBP'
+    name: Rábapatona
+    namewodiacritics: Rabapatona
+    subdiv: GS
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '4738N 01729E'
     remarks: ''
 -
     ch: ''
@@ -4980,6 +6720,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'HU ZZ3'
+    name: Ramocsahaza
+    namewodiacritics: Ramocsahaza
+    subdiv: SZ
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4803N 02200E'
+    remarks: ''
+-
+    ch: ''
     locode: 'HU RAT'
     name: Ratka
     namewodiacritics: Ratka
@@ -4989,6 +6741,18 @@
     date: '1207'
     iata: ''
     coordinates: '4813N 02114E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'HU RTO'
+    name: Ratot
+    namewodiacritics: Ratot
+    subdiv: VA
+    function: '-23-----'
+    status: AM
+    date: '2101'
+    iata: ''
+    coordinates: '4658N 01626E'
     remarks: ''
 -
     ch: ''
@@ -5124,6 +6888,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'HU SJL'
+    name: SAJOLAD
+    namewodiacritics: SAJOLAD
+    subdiv: BZ
+    function: '--3-----'
+    status: AM
+    date: '2101'
+    iata: ''
+    coordinates: '4803N 02054E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'HU SJP'
+    name: Sajópetri
+    namewodiacritics: Sajopetri
+    subdiv: BZ
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '4802N 02054E'
+    remarks: ''
+-
+    ch: ''
     locode: 'HU SAJ'
     name: Sajószentpéter
     namewodiacritics: Sajoszentpeter
@@ -5160,6 +6948,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'HU SLY'
+    name: Sály
+    namewodiacritics: Saly
+    subdiv: BZ
+    function: '--3-----'
+    status: RL
+    date: '2001'
+    iata: ''
+    coordinates: '4757N 02040E'
+    remarks: ''
+-
+    ch: ''
     locode: 'HU HBG'
     name: Santos
     namewodiacritics: Santos
@@ -5169,6 +6969,18 @@
     date: '0901'
     iata: ''
     coordinates: '4621N 01753E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'HU PSA'
+    name: Sáp
+    namewodiacritics: Sap
+    subdiv: HB
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '4715N 02122E'
     remarks: ''
 -
     ch: ''
@@ -5268,6 +7080,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'HU SAS'
+    name: Sásd
+    namewodiacritics: Sasd
+    subdiv: BA
+    function: '--3-----'
+    status: RL
+    date: '2001'
+    iata: ''
+    coordinates: '4615N 01807E'
+    remarks: ''
+-
+    ch: ''
     locode: 'HU SAT'
     name: Sátoraljaújhely
     namewodiacritics: Satoraljaujhely
@@ -5289,6 +7113,30 @@
     date: '0607'
     iata: ''
     coordinates: '4635N 01715E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'HU SGD'
+    name: Segesd
+    namewodiacritics: Segesd
+    subdiv: SO
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '4621N 01721E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'HU 9SE'
+    name: Sellye
+    namewodiacritics: Sellye
+    subdiv: BA
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '4552N 01750E'
     remarks: ''
 -
     ch: ''
@@ -5388,6 +7236,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'HU SLN'
+    name: Somlójeno
+    namewodiacritics: Somlojeno
+    subdiv: VE
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '4707N 01722E'
+    remarks: ''
+-
+    ch: ''
     locode: 'HU SHY'
     name: Somlovasarhely
     namewodiacritics: Somlovasarhely
@@ -5400,6 +7260,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'HU SMD'
+    name: Somogybabod
+    namewodiacritics: Somogybabod
+    subdiv: SO
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '4640N 01747E'
+    remarks: ''
+-
+    ch: ''
     locode: 'HU SOY'
     name: Somogycsicsó
     namewodiacritics: Somogycsicso
@@ -5409,6 +7281,18 @@
     date: '1301'
     iata: ''
     coordinates: '4618N 01707E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'HU SOG'
+    name: Somogyszentpal
+    namewodiacritics: Somogyszentpal
+    subdiv: SO
+    function: '--3-----'
+    status: RL
+    date: '2001'
+    iata: ''
+    coordinates: '4639N 01729E'
     remarks: ''
 -
     ch: ''
@@ -5484,6 +7368,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'HU SOR'
+    name: Söréd
+    namewodiacritics: Sored
+    subdiv: FE
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '4719N 01817E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'HU ZXQ'
+    name: Sormas
+    namewodiacritics: Sormas
+    subdiv: ZA
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '4627N 01655E'
+    remarks: ''
+-
+    ch: ''
     locode: 'HU KUT'
     name: Soskut
     namewodiacritics: Soskut
@@ -5529,6 +7437,18 @@
     date: '1301'
     iata: ''
     coordinates: '4659N 01717E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'HU SUT'
+    name: Sütto
+    namewodiacritics: Sutto
+    subdiv: KE
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '4745N 01827E'
     remarks: ''
 -
     ch: ''
@@ -5616,6 +7536,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'HU ZKR'
+    name: Szakmár
+    namewodiacritics: Szakmar
+    subdiv: BK
+    function: '--3-----'
+    status: RL
+    date: '2001'
+    iata: ''
+    coordinates: '4633N 01904E'
+    remarks: ''
+-
+    ch: ''
     locode: 'HU SZA'
     name: Szálanta
     namewodiacritics: Szalanta
@@ -5661,6 +7593,18 @@
     date: '1301'
     iata: ''
     coordinates: '4633N 01940E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'HU SNY'
+    name: Szany
+    namewodiacritics: Szany
+    subdiv: GS
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4728N 01718E'
     remarks: ''
 -
     ch: ''
@@ -5736,6 +7680,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'HU SAA'
+    name: Szava
+    namewodiacritics: Szava
+    subdiv: BA
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '4554N 01810E'
+    remarks: ''
+-
+    ch: ''
     locode: 'HU SZB'
     name: Százhalombatta
     namewodiacritics: Szazhalombatta
@@ -5757,6 +7713,18 @@
     date: '0601'
     iata: ''
     coordinates: '4805N 01932E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'HU SEY'
+    name: Szederkeny
+    namewodiacritics: Szederkeny
+    subdiv: BA
+    function: '-23-----'
+    status: AM
+    date: '2101'
+    iata: ''
+    coordinates: '4559N 01827E'
     remarks: ''
 -
     ch: ''
@@ -5844,6 +7812,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'HU NW7'
+    name: Szenna
+    namewodiacritics: Szenna
+    subdiv: SO
+    function: '--3-----'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '4618N 01744E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'HU STF'
+    name: Szentantalfa
+    namewodiacritics: Szentantalfa
+    subdiv: VE
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4655N 01741E'
+    remarks: ''
+-
+    ch: ''
     locode: 'HU SZD'
     name: Szentendre
     namewodiacritics: Szentendre
@@ -5901,6 +7893,18 @@
     date: '0507'
     iata: ''
     coordinates: '4731N 01945E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'HU 8SZ'
+    name: Szentmártonkáta
+    namewodiacritics: Szentmartonkata
+    subdiv: PE
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '4727N 01942E'
     remarks: ''
 -
     ch: ''
@@ -5976,6 +7980,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'HU GYY'
+    name: Szil
+    namewodiacritics: Szil
+    subdiv: GS
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '4730N 01714E'
+    remarks: ''
+-
+    ch: ''
     locode: 'HU SZO'
     name: Szob
     namewodiacritics: Szob
@@ -6021,6 +8037,18 @@
     date: '9501'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'HU MOL'
+    name: Szomolya
+    namewodiacritics: Szomolya
+    subdiv: BZ
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '4754N 02030E'
     remarks: ''
 -
     ch: ''
@@ -6084,6 +8112,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'HU TAC'
+    name: Tác
+    namewodiacritics: Tac
+    subdiv: FE
+    function: 1-------
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '4705N 01824E'
+    remarks: ''
+-
+    ch: ''
     locode: 'HU THT'
     name: Tahitotfalu
     namewodiacritics: Tahitotfalu
@@ -6093,6 +8133,18 @@
     date: '0901'
     iata: ''
     coordinates: '4745N 01906E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'HU TAK'
+    name: Takacsi
+    namewodiacritics: Takacsi
+    subdiv: VE
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '4724N 01729E'
     remarks: ''
 -
     ch: ''
@@ -6108,6 +8160,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'HU TAY'
+    name: Tállya
+    namewodiacritics: Tallya
+    subdiv: BZ
+    function: '--3-----'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '4814N 02114E'
+    remarks: ''
+-
+    ch: ''
     locode: 'HU TMS'
     name: Tamási
     namewodiacritics: Tamasi
@@ -6117,6 +8181,18 @@
     date: '0901'
     iata: ''
     coordinates: '4638N 01817E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'HU 5TP'
+    name: Tapioszecso
+    namewodiacritics: Tapioszecso
+    subdiv: PE
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '4727N 01936E'
     remarks: ''
 -
     ch: ''
@@ -6144,6 +8220,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'HU T5S'
+    name: Tápszentmiklós
+    namewodiacritics: Tapszentmiklos
+    subdiv: GS
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '4729N 01751E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'HU TRA'
+    name: Tarany
+    namewodiacritics: Tarany
+    subdiv: SO
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '4611N 01718E'
+    remarks: ''
+-
+    ch: ''
     locode: 'HU TRC'
     name: Tarcal
     namewodiacritics: Tarcal
@@ -6165,6 +8265,30 @@
     date: '1301'
     iata: ''
     coordinates: '4810N 02032E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'HU TRN'
+    name: Tarján
+    namewodiacritics: Tarjan
+    subdiv: KE
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '4737N 01831E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'HU TRD'
+    name: Tarnabod
+    namewodiacritics: Tarnabod
+    subdiv: HE
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '4741N 02013E'
     remarks: ''
 -
     ch: ''
@@ -6201,6 +8325,18 @@
     date: '1207'
     iata: ''
     coordinates: '4806N 02232E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'HU A5A'
+    name: Tass
+    namewodiacritics: Tass
+    subdiv: BK
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '4701N 01902E'
     remarks: ''
 -
     ch: ''
@@ -6288,6 +8424,42 @@
     remarks: ''
 -
     ch: ''
+    locode: 'HU TPS'
+    name: Terpes
+    namewodiacritics: Terpes
+    subdiv: HE
+    function: '--3-----'
+    status: AM
+    date: '2007'
+    iata: ''
+    coordinates: '4758N 02009E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'HU TKD'
+    name: Teskánd
+    namewodiacritics: Teskand
+    subdiv: ZA
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '4650N 01646E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'HU TET'
+    name: Tét
+    namewodiacritics: Tet
+    subdiv: GS
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '4731N 01730E'
+    remarks: ''
+-
+    ch: ''
     locode: 'HU TIM'
     name: Timár
     namewodiacritics: Timar
@@ -6312,6 +8484,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'HU TIA'
+    name: Tiszafoldvar
+    namewodiacritics: Tiszafoldvar
+    subdiv: JN
+    function: '--3-----'
+    status: AM
+    date: '2007'
+    iata: ''
+    coordinates: '4959N 02015E'
+    remarks: ''
+-
+    ch: ''
     locode: 'HU TFD'
     name: Tiszafüred
     namewodiacritics: Tiszafured
@@ -6321,18 +8505,6 @@
     date: '0901'
     iata: ''
     coordinates: '4737N 02046E'
-    remarks: ''
--
-    ch: +
-    locode: 'HU TIK'
-    name: Tiszakécske
-    namewodiacritics: Tiszakecske
-    subdiv: BK
-    function: '--3-----'
-    status: RL
-    date: '1307'
-    iata: ''
-    coordinates: '4655N 02005E'
     remarks: ''
 -
     ch: ''
@@ -6372,6 +8544,18 @@
     remarks: ''
 -
     ch: +
+    locode: 'HU TSZ'
+    name: Tiszaszalka
+    namewodiacritics: Tiszaszalka
+    subdiv: SZ
+    function: '--3-----'
+    status: AM
+    date: '2201'
+    iata: ''
+    coordinates: '4811N 02219E'
+    remarks: ''
+-
+    ch: ''
     locode: 'HU CCC'
     name: Tiszaszentmárton
     namewodiacritics: Tiszaszentmarton
@@ -6456,15 +8640,27 @@
     remarks: ''
 -
     ch: ''
+    locode: 'HU EED'
+    name: Tokodaltaro
+    namewodiacritics: Tokodaltaro
+    subdiv: FE
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4713N 01841E'
+    remarks: ''
+-
+    ch: ''
     locode: 'HU TKL'
     name: Tokol
     namewodiacritics: Tokol
     subdiv: PE
-    function: 1----6--
-    status: RQ
-    date: '1007'
+    function: '--3-----'
+    status: RL
+    date: '1707'
     iata: ''
-    coordinates: '4732N 18967E'
+    coordinates: '4719N 01858E'
     remarks: ''
 -
     ch: ''
@@ -6552,6 +8748,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'HU 4TS'
+    name: Tornyospalca
+    namewodiacritics: Tornyospalca
+    subdiv: SZ
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '4816N 02211E'
+    remarks: ''
+-
+    ch: ''
     locode: 'HU TKB'
     name: Törökbálint
     namewodiacritics: Torokbalint
@@ -6588,6 +8796,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'HU TO4'
+    name: Törtel
+    namewodiacritics: Tortel
+    subdiv: PE
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4707N 01956E'
+    remarks: ''
+-
+    ch: ''
     locode: 'HU TZG'
     name: Tószeg
     namewodiacritics: Toszeg
@@ -6621,6 +8841,18 @@
     date: '1107'
     iata: ''
     coordinates: '4736N 01935E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'HU 2AZ'
+    name: Türje
+    namewodiacritics: Turje
+    subdiv: ZA
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '4659N 01706E'
     remarks: ''
 -
     ch: ''
@@ -6696,6 +8928,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'HU PEU'
+    name: Ujlengyel
+    namewodiacritics: Ujlengyel
+    subdiv: PE
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '4713N 01927E'
+    remarks: ''
+-
+    ch: ''
     locode: 'HU UPS'
     name: Újpest
     namewodiacritics: Ujpest
@@ -6732,6 +8976,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'HU UJS'
+    name: Ujszentivan
+    namewodiacritics: Ujszentivan
+    subdiv: CS
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4611N 02011E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'HU UJZ'
+    name: Ujszilvas
+    namewodiacritics: Ujszilvas
+    subdiv: PE
+    function: '--3-----'
+    status: RL
+    date: '2001'
+    iata: ''
+    coordinates: '4717N 01956E'
+    remarks: ''
+-
+    ch: ''
     locode: 'HU ULS'
     name: Ulles
     namewodiacritics: Ulles
@@ -6756,15 +9024,15 @@
     remarks: ''
 -
     ch: ''
-    locode: 'HU HAK'
-    name: Urom
-    namewodiacritics: Urom
-    subdiv: PE
-    function: '-----6--'
+    locode: 'HU URA'
+    name: Uraiújfalu
+    namewodiacritics: Uraiujfalu
+    subdiv: VA
+    function: '--3-----'
     status: RL
-    date: '0901'
+    date: '1601'
     iata: ''
-    coordinates: '4736N 01901E'
+    coordinates: '4722N 01659E'
     remarks: ''
 -
     ch: ''
@@ -6772,9 +9040,9 @@
     name: Üröm
     namewodiacritics: Urom
     subdiv: PE
-    function: '-----6--'
-    status: RQ
-    date: '0907'
+    function: '--3-----'
+    status: RL
+    date: '1401'
     iata: ''
     coordinates: '4736N 01901E'
     remarks: ''
@@ -6837,6 +9105,18 @@
     date: '0401'
     iata: ''
     coordinates: '4712N 01808E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'HU VAS'
+    name: Vasad
+    namewodiacritics: Vasad
+    subdiv: PE
+    function: '--3-----'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '4719N 01924E'
     remarks: ''
 -
     ch: ''
@@ -6957,6 +9237,18 @@
     date: '0607'
     iata: ''
     coordinates: '4751N 02014E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'HU VTL'
+    name: Vértestolna
+    namewodiacritics: Vertestolna
+    subdiv: KE
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4738N 01827E'
     remarks: ''
 -
     ch: ''
@@ -7104,6 +9396,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'HU HZZ'
+    name: Zalalövo
+    namewodiacritics: Zalalovo
+    subdiv: ZA
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '4650N 01635E'
+    remarks: ''
+-
+    ch: ''
     locode: 'HU ZST'
     name: Zalaszentgrot
     namewodiacritics: Zalaszentgrot
@@ -7113,6 +9417,18 @@
     date: '0907'
     iata: ''
     coordinates: '4657N 01705E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'HU VEM'
+    name: Zánka
+    namewodiacritics: Zanka
+    subdiv: VE
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4653N 01741E'
     remarks: ''
 -
     ch: ''

@@ -35,17 +35,29 @@
     coordinates: '0357S 02937E'
     remarks: ''
 -
-    ch: ¦
+    ch: ''
+    locode: 'BI CKZ'
+    name: Cankuzo
+    namewodiacritics: Cankuzo
+    subdiv: CA
+    function: '--3-----'
+    status: RL
+    date: '1707'
+    iata: ''
+    coordinates: '0313S 03033E'
+    remarks: ''
+-
+    ch: ''
     locode: 'BI CBK'
     name: Cibitoke
     namewodiacritics: Cibitoke
-    subdiv: BJ
+    subdiv: BM
     function: 1-3-----
     status: RL
     date: '1307'
     iata: ''
     coordinates: '0320S 02922E'
-    remarks: '@Sub'
+    remarks: ''
 -
     ch: ''
     locode: 'BI GID'
@@ -57,6 +69,30 @@
     date: '9601'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'BI KKB'
+    name: Karuzi
+    namewodiacritics: Karuzi
+    subdiv: KR
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '0306S 03009E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BI KYZ'
+    name: Kayanza
+    namewodiacritics: Kayanza
+    subdiv: KY
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '0255S 02937E'
     remarks: ''
 -
     ch: ''
@@ -72,6 +108,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'BI MMB'
+    name: Makamba
+    namewodiacritics: Makamba
+    subdiv: MA
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '0408S 02948E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BI MUR'
+    name: Muramvya
+    namewodiacritics: Muramvya
+    subdiv: MU
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '0316S 02937E'
+    remarks: ''
+-
+    ch: ''
     locode: 'BI MYG'
     name: Muyinga
     namewodiacritics: Muyinga
@@ -84,6 +144,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'BI MWM'
+    name: Mwaro
+    namewodiacritics: Mwaro
+    subdiv: MU
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '0331S 02942E'
+    remarks: ''
+-
+    ch: ''
     locode: 'BI NGZ'
     name: Ngozi
     namewodiacritics: Ngozi
@@ -93,4 +165,40 @@
     date: '0501'
     iata: ''
     coordinates: '0254S 02949E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BI RUM'
+    name: Rumonge
+    namewodiacritics: Rumonge
+    subdiv: RM
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '0358S 02926E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BI RUT'
+    name: Rutana
+    namewodiacritics: Rutana
+    subdiv: RT
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '0355S 03000E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BI RUY'
+    name: Ruyigi
+    namewodiacritics: Ruyigi
+    subdiv: RY
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '0328S 03014E'
     remarks: ''

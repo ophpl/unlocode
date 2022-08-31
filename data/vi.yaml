@@ -1,5 +1,17 @@
 -
     ch: ''
+    locode: 'VI ON6'
+    name: Altona
+    namewodiacritics: Altona
+    subdiv: ''
+    function: '--3-----'
+    status: AA
+    date: '1601'
+    iata: ''
+    coordinates: '1820N 06456W'
+    remarks: ''
+-
+    ch: ''
     locode: 'VI AGL'
     name: Anguilla
     namewodiacritics: Anguilla
@@ -30,9 +42,9 @@
     subdiv: ''
     function: 1-------
     status: AI
-    date: '1101'
+    date: '1707'
     iata: ''
-    coordinates: ''
+    coordinates: '1745N 06445W'
     remarks: ''
 -
     ch: ''
@@ -81,6 +93,18 @@
     date: '9501'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'VI KIN'
+    name: Kingshill
+    namewodiacritics: Kingshill
+    subdiv: ''
+    function: '-----6--'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '1743N 06452W'
     remarks: ''
 -
     ch: ''

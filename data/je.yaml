@@ -1,5 +1,17 @@
 -
     ch: ''
+    locode: 'JE LAF'
+    name: 'La Fosse'
+    namewodiacritics: 'La Fosse'
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4910N 00210W'
+    remarks: ''
+-
+    ch: ''
     locode: 'JE SAB'
     name: 'Saint Aubin'
     namewodiacritics: 'Saint Aubin'
@@ -11,7 +23,7 @@
     coordinates: '4911N 00210W'
     remarks: ''
 -
-    ch: +
+    ch: ''
     locode: 'JE SCJ'
     name: 'Saint Clement'
     namewodiacritics: 'Saint Clement'
@@ -35,7 +47,7 @@
     coordinates: '4911N 00206W'
     remarks: 'ex GB STH'
 -
-    ch: +
+    ch: ''
     locode: 'JE SJN'
     name: 'Saint Johns'
     namewodiacritics: 'Saint Johns'
@@ -59,7 +71,7 @@
     coordinates: '4913N 00211W'
     remarks: ''
 -
-    ch: +
+    ch: ''
     locode: 'JE SSV'
     name: 'Saint Saviour'
     namewodiacritics: 'Saint Saviour'

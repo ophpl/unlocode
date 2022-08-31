@@ -12,6 +12,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'JM ANT'
+    name: 'Annotto Bay'
+    namewodiacritics: 'Annotto Bay'
+    subdiv: '05'
+    function: '--3-----'
+    status: AM
+    date: '2107'
+    iata: ''
+    coordinates: '1816N 07646W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'JM BMB'
+    name: Bamboo
+    namewodiacritics: Bamboo
+    subdiv: '09'
+    function: '--3-----'
+    status: AM
+    date: '2107'
+    iata: ''
+    coordinates: '1826N 07802W'
+    remarks: ''
+-
+    ch: ''
     locode: 'JM BLR'
     name: 'Black River'
     namewodiacritics: 'Black River'
@@ -21,6 +45,18 @@
     date: '8103'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'JM BOK'
+    name: 'Bog Walk'
+    namewodiacritics: 'Bog Walk'
+    subdiv: '14'
+    function: '--3-----'
+    status: AM
+    date: '2107'
+    iata: ''
+    coordinates: '1806N 07701W'
     remarks: ''
 -
     ch: ''
@@ -36,6 +72,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'JM BRN'
+    name: 'Browns Town'
+    namewodiacritics: 'Browns Town'
+    subdiv: '06'
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '1824N 07722W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'JM BSV'
+    name: 'Bull Savanna'
+    namewodiacritics: 'Bull Savanna'
+    subdiv: '11'
+    function: '--3-----'
+    status: AM
+    date: '2107'
+    iata: ''
+    coordinates: '1753N 07736W'
+    remarks: ''
+-
+    ch: ''
     locode: 'JM CST'
     name: 'Charles Town'
     namewodiacritics: 'Charles Town'
@@ -45,6 +105,18 @@
     date: '0901'
     iata: ''
     coordinates: '1813N 07640W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'JM CHA'
+    name: Christiana
+    namewodiacritics: Christiana
+    subdiv: '12'
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '1810N 07729W'
     remarks: ''
 -
     ch: ''
@@ -60,6 +132,54 @@
     remarks: ''
 -
     ch: ''
+    locode: 'JM DLT'
+    name: Darliston
+    namewodiacritics: Darliston
+    subdiv: '10'
+    function: '--3-----'
+    status: AM
+    date: '2107'
+    iata: ''
+    coordinates: '1814N 07758W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'JM DIY'
+    name: 'Discovery Bay'
+    namewodiacritics: 'Discovery Bay'
+    subdiv: '06'
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '1828N 07724W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'JM EWN'
+    name: Ewarton
+    namewodiacritics: Ewarton
+    subdiv: '14'
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '1811N 07705W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'JM FHP'
+    name: 'Fairy Hill'
+    namewodiacritics: 'Fairy Hill'
+    subdiv: '04'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '1809N 07637W'
+    remarks: ''
+-
+    ch: ''
     locode: 'JM FMH'
     name: Falmouth
     namewodiacritics: Falmouth
@@ -69,6 +189,30 @@
     date: '8103'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'JM FRF'
+    name: Frankfield
+    namewodiacritics: Frankfield
+    subdiv: '13'
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '1809N 07722W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'JM HAL'
+    name: 'Halse Hall'
+    namewodiacritics: 'Halse Hall'
+    subdiv: '13'
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '1755N 07715W'
     remarks: ''
 -
     ch: ''
@@ -84,6 +228,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'JM HIE'
+    name: Highgate
+    namewodiacritics: Highgate
+    subdiv: '05'
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '1816N 07653W'
+    remarks: ''
+-
+    ch: ''
     locode: 'JM KIN'
     name: Kingston
     namewodiacritics: Kingston
@@ -93,6 +249,42 @@
     date: '9601'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'JM KTP'
+    name: 'Kingston Tinson Airport'
+    namewodiacritics: 'Kingston Tinson Airport'
+    subdiv: '01'
+    function: '---4----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '1801N 07649W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'JM KNK'
+    name: Knockpatrick
+    namewodiacritics: Knockpatrick
+    subdiv: '12'
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '1800N 07731W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'JM LID'
+    name: Linstead
+    namewodiacritics: Linstead
+    subdiv: '14'
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '1808N 07702W'
     remarks: ''
 -
     ch: ''
@@ -120,6 +312,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'JM MGT'
+    name: Maggotty
+    namewodiacritics: Maggotty
+    subdiv: '11'
+    function: '--3-----'
+    status: AM
+    date: '2107'
+    iata: ''
+    coordinates: '1809N 07746W'
+    remarks: ''
+-
+    ch: ''
     locode: 'JM MVJ'
     name: Mandeville
     namewodiacritics: Mandeville
@@ -132,6 +336,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'JM MPE'
+    name: 'May Pen'
+    namewodiacritics: 'May Pen'
+    subdiv: '13'
+    function: '--3-----'
+    status: AM
+    date: '2107'
+    iata: ''
+    coordinates: '1758N 07714W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'JM MNG'
+    name: Moneague
+    namewodiacritics: Moneague
+    subdiv: '06'
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '1816N 07707W'
+    remarks: ''
+-
+    ch: ''
     locode: 'JM MBJ'
     name: 'Montego Bay'
     namewodiacritics: 'Montego Bay'
@@ -141,6 +369,30 @@
     date: '9601'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'JM 8MM'
+    name: Monymusk
+    namewodiacritics: Monymusk
+    subdiv: '13'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '1749N 07713W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'JM MOB'
+    name: 'Morant Bay'
+    namewodiacritics: 'Morant Bay'
+    subdiv: '03'
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '1753N 07625W'
     remarks: ''
 -
     ch: ''
@@ -180,6 +432,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'JM NET'
+    name: Newport
+    namewodiacritics: Newport
+    subdiv: '12'
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '1758N 07730W'
+    remarks: ''
+-
+    ch: ''
     locode: 'JM OCJ'
     name: 'Ocho Rios'
     namewodiacritics: 'Ocho Rios'
@@ -189,6 +453,18 @@
     date: '9601'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'JM OLR'
+    name: 'Old Harbour'
+    namewodiacritics: 'Old Harbour'
+    subdiv: '14'
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '1756N 07707W'
     remarks: ''
 -
     ch: ''
@@ -252,6 +528,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'JM POA'
+    name: 'Port Maria'
+    namewodiacritics: 'Port Maria'
+    subdiv: '05'
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '1822N 07654W'
+    remarks: ''
+-
+    ch: ''
     locode: 'JM PMO'
     name: 'Port Morant'
     namewodiacritics: 'Port Morant'
@@ -285,6 +573,18 @@
     date: '8103'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'JM PTM'
+    name: Portmore
+    namewodiacritics: Portmore
+    subdiv: '14'
+    function: '--3-----'
+    status: AM
+    date: '2107'
+    iata: ''
+    coordinates: '1758N 07652W'
     remarks: ''
 -
     ch: ''
@@ -396,6 +696,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'JM STC'
+    name: 'Santa Cruz'
+    namewodiacritics: 'Santa Cruz'
+    subdiv: '11'
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '1803N 07742W'
+    remarks: ''
+-
+    ch: ''
     locode: 'JM SLM'
     name: Savanna-la-Mar
     namewodiacritics: Savanna-la-Mar
@@ -405,6 +717,18 @@
     date: '0212'
     iata: ''
     coordinates: '1813N 07808W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'JM SED'
+    name: 'Serge Island'
+    namewodiacritics: 'Serge Island'
+    subdiv: '03'
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '1757N 07629W'
     remarks: ''
 -
     ch: ''
@@ -431,7 +755,7 @@
     coordinates: '1823N 07738W'
     remarks: ''
 -
-    ch: +
+    ch: ''
     locode: 'JM VIN'
     name: Vineyard
     namewodiacritics: Vineyard
@@ -465,4 +789,16 @@
     date: '1207'
     iata: ''
     coordinates: '1809N 07709W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'JM YAS'
+    name: Yallahs
+    namewodiacritics: Yallahs
+    subdiv: '03'
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '1752N 07634W'
     remarks: ''

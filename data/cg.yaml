@@ -339,12 +339,12 @@
     locode: 'CG PNR'
     name: 'Pointe Noire'
     namewodiacritics: 'Pointe Noire'
-    subdiv: ''
+    subdiv: '16'
     function: 1--45---
     status: AI
-    date: '9601'
+    date: '1601'
     iata: ''
-    coordinates: ''
+    coordinates: '0448S 01151E'
     remarks: ''
 -
     ch: ''
@@ -369,6 +369,18 @@
     date: '0212'
     iata: ''
     coordinates: '0205N 01408E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CG YOM'
+    name: Yombo
+    namewodiacritics: Yombo
+    subdiv: '9'
+    function: 1-------
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '0256S 01242E'
     remarks: ''
 -
     ch: ''

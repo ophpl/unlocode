@@ -72,6 +72,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'UG MKN'
+    name: Galiraya
+    namewodiacritics: Galiraya
+    subdiv: '108'
+    function: 1-------
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '0118N 03252E'
+    remarks: ''
+-
+    ch: ''
     locode: 'UG ULU'
     name: Gulu
     namewodiacritics: Gulu
@@ -131,7 +143,7 @@
     coordinates: ''
     remarks: ''
 -
-    ch: +
+    ch: ''
     locode: 'UG KMU'
     name: Kamuli
     namewodiacritics: Kamuli
@@ -153,6 +165,18 @@
     date: '9501'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'UG KIS'
+    name: Kisubi
+    namewodiacritics: Kisubi
+    subdiv: '106'
+    function: '--3-5---'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '0007N 03231E'
     remarks: ''
 -
     ch: ''
@@ -240,6 +264,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'UG 4MM'
+    name: Manafwa
+    namewodiacritics: Manafwa
+    subdiv: '221'
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '0101N 03421E'
+    remarks: ''
+-
+    ch: ''
     locode: 'UG MSK'
     name: Masaka
     namewodiacritics: Masaka
@@ -288,6 +324,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'UG MRT'
+    name: Moroto
+    namewodiacritics: Moroto
+    subdiv: '308'
+    function: '-----6--'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '0229N 03440E'
+    remarks: ''
+-
+    ch: ''
     locode: 'UG OYG'
     name: Moyo
     namewodiacritics: Moyo
@@ -300,6 +348,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'UG MPW'
+    name: Mpondwe
+    namewodiacritics: Mpondwe
+    subdiv: '406'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '0054N 02945E'
+    remarks: ''
+-
+    ch: ''
     locode: 'UG MUB'
     name: Mubende
     namewodiacritics: Mubende
@@ -309,6 +369,42 @@
     date: '9601'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'UG MUK'
+    name: Mukono
+    namewodiacritics: Mukono
+    subdiv: '108'
+    function: '-23-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '0021N 03245E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'UG NKU'
+    name: Nkumba
+    namewodiacritics: Nkumba
+    subdiv: '106'
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '0050N 03230E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'UG PB2'
+    name: Pabbo
+    namewodiacritics: Pabbo
+    subdiv: '319'
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '0300N 03208E'
     remarks: ''
 -
     ch: ''
@@ -333,6 +429,18 @@
     date: '0001'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'UG RAK'
+    name: Rakai
+    namewodiacritics: Rakai
+    subdiv: '110'
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '0043S 03129E'
     remarks: ''
 -
     ch: ''

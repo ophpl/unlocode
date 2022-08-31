@@ -12,6 +12,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'BB G5B'
+    name: Brighton
+    namewodiacritics: Brighton
+    subdiv: '10'
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '1307N 05931W'
+    remarks: ''
+-
+    ch: ''
     locode: 'BB CCH'
     name: 'Christ Church'
     namewodiacritics: 'Christ Church'
@@ -21,6 +33,54 @@
     date: '1301'
     iata: ''
     coordinates: '1305N 05932W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BB H9G'
+    name: 'Edge Hill'
+    namewodiacritics: 'Edge Hill'
+    subdiv: '08'
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '1309N 05936W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BB HLT'
+    name: Holetown
+    namewodiacritics: Holetown
+    subdiv: '04'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '1311N 05938W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BB JCK'
+    name: Jackson
+    namewodiacritics: Jackson
+    subdiv: '08'
+    function: '-----6--'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '1309N 05936W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BB NES'
+    name: Nesfield
+    namewodiacritics: Nesfield
+    subdiv: '07'
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '1317N 05937W'
     remarks: ''
 -
     ch: ''
@@ -47,7 +107,7 @@
     coordinates: '1307N 05936W'
     remarks: ''
 -
-    ch: +
+    ch: ''
     locode: 'BB SPR'
     name: 'Saint Peter'
     namewodiacritics: 'Saint Peter'

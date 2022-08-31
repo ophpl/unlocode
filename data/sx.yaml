@@ -1,5 +1,17 @@
 -
     ch: ''
+    locode: 'SX CAB'
+    name: 'Cay Bay'
+    namewodiacritics: 'Cay Bay'
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '1801N 06304W'
+    remarks: ''
+-
+    ch: ''
     locode: 'SX GES'
     name: 'Gallis Bay'
     namewodiacritics: 'Gallis Bay'
@@ -35,7 +47,7 @@
     coordinates: '1801N 06302W'
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'SX SXM'
     name: 'Sint-Maarten Apt'
     namewodiacritics: 'Sint-Maarten Apt'
@@ -45,4 +57,4 @@
     date: '1307'
     iata: ''
     coordinates: '1803N 06307W'
-    remarks: '@Fun'
+    remarks: ''

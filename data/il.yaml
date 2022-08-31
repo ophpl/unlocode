@@ -1,5 +1,17 @@
 -
     ch: ''
+    locode: 'IL ABU'
+    name: 'Abu Ghosh'
+    namewodiacritics: 'Abu Ghosh'
+    subdiv: JM
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3148N 03506E'
+    remarks: ''
+-
+    ch: ''
     locode: 'IL ACR'
     name: Acre
     namewodiacritics: Acre
@@ -21,6 +33,18 @@
     date: '9803'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'IL ADI'
+    name: Adanim
+    namewodiacritics: Adanim
+    subdiv: M
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '3208N 03454E'
     remarks: ''
 -
     ch: ''
@@ -60,6 +84,66 @@
     remarks: ''
 -
     ch: ''
+    locode: 'IL AHG'
+    name: 'Alon Hagalil'
+    namewodiacritics: 'Alon Hagalil'
+    subdiv: Z
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3245N 03513E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IL ABB'
+    name: 'Alonei Abba'
+    namewodiacritics: 'Alonei Abba'
+    subdiv: Z
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3243N 03510E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IL AIM'
+    name: Alonim
+    namewodiacritics: Alonim
+    subdiv: Z
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3243N 03508E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IL ALU'
+    name: Alumot
+    namewodiacritics: Alumot
+    subdiv: Z
+    function: '--3-----'
+    status: RQ
+    date: '1601'
+    iata: ''
+    coordinates: '3242N 03532E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IL AMD'
+    name: 'Ami''Ad'
+    namewodiacritics: 'Ami''Ad'
+    subdiv: Z
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3255N 03532E'
+    remarks: ''
+-
+    ch: ''
     locode: 'IL AMI'
     name: Amir
     namewodiacritics: Amir
@@ -69,6 +153,30 @@
     date: '0901'
     iata: ''
     coordinates: '3311N 03538E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IL AMR'
+    name: Amirim
+    namewodiacritics: Amirim
+    subdiv: Z
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3256N 03527E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IL AMM'
+    name: Amminadav
+    namewodiacritics: Amminadav
+    subdiv: JM
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3145N 03508E'
     remarks: ''
 -
     ch: ''
@@ -108,15 +216,39 @@
     remarks: ''
 -
     ch: ''
+    locode: 'IL ARB'
+    name: Arbel
+    namewodiacritics: Arbel
+    subdiv: Z
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3248N 03529E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IL ASU'
+    name: Arsuf
+    namewodiacritics: Arsuf
+    subdiv: TA
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3211N 03448E'
+    remarks: ''
+-
+    ch: ''
     locode: 'IL ASA'
     name: Ashalim
     namewodiacritics: Ashalim
-    subdiv: ''
+    subdiv: D
     function: '--3-----'
-    status: RQ
-    date: '1001'
+    status: RL
+    date: '1707'
     iata: ''
-    coordinates: '3057N 34421E'
+    coordinates: '3057N 03442E'
     remarks: ''
 -
     ch: ''
@@ -165,6 +297,42 @@
     date: '1301'
     iata: ''
     coordinates: '3149N 03439E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IL ASF'
+    name: 'Ashdod Fridenson'
+    namewodiacritics: 'Ashdod Fridenson'
+    subdiv: D
+    function: '-----6--'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3149N 03439E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IL ASM'
+    name: 'Ashdod Granaries'
+    namewodiacritics: 'Ashdod Granaries'
+    subdiv: D
+    function: '-----6--'
+    status: AC
+    date: '1601'
+    iata: ''
+    coordinates: '3149N 03439E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IL ASL'
+    name: 'Ashdod Logisticare'
+    namewodiacritics: 'Ashdod Logisticare'
+    subdiv: D
+    function: '-----6--'
+    status: AC
+    date: '1701'
+    iata: ''
+    coordinates: '3148N 03439E'
     remarks: ''
 -
     ch: ''
@@ -228,6 +396,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'IL MRA'
+    name: 'Ashdod Rail Terminal'
+    namewodiacritics: 'Ashdod Rail Terminal'
+    subdiv: D
+    function: '-2------'
+    status: AC
+    date: '1601'
+    iata: ''
+    coordinates: '3149N 03439E'
+    remarks: ''
+-
+    ch: +
+    locode: 'IL AST'
+    name: 'Ashdod Southport'
+    namewodiacritics: 'Ashdod Southport'
+    subdiv: D
+    function: 1-------
+    status: AA
+    date: '2201'
+    iata: ''
+    coordinates: '3149N 03439E'
+    remarks: ''
+-
+    ch: ''
     locode: 'IL MTS'
     name: 'Ashdod Terminal 207'
     namewodiacritics: 'Ashdod Terminal 207'
@@ -237,6 +429,18 @@
     date: '1301'
     iata: ''
     coordinates: '3149N 03439E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IL AYL'
+    name: 'Ashdot Ya''Akov Ihud'
+    namewodiacritics: 'Ashdot Ya''Akov Ihud'
+    subdiv: Z
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3239N 03534E'
     remarks: ''
 -
     ch: ''
@@ -252,6 +456,78 @@
     remarks: ''
 -
     ch: ''
+    locode: 'IL ATT'
+    name: Atlit
+    namewodiacritics: Atlit
+    subdiv: HA
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3241N 03456E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IL AVG'
+    name: Avigdor
+    namewodiacritics: Avigdor
+    subdiv: D
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3142N 03444E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IL AVI'
+    name: Avihayil
+    namewodiacritics: Avihayil
+    subdiv: M
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3221N 03452E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IL ALV'
+    name: 'Ayalon Valley'
+    namewodiacritics: 'Ayalon Valley'
+    subdiv: JM
+    function: '-23-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '3150N 03501E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IL AYA'
+    name: Ayanot
+    namewodiacritics: Ayanot
+    subdiv: TA
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3154N 03446E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IL AZO'
+    name: Azor
+    namewodiacritics: Azor
+    subdiv: TA
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3201N 03448E'
+    remarks: ''
+-
+    ch: ''
     locode: 'IL BHN'
     name: Bahan
     namewodiacritics: Bahan
@@ -261,6 +537,18 @@
     date: '1101'
     iata: ''
     coordinates: '3221N 03501E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IL BAG'
+    name: 'Baqa Al-Gharbiyye'
+    namewodiacritics: 'Baqa Al-Gharbiyye'
+    subdiv: HA
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3225N 03502E'
     remarks: ''
 -
     ch: ''
@@ -285,6 +573,30 @@
     date: '1201'
     iata: ''
     coordinates: '3206N 03507E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IL BHE'
+    name: 'Bat Hefer'
+    namewodiacritics: 'Bat Hefer'
+    subdiv: M
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3219N 03500E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IL BSH'
+    name: 'Bat Shlomo'
+    namewodiacritics: 'Bat Shlomo'
+    subdiv: HA
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3235N 03501E'
     remarks: ''
 -
     ch: ''
@@ -336,6 +648,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'IL BER'
+    name: 'Be''Eri'
+    namewodiacritics: 'Be''Eri'
+    subdiv: D
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3125N 03429E'
+    remarks: ''
+-
+    ch: ''
     locode: 'IL BEY'
     name: 'Be''erot Yitzhak'
     namewodiacritics: 'Be''erot Yitzhak'
@@ -345,6 +669,30 @@
     date: '0901'
     iata: ''
     coordinates: '3203N 03455E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IL BVQ'
+    name: Beer-Tuvia
+    namewodiacritics: Beer-Tuvia
+    subdiv: D
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '3146N 03443E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IL BBE'
+    name: 'Beit Berl'
+    namewodiacritics: 'Beit Berl'
+    subdiv: M
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3211N 03455E'
     remarks: ''
 -
     ch: ''
@@ -359,16 +707,40 @@
     coordinates: ''
     remarks: ''
 -
-    ch: X
-    locode: 'IL BJA'
-    name: 'Beit Jala'
-    namewodiacritics: 'Beit Jala'
-    subdiv: ''
-    function: '-----6--'
-    status: XX
-    date: '1307'
+    ch: ''
+    locode: 'IL BHA'
+    name: 'Beit Hashmonay'
+    namewodiacritics: 'Beit Hashmonay'
+    subdiv: M
+    function: '--3-----'
+    status: RL
+    date: '1601'
     iata: ''
-    coordinates: '3142N 03511E'
+    coordinates: '3153N 03454E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IL HIL'
+    name: 'Beit Hillel'
+    namewodiacritics: 'Beit Hillel'
+    subdiv: Z
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3312N 03536E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IL BJN'
+    name: 'Beit Jann'
+    namewodiacritics: 'Beit Jann'
+    subdiv: Z
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3257N 03522E'
     remarks: ''
 -
     ch: ''
@@ -381,6 +753,18 @@
     date: '0901'
     iata: ''
     coordinates: '3127N 03446E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IL BE8'
+    name: 'Beit Nehemia'
+    namewodiacritics: 'Beit Nehemia'
+    subdiv: TA
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '3158N 03457E'
     remarks: ''
 -
     ch: ''
@@ -408,6 +792,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'IL BSR'
+    name: 'Beit Shean Rail Terminal'
+    namewodiacritics: 'Beit Shean Rail Terminal'
+    subdiv: Z
+    function: '-----6--'
+    status: AC
+    date: '1701'
+    iata: ''
+    coordinates: '3230N 03530E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IL BYA'
+    name: 'Beit Yanai'
+    namewodiacritics: 'Beit Yanai'
+    subdiv: M
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3222N 03451E'
+    remarks: ''
+-
+    ch: ''
     locode: 'IL BTZ'
     name: 'Beit Zera'
     namewodiacritics: 'Beit Zera'
@@ -429,6 +837,18 @@
     date: '0901'
     iata: TLV
     coordinates: '3201N 03453E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IL BEN'
+    name: 'Ben Shemen'
+    namewodiacritics: 'Ben Shemen'
+    subdiv: M
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3157N 03454E'
     remarks: ''
 -
     ch: ''
@@ -468,6 +888,54 @@
     remarks: ''
 -
     ch: ''
+    locode: 'IL BEH'
+    name: 'Bet Hanan'
+    namewodiacritics: 'Bet Hanan'
+    subdiv: M
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3156N 03446E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IL BNY'
+    name: 'Bet Hananya'
+    namewodiacritics: 'Bet Hananya'
+    subdiv: HA
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3232N 03455E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IL BTH'
+    name: 'Bet Lehem Hagelilit'
+    namewodiacritics: 'Bet Lehem Hagelilit'
+    subdiv: Z
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3244N 03511E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IL BOR'
+    name: 'Bet Oren'
+    namewodiacritics: 'Bet Oren'
+    subdiv: HA
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3243N 03500E'
+    remarks: ''
+-
+    ch: ''
     locode: 'IL BET'
     name: 'Bet She''an'
     namewodiacritics: 'Bet She''an'
@@ -483,12 +951,24 @@
     locode: 'IL BSE'
     name: 'Bet Shemesh'
     namewodiacritics: 'Bet Shemesh'
-    subdiv: ''
+    subdiv: JM
     function: '--3-----'
     status: RL
-    date: '0201'
+    date: '1707'
     iata: ''
     coordinates: '3144N 03459E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IL BYE'
+    name: 'Bet Yehoshua'
+    namewodiacritics: 'Bet Yehoshua'
+    subdiv: M
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3215N 03451E'
     remarks: ''
 -
     ch: ''
@@ -501,6 +981,18 @@
     date: '0701'
     iata: ''
     coordinates: '3146N 03510E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IL BZT'
+    name: Betzet
+    namewodiacritics: Betzet
+    subdiv: Z
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3304N 03508E'
     remarks: ''
 -
     ch: ''
@@ -528,6 +1020,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'IL BNA'
+    name: 'Bnei Atarot'
+    namewodiacritics: 'Bnei Atarot'
+    subdiv: M
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3201N 03454E'
+    remarks: ''
+-
+    ch: ''
     locode: 'IL BNE'
     name: 'Bnei Ayish'
     namewodiacritics: 'Bnei Ayish'
@@ -537,6 +1041,18 @@
     date: '0901'
     iata: ''
     coordinates: '3147N 03446E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IL BBR'
+    name: 'Bnei Brak'
+    namewodiacritics: 'Bnei Brak'
+    subdiv: TA
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3205N 03450E'
     remarks: ''
 -
     ch: ''
@@ -552,6 +1068,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'IL BDR'
+    name: 'Bnei Dror'
+    namewodiacritics: 'Bnei Dror'
+    subdiv: M
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3215N 03454E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IL BRE'
+    name: 'Bnei Reem'
+    namewodiacritics: 'Bnei Reem'
+    subdiv: D
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3146N 03447E'
+    remarks: ''
+-
+    ch: ''
     locode: 'IL CAE'
     name: Caesarea
     namewodiacritics: Caesarea
@@ -564,6 +1104,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'IL DFN'
+    name: Dafna
+    namewodiacritics: Dafna
+    subdiv: Z
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3313N 03538E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IL DAK'
+    name: 'Daliyat Al Karmel'
+    namewodiacritics: 'Daliyat Al Karmel'
+    subdiv: HA
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3241N 03502E'
+    remarks: ''
+-
+    ch: ''
     locode: 'IL DIY'
     name: Daliyya
     namewodiacritics: Daliyya
@@ -573,6 +1137,42 @@
     date: '1201'
     iata: ''
     coordinates: '3235N 03504E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IL DAN'
+    name: Dan
+    namewodiacritics: Dan
+    subdiv: Z
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3314N 03539E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IL DEG'
+    name: Degania
+    namewodiacritics: Degania
+    subdiv: Z
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3242N 03534E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IL DVI'
+    name: Devira
+    namewodiacritics: Devira
+    subdiv: D
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '3125N 03450E'
     remarks: ''
 -
     ch: ''
@@ -612,6 +1212,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'IL EIG'
+    name: 'Ein Gedi'
+    namewodiacritics: 'Ein Gedi'
+    subdiv: D
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3127N 03522E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IL ENS'
+    name: 'Ein Shemer'
+    namewodiacritics: 'Ein Shemer'
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3227N 03500E'
+    remarks: ''
+-
+    ch: ''
     locode: 'IL EIN'
     name: 'Ein Tzurim'
     namewodiacritics: 'Ein Tzurim'
@@ -647,16 +1271,16 @@
     coordinates: ''
     remarks: ''
 -
-    ch: X
-    locode: 'IL ELK'
-    name: Elkana
-    namewodiacritics: Elkana
+    ch: ''
+    locode: 'IL 2LL'
+    name: Eliad
+    namewodiacritics: Eliad
     subdiv: ''
     function: '--3-----'
-    status: XX
-    date: '1307'
+    status: RL
+    date: '1601'
     iata: ''
-    coordinates: '3207N 03502E'
+    coordinates: '3248N 03544E'
     remarks: ''
 -
     ch: ''
@@ -669,6 +1293,66 @@
     date: '1201'
     iata: ''
     coordinates: '3224N 03453E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IL EMU'
+    name: Emunim
+    namewodiacritics: Emunim
+    subdiv: D
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3145N 03440E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IL ENH'
+    name: 'En Harod Ihud'
+    namewodiacritics: 'En Harod Ihud'
+    subdiv: Z
+    function: '--3-----'
+    status: AM
+    date: '2107'
+    iata: ''
+    coordinates: '3234N 03523E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IL EHA'
+    name: 'Eshel Hanasi'
+    namewodiacritics: 'Eshel Hanasi'
+    subdiv: D
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3120N 03442E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IL OST'
+    name: 'Eshta''ol'
+    namewodiacritics: 'Eshta''ol'
+    subdiv: JM
+    function: '--3-----'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '3147N 03500E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IL EVS'
+    name: 'Even Shmuel'
+    namewodiacritics: 'Even Shmuel'
+    subdiv: D
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3134N 03445E'
     remarks: ''
 -
     ch: ''
@@ -696,6 +1380,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'IL GNE'
+    name: 'Gan Ner'
+    namewodiacritics: 'Gan Ner'
+    subdiv: Z
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3231N 03520E'
+    remarks: ''
+-
+    ch: ''
     locode: 'IL SHM'
     name: 'Gan Shmuel'
     namewodiacritics: 'Gan Shmuel'
@@ -705,6 +1401,18 @@
     date: '0901'
     iata: ''
     coordinates: '3227N 03457E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IL GSO'
+    name: 'Gan Sorek'
+    namewodiacritics: 'Gan Sorek'
+    subdiv: M
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3156N 03445E'
     remarks: ''
 -
     ch: ''
@@ -732,6 +1440,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'IL GAT'
+    name: 'Gat Rimmon'
+    namewodiacritics: 'Gat Rimmon'
+    subdiv: M
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3204N 03452E'
+    remarks: ''
+-
+    ch: ''
     locode: 'IL GDA'
     name: Gedera
     namewodiacritics: Gedera
@@ -753,6 +1473,30 @@
     date: '0901'
     iata: ''
     coordinates: '3145N 03453E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IL GEZ'
+    name: Gezer
+    namewodiacritics: Gezer
+    subdiv: M
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3152N 03455E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IL GIN'
+    name: Ginaton
+    namewodiacritics: Ginaton
+    subdiv: M
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3157N 03454E'
     remarks: ''
 -
     ch: ''
@@ -780,6 +1524,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'IL GIV'
+    name: 'Givat Hashloshah'
+    namewodiacritics: 'Givat Hashloshah'
+    subdiv: M
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3205N 03455E'
+    remarks: ''
+-
+    ch: ''
     locode: 'IL GKT'
     name: 'Giv''at Koah'
     namewodiacritics: 'Giv''at Koah'
@@ -791,17 +1547,89 @@
     coordinates: '3201N 03456E'
     remarks: ''
 -
-    ch: X
-    locode: 'IL GHK'
-    name: 'Gush Katif'
-    namewodiacritics: 'Gush Katif'
-    subdiv: ''
-    function: '---4----'
-    status: XX
-    date: '1307'
+    ch: ''
+    locode: 'IL GVS'
+    name: 'Giv''at Shmuel'
+    namewodiacritics: 'Giv''at Shmuel'
+    subdiv: M
+    function: '--3-----'
+    status: RL
+    date: '1607'
     iata: ''
-    coordinates: ''
-    remarks: 'Location closed'
+    coordinates: '3204N 03450E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IL GSC'
+    name: 'Giv''at Shmuel'
+    namewodiacritics: 'Giv''at Shmuel'
+    subdiv: TA
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3204N 03450E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IL GLI'
+    name: 'Glil Yam'
+    namewodiacritics: 'Glil Yam'
+    subdiv: TA
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3209N 03449E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IL GRO'
+    name: Grofit
+    namewodiacritics: Grofit
+    subdiv: D
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '2956N 03504E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IL 8UH'
+    name: 'Gush Halav'
+    namewodiacritics: 'Gush Halav'
+    subdiv: Z
+    function: 1-3-----
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '3310N 03526E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IL HAO'
+    name: 'Ha Ogen'
+    namewodiacritics: 'Ha Ogen'
+    subdiv: M
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3222N 03455E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IL HAB'
+    name: Habonim
+    namewodiacritics: Habonim
+    subdiv: HA
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3238N 03456E'
+    remarks: ''
 -
     ch: ''
     locode: 'IL HDR'
@@ -828,15 +1656,51 @@
     remarks: ''
 -
     ch: ''
+    locode: 'IL HDD'
+    name: Hadid
+    namewodiacritics: Hadid
+    subdiv: M
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3158N 03456E'
+    remarks: ''
+-
+    ch: ''
     locode: 'IL HFA'
     name: Haifa
     namewodiacritics: Haifa
-    subdiv: ''
+    subdiv: HA
     function: 1--45---
     status: AI
-    date: '9601'
+    date: '1601'
     iata: ''
-    coordinates: ''
+    coordinates: '3248N 03459E'
+    remarks: ''
+-
+    ch: +
+    locode: 'IL HBT'
+    name: 'Haifa Bayport'
+    namewodiacritics: 'Haifa Bayport'
+    subdiv: HA
+    function: 1-------
+    status: AA
+    date: '2201'
+    iata: ''
+    coordinates: '3248N 03459E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IL HFM'
+    name: 'Haifa Granaries'
+    namewodiacritics: 'Haifa Granaries'
+    subdiv: HA
+    function: '-----6--'
+    status: AC
+    date: '1601'
+    iata: ''
+    coordinates: '3248N 03459E'
     remarks: ''
 -
     ch: ''
@@ -876,6 +1740,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'IL HZ8'
+    name: Haluza
+    namewodiacritics: Haluza
+    subdiv: D
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '3105N 03439E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IL HAA'
+    name: Hanita
+    namewodiacritics: Hanita
+    subdiv: Z
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '3305N 03510E'
+    remarks: ''
+-
+    ch: ''
     locode: 'IL HAT'
     name: 'Hatzor HaGlilit'
     namewodiacritics: 'Hatzor HaGlilit'
@@ -885,6 +1773,30 @@
     date: '0901'
     iata: ''
     coordinates: '3259N 03533E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IL HYV'
+    name: Hayogev
+    namewodiacritics: Hayogev
+    subdiv: Z
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3236N 03512E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IL HAE'
+    name: Hazerim
+    namewodiacritics: Hazerim
+    subdiv: D
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3114N 03443E'
     remarks: ''
 -
     ch: ''
@@ -947,7 +1859,7 @@
     coordinates: '3200N 03445E'
     remarks: ''
 -
-    ch: +
+    ch: ''
     locode: 'IL HUL'
     name: Hulda
     namewodiacritics: Hulda
@@ -1008,6 +1920,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'IL KAQ'
+    name: 'Kafr Qasem'
+    namewodiacritics: 'Kafr Qasem'
+    subdiv: M
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3206N 03458E'
+    remarks: ''
+-
+    ch: ''
     locode: 'IL KFS'
     name: 'Kafr Saba'
     namewodiacritics: 'Kafr Saba'
@@ -1032,6 +1956,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'IL KY7'
+    name: 'Karmei Yosef'
+    namewodiacritics: 'Karmei Yosef'
+    subdiv: M
+    function: 1----6--
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '3150N 03455E'
+    remarks: ''
+-
+    ch: ''
     locode: 'IL CML'
     name: 'Karmi''el'
     namewodiacritics: 'Karmi''el'
@@ -1042,6 +1978,30 @@
     iata: ''
     coordinates: '3255N 03518E'
     remarks: Carmiel
+-
+    ch: ''
+    locode: 'IL KAZ'
+    name: Katzir-Harish
+    namewodiacritics: Katzir-Harish
+    subdiv: HA
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3229N 03506E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IL KAU'
+    name: 'Kaukab Abu El-Hija'
+    namewodiacritics: 'Kaukab Abu El-Hija'
+    subdiv: Z
+    function: '--3-----'
+    status: RL
+    date: '1907'
+    iata: ''
+    coordinates: '3249N 01458E'
+    remarks: ''
 -
     ch: ''
     locode: 'IL AZA'
@@ -1056,6 +2016,42 @@
     remarks: ''
 -
     ch: ''
+    locode: 'IL KBN'
+    name: 'Kefar Bin Nun'
+    namewodiacritics: 'Kefar Bin Nun'
+    subdiv: M
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3151N 03456E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IL KBL'
+    name: 'Kefar Blum'
+    namewodiacritics: 'Kefar Blum'
+    subdiv: Z
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3310N 03536E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IL KGI'
+    name: 'Kefar Gil''adi'
+    namewodiacritics: 'Kefar Gil''adi'
+    subdiv: Z
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3314N 03534E'
+    remarks: ''
+-
+    ch: ''
     locode: 'IL MAC'
     name: 'Kefar HaMaccabi'
     namewodiacritics: 'Kefar HaMaccabi'
@@ -1065,6 +2061,18 @@
     date: '0901'
     iata: ''
     coordinates: '3247N 03507E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IL KHN'
+    name: 'Kefar Hanagid'
+    namewodiacritics: 'Kefar Hanagid'
+    subdiv: M
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3153N 03446E'
     remarks: ''
 -
     ch: ''
@@ -1151,16 +2159,100 @@
     coordinates: '3219N 03456W'
     remarks: ''
 -
-    ch: X
+    ch: ''
     locode: 'IL KRM'
     name: 'Kerem Shalom'
     namewodiacritics: 'Kerem Shalom'
     subdiv: D
-    function: '--3-----'
-    status: XX
-    date: '1307'
+    function: '-----6--'
+    status: RL
+    date: '1601'
     iata: ''
     coordinates: '3112N 03417E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IL KZR'
+    name: 'Kfar Azar'
+    namewodiacritics: 'Kfar Azar'
+    subdiv: M
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '3203N 03450E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IL KFN'
+    name: 'Kfar Netter'
+    namewodiacritics: 'Kfar Netter'
+    subdiv: M
+    function: '-----6--'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3216N 03452E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IL H6K'
+    name: 'Kfar Ruth'
+    namewodiacritics: 'Kfar Ruth'
+    subdiv: M
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '3154N 03502E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IL KLS'
+    name: 'Kfar Saba'
+    namewodiacritics: 'Kfar Saba'
+    subdiv: M
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3210N 03454E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IL KTH'
+    name: 'Kfar Tavor'
+    namewodiacritics: 'Kfar Tavor'
+    subdiv: Z
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3241N 03525E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IL KTD'
+    name: 'Kfar Truman'
+    namewodiacritics: 'Kfar Truman'
+    subdiv: M
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3158N 03455E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IL KFV'
+    name: 'Kfar Vitkin'
+    namewodiacritics: 'Kfar Vitkin'
+    subdiv: M
+    function: 1-------
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '3222N 03452E'
     remarks: ''
 -
     ch: ''
@@ -1188,6 +2280,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'IL KID'
+    name: Kidron
+    namewodiacritics: Kidron
+    subdiv: M
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3148N 03448E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IL KNR'
+    name: Kinneret
+    namewodiacritics: Kinneret
+    subdiv: Z
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3244N 03534E'
+    remarks: ''
+-
+    ch: ''
     locode: 'IL KTM'
     name: 'Kiryat Anavim'
     namewodiacritics: 'Kiryat Anavim'
@@ -1200,6 +2316,42 @@
     remarks: ''
 -
     ch: ''
+    locode: 'IL HM2'
+    name: 'Kiryat Ekron'
+    namewodiacritics: 'Kiryat Ekron'
+    subdiv: M
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3151N 03449E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IL KMO'
+    name: 'Kiryat Motzkin'
+    namewodiacritics: 'Kiryat Motzkin'
+    subdiv: HA
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3250N 03505E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IL KNO'
+    name: 'Kiryat Ono'
+    namewodiacritics: 'Kiryat Ono'
+    subdiv: TA
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3203N 03451E'
+    remarks: ''
+-
+    ch: ''
     locode: 'IL KSW'
     name: 'Kiryat Shmona'
     namewodiacritics: 'Kiryat Shmona'
@@ -1209,6 +2361,54 @@
     date: '0001'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'IL KIT'
+    name: 'Kiryat Tiv''On'
+    namewodiacritics: 'Kiryat Tiv''On'
+    subdiv: HA
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '3243N 03507E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IL KIY'
+    name: 'Kiryat Yam'
+    namewodiacritics: 'Kiryat Yam'
+    subdiv: HA
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3250N 03504E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IL K8B'
+    name: Kiryat-Bialik
+    namewodiacritics: Kiryat-Bialik
+    subdiv: HA
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3250N 03505E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IL KSF'
+    name: Kissufim
+    namewodiacritics: Kissufim
+    subdiv: D
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3122N 03423E'
     remarks: ''
 -
     ch: ''
@@ -1236,6 +2436,54 @@
     remarks: ''
 -
     ch: ''
+    locode: 'IL GSM'
+    name: 'Kvutzat Shiller'
+    namewodiacritics: 'Kvutzat Shiller'
+    subdiv: M
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3152N 03447E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IL LHV'
+    name: Lahav
+    namewodiacritics: Lahav
+    subdiv: D
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3123N 03452E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IL LHM'
+    name: Lehawim
+    namewodiacritics: Lehawim
+    subdiv: D
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3122N 03448E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IL LIO'
+    name: 'Li On'
+    namewodiacritics: 'Li On'
+    subdiv: JM
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3141N 03456E'
+    remarks: ''
+-
+    ch: ''
     locode: 'IL LOD'
     name: Lod
     namewodiacritics: Lod
@@ -1243,6 +2491,18 @@
     function: '--3-----'
     status: RL
     date: '0201'
+    iata: ''
+    coordinates: '3157N 03453E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IL OVL'
+    name: 'Lod Overseas'
+    namewodiacritics: 'Lod Overseas'
+    subdiv: TA
+    function: '-----6--'
+    status: AA
+    date: '1401'
     iata: ''
     coordinates: '3157N 03453E'
     remarks: ''
@@ -1284,6 +2544,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'IL MAZ'
+    name: 'Ma''ayan Tzvi'
+    namewodiacritics: 'Ma''ayan Tzvi'
+    subdiv: Z
+    function: '--3-----'
+    status: RL
+    date: '1707'
+    iata: ''
+    coordinates: '3233N 03456E'
+    remarks: ''
+-
+    ch: ''
     locode: 'IL MGA'
     name: 'Ma''galim'
     namewodiacritics: 'Ma''galim'
@@ -1308,6 +2580,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'IL MGL'
+    name: Maggal
+    namewodiacritics: Maggal
+    subdiv: HA
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3223N 03502E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IL M8A'
+    name: Magshimim
+    namewodiacritics: Magshimim
+    subdiv: M
+    function: 1-3-----
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '3202N 03454E'
+    remarks: ''
+-
+    ch: ''
     locode: 'IL MMN'
     name: Maman/Lod
     namewodiacritics: Maman/Lod
@@ -1329,6 +2625,30 @@
     date: '0001'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'IL MSD'
+    name: 'Mashabbe Sade'
+    namewodiacritics: 'Mashabbe Sade'
+    subdiv: D
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3100N 03447E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IL MUO'
+    name: 'Masu''ot Yitzhak'
+    namewodiacritics: 'Masu''ot Yitzhak'
+    subdiv: D
+    function: '--3-----'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '3142N 03441E'
     remarks: ''
 -
     ch: ''
@@ -1368,6 +2688,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'IL MZH'
+    name: Mazliah
+    namewodiacritics: Mazliah
+    subdiv: M
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3154N 03452E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IL MGD'
+    name: Megadim
+    namewodiacritics: Megadim
+    subdiv: HA
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3243N 03457E'
+    remarks: ''
+-
+    ch: ''
     locode: 'IL MEG'
     name: Megiddo
     namewodiacritics: Megiddo
@@ -1377,6 +2721,30 @@
     date: '0901'
     iata: ''
     coordinates: '3234N 03511E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IL MTR'
+    name: Meitar
+    namewodiacritics: Meitar
+    subdiv: D
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3119N 03456E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IL MXF'
+    name: Merhavya
+    namewodiacritics: Merhavya
+    subdiv: Z
+    function: '--3-----'
+    status: RL
+    date: '1707'
+    iata: ''
+    coordinates: '3236N 03519E'
     remarks: ''
 -
     ch: ''
@@ -1413,6 +2781,30 @@
     date: '0901'
     iata: ''
     coordinates: '3240N 03514E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IL TFN'
+    name: 'Migdal Tefen'
+    namewodiacritics: 'Migdal Tefen'
+    subdiv: Z
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '3258N 03516E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IL MHT'
+    name: Mikhmoret
+    namewodiacritics: Mikhmoret
+    subdiv: M
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3224N 03452E'
     remarks: ''
 -
     ch: ''
@@ -1464,6 +2856,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'IL MHN'
+    name: 'Mishmar Hanegev'
+    namewodiacritics: 'Mishmar Hanegev'
+    subdiv: D
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3121N 03443E'
+    remarks: ''
+-
+    ch: ''
     locode: 'IL HAS'
     name: 'Mishmar Hashiv''a'
     namewodiacritics: 'Mishmar Hashiv''a'
@@ -1473,6 +2877,42 @@
     date: '0901'
     iata: ''
     coordinates: '3201N 03449E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IL MHY'
+    name: 'Mishmar Hayarden'
+    namewodiacritics: 'Mishmar Hayarden'
+    subdiv: Z
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3300N 03535E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IL MIE'
+    name: Mishmeret
+    namewodiacritics: Mishmeret
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3213N 03455E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IL AS2'
+    name: 'Mishor Adumim'
+    namewodiacritics: 'Mishor Adumim'
+    subdiv: M
+    function: 1----6--
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '3147N 03519E'
     remarks: ''
 -
     ch: ''
@@ -1500,6 +2940,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'IL M9P'
+    name: 'Mitzpe Netofa'
+    namewodiacritics: 'Mitzpe Netofa'
+    subdiv: Z
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '3248N 03523E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IL MZR'
+    name: Mizra
+    namewodiacritics: Mizra
+    subdiv: Z
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3239N 03517E'
+    remarks: ''
+-
+    ch: ''
     locode: 'IL MOD'
     name: 'Modi''in-Maccabim-Re''ut'
     namewodiacritics: 'Modi''in-Maccabim-Re''ut'
@@ -1521,6 +2985,66 @@
     date: '1107'
     iata: ''
     coordinates: '3156N 03454E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IL MTT'
+    name: 'Moza Illit'
+    namewodiacritics: 'Moza Illit'
+    subdiv: JM
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3148N 03509E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IL NAA'
+    name: 'Na An'
+    namewodiacritics: 'Na An'
+    subdiv: M
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3152N 03451E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IL NAB'
+    name: Nabulus
+    namewodiacritics: Nabulus
+    subdiv: JM
+    function: 1-3-----
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '3213N 03515E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IL NHZ'
+    name: 'Nahal Oz'
+    namewodiacritics: 'Nahal Oz'
+    subdiv: D
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3128N 03429E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IL NHY'
+    name: Nahariya
+    namewodiacritics: Nahariya
+    subdiv: Z
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3300N 03505E'
     remarks: ''
 -
     ch: ''
@@ -1656,6 +3180,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'IL NLL'
+    name: 'Newe Ilan'
+    namewodiacritics: 'Newe Ilan'
+    subdiv: JM
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3148N 03505E'
+    remarks: ''
+-
+    ch: ''
     locode: 'IL NUR'
     name: 'Newe Ur'
     namewodiacritics: 'Newe Ur'
@@ -1677,6 +3213,18 @@
     date: '0201'
     iata: ''
     coordinates: '3210N 03455E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IL NAM'
+    name: 'Nir Am'
+    namewodiacritics: 'Nir Am'
+    subdiv: D
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3131N 03435E'
     remarks: ''
 -
     ch: ''
@@ -1716,6 +3264,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'IL NZV'
+    name: 'Nir Zevi'
+    namewodiacritics: 'Nir Zevi'
+    subdiv: M
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3157N 03451E'
+    remarks: ''
+-
+    ch: ''
     locode: 'IL NZN'
     name: Nizana
     namewodiacritics: Nizana
@@ -1725,6 +3285,18 @@
     date: '9803'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'IL NNM'
+    name: Nizzanim
+    namewodiacritics: Nizzanim
+    subdiv: D
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3143N 03438E'
     remarks: ''
 -
     ch: ''
@@ -1800,6 +3372,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'IL OHM'
+    name: Oshrat
+    namewodiacritics: Oshrat
+    subdiv: Z
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3258N 03509E'
+    remarks: ''
+-
+    ch: ''
     locode: 'IL VDA'
     name: Ovda
     namewodiacritics: Ovda
@@ -1812,6 +3396,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'IL PHM'
+    name: Palmachim
+    namewodiacritics: Palmachim
+    subdiv: M
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3156N 03442E'
+    remarks: ''
+-
+    ch: ''
     locode: 'IL PHH'
     name: 'Pardes Hanna'
     namewodiacritics: 'Pardes Hanna'
@@ -1821,6 +3417,18 @@
     date: '0201'
     iata: ''
     coordinates: '3228N 03459E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IL PDY'
+    name: Pardesiya
+    namewodiacritics: Pardesiya
+    subdiv: M
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3218N 03454E'
     remarks: ''
 -
     ch: ''
@@ -1845,6 +3453,42 @@
     date: '0907'
     iata: ''
     coordinates: '3205N 03452E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IL PEH'
+    name: Petahya
+    namewodiacritics: Petahya
+    subdiv: M
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '3152N 03453E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IL PST'
+    name: 'Post Office Lod'
+    namewodiacritics: 'Post Office Lod'
+    subdiv: TA
+    function: '-----6--'
+    status: AA
+    date: '1801'
+    iata: ''
+    coordinates: '3157N 03453E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IL PSM'
+    name: 'Post Offoce Modi''In'
+    namewodiacritics: 'Post Offoce Modi''In'
+    subdiv: TA
+    function: '-----6--'
+    status: AA
+    date: '1801'
+    iata: ''
+    coordinates: '3154N 03500E'
     remarks: ''
 -
     ch: ''
@@ -1931,18 +3575,6 @@
     coordinates: '3211N 03452E'
     remarks: ''
 -
-    ch: X
-    locode: 'IL RAH'
-    name: Rafah
-    namewodiacritics: Rafah
-    subdiv: ''
-    function: 1-------
-    status: XX
-    date: '1307'
-    iata: ''
-    coordinates: ''
-    remarks: ''
--
     ch: ''
     locode: 'IL RFH'
     name: Rafiach
@@ -1956,6 +3588,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'IL RHT'
+    name: Rahat
+    namewodiacritics: Rahat
+    subdiv: D
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3123N 03445E'
+    remarks: ''
+-
+    ch: ''
     locode: 'IL DAV'
     name: 'Ramat David'
     namewodiacritics: 'Ramat David'
@@ -1965,6 +3609,18 @@
     date: '0901'
     iata: ''
     coordinates: '3241N 03512E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IL RFL'
+    name: 'Ramat Ef Al'
+    namewodiacritics: 'Ramat Ef Al'
+    subdiv: TA
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3202N 03449E'
     remarks: ''
 -
     ch: ''
@@ -2004,6 +3660,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'IL RHS'
+    name: 'Ramat Hashofet'
+    namewodiacritics: 'Ramat Hashofet'
+    subdiv: Z
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3236N 03505E'
+    remarks: ''
+-
+    ch: ''
     locode: 'IL RHO'
     name: 'Ramat Hovav'
     namewodiacritics: 'Ramat Hovav'
@@ -2013,6 +3681,42 @@
     date: '1001'
     iata: ''
     coordinates: '3108N 03446E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IL RRA'
+    name: 'Ramat Razi''el'
+    namewodiacritics: 'Ramat Razi''el'
+    subdiv: JM
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3146N 03504E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IL RYY'
+    name: 'Ramat Yishay'
+    namewodiacritics: 'Ramat Yishay'
+    subdiv: Z
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3242N 03510E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IL RYO'
+    name: 'Ramat Yohanan'
+    namewodiacritics: 'Ramat Yohanan'
+    subdiv: HA
+    function: '--3-----'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '3247N 03507E'
     remarks: ''
 -
     ch: ''
@@ -2028,6 +3732,54 @@
     remarks: ''
 -
     ch: ''
+    locode: 'IL RAO'
+    name: Ram-On
+    namewodiacritics: Ram-On
+    subdiv: Z
+    function: '--3-----'
+    status: RL
+    date: '1707'
+    iata: ''
+    coordinates: '3231N 03515E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IL TRS'
+    name: 'Red Sea Security'
+    namewodiacritics: 'Red Sea Security'
+    subdiv: D
+    function: '-----6--'
+    status: AA
+    date: '1801'
+    iata: ''
+    coordinates: '2933N 03457E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IL RGM'
+    name: Regavim
+    namewodiacritics: Regavim
+    subdiv: HA
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3231N 03501E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IL RBA'
+    name: Regba
+    namewodiacritics: Regba
+    subdiv: Z
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3258N 03505E'
+    remarks: ''
+-
+    ch: ''
     locode: 'IL REH'
     name: Rehovot
     namewodiacritics: Rehovot
@@ -2040,6 +3792,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'IL RDM'
+    name: Revadim
+    namewodiacritics: Revadim
+    subdiv: D
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3146N 03449E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IL RVM'
+    name: Revivim
+    namewodiacritics: Revivim
+    subdiv: D
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3102N 03443E'
+    remarks: ''
+-
+    ch: ''
     locode: 'IL RLZ'
     name: 'Rishon Leziyyon'
     namewodiacritics: 'Rishon Leziyyon'
@@ -2049,6 +3825,18 @@
     date: '1101'
     iata: ''
     coordinates: '3157N 03448E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IL RNP'
+    name: Rishpon
+    namewodiacritics: Rishpon
+    subdiv: M
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3212N 03449E'
     remarks: ''
 -
     ch: ''
@@ -2088,6 +3876,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'IL SKH'
+    name: Sakhnin
+    namewodiacritics: Sakhnin
+    subdiv: Z
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3251N 03517E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IL SAS'
+    name: Sasa
+    namewodiacritics: Sasa
+    subdiv: Z
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3301N 03523E'
+    remarks: ''
+-
+    ch: ''
     locode: 'IL SVY'
     name: Savyon
     namewodiacritics: Savyon
@@ -2112,6 +3924,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'IL SIL'
+    name: 'Sde Warbug'
+    namewodiacritics: 'Sde Warbug'
+    subdiv: M
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3212N 03454E'
+    remarks: ''
+-
+    ch: ''
     locode: 'IL SDO'
     name: 'Sdot Yam'
     namewodiacritics: 'Sdot Yam'
@@ -2121,6 +3945,18 @@
     date: '0901'
     iata: ''
     coordinates: '3229N 03454E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IL SDB'
+    name: 'Sedeh Boker'
+    namewodiacritics: 'Sedeh Boker'
+    subdiv: D
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3052N 03447E'
     remarks: ''
 -
     ch: ''
@@ -2160,6 +3996,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'IL SGS'
+    name: 'Segev Shalom'
+    namewodiacritics: 'Segev Shalom'
+    subdiv: D
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3112N 03450E'
+    remarks: ''
+-
+    ch: ''
     locode: 'IL MEN'
     name: 'Sha''ar Menashe'
     namewodiacritics: 'Sha''ar Menashe'
@@ -2171,7 +4019,55 @@
     coordinates: '3727N 03501E'
     remarks: ''
 -
-    ch: +
+    ch: ''
+    locode: 'IL STT'
+    name: 'Sha''arei Tikva'
+    namewodiacritics: 'Sha''arei Tikva'
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3207N 03501E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IL SHA'
+    name: Shahar
+    namewodiacritics: Shahar
+    subdiv: D
+    function: '--3-----'
+    status: RL
+    date: '1707'
+    iata: ''
+    coordinates: '3137N 03443E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IL SHR'
+    name: Shamir
+    namewodiacritics: Shamir
+    subdiv: Z
+    function: '--3-----'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '3309N 03539E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IL SDM'
+    name: Shedema
+    namewodiacritics: Shedema
+    subdiv: M
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3150N 03445E'
+    remarks: ''
+-
+    ch: ''
     locode: 'IL SHF'
     name: 'Shefar''am'
     namewodiacritics: 'Shefar''am'
@@ -2181,6 +4077,30 @@
     date: '1307'
     iata: ''
     coordinates: '3248N 03510E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IL SLM'
+    name: Shelomi
+    namewodiacritics: Shelomi
+    subdiv: Z
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3304N 03506E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IL SZF'
+    name: Shizafon
+    namewodiacritics: Shizafon
+    subdiv: D
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3002N 03501E'
     remarks: ''
 -
     ch: ''
@@ -2219,7 +4139,7 @@
     coordinates: '3157N 03453E'
     remarks: ''
 -
-    ch: '#'
+    ch: ''
     locode: 'IL TAB'
     name: 'Taba Border Crossing'
     namewodiacritics: 'Taba Border Crossing'
@@ -2232,6 +4152,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'IL SDV'
+    name: 'Tel Aviv Sde Dov Airport'
+    namewodiacritics: 'Tel Aviv Sde Dov Airport'
+    subdiv: TA
+    function: '---4----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '3206N 03446E'
+    remarks: ''
+-
+    ch: ''
     locode: 'IL TLV'
     name: 'Tel Aviv-Yafo'
     namewodiacritics: 'Tel Aviv-Yafo'
@@ -2241,6 +4173,18 @@
     date: '0507'
     iata: ''
     coordinates: '3203N 03445E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IL LCH'
+    name: 'Tel Lachish'
+    namewodiacritics: 'Tel Lachish'
+    subdiv: D
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3134N 03451E'
     remarks: ''
 -
     ch: ''
@@ -2280,6 +4224,54 @@
     remarks: ''
 -
     ch: ''
+    locode: 'IL TLM'
+    name: Tlalim
+    namewodiacritics: Tlalim
+    subdiv: D
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3059N 03446E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IL TNV'
+    name: Tnuvot
+    namewodiacritics: Tnuvot
+    subdiv: M
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3218N 03457E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IL TRN'
+    name: 'Tur''an'
+    namewodiacritics: 'Tur''an'
+    subdiv: Z
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3246N 03522E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IL TZM'
+    name: 'Tze''Elim'
+    namewodiacritics: 'Tze''Elim'
+    subdiv: D
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3112N 03432E'
+    remarks: ''
+-
+    ch: ''
     locode: 'IL TZO'
     name: Tzofit
     namewodiacritics: Tzofit
@@ -2289,6 +4281,18 @@
     date: '0901'
     iata: ''
     coordinates: '3212N 03455E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IL KTJ'
+    name: Tzora
+    namewodiacritics: Tzora
+    subdiv: JM
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3145N 03458E'
     remarks: ''
 -
     ch: ''
@@ -2316,6 +4320,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'IL THD'
+    name: 'Tzur Hadassah'
+    namewodiacritics: 'Tzur Hadassah'
+    subdiv: JM
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3143N 03505E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IL UDM'
+    name: Udim
+    namewodiacritics: Udim
+    subdiv: M
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3216N 03450E'
+    remarks: ''
+-
+    ch: ''
     locode: 'IL UMM'
     name: 'Umm al-Fahm'
     namewodiacritics: 'Umm al-Fahm'
@@ -2328,15 +4356,63 @@
     remarks: ''
 -
     ch: ''
+    locode: 'IL YHM'
+    name: 'Yad HaShmona'
+    namewodiacritics: 'Yad HaShmona'
+    subdiv: M
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3148N 03505E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IL YMD'
+    name: 'Yad Mordechai'
+    namewodiacritics: 'Yad Mordechai'
+    subdiv: D
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3135N 03433E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IL YGL'
+    name: Yagel
+    namewodiacritics: Yagel
+    subdiv: M
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3119N 03451E'
+    remarks: ''
+-
+    ch: ''
     locode: 'IL YAK'
     name: Yakum
     namewodiacritics: Yakum
-    subdiv: ''
+    subdiv: M
     function: '--3-----'
-    status: RQ
-    date: '1001'
+    status: RL
+    date: '1707'
     iata: ''
-    coordinates: '3215N 34510E'
+    coordinates: '3214N 03450E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IL YRK'
+    name: Yarka
+    namewodiacritics: Yarka
+    subdiv: Z
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3214N 03512E'
     remarks: ''
 -
     ch: ''
@@ -2364,6 +4440,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'IL KYZ'
+    name: Yehiam
+    namewodiacritics: Yehiam
+    subdiv: Z
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3259N 03513E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IL YEH'
+    name: Yehud
+    namewodiacritics: Yehud
+    subdiv: M
+    function: '--3-----'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '3202N 03453E'
+    remarks: ''
+-
+    ch: ''
     locode: 'IL YAM'
     name: Yeruham
     namewodiacritics: Yeruham
@@ -2388,6 +4488,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'IL YSH'
+    name: 'Yish''I'
+    namewodiacritics: 'Yish''I'
+    subdiv: JM
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3144N 03458E'
+    remarks: ''
+-
+    ch: ''
     locode: 'IL YKN'
     name: Yokneam
     namewodiacritics: Yokneam
@@ -2409,6 +4521,42 @@
     date: '0001'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'IL ZFT'
+    name: Zfat
+    namewodiacritics: Zfat
+    subdiv: Z
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3257N 03529E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IL ZYW'
+    name: 'Zichron Ya''Akow'
+    namewodiacritics: 'Zichron Ya''Akow'
+    subdiv: HA
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3215N 03457E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IL ZKM'
+    name: Zikim
+    namewodiacritics: Zikim
+    subdiv: D
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3144N 03437E'
     remarks: ''
 -
     ch: ''

@@ -231,10 +231,10 @@
     locode: 'KR BNP'
     name: 'Busan New Port'
     namewodiacritics: 'Busan New Port'
-    subdiv: ''
+    subdiv: '26'
     function: 1-------
     status: RQ
-    date: '1201'
+    date: '1401'
     iata: ''
     coordinates: '3505N 12849E'
     remarks: 'Under scrutiny'
@@ -311,7 +311,7 @@
     coordinates: '3538N 12844E'
     remarks: ''
 -
-    ch: '#'
+    ch: ''
     locode: 'KR COJ'
     name: Cheongju
     namewodiacritics: Cheongju
@@ -396,6 +396,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'KR CWR'
+    name: 'Ch''irwon'
+    namewodiacritics: 'Ch''irwon'
+    subdiv: '48'
+    function: '--3-----'
+    status: RL
+    date: '1901'
+    iata: ''
+    coordinates: '3518N 12831E'
+    remarks: ''
+-
+    ch: ''
     locode: 'KR COG'
     name: 'Ch''Ongdo'
     namewodiacritics: 'Ch''Ongdo'
@@ -465,6 +477,18 @@
     date: '0507'
     iata: QUN
     coordinates: '3658N 12755E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'KR UGN'
+    name: Chungnam
+    namewodiacritics: Chungnam
+    subdiv: '46'
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '3501N 12652E'
     remarks: ''
 -
     ch: ''
@@ -587,7 +611,7 @@
     coordinates: '3519N 12659E'
     remarks: ''
 -
-    ch: '#'
+    ch: ''
     locode: 'KR TJI'
     name: Dangjin
     namewodiacritics: Dangjin
@@ -597,7 +621,7 @@
     date: '1307'
     iata: ''
     coordinates: '3658N 12647E'
-    remarks: '@Fun'
+    remarks: ''
 -
     ch: ''
     locode: 'KR DYG'
@@ -792,18 +816,6 @@
     remarks: ''
 -
     ch: ''
-    locode: 'KR JGE'
-    name: Geoje
-    namewodiacritics: Geoje
-    subdiv: '48'
-    function: '---4----'
-    status: AI
-    date: '0607'
-    iata: ''
-    coordinates: '3454N 12841E'
-    remarks: ''
--
-    ch: ''
     locode: 'KR KJE'
     name: Geoje
     namewodiacritics: Geoje
@@ -813,6 +825,18 @@
     date: '0607'
     iata: ''
     coordinates: '3451N 12835E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'KR JGE'
+    name: Geoje
+    namewodiacritics: Geoje
+    subdiv: '48'
+    function: '---4----'
+    status: AI
+    date: '0607'
+    iata: ''
+    coordinates: '3454N 12841E'
     remarks: ''
 -
     ch: ''
@@ -924,6 +948,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'KR GOI'
+    name: Gogok
+    namewodiacritics: Gogok
+    subdiv: '47'
+    function: '--3-----'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '3742N 12651E'
+    remarks: ''
+-
+    ch: ''
     locode: 'KR GHG'
     name: Goheung-gun
     namewodiacritics: Goheung-gun
@@ -984,18 +1020,6 @@
     remarks: ''
 -
     ch: ''
-    locode: 'KR GSG'
-    name: Goseong-gun
-    namewodiacritics: Goseong-gun
-    subdiv: '42'
-    function: '-23-----'
-    status: AF
-    date: '0601'
-    iata: ''
-    coordinates: '3822N 12828E'
-    remarks: ''
--
-    ch: ''
     locode: 'KR GSO'
     name: Goseong-gun
     namewodiacritics: Goseong-gun
@@ -1005,6 +1029,18 @@
     date: '0601'
     iata: ''
     coordinates: '3458N 12819E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'KR GSG'
+    name: Goseong-gun
+    namewodiacritics: Goseong-gun
+    subdiv: '42'
+    function: '-23-----'
+    status: AF
+    date: '0601'
+    iata: ''
+    coordinates: '3822N 12828E'
     remarks: ''
 -
     ch: ''
@@ -1199,7 +1235,7 @@
     coordinates: '3548N 12844E'
     remarks: ''
 -
-    ch: +
+    ch: ''
     locode: 'KR GYE'
     name: Gyerong
     namewodiacritics: Gyerong
@@ -1223,7 +1259,7 @@
     coordinates: '3542N 12745E'
     remarks: ''
 -
-    ch: +
+    ch: ''
     locode: 'KR HAE'
     name: Haenam-Gun
     namewodiacritics: Haenam-Gun
@@ -1332,6 +1368,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'KR HES'
+    name: Hoengseong-Gun
+    namewodiacritics: Hoengseong-Gun
+    subdiv: '44'
+    function: '--3-----'
+    status: AM
+    date: '2107'
+    iata: ''
+    coordinates: '3636N 12640E'
+    remarks: ''
+-
+    ch: ''
     locode: 'KR HCN'
     name: Hongcheon-gun
     namewodiacritics: Hongcheon-gun
@@ -1415,7 +1463,7 @@
     coordinates: '3418N 12640E'
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'KR HWS'
     name: Hwaseong
     namewodiacritics: Hwaseong
@@ -1425,7 +1473,7 @@
     date: '1307'
     iata: ''
     coordinates: '3711N 12649E'
-    remarks: '@Sta@Coo'
+    remarks: ''
 -
     ch: ''
     locode: 'KR HSO'
@@ -1439,7 +1487,7 @@
     coordinates: ''
     remarks: ''
 -
-    ch: '#'
+    ch: ''
     locode: 'KR HSN'
     name: Hwasun
     namewodiacritics: Hwasun
@@ -1453,12 +1501,12 @@
 -
     ch: ''
     locode: 'KR ZAD'
-    name: Hwasun
-    namewodiacritics: Hwasun
-    subdiv: ''
+    name: Hwasun-gun
+    namewodiacritics: Hwasun-gun
+    subdiv: '46'
     function: '-----6--'
     status: RL
-    date: '0901'
+    date: '1401'
     iata: ''
     coordinates: '3503N 12659E'
     remarks: ''
@@ -1800,6 +1848,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'KR KJG'
+    name: Kijang
+    namewodiacritics: Kijang
+    subdiv: '26'
+    function: '--3-----'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '3514N 12912E'
+    remarks: ''
+-
+    ch: ''
     locode: 'KR KMP'
     name: 'Kimp''o'
     namewodiacritics: 'Kimp''o'
@@ -1860,6 +1920,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'KR KUI'
+    name: Kumi
+    namewodiacritics: Kumi
+    subdiv: '47'
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '3607N 12820E'
+    remarks: ''
+-
+    ch: ''
     locode: 'KR ZAA'
     name: Kunpo
     namewodiacritics: Kunpo
@@ -1869,18 +1941,6 @@
     date: '0901'
     iata: ''
     coordinates: '3722N 12656E'
-    remarks: ''
--
-    ch: ''
-    locode: 'KR KSN'
-    name: Kunsan
-    namewodiacritics: Kunsan
-    subdiv: '11'
-    function: 1-3-----
-    status: RQ
-    date: '0901'
-    iata: ''
-    coordinates: ''
     remarks: ''
 -
     ch: ''
@@ -2037,18 +2097,6 @@
     date: '0601'
     iata: ''
     coordinates: '3635N 12811E'
-    remarks: ''
--
-    ch: ''
-    locode: 'KR MKW'
-    name: Munmak
-    namewodiacritics: Munmak
-    subdiv: '42'
-    function: 1-------
-    status: RQ
-    date: '0901'
-    iata: ''
-    coordinates: ''
     remarks: ''
 -
     ch: ''
@@ -2388,6 +2436,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'KR SDG'
+    name: Sangam-dong
+    namewodiacritics: Sangam-dong
+    subdiv: '46'
+    function: '-23-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '3449N 12744E'
+    remarks: ''
+-
+    ch: ''
     locode: 'KR SJU'
     name: Sangju
     namewodiacritics: Sangju
@@ -2415,24 +2475,12 @@
     locode: 'KR SJG'
     name: Sejong
     namewodiacritics: Sejong
-    subdiv: ''
+    subdiv: '44'
     function: '--3-----'
     status: AF
-    date: '1207'
+    date: '1401'
     iata: ''
     coordinates: '3637N 12713E'
-    remarks: ''
--
-    ch: ''
-    locode: 'KR SCE'
-    name: Seocheon-gun
-    namewodiacritics: Seocheon-gun
-    subdiv: '44'
-    function: '-23-----'
-    status: AF
-    date: '0601'
-    iata: ''
-    coordinates: '3648N 12641E'
     remarks: ''
 -
     ch: ''
@@ -2445,6 +2493,18 @@
     date: '0601'
     iata: ''
     coordinates: '3640N 12650E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'KR SCE'
+    name: Seocheon-gun
+    namewodiacritics: Seocheon-gun
+    subdiv: '44'
+    function: '-23-----'
+    status: AF
+    date: '0601'
+    iata: ''
+    coordinates: '3648N 12641E'
     remarks: ''
 -
     ch: ''
@@ -2471,7 +2531,7 @@
     coordinates: '3554N 12816E'
     remarks: ''
 -
-    ch: '#'
+    ch: ''
     locode: 'KR SGM'
     name: Seongnam
     namewodiacritics: Seongnam
@@ -2529,6 +2589,18 @@
     date: '1207'
     iata: ''
     coordinates: '3426N 12651E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'KR STJ'
+    name: Shintanjin
+    namewodiacritics: Shintanjin
+    subdiv: '44'
+    function: '-2------'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '3626N 12725E'
     remarks: ''
 -
     ch: ''
@@ -2596,9 +2668,9 @@
     name: Sokcho
     namewodiacritics: Sokcho
     subdiv: '42'
-    function: 1-34----
+    function: 1-3-----
     status: AF
-    date: '0507'
+    date: '1601'
     iata: ''
     coordinates: '3812N 12835E'
     remarks: ''
@@ -2619,10 +2691,10 @@
     locode: 'KR ZAH'
     name: Songtan
     namewodiacritics: Songtan
-    subdiv: ''
+    subdiv: '41'
     function: '-----6--'
     status: RL
-    date: '0901'
+    date: '1401'
     iata: ''
     coordinates: '3704N 12703E'
     remarks: ''
@@ -2727,10 +2799,10 @@
     locode: 'KR DGU'
     name: Tongdaemun-Gu
     namewodiacritics: Tongdaemun-Gu
-    subdiv: ''
+    subdiv: '11'
     function: '-----6--'
-    status: RQ
-    date: '1007'
+    status: RL
+    date: '1401'
     iata: ''
     coordinates: '3734S 12702E'
     remarks: ''
@@ -2940,18 +3012,6 @@
     remarks: ''
 -
     ch: ''
-    locode: 'KR YAJ'
-    name: Yangju
-    namewodiacritics: Yangju
-    subdiv: '43'
-    function: 1-------
-    status: RQ
-    date: '0901'
-    iata: ''
-    coordinates: ''
-    remarks: ''
--
-    ch: '#'
     locode: 'KR YYU'
     name: Yangju
     namewodiacritics: Yangju
@@ -3013,12 +3073,12 @@
 -
     ch: ''
     locode: 'KR YJU'
-    name: Yeoju-gun
-    namewodiacritics: Yeoju-gun
+    name: Yeoju
+    namewodiacritics: Yeoju
     subdiv: '41'
     function: '-23-----'
     status: AF
-    date: '0601'
+    date: '1401'
     iata: ''
     coordinates: '3717N 12738E'
     remarks: ''

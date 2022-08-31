@@ -1,14 +1,26 @@
 -
     ch: ''
+    locode: 'MS BRD'
+    name: Brades
+    namewodiacritics: Brades
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '1647N 06212W'
+    remarks: ''
+-
+    ch: ''
     locode: 'MS LTB'
     name: 'Little Bay'
     namewodiacritics: 'Little Bay'
     subdiv: ''
-    function: '--3-----'
-    status: RQ
-    date: '0002'
+    function: 1-3-----
+    status: RL
+    date: '1607'
     iata: ''
-    coordinates: ''
+    coordinates: '1648N 06212W'
     remarks: ''
 -
     ch: ''

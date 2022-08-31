@@ -48,6 +48,42 @@
     remarks: ''
 -
     ch: ''
+    locode: 'NZ AMB'
+    name: Amberley
+    namewodiacritics: Amberley
+    subdiv: CAN
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '4310S 17244E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NZ ANU'
+    name: Aranui
+    namewodiacritics: Aranui
+    subdiv: CAN
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '4331S 17242E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NZ AWK'
+    name: Arapuni
+    namewodiacritics: Arapuni
+    subdiv: WKO
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '3804S 17539E'
+    remarks: ''
+-
+    ch: ''
     locode: 'NZ AMZ'
     name: Ardmore
     namewodiacritics: Ardmore
@@ -57,6 +93,18 @@
     date: '9601'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'NZ ART'
+    name: Arrowtown
+    namewodiacritics: Arrowtown
+    subdiv: OTA
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '4456S 16850E'
     remarks: ''
 -
     ch: ''
@@ -108,6 +156,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'NZ AVH'
+    name: Avonhead
+    namewodiacritics: Avonhead
+    subdiv: CAN
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '4331S 17234E'
+    remarks: ''
+-
+    ch: ''
     locode: 'NZ AWT'
     name: Awatoto
     namewodiacritics: Awatoto
@@ -132,6 +192,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'NZ BKB'
+    name: Bannockburn
+    namewodiacritics: Bannockburn
+    subdiv: OTA
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '4505S 16910E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NZ BYW'
+    name: Bayswater
+    namewodiacritics: Bayswater
+    subdiv: AUK
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '3648S 17446E'
+    remarks: ''
+-
+    ch: ''
     locode: 'NZ BEL'
     name: Belfast
     namewodiacritics: Belfast
@@ -141,6 +225,18 @@
     date: '0607'
     iata: ''
     coordinates: '4326S 17238E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NZ BMT'
+    name: Belmont
+    namewodiacritics: Belmont
+    subdiv: AUK
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '3648S 17447E'
     remarks: ''
 -
     ch: ''
@@ -165,6 +261,30 @@
     date: '0501'
     iata: ''
     coordinates: '4636S 16819E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NZ WBG'
+    name: Brightwater
+    namewodiacritics: Brightwater
+    subdiv: NSN
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '4123S 17307E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NZ BMY'
+    name: Bromley
+    namewodiacritics: Bromley
+    subdiv: CAN
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '4333S 17242E'
     remarks: ''
 -
     ch: ''
@@ -201,6 +321,18 @@
     date: '1207'
     iata: ''
     coordinates: '4118S 17448E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NZ BWD'
+    name: Burwood
+    namewodiacritics: Burwood
+    subdiv: CAN
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '4330S 17242E'
     remarks: ''
 -
     ch: ''
@@ -348,6 +480,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'NZ DSB'
+    name: 'Days Bay'
+    namewodiacritics: 'Days Bay'
+    subdiv: WGN
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '4116S 17455E'
+    remarks: ''
+-
+    ch: ''
     locode: 'NZ DPC'
     name: 'Deep Cove'
     namewodiacritics: 'Deep Cove'
@@ -383,7 +527,19 @@
     coordinates: '4517S 16651E'
     remarks: ''
 -
-    ch: ¦
+    ch: ''
+    locode: 'NZ DRR'
+    name: Drury
+    namewodiacritics: Drury
+    subdiv: AUK
+    function: '-----6--'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3706S 17457E'
+    remarks: ''
+-
+    ch: ''
     locode: 'NZ DUD'
     name: Dunedin
     namewodiacritics: Dunedin
@@ -393,9 +549,9 @@
     date: '1307'
     iata: ''
     coordinates: '4552S 17030E'
-    remarks: '@Fun'
+    remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'NZ DUS'
     name: 'Dusky Sound'
     namewodiacritics: 'Dusky Sound'
@@ -405,7 +561,19 @@
     date: '1307'
     iata: ''
     coordinates: '4547S 16628E'
-    remarks: '@Fun@Sta'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NZ EAC'
+    name: Earnscleugh
+    namewodiacritics: Earnscleugh
+    subdiv: OTA
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '4513S 16919E'
+    remarks: ''
 -
     ch: ''
     locode: 'NZ ETM'
@@ -465,6 +633,30 @@
     date: '0607'
     iata: ''
     coordinates: '4013S 17533E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NZ FDT'
+    name: Fendalton
+    namewodiacritics: Fendalton
+    subdiv: CAN
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '4331S 17236E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NZ FEE'
+    name: Fernside
+    namewodiacritics: Fernside
+    subdiv: CAN
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '4319S 17232E'
     remarks: ''
 -
     ch: ''
@@ -552,6 +744,42 @@
     remarks: ''
 -
     ch: ''
+    locode: 'NZ GED'
+    name: 'Glen Eden'
+    namewodiacritics: 'Glen Eden'
+    subdiv: AUK
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '3655S 17439E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NZ GLE'
+    name: Glenavy
+    namewodiacritics: Glenavy
+    subdiv: CAN
+    function: 1-------
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '4455S 17106E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NZ GF4'
+    name: Glenfield
+    namewodiacritics: Glenfield
+    subdiv: AUK
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3646S 17443E'
+    remarks: ''
+-
+    ch: ''
     locode: 'NZ GOB'
     name: 'Golden Bay'
     namewodiacritics: 'Golden Bay'
@@ -588,6 +816,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'NZ C4W'
+    name: Greendale
+    namewodiacritics: Greendale
+    subdiv: CAN
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4335S 17205E'
+    remarks: ''
+-
+    ch: ''
     locode: 'NZ GTO'
     name: Greerton
     namewodiacritics: Greerton
@@ -612,6 +852,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'NZ GRT'
+    name: Greytown
+    namewodiacritics: Greytown
+    subdiv: WGN
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '4104S 17527E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NZ HSW'
+    name: Halswell
+    namewodiacritics: Halswell
+    subdiv: CAN
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '4335S 17234E'
+    remarks: ''
+-
+    ch: ''
     locode: 'NZ HLZ'
     name: Hamilton
     namewodiacritics: Hamilton
@@ -621,6 +885,18 @@
     date: '1207'
     iata: ''
     coordinates: '3747S 17517E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NZ HAD'
+    name: Harewood
+    namewodiacritics: Harewood
+    subdiv: CAN
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '4329S 17235E'
     remarks: ''
 -
     ch: ''
@@ -636,6 +912,54 @@
     remarks: ''
 -
     ch: ''
+    locode: 'NZ HTT'
+    name: Hataitai
+    namewodiacritics: Hataitai
+    subdiv: WGN
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '4118S 17448E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NZ NNH'
+    name: Havelock
+    namewodiacritics: Havelock
+    subdiv: MBH
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4117S 17346E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NZ HVN'
+    name: 'Havelock North'
+    namewodiacritics: 'Havelock North'
+    subdiv: HKB
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3940S 17653E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NZ HWD'
+    name: Hawarden
+    namewodiacritics: Hawarden
+    subdiv: CAN
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '4256S 17238E'
+    remarks: ''
+-
+    ch: ''
     locode: 'NZ HAW'
     name: Hawera
     namewodiacritics: Hawera
@@ -648,6 +972,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'NZ HYW'
+    name: Haywards
+    namewodiacritics: Haywards
+    subdiv: WGN
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '4109S 17459E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NZ HCV'
+    name: 'Heathcote Valley'
+    namewodiacritics: 'Heathcote Valley'
+    subdiv: CAN
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '4335S 17243E'
+    remarks: ''
+-
+    ch: ''
     locode: 'NZ HDS'
     name: Henderson
     namewodiacritics: Henderson
@@ -657,6 +1005,18 @@
     date: '0701'
     iata: ''
     coordinates: '3652S 17437E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NZ HB3'
+    name: 'Herne Bay'
+    namewodiacritics: 'Herne Bay'
+    subdiv: AUK
+    function: '-----6--'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '3650S 17443E'
     remarks: ''
 -
     ch: ''
@@ -708,6 +1068,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'NZ AUC'
+    name: Howick
+    namewodiacritics: Howick
+    subdiv: AUK
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '3653S 17456E'
+    remarks: ''
+-
+    ch: ''
     locode: 'NZ HLY'
     name: Huntly
     namewodiacritics: Huntly
@@ -741,6 +1113,30 @@
     date: '1207'
     iata: ''
     coordinates: '4624S 16821E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NZ IBY'
+    name: 'Island Bay'
+    namewodiacritics: 'Island Bay'
+    subdiv: WGN
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '4120S 17447E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NZ JSV'
+    name: Johnsonville
+    namewodiacritics: Johnsonville
+    subdiv: WGN
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '4114S 17447E'
     remarks: ''
 -
     ch: ''
@@ -804,6 +1200,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'NZ KWK'
+    name: Kaiwaka
+    namewodiacritics: Kaiwaka
+    subdiv: NTL
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3610S 17427E'
+    remarks: ''
+-
+    ch: ''
     locode: 'NZ KWW'
     name: Kaiwharawhara
     namewodiacritics: Kaiwharawhara
@@ -825,6 +1233,18 @@
     date: '0607'
     iata: ''
     coordinates: '4007S 17527E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NZ KR2'
+    name: Karori
+    namewodiacritics: Karori
+    subdiv: WGN
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '4117S 17444E'
     remarks: ''
 -
     ch: ''
@@ -876,6 +1296,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'NZ KB3'
+    name: Kelburn
+    namewodiacritics: Kelburn
+    subdiv: WGN
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '4117S 17446E'
+    remarks: ''
+-
+    ch: ''
     locode: 'NZ KKE'
     name: Kerikeri
     namewodiacritics: Kerikeri
@@ -885,6 +1317,54 @@
     date: '0212'
     iata: ''
     coordinates: '3513S 17358E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NZ KDL'
+    name: Khandallah
+    namewodiacritics: Khandallah
+    subdiv: WGN
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '4115S 17447E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NZ KBN'
+    name: Kilbirnie
+    namewodiacritics: Kilbirnie
+    subdiv: WGN
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '4119S 17448E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NZ KT3'
+    name: Kingston
+    namewodiacritics: Kingston
+    subdiv: WGN
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '4119S 17445E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NZ KIN'
+    name: Kinleith
+    namewodiacritics: Kinleith
+    subdiv: WKO
+    function: '--3-----'
+    status: RL
+    date: '1707'
+    iata: ''
+    coordinates: '3817S 17554E'
     remarks: ''
 -
     ch: ''
@@ -936,6 +1416,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'NZ LEO'
+    name: Leeston
+    namewodiacritics: Leeston
+    subdiv: CAN
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '4346S 17218E'
+    remarks: ''
+-
+    ch: ''
     locode: 'NZ LEV'
     name: Levin
     namewodiacritics: Levin
@@ -945,6 +1437,18 @@
     date: '0212'
     iata: ''
     coordinates: '4038S 17517E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NZ LIN'
+    name: Lincoln
+    namewodiacritics: Lincoln
+    subdiv: CAN
+    function: '--3-----'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '4339S 17229E'
     remarks: ''
 -
     ch: ''
@@ -984,6 +1488,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'NZ LLB'
+    name: 'Lyall Bay'
+    namewodiacritics: 'Lyall Bay'
+    subdiv: WGN
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '4119S 17447E'
+    remarks: ''
+-
+    ch: ''
     locode: 'NZ LYT'
     name: Lyttelton
     namewodiacritics: Lyttelton
@@ -1020,6 +1536,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'NZ MAH'
+    name: Mahia
+    namewodiacritics: Mahia
+    subdiv: HKB
+    function: '--3-----'
+    status: AA
+    date: '1801'
+    iata: ''
+    coordinates: '3905S 17755E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NZ MGB'
+    name: 'Mairangi Bay'
+    namewodiacritics: 'Mairangi Bay'
+    subdiv: AUK
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '3644S 17446E'
+    remarks: ''
+-
+    ch: ''
     locode: 'NZ MKW'
     name: Makarewa
     namewodiacritics: Makarewa
@@ -1041,6 +1581,18 @@
     date: '0201'
     iata: ''
     coordinates: '4043S 17514E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NZ MNP'
+    name: Manapouri
+    namewodiacritics: Manapouri
+    subdiv: STL
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4534S 16736E'
     remarks: ''
 -
     ch: ''
@@ -1116,6 +1668,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'NZ MHL'
+    name: Marshland
+    namewodiacritics: Marshland
+    subdiv: CAN
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '4329S 17239E'
+    remarks: ''
+-
+    ch: ''
     locode: 'NZ MRB'
     name: Martinborough
     namewodiacritics: Martinborough
@@ -1149,6 +1713,18 @@
     date: '0001'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'NZ MKN'
+    name: Matakana
+    namewodiacritics: Matakana
+    subdiv: AUK
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '3621S 17443E'
     remarks: ''
 -
     ch: ''
@@ -1272,6 +1848,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'NZ MRM'
+    name: Miramar
+    namewodiacritics: Miramar
+    subdiv: WGN
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '4119S 17449E'
+    remarks: ''
+-
+    ch: ''
     locode: 'NZ MOE'
     name: Moerewa
     namewodiacritics: Moerewa
@@ -1368,6 +1956,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'NZ MUT'
+    name: Muritai
+    namewodiacritics: Muritai
+    subdiv: WGN
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '4118S 17453E'
+    remarks: ''
+-
+    ch: ''
     locode: 'NZ NPE'
     name: Napier
     namewodiacritics: Napier
@@ -1391,7 +1991,19 @@
     coordinates: '4115S 17316E'
     remarks: ''
 -
-    ch: ¦
+    ch: ''
+    locode: 'NZ NBN'
+    name: 'New Brighton'
+    namewodiacritics: 'New Brighton'
+    subdiv: CAN
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '4331S 17244E'
+    remarks: ''
+-
+    ch: ''
     locode: 'NZ NLN'
     name: 'New Lyn'
     namewodiacritics: 'New Lyn'
@@ -1401,7 +2013,7 @@
     date: '1307'
     iata: ''
     coordinates: '3654S 17441E'
-    remarks: '@Coo'
+    remarks: ''
 -
     ch: ''
     locode: 'NZ NPL'
@@ -1413,6 +2025,42 @@
     date: '1207'
     iata: ''
     coordinates: '3903S 17401E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NZ NWT'
+    name: Newton
+    namewodiacritics: Newton
+    subdiv: AUK
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '3651S 17445E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NZ NGA'
+    name: Ngaio
+    namewodiacritics: Ngaio
+    subdiv: WGN
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '4115S 17446E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NZ NGG'
+    name: Ngauranga
+    namewodiacritics: Ngauranga
+    subdiv: WGN
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '4115S 17449E'
     remarks: ''
 -
     ch: ''
@@ -1488,6 +2136,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'NZ OHR'
+    name: Ohariu
+    namewodiacritics: Ohariu
+    subdiv: WGN
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '4112S 17446E'
+    remarks: ''
+-
+    ch: ''
     locode: 'NZ OKA'
     name: Okarito
     namewodiacritics: Okarito
@@ -1497,6 +2157,18 @@
     date: '1207'
     iata: ''
     coordinates: '4314S 17011E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NZ OMH'
+    name: Omihi
+    namewodiacritics: Omihi
+    subdiv: CAN
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '4301S 17251E'
     remarks: ''
 -
     ch: ''
@@ -1533,6 +2205,54 @@
     date: '0212'
     iata: ''
     coordinates: '3519S 17407E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NZ OP5'
+    name: Opunake
+    namewodiacritics: Opunake
+    subdiv: TKI
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '3927S 17351E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NZ ORK'
+    name: Orakei
+    namewodiacritics: Orakei
+    subdiv: AUK
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '3651S 17449E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NZ ORA'
+    name: Oratia
+    namewodiacritics: Oratia
+    subdiv: AUK
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '3655S 17437E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NZ ORW'
+    name: Orewa
+    namewodiacritics: Orewa
+    subdiv: AUK
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '3634S 17442E'
     remarks: ''
 -
     ch: ''
@@ -1656,6 +2376,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'NZ PKG'
+    name: Pakuranga
+    namewodiacritics: Pakuranga
+    subdiv: AUK
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '3653S 17455E'
+    remarks: ''
+-
+    ch: ''
     locode: 'NZ PMS'
     name: Palmerston
     namewodiacritics: Palmerston
@@ -1680,6 +2412,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'NZ PMU'
+    name: Panmure
+    namewodiacritics: Panmure
+    subdiv: AUK
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '3653S 17452E'
+    remarks: ''
+-
+    ch: ''
     locode: 'NZ PP8'
     name: Papakura
     namewodiacritics: Papakura
@@ -1689,6 +2433,18 @@
     date: '1301'
     iata: ''
     coordinates: '3705S 17457E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NZ PPU'
+    name: Papanui
+    namewodiacritics: Papanui
+    subdiv: CAN
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '4330S 17237E'
     remarks: ''
 -
     ch: ''
@@ -1704,6 +2460,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'NZ PMT'
+    name: Paremata
+    namewodiacritics: Paremata
+    subdiv: WGN
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '4107S 17452E'
+    remarks: ''
+-
+    ch: ''
     locode: 'NZ PAR'
     name: Pareora
     namewodiacritics: Pareora
@@ -1713,6 +2481,18 @@
     date: '1207'
     iata: ''
     coordinates: '4430S 17112E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NZ PNL'
+    name: Parnell
+    namewodiacritics: Parnell
+    subdiv: AUK
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '3652S 17447E'
     remarks: ''
 -
     ch: ''
@@ -1752,6 +2532,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'NZ PCL'
+    name: 'Point Chevalier'
+    namewodiacritics: 'Point Chevalier'
+    subdiv: AUK
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '3651S 17442E'
+    remarks: ''
+-
+    ch: ''
     locode: 'NZ POK'
     name: Pokeno
     namewodiacritics: Pokeno
@@ -1764,15 +2556,15 @@
     remarks: ''
 -
     ch: ''
-    locode: 'NZ PRR'
-    name: Porirua
-    namewodiacritics: Porirua
-    subdiv: TAS
+    locode: 'NZ PSB'
+    name: Ponsonby
+    namewodiacritics: Ponsonby
+    subdiv: AUK
     function: '--3-----'
     status: RL
-    date: '0201'
+    date: '1801'
     iata: ''
-    coordinates: '4109S 17451E'
+    coordinates: '3651S 17444E'
     remarks: ''
 -
     ch: ''
@@ -1785,6 +2577,18 @@
     date: '0901'
     iata: ''
     coordinates: '4108S 17451E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NZ PRR'
+    name: Porirua
+    namewodiacritics: Porirua
+    subdiv: TAS
+    function: '--3-----'
+    status: RL
+    date: '0201'
+    iata: ''
+    coordinates: '4109S 17451E'
     remarks: ''
 -
     ch: ''
@@ -1821,6 +2625,18 @@
     date: '0907'
     iata: ''
     coordinates: '4116S 17316E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NZ PBB'
+    name: Prebbleton
+    namewodiacritics: Prebbleton
+    subdiv: CAN
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '4335S 17231E'
     remarks: ''
 -
     ch: ''
@@ -1944,6 +2760,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'NZ RCF'
+    name: Redcliffs
+    namewodiacritics: Redcliffs
+    subdiv: CAN
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '4334S 17244E'
+    remarks: ''
+-
+    ch: ''
     locode: 'NZ RNW'
     name: Renwick
     namewodiacritics: Renwick
@@ -1967,7 +2795,7 @@
     coordinates: '4120S 17311E'
     remarks: ''
 -
-    ch: +
+    ch: ''
     locode: 'NZ ZNE'
     name: Riverlands
     namewodiacritics: Riverlands
@@ -1991,7 +2819,7 @@
     coordinates: '4621S 16801E'
     remarks: ''
 -
-    ch: '#'
+    ch: ''
     locode: 'NZ OLT'
     name: Rolleston
     namewodiacritics: Rolleston
@@ -2001,6 +2829,18 @@
     date: '1307'
     iata: ''
     coordinates: '4335S 17223E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NZ RGT'
+    name: Rongotai
+    namewodiacritics: Rongotai
+    subdiv: WGN
+    function: '--3-----'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '4119S 17448E'
     remarks: ''
 -
     ch: ''
@@ -2040,6 +2880,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'NZ SHL'
+    name: 'Saint Heliers'
+    namewodiacritics: 'Saint Heliers'
+    subdiv: AUK
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '3651S 17452E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NZ STU'
+    name: Seatoun
+    namewodiacritics: Seatoun
+    subdiv: WGN
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '4119S 17450E'
+    remarks: ''
+-
+    ch: ''
     locode: 'NZ SEA'
     name: Seaview
     namewodiacritics: Seaview
@@ -2049,6 +2913,18 @@
     date: '1207'
     iata: ''
     coordinates: '3928S 17655E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NZ SDD'
+    name: Seddon
+    namewodiacritics: Seddon
+    subdiv: NSN
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '4140S 17405E'
     remarks: ''
 -
     ch: ''
@@ -2097,6 +2973,18 @@
     date: '0901'
     iata: ''
     coordinates: '3636S 17439E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NZ SSM'
+    name: Silverstream
+    namewodiacritics: Silverstream
+    subdiv: WGN
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '4109S 17500E'
     remarks: ''
 -
     ch: ''
@@ -2229,6 +3117,18 @@
     date: '1207'
     iata: ''
     coordinates: '4051S 17248E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NZ TKN'
+    name: Takanini
+    namewodiacritics: Takanini
+    subdiv: AUK
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '3702S 17455E'
     remarks: ''
 -
     ch: ''
@@ -2376,6 +3276,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'NZ TEH'
+    name: 'Te Haroto'
+    namewodiacritics: 'Te Haroto'
+    subdiv: HKB
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '3908S 17636E'
+    remarks: ''
+-
+    ch: ''
     locode: 'NZ TEK'
     name: 'Te Kauwhata'
     namewodiacritics: 'Te Kauwhata'
@@ -2472,6 +3384,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'NZ TRI'
+    name: Titirangi
+    namewodiacritics: Titirangi
+    subdiv: AUK
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3656S 17449E'
+    remarks: ''
+-
+    ch: ''
     locode: 'NZ TWI'
     name: 'Tiwai Point-Bluff Port'
     namewodiacritics: 'Tiwai Point-Bluff Port'
@@ -2508,6 +3432,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'NZ TBY'
+    name: Torbay
+    namewodiacritics: Torbay
+    subdiv: AUK
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '3642S 17445E'
+    remarks: ''
+-
+    ch: ''
     locode: 'NZ TTH'
     name: Trentham
     namewodiacritics: Trentham
@@ -2532,6 +3468,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'NZ TWZ'
+    name: Twizel
+    namewodiacritics: Twizel
+    subdiv: CAN
+    function: '-23-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4415S 01706E'
+    remarks: ''
+-
+    ch: ''
     locode: 'NZ UMU'
     name: 'Umuroa FPSO'
     namewodiacritics: 'Umuroa FPSO'
@@ -2553,6 +3501,18 @@
     date: '0212'
     iata: ''
     coordinates: '4107S 17504E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NZ WDT'
+    name: Wadestown
+    namewodiacritics: Wadestown
+    subdiv: WGN
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '4116S 17446E'
     remarks: ''
 -
     ch: ''
@@ -2592,6 +3552,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'NZ WKN'
+    name: Waikanae
+    namewodiacritics: Waikanae
+    subdiv: WGN
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '4053S 17504E'
+    remarks: ''
+-
+    ch: ''
     locode: 'NZ WKI'
     name: Waikari
     namewodiacritics: Waikari
@@ -2603,7 +3575,7 @@
     coordinates: '4258S 17241E'
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'NZ WKW'
     name: Waikawa
     namewodiacritics: Waikawa
@@ -2613,7 +3585,19 @@
     date: '1307'
     iata: ''
     coordinates: '4638S 16908E'
-    remarks: '@Fun'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NZ WUT'
+    name: Wainuiomata
+    namewodiacritics: Wainuiomata
+    subdiv: WGN
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '4116S 17457E'
+    remarks: ''
 -
     ch: ''
     locode: 'NZ WAO'
@@ -2625,6 +3609,30 @@
     date: '0607'
     iata: ''
     coordinates: '3928S 17540E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NZ WPR'
+    name: Waipara
+    namewodiacritics: Waipara
+    subdiv: CAN
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '4304S 17245E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NZ WPW'
+    name: Waipawa
+    namewodiacritics: Waipawa
+    subdiv: HKB
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '4124S 17530E'
     remarks: ''
 -
     ch: ''
@@ -2760,6 +3768,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'NZ WLV'
+    name: Wallaceville
+    namewodiacritics: Wallaceville
+    subdiv: WGN
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '4108S 17503E'
+    remarks: ''
+-
+    ch: ''
     locode: 'NZ WKA'
     name: Wanaka
     namewodiacritics: Wanaka
@@ -2841,6 +3861,18 @@
     date: '0607'
     iata: ''
     coordinates: '3617S 17431E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NZ WSP'
+    name: 'Western Springs'
+    namewodiacritics: 'Western Springs'
+    subdiv: AUK
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '3652S 17444E'
     remarks: ''
 -
     ch: ''

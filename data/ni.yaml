@@ -84,6 +84,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'NI SDC'
+    name: 'Ciudad Sandino'
+    namewodiacritics: 'Ciudad Sandino'
+    subdiv: MN
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '1209N 08620W'
+    remarks: ''
+-
+    ch: ''
     locode: 'NI CDG'
     name: Condega
     namewodiacritics: Condega
@@ -144,6 +156,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'NI DOL'
+    name: Dolores
+    namewodiacritics: Dolores
+    subdiv: CA
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '1151N 08613W'
+    remarks: ''
+-
+    ch: ''
     locode: 'NI ELB'
     name: 'El Bluff'
     namewodiacritics: 'El Bluff'
@@ -165,6 +189,18 @@
     date: '1201'
     iata: ''
     coordinates: '1243N 08622W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NI ELL'
+    name: 'El Sauce'
+    namewodiacritics: 'El Sauce'
+    subdiv: LE
+    function: '-----6--'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '1253N 08632W'
     remarks: ''
 -
     ch: ''
@@ -285,6 +321,30 @@
     date: '0501'
     iata: ''
     coordinates: '1220N 08640W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NI LTD'
+    name: 'La Trinidad'
+    namewodiacritics: 'La Trinidad'
+    subdiv: ES
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '1233N 08611W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NI LM8'
+    name: 'Las Maderas'
+    namewodiacritics: 'Las Maderas'
+    subdiv: MN
+    function: 1----6--
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '1226N 08602W'
     remarks: ''
 -
     ch: ''
@@ -431,7 +491,7 @@
     coordinates: '1245N 08644W'
     remarks: ''
 -
-    ch: +
+    ch: ''
     locode: 'NI MR3'
     name: Miramar
     namewodiacritics: Miramar
@@ -443,7 +503,7 @@
     coordinates: '1224N 08702W'
     remarks: ''
 -
-    ch: +
+    ch: ''
     locode: 'NI MR2'
     name: Miramar/Nagarote
     namewodiacritics: Miramar/Nagarote
@@ -453,6 +513,18 @@
     date: '1307'
     iata: ''
     coordinates: '1209N 08645W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NI MTE'
+    name: Montelimar
+    namewodiacritics: Montelimar
+    subdiv: MN
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '1149N 08631W'
     remarks: ''
 -
     ch: ''
@@ -477,6 +549,18 @@
     date: '0201'
     iata: ''
     coordinates: '1145N 08603W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NI NII'
+    name: Nindiri
+    namewodiacritics: Nindiri
+    subdiv: MS
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '1200N 08607W'
     remarks: ''
 -
     ch: ''
@@ -525,6 +609,18 @@
     date: '0901'
     iata: ''
     coordinates: '1327N 08624W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NI PTI'
+    name: Potosí
+    namewodiacritics: Potosi
+    subdiv: CI
+    function: 1-------
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '1300N 08730W'
     remarks: ''
 -
     ch: ''
@@ -720,6 +816,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'NI SJC'
+    name: 'San Juan Rio Coco'
+    namewodiacritics: 'San Juan Rio Coco'
+    subdiv: MD
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '1333N 08610W'
+    remarks: ''
+-
+    ch: ''
     locode: 'NI SLO'
     name: 'San Lorenzo'
     namewodiacritics: 'San Lorenzo'
@@ -732,6 +840,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'NI SMR'
+    name: 'San Marcos'
+    namewodiacritics: 'San Marcos'
+    subdiv: CA
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '1155N 08612W'
+    remarks: ''
+-
+    ch: ''
     locode: 'NI SRN'
     name: 'San Rafael del Norte'
     namewodiacritics: 'San Rafael del Norte'
@@ -741,6 +861,18 @@
     date: '0901'
     iata: ''
     coordinates: '1313N 08607W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NI SRS'
+    name: 'San Rafael del Sur'
+    namewodiacritics: 'San Rafael del Sur'
+    subdiv: MN
+    function: '-----6--'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '1151N 08627W'
     remarks: ''
 -
     ch: ''
@@ -804,6 +936,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'NI TIM'
+    name: Tisma
+    namewodiacritics: Tisma
+    subdiv: MS
+    function: '--3-----'
+    status: RL
+    date: '2001'
+    iata: ''
+    coordinates: '1205N 08601W'
+    remarks: ''
+-
+    ch: ''
     locode: 'NI TLN'
     name: Tola
     namewodiacritics: Tola
@@ -813,6 +957,30 @@
     date: '1001'
     iata: ''
     coordinates: '1126N 08556W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NI 8LG'
+    name: Totogalpa
+    namewodiacritics: Totogalpa
+    subdiv: MD
+    function: 1----6--
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '1334N 08630W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NI VEC'
+    name: 'Villa El Carmen'
+    namewodiacritics: 'Villa El Carmen'
+    subdiv: MN
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '1159N 08631W'
     remarks: ''
 -
     ch: ''

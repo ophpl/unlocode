@@ -216,6 +216,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'EG ELK'
+    name: 'Al Qantarah El Sharqiyya'
+    namewodiacritics: 'Al Qantarah El Sharqiyya'
+    subdiv: SIN
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3051N 03218E'
+    remarks: ''
+-
+    ch: ''
     locode: 'EG AQU'
     name: 'Al Qusayr'
     namewodiacritics: 'Al Qusayr'
@@ -251,7 +263,7 @@
     coordinates: ''
     remarks: ''
 -
-    ch: +
+    ch: ''
     locode: 'EG ALA'
     name: Almazah
     namewodiacritics: Almazah
@@ -261,6 +273,18 @@
     date: '1307'
     iata: ''
     coordinates: '3005N 03121E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'EG 6HB'
+    name: 'An Nubariyah'
+    namewodiacritics: 'An Nubariyah'
+    subdiv: BH
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '3039N 03004E'
     remarks: ''
 -
     ch: ''
@@ -321,6 +345,18 @@
     date: '0701'
     iata: ''
     coordinates: '2711N 03111E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'EG BGB'
+    name: 'Atakka Dry Port'
+    namewodiacritics: 'Atakka Dry Port'
+    subdiv: SUZ
+    function: 1-------
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '3206N 03300E'
     remarks: ''
 -
     ch: ''
@@ -445,12 +481,12 @@
 -
     ch: ''
     locode: 'EG DAM'
-    name: Dumyat
-    namewodiacritics: Dumyat
+    name: 'Dumyat (Damietta)'
+    namewodiacritics: 'Dumyat (Damietta)'
     subdiv: ''
     function: 1234----
     status: RL
-    date: '0701'
+    date: '1401'
     iata: QDX
     coordinates: '3125N 03149E'
     remarks: ''
@@ -495,12 +531,12 @@
     locode: 'EG ALY'
     name: 'El Iskandariya (Alexandria)'
     namewodiacritics: 'El Iskandariya (Alexandria)'
-    subdiv: ''
+    subdiv: ALX
     function: 1--45---
     status: AI
-    date: '9601'
+    date: '1601'
     iata: ''
-    coordinates: ''
+    coordinates: '3111N 02955E'
     remarks: ''
 -
     ch: ''
@@ -515,7 +551,7 @@
     coordinates: '3059N 03110E'
     remarks: ''
 -
-    ch: +
+    ch: ''
     locode: 'EG MSR'
     name: 'El Mansoura'
     namewodiacritics: 'El Mansoura'
@@ -543,12 +579,24 @@
     locode: 'EG CAI'
     name: 'El Qahira (Cairo)'
     namewodiacritics: 'El Qahira (Cairo)'
-    subdiv: ''
+    subdiv: C
     function: 1--45---
     status: AI
-    date: '9601'
+    date: '1601'
     iata: ''
-    coordinates: ''
+    coordinates: '3003N 03115E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'EG TOR'
+    name: 'El Tor'
+    namewodiacritics: 'El Tor'
+    subdiv: SIN
+    function: 1-------
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '2814N 03337E'
     remarks: ''
 -
     ch: ''
@@ -561,6 +609,18 @@
     date: '9805'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'EG GUA'
+    name: 'El-Guna (El Gouna)'
+    namewodiacritics: 'El-Guna (El Gouna)'
+    subdiv: BA
+    function: 1-3-----
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '2723N 03340E'
     remarks: ''
 -
     ch: ''
@@ -587,7 +647,7 @@
     coordinates: '3019N 03219E'
     remarks: ''
 -
-    ch: +
+    ch: ''
     locode: 'EG IYM'
     name: Faiyum
     namewodiacritics: Faiyum
@@ -700,9 +760,9 @@
     name: Idku
     namewodiacritics: Idku
     subdiv: ''
-    function: '-23-----'
+    function: 123-----
     status: RL
-    date: '0607'
+    date: '2101'
     iata: ''
     coordinates: '3118N 03018E'
     remarks: ''
@@ -719,7 +779,7 @@
     coordinates: ''
     remarks: ''
 -
-    ch: +
+    ch: ''
     locode: 'EG IYB'
     name: 'Itay Al Barud'
     namewodiacritics: 'Itay Al Barud'
@@ -731,7 +791,7 @@
     coordinates: '3053N 03039E'
     remarks: ''
 -
-    ch: +
+    ch: ''
     locode: 'EG ISA'
     name: 'Izbat Sidi Ali Murghib'
     namewodiacritics: 'Izbat Sidi Ali Murghib'
@@ -743,7 +803,7 @@
     coordinates: '3105N 02952E'
     remarks: ''
 -
-    ch: +
+    ch: ''
     locode: 'EG KEZ'
     name: 'Kafr az Zayyat'
     namewodiacritics: 'Kafr az Zayyat'
@@ -789,6 +849,18 @@
     date: '9601'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'EG MAL'
+    name: Mallawi
+    namewodiacritics: Mallawi
+    subdiv: MN
+    function: '--3-----'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '2743N 03050E'
     remarks: ''
 -
     ch: ''
@@ -864,6 +936,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'EG QAH'
+    name: 'Nasr City'
+    namewodiacritics: 'Nasr City'
+    subdiv: C
+    function: 1-3-----
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '3003N 03122E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'EG CA7'
+    name: 'New Cairo'
+    namewodiacritics: 'New Cairo'
+    subdiv: C
+    function: 1-------
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '3002N 03126E'
+    remarks: ''
+-
+    ch: ''
     locode: 'EG UVL'
     name: 'New Valley'
     namewodiacritics: 'New Valley'
@@ -900,6 +996,18 @@
     remarks: 'a.k.a Nuweiba'
 -
     ch: ''
+    locode: 'EG BRO'
+    name: Obour
+    namewodiacritics: Obour
+    subdiv: KB
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '3012N 03127E'
+    remarks: ''
+-
+    ch: ''
     locode: 'EG PIB'
     name: 'Port Ibrahim'
     namewodiacritics: 'Port Ibrahim'
@@ -923,7 +1031,7 @@
     coordinates: ''
     remarks: ''
 -
-    ch: +
+    ch: ''
     locode: 'EG PSE'
     name: 'Port Said East'
     namewodiacritics: 'Port Said East'
@@ -933,6 +1041,18 @@
     date: '1307'
     iata: ''
     coordinates: '3113N 03221E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'EG PSW'
+    name: 'Port Said West'
+    namewodiacritics: 'Port Said West'
+    subdiv: SUZ
+    function: '--3-----'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '3115N 03217E'
     remarks: ''
 -
     ch: ''
@@ -1245,6 +1365,18 @@
     date: ''
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'EG SCN'
+    name: 'Suez Canal'
+    namewodiacritics: 'Suez Canal'
+    subdiv: ''
+    function: 1-------
+    status: RL
+    date: '1707'
+    iata: ''
+    coordinates: '4218N 03220E'
     remarks: ''
 -
     ch: ''

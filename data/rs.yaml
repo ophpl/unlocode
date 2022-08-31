@@ -24,6 +24,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'RS ALE'
+    name: Aleksinac
+    namewodiacritics: Aleksinac
+    subdiv: '20'
+    function: '--3-----'
+    status: RL
+    date: '1707'
+    iata: ''
+    coordinates: '4333N 02142E'
+    remarks: ''
+-
+    ch: ''
     locode: 'RS APT'
     name: Apatin
     namewodiacritics: Apatin
@@ -60,6 +72,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'RS BAB'
+    name: Babusnica
+    namewodiacritics: Babusnica
+    subdiv: '22'
+    function: '-----6--'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '4303N 02224E'
+    remarks: ''
+-
+    ch: ''
     locode: 'RS BPA'
     name: 'Backa Palanka'
     namewodiacritics: 'Backa Palanka'
@@ -81,6 +105,18 @@
     date: '0607'
     iata: ''
     coordinates: '4548N 01938E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'RS BJK'
+    name: 'Backi Jarak'
+    namewodiacritics: 'Backi Jarak'
+    subdiv: VO
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '4522N 01952E'
     remarks: ''
 -
     ch: ''
@@ -120,6 +156,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'RS BVS'
+    name: 'Banatsko Veliko Selo'
+    namewodiacritics: 'Banatsko Veliko Selo'
+    subdiv: VO
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '4549N 02035E'
+    remarks: ''
+-
+    ch: ''
     locode: 'RS BSA'
     name: Baracka
     namewodiacritics: Baracka
@@ -155,7 +203,19 @@
     coordinates: '4454N 02016E'
     remarks: ''
 -
-    ch: +
+    ch: ''
+    locode: 'RS BAO'
+    name: Batocina
+    namewodiacritics: Batocina
+    subdiv: '12'
+    function: '--3-----'
+    status: RL
+    date: '2001'
+    iata: ''
+    coordinates: '4409N 02104E'
+    remarks: ''
+-
+    ch: ''
     locode: 'RS BAT'
     name: Batote
     namewodiacritics: Batote
@@ -264,6 +324,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'RS BOI'
+    name: Bosilegrad
+    namewodiacritics: Bosilegrad
+    subdiv: '24'
+    function: '--3-----'
+    status: AM
+    date: '2101'
+    iata: ''
+    coordinates: '4229N 02228E'
+    remarks: ''
+-
+    ch: ''
     locode: 'RS BOS'
     name: Bosnjane
     namewodiacritics: Bosnjane
@@ -273,6 +345,42 @@
     date: '0907'
     iata: ''
     coordinates: '4339N 02121E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'RS 4SN'
+    name: Bresnica
+    namewodiacritics: Bresnica
+    subdiv: '17'
+    function: 1-3-----
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '4352N 02035E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'RS B5R'
+    name: Brodarevo
+    namewodiacritics: Brodarevo
+    subdiv: '00'
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '4313N 01943E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'RS BRS'
+    name: Brus
+    namewodiacritics: Brus
+    subdiv: '13'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4323N 02102E'
     remarks: ''
 -
     ch: ''
@@ -297,6 +405,18 @@
     date: '0607'
     iata: ''
     coordinates: '4353N 02020E'
+    remarks: ''
+-
+    ch: +
+    locode: 'RS CJA'
+    name: Cajetina
+    namewodiacritics: Cajetina
+    subdiv: '16'
+    function: '--3-----'
+    status: AM
+    date: '2201'
+    iata: ''
+    coordinates: '4345N 01943E'
     remarks: ''
 -
     ch: ''
@@ -348,6 +468,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'RS CTA'
+    name: Centa
+    namewodiacritics: Centa
+    subdiv: VO
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '4506N 02023E'
+    remarks: ''
+-
+    ch: ''
     locode: 'RS CVC'
     name: Cerevic
     namewodiacritics: Cerevic
@@ -357,6 +489,18 @@
     date: '0607'
     iata: ''
     coordinates: '4513N 01939E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'RS CIC'
+    name: Cicevac
+    namewodiacritics: Cicevac
+    subdiv: '00'
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '4343N 02126E'
     remarks: ''
 -
     ch: ''
@@ -411,12 +555,12 @@
     locode: 'RS DES'
     name: Despotovo
     namewodiacritics: Despotovo
-    subdiv: ''
+    subdiv: VO
     function: '--3-----'
-    status: RQ
-    date: '1001'
+    status: RL
+    date: '1707'
     iata: ''
-    coordinates: '4545N 19516E'
+    coordinates: '4527N 01913E'
     remarks: ''
 -
     ch: ''
@@ -429,6 +573,18 @@
     date: '0607'
     iata: ''
     coordinates: '4300N 02246E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'RS DOB'
+    name: Dobanovci
+    namewodiacritics: Dobanovci
+    subdiv: '00'
+    function: 1-------
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '4449N 02013E'
     remarks: ''
 -
     ch: ''
@@ -552,6 +708,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'RS HGO'
+    name: Horgos
+    namewodiacritics: Horgos
+    subdiv: VO
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '4609N 01958E'
+    remarks: ''
+-
+    ch: ''
     locode: 'RS HRT'
     name: Hrtkovci
     namewodiacritics: Hrtkovci
@@ -573,6 +741,18 @@
     date: '0901'
     iata: ''
     coordinates: '4503N 02005E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'RS IRI'
+    name: Irig
+    namewodiacritics: Irig
+    subdiv: VO
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '4506N 01951E'
     remarks: ''
 -
     ch: ''
@@ -660,6 +840,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'RS KCJ'
+    name: Koceljeva
+    namewodiacritics: Koceljeva
+    subdiv: '08'
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '4428N 01949E'
+    remarks: ''
+-
+    ch: ''
     locode: 'RS KPJ'
     name: 'Kosovo Polje (Fushë Kosove)'
     namewodiacritics: 'Kosovo Polje (Fushe Kosove)'
@@ -693,6 +885,18 @@
     date: '0607'
     iata: ''
     coordinates: '4441N 02109E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'RS KVJ'
+    name: Kovilj
+    namewodiacritics: Kovilj
+    subdiv: '06'
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '4514N 02001E'
     remarks: ''
 -
     ch: ''
@@ -768,6 +972,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'RS KUC'
+    name: Kucevo
+    namewodiacritics: Kucevo
+    subdiv: '11'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '4429N 02140E'
+    remarks: ''
+-
+    ch: ''
     locode: 'RS KMA'
     name: Kursumlija
     namewodiacritics: Kursumlija
@@ -813,6 +1029,18 @@
     date: '0607'
     iata: ''
     coordinates: '4255N 02144E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'RS LDC'
+    name: Ledinci
+    namewodiacritics: Ledinci
+    subdiv: VO
+    function: '--3-----'
+    status: AM
+    date: '2107'
+    iata: ''
+    coordinates: '4512N 01948E'
     remarks: ''
 -
     ch: ''
@@ -900,6 +1128,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'RS AW2'
+    name: 'Mackov Kamen'
+    namewodiacritics: 'Mackov Kamen'
+    subdiv: '08'
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '4419N 01817E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'RS MMO'
+    name: 'Mala Mostanica'
+    namewodiacritics: 'Mala Mostanica'
+    subdiv: '00'
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '4438N 02018E'
+    remarks: ''
+-
+    ch: ''
     locode: 'RS SZC'
     name: 'Mali Zvornik'
     namewodiacritics: 'Mali Zvornik'
@@ -947,7 +1199,19 @@
     coordinates: '4316N 02143E'
     remarks: ''
 -
-    ch: +
+    ch: ''
+    locode: 'RS MSD'
+    name: Mesarci
+    namewodiacritics: Mesarci
+    subdiv: '08'
+    function: 1-3-----
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '4436N 01955E'
+    remarks: ''
+-
+    ch: ''
     locode: 'RS MON'
     name: Mionica
     namewodiacritics: Mionica
@@ -984,6 +1248,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'RS MOL'
+    name: Mol
+    namewodiacritics: Mol
+    subdiv: VO
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '4545N 02007E'
+    remarks: ''
+-
+    ch: ''
     locode: 'RS MJI'
     name: Mrcajevci
     namewodiacritics: Mrcajevci
@@ -1008,6 +1284,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'RS NEM'
+    name: Nemenikuce
+    namewodiacritics: Nemenikuce
+    subdiv: '00'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4429N 02035E'
+    remarks: ''
+-
+    ch: ''
     locode: 'RS INI'
     name: Nis
     namewodiacritics: Nis
@@ -1017,6 +1305,18 @@
     date: '0607'
     iata: ''
     coordinates: '4319N 02154E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'RS NOV'
+    name: 'Nova Crnja'
+    namewodiacritics: 'Nova Crnja'
+    subdiv: VO
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '4540N 02036E'
     remarks: ''
 -
     ch: ''
@@ -1032,6 +1332,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'RS NVR'
+    name: 'Nova Varos'
+    namewodiacritics: 'Nova Varos'
+    subdiv: '16'
+    function: '--3-----'
+    status: RL
+    date: '1901'
+    iata: ''
+    coordinates: '4327N 01948E'
+    remarks: ''
+-
+    ch: ''
     locode: 'RS NBD'
     name: 'Novi Beograd'
     namewodiacritics: 'Novi Beograd'
@@ -1041,6 +1353,18 @@
     date: '1007'
     iata: ''
     coordinates: '4448N 02025E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'RS N4K'
+    name: 'Novi Knezevac'
+    namewodiacritics: 'Novi Knezevac'
+    subdiv: VO
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '4603N 02006E'
     remarks: ''
 -
     ch: ''
@@ -1077,6 +1401,18 @@
     date: '0607'
     iata: ''
     coordinates: '4507N 02014E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'RS NOO'
+    name: 'Novo Milosevo'
+    namewodiacritics: 'Novo Milosevo'
+    subdiv: VO
+    function: '--3-----'
+    status: AM
+    date: '2007'
+    iata: ''
+    coordinates: '4543N 02018E'
     remarks: ''
 -
     ch: ''
@@ -1164,6 +1500,42 @@
     remarks: ''
 -
     ch: ''
+    locode: 'RS PCC'
+    name: Pecinci
+    namewodiacritics: Pecinci
+    subdiv: VO
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '4454N 01957E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'RS PNM'
+    name: 'Petrovac Na Mlavi'
+    namewodiacritics: 'Petrovac Na Mlavi'
+    subdiv: '11'
+    function: '--3-----'
+    status: AM
+    date: '2101'
+    iata: ''
+    coordinates: '4422N 02125E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'RS POV'
+    name: Petrovaradin
+    namewodiacritics: Petrovaradin
+    subdiv: VO
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '4514N 01952E'
+    remarks: ''
+-
+    ch: ''
     locode: 'RS PIR'
     name: Pirot
     namewodiacritics: Pirot
@@ -1175,7 +1547,19 @@
     coordinates: '4309N 02235E'
     remarks: ''
 -
-    ch: +
+    ch: ''
+    locode: 'RS PLA'
+    name: Plandiste
+    namewodiacritics: Plandiste
+    subdiv: VO
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '4513N 02107E'
+    remarks: ''
+-
+    ch: ''
     locode: 'RS SSP'
     name: Pojate
     namewodiacritics: Pojate
@@ -1185,6 +1569,18 @@
     date: '1307'
     iata: ''
     coordinates: '4344N 02127E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'RS POP'
+    name: Popovac
+    namewodiacritics: Popovac
+    subdiv: '13'
+    function: '--3-----'
+    status: RL
+    date: '2001'
+    iata: ''
+    coordinates: '4354N 02130E'
     remarks: ''
 -
     ch: ''
@@ -1221,6 +1617,30 @@
     date: '0607'
     iata: ''
     coordinates: '4417N 02235E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'RS PRS'
+    name: Presevo
+    namewodiacritics: Presevo
+    subdiv: '24'
+    function: '-23-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '4218N 02138E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'RS PRJ'
+    name: Priboj
+    namewodiacritics: Priboj
+    subdiv: '16'
+    function: '--3-----'
+    status: RL
+    date: '1707'
+    iata: ''
+    coordinates: '4335N 01931E'
     remarks: ''
 -
     ch: ''
@@ -1344,6 +1764,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'RS S3L'
+    name: Selenca
+    namewodiacritics: Selenca
+    subdiv: VO
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '4524N 01917E'
+    remarks: ''
+-
+    ch: ''
     locode: 'RS SEN'
     name: Senta
     namewodiacritics: Senta
@@ -1413,6 +1845,18 @@
     date: '0607'
     iata: ''
     coordinates: '4526N 01948E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'RS SIR'
+    name: Sirogojno
+    namewodiacritics: Sirogojno
+    subdiv: '08'
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '4341N 01953E'
     remarks: ''
 -
     ch: ''
@@ -1511,7 +1955,7 @@
     coordinates: '4247N 02226E'
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'RS SUB'
     name: Subotica
     namewodiacritics: Subotica
@@ -1521,7 +1965,19 @@
     date: '1307'
     iata: ''
     coordinates: '4606N 01940E'
-    remarks: '@Sub'
+    remarks: ''
+-
+    ch: ''
+    locode: 'RS SOT'
+    name: Subotiste
+    namewodiacritics: Subotiste
+    subdiv: '07'
+    function: '--3-----'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '4450N 01957E'
+    remarks: ''
 -
     ch: ''
     locode: 'RS SCN'
@@ -1533,6 +1989,18 @@
     date: '1007'
     iata: ''
     coordinates: '4448N 02017E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'RS SUR'
+    name: Surdulica
+    namewodiacritics: Surdulica
+    subdiv: '24'
+    function: '--3-----'
+    status: RL
+    date: '2001'
+    iata: ''
+    coordinates: '4241N 02210E'
     remarks: ''
 -
     ch: ''
@@ -1560,6 +2028,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'RS TEM'
+    name: Temerin
+    namewodiacritics: Temerin
+    subdiv: VO
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '4524N 01953E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'RS TPP'
+    name: Topola
+    namewodiacritics: Topola
+    subdiv: '12'
+    function: '--3-----'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '4450N 02039E'
+    remarks: ''
+-
+    ch: ''
     locode: 'RS TJV'
     name: Tresnjevac
     namewodiacritics: Tresnjevac
@@ -1569,6 +2061,18 @@
     date: '0607'
     iata: ''
     coordinates: '4405N 01854E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'RS UBS'
+    name: Ub
+    namewodiacritics: Ub
+    subdiv: '09'
+    function: '-----6--'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '4427N 02004E'
     remarks: ''
 -
     ch: ''
@@ -1596,6 +2100,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'RS UZO'
+    name: Uzovnica
+    namewodiacritics: Uzovnica
+    subdiv: '08'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '4414N 01921E'
+    remarks: ''
+-
+    ch: ''
     locode: 'RS VLJ'
     name: Valjevo
     namewodiacritics: Valjevo
@@ -1620,6 +2136,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'RS VS4'
+    name: Veternik
+    namewodiacritics: Veternik
+    subdiv: '06'
+    function: 1-------
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '4515N 01945E'
+    remarks: ''
+-
+    ch: ''
     locode: 'RS VTA'
     name: Vitina
     namewodiacritics: Vitina
@@ -1629,6 +2157,18 @@
     date: '1207'
     iata: ''
     coordinates: '4219N 02121E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'RS VH8'
+    name: 'Vladicin Han'
+    namewodiacritics: 'Vladicin Han'
+    subdiv: '24'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '4242N 02203E'
     remarks: ''
 -
     ch: ''
@@ -1689,6 +2229,18 @@
     date: '0607'
     iata: ''
     coordinates: '4534N 01939E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'RS VJB'
+    name: 'Vrnjacka Banja'
+    namewodiacritics: 'Vrnjacka Banja'
+    subdiv: '18'
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '4337N 02054E'
     remarks: ''
 -
     ch: ''

@@ -11,12 +11,11 @@ use UN\Locode\Model\Location;
  */
 interface LocodeInterface
 {
-
     /**
      * Get list by country
      *
      * @param string $country ISO 3166-1 country code
-     * @return Location[]
+     * @return null|Location[]
      */
     public function getListByCountry($country);
 
@@ -46,5 +45,4 @@ interface LocodeInterface
      * @return null|Location
      */
     public function getByLocode($locode);
-
 }

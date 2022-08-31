@@ -1,5 +1,5 @@
 -
-    ch: ¦
+    ch: ''
     locode: 'ZM BMA'
     name: 'Bwana Mkubwa'
     namewodiacritics: 'Bwana Mkubwa'
@@ -9,7 +9,7 @@
     date: '1307'
     iata: ''
     coordinates: '1302S 02842E'
-    remarks: '@Sta@Coo'
+    remarks: ''
 -
     ch: ''
     locode: 'ZM CHA'
@@ -60,6 +60,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'ZM CHU'
+    name: Chirundu
+    namewodiacritics: Chirundu
+    subdiv: '07'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '1603S 02850E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZM CHM'
+    name: Chisamba
+    namewodiacritics: Chisamba
+    subdiv: '02'
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '1459S 02823E'
+    remarks: ''
+-
+    ch: ''
     locode: 'ZM CHO'
     name: Choma
     namewodiacritics: Choma
@@ -72,6 +96,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'ZM CGE'
+    name: Chongwe
+    namewodiacritics: Chongwe
+    subdiv: '09'
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '1521S 02842E'
+    remarks: ''
+-
+    ch: ''
     locode: 'ZM CHZ'
     name: Chozi
     namewodiacritics: Chozi
@@ -81,6 +117,18 @@
     date: '0701'
     iata: ''
     coordinates: '0917S 03220E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZM IKA'
+    name: Isoka
+    namewodiacritics: Isoka
+    subdiv: '05'
+    function: '--3-----'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '1008S 03238E'
     remarks: ''
 -
     ch: ''
@@ -139,6 +187,18 @@
     function: '--3--6--'
     status: RQ
     date: '1001'
+    iata: ''
+    coordinates: '1250S 02805E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZM KUI'
+    name: Kalulushi
+    namewodiacritics: Kalulushi
+    subdiv: '08'
+    function: '-----6--'
+    status: RL
+    date: '1807'
     iata: ''
     coordinates: '1250S 02805E'
     remarks: ''
@@ -213,6 +273,54 @@
     date: '0001'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZM KAT'
+    name: Katete
+    namewodiacritics: Katete
+    subdiv: '03'
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '1113S 03309E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZM KTM'
+    name: 'Katima Mulilo'
+    namewodiacritics: 'Katima Mulilo'
+    subdiv: '01'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '1728S 02413E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZM KWB'
+    name: Kawambwa
+    namewodiacritics: Kawambwa
+    subdiv: '04'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0947S 02905E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZM KZG'
+    name: Kazungula
+    namewodiacritics: Kazungula
+    subdiv: '07'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '1747S 02516E'
     remarks: ''
 -
     ch: ''
@@ -360,6 +468,18 @@
     remarks: 'CG? TZ?'
 -
     ch: ''
+    locode: 'ZM MTB'
+    name: Matumbo
+    namewodiacritics: Matumbo
+    subdiv: '05'
+    function: '--3-----'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '1058S 03201E'
+    remarks: ''
+-
+    ch: ''
     locode: 'ZM MBK'
     name: Mazabuka
     namewodiacritics: Mazabuka
@@ -393,6 +513,18 @@
     date: '9501'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZM MKU'
+    name: Mkushi
+    namewodiacritics: Mkushi
+    subdiv: '02'
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '1337S 02924E'
     remarks: ''
 -
     ch: ''
@@ -480,6 +612,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'ZM MWM'
+    name: Mwami
+    namewodiacritics: Mwami
+    subdiv: '03'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '1349S 03246E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZM NKD'
+    name: Nakonde
+    namewodiacritics: Nakonde
+    subdiv: '05'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '0920S 03246E'
+    remarks: ''
+-
+    ch: ''
     locode: 'ZM NLA'
     name: Ndola
     namewodiacritics: Ndola
@@ -501,6 +657,18 @@
     date: '9501'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZM YMB'
+    name: Nyimba
+    namewodiacritics: Nyimba
+    subdiv: '03'
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '1433S 03050E'
     remarks: ''
 -
     ch: ''
@@ -537,6 +705,18 @@
     date: '9501'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZM SIA'
+    name: Siavonga
+    namewodiacritics: Siavonga
+    subdiv: '07'
+    function: 1-------
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '1632S 02843E'
     remarks: ''
 -
     ch: ''
@@ -585,4 +765,16 @@
     date: '9501'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZM ZMA'
+    name: Zimba
+    namewodiacritics: Zimba
+    subdiv: '07'
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '1719S 02612E'
     remarks: ''

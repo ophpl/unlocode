@@ -15,12 +15,12 @@
     locode: 'CI ABJ'
     name: Abidjan
     namewodiacritics: Abidjan
-    subdiv: ''
+    subdiv: AB
     function: 1--45---
     status: AI
-    date: '9601'
+    date: '1701'
     iata: ''
-    coordinates: ''
+    coordinates: '0520N 00401W'
     remarks: ''
 -
     ch: ''
@@ -96,18 +96,6 @@
     remarks: ''
 -
     ch: ''
-    locode: 'CI BBV'
-    name: Berenby
-    namewodiacritics: Berenby
-    subdiv: ''
-    function: '---4----'
-    status: RQ
-    date: '0901'
-    iata: ''
-    coordinates: ''
-    remarks: ''
--
-    ch: +
     locode: 'CI BGV'
     name: Bingerville
     namewodiacritics: Bingerville
@@ -288,6 +276,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CI DJB'
+    name: Djibi
+    namewodiacritics: Djibi
+    subdiv: '01'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '0527N 00359W'
+    remarks: ''
+-
+    ch: ''
     locode: 'CI ESP'
     name: Espoir
     namewodiacritics: Espoir
@@ -357,6 +357,30 @@
     date: '0701'
     iata: ''
     coordinates: '0508N 00501W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CI BBV'
+    name: Grand-Béréby
+    namewodiacritics: Grand-Bereby
+    subdiv: '09'
+    function: '---4----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '0440N 00704W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CI GUI'
+    name: Guiembé
+    namewodiacritics: Guiembe
+    subdiv: SV
+    function: '-23-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '0914N 00543W'
     remarks: ''
 -
     ch: ''
@@ -527,26 +551,14 @@
     coordinates: '0515N 00358W'
     remarks: ''
 -
-    ch: +
-    locode: 'CI SPR'
-    name: 'San Pédro'
-    namewodiacritics: 'San Pedro'
-    subdiv: '09'
-    function: '--3-----'
-    status: ''
-    date: '1307'
-    iata: ''
-    coordinates: '0445N 00638W'
-    remarks: ''
--
     ch: ''
     locode: 'CI SPY'
     name: San-Pédro
     namewodiacritics: San-Pedro
-    subdiv: ''
-    function: 1--4----
+    subdiv: '09'
+    function: 1-34----
     status: AI
-    date: '0212'
+    date: '1401'
     iata: ''
     coordinates: '0444N 00637W'
     remarks: ''

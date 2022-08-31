@@ -311,7 +311,7 @@
     coordinates: ''
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'GA MBA'
     name: Mayumba
     namewodiacritics: Mayumba
@@ -321,7 +321,7 @@
     date: '1307'
     iata: ''
     coordinates: '0259N 01017E'
-    remarks: '@Sub'
+    remarks: ''
 -
     ch: ''
     locode: 'GA MBC'
@@ -395,7 +395,7 @@
     coordinates: '0001S 01123E'
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'GA MVX'
     name: Minvoul
     namewodiacritics: Minvoul
@@ -405,7 +405,7 @@
     date: '1307'
     iata: ''
     coordinates: '0209N 01207E'
-    remarks: '@Fun@Sta@Sub@Coo'
+    remarks: ''
 -
     ch: ''
     locode: 'GA MZC'
@@ -491,7 +491,7 @@
     coordinates: ''
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'GA NKA'
     name: Nkan
     namewodiacritics: Nkan
@@ -501,7 +501,7 @@
     date: '1307'
     iata: ''
     coordinates: '0042N 00938E'
-    remarks: '@Fun@Sta@Sub@Coo'
+    remarks: ''
 -
     ch: ''
     locode: 'GA NYA'
@@ -573,6 +573,18 @@
     date: '9601'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'GA NGI'
+    name: Owendo
+    namewodiacritics: Owendo
+    subdiv: '1'
+    function: '-23-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '0017N 00930E'
     remarks: ''
 -
     ch: ''

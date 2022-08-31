@@ -4,11 +4,23 @@
     name: Attopeu
     namewodiacritics: Attopeu
     subdiv: ''
-    function: '---4----'
+    function: '--34----'
     status: AI
-    date: '0001'
+    date: '2101'
     iata: ''
-    coordinates: ''
+    coordinates: '1449N 10649E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LA HNK'
+    name: 'Ban Houaynamleuk'
+    namewodiacritics: 'Ban Houaynamleuk'
+    subdiv: BL
+    function: '--3-----'
+    status: AA
+    date: '1601'
+    iata: ''
+    coordinates: '1822N 10307E'
     remarks: ''
 -
     ch: ''
@@ -24,15 +36,75 @@
     remarks: ''
 -
     ch: ''
+    locode: 'LA GT9'
+    name: 'Ban Thanalèng'
+    namewodiacritics: 'Ban Thanaleng'
+    subdiv: VT
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '1753N 10243E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LA BTN'
+    name: Boten
+    namewodiacritics: Boten
+    subdiv: LM
+    function: '-23-----'
+    status: AA
+    date: '2101'
+    iata: ''
+    coordinates: '2110N 10140E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LA DSH'
+    name: Danesavan
+    namewodiacritics: Danesavan
+    subdiv: SV
+    function: '--3-----'
+    status: AA
+    date: '2101'
+    iata: ''
+    coordinates: '1637N 10635E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LA HHP'
+    name: 'Hin Hoeup'
+    namewodiacritics: 'Hin Hoeup'
+    subdiv: VI
+    function: '--3-----'
+    status: AA
+    date: '2101'
+    iata: ''
+    coordinates: '1837N 10219E'
+    remarks: ''
+-
+    ch: ''
     locode: 'LA HOE'
     name: Houeisay
     namewodiacritics: Houeisay
     subdiv: ''
-    function: '---4----'
+    function: '--34----'
     status: AI
-    date: '0001'
+    date: '2101'
     iata: ''
-    coordinates: ''
+    coordinates: '2015N 10026E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LA KTH'
+    name: Kenthao
+    namewodiacritics: Kenthao
+    subdiv: XA
+    function: '--3-----'
+    status: AA
+    date: '2101'
+    iata: ''
+    coordinates: '1743N 10123E'
     remarks: ''
 -
     ch: ''
@@ -48,15 +120,39 @@
     remarks: ''
 -
     ch: ''
+    locode: 'LA LLY'
+    name: Lalay
+    namewodiacritics: Lalay
+    subdiv: SL
+    function: '--3-----'
+    status: AA
+    date: '2101'
+    iata: ''
+    coordinates: '1618N 10657E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LA LTY'
+    name: Lantouy
+    namewodiacritics: Lantouy
+    subdiv: PH
+    function: '--3-----'
+    status: AA
+    date: '2101'
+    iata: ''
+    coordinates: '2228N 10142E'
+    remarks: ''
+-
+    ch: ''
     locode: 'LA LXG'
     name: 'Luang Namtha'
     namewodiacritics: 'Luang Namtha'
     subdiv: ''
-    function: '---4----'
+    function: '--34----'
     status: AI
-    date: '0001'
+    date: '2101'
     iata: ''
-    coordinates: ''
+    coordinates: '2058N 10123E'
     remarks: ''
 -
     ch: ''
@@ -64,11 +160,23 @@
     name: 'Luang Prabang'
     namewodiacritics: 'Luang Prabang'
     subdiv: ''
-    function: '---4----'
+    function: '-234----'
     status: AI
-    date: '0001'
+    date: '2101'
     iata: ''
-    coordinates: ''
+    coordinates: '1953N 10212E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LA MGN'
+    name: 'Muang Ngeun'
+    namewodiacritics: 'Muang Ngeun'
+    subdiv: XA
+    function: '--3-----'
+    status: AA
+    date: '2101'
+    iata: ''
+    coordinates: '1936N 10106E'
     remarks: ''
 -
     ch: ''
@@ -84,15 +192,87 @@
     remarks: ''
 -
     ch: ''
+    locode: 'LA NMO'
+    name: Nameo
+    namewodiacritics: Nameo
+    subdiv: HO
+    function: '--3-----'
+    status: AA
+    date: '2101'
+    iata: ''
+    coordinates: '2017N 10437E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LA NKM'
+    name: Namkan
+    namewodiacritics: Namkan
+    subdiv: XI
+    function: '--3-----'
+    status: AA
+    date: '2101'
+    iata: ''
+    coordinates: '1927N 10404E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LA NPO'
+    name: Namphao
+    namewodiacritics: Namphao
+    subdiv: BL
+    function: '--3-----'
+    status: AA
+    date: '2101'
+    iata: ''
+    coordinates: '1822N 10509E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LA NPH'
+    name: Naphao
+    namewodiacritics: Naphao
+    subdiv: KH
+    function: '--3-----'
+    status: AA
+    date: '2101'
+    iata: ''
+    coordinates: '1739N 10545E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LA NTY'
+    name: Nateuy
+    namewodiacritics: Nateuy
+    subdiv: LM
+    function: '-23--6--'
+    status: AA
+    date: '2101'
+    iata: ''
+    coordinates: '2103N 10138E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LA NNK'
+    name: Nongnokkhian
+    namewodiacritics: Nongnokkhian
+    subdiv: AT
+    function: '--3-----'
+    status: AA
+    date: '2101'
+    iata: ''
+    coordinates: '1355N 10601E'
+    remarks: ''
+-
+    ch: ''
     locode: 'LA ODY'
     name: Oudomxay
     namewodiacritics: Oudomxay
     subdiv: ''
-    function: '---4----'
+    function: '-234----'
     status: AI
-    date: '0001'
+    date: '2101'
     iata: ''
-    coordinates: ''
+    coordinates: '2040N 10159E'
     remarks: ''
 -
     ch: ''
@@ -100,11 +280,11 @@
     name: Paksane
     namewodiacritics: Paksane
     subdiv: ''
-    function: '---4----'
+    function: '--34----'
     status: AI
-    date: '0001'
+    date: '2101'
     iata: ''
-    coordinates: ''
+    coordinates: '1823N 10339E'
     remarks: ''
 -
     ch: ''
@@ -114,9 +294,33 @@
     subdiv: ''
     function: '--34----'
     status: AI
-    date: '9901'
+    date: '2101'
     iata: ''
-    coordinates: ''
+    coordinates: '1507N 10546E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LA PGH'
+    name: Panghai
+    namewodiacritics: Panghai
+    subdiv: LM
+    function: '--3-----'
+    status: AA
+    date: '2101'
+    iata: ''
+    coordinates: '2112N 10114E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LA PHK'
+    name: Panghok
+    namewodiacritics: Panghok
+    subdiv: PH
+    function: '--3-----'
+    status: AA
+    date: '2101'
+    iata: ''
+    coordinates: '2112N 10254E'
     remarks: ''
 -
     ch: ''
@@ -124,11 +328,35 @@
     name: Phongsaly
     namewodiacritics: Phongsaly
     subdiv: PH
-    function: '---4----'
+    function: '--34----'
     status: RL
-    date: '0907'
+    date: '2101'
     iata: ''
-    coordinates: '1830N 10225E'
+    coordinates: '2140N 10206E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LA PNH'
+    name: Phonhong
+    namewodiacritics: Phonhong
+    subdiv: VI
+    function: '-23-----'
+    status: AA
+    date: '2101'
+    iata: ''
+    coordinates: '1829N 10224E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LA PKU'
+    name: 'Phu Keua'
+    namewodiacritics: 'Phu Keua'
+    subdiv: AT
+    function: '--3-----'
+    status: AA
+    date: '2101'
+    iata: ''
+    coordinates: '1442N 10733E'
     remarks: ''
 -
     ch: ''
@@ -136,11 +364,11 @@
     name: 'Sam Neua'
     namewodiacritics: 'Sam Neua'
     subdiv: ''
-    function: '---4----'
+    function: '--34----'
     status: AI
-    date: '0001'
+    date: '2101'
     iata: ''
-    coordinates: ''
+    coordinates: '2024N 10402E'
     remarks: ''
 -
     ch: ''
@@ -148,11 +376,11 @@
     name: Saravane
     namewodiacritics: Saravane
     subdiv: ''
-    function: '---4----'
+    function: '--34----'
     status: AI
-    date: '0001'
+    date: '2101'
     iata: ''
-    coordinates: ''
+    coordinates: '1542N 10624E'
     remarks: ''
 -
     ch: ''
@@ -160,9 +388,9 @@
     name: Savannakhét
     namewodiacritics: Savannakhet
     subdiv: ''
-    function: '--3-----'
+    function: '--3--6--'
     status: RL
-    date: '0212'
+    date: '1601'
     iata: ZVK
     coordinates: '1633N 10445E'
     remarks: ''
@@ -172,11 +400,23 @@
     name: Sayaboury
     namewodiacritics: Sayaboury
     subdiv: ''
-    function: '---4----'
+    function: '--34----'
     status: AI
-    date: '0001'
+    date: '2101'
     iata: ''
-    coordinates: ''
+    coordinates: '1915N 10142E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LA SKG'
+    name: Sekong
+    namewodiacritics: Sekong
+    subdiv: XE
+    function: '--3-----'
+    status: AA
+    date: '2101'
+    iata: ''
+    coordinates: '1520N 10643E'
     remarks: ''
 -
     ch: ''
@@ -196,23 +436,23 @@
     name: Thakhek
     namewodiacritics: Thakhek
     subdiv: ''
-    function: '---4----'
+    function: '--34-6--'
     status: AI
-    date: '0001'
+    date: '2101'
     iata: ''
-    coordinates: ''
+    coordinates: '1729N 10444E'
     remarks: ''
 -
     ch: ''
     locode: 'LA THG'
     name: Thanaleng
     namewodiacritics: Thanaleng
-    subdiv: ''
-    function: '--3-----'
+    subdiv: VT
+    function: '-23--6--'
     status: RQ
-    date: '0207'
+    date: '2107'
     iata: ''
-    coordinates: ''
+    coordinates: '1753N 10243E'
     remarks: ''
 -
     ch: ''
@@ -244,11 +484,23 @@
     name: Vangrieng
     namewodiacritics: Vangrieng
     subdiv: ''
-    function: '---4----'
+    function: '-234----'
     status: AI
-    date: '0001'
+    date: '2101'
     iata: ''
-    coordinates: ''
+    coordinates: '1855N 10226E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LA VTO'
+    name: Vangtao
+    namewodiacritics: Vangtao
+    subdiv: CH
+    function: '--3--6--'
+    status: AA
+    date: '2101'
+    iata: ''
+    coordinates: '1507N 10527E'
     remarks: ''
 -
     ch: ''
@@ -280,11 +532,11 @@
     name: Vientiane
     namewodiacritics: Vientiane
     subdiv: ''
-    function: '---45---'
+    function: '-2345---'
     status: AI
-    date: '9601'
+    date: '2101'
     iata: ''
-    coordinates: ''
+    coordinates: '1758N 10233E'
     remarks: ''
 -
     ch: ''
@@ -304,11 +556,11 @@
     name: 'Xieng Khouang'
     namewodiacritics: 'Xieng Khouang'
     subdiv: ''
-    function: '---4----'
+    function: '--34----'
     status: AI
-    date: '0001'
+    date: '2101'
     iata: ''
-    coordinates: ''
+    coordinates: '1927N 10309E'
     remarks: ''
 -
     ch: ''

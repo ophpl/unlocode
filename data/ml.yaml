@@ -12,6 +12,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'ML AAO'
+    name: Ansongo
+    namewodiacritics: Ansongo
+    subdiv: '7'
+    function: '---4----'
+    status: AI
+    date: '1801'
+    iata: ''
+    coordinates: '1506N 00005E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ML BGD'
+    name: Baguinéda
+    namewodiacritics: Baguineda
+    subdiv: '2'
+    function: '--3-----'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '1236N 00746W'
+    remarks: ''
+-
+    ch: ''
     locode: 'ML BKO'
     name: Bamako
     namewodiacritics: Bamako
@@ -21,6 +45,18 @@
     date: '9601'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'ML BAI'
+    name: Banangoroni
+    namewodiacritics: Banangoroni
+    subdiv: '4'
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '1341N 00623W'
     remarks: ''
 -
     ch: ''
@@ -45,6 +81,30 @@
     date: '0212'
     iata: ''
     coordinates: '1124N 00729W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ML DKB'
+    name: Dialakorobougou
+    namewodiacritics: Dialakorobougou
+    subdiv: '2'
+    function: '-23-----'
+    status: RL
+    date: '1901'
+    iata: ''
+    coordinates: '1248N 00725W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ML DIO'
+    name: Dioila
+    namewodiacritics: Dioila
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '1707'
+    iata: ''
+    coordinates: '1229N 00648W'
     remarks: ''
 -
     ch: ''
@@ -81,6 +141,54 @@
     date: '0901'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'ML KDL'
+    name: Kadiolo
+    namewodiacritics: Kadiolo
+    subdiv: '3'
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '1033N 00546W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ML KAM'
+    name: Kamalé
+    namewodiacritics: Kamale
+    subdiv: '2'
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '1223N 00816W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ML KAT'
+    name: Kati
+    namewodiacritics: Kati
+    subdiv: '2'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '1244N 00804W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ML KBG'
+    name: Katibougou
+    namewodiacritics: Katibougou
+    subdiv: '2'
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '1255N 00731W'
     remarks: ''
 -
     ch: ''
@@ -156,6 +264,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'ML KOU'
+    name: Koumantou
+    namewodiacritics: Koumantou
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '1707'
+    iata: ''
+    coordinates: '1125N 00650W'
+    remarks: ''
+-
+    ch: ''
     locode: 'ML KTX'
     name: Koutiala
     namewodiacritics: Koutiala
@@ -189,6 +309,18 @@
     date: '0401'
     iata: ''
     coordinates: '1318N 01039W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ML MBG'
+    name: Manabougou
+    namewodiacritics: Manabougou
+    subdiv: '2'
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '1246N 00741W'
     remarks: ''
 -
     ch: ''

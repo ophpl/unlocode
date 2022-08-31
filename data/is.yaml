@@ -108,18 +108,6 @@
     remarks: ''
 -
     ch: ''
-    locode: 'IS BOV'
-    name: Bolungarvirk
-    namewodiacritics: Bolungarvirk
-    subdiv: ''
-    function: '--3-----'
-    status: RL
-    date: '0207'
-    iata: ''
-    coordinates: '6610N 02313W'
-    remarks: ''
--
-    ch: ''
     locode: 'IS BOI'
     name: Bordeyri
     namewodiacritics: Bordeyri
@@ -165,6 +153,18 @@
     date: '9601'
     iata: BXV
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'IS BRJ'
+    name: Brjánslækur
+    namewodiacritics: Brjanslakur
+    subdiv: '3'
+    function: 1-------
+    status: AA
+    date: '1807'
+    iata: ''
+    coordinates: '6532N 02312W'
     remarks: ''
 -
     ch: ''
@@ -285,6 +285,18 @@
     date: '9601'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'IS FEY'
+    name: Flatey
+    namewodiacritics: Flatey
+    subdiv: '3'
+    function: 1-------
+    status: AA
+    date: '1807'
+    iata: ''
+    coordinates: '6522N 02256W'
     remarks: ''
 -
     ch: ''
@@ -540,18 +552,6 @@
     remarks: ''
 -
     ch: ''
-    locode: 'IS HVR'
-    name: Hvalfjørdur
-    namewodiacritics: Hvalfjordur
-    subdiv: ''
-    function: 1-------
-    status: AC
-    date: '9601'
-    iata: ''
-    coordinates: ''
-    remarks: ''
--
-    ch: ''
     locode: 'IS HVM'
     name: Hvammstangi
     namewodiacritics: Hvammstangi
@@ -623,7 +623,7 @@
     coordinates: ''
     remarks: ''
 -
-    ch: +
+    ch: ''
     locode: 'IS KIR'
     name: Kirkjubæjarklaustur
     namewodiacritics: Kirkjubajarklaustur
@@ -672,6 +672,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'IS LAN'
+    name: Landeyjahöfn
+    namewodiacritics: Landeyjahofn
+    subdiv: '8'
+    function: 1-------
+    status: AA
+    date: '1601'
+    iata: ''
+    coordinates: '6131N 02007W'
+    remarks: ''
+-
+    ch: ''
     locode: 'IS LSA'
     name: 'Litli Sandur'
     namewodiacritics: 'Litli Sandur'
@@ -683,7 +695,19 @@
     coordinates: '6424N 02127W'
     remarks: ''
 -
-    ch: ¦
+    ch: ''
+    locode: 'IS HVR'
+    name: Midsandur
+    namewodiacritics: Midsandur
+    subdiv: ''
+    function: 1-------
+    status: AC
+    date: '1601'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
     locode: 'IS MJH'
     name: Mjoeyrarhofn
     namewodiacritics: Mjoeyrarhofn
@@ -693,7 +717,7 @@
     date: '1307'
     iata: ''
     coordinates: '6455N 01357W'
-    remarks: '@Sub'
+    remarks: ''
 -
     ch: ''
     locode: 'IS MJO'
@@ -852,6 +876,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'IS RYK'
+    name: Reykjabesbaer
+    namewodiacritics: Reykjabesbaer
+    subdiv: '2'
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '6400N 02233W'
+    remarks: ''
+-
+    ch: ''
     locode: 'IS REY'
     name: Reykjavík
     namewodiacritics: Reykjavik
@@ -945,6 +981,18 @@
     date: '9601'
     iata: SIJ
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'IS SKF'
+    name: Skaftafell
+    namewodiacritics: Skaftafell
+    subdiv: '8'
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '6401N 01700W'
     remarks: ''
 -
     ch: ''
@@ -1068,6 +1116,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'IS THE'
+    name: Theistareykir
+    namewodiacritics: Theistareykir
+    subdiv: '6'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '6554N 01658W'
+    remarks: ''
+-
+    ch: ''
     locode: 'IS TEY'
     name: Thingeyri
     namewodiacritics: Thingeyri
@@ -1125,6 +1185,18 @@
     date: '9601'
     iata: VEY
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'IS VIK'
+    name: Vík
+    namewodiacritics: Vik
+    subdiv: '8'
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '6325N 01901W'
     remarks: ''
 -
     ch: ''

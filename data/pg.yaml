@@ -227,17 +227,17 @@
     coordinates: '0708S 14544E'
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'PG ANB'
     name: 'Anewa Bay'
     namewodiacritics: 'Anewa Bay'
-    subdiv: NSA
+    subdiv: NSB
     function: 1-------
     status: RL
     date: '1307'
     iata: ''
     coordinates: '0612S 15533E'
-    remarks: '@Sub'
+    remarks: ''
 -
     ch: ''
     locode: 'PG AGG'
@@ -909,6 +909,18 @@
     date: '9601'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PG CAU'
+    name: 'Caution Bay'
+    namewodiacritics: 'Caution Bay'
+    subdiv: CPM
+    function: 1-------
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '0920S 14656E'
     remarks: ''
 -
     ch: ''
@@ -2883,12 +2895,12 @@
     locode: 'PG MAG'
     name: Madang
     namewodiacritics: Madang
-    subdiv: ''
+    subdiv: MPM
     function: 1--4----
     status: AI
-    date: '9601'
+    date: '1701'
     iata: ''
-    coordinates: ''
+    coordinates: '0513S 14547E'
     remarks: ''
 -
     ch: ''

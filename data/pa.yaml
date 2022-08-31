@@ -1,5 +1,17 @@
 -
     ch: ''
+    locode: 'PA ACH'
+    name: Achiote
+    namewodiacritics: Achiote
+    subdiv: '3'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0913N 08001W'
+    remarks: ''
+-
+    ch: ''
     locode: 'PA ACU'
     name: Achutupo
     namewodiacritics: Achutupo
@@ -15,12 +27,12 @@
     locode: 'PA ABA'
     name: 'Agua Buena'
     namewodiacritics: 'Agua Buena'
-    subdiv: ''
+    subdiv: '7'
     function: '--3--6--'
     status: RL
-    date: '0607'
+    date: '1807'
     iata: ''
-    coordinates: '0735N 08017W'
+    coordinates: '0749N 08024W'
     remarks: ''
 -
     ch: ''
@@ -33,6 +45,18 @@
     date: '1301'
     iata: ''
     coordinates: '0727N 08021W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA AGF'
+    name: 'Agua Fria'
+    namewodiacritics: 'Agua Fria'
+    subdiv: '5'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0725N 08049W'
     remarks: ''
 -
     ch: ''
@@ -84,6 +108,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'PA ADZ'
+    name: 'Alcalde Díaz'
+    namewodiacritics: 'Alcalde Diaz'
+    subdiv: '8'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0907N 07933W'
+    remarks: ''
+-
+    ch: ''
     locode: 'PA PAM'
     name: Almirante
     namewodiacritics: Almirante
@@ -96,15 +132,75 @@
     remarks: ''
 -
     ch: ''
+    locode: 'PA ABQ'
+    name: 'Alto Boquete'
+    namewodiacritics: 'Alto Boquete'
+    subdiv: '4'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0845N 08226W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA ADG'
+    name: 'Altos de Güera'
+    namewodiacritics: 'Altos de Guera'
+    subdiv: '7'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0732N 08038W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA AMD'
+    name: Amador
+    namewodiacritics: Amador
+    subdiv: '9'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0904N 07954W'
+    remarks: ''
+-
+    ch: ''
     locode: 'PA ACO'
     name: Ancon
     namewodiacritics: Ancon
-    subdiv: ''
+    subdiv: '8'
     function: 1-3-----
     status: RL
-    date: '0701'
+    date: '1807'
     iata: ''
-    coordinates: '0857N 07933W'
+    coordinates: '0858N 07933W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA ANT'
+    name: Antón
+    namewodiacritics: Anton
+    subdiv: '2'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '0824N 08016W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA ARS'
+    name: Arenas
+    namewodiacritics: Arenas
+    subdiv: '9'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0722N 08051W'
     remarks: ''
 -
     ch: ''
@@ -117,6 +213,18 @@
     date: '1207'
     iata: ''
     coordinates: '0902N 07957W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA AMA'
+    name: Arosemena
+    namewodiacritics: Arosemena
+    subdiv: '9'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0858N 07957W'
     remarks: ''
 -
     ch: ''
@@ -144,6 +252,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'PA BAC'
+    name: Baco
+    namewodiacritics: Baco
+    subdiv: '4'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0804N 08252W'
+    remarks: ''
+-
+    ch: ''
     locode: 'PA BAG'
     name: Bágala
     namewodiacritics: Bagala
@@ -153,6 +273,30 @@
     date: '0501'
     iata: ''
     coordinates: '0828N 08232W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA BHP'
+    name: 'Bahía Honda'
+    namewodiacritics: 'Bahia Honda'
+    subdiv: '10'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0745N 08131W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA BHH'
+    name: 'Bahía Honda'
+    namewodiacritics: 'Bahia Honda'
+    subdiv: '7'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0741N 08027W'
     remarks: ''
 -
     ch: ''
@@ -180,6 +324,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'PA BCL'
+    name: 'Bajo Corral'
+    namewodiacritics: 'Bajo Corral'
+    subdiv: '7'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0736N 08016W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA BGA'
+    name: 'Bajos de Güera'
+    namewodiacritics: 'Bajos de Guera'
+    subdiv: '7'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0733N 08037W'
+    remarks: ''
+-
+    ch: ''
     locode: 'PA BLB'
     name: Balboa
     namewodiacritics: Balboa
@@ -192,15 +360,75 @@
     remarks: ''
 -
     ch: ''
+    locode: 'PA BNZ'
+    name: Barnizal
+    namewodiacritics: Barnizal
+    subdiv: '10'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0825N 08046W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA BUS'
+    name: 'Barrios Unidos'
+    namewodiacritics: 'Barrios Unidos'
+    subdiv: '2'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0812N 08031W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA BST'
+    name: Bastimentos
+    namewodiacritics: Bastimentos
+    subdiv: '1'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0921N 08212W'
+    remarks: ''
+-
+    ch: ''
     locode: 'PA BAY'
     name: Bayano
     namewodiacritics: Bayano
-    subdiv: ''
+    subdiv: '7'
     function: 1-3-----
     status: RL
-    date: '0601'
+    date: '1807'
     iata: ''
-    coordinates: '0757N 08020W'
+    coordinates: '0738N 08023W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA BJO'
+    name: Bejuco
+    namewodiacritics: Bejuco
+    subdiv: '9'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0836N 07953W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA BFS'
+    name: 'Belisario Frias'
+    namewodiacritics: 'Belisario Frias'
+    subdiv: '8'
+    function: '-----6--'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0904N 07929W'
     remarks: ''
 -
     ch: ''
@@ -213,6 +441,66 @@
     date: '0607'
     iata: ''
     coordinates: '0834N 08011W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA BJG'
+    name: Bijagual
+    namewodiacritics: Bijagual
+    subdiv: '4'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0831N 08221W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA BVS'
+    name: Bisvalles
+    namewodiacritics: Bisvalles
+    subdiv: '10'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0810N 08113W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA BCC'
+    name: 'Boca Chica'
+    namewodiacritics: 'Boca Chica'
+    subdiv: '4'
+    function: 1-3-----
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '0813N 08213W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA BDC'
+    name: 'Boca de Cupe'
+    namewodiacritics: 'Boca de Cupe'
+    subdiv: '5'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0803N 07735W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA BDM'
+    name: 'Boca del Monte'
+    namewodiacritics: 'Boca del Monte'
+    subdiv: '4'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0821N 08207W'
     remarks: ''
 -
     ch: ''
@@ -231,10 +519,10 @@
     locode: 'PA BOQ'
     name: Boquerón
     namewodiacritics: Boqueron
-    subdiv: ''
+    subdiv: '4'
     function: '--3-----'
     status: RL
-    date: '0201'
+    date: '1807'
     iata: ''
     coordinates: '0921N 07934W'
     remarks: ''
@@ -252,6 +540,54 @@
     remarks: ''
 -
     ch: ''
+    locode: 'PA BNN'
+    name: Breñón
+    namewodiacritics: Brenon
+    subdiv: '4'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0838N 08249W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA BJS'
+    name: Brujas
+    namewodiacritics: Brujas
+    subdiv: '8'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0835N 07831W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA CON'
+    name: 'Buena Vista'
+    namewodiacritics: 'Buena Vista'
+    subdiv: '3'
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '0916N 07941W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA BAS'
+    name: 'Buenos Aires'
+    namewodiacritics: 'Buenos Aires'
+    subdiv: '9'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0838N 07957W'
+    remarks: ''
+-
+    ch: ''
     locode: 'PA PZA'
     name: Bugaba
     namewodiacritics: Bugaba
@@ -264,15 +600,87 @@
     remarks: ''
 -
     ch: ''
+    locode: 'PA CBL'
+    name: Caballero
+    namewodiacritics: Caballero
+    subdiv: '2'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0833N 08012W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA CBA'
+    name: Cabuya
+    namewodiacritics: Cabuya
+    subdiv: '9'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0835N 07955W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA CYA'
+    name: Cabuya
+    namewodiacritics: Cabuya
+    subdiv: '6'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0802N 08038W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA CCQ'
+    name: Cacique
+    namewodiacritics: Cacique
+    subdiv: '3'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0937N 07937W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA CMT'
+    name: Caimitillo
+    namewodiacritics: Caimitillo
+    subdiv: '8'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0909N 07932W'
+    remarks: ''
+-
+    ch: ''
     locode: 'PA CAM'
     name: Caimito
     namewodiacritics: Caimito
-    subdiv: ''
+    subdiv: '9'
     function: '--3-----'
     status: RL
-    date: '0201'
+    date: '1807'
     iata: ''
-    coordinates: '0833N 08226W'
+    coordinates: '0849N 07957W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA CLD'
+    name: Caldera
+    namewodiacritics: Caldera
+    subdiv: '4'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0839N 08223W'
     remarks: ''
 -
     ch: ''
@@ -288,6 +696,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'PA CLA'
+    name: Calidonia
+    namewodiacritics: Calidonia
+    subdiv: '10'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0757N 08123W'
+    remarks: ''
+-
+    ch: ''
     locode: 'PA CLB'
     name: Calobre
     namewodiacritics: Calobre
@@ -297,6 +717,90 @@
     date: '0401'
     iata: ''
     coordinates: '0819N 08051W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA CLV'
+    name: Calovébora
+    namewodiacritics: Calovebora
+    subdiv: '10'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0848N 08113W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA CMB'
+    name: Cambutal
+    namewodiacritics: Cambutal
+    subdiv: '7'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0716N 08029W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA CMG'
+    name: Camogantí
+    namewodiacritics: Camoganti
+    subdiv: '5'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0808N 07753W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA CMP'
+    name: Campana
+    namewodiacritics: Campana
+    subdiv: '9'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0843N 07954W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA CNS'
+    name: Cañas
+    namewodiacritics: Canas
+    subdiv: '7'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0727N 08016W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA CGS'
+    name: 'Cañas Gordas'
+    namewodiacritics: 'Canas Gordas'
+    subdiv: '4'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0844N 08254W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA CNV'
+    name: Cañaveral
+    namewodiacritics: Canaveral
+    subdiv: '2'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0831N 08026W'
     remarks: ''
 -
     ch: ''
@@ -312,15 +816,75 @@
     remarks: ''
 -
     ch: ''
+    locode: 'PA CNT'
+    name: Cañita
+    namewodiacritics: Canita
+    subdiv: '8'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0912N 07852W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA CGO'
+    name: 'Canta Gallo'
+    namewodiacritics: 'Canta Gallo'
+    subdiv: '4'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0821N 08237W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA CDL'
+    name: 'Canto del Llano'
+    namewodiacritics: 'Canto del Llano'
+    subdiv: '10'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0807N 08058W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA CPL'
+    name: Capellanía
+    namewodiacritics: Capellania
+    subdiv: '2'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0818N 08033W'
+    remarks: ''
+-
+    ch: ''
     locode: 'PA CAP'
     name: Capira
     namewodiacritics: Capira
-    subdiv: ''
+    subdiv: '9'
     function: '--3-----'
-    status: RQ
-    date: '0607'
+    status: RL
+    date: '1807'
     iata: ''
-    coordinates: '0846N 07952W'
+    coordinates: '0845N 07953W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA CSA'
+    name: 'Carlos Santana Avila'
+    namewodiacritics: 'Carlos Santana Avila'
+    subdiv: '10'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0806N 08050W'
     remarks: ''
 -
     ch: ''
@@ -336,6 +900,66 @@
     remarks: ''
 -
     ch: ''
+    locode: 'PA CTV'
+    name: Cativá
+    namewodiacritics: Cativa
+    subdiv: '3'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0921N 07950W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA CDN'
+    name: 'Catorce De Noviembre'
+    namewodiacritics: 'Catorce De Noviembre'
+    subdiv: '10'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0756N 08106W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA CCH'
+    name: Cauchero
+    namewodiacritics: Cauchero
+    subdiv: '1'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0909N 08216W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA CBC'
+    name: Cebaco
+    namewodiacritics: Cebaco
+    subdiv: '10'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0734N 08104W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA CMO'
+    name: Cermeño
+    namewodiacritics: Cermeno
+    subdiv: '9'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0844N 07951W'
+    remarks: ''
+-
+    ch: ''
     locode: 'PA CZL'
     name: 'Cerro Azul'
     namewodiacritics: 'Cerro Azul'
@@ -345,6 +969,30 @@
     date: '1301'
     iata: ''
     coordinates: '0910N 07925W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA CCA'
+    name: 'Cerro de Casa'
+    namewodiacritics: 'Cerro de Casa'
+    subdiv: '10'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0807N 08133W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA CLG'
+    name: 'Cerro Largo'
+    namewodiacritics: 'Cerro Largo'
+    subdiv: '6'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0750N 08050W'
     remarks: ''
 -
     ch: ''
@@ -363,10 +1011,10 @@
     locode: 'PA CHM'
     name: Chame
     namewodiacritics: Chame
-    subdiv: ''
+    subdiv: '9'
     function: '--3-----'
     status: RL
-    date: '0901'
+    date: '1807'
     iata: ''
     coordinates: '0835N 07953W'
     remarks: ''
@@ -375,10 +1023,10 @@
     locode: 'PA CHX'
     name: Changuinola
     namewodiacritics: Changuinola
-    subdiv: ''
+    subdiv: '1'
     function: '--34----'
-    status: RQ
-    date: '9506'
+    status: RL
+    date: '1807'
     iata: ''
     coordinates: ''
     remarks: ''
@@ -396,6 +1044,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'PA CHP'
+    name: Chepillo
+    namewodiacritics: Chepillo
+    subdiv: '8'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0822N 07850W'
+    remarks: ''
+-
+    ch: ''
     locode: 'PA CHE'
     name: Chepo
     namewodiacritics: Chepo
@@ -408,15 +1068,75 @@
     remarks: ''
 -
     ch: ''
+    locode: 'PA CHO'
+    name: Chepo
+    namewodiacritics: Chepo
+    subdiv: '6'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0744N 08049W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA CHC'
+    name: Chicá
+    namewodiacritics: Chica
+    subdiv: '9'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0840N 07956W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA CGA'
+    name: 'Chiguirí Arriba'
+    namewodiacritics: 'Chiguiri Arriba'
+    subdiv: '2'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0840N 08011W'
+    remarks: ''
+-
+    ch: ''
     locode: 'PA CHB'
     name: Chilibre
     namewodiacritics: Chilibre
-    subdiv: '7'
+    subdiv: '1'
     function: '--3-----'
     status: RL
-    date: '0501'
+    date: '1807'
     iata: ''
     coordinates: '0910N 07937W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA CHI'
+    name: Chilibre
+    namewodiacritics: Chilibre
+    subdiv: '8'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0909N 07937W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA CHN'
+    name: Chimán
+    namewodiacritics: Chiman
+    subdiv: '8'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0843N 07838W'
     remarks: ''
 -
     ch: ''
@@ -447,12 +1167,72 @@
     locode: 'PA CTD'
     name: Chitre
     namewodiacritics: Chitre
-    subdiv: ''
+    subdiv: '6'
     function: 1--4----
     status: AI
-    date: '9601'
+    date: '1807'
     iata: ''
-    coordinates: ''
+    coordinates: '0758N 08026W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA CML'
+    name: Chumical
+    namewodiacritics: Chumical
+    subdiv: '6'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0830N 08232W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA CUP'
+    name: Chupá
+    namewodiacritics: Chupa
+    subdiv: '7'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0748N 08035W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA CPP'
+    name: Chupampa
+    namewodiacritics: Chupampa
+    subdiv: '6'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0805N 08047W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA CLS'
+    name: 'Cirí de Los Sotos'
+    namewodiacritics: 'Ciri de Los Sotos'
+    subdiv: '9'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0858N 08005W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA CRP'
+    name: 'Cirí Grande'
+    namewodiacritics: 'Ciri Grande'
+    subdiv: '9'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0852N 08003W'
     remarks: ''
 -
     ch: ''
@@ -465,6 +1245,42 @@
     date: '0307'
     iata: ''
     coordinates: '0827N 08027W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA CCG'
+    name: Cochigro
+    namewodiacritics: Cochigro
+    subdiv: '1'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0918N 08233W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA CCL'
+    name: Coclé
+    namewodiacritics: Cocle
+    subdiv: '2'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0827N 08026W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA CCN'
+    name: 'Coclé del Norte'
+    namewodiacritics: 'Cocle del Norte'
+    subdiv: '3'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0905N 08035W'
     remarks: ''
 -
     ch: ''
@@ -527,17 +1343,17 @@
     coordinates: ''
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'PA CZJ'
     name: 'Corazón de Jesús'
     namewodiacritics: 'Corazon de Jesus'
-    subdiv: '0'
+    subdiv: KY
     function: '---4----'
     status: AI
     date: '1307'
     iata: ''
     coordinates: '0927N 07835W'
-    remarks: '@Sub'
+    remarks: ''
 -
     ch: ''
     locode: 'PA CZO'
@@ -552,15 +1368,63 @@
     remarks: ''
 -
     ch: ''
+    locode: 'PA COZ'
+    name: Corozal
+    namewodiacritics: Corozal
+    subdiv: '10'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0805N 08126W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA CRZ'
+    name: Corozal
+    namewodiacritics: Corozal
+    subdiv: '7'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0745N 08029W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA CFL'
+    name: 'Corral Falso'
+    namewodiacritics: 'Corral Falso'
+    subdiv: '10'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0852N 07943W'
+    remarks: ''
+-
+    ch: ''
     locode: 'PA CTB'
     name: Cristóbal
     namewodiacritics: Cristobal
-    subdiv: ''
+    subdiv: '3'
     function: 1-------
     status: AI
-    date: '0212'
+    date: '1807'
     iata: ''
     coordinates: '0921N 07954W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA CUC'
+    name: Cucunatí
+    namewodiacritics: Cucunati
+    subdiv: '5'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0834N 07815W'
     remarks: ''
 -
     ch: ''
@@ -624,6 +1488,138 @@
     remarks: ''
 -
     ch: ''
+    locode: 'PA DMN'
+    name: Dominical
+    namewodiacritics: Dominical
+    subdiv: '4'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0840N 08247W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA EDF'
+    name: 'Edwin Fabrega'
+    namewodiacritics: 'Edwin Fabrega'
+    subdiv: '10'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0803N 08101W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA ELA'
+    name: 'El Alto'
+    namewodiacritics: 'El Alto'
+    subdiv: '10'
+    function: '-----6--'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0831N 08103W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA ELM'
+    name: 'El Aromillo'
+    namewodiacritics: 'El Aromillo'
+    subdiv: '10'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0821N 08109W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA ELB'
+    name: 'El Barrero'
+    namewodiacritics: 'El Barrero'
+    subdiv: '6'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0756N 08031W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA EBD'
+    name: 'El Bebedero'
+    namewodiacritics: 'El Bebedero'
+    subdiv: '7'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0725N 08028W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA EBG'
+    name: 'El Bongo'
+    namewodiacritics: 'El Bongo'
+    subdiv: '4'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0835N 08237W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA ECC'
+    name: 'El Cacao'
+    namewodiacritics: 'El Cacao'
+    subdiv: '7'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0730N 08033W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA ECA'
+    name: 'El Cacao'
+    namewodiacritics: 'El Cacao'
+    subdiv: '9'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0846N 08001W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA ECL'
+    name: 'El Calabacito'
+    namewodiacritics: 'El Calabacito'
+    subdiv: '6'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0743N 08036W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA ELF'
+    name: 'El Cañafístulo'
+    namewodiacritics: 'El Canafistulo'
+    subdiv: '7'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0737N 08014W'
+    remarks: ''
+-
+    ch: ''
     locode: 'PA ELC'
     name: 'El Cangrejo'
     namewodiacritics: 'El Cangrejo'
@@ -633,6 +1629,186 @@
     date: '1301'
     iata: ''
     coordinates: '0859N 07932W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA ELN'
+    name: 'El Caño'
+    namewodiacritics: 'El Cano'
+    subdiv: '2'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0824N 08031W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA ELP'
+    name: 'El Capurí'
+    namewodiacritics: 'El Capuri'
+    subdiv: '6'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0743N 08039W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA ELT'
+    name: 'El Carate'
+    namewodiacritics: 'El Carate'
+    subdiv: '7'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0744N 08018W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA ECD'
+    name: 'El Cedro'
+    namewodiacritics: 'El Cedro'
+    subdiv: '6'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0741N 08039W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA ECR'
+    name: 'El Cedro'
+    namewodiacritics: 'El Cedro'
+    subdiv: '7'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0747N 08032W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA ECH'
+    name: 'El Chirú'
+    namewodiacritics: 'El Chiru'
+    subdiv: '2'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0824N 08012W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA ERR'
+    name: 'El Chorrillo'
+    namewodiacritics: 'El Chorrillo'
+    subdiv: '8'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0857N 07932W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA ECI'
+    name: 'El Cirial (Isla Iguana)'
+    namewodiacritics: 'El Cirial (Isla Iguana)'
+    subdiv: '7'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0737N 07959W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA ECU'
+    name: 'El Ciruelito'
+    namewodiacritics: 'El Ciruelito'
+    subdiv: '2'
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '0833N 08007W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA ELO'
+    name: 'El Cocal'
+    namewodiacritics: 'El Cocal'
+    subdiv: '7'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0744N 08017W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA CCO'
+    name: 'El Coco'
+    namewodiacritics: 'El Coco'
+    subdiv: '2'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0824N 08021W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA ECO'
+    name: 'El Coco'
+    namewodiacritics: 'El Coco'
+    subdiv: '9'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0852N 07948W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA ECP'
+    name: 'El Copé'
+    namewodiacritics: 'El Cope'
+    subdiv: '2'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0826N 08041W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA ECT'
+    name: 'El Cortezo'
+    namewodiacritics: 'El Cortezo'
+    subdiv: '7'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0726N 08038W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA ECS'
+    name: 'El Cristo'
+    namewodiacritics: 'El Cristo'
+    subdiv: '2'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0815N 08037W'
     remarks: ''
 -
     ch: ''
@@ -651,12 +1827,72 @@
     locode: 'PA EJO'
     name: 'El Ejido'
     namewodiacritics: 'El Ejido'
-    subdiv: '6'
+    subdiv: '7'
     function: '--3-----'
     status: RL
-    date: '0307'
+    date: '1807'
     iata: ''
     coordinates: '0755N 08023W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA EEP'
+    name: 'El Empalme'
+    namewodiacritics: 'El Empalme'
+    subdiv: '1'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0925N 08231W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA EES'
+    name: 'El Espinal'
+    namewodiacritics: 'El Espinal'
+    subdiv: '7'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0752N 08021W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA EEN'
+    name: 'El Espino'
+    namewodiacritics: 'El Espino'
+    subdiv: '9'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0829N 08001W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA EGB'
+    name: 'El Guabo'
+    namewodiacritics: 'El Guabo'
+    subdiv: '3'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0905N 08005W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA EGU'
+    name: 'El Guásimo'
+    namewodiacritics: 'El Guasimo'
+    subdiv: '7'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0748N 08032W'
     remarks: ''
 -
     ch: ''
@@ -672,6 +1908,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'PA EHR'
+    name: 'El Harino'
+    namewodiacritics: 'El Harino'
+    subdiv: '2'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0837N 08034W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA EHI'
+    name: 'El Higo'
+    namewodiacritics: 'El Higo'
+    subdiv: '9'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0827N 08002W'
+    remarks: ''
+-
+    ch: ''
     locode: 'PA ELH'
     name: 'El Higo'
     namewodiacritics: 'El Higo'
@@ -684,15 +1944,267 @@
     remarks: ''
 -
     ch: ''
+    locode: 'PA LHI'
+    name: 'El Higo'
+    namewodiacritics: 'El Higo'
+    subdiv: '10'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0813N 08119W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA LLI'
+    name: 'El Líbano'
+    namewodiacritics: 'El Libano'
+    subdiv: '9'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0837N 07950W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA ELL'
+    name: 'El Limón'
+    namewodiacritics: 'El Limon'
+    subdiv: '6'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0836N 08022W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA LLL'
+    name: 'El Llano'
+    namewodiacritics: 'El Llano'
+    subdiv: '10'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0916N 07941W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA EMC'
+    name: 'El Macano'
+    namewodiacritics: 'El Macano'
+    subdiv: '7'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0742N 08024W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA EMN'
+    name: 'El Manantial'
+    namewodiacritics: 'El Manantial'
+    subdiv: '7'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0747N 08015W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA ENN'
+    name: 'El Marañón'
+    namewodiacritics: 'El Maranon'
+    subdiv: '10'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0802N 08113W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA EMR'
+    name: 'El María'
+    namewodiacritics: 'El Maria'
+    subdiv: '10'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0802N 08127W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA EMZ'
+    name: 'El Muñoz'
+    namewodiacritics: 'El Munoz'
+    subdiv: '7'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0740N 08019W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA ENO'
+    name: 'El Nancito'
+    namewodiacritics: 'El Nancito'
+    subdiv: '4'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0814N 08144W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA EPJ'
+    name: 'El Pájaro'
+    namewodiacritics: 'El Pajaro'
+    subdiv: '6'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0757N 08035W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA EPR'
+    name: 'El Palmar'
+    namewodiacritics: 'El Palmar'
+    subdiv: '2'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0835N 08042W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA EPT'
+    name: 'El Pantano'
+    namewodiacritics: 'El Pantano'
+    subdiv: '10'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0833N 08104W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA EPD'
+    name: 'El Pedregoso'
+    namewodiacritics: 'El Pedregoso'
+    subdiv: '7'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0742N 08020W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA EPG'
+    name: 'El Pedregoso'
+    namewodiacritics: 'El Pedregoso'
+    subdiv: '6'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0834N 08024W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA EPH'
+    name: 'El Picacho'
+    namewodiacritics: 'El Picacho'
+    subdiv: '2'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0835N 08030W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA EPC'
+    name: 'El Picador'
+    namewodiacritics: 'El Picador'
+    subdiv: '10'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0821N 08115W'
+    remarks: ''
+-
+    ch: ''
     locode: 'PA PVE'
     name: 'El Porvenir'
     namewodiacritics: 'El Porvenir'
-    subdiv: ''
+    subdiv: '4'
     function: '---4----'
     status: QQ
-    date: '8103'
+    date: '1807'
     iata: ''
-    coordinates: ''
+    coordinates: '0816N 08251W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA PRR'
+    name: 'El Potrero'
+    namewodiacritics: 'El Potrero'
+    subdiv: '10'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0822N 08049W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA PTR'
+    name: 'El Potrero'
+    namewodiacritics: 'El Potrero'
+    subdiv: '2'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0831N 08032W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA EPO'
+    name: 'El Prado'
+    namewodiacritics: 'El Prado'
+    subdiv: '10'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0814N 08130W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA EPU'
+    name: 'El Puerto'
+    namewodiacritics: 'El Puerto'
+    subdiv: '4'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0721N 08054W'
     remarks: ''
 -
     ch: ''
@@ -708,6 +2220,66 @@
     remarks: ''
 -
     ch: ''
+    locode: 'PA RSM'
+    name: 'El Real de Santa María'
+    namewodiacritics: 'El Real de Santa Maria'
+    subdiv: '5'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0808N 07743W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA RNN'
+    name: 'El Rincon'
+    namewodiacritics: 'El Rincon'
+    subdiv: '10'
+    function: '-----6--'
+    status: RQ
+    date: '1807'
+    iata: ''
+    coordinates: '0810N 08131W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA ETJ'
+    name: 'El Tejar'
+    namewodiacritics: 'El Tejar'
+    subdiv: '4'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0826N 08234W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA ETR'
+    name: 'El Toro'
+    namewodiacritics: 'El Toro'
+    subdiv: '6'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0745N 08052W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA EVL'
+    name: 'El Valle'
+    namewodiacritics: 'El Valle'
+    subdiv: '2'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0836N 08008W'
+    remarks: ''
+-
+    ch: ''
     locode: 'PA EVO'
     name: 'El Veladero'
     namewodiacritics: 'El Veladero'
@@ -717,6 +2289,30 @@
     date: '1001'
     iata: ''
     coordinates: '0826N 08217W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA EDC'
+    name: 'Entradero del Castillo'
+    namewodiacritics: 'Entradero del Castillo'
+    subdiv: '6'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0751N 08051W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA ESC'
+    name: Escobal
+    namewodiacritics: Escobal
+    subdiv: '3'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0908N 07957W'
     remarks: ''
 -
     ch: ''
@@ -735,10 +2331,10 @@
     locode: 'PA FLZ'
     name: Flores
     namewodiacritics: Flores
-    subdiv: ''
+    subdiv: '7'
     function: '--3-----'
     status: RL
-    date: '0601'
+    date: '1807'
     iata: ''
     coordinates: '0729N 08024W'
     remarks: ''
@@ -753,6 +2349,30 @@
     date: '0001'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA FOS'
+    name: 'Fort Sherman'
+    namewodiacritics: 'Fort Sherman'
+    subdiv: '8'
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '0921N 07957W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA FUA'
+    name: 'Fuerte Davis'
+    namewodiacritics: 'Fuerte Davis'
+    subdiv: '3'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0917N 07954W'
     remarks: ''
 -
     ch: ''
@@ -771,12 +2391,24 @@
     locode: 'PA GHE'
     name: Garachiné
     namewodiacritics: Garachine
-    subdiv: ''
+    subdiv: '5'
     function: '---4----'
     status: AI
-    date: '0212'
+    date: '1807'
     iata: ''
     coordinates: '0804N 07822W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA GRR'
+    name: Garrote
+    namewodiacritics: Garrote
+    subdiv: '3'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0936N 07935W'
     remarks: ''
 -
     ch: ''
@@ -792,6 +2424,186 @@
     remarks: ''
 -
     ch: ''
+    locode: 'PA GBE'
+    name: Gobea
+    namewodiacritics: Gobea
+    subdiv: '3'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0910N 08014W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA GMZ'
+    name: Gómez
+    namewodiacritics: Gomez
+    subdiv: '4'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0834N 08244W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA GVZ'
+    name: 'Gonzalo Vásquez'
+    namewodiacritics: 'Gonzalo Vasquez'
+    subdiv: '8'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0825N 07827W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA GBL'
+    name: Guabal
+    namewodiacritics: Guabal
+    subdiv: '4'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0834N 08232W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA GBT'
+    name: Guabito
+    namewodiacritics: Guabito
+    subdiv: '1'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0929N 08236W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA GUA'
+    name: Guaca
+    namewodiacritics: Guaca
+    subdiv: '4'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0833N 08233W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA GLP'
+    name: Guadalupe
+    namewodiacritics: Guadalupe
+    subdiv: '9'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0851N 07948W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA G8L'
+    name: Gualaca
+    namewodiacritics: Gualaca
+    subdiv: '4'
+    function: 1-------
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '0832N 08218W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA GRE'
+    name: Guararé
+    namewodiacritics: Guarare
+    subdiv: '7'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0749N 08017W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA GAR'
+    name: 'Guararé Arriba'
+    namewodiacritics: 'Guarare Arriba'
+    subdiv: '7'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0749N 08022W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA GRA'
+    name: Guarumal
+    namewodiacritics: Guarumal
+    subdiv: '10'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0748N 08115W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA GRL'
+    name: Guarumal
+    namewodiacritics: Guarumal
+    subdiv: '4'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0821N 08232W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA GYL'
+    name: Guayabal
+    namewodiacritics: Guayabal
+    subdiv: '4'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0837N 08235W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA GYO'
+    name: Guayabito
+    namewodiacritics: Guayabito
+    subdiv: '9'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0832N 08000W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA GZN'
+    name: Guzmán
+    namewodiacritics: Guzman
+    subdiv: '2'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0831N 08035W'
+    remarks: ''
+-
+    ch: ''
     locode: 'PA HER'
     name: Herrera
     namewodiacritics: Herrera
@@ -801,6 +2613,30 @@
     date: '0907'
     iata: ''
     coordinates: '0750N 08040W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA HCC'
+    name: Hicaco
+    namewodiacritics: Hicaco
+    subdiv: '10'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0739N 08112W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA HRC'
+    name: Horconcitos
+    namewodiacritics: Horconcitos
+    subdiv: '4'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0819N 08210W'
     remarks: ''
 -
     ch: ''
@@ -816,6 +2652,42 @@
     remarks: ''
 -
     ch: ''
+    locode: 'PA IDC'
+    name: 'Isla de Cañas'
+    namewodiacritics: 'Isla de Canas'
+    subdiv: '7'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0725N 08019W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA IGA'
+    name: 'Isla Gobernadora'
+    namewodiacritics: 'Isla Gobernadora'
+    subdiv: '10'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0733N 08112W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA IGE'
+    name: 'Isla Grande'
+    namewodiacritics: 'Isla Grande'
+    subdiv: '3'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0938N 07934W'
+    remarks: ''
+-
+    ch: ''
     locode: 'PA JQE'
     name: Jaqué
     namewodiacritics: Jaque
@@ -825,6 +2697,30 @@
     date: '0212'
     iata: ''
     coordinates: '0731N 07810W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA JUY'
+    name: Juay
+    namewodiacritics: Juay
+    subdiv: '4'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0817N 08157W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA JFP'
+    name: 'Justo Fidel Palacios'
+    namewodiacritics: 'Justo Fidel Palacios'
+    subdiv: '4'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0819N 08132W'
     remarks: ''
 -
     ch: ''
@@ -864,6 +2760,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'PA LCR'
+    name: 'La Carrillo'
+    namewodiacritics: 'La Carrillo'
+    subdiv: '10'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0758N 08053W'
+    remarks: ''
+-
+    ch: ''
     locode: 'PA CRR'
     name: 'La Chorrera'
     namewodiacritics: 'La Chorrera'
@@ -876,15 +2784,411 @@
     remarks: ''
 -
     ch: ''
+    locode: 'PA LCA'
+    name: 'La Colorada'
+    namewodiacritics: 'La Colorada'
+    subdiv: '10'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0801N 08059W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA LCL'
+    name: 'La Colorada'
+    namewodiacritics: 'La Colorada'
+    subdiv: '7'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0749N 08033W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA LCO'
+    name: 'La Concepcion'
+    namewodiacritics: 'La Concepcion'
+    subdiv: '4'
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '0831N 08237W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA LEN'
+    name: 'La Encantada'
+    namewodiacritics: 'La Encantada'
+    subdiv: '3'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0906N 08012W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA LEA'
+    name: 'La Enea'
+    namewodiacritics: 'La Enea'
+    subdiv: '7'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0750N 08016W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA LAE'
+    name: 'La Ensenada'
+    namewodiacritics: 'La Ensenada'
+    subdiv: '8'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0821N 07850W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA LEM'
+    name: 'La Esmeralda'
+    namewodiacritics: 'La Esmeralda'
+    subdiv: '8'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0816N 07855W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA LSS'
+    name: 'La Espigadilla'
+    namewodiacritics: 'La Espigadilla'
+    subdiv: '7'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0753N 08023W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA LES'
+    name: 'La Estrella'
+    namewodiacritics: 'La Estrella'
+    subdiv: '4'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0831N 08240W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA LGA'
+    name: 'La Garceana'
+    namewodiacritics: 'La Garceana'
+    subdiv: '10'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0756N 08100W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA LGR'
+    name: 'La Garita'
+    namewodiacritics: 'La Garita'
+    subdiv: '7'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0731N 08000W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA LGL'
+    name: 'La Gloria'
+    namewodiacritics: 'La Gloria'
+    subdiv: '1'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0859N 08214W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA LGU'
+    name: 'La Guinea'
+    namewodiacritics: 'La Guinea'
+    subdiv: '8'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0820N 07855W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA LLG'
+    name: 'La Laguna'
+    namewodiacritics: 'La Laguna'
+    subdiv: '9'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0836N 08003W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA LLU'
+    name: 'La Laguna'
+    namewodiacritics: 'La Laguna'
+    subdiv: '10'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0820N 08044W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA LME'
+    name: 'La Mesa'
+    namewodiacritics: 'La Mesa'
+    subdiv: '7'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0740N 08038W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA LMS'
+    name: 'La Mesa'
+    namewodiacritics: 'La Mesa'
+    subdiv: '10'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0911N 07916W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA LAM'
+    name: 'La Miel'
+    namewodiacritics: 'La Miel'
+    subdiv: '7'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0726N 08005W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA LML'
+    name: 'La Miel'
+    namewodiacritics: 'La Miel'
+    subdiv: '7'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0733N 08020W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA LMT'
+    name: 'La Montañuela'
+    namewodiacritics: 'La Montanuela'
+    subdiv: '10'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0744N 08035W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA LPL'
+    name: 'La Palma'
+    namewodiacritics: 'La Palma'
+    subdiv: '7'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0732N 08020W'
+    remarks: ''
+-
+    ch: ''
     locode: 'PA PLP'
     name: 'La Palma'
     namewodiacritics: 'La Palma'
-    subdiv: ''
+    subdiv: '5'
     function: 1--4----
     status: AI
-    date: '9601'
+    date: '1807'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA LPA'
+    name: 'La Pasera'
+    namewodiacritics: 'La Pasera'
+    subdiv: '7'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0748N 08018W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA LPN'
+    name: 'La Peña'
+    namewodiacritics: 'La Pena'
+    subdiv: '10'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0808N 08102W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA LPT'
+    name: 'La Pintada'
+    namewodiacritics: 'La Pintada'
+    subdiv: '2'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0836N 08027W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA LRC'
+    name: 'La Raya de Calobre'
+    namewodiacritics: 'La Raya de Calobre'
+    subdiv: '10'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0813N 08050W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA LRS'
+    name: 'La Raya de Santa María'
+    namewodiacritics: 'La Raya de Santa Maria'
+    subdiv: '10'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0810N 08049W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA LDD'
+    name: 'La Soledad'
+    namewodiacritics: 'La Soledad'
+    subdiv: '10'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0752N 08116W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA LSD'
+    name: 'La Soledad'
+    namewodiacritics: 'La Soledad'
+    subdiv: '10'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0808N 08059W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA LTZ'
+    name: 'La Tiza'
+    namewodiacritics: 'La Tiza'
+    subdiv: '7'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0745N 08017W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA LTR'
+    name: 'La Trinidad'
+    namewodiacritics: 'La Trinidad'
+    subdiv: '9'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0852N 08000W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA LTO'
+    name: 'La Tronosa'
+    namewodiacritics: 'La Tronosa'
+    subdiv: '7'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0726N 08035W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA LVS'
+    name: 'La Villa de los Santos'
+    namewodiacritics: 'La Villa de los Santos'
+    subdiv: '7'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0758N 08024W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA LYE'
+    name: 'La Yeguada'
+    namewodiacritics: 'La Yeguada'
+    subdiv: '10'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0827N 08052W'
     remarks: ''
 -
     ch: ''
@@ -900,27 +3204,255 @@
     remarks: ''
 -
     ch: ''
+    locode: 'PA LJA'
+    name: Lajamina
+    namewodiacritics: Lajamina
+    subdiv: '7'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0735N 08008W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA LJT'
+    name: 'Lajas de Tolé'
+    namewodiacritics: 'Lajas de Tole'
+    subdiv: '4'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0810N 08141W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA LCB'
+    name: 'Las Cabras'
+    namewodiacritics: 'Las Cabras'
+    subdiv: '6'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0753N 08033W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA LAC'
+    name: 'Las Cruces'
+    namewodiacritics: 'Las Cruces'
+    subdiv: '10'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0818N 08117W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA LCU'
+    name: 'Las Cruces'
+    namewodiacritics: 'Las Cruces'
+    subdiv: '7'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0750N 08026W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA LUM'
+    name: 'Las Cumbres'
+    namewodiacritics: 'Las Cumbres'
+    subdiv: '8'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0905N 07932W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA LDE'
+    name: 'Las Delicias'
+    namewodiacritics: 'Las Delicias'
+    subdiv: '1'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0831N 07805W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA LAG'
+    name: 'Las Guabas'
+    namewodiacritics: 'Las Guabas'
+    subdiv: '7'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0749N 08029W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA LGI'
+    name: 'Las Guías'
+    namewodiacritics: 'Las Guias'
+    subdiv: '10'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0834N 08007W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA LHU'
+    name: 'Las Huacas'
+    namewodiacritics: 'Las Huacas'
+    subdiv: '10'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0754N 08108W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA LAJ'
+    name: 'Las Lajas'
+    namewodiacritics: 'Las Lajas'
+    subdiv: '9'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0833N 07956W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA LJS'
+    name: 'Las Lajas'
+    namewodiacritics: 'Las Lajas'
+    subdiv: '4'
+    function: '--3-----'
+    status: RQ
+    date: '1807'
+    iata: ''
+    coordinates: '0815N 08152W'
+    remarks: ''
+-
+    ch: ''
     locode: 'PA LAS'
     name: 'Las Lomas'
     namewodiacritics: 'Las Lomas'
-    subdiv: ''
+    subdiv: '2'
     function: '--3-----'
     status: RL
-    date: '0601'
+    date: '1807'
     iata: ''
     coordinates: '0735N 08004W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA LLO'
+    name: 'Las Lomas'
+    namewodiacritics: 'Las Lomas'
+    subdiv: '4'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0826N 08224W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA LMN'
+    name: 'Las Mañanitas'
+    namewodiacritics: 'Las Mananitas'
+    subdiv: '8'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0905N 07924W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA LMG'
+    name: 'Las Margaritas'
+    namewodiacritics: 'Las Margaritas'
+    subdiv: '8'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0911N 07905W'
     remarks: ''
 -
     ch: ''
     locode: 'PA MNP'
     name: 'Las Minas'
     namewodiacritics: 'Las Minas'
-    subdiv: ''
+    subdiv: '6'
     function: 1-------
     status: AI
-    date: '9401'
+    date: '1807'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA LOA'
+    name: 'Las Ollas Arriba'
+    namewodiacritics: 'Las Ollas Arriba'
+    subdiv: '9'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0848N 07954W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA LAP'
+    name: 'Las Palmas'
+    namewodiacritics: 'Las Palmas'
+    subdiv: '10'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0758N 08041W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA LPS'
+    name: 'Las Palmas'
+    namewodiacritics: 'Las Palmas'
+    subdiv: '7'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0741N 08030W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA LLT'
+    name: 'Las Palmitas'
+    namewodiacritics: 'Las Palmitas'
+    subdiv: '7'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0746N 08018W'
     remarks: ''
 -
     ch: ''
@@ -936,6 +3468,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'PA LAT'
+    name: 'Las Trancas'
+    namewodiacritics: 'Las Trancas'
+    subdiv: '7'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0744N 08022W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA LUV'
+    name: 'Las Uvas'
+    namewodiacritics: 'Las Uvas'
+    subdiv: '9'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0828N 08000W'
+    remarks: ''
+-
+    ch: ''
     locode: 'PA LYA'
     name: 'Las Yayas Adentro'
     namewodiacritics: 'Las Yayas Adentro'
@@ -948,6 +3504,306 @@
     remarks: ''
 -
     ch: ''
+    locode: 'PA LDC'
+    name: Lídice
+    namewodiacritics: Lidice
+    subdiv: '9'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0845N 07954W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA LLV'
+    name: 'Llanito Verde'
+    namewodiacritics: 'Llanito Verde'
+    subdiv: '8'
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '0854N 07953W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA LAB'
+    name: 'Llano Abajo'
+    namewodiacritics: 'Llano Abajo'
+    subdiv: '7'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0747N 08025W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA LCZ'
+    name: 'Llano de la Cruz'
+    namewodiacritics: 'Llano de la Cruz'
+    subdiv: '6'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0758N 08039W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA LPI'
+    name: 'Llano de Piedra'
+    namewodiacritics: 'Llano de Piedra'
+    subdiv: '7'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0740N 08034W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA LAN'
+    name: 'Llano Grande'
+    namewodiacritics: 'Llano Grande'
+    subdiv: '10'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0815N 08108W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA LGN'
+    name: 'Llano Grande'
+    namewodiacritics: 'Llano Grande'
+    subdiv: '2'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0838N 08027W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA LLA'
+    name: 'Llano Grande'
+    namewodiacritics: 'Llano Grande'
+    subdiv: '6'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0758N 08042W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA LRG'
+    name: 'Llano Largo'
+    namewodiacritics: 'Llano Largo'
+    subdiv: '7'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0754N 08026W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA LST'
+    name: 'Llano Santo'
+    namewodiacritics: 'Llano Santo'
+    subdiv: '8'
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '0811N 08044W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA LOL'
+    name: Lolá
+    namewodiacritics: Lola
+    subdiv: '10'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0806N 08128W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA LAL'
+    name: 'Los Algarrobos'
+    namewodiacritics: 'Los Algarrobos'
+    subdiv: '4'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0830N 08226W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA LOG'
+    name: 'Los Algarrobos'
+    namewodiacritics: 'Los Algarrobos'
+    subdiv: '10'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0807N 08101W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA LSA'
+    name: 'Los Anastacios'
+    namewodiacritics: 'Los Anastacios'
+    subdiv: '4'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0832N 08225W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA LGE'
+    name: 'Los Ángeles'
+    namewodiacritics: 'Los Angeles'
+    subdiv: '4'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0831N 08212W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA LCS'
+    name: 'Los Canelos'
+    namewodiacritics: 'Los Canelos'
+    subdiv: '6'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '0807N 08042W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA LCT'
+    name: 'Los Castillos'
+    namewodiacritics: 'Los Castillos'
+    subdiv: '10'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0801N 08107W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA LCP'
+    name: 'Los Cerros de Paja'
+    namewodiacritics: 'Los Cerros de Paja'
+    subdiv: '6'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0743N 08040W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA LDS'
+    name: 'Los Destiladeros'
+    namewodiacritics: 'Los Destiladeros'
+    subdiv: '7'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0728N 08003W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA LHA'
+    name: 'Los Hatillos'
+    namewodiacritics: 'Los Hatillos'
+    subdiv: '10'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0819N 08059W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA LON'
+    name: 'Los Llanitos'
+    namewodiacritics: 'Los Llanitos'
+    subdiv: '9'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0836N 08006W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA LMI'
+    name: 'Los Milagros'
+    namewodiacritics: 'Los Milagros'
+    subdiv: '10'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0809N 08106W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA LNR'
+    name: 'Los Naranjos'
+    namewodiacritics: 'Los Naranjos'
+    subdiv: '4'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0848N 08227W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA LOO'
+    name: 'Los Olivos'
+    namewodiacritics: 'Los Olivos'
+    subdiv: '7'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0755N 08029W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA LSP'
+    name: 'Los Pozos'
+    namewodiacritics: 'Los Pozos'
+    subdiv: '6'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0747N 08038W'
+    remarks: ''
+-
+    ch: ''
     locode: 'PA PZB'
     name: 'Los Santos'
     namewodiacritics: 'Los Santos'
@@ -957,6 +3813,54 @@
     date: '1301'
     iata: ''
     coordinates: '0756N 08025W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA LOU'
+    name: 'Los Uveros'
+    namewodiacritics: 'Los Uveros'
+    subdiv: '2'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0832N 08023W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA LVA'
+    name: 'Los Valles'
+    namewodiacritics: 'Los Valles'
+    subdiv: '10'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0826N 08112W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA MAC'
+    name: Macaracas
+    namewodiacritics: Macaracas
+    subdiv: '7'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '0744N 08033W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA MAD'
+    name: Madroño
+    namewodiacritics: Madrono
+    subdiv: '7'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0917N 07908W'
     remarks: ''
 -
     ch: ''
@@ -996,6 +3900,90 @@
     remarks: ''
 -
     ch: ''
+    locode: 'PA MCH'
+    name: 'María Chiquita'
+    namewodiacritics: 'Maria Chiquita'
+    subdiv: '3'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0926N 07945W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA MAR'
+    name: Mariabé
+    namewodiacritics: Mariabe
+    subdiv: '7'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0735N 08004W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA MEL'
+    name: Melones
+    namewodiacritics: Melones
+    subdiv: '8'
+    function: 1-------
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '0848N 07936W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA MEN'
+    name: Menchaca
+    namewodiacritics: Menchaca
+    subdiv: '6'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0752N 08046W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA MED'
+    name: Mendoza
+    namewodiacritics: Mendoza
+    subdiv: '9'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0900N 07950W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA MET'
+    name: Metetí
+    namewodiacritics: Meteti
+    subdiv: '5'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0830N 07758W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA MDB'
+    name: 'Miguel de la Borda'
+    namewodiacritics: 'Miguel de la Borda'
+    subdiv: '3'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0909N 08019W'
+    remarks: ''
+-
+    ch: ''
     locode: 'PA MFS'
     name: Miraflores
     namewodiacritics: Miraflores
@@ -1005,6 +3993,66 @@
     date: '8103'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA MIA'
+    name: Miramar
+    namewodiacritics: Miramar
+    subdiv: '3'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0935N 07920W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA MOG'
+    name: Mogollon
+    namewodiacritics: Mogollon
+    subdiv: '7'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0739N 08028W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA MON'
+    name: Monjarás
+    namewodiacritics: Monjaras
+    subdiv: '10'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0823N 08052W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA MOL'
+    name: 'Monte Lirio'
+    namewodiacritics: 'Monte Lirio'
+    subdiv: '4'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0914N 07951W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA MNJ'
+    name: Montijo
+    namewodiacritics: Montijo
+    subdiv: '10'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0759N 08103W'
     remarks: ''
 -
     ch: ''
@@ -1032,15 +4080,75 @@
     remarks: ''
 -
     ch: ''
+    locode: 'PA NDD'
+    name: 'Nombre de Dios'
+    namewodiacritics: 'Nombre de Dios'
+    subdiv: '3'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0935N 07928W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA NUA'
+    name: Nuario
+    namewodiacritics: Nuario
+    subdiv: '7'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0732N 08019W'
+    remarks: ''
+-
+    ch: ''
     locode: 'PA NGA'
     name: 'Nueva Gorgona'
     namewodiacritics: 'Nueva Gorgona'
-    subdiv: '8'
+    subdiv: '9'
     function: '--3-----'
     status: RL
-    date: '1301'
+    date: '1807'
     iata: ''
     coordinates: '0833N 07952W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA NPR'
+    name: 'Nueva Providencia'
+    namewodiacritics: 'Nueva Providencia'
+    subdiv: '3'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0915N 07948W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA NCH'
+    name: 'Nuevo Chagres'
+    namewodiacritics: 'Nuevo Chagres'
+    subdiv: '3'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0914N 08005W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA NEM'
+    name: 'Nuevo Emperador'
+    namewodiacritics: 'Nuevo Emperador'
+    subdiv: '9'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0859N 07943W'
     remarks: ''
 -
     ch: ''
@@ -1068,6 +4176,66 @@
     remarks: ''
 -
     ch: ''
+    locode: 'PA OLA'
+    name: Olá
+    namewodiacritics: Ola
+    subdiv: '2'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0825N 08039W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA ORI'
+    name: Oria
+    namewodiacritics: Oria
+    subdiv: '7'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0729N 08011W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA OTO'
+    name: 'Otoque Occidente'
+    namewodiacritics: 'Otoque Occidente'
+    subdiv: '8'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0836N 07937W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA OTQ'
+    name: 'Otoque Oriente'
+    namewodiacritics: 'Otoque Oriente'
+    subdiv: '8'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0836N 07936W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA PCR'
+    name: Pacora
+    namewodiacritics: Pacora
+    subdiv: '8'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0905N 07917W'
+    remarks: ''
+-
+    ch: ''
     locode: 'PA PCO'
     name: Pacora
     namewodiacritics: Pacora
@@ -1080,6 +4248,90 @@
     remarks: ''
 -
     ch: ''
+    locode: 'PA PAJ'
+    name: 'Paja de Sombrero'
+    namewodiacritics: 'Paja de Sombrero'
+    subdiv: '4'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0841N 08219W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA PAL'
+    name: Palenque
+    namewodiacritics: Palenque
+    subdiv: '3'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0912N 07941W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA PLB'
+    name: 'Palmas Bellas'
+    namewodiacritics: 'Palmas Bellas'
+    subdiv: '3'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0913N 08005W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA PLM'
+    name: Palmira
+    namewodiacritics: Palmira
+    subdiv: '3'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0933N 07913W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA PMA'
+    name: Palmira
+    namewodiacritics: Palmira
+    subdiv: '7'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0740N 08021W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA PMR'
+    name: Palmira
+    namewodiacritics: Palmira
+    subdiv: '4'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0843N 08227W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA PLG'
+    name: 'Palo Grande'
+    namewodiacritics: 'Palo Grande'
+    subdiv: '4'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0820N 08236W'
+    remarks: ''
+-
+    ch: ''
     locode: 'PA PCN'
     name: 'Panama Canal'
     namewodiacritics: 'Panama Canal'
@@ -1089,6 +4341,18 @@
     date: '1207'
     iata: ''
     coordinates: '0904N 07940W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA PPF'
+    name: 'Panama Pacifico'
+    namewodiacritics: 'Panama Pacifico'
+    subdiv: '8'
+    function: '--3-----'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '0854N 07935W'
     remarks: ''
 -
     ch: ''
@@ -1116,6 +4380,42 @@
     remarks: ''
 -
     ch: ''
+    locode: 'PA PRA'
+    name: Paraíso
+    namewodiacritics: Paraiso
+    subdiv: '4'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0840N 08235W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA PRO'
+    name: Paraíso
+    namewodiacritics: Paraiso
+    subdiv: '7'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0741N 08010W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA PIS'
+    name: París
+    namewodiacritics: Paris
+    subdiv: '6'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0803N 08033W'
+    remarks: ''
+-
+    ch: ''
     locode: 'PA PAR'
     name: Parita
     namewodiacritics: Parita
@@ -1125,6 +4425,54 @@
     date: '1301'
     iata: ''
     coordinates: '0800N 08031W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA PTL'
+    name: Paritilla
+    namewodiacritics: Paritilla
+    subdiv: '7'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0738N 08010W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA PLF'
+    name: 'Parque Lefevre'
+    namewodiacritics: 'Parque Lefevre'
+    subdiv: '8'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0901N 07929W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA PSG'
+    name: Pásiga
+    namewodiacritics: Pasiga
+    subdiv: '8'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0856N 07854W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA PYA'
+    name: Paya
+    namewodiacritics: Paya
+    subdiv: '5'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0758N 07724W'
     remarks: ''
 -
     ch: ''
@@ -1224,6 +4572,30 @@
     remarks: Car
 -
     ch: ''
+    locode: 'PA PNB'
+    name: 'Peña Blanca'
+    namewodiacritics: 'Pena Blanca'
+    subdiv: '7'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0743N 08017W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA PNC'
+    name: 'Peñas Chatas'
+    namewodiacritics: 'Penas Chatas'
+    subdiv: '6'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0801N 08048W'
+    remarks: ''
+-
+    ch: ''
     locode: 'PA PEN'
     name: Penonome
     namewodiacritics: Penonome
@@ -1233,6 +4605,66 @@
     date: '1301'
     iata: ''
     coordinates: '0831N 08022W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA PEL'
+    name: Perales
+    namewodiacritics: Perales
+    subdiv: '7'
+    function: '-----6--'
+    status: RQ
+    date: '1807'
+    iata: ''
+    coordinates: '0746N 08019W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA PES'
+    name: Pesé
+    namewodiacritics: Pese
+    subdiv: '6'
+    function: 1-3-----
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '0754N 08037W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA PNA'
+    name: Piña
+    namewodiacritics: Pina
+    subdiv: '3'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0916N 08002W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA PGA'
+    name: Pinogana
+    namewodiacritics: Pinogana
+    subdiv: '5'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0808N 07741W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA PXV'
+    name: Pixvae
+    namewodiacritics: Pixvae
+    subdiv: '10'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0749N 08134W'
     remarks: ''
 -
     ch: ''
@@ -1248,6 +4680,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'PA PLY'
+    name: 'Playa Leona'
+    namewodiacritics: 'Playa Leona'
+    subdiv: '9'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0847N 07946W'
+    remarks: ''
+-
+    ch: ''
     locode: 'PA PYC'
     name: 'Playón Chico'
     namewodiacritics: 'Playon Chico'
@@ -1257,6 +4701,42 @@
     date: '0212'
     iata: ''
     coordinates: '0918N 07814W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA PLZ'
+    name: 'Plaza de Caisán'
+    namewodiacritics: 'Plaza de Caisan'
+    subdiv: '4'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0844N 08249W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA PCI'
+    name: Pocrí
+    namewodiacritics: Pocri
+    subdiv: '7'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0739N 08007W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA PTB'
+    name: Portobelillo
+    namewodiacritics: Portobelillo
+    subdiv: '6'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0801N 08036W'
     remarks: ''
 -
     ch: ''
@@ -1275,12 +4755,36 @@
     locode: 'PA PRS'
     name: Potrerillos
     namewodiacritics: Potrerillos
-    subdiv: ''
+    subdiv: '4'
     function: '--3-----'
     status: RL
-    date: '0601'
+    date: '1807'
     iata: ''
     coordinates: '0820N 08056W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA PAB'
+    name: 'Potrerillos Abajo'
+    namewodiacritics: 'Potrerillos Abajo'
+    subdiv: '4'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0839N 08229W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA PDC'
+    name: 'Potrero de Caña'
+    namewodiacritics: 'Potrero de Cana'
+    subdiv: '4'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0818N 08143W'
     remarks: ''
 -
     ch: ''
@@ -1308,6 +4812,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'PA PUC'
+    name: Púcuro
+    namewodiacritics: Pucuro
+    subdiv: '5'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0801N 07730W'
+    remarks: ''
+-
+    ch: ''
     locode: 'PA PVO'
     name: 'Pueblo Nuevo'
     namewodiacritics: 'Pueblo Nuevo'
@@ -1320,13 +4836,25 @@
     remarks: ''
 -
     ch: ''
+    locode: 'PA PAE'
+    name: 'Puerto Almirante'
+    namewodiacritics: 'Puerto Almirante'
+    subdiv: '1'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0917N 08224W'
+    remarks: ''
+-
+    ch: ''
     locode: 'PA AML'
     name: 'Puerto Armuelles'
     namewodiacritics: 'Puerto Armuelles'
-    subdiv: ''
+    subdiv: '4'
     function: 1--4----
     status: AI
-    date: '9601'
+    date: '1807'
     iata: ''
     coordinates: ''
     remarks: ''
@@ -1335,12 +4863,24 @@
     locode: 'PA PCA'
     name: 'Puerto Caimito'
     namewodiacritics: 'Puerto Caimito'
-    subdiv: ''
+    subdiv: '9'
     function: 1-3--6--
     status: RL
-    date: '0607'
+    date: '1807'
     iata: ''
     coordinates: '0852N 07943W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA PUT'
+    name: 'Puerto Escondido'
+    namewodiacritics: 'Puerto Escondido'
+    subdiv: '7'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0726N 08004W'
     remarks: ''
 -
     ch: ''
@@ -1367,17 +4907,197 @@
     coordinates: '0740N 08100W'
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'PA PUE'
     name: 'Puerto Obaldía'
     namewodiacritics: 'Puerto Obaldia'
-    subdiv: '0'
+    subdiv: KY
     function: '---4----'
     status: AI
     date: '1307'
     iata: ''
     coordinates: '0840N 07725W'
-    remarks: '@Sub'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA PUP'
+    name: 'Puerto Pilón'
+    namewodiacritics: 'Puerto Pilon'
+    subdiv: '3'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0921N 07947W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA PPA'
+    name: 'Puerto Piña'
+    namewodiacritics: 'Puerto Pina'
+    subdiv: '5'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0735N 07811W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA PVL'
+    name: 'Puerto Vidal'
+    namewodiacritics: 'Puerto Vidal'
+    subdiv: '10'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0803N 08136W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA PCH'
+    name: 'Punta Chame'
+    namewodiacritics: 'Punta Chame'
+    subdiv: '9'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0839N 07942W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA PUL'
+    name: 'Punta Laurel'
+    namewodiacritics: 'Punta Laurel'
+    subdiv: '1'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0908N 08208W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA PTM'
+    name: 'Punta Mala'
+    namewodiacritics: 'Punta Mala'
+    subdiv: '7'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0728N 08000W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA PRB'
+    name: 'Punta Róbalo'
+    namewodiacritics: 'Punta Robalo'
+    subdiv: '1'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0902N 08215W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA PTG'
+    name: 'Punta Tigre'
+    namewodiacritics: 'Punta Tigre'
+    subdiv: '7'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0827N 08316W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA QDO'
+    name: 'Quebrada de Oro'
+    namewodiacritics: 'Quebrada de Oro'
+    subdiv: '10'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0802N 08123W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA QDP'
+    name: 'Quebrada de Piedra'
+    namewodiacritics: 'Quebrada de Piedra'
+    subdiv: '4'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0806N 08141W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA QDR'
+    name: 'Quebrada del Rosario Arriba'
+    namewodiacritics: 'Quebrada del Rosario Arriba'
+    subdiv: '6'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0743N 08045W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA QEC'
+    name: 'Quebrada El Ciprián'
+    namewodiacritics: 'Quebrada El Ciprian'
+    subdiv: '6'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0742N 08046W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA QUB'
+    name: Quebro
+    namewodiacritics: Quebro
+    subdiv: '10'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0743N 08041W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA QVL'
+    name: Querévalo
+    namewodiacritics: Querevalo
+    subdiv: '4'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0822N 08231W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA RBA'
+    name: Rambala
+    namewodiacritics: Rambala
+    subdiv: '1'
+    function: '--3-----'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '0855N 08209W'
+    remarks: ''
 -
     ch: ''
     locode: 'PA RMT'
@@ -1391,38 +5111,98 @@
     coordinates: '0849N 08251W'
     remarks: ''
 -
-    ch: ¦
+    ch: ''
+    locode: 'PA RIN'
+    name: Rincón
+    namewodiacritics: Rincon
+    subdiv: '4'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0828N 08217W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA RHO'
+    name: 'Rincón Hondo'
+    namewodiacritics: 'Rincon Hondo'
+    subdiv: '6'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0750N 08036W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA RLO'
+    name: 'Rincón Largo'
+    namewodiacritics: 'Rincon Largo'
+    subdiv: '10'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0809N 08103W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA RAB'
+    name: 'Río Abajo'
+    namewodiacritics: 'Rio Abajo'
+    subdiv: '8'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0901N 07930W'
+    remarks: ''
+-
+    ch: ''
     locode: 'PA RIZ'
     name: 'Río Azúcar'
     namewodiacritics: 'Rio Azucar'
-    subdiv: '0'
+    subdiv: KY
     function: '---4----'
     status: AI
     date: '1307'
     iata: ''
     coordinates: '0926N 07838W'
-    remarks: '@Sub'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA RCA'
+    name: 'Rio Congo Arriba'
+    namewodiacritics: 'Rio Congo Arriba'
+    subdiv: '5'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0845N 07823W'
+    remarks: ''
 -
     ch: ''
     locode: 'PA GDE'
     name: 'Río Grande'
     namewodiacritics: 'Rio Grande'
-    subdiv: ''
+    subdiv: '10'
     function: 1-3--6--
     status: RL
-    date: '0607'
+    date: '1807'
     iata: ''
-    coordinates: '0837N 08117W'
+    coordinates: '0743N 08121W'
     remarks: ''
 -
     ch: ''
     locode: 'PA PGR'
     name: 'Río Grande'
     namewodiacritics: 'Rio Grande'
-    subdiv: ''
-    function: '--3-----'
+    subdiv: '2'
+    function: '--3--6--'
     status: RL
-    date: '0601'
+    date: '1807'
     iata: ''
     coordinates: '0825N 08029W'
     remarks: ''
@@ -1437,6 +5217,30 @@
     date: '0501'
     iata: ''
     coordinates: '0832N 08010W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA RHD'
+    name: 'Río Hondo'
+    namewodiacritics: 'Rio Hondo'
+    subdiv: '7'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0743N 08021W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA RID'
+    name: 'Río Indio'
+    namewodiacritics: 'Rio Indio'
+    subdiv: '2'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0845N 08008W'
     remarks: ''
 -
     ch: ''
@@ -1500,6 +5304,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'PA RUD'
+    name: 'Rodolfo Aguilar Delgado'
+    namewodiacritics: 'Rodolfo Aguilar Delgado'
+    subdiv: '4'
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '0835N 08208W'
+    remarks: ''
+-
+    ch: ''
     locode: 'PA ROU'
     name: Rousseau
     namewodiacritics: Rousseau
@@ -1509,6 +5325,42 @@
     date: '1301'
     iata: ''
     coordinates: '0858N 07935W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA SBT'
+    name: Sabanitas
+    namewodiacritics: Sabanitas
+    subdiv: '3'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0920N 07948W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA SAB'
+    name: Saboga
+    namewodiacritics: Saboga
+    subdiv: '8'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0838N 07904W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA SAJ'
+    name: Sajalices
+    namewodiacritics: Sajalices
+    subdiv: '9'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0841N 07952W'
     remarks: ''
 -
     ch: ''
@@ -1524,6 +5376,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'PA SLM'
+    name: Salamanca
+    namewodiacritics: Salamanca
+    subdiv: '3'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0920N 07936W'
+    remarks: ''
+-
+    ch: ''
     locode: 'PA SAL'
     name: Salsipuedes
     namewodiacritics: Salsipuedes
@@ -1536,15 +5400,159 @@
     remarks: ''
 -
     ch: ''
+    locode: 'PA SLD'
+    name: Salud
+    namewodiacritics: Salud
+    subdiv: '3'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0912N 08007W'
+    remarks: ''
+-
+    ch: ''
     locode: 'PA SAX'
     name: Sambu
     namewodiacritics: Sambu
-    subdiv: ''
+    subdiv: '5'
     function: '---4----'
     status: AI
-    date: '9601'
+    date: '1807'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA SNA'
+    name: 'San Andrés'
+    namewodiacritics: 'San Andres'
+    subdiv: '4'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0836N 08244W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA SBA'
+    name: 'San Bartolo'
+    namewodiacritics: 'San Bartolo'
+    subdiv: '10'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0813N 08116W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA SCR'
+    name: 'San Carlos'
+    namewodiacritics: 'San Carlos'
+    subdiv: '4'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0831N 08230W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA SFX'
+    name: 'San Félix'
+    namewodiacritics: 'San Felix'
+    subdiv: '4'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0817N 08152W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA SFA'
+    name: 'San Francisco'
+    namewodiacritics: 'San Francisco'
+    subdiv: '8'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0815N 08058W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA SJE'
+    name: 'San José'
+    namewodiacritics: 'San Jose'
+    subdiv: '10'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0822N 08124W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA SJO'
+    name: 'San José'
+    namewodiacritics: 'San Jose'
+    subdiv: '7'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0740N 08015W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA SNJ'
+    name: 'San José'
+    namewodiacritics: 'San Jose'
+    subdiv: '10'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0829N 08049W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA SJD'
+    name: 'San José de David'
+    namewodiacritics: 'San Jose de David'
+    subdiv: '4'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0826N 08226W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA SJA'
+    name: 'San Juan'
+    namewodiacritics: 'San Juan'
+    subdiv: '10'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0818N 08101W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA SJU'
+    name: 'San Juan'
+    namewodiacritics: 'San Juan'
+    subdiv: '4'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0816N 08159W'
     remarks: ''
 -
     ch: ''
@@ -1557,6 +5565,42 @@
     date: '0307'
     iata: ''
     coordinates: '0818N 08206W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA SNM'
+    name: 'San Marcelo'
+    namewodiacritics: 'San Marcelo'
+    subdiv: '10'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0816N 08109W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA SMT'
+    name: 'San Martín'
+    namewodiacritics: 'San Martin'
+    subdiv: '8'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0912N 07915W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA SMP'
+    name: 'San Martin De Porres'
+    namewodiacritics: 'San Martin De Porres'
+    subdiv: '10'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0806N 08055W'
     remarks: ''
 -
     ch: ''
@@ -1584,6 +5628,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'PA SPE'
+    name: 'San Pedro del Espino'
+    namewodiacritics: 'San Pedro del Espino'
+    subdiv: '10'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0808N 08105W'
+    remarks: ''
+-
+    ch: ''
     locode: 'PA SCL'
     name: 'Santa Clara'
     namewodiacritics: 'Santa Clara'
@@ -1596,15 +5652,123 @@
     remarks: ''
 -
     ch: ''
+    locode: 'PA SAN'
+    name: 'Santa Clara'
+    namewodiacritics: 'Santa Clara'
+    subdiv: '4'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0850N 08245W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA SCU'
+    name: 'Santa Cruz'
+    namewodiacritics: 'Santa Cruz'
+    subdiv: '4'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0814N 08155W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA SCZ'
+    name: 'Santa Cruz'
+    namewodiacritics: 'Santa Cruz'
+    subdiv: '4'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0839N 08246W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA SFE'
+    name: 'Santa Fe'
+    namewodiacritics: 'Santa Fe'
+    subdiv: '10'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0831N 08105W'
+    remarks: ''
+-
+    ch: ''
     locode: 'PA SFW'
     name: 'Santa Fe'
     namewodiacritics: 'Santa Fe'
-    subdiv: ''
+    subdiv: '5'
     function: '---4----'
     status: AI
-    date: '9601'
+    date: '1807'
     iata: ''
-    coordinates: ''
+    coordinates: '0822N 08006W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA SIS'
+    name: 'Santa Isabel'
+    namewodiacritics: 'Santa Isabel'
+    subdiv: '3'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0932N 07911W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA SLA'
+    name: 'Santa Lucia'
+    namewodiacritics: 'Santa Lucia'
+    subdiv: '4'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0813N 08149W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA SRA'
+    name: 'Santa Rita'
+    namewodiacritics: 'Santa Rita'
+    subdiv: '2'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0830N 08011W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA STR'
+    name: 'Santa Rita'
+    namewodiacritics: 'Santa Rita'
+    subdiv: '9'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0851N 07952W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA SNR'
+    name: 'Santa Rosa'
+    namewodiacritics: 'Santa Rosa'
+    subdiv: '9'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0852N 08006W'
     remarks: ''
 -
     ch: ''
@@ -1632,6 +5796,102 @@
     remarks: ''
 -
     ch: ''
+    locode: 'PA SDM'
+    name: 'Santo Domingo'
+    namewodiacritics: 'Santo Domingo'
+    subdiv: '4'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0830N 08243W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA SNT'
+    name: 'Santo Tomás'
+    namewodiacritics: 'Santo Tomas'
+    subdiv: '4'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0823N 08239W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA RIH'
+    name: 'Scarlett Martinez Intl Apt/Rio Hato'
+    namewodiacritics: 'Scarlett Martinez Intl Apt/Rio Hato'
+    subdiv: '2'
+    function: '---4----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '0822N 08007W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA STG'
+    name: Setegantí
+    namewodiacritics: Seteganti
+    subdiv: '5'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0813N 07804W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA S2N'
+    name: Soná
+    namewodiacritics: Sona
+    subdiv: '10'
+    function: '--3-----'
+    status: RL
+    date: '2107'
+    iata: ''
+    coordinates: '0801N 08119W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA SOR'
+    name: Sorá
+    namewodiacritics: Sora
+    subdiv: '9'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0838N 08000W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA STV'
+    name: Sortová
+    namewodiacritics: Sortova
+    subdiv: '4'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0833N 08239W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA TBO'
+    name: Taboga
+    namewodiacritics: Taboga
+    subdiv: '8'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0848N 07933W'
+    remarks: ''
+-
+    ch: ''
     locode: 'PA TBG'
     name: Taboguilla
     namewodiacritics: Taboguilla
@@ -1643,17 +5903,65 @@
     coordinates: '0848N 07930W'
     remarks: ''
 -
-    ch: ¦
+    ch: ''
+    locode: 'PA TMT'
+    name: Taimatí
+    namewodiacritics: Taimati
+    subdiv: '5'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0808N 07814W'
+    remarks: ''
+-
+    ch: ''
     locode: 'PA TJC'
     name: Ticantiquí
     namewodiacritics: Ticantiqui
-    subdiv: '0'
+    subdiv: KY
     function: '---4----'
     status: AI
     date: '1307'
     iata: ''
     coordinates: '0925N 07829W'
-    remarks: '@Sub'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA TIE'
+    name: 'Tierra Oscura'
+    namewodiacritics: 'Tierra Oscura'
+    subdiv: '1'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0911N 08217W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA TIN'
+    name: Tinajas
+    namewodiacritics: Tinajas
+    subdiv: '4'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0833N 08227W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA TOA'
+    name: Toabré
+    namewodiacritics: Toabre
+    subdiv: '2'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0840N 08019W'
+    remarks: ''
 -
     ch: ''
     locode: 'PA TOC'
@@ -1665,6 +5973,18 @@
     date: '1201'
     iata: ''
     coordinates: '0905N 07923W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA TOL'
+    name: Tolé
+    namewodiacritics: Tole
+    subdiv: '4'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0814N 08141W'
     remarks: ''
 -
     ch: ''
@@ -1695,25 +6015,61 @@
     locode: 'PA TOR'
     name: Torti
     namewodiacritics: Torti
-    subdiv: ''
+    subdiv: '8'
     function: '--3-----'
     status: RQ
-    date: '0607'
+    date: '1807'
     iata: ''
-    coordinates: '0855N 07823W'
+    coordinates: '0856N 07830W'
     remarks: ''
 -
-    ch: ¦
+    ch: ''
+    locode: 'PA TOZ'
+    name: Toza
+    namewodiacritics: Toza
+    subdiv: '2'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0821N 08039W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA TQU'
+    name: 'Tres Quebradas'
+    namewodiacritics: 'Tres Quebradas'
+    subdiv: '7'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0751N 08025W'
+    remarks: ''
+-
+    ch: ''
     locode: 'PA TUW'
     name: Tubualá
     namewodiacritics: Tubuala
-    subdiv: '0'
+    subdiv: KY
     function: '---4----'
     status: AI
     date: '1307'
     iata: ''
     coordinates: '0931N 07902W'
-    remarks: '@Sub'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA TUC'
+    name: Tucutí
+    namewodiacritics: Tucuti
+    subdiv: '5'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0759N 07756W'
+    remarks: ''
 -
     ch: ''
     locode: 'PA TUE'
@@ -1725,6 +6081,30 @@
     date: '9601'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA UNS'
+    name: 'Unión Santeña'
+    namewodiacritics: 'Union Santena'
+    subdiv: '8'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0850N 07839W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA URR'
+    name: Urraca
+    namewodiacritics: Urraca
+    subdiv: '10'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0809N 08053W'
     remarks: ''
 -
     ch: ''
@@ -1764,15 +6144,183 @@
     remarks: ''
 -
     ch: ''
+    locode: 'PA VAA'
+    name: 'Valle de Aguas Arriba'
+    namewodiacritics: 'Valle de Aguas Arriba'
+    subdiv: '1'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0914N 08222W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA VDR'
+    name: 'Valle del Risco'
+    namewodiacritics: 'Valle del Risco'
+    subdiv: '1'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0913N 08225W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA VRO'
+    name: 'Valle Rico'
+    namewodiacritics: 'Valle Rico'
+    subdiv: '7'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0737N 08021W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA VLL'
+    name: Vallerriquito
+    namewodiacritics: Vallerriquito
+    subdiv: '7'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0737N 08019W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA VEL'
+    name: Veladero
+    namewodiacritics: Veladero
+    subdiv: '4'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0814N 08139W'
+    remarks: ''
+-
+    ch: ''
     locode: 'PA VCZ'
     name: Veracruz
     namewodiacritics: Veracruz
-    subdiv: '8'
+    subdiv: '9'
     function: '--3-----'
     status: RL
-    date: '0207'
+    date: '1807'
     iata: ''
     coordinates: '0852N 07938W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA VFR'
+    name: 'Viento Frío'
+    namewodiacritics: 'Viento Frio'
+    subdiv: '3'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0935N 07924W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA VIG'
+    name: Viguí
+    namewodiacritics: Vigui
+    subdiv: '10'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0818N 08130W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA VCA'
+    name: 'Villa Carmen'
+    namewodiacritics: 'Villa Carmen'
+    subdiv: '9'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0848N 07952W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA VIL'
+    name: 'Villa Lourdes'
+    namewodiacritics: 'Villa Lourdes'
+    subdiv: '7'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0748N 08028W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA VIR'
+    name: 'Villa Rosario'
+    namewodiacritics: 'Villa Rosario'
+    subdiv: '9'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0847N 07952W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA VIS'
+    name: 'Vista Alegre'
+    namewodiacritics: 'Vista Alegre'
+    subdiv: '10'
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '0855N 07941W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA VHE'
+    name: 'Vista Hermosa'
+    namewodiacritics: 'Vista Hermosa'
+    subdiv: '2'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0832N 08022W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA VOL'
+    name: Volcán
+    namewodiacritics: Volcan
+    subdiv: '4'
+    function: '--3-----'
+    status: RL
+    date: '2001'
+    iata: ''
+    coordinates: '0846N 08238W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA YAP'
+    name: Yape
+    namewodiacritics: Yape
+    subdiv: '5'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0807N 07735W'
     remarks: ''
 -
     ch: ''
@@ -1797,4 +6345,16 @@
     date: '0501'
     iata: ''
     coordinates: '0857N 07952W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PA ZAP'
+    name: Zapotillo
+    namewodiacritics: Zapotillo
+    subdiv: '10'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0800N 08131W'
     remarks: ''

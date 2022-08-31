@@ -24,6 +24,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'DZ A8L'
+    name: 'Ain Benian'
+    namewodiacritics: 'Ain Benian'
+    subdiv: '42'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3648N 00255E'
+    remarks: ''
+-
+    ch: ''
     locode: 'DZ AIN'
     name: '''Aïn Benian'
     namewodiacritics: '''Ain Benian'
@@ -33,6 +45,18 @@
     date: '1201'
     iata: ''
     coordinates: '3648N 00255E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DZ ADA'
+    name: 'Aïn Defla'
+    namewodiacritics: 'Ain Defla'
+    subdiv: '44'
+    function: '--3-----'
+    status: RL
+    date: '1707'
+    iata: ''
+    coordinates: '3616N 00158E'
     remarks: ''
 -
     ch: ''
@@ -93,6 +117,18 @@
     date: '0901'
     iata: ''
     coordinates: '3517N 00108W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DZ ATT'
+    name: 'Ain Touta'
+    namewodiacritics: 'Ain Touta'
+    subdiv: '05'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3522N 00553E'
     remarks: ''
 -
     ch: ''
@@ -299,7 +335,19 @@
     coordinates: '3548N 00015W'
     remarks: ''
 -
-    ch: +
+    ch: ''
+    locode: 'DZ D2H'
+    name: 'Bir Mourad Rais'
+    namewodiacritics: 'Bir Mourad Rais'
+    subdiv: '16'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3644N 00302E'
+    remarks: ''
+-
+    ch: ''
     locode: 'DZ BIM'
     name: 'Bir Mourad Raïs'
     namewodiacritics: 'Bir Mourad Rais'
@@ -309,6 +357,30 @@
     date: '1307'
     iata: ''
     coordinates: '3644N 00302E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DZ G2H'
+    name: Birkhadem
+    namewodiacritics: Birkhadem
+    subdiv: '16'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3643N 00303E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DZ BIR'
+    name: Birtouta
+    namewodiacritics: Birtouta
+    subdiv: '42'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '3639N 00300E'
     remarks: ''
 -
     ch: ''
@@ -360,6 +432,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'DZ BEK'
+    name: 'Bordj El Kiffan'
+    namewodiacritics: 'Bordj El Kiffan'
+    subdiv: '16'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3644N 00311E'
+    remarks: ''
+-
+    ch: ''
     locode: 'DZ BOM'
     name: 'Bordj Menaïel'
     namewodiacritics: 'Bordj Menaiel'
@@ -399,12 +483,12 @@
     locode: 'DZ BNN'
     name: Bouinan
     namewodiacritics: Bouinan
-    subdiv: ''
+    subdiv: '09'
     function: '--3-----'
     status: RL
-    date: '0901'
+    date: '1707'
     iata: ''
-    coordinates: '3154N 25931E'
+    coordinates: '3631N 00259E'
     remarks: ''
 -
     ch: ''
@@ -465,6 +549,18 @@
     date: '0901'
     iata: ''
     coordinates: '3609N 00609E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DZ F4U'
+    name: Cheraga
+    namewodiacritics: Cheraga
+    subdiv: '16'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3646N 00257E'
     remarks: ''
 -
     ch: ''
@@ -696,6 +792,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'DZ ORX'
+    name: 'El Kerma'
+    namewodiacritics: 'El Kerma'
+    subdiv: '31'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3536N 00034W'
+    remarks: ''
+-
+    ch: ''
     locode: 'DZ EMD'
     name: 'El Madania'
     namewodiacritics: 'El Madania'
@@ -729,6 +837,18 @@
     date: '1301'
     iata: ''
     coordinates: '3622N 00635E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DZ EMU'
+    name: 'El Mouradia'
+    namewodiacritics: 'El Mouradia'
+    subdiv: '16'
+    function: '-----6--'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '3645N 00303E'
     remarks: ''
 -
     ch: ''
@@ -816,6 +936,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'DZ HAE'
+    name: Hammedi
+    namewodiacritics: Hammedi
+    subdiv: '35'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '3640N 00316E'
+    remarks: ''
+-
+    ch: ''
     locode: 'DZ HME'
     name: 'Hassi Messaoud'
     namewodiacritics: 'Hassi Messaoud'
@@ -831,12 +963,12 @@
     locode: 'DZ RME'
     name: 'Hassi R''Mel'
     namewodiacritics: 'Hassi R''Mel'
-    subdiv: ''
+    subdiv: '03'
     function: '--3-----'
     status: RL
-    date: '0901'
+    date: '1707'
     iata: ''
-    coordinates: '3256N 31014E'
+    coordinates: '3255N 00316E'
     remarks: ''
 -
     ch: ''
@@ -1080,6 +1212,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'DZ MEF'
+    name: Meftah
+    namewodiacritics: Meftah
+    subdiv: '16'
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '3637N 00313E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DZ MIL'
+    name: Mila
+    namewodiacritics: Mila
+    subdiv: '43'
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '3627N 00615E'
+    remarks: ''
+-
+    ch: ''
     locode: 'DZ MHA'
     name: Mohammadia
     namewodiacritics: Mohammadia
@@ -1152,6 +1308,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'DZ 2ON'
+    name: 'Oran Dry Port'
+    namewodiacritics: 'Oran Dry Port'
+    subdiv: '31'
+    function: 1----6--
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '3541N 00038W'
+    remarks: ''
+-
+    ch: ''
     locode: 'DZ OGX'
     name: Ouargla
     namewodiacritics: Ouargla
@@ -1161,6 +1329,18 @@
     date: '0901'
     iata: ''
     coordinates: '3155N 00524E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DZ OTL'
+    name: 'Oued Tlélat'
+    namewodiacritics: 'Oued Tlelat'
+    subdiv: '31'
+    function: '--3-----'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '3533N 00027W'
     remarks: ''
 -
     ch: ''
@@ -1224,6 +1404,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'DZ REG'
+    name: Reghaia
+    namewodiacritics: Reghaia
+    subdiv: '35'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3644N 00320E'
+    remarks: ''
+-
+    ch: ''
     locode: 'DZ QZN'
     name: Relizane
     namewodiacritics: Relizane
@@ -1281,6 +1473,30 @@
     date: '0907'
     iata: ''
     coordinates: '3450N 00090E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DZ SBY'
+    name: 'Salah Bey'
+    namewodiacritics: 'Salah Bey'
+    subdiv: '16'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3551N 00517E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DZ SAO'
+    name: Saoula
+    namewodiacritics: Saoula
+    subdiv: '42'
+    function: '--3-----'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '3642N 00301E'
     remarks: ''
 -
     ch: ''
@@ -1344,6 +1560,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'DZ SKK'
+    name: Skikda
+    namewodiacritics: Skikda
+    subdiv: '21'
+    function: '--34----'
+    status: RL
+    date: '2001'
+    iata: ''
+    coordinates: '3652N 00654E'
+    remarks: ''
+-
+    ch: ''
     locode: 'DZ SKI'
     name: 'Skikda (ex Philippeville)'
     namewodiacritics: 'Skikda (ex Philippeville)'
@@ -1365,6 +1593,18 @@
     date: '0907'
     iata: ''
     coordinates: '3617N 00757E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DZ BO7'
+    name: 'Sour El Ghozlane'
+    namewodiacritics: 'Sour El Ghozlane'
+    subdiv: '10'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3609N 00341E'
     remarks: ''
 -
     ch: ''

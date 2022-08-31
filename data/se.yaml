@@ -27,7 +27,7 @@
     locode: 'SE ADK'
     name: Adak
     namewodiacritics: Adak
-    subdiv: Y
+    subdiv: 'Y'
     function: '-----6--'
     status: RL
     date: '1201'
@@ -45,6 +45,18 @@
     date: '1001'
     iata: ''
     coordinates: '5922N 01729E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SE AEL'
+    name: Aelvsered
+    namewodiacritics: Aelvsered
+    subdiv: 'N'
+    function: '--3-----'
+    status: AA
+    date: '2107'
+    iata: ''
+    coordinates: '5714N 01251E'
     remarks: ''
 -
     ch: ''
@@ -101,10 +113,10 @@
     namewodiacritics: Ahus
     subdiv: M
     function: 123-----
-    status: AF
-    date: '8312'
+    status: AA
+    date: '1601'
     iata: ''
-    coordinates: ''
+    coordinates: '5555N 01417E'
     remarks: ''
 -
     ch: ''
@@ -149,17 +161,41 @@
     namewodiacritics: Ala
     subdiv: X
     function: 1-------
-    status: AF
-    date: '8312'
+    status: AA
+    date: '1601'
     iata: ''
-    coordinates: ''
+    coordinates: '6113N 01709E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SE ALO'
+    name: Alafors
+    namewodiacritics: Alafors
+    subdiv: O
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '5734N 01206E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SE ALG'
+    name: Alberga
+    namewodiacritics: Alberga
+    subdiv: D
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '5916N 01607E'
     remarks: ''
 -
     ch: ''
     locode: 'SE ALB'
     name: Alby
     namewodiacritics: Alby
-    subdiv: Y
+    subdiv: 'Y'
     function: '--3-----'
     status: RL
     date: '0105'
@@ -171,7 +207,7 @@
     locode: 'SE ALF'
     name: Alfredshem
     namewodiacritics: Alfredshem
-    subdiv: Y
+    subdiv: 'Y'
     function: 1-------
     status: AF
     date: '8312'
@@ -252,6 +288,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'SE N8P'
+    name: Alnarp
+    namewodiacritics: Alnarp
+    subdiv: M
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '5539N 01305E'
+    remarks: ''
+-
+    ch: ''
     locode: 'SE ASM'
     name: Alstermo
     namewodiacritics: Alstermo
@@ -261,6 +309,18 @@
     date: '1301'
     iata: ''
     coordinates: '5658N 01538E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SE AB5'
+    name: Alta
+    namewodiacritics: Alta
+    subdiv: AB
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '5916N 01811E'
     remarks: ''
 -
     ch: ''
@@ -293,8 +353,8 @@
     namewodiacritics: Alvenas
     subdiv: S
     function: 1-------
-    status: AI
-    date: '0212'
+    status: AA
+    date: '1601'
     iata: ''
     coordinates: '5923N 01311E'
     remarks: ''
@@ -353,8 +413,8 @@
     namewodiacritics: Amal
     subdiv: O
     function: 123-----
-    status: AF
-    date: '0207'
+    status: AA
+    date: '1601'
     iata: ''
     coordinates: '5903N 01242E'
     remarks: ''
@@ -423,7 +483,7 @@
     locode: 'SE AGE'
     name: Ånge
     namewodiacritics: Ange
-    subdiv: Y
+    subdiv: 'Y'
     function: 123-----
     status: RL
     date: '0601'
@@ -489,6 +549,18 @@
     date: '0601'
     iata: ''
     coordinates: '6319N 01232E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SE ANB'
+    name: Anneberg
+    namewodiacritics: Anneberg
+    subdiv: H
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '5743N 01548E'
     remarks: ''
 -
     ch: ''
@@ -636,6 +708,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'SE ASV'
+    name: Arnäsvall
+    namewodiacritics: Arnasvall
+    subdiv: 'Y'
+    function: '--3-----'
+    status: RL
+    date: '1707'
+    iata: ''
+    coordinates: '6319N 01847E'
+    remarks: ''
+-
+    ch: ''
     locode: 'SE ARI'
     name: Arninge
     namewodiacritics: Arninge
@@ -663,7 +747,7 @@
     locode: 'SE ASQ'
     name: Ärsta
     namewodiacritics: Arsta
-    subdiv: Y
+    subdiv: 'Y'
     function: '--3-----'
     status: RL
     date: '1301'
@@ -843,7 +927,7 @@
     locode: 'SE ASK'
     name: Åskloster
     namewodiacritics: Askloster
-    subdiv: N
+    subdiv: 'N'
     function: '--3-----'
     status: RL
     date: '9307'
@@ -921,6 +1005,18 @@
     date: '0101'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SE BCD'
+    name: Backaryd
+    namewodiacritics: Backaryd
+    subdiv: K
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '5620N 01511E'
     remarks: ''
 -
     ch: ''
@@ -1013,8 +1109,8 @@
     namewodiacritics: Balsta
     subdiv: C
     function: 1-3-----
-    status: AI
-    date: '0507'
+    status: AA
+    date: '1601'
     iata: ''
     coordinates: '5935N 01730E'
     remarks: ''
@@ -1048,11 +1144,11 @@
     name: Barsebäckshamn
     namewodiacritics: Barsebackshamn
     subdiv: M
-    function: 0-------
-    status: RL
-    date: '1301'
+    function: 1-------
+    status: AA
+    date: '1607'
     iata: ''
-    coordinates: ''
+    coordinates: '5545N 01254E'
     remarks: ''
 -
     ch: ''
@@ -1065,6 +1161,18 @@
     date: '9704'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SE BTS'
+    name: Bastutrask
+    namewodiacritics: Bastutrask
+    subdiv: AC
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '6500N 01741E'
     remarks: ''
 -
     ch: ''
@@ -1116,15 +1224,27 @@
     remarks: ''
 -
     ch: ''
+    locode: 'SE BGF'
+    name: Bergeforsen
+    namewodiacritics: Bergeforsen
+    subdiv: 'Y'
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '6232N 01723E'
+    remarks: ''
+-
+    ch: ''
     locode: 'SE BEA'
     name: Bergkvara
     namewodiacritics: Bergkvara
     subdiv: H
     function: 1-------
-    status: AI
-    date: '9704'
+    status: AA
+    date: '1601'
     iata: ''
-    coordinates: ''
+    coordinates: '5623N 01605E'
     remarks: ''
 -
     ch: ''
@@ -1133,10 +1253,10 @@
     namewodiacritics: 'Bergs oljehamn'
     subdiv: AB
     function: 1-------
-    status: AI
-    date: '9704'
+    status: AA
+    date: '1601'
     iata: ''
-    coordinates: ''
+    coordinates: '5919N 01810E'
     remarks: ''
 -
     ch: ''
@@ -1260,6 +1380,42 @@
     remarks: ''
 -
     ch: ''
+    locode: 'SE BJ5'
+    name: Bjartra
+    namewodiacritics: Bjartra
+    subdiv: 'Y'
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '6258N 01753E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SE BST'
+    name: Bjästa
+    namewodiacritics: Bjasta
+    subdiv: 'Y'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '6312N 01830E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SE BOO'
+    name: Björbo
+    namewodiacritics: Bjorbo
+    subdiv: W
+    function: '--3-----'
+    status: AM
+    date: '2007'
+    iata: ''
+    coordinates: '6027N 01442E'
+    remarks: ''
+-
+    ch: ''
     locode: 'SE BJK'
     name: Björklinge
     namewodiacritics: Bjorklinge
@@ -1269,6 +1425,18 @@
     date: '9705'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SE BJV'
+    name: Bjorkvik
+    namewodiacritics: Bjorkvik
+    subdiv: D
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5850N 01631E'
     remarks: ''
 -
     ch: ''
@@ -1344,6 +1512,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'SE B5P'
+    name: Blentarp
+    namewodiacritics: Blentarp
+    subdiv: M
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '5535N 01336E'
+    remarks: ''
+-
+    ch: ''
     locode: 'SE BBG'
     name: Blidsberg
     namewodiacritics: Blidsberg
@@ -1409,8 +1589,8 @@
     namewodiacritics: Bohus
     subdiv: O
     function: 123-----
-    status: AI
-    date: '0207'
+    status: AA
+    date: '1601'
     iata: ''
     coordinates: '5751N 01200E'
     remarks: ''
@@ -1455,12 +1635,12 @@
     locode: 'SE BOL'
     name: Bollstabruk
     namewodiacritics: Bollstabruk
-    subdiv: Y
+    subdiv: 'Y'
     function: 123-----
-    status: AI
-    date: '9704'
+    status: AA
+    date: '1601'
     iata: ''
-    coordinates: ''
+    coordinates: '6300N 01741E'
     remarks: ''
 -
     ch: ''
@@ -1536,6 +1716,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'SE BVN'
+    name: Borgvattnet
+    namewodiacritics: Borgvattnet
+    subdiv: Z
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '6325N 01550E'
+    remarks: ''
+-
+    ch: ''
     locode: 'SE BLE'
     name: Borlänge
     namewodiacritics: Borlange
@@ -1572,6 +1764,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'SE BMK'
+    name: Botsmark
+    namewodiacritics: Botsmark
+    subdiv: AC
+    function: '--3-----'
+    status: RL
+    date: '2001'
+    iata: ''
+    coordinates: '6414N 02013E'
+    remarks: ''
+-
+    ch: ''
     locode: 'SE BOT'
     name: Bottnaryd
     namewodiacritics: Bottnaryd
@@ -1605,6 +1809,30 @@
     date: '9501'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SE AA8'
+    name: Braas
+    namewodiacritics: Braas
+    subdiv: G
+    function: '--3-----'
+    status: RL
+    date: '1707'
+    iata: ''
+    coordinates: '5704N 01503E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SE BRS'
+    name: Braås
+    namewodiacritics: Braas
+    subdiv: G
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '5704N 01503E'
     remarks: ''
 -
     ch: ''
@@ -1685,8 +1913,8 @@
     namewodiacritics: Braviken
     subdiv: E
     function: 1-3-----
-    status: AF
-    date: '0701'
+    status: AA
+    date: '1601'
     iata: ''
     coordinates: '5838N 01632E'
     remarks: ''
@@ -1769,10 +1997,10 @@
     namewodiacritics: Brofjorden
     subdiv: O
     function: 1-------
-    status: AF
-    date: '8312'
+    status: AA
+    date: '1601'
     iata: ''
-    coordinates: ''
+    coordinates: '5821N 01123E'
     remarks: ''
 -
     ch: ''
@@ -1845,6 +2073,18 @@
     date: '0901'
     iata: ''
     coordinates: '6305N 01449E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SE BUN'
+    name: Brunna
+    namewodiacritics: Brunna
+    subdiv: AB
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5931N 01745E'
     remarks: ''
 -
     ch: ''
@@ -2081,8 +2321,8 @@
     namewodiacritics: Degerhamn
     subdiv: H
     function: 1-------
-    status: AI
-    date: '9704'
+    status: AA
+    date: '1601'
     iata: ''
     coordinates: ''
     remarks: ''
@@ -2148,6 +2388,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'SE DD7'
+    name: Djuras
+    namewodiacritics: Djuras
+    subdiv: W
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '6033N 01508E'
+    remarks: ''
+-
+    ch: ''
     locode: 'SE DHN'
     name: Djurhamn
     namewodiacritics: Djurhamn
@@ -2177,10 +2429,10 @@
     namewodiacritics: Djuron
     subdiv: E
     function: 1-------
-    status: AI
-    date: '9704'
+    status: AA
+    date: '1601'
     iata: ''
-    coordinates: ''
+    coordinates: '5838N 01621E'
     remarks: ''
 -
     ch: ''
@@ -2199,7 +2451,7 @@
     locode: 'SE DOM'
     name: Domsjö
     namewodiacritics: Domsjo
-    subdiv: Y
+    subdiv: 'Y'
     function: 1-------
     status: AI
     date: '9704'
@@ -2256,6 +2508,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'SE DVD'
+    name: Duved
+    namewodiacritics: Duved
+    subdiv: Z
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '6324N 01252E'
+    remarks: ''
+-
+    ch: ''
     locode: 'SE DSE'
     name: Dvaersaett
     namewodiacritics: Dvaersaett
@@ -2271,7 +2535,7 @@
     locode: 'SE DYN'
     name: Dynäs
     namewodiacritics: Dynas
-    subdiv: Y
+    subdiv: 'Y'
     function: 123-----
     status: AF
     date: '8312'
@@ -2304,6 +2568,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'SE EDE'
+    name: Edane
+    namewodiacritics: Edane
+    subdiv: S
+    function: '--3-----'
+    status: RL
+    date: '2001'
+    iata: ''
+    coordinates: '5937N 01249E'
+    remarks: ''
+-
+    ch: ''
     locode: 'SE EDS'
     name: Edsbyn
     namewodiacritics: Edsbyn
@@ -2313,6 +2589,18 @@
     date: '9501'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SE EDV'
+    name: Edsvalla
+    namewodiacritics: Edsvalla
+    subdiv: S
+    function: '-23-----'
+    status: RL
+    date: '1707'
+    iata: ''
+    coordinates: '5926N 01311E'
     remarks: ''
 -
     ch: ''
@@ -2352,6 +2640,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'SE EK9'
+    name: Eket
+    namewodiacritics: Eket
+    subdiv: M
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '5615N 01311E'
+    remarks: ''
+-
+    ch: ''
     locode: 'SE EKH'
     name: Ekshärad
     namewodiacritics: Eksharad
@@ -2382,7 +2682,7 @@
     subdiv: K
     function: 1-3-----
     status: AA
-    date: '1207'
+    date: '1601'
     iata: ''
     coordinates: '5610N 01445E'
     remarks: ''
@@ -2393,8 +2693,8 @@
     namewodiacritics: Ellos
     subdiv: O
     function: 1-3-----
-    status: RL
-    date: '0901'
+    status: AA
+    date: '1601'
     iata: ''
     coordinates: '5811N 01128E'
     remarks: ''
@@ -2465,8 +2765,8 @@
     namewodiacritics: Enkoping
     subdiv: C
     function: 123-----
-    status: AI
-    date: '0307'
+    status: AA
+    date: '1601'
     iata: XWQ
     coordinates: '5940N 01706E'
     remarks: ''
@@ -2499,7 +2799,7 @@
     locode: 'SE ERI'
     name: Erikslund
     namewodiacritics: Erikslund
-    subdiv: Y
+    subdiv: 'Y'
     function: '-23-----'
     status: RL
     date: '0701'
@@ -2571,12 +2871,48 @@
     locode: 'SE ESS'
     name: Essvik
     namewodiacritics: Essvik
-    subdiv: Y
+    subdiv: 'Y'
     function: 1-3-----
     status: AF
     date: '0307'
     iata: ''
     coordinates: '6218N 01723E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SE EVD'
+    name: Everöd
+    namewodiacritics: Everod
+    subdiv: M
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5554N 01406E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SE FGS'
+    name: Fågelfors
+    namewodiacritics: Fagelfors
+    subdiv: H
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5712N 01550E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SE FAS'
+    name: Fagersanna
+    namewodiacritics: Fagersanna
+    subdiv: O
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '5828N 01418E'
     remarks: ''
 -
     ch: ''
@@ -2607,12 +2943,12 @@
     locode: 'SE FAG'
     name: Falkenberg
     namewodiacritics: Falkenberg
-    subdiv: N
+    subdiv: 'N'
     function: 123-----
-    status: AI
-    date: '9704'
+    status: AA
+    date: '1601'
     iata: XYM
-    coordinates: ''
+    coordinates: '5653N 01230E'
     remarks: ''
 -
     ch: ''
@@ -2700,6 +3036,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'SE FAV'
+    name: Färlöv
+    namewodiacritics: Farlov
+    subdiv: M
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '5604N 01405E'
+    remarks: ''
+-
+    ch: ''
     locode: 'SE FSD'
     name: Fårösund
     namewodiacritics: Farosund
@@ -2727,7 +3075,7 @@
     locode: 'SE FEN'
     name: Fegen
     namewodiacritics: Fegen
-    subdiv: N
+    subdiv: 'N'
     function: '--3-----'
     status: RL
     date: '0407'
@@ -2859,7 +3207,7 @@
     locode: 'SE FJC'
     name: Fjärås
     namewodiacritics: Fjaras
-    subdiv: N
+    subdiv: 'N'
     function: '--3-----'
     status: RL
     date: '0201'
@@ -3072,15 +3420,27 @@
     remarks: ''
 -
     ch: ''
+    locode: 'SE FSV'
+    name: Forslov
+    namewodiacritics: Forslov
+    subdiv: M
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5621N 01249E'
+    remarks: ''
+-
+    ch: ''
     locode: 'SE FOR'
     name: Forsmark
     namewodiacritics: Forsmark
     subdiv: C
     function: 1-------
-    status: AI
-    date: '9704'
+    status: AA
+    date: '1601'
     iata: ''
-    coordinates: ''
+    coordinates: '6022N 01809E'
     remarks: ''
 -
     ch: ''
@@ -3096,10 +3456,22 @@
     remarks: ''
 -
     ch: ''
+    locode: 'SE FDS'
+    name: Frändefors
+    namewodiacritics: Frandefors
+    subdiv: O
+    function: '-23-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '5830N 01217E'
+    remarks: ''
+-
+    ch: ''
     locode: 'SE FRA'
     name: Frånö
     namewodiacritics: Frano
-    subdiv: Y
+    subdiv: 'Y'
     function: 123-----
     status: AF
     date: '8312'
@@ -3108,10 +3480,22 @@
     remarks: ''
 -
     ch: ''
+    locode: 'SE FDL'
+    name: Fredriksdal
+    namewodiacritics: Fredriksdal
+    subdiv: K
+    function: '-----6--'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '5612N 01531E'
+    remarks: ''
+-
+    ch: ''
     locode: 'SE FSA'
     name: Frillesås
     namewodiacritics: Frillesas
-    subdiv: N
+    subdiv: 'N'
     function: '-23--6--'
     status: RL
     date: '1301'
@@ -3141,6 +3525,18 @@
     date: '9806'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SE FRN'
+    name: Froson
+    namewodiacritics: Froson
+    subdiv: Z
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '6311N 01432E'
     remarks: ''
 -
     ch: ''
@@ -3240,15 +3636,27 @@
     remarks: ''
 -
     ch: ''
+    locode: 'SE GLS'
+    name: Gällstad
+    namewodiacritics: Gallstad
+    subdiv: O
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '5740N 01326E'
+    remarks: ''
+-
+    ch: ''
     locode: 'SE GAM'
     name: Gamleby
     namewodiacritics: Gamleby
     subdiv: H
     function: 123-----
-    status: AI
-    date: '9704'
+    status: AA
+    date: '1601'
     iata: ''
-    coordinates: ''
+    coordinates: '5754N 01624E'
     remarks: ''
 -
     ch: ''
@@ -3275,7 +3683,7 @@
     coordinates: ''
     remarks: ''
 -
-    ch: +
+    ch: ''
     locode: 'SE GKG'
     name: 'Gärds Köpinge'
     namewodiacritics: 'Gards Kopinge'
@@ -3312,15 +3720,27 @@
     remarks: ''
 -
     ch: ''
+    locode: 'SE GAS'
+    name: Gärsnäs
+    namewodiacritics: Garsnas
+    subdiv: M
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '5533N 01411E'
+    remarks: ''
+-
+    ch: ''
     locode: 'SE GVX'
     name: Gävle
     namewodiacritics: Gavle
     subdiv: X
     function: 1--4----
-    status: AI
-    date: '9601'
+    status: AA
+    date: '1601'
     iata: ''
-    coordinates: ''
+    coordinates: '6040N 01710E'
     remarks: ''
 -
     ch: ''
@@ -3339,7 +3759,7 @@
     locode: 'SE GET'
     name: Getinge
     namewodiacritics: Getinge
-    subdiv: N
+    subdiv: 'N'
     function: '--3-----'
     status: RL
     date: '9307'
@@ -3420,6 +3840,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'SE GLM'
+    name: Glommen
+    namewodiacritics: Glommen
+    subdiv: 'N'
+    function: 1-------
+    status: AA
+    date: '1601'
+    iata: ''
+    coordinates: '5656N 01221E'
+    remarks: ''
+-
+    ch: ''
     locode: 'SE GLV'
     name: Glumslov
     namewodiacritics: Glumslov
@@ -3485,8 +3917,8 @@
     namewodiacritics: Gota
     subdiv: O
     function: 123-----
-    status: AI
-    date: '0207'
+    status: AA
+    date: '1601'
     iata: ''
     coordinates: '5807N 01208E'
     remarks: ''
@@ -3497,8 +3929,8 @@
     namewodiacritics: Goteborg
     subdiv: O
     function: 12345---
-    status: AI
-    date: '1301'
+    status: AA
+    date: '1601'
     iata: GSP
     coordinates: '5743N 01158E'
     remarks: ''
@@ -3664,9 +4096,9 @@
     name: Grillby
     namewodiacritics: Grillby
     subdiv: C
-    function: 1----6--
+    function: '-----6--'
     status: RL
-    date: '1107'
+    date: '1901'
     iata: ''
     coordinates: '5937N 01715E'
     remarks: ''
@@ -3684,15 +4116,27 @@
     remarks: ''
 -
     ch: ''
+    locode: 'SE GRM'
+    name: Grimslöv
+    namewodiacritics: Grimslov
+    subdiv: G
+    function: '--3-----'
+    status: RL
+    date: '2001'
+    iata: ''
+    coordinates: '5644N 01432E'
+    remarks: ''
+-
+    ch: ''
     locode: 'SE GRH'
     name: Grisslehamn
     namewodiacritics: Grisslehamn
     subdiv: AB
     function: 1-------
-    status: AI
-    date: '9704'
+    status: AA
+    date: '1601'
     iata: ''
-    coordinates: ''
+    coordinates: '6006N 01850E'
     remarks: ''
 -
     ch: ''
@@ -3717,6 +4161,18 @@
     date: '1201'
     iata: ''
     coordinates: '6031N 01744E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SE GKA'
+    name: Gronskara
+    namewodiacritics: Gronskara
+    subdiv: H
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5705N 01544E'
     remarks: ''
 -
     ch: ''
@@ -3761,10 +4217,10 @@
     namewodiacritics: Gruvon
     subdiv: S
     function: 1-------
-    status: AI
-    date: '9704'
+    status: AA
+    date: '1601'
     iata: ''
-    coordinates: ''
+    coordinates: '5920N 01307E'
     remarks: ''
 -
     ch: ''
@@ -3815,7 +4271,7 @@
     coordinates: '5942N 01432E'
     remarks: ''
 -
-    ch: +
+    ch: ''
     locode: 'SE GHT'
     name: Guldsmedshyttan
     namewodiacritics: Guldsmedshyttan
@@ -3825,6 +4281,42 @@
     date: '1307'
     iata: ''
     coordinates: '5942N 01506E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SE GUO'
+    name: Gullabo
+    namewodiacritics: Gullabo
+    subdiv: H
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '5628N 01548E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SE GSP'
+    name: Gullspång
+    namewodiacritics: Gullspang
+    subdiv: O
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '5859N 01406E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SE GSK'
+    name: Gunnarskog
+    namewodiacritics: Gunnarskog
+    subdiv: S
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '5950N 01233E'
     remarks: ''
 -
     ch: ''
@@ -3879,10 +4371,10 @@
     locode: 'SE GUS'
     name: Gustavsvik
     namewodiacritics: Gustavsvik
-    subdiv: Y
+    subdiv: 'Y'
     function: 123-----
-    status: AF
-    date: '0212'
+    status: AA
+    date: '1601'
     iata: ''
     coordinates: '6250N 01753E'
     remarks: ''
@@ -3983,7 +4475,7 @@
     coordinates: ''
     remarks: ''
 -
-    ch: +
+    ch: ''
     locode: 'SE HAJ'
     name: Häljarp
     namewodiacritics: Haljarp
@@ -4044,6 +4536,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'SE HTD'
+    name: Hällestad
+    namewodiacritics: Hallestad
+    subdiv: E
+    function: '--3-----'
+    status: RL
+    date: '2001'
+    iata: ''
+    coordinates: '5843N 01520E'
+    remarks: ''
+-
+    ch: ''
     locode: 'SE HLG'
     name: Hällingsjö
     namewodiacritics: Hallingsjo
@@ -4073,17 +4577,17 @@
     namewodiacritics: Hallstahammar
     subdiv: U
     function: '--3-----'
-    status: RN
-    date: '9806'
+    status: AA
+    date: '1601'
     iata: ''
-    coordinates: ''
+    coordinates: '5603N 01242E'
     remarks: ''
 -
     ch: ''
     locode: 'SE HAS'
     name: Hallstanäs
     namewodiacritics: Hallstanas
-    subdiv: Y
+    subdiv: 'Y'
     function: 1-------
     status: AF
     date: '8312'
@@ -4097,22 +4601,22 @@
     namewodiacritics: Hallstavik
     subdiv: AB
     function: 123-----
-    status: AI
-    date: '9704'
+    status: AA
+    date: '1601'
     iata: ''
-    coordinates: ''
+    coordinates: '6003N 01836E'
     remarks: ''
 -
     ch: ''
     locode: 'SE HAD'
     name: Halmstad
     namewodiacritics: Halmstad
-    subdiv: N
+    subdiv: 'N'
     function: 1234----
-    status: AI
-    date: '9601'
+    status: AA
+    date: '1601'
     iata: ''
-    coordinates: ''
+    coordinates: '5640N 01251E'
     remarks: ''
 -
     ch: ''
@@ -4140,6 +4644,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'SE HRO'
+    name: Hammarö
+    namewodiacritics: Hammaro
+    subdiv: S
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '5920N 01331E'
+    remarks: ''
+-
+    ch: ''
     locode: 'SE HMD'
     name: Hammerdal
     namewodiacritics: Hammerdal
@@ -4164,18 +4680,6 @@
     remarks: ''
 -
     ch: ''
-    locode: 'SE HNE'
-    name: Haninge
-    namewodiacritics: Haninge
-    subdiv: D
-    function: '-23-----'
-    status: RL
-    date: '9307'
-    iata: ''
-    coordinates: ''
-    remarks: ''
--
-    ch: ''
     locode: 'SE HNI'
     name: Haninge
     namewodiacritics: Haninge
@@ -4185,6 +4689,18 @@
     date: '0701'
     iata: ''
     coordinates: '5910N 01808E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SE HNE'
+    name: Haninge
+    namewodiacritics: Haninge
+    subdiv: D
+    function: '-23-----'
+    status: RL
+    date: '9307'
+    iata: ''
+    coordinates: ''
     remarks: ''
 -
     ch: ''
@@ -4205,10 +4721,10 @@
     namewodiacritics: Haraholmen
     subdiv: BD
     function: 1-------
-    status: AI
-    date: '9704'
+    status: AA
+    date: '1601'
     iata: ''
-    coordinates: ''
+    coordinates: '6514N 02139E'
     remarks: ''
 -
     ch: ''
@@ -4229,22 +4745,22 @@
     namewodiacritics: Hargshamn
     subdiv: C
     function: 123-----
-    status: AI
-    date: '9704'
+    status: AA
+    date: '1601'
     iata: ''
-    coordinates: ''
+    coordinates: '6010N 01828E'
     remarks: ''
 -
     ch: ''
     locode: 'SE HND'
     name: Härnösand
     namewodiacritics: Harnosand
-    subdiv: Y
+    subdiv: 'Y'
     function: 123-----
-    status: AI
-    date: '9704'
+    status: AA
+    date: '1601'
     iata: XYZ
-    coordinates: ''
+    coordinates: '6238N 01756E'
     remarks: ''
 -
     ch: ''
@@ -4257,6 +4773,18 @@
     date: '0701'
     iata: ''
     coordinates: '5741N 01218E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SE HRV'
+    name: Härslöv
+    namewodiacritics: Harslov
+    subdiv: M
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5556N 12520E'
     remarks: ''
 -
     ch: ''
@@ -4277,10 +4805,10 @@
     namewodiacritics: Hasselbyverket/Stockholm
     subdiv: AB
     function: 1-------
-    status: RL
-    date: '0212'
+    status: AA
+    date: '1601'
     iata: ''
-    coordinates: ''
+    coordinates: '5921N 01729E'
     remarks: ''
 -
     ch: ''
@@ -4320,6 +4848,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'SE HAV'
+    name: Havdhem
+    namewodiacritics: Havdhem
+    subdiv: H
+    function: '--3-----'
+    status: RL
+    date: '2001'
+    iata: ''
+    coordinates: '5709N 01820E'
+    remarks: ''
+-
+    ch: ''
     locode: 'SE HVR'
     name: Håverud
     namewodiacritics: Haverud
@@ -4335,7 +4875,7 @@
     locode: 'SE HEG'
     name: Heberg
     namewodiacritics: Heberg
-    subdiv: N
+    subdiv: 'N'
     function: '--3--6--'
     status: RL
     date: '0701'
@@ -4379,7 +4919,7 @@
     coordinates: ''
     remarks: ''
 -
-    ch: +
+    ch: ''
     locode: 'SE HDS'
     name: Hedesunda
     namewodiacritics: Hedesunda
@@ -4512,6 +5052,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'SE HSD'
+    name: Hillared
+    namewodiacritics: Hillared
+    subdiv: O
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '5738N 01309E'
+    remarks: ''
+-
+    ch: ''
     locode: 'SE HIL'
     name: Hillerstorp
     namewodiacritics: Hillerstorp
@@ -4539,7 +5091,7 @@
     locode: 'SE HHT'
     name: Hishult
     namewodiacritics: Hishult
-    subdiv: N
+    subdiv: 'N'
     function: '--3--6--'
     status: RL
     date: '1201'
@@ -4581,6 +5133,18 @@
     date: '9307'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SE HJB'
+    name: Hjälteby
+    namewodiacritics: Hjalteby
+    subdiv: I
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '5830N 11420E'
     remarks: ''
 -
     ch: ''
@@ -4661,10 +5225,10 @@
     namewodiacritics: Hoganas
     subdiv: M
     function: 123-----
-    status: AI
-    date: '9704'
+    status: AA
+    date: '1601'
     iata: ''
-    coordinates: ''
+    coordinates: '5612N 01233E'
     remarks: ''
 -
     ch: ''
@@ -4695,12 +5259,36 @@
     locode: 'SE HGS'
     name: Högsjö
     namewodiacritics: Hogsjo
-    subdiv: Y
+    subdiv: 'Y'
     function: 1-------
     status: RL
     date: '9307'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SE HOK'
+    name: Hok
+    namewodiacritics: Hok
+    subdiv: F
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '5731N 01416E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SE HJS'
+    name: Holjes
+    namewodiacritics: Holjes
+    subdiv: S
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '6054N 01236E'
     remarks: ''
 -
     ch: ''
@@ -4719,7 +5307,7 @@
     locode: 'SE HHM'
     name: Holm
     namewodiacritics: Holm
-    subdiv: N
+    subdiv: 'N'
     function: '-----6--'
     status: RL
     date: '1107'
@@ -4745,8 +5333,8 @@
     namewodiacritics: Holmsund
     subdiv: AC
     function: 123-----
-    status: AF
-    date: '8312'
+    status: AA
+    date: '1601'
     iata: ''
     coordinates: ''
     remarks: ''
@@ -4793,10 +5381,10 @@
     namewodiacritics: Honsater
     subdiv: O
     function: 1-3-----
-    status: AI
-    date: '9704'
+    status: AA
+    date: '1601'
     iata: ''
-    coordinates: ''
+    coordinates: '5838N 01325E'
     remarks: ''
 -
     ch: ''
@@ -4821,6 +5409,18 @@
     date: '0105'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SE HRA'
+    name: Horda
+    namewodiacritics: Horda
+    subdiv: F
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '5702N 01415E'
     remarks: ''
 -
     ch: ''
@@ -4853,8 +5453,8 @@
     namewodiacritics: Hornefors
     subdiv: AC
     function: 1-3-----
-    status: AF
-    date: '0401'
+    status: AA
+    date: '1601'
     iata: ''
     coordinates: '6338N 01954E'
     remarks: ''
@@ -4937,10 +5537,10 @@
     namewodiacritics: Hudiksvall
     subdiv: X
     function: 1234----
-    status: AI
-    date: '9601'
+    status: AA
+    date: '1601'
     iata: ''
-    coordinates: ''
+    coordinates: '6144N 01706E'
     remarks: ''
 -
     ch: ''
@@ -4968,6 +5568,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'SE HUR'
+    name: Hurva
+    namewodiacritics: Hurva
+    subdiv: M
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '5548N 01326E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SE HUY'
+    name: Husby
+    namewodiacritics: Husby
+    subdiv: W
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '6017N 01600E'
+    remarks: ''
+-
+    ch: ''
     locode: 'SE HSQ'
     name: Huskvarna
     namewodiacritics: Huskvarna
@@ -4983,12 +5607,12 @@
     locode: 'SE HUS'
     name: Husum
     namewodiacritics: Husum
-    subdiv: Y
+    subdiv: 'Y'
     function: 1-------
-    status: AI
-    date: '9704'
+    status: AA
+    date: '1601'
     iata: ''
-    coordinates: ''
+    coordinates: '6320N 01910E'
     remarks: ''
 -
     ch: ''
@@ -5007,7 +5631,7 @@
     locode: 'SE HYL'
     name: Hyltebruk
     namewodiacritics: Hyltebruk
-    subdiv: N
+    subdiv: 'N'
     function: '--3-----'
     status: RL
     date: '0701'
@@ -5069,10 +5693,22 @@
     namewodiacritics: Iggesund
     subdiv: X
     function: 123-----
-    status: AI
-    date: '9704'
+    status: AA
+    date: '1601'
     iata: ''
-    coordinates: ''
+    coordinates: '6138N 01704E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SE LST'
+    name: Ingelstad
+    namewodiacritics: Ingelstad
+    subdiv: G
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '5645N 01455E'
     remarks: ''
 -
     ch: ''
@@ -5133,6 +5769,42 @@
     date: '1007'
     iata: ''
     coordinates: '5906N 01734E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SE JPS'
+    name: Järpås
+    namewodiacritics: Jarpas
+    subdiv: O
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '5823N 01258E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SE JPN'
+    name: Järpen
+    namewodiacritics: Jarpen
+    subdiv: Z
+    function: '--3-----'
+    status: RL
+    date: '1707'
+    iata: ''
+    coordinates: '6321N 01329E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SE JAV'
+    name: Jarvso
+    namewodiacritics: Jarvso
+    subdiv: X
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '6143N 01610E'
     remarks: ''
 -
     ch: ''
@@ -5208,6 +5880,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'SE JOP'
+    name: Jonstorp
+    namewodiacritics: Jonstorp
+    subdiv: M
+    function: '--3-----'
+    status: RL
+    date: '1707'
+    iata: ''
+    coordinates: '5614N 01240E'
+    remarks: ''
+-
+    ch: ''
     locode: 'SE JOR'
     name: Jordbro
     namewodiacritics: Jordbro
@@ -5247,7 +5931,7 @@
     locode: 'SE JUN'
     name: Junsele
     namewodiacritics: Junsele
-    subdiv: Y
+    subdiv: 'Y'
     function: '--3-----'
     status: RL
     date: '0105'
@@ -5340,6 +6024,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'SE KRR'
+    name: Kållekärr
+    namewodiacritics: Kallekarr
+    subdiv: O
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '5801N 01139E'
+    remarks: ''
+-
+    ch: ''
     locode: 'SE KAD'
     name: Kållered
     namewodiacritics: Kallered
@@ -5381,10 +6077,10 @@
     namewodiacritics: Kalmar
     subdiv: H
     function: 1234----
-    status: AI
-    date: '9601'
+    status: AA
+    date: '1601'
     iata: ''
-    coordinates: ''
+    coordinates: '5640N 01622E'
     remarks: ''
 -
     ch: ''
@@ -5400,15 +6096,39 @@
     remarks: ''
 -
     ch: ''
+    locode: 'SE KLX'
+    name: Kalv
+    namewodiacritics: Kalv
+    subdiv: X
+    function: '-23-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '6142N 01618E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SE KVK'
+    name: Kalvik
+    namewodiacritics: Kalvik
+    subdiv: O
+    function: 1-------
+    status: AA
+    date: '1901'
+    iata: ''
+    coordinates: '5904N 01111E'
+    remarks: ''
+-
+    ch: ''
     locode: 'SE KPS'
     name: Kapellskär
     namewodiacritics: Kapellskar
     subdiv: AB
     function: 1-3-----
-    status: AI
-    date: '9704'
+    status: AA
+    date: '1601'
     iata: ''
-    coordinates: ''
+    coordinates: '5943N 01904E'
     remarks: ''
 -
     ch: ''
@@ -5417,10 +6137,10 @@
     namewodiacritics: Kappelshamn
     subdiv: I
     function: 1-------
-    status: AI
-    date: '9704'
+    status: AA
+    date: '1601'
     iata: ''
-    coordinates: ''
+    coordinates: '5751N 01847E'
     remarks: ''
 -
     ch: ''
@@ -5453,10 +6173,10 @@
     namewodiacritics: Karlholmsbruk
     subdiv: C
     function: 1-------
-    status: AF
-    date: '8312'
+    status: AA
+    date: '1601'
     iata: ''
-    coordinates: ''
+    coordinates: '6031N 01737E'
     remarks: ''
 -
     ch: ''
@@ -5475,12 +6195,12 @@
     locode: 'SE KXV'
     name: 'Karlsborg Axelvik'
     namewodiacritics: 'Karlsborg Axelvik'
-    subdiv: AC
+    subdiv: BD
     function: 1-------
-    status: AI
-    date: '9704'
+    status: AA
+    date: '1601'
     iata: ''
-    coordinates: ''
+    coordinates: '6548N 02317E'
     remarks: ''
 -
     ch: ''
@@ -5489,10 +6209,10 @@
     namewodiacritics: Karlshamn
     subdiv: K
     function: 123-----
-    status: AI
-    date: '9704'
+    status: AA
+    date: '1601'
     iata: XYO
-    coordinates: ''
+    coordinates: '5610N 01451E'
     remarks: ''
 -
     ch: ''
@@ -5513,10 +6233,10 @@
     namewodiacritics: Karlskrona
     subdiv: K
     function: 123-----
-    status: AI
-    date: '9704'
+    status: AA
+    date: '1601'
     iata: ''
-    coordinates: ''
+    coordinates: '5610N 01535E'
     remarks: ''
 -
     ch: ''
@@ -5525,10 +6245,10 @@
     namewodiacritics: Karlstad
     subdiv: S
     function: 1--4----
-    status: AI
-    date: '0207'
+    status: AA
+    date: '1601'
     iata: ''
-    coordinates: ''
+    coordinates: '5922N 01330E'
     remarks: ''
 -
     ch: ''
@@ -5548,9 +6268,9 @@
     name: Karö
     namewodiacritics: Karo
     subdiv: C
-    function: 1-------
+    function: 0-------
     status: RL
-    date: '0501'
+    date: '1901'
     iata: ''
     coordinates: '6020N 01808E'
     remarks: ''
@@ -5573,10 +6293,10 @@
     namewodiacritics: Karskar
     subdiv: X
     function: 1-------
-    status: AF
-    date: '9506'
+    status: AA
+    date: '1601'
     iata: ''
-    coordinates: ''
+    coordinates: '6041N 01716E'
     remarks: ''
 -
     ch: ''
@@ -5652,6 +6372,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'SE KFS'
+    name: Kilafors
+    namewodiacritics: Kilafors
+    subdiv: X
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '6114N 01634E'
+    remarks: ''
+-
+    ch: ''
     locode: 'SE KIM'
     name: Kilsmo
     namewodiacritics: Kilsmo
@@ -5685,6 +6417,18 @@
     date: '9501'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SE KIR'
+    name: Kinnared
+    namewodiacritics: Kinnared
+    subdiv: 'N'
+    function: '--3-----'
+    status: RL
+    date: '2001'
+    iata: ''
+    coordinates: '5701N 01306E'
     remarks: ''
 -
     ch: ''
@@ -5733,6 +6477,18 @@
     date: '9307'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SE KIK'
+    name: Kivik
+    namewodiacritics: Kivik
+    subdiv: M
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '5541N 01415E'
     remarks: ''
 -
     ch: ''
@@ -5789,10 +6545,10 @@
     namewodiacritics: Klintehamn
     subdiv: I
     function: 1-------
-    status: AI
-    date: '9704'
+    status: AA
+    date: '1601'
     iata: ''
-    coordinates: ''
+    coordinates: '5724N 01812E'
     remarks: ''
 -
     ch: ''
@@ -5805,6 +6561,30 @@
     date: '9501'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SE KK9'
+    name: Klockrike
+    namewodiacritics: Klockrike
+    subdiv: E
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '5830N 01520E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SE KNR'
+    name: Knared
+    namewodiacritics: Knared
+    subdiv: 'N'
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '5632N 01319E'
     remarks: ''
 -
     ch: ''
@@ -5861,8 +6641,8 @@
     namewodiacritics: Koping
     subdiv: U
     function: 123-----
-    status: AI
-    date: '0207'
+    status: AA
+    date: '1601'
     iata: XXI
     coordinates: '5931N 01559E'
     remarks: ''
@@ -5883,12 +6663,12 @@
     locode: 'SE KMH'
     name: Köpmanholmen
     namewodiacritics: Kopmanholmen
-    subdiv: Y
+    subdiv: 'Y'
     function: 1-------
-    status: AF
-    date: '8312'
+    status: AA
+    date: '1601'
     iata: ''
-    coordinates: ''
+    coordinates: '6310N 01834E'
     remarks: ''
 -
     ch: ''
@@ -5967,12 +6747,12 @@
     locode: 'SE KRF'
     name: Kramfors
     namewodiacritics: Kramfors
-    subdiv: Y
+    subdiv: 'Y'
     function: 1234----
-    status: AI
-    date: '9601'
+    status: AA
+    date: '1601'
     iata: ''
-    coordinates: ''
+    coordinates: '6256N 01747E'
     remarks: ''
 -
     ch: ''
@@ -6005,10 +6785,10 @@
     namewodiacritics: Kristinehamn
     subdiv: S
     function: 123-----
-    status: AI
-    date: '0207'
+    status: AA
+    date: '1601'
     iata: XYN
-    coordinates: ''
+    coordinates: '5920N 01407E'
     remarks: ''
 -
     ch: ''
@@ -6065,8 +6845,8 @@
     namewodiacritics: Kubikenborg
     subdiv: X
     function: 1-------
-    status: AI
-    date: '9704'
+    status: AA
+    date: '1601'
     iata: ''
     coordinates: ''
     remarks: ''
@@ -6075,12 +6855,24 @@
     locode: 'SE KLV'
     name: Kullavik
     namewodiacritics: Kullavik
-    subdiv: N
+    subdiv: 'N'
     function: '-23-----'
     status: RL
     date: '1301'
     iata: ''
     coordinates: '5732N 01156E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SE KLL'
+    name: Kulltorp
+    namewodiacritics: Kulltorp
+    subdiv: F
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '5716N 01347E'
     remarks: ''
 -
     ch: ''
@@ -6123,7 +6915,7 @@
     locode: 'SE KGT'
     name: Kungsäter
     namewodiacritics: Kungsater
-    subdiv: N
+    subdiv: 'N'
     function: '--3-----'
     status: RL
     date: '1301'
@@ -6135,7 +6927,7 @@
     locode: 'SE KUA'
     name: Kungsbacka
     namewodiacritics: Kungsbacka
-    subdiv: N
+    subdiv: 'N'
     function: 1-3-----
     status: RL
     date: '1201'
@@ -6149,10 +6941,10 @@
     namewodiacritics: Kungshamn
     subdiv: O
     function: 1-------
-    status: AI
-    date: '9704'
+    status: AA
+    date: '1601'
     iata: ''
-    coordinates: ''
+    coordinates: '5821N 01115E'
     remarks: ''
 -
     ch: ''
@@ -6243,7 +7035,7 @@
     locode: 'SE KVY'
     name: Kvissleby
     namewodiacritics: Kvissleby
-    subdiv: Y
+    subdiv: 'Y'
     function: '--3-----'
     status: RL
     date: '0901'
@@ -6315,12 +7107,24 @@
     locode: 'SE LAH'
     name: Laholm
     namewodiacritics: Laholm
-    subdiv: N
+    subdiv: 'N'
     function: '--3-----'
     status: RL
     date: '0105'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SE LAL'
+    name: Laisvall
+    namewodiacritics: Laisvall
+    subdiv: BD
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '6608N 01710E'
     remarks: ''
 -
     ch: ''
@@ -6353,10 +7157,10 @@
     namewodiacritics: Landskrona
     subdiv: M
     function: 123-----
-    status: AI
-    date: '9704'
+    status: AA
+    date: '1601'
     iata: ''
-    coordinates: ''
+    coordinates: '5552N 01250E'
     remarks: ''
 -
     ch: ''
@@ -6375,7 +7179,7 @@
     locode: 'SE LAY'
     name: Långaryd
     namewodiacritics: Langaryd
-    subdiv: N
+    subdiv: 'N'
     function: '--3-----'
     status: RL
     date: '0901'
@@ -6387,10 +7191,10 @@
     locode: 'SE LA9'
     name: Langas
     namewodiacritics: Langas
-    subdiv: N
-    function: 1----6--
+    subdiv: 'N'
+    function: '-----6--'
     status: RL
-    date: '1201'
+    date: '1901'
     iata: ''
     coordinates: '5659N 01227E'
     remarks: ''
@@ -6405,6 +7209,18 @@
     date: '8312'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SE LGL'
+    name: Langsele
+    namewodiacritics: Langsele
+    subdiv: 'Y'
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '6311N 01704E'
     remarks: ''
 -
     ch: ''
@@ -6429,6 +7245,30 @@
     date: '0701'
     iata: ''
     coordinates: '5952N 01757E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SE LBO'
+    name: Lärbro
+    namewodiacritics: Larbro
+    subdiv: I
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5747N 01847E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SE LAR'
+    name: Larv
+    namewodiacritics: Larv
+    subdiv: O
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '5811N 01307E'
     remarks: ''
 -
     ch: ''
@@ -6504,6 +7344,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'SE LTP'
+    name: Liatorp
+    namewodiacritics: Liatorp
+    subdiv: G
+    function: '--3-----'
+    status: RL
+    date: '2001'
+    iata: ''
+    coordinates: '5639N 01416E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SE AQ2'
+    name: Liden
+    namewodiacritics: Liden
+    subdiv: 'Y'
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '6245N 01649E'
+    remarks: ''
+-
+    ch: ''
     locode: 'SE LIT'
     name: Lidhult
     namewodiacritics: Lidhult
@@ -6533,10 +7397,10 @@
     namewodiacritics: Lidkoping
     subdiv: O
     function: 1234----
-    status: AI
-    date: '0207'
+    status: AA
+    date: '1601'
     iata: ''
-    coordinates: ''
+    coordinates: '5830N 01330E'
     remarks: ''
 -
     ch: ''
@@ -6557,10 +7421,10 @@
     namewodiacritics: 'Lilla Edet'
     subdiv: O
     function: 123-----
-    status: AI
-    date: '0207'
+    status: AA
+    date: '1601'
     iata: ''
-    coordinates: ''
+    coordinates: '5808N 01208E'
     remarks: ''
 -
     ch: ''
@@ -6569,10 +7433,10 @@
     namewodiacritics: Limhamn
     subdiv: M
     function: 123-----
-    status: AI
-    date: '9704'
+    status: AA
+    date: '1601'
     iata: ''
-    coordinates: ''
+    coordinates: '5535N 01257E'
     remarks: ''
 -
     ch: ''
@@ -6616,11 +7480,23 @@
     name: Lindärva
     namewodiacritics: Lindarva
     subdiv: ''
-    function: 1----6--
+    function: '-----6--'
     status: RL
-    date: '1201'
+    date: '1901'
     iata: ''
     coordinates: '5826N 01313E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SE LIA'
+    name: Lindås
+    namewodiacritics: Lindas
+    subdiv: H
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '5637N 01534E'
     remarks: ''
 -
     ch: ''
@@ -6645,6 +7521,18 @@
     date: '0901'
     iata: ''
     coordinates: '5734N 01205E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SE LGO'
+    name: Lingbo
+    namewodiacritics: Lingbo
+    subdiv: X
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '6028N 01641E'
     remarks: ''
 -
     ch: ''
@@ -6675,7 +7563,7 @@
     locode: 'SE LJG'
     name: Ljungaverk
     namewodiacritics: Ljungaverk
-    subdiv: Y
+    subdiv: 'Y'
     function: '--3-----'
     status: RL
     date: '0701'
@@ -6693,6 +7581,18 @@
     date: '8312'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SE LJH'
+    name: Ljungbyhed
+    namewodiacritics: Ljungbyhed
+    subdiv: M
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5604N 01313E'
     remarks: ''
 -
     ch: ''
@@ -6749,10 +7649,10 @@
     namewodiacritics: Ljusne
     subdiv: X
     function: 123-----
-    status: AF
-    date: '8312'
+    status: AA
+    date: '1601'
     iata: ''
-    coordinates: ''
+    coordinates: '6113N 01708E'
     remarks: ''
 -
     ch: ''
@@ -6797,10 +7697,10 @@
     namewodiacritics: Lodose
     subdiv: O
     function: 123-----
-    status: RL
-    date: '0207'
+    status: AA
+    date: '1601'
     iata: ''
-    coordinates: ''
+    coordinates: '5802N 01208E'
     remarks: ''
 -
     ch: ''
@@ -6888,6 +7788,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'SE LVS'
+    name: Lovestad
+    namewodiacritics: Lovestad
+    subdiv: M
+    function: '--3-----'
+    status: RQ
+    date: '1601'
+    iata: ''
+    coordinates: '5539N 01353E'
+    remarks: ''
+-
+    ch: ''
     locode: 'SE LUN'
     name: Lövholmen
     namewodiacritics: Lovholmen
@@ -6915,12 +7827,12 @@
     locode: 'SE LUG'
     name: Lugnvik
     namewodiacritics: Lugnvik
-    subdiv: Y
+    subdiv: 'Y'
     function: 1-------
-    status: AI
-    date: '9704'
+    status: AA
+    date: '1601'
     iata: ''
-    coordinates: ''
+    coordinates: '6317N 01844E'
     remarks: ''
 -
     ch: ''
@@ -6929,10 +7841,10 @@
     namewodiacritics: Lulea
     subdiv: BD
     function: 1--4----
-    status: AI
-    date: '9601'
+    status: AA
+    date: '1601'
     iata: ''
-    coordinates: ''
+    coordinates: '6535N 02209E'
     remarks: ''
 -
     ch: ''
@@ -6977,10 +7889,34 @@
     namewodiacritics: Lysekil
     subdiv: O
     function: 123-----
-    status: AI
-    date: '9704'
+    status: AA
+    date: '1601'
     iata: ''
-    coordinates: ''
+    coordinates: '5817N 01126E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SE MAA'
+    name: Mala
+    namewodiacritics: Mala
+    subdiv: AC
+    function: '--3-----'
+    status: RL
+    date: '1707'
+    iata: ''
+    coordinates: '6511N 01845E'
+    remarks: ''
+-
+    ch: +
+    locode: 'SE MLR'
+    name: Målerås
+    namewodiacritics: Maleras
+    subdiv: H
+    function: '--3-----'
+    status: AM
+    date: '2201'
+    iata: ''
+    coordinates: '5655N 01534E'
     remarks: ''
 -
     ch: ''
@@ -7049,10 +7985,22 @@
     namewodiacritics: Malmo
     subdiv: M
     function: 1234----
-    status: AI
-    date: '1101'
+    status: AA
+    date: '1601'
     iata: MMX
     coordinates: '5536N 01300E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SE MMX'
+    name: 'Malmö Airport'
+    namewodiacritics: 'Malmo Airport'
+    subdiv: M
+    function: '---4----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '5531N 01322E'
     remarks: ''
 -
     ch: ''
@@ -7080,13 +8028,25 @@
     remarks: ''
 -
     ch: ''
+    locode: 'SE MRL'
+    name: Mariannelund
+    namewodiacritics: Mariannelund
+    subdiv: F
+    function: '--3-----'
+    status: RL
+    date: '2001'
+    iata: ''
+    coordinates: '5737N 01534E'
+    remarks: ''
+-
+    ch: ''
     locode: 'SE MAR'
     name: Marieberg
     namewodiacritics: Marieberg
     subdiv: ''
     function: 1-------
-    status: AF
-    date: '8312'
+    status: AA
+    date: '1601'
     iata: ''
     coordinates: ''
     remarks: ''
@@ -7121,8 +8081,8 @@
     namewodiacritics: Mariestad
     subdiv: O
     function: 123-----
-    status: AI
-    date: '0207'
+    status: AA
+    date: '1601'
     iata: ''
     coordinates: '5842N 01349E'
     remarks: ''
@@ -7157,10 +8117,10 @@
     namewodiacritics: Marstrand
     subdiv: O
     function: 1-3-----
-    status: AI
-    date: '9704'
+    status: AA
+    date: '1601'
     iata: ''
-    coordinates: ''
+    coordinates: '5753N 01335E'
     remarks: ''
 -
     ch: ''
@@ -7173,6 +8133,18 @@
     date: '9704'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SE MAV'
+    name: Marviken
+    namewodiacritics: Marviken
+    subdiv: E
+    function: 1-------
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '5833N 01650E'
     remarks: ''
 -
     ch: ''
@@ -7191,7 +8163,7 @@
     locode: 'SE MAT'
     name: Matfors
     namewodiacritics: Matfors
-    subdiv: Y
+    subdiv: 'Y'
     function: '--3-----'
     status: RL
     date: '9501'
@@ -7215,12 +8187,24 @@
     locode: 'SE MLS'
     name: Mellansel
     namewodiacritics: Mellansel
-    subdiv: Y
+    subdiv: 'Y'
     function: '--3-----'
     status: RL
     date: '0201'
     iata: ''
     coordinates: '6326N 01818E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SE MBS'
+    name: Mellbystrand
+    namewodiacritics: Mellbystrand
+    subdiv: 'N'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5631N 01256E'
     remarks: ''
 -
     ch: ''
@@ -7233,6 +8217,18 @@
     date: '1301'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SE MOI'
+    name: Mellösa
+    namewodiacritics: Mellosa
+    subdiv: D
+    function: '--3-----'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '5906N 01633E'
     remarks: ''
 -
     ch: ''
@@ -7263,7 +8259,7 @@
     locode: 'SE MOO'
     name: Mo
     namewodiacritics: Mo
-    subdiv: Y
+    subdiv: 'Y'
     function: 1-------
     status: AF
     date: '8312'
@@ -7421,10 +8417,10 @@
     namewodiacritics: Monsteras
     subdiv: H
     function: 123-----
-    status: AF
-    date: '8312'
+    status: AA
+    date: '1601'
     iata: ''
-    coordinates: ''
+    coordinates: '5702N 01626E'
     remarks: ''
 -
     ch: ''
@@ -7457,10 +8453,10 @@
     namewodiacritics: Morbylanga
     subdiv: H
     function: 1-------
-    status: AI
-    date: '9704'
+    status: AA
+    date: '1601'
     iata: ''
-    coordinates: ''
+    coordinates: '5631N 01623E'
     remarks: ''
 -
     ch: ''
@@ -7518,7 +8514,7 @@
     subdiv: E
     function: '-23-----'
     status: AF
-    date: '8312'
+    date: '1407'
     iata: ''
     coordinates: ''
     remarks: ''
@@ -7539,22 +8535,10 @@
     locode: 'SE MUL'
     name: Mullsjö
     namewodiacritics: Mullsjo
-    subdiv: O
-    function: '--3-----'
-    status: RL
-    date: '9501'
-    iata: ''
-    coordinates: ''
-    remarks: ''
--
-    ch: ''
-    locode: 'SE MLL'
-    name: Mullsjoe
-    namewodiacritics: Mullsjoe
     subdiv: F
     function: '--3-----'
     status: RL
-    date: '1107'
+    date: '1601'
     iata: ''
     coordinates: '5755N 01353E'
     remarks: ''
@@ -7617,6 +8601,18 @@
     date: '8312'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SE MNO'
+    name: Munsö
+    namewodiacritics: Munso
+    subdiv: AB
+    function: '--3-----'
+    status: RL
+    date: '1707'
+    iata: ''
+    coordinates: '5925N 01733E'
     remarks: ''
 -
     ch: ''
@@ -7695,7 +8691,7 @@
     locode: 'SE NVK'
     name: Näsviken
     namewodiacritics: Nasviken
-    subdiv: Y
+    subdiv: 'Y'
     function: '-23-----'
     status: AF
     date: '8312'
@@ -7757,8 +8753,8 @@
     namewodiacritics: 'Nol (ports)'
     subdiv: O
     function: 123-----
-    status: RL
-    date: '0207'
+    status: AA
+    date: '1601'
     iata: ''
     coordinates: '5755N 01204E'
     remarks: ''
@@ -7779,7 +8775,7 @@
     locode: 'SE NST'
     name: Noraström
     namewodiacritics: Norastrom
-    subdiv: Y
+    subdiv: 'Y'
     function: 1-------
     status: RL
     date: '1201'
@@ -7839,7 +8835,7 @@
     locode: 'SE NOR'
     name: Norrbyskär
     namewodiacritics: Norrbyskar
-    subdiv: Y
+    subdiv: 'Y'
     function: 1-------
     status: AF
     date: '8312'
@@ -7877,10 +8873,10 @@
     namewodiacritics: Norrkoping
     subdiv: E
     function: 1234----
-    status: AI
-    date: '9601'
+    status: AA
+    date: '1601'
     iata: XYK
-    coordinates: ''
+    coordinates: '5836N 01611E'
     remarks: ''
 -
     ch: ''
@@ -7889,10 +8885,10 @@
     namewodiacritics: Norrsundet
     subdiv: X
     function: 123-----
-    status: AI
-    date: '9704'
+    status: AA
+    date: '1601'
     iata: ''
-    coordinates: ''
+    coordinates: '6057N 01708E'
     remarks: ''
 -
     ch: ''
@@ -7901,22 +8897,10 @@
     namewodiacritics: Norrtalje
     subdiv: AB
     function: 1-------
-    status: AI
-    date: '1201'
+    status: AA
+    date: '1601'
     iata: ''
     coordinates: '5945N 01843E'
-    remarks: ''
--
-    ch: ''
-    locode: 'SE NSG'
-    name: Norsborg
-    namewodiacritics: Norsborg
-    subdiv: AB
-    function: '--3-----'
-    status: RL
-    date: '0701'
-    iata: ''
-    coordinates: '5915N 01747E'
     remarks: ''
 -
     ch: ''
@@ -7932,6 +8916,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'SE NSG'
+    name: Norsborg
+    namewodiacritics: Norsborg
+    subdiv: AB
+    function: '--3-----'
+    status: RL
+    date: '0701'
+    iata: ''
+    coordinates: '5915N 01747E'
+    remarks: ''
+-
+    ch: ''
     locode: 'SE NOJ'
     name: Norsjö
     namewodiacritics: Norsjo
@@ -7941,6 +8937,18 @@
     date: '0501'
     iata: ''
     coordinates: '6455N 01930E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SE NRR'
+    name: Norvik
+    namewodiacritics: Norvik
+    subdiv: AB
+    function: 1-3-----
+    status: AA
+    date: '2107'
+    iata: ''
+    coordinates: '5856N 01758E'
     remarks: ''
 -
     ch: ''
@@ -7971,10 +8979,10 @@
     locode: 'SE NYG'
     name: Nygård
     namewodiacritics: Nygard
-    subdiv: N
-    function: 1-------
+    subdiv: 'N'
+    function: '--3--6--'
     status: RL
-    date: '0701'
+    date: '1901'
     iata: ''
     coordinates: '5704N 01214E'
     remarks: ''
@@ -7997,8 +9005,8 @@
     namewodiacritics: Nykoping
     subdiv: D
     function: 1234----
-    status: AI
-    date: '0401'
+    status: AA
+    date: '1601'
     iata: XWZ
     coordinates: '5855N 01710E'
     remarks: ''
@@ -8013,6 +9021,18 @@
     date: '0201'
     iata: ''
     coordinates: '5911N 01725E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SE NYL'
+    name: Nyland
+    namewodiacritics: Nyland
+    subdiv: 'Y'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '6233N 01655E'
     remarks: ''
 -
     ch: ''
@@ -8045,8 +9065,8 @@
     namewodiacritics: Nynashamn
     subdiv: AB
     function: 123-----
-    status: AI
-    date: '1201'
+    status: AA
+    date: '1601'
     iata: ''
     coordinates: '5854N 01757E'
     remarks: ''
@@ -8160,6 +9180,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'SE ODS'
+    name: Ödsmål
+    namewodiacritics: Odsmal
+    subdiv: I
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '5843N 01129E'
+    remarks: ''
+-
+    ch: ''
     locode: 'SE OJY'
     name: Öjebyn
     namewodiacritics: Ojebyn
@@ -8196,9 +9228,33 @@
     remarks: ''
 -
     ch: ''
+    locode: 'SE OLS'
+    name: Olsfors
+    namewodiacritics: Olsfors
+    subdiv: O
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '5742N 01242E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SE OLM'
+    name: Ölsremma
+    namewodiacritics: Olsremma
+    subdiv: O
+    function: '--3-----'
+    status: RL
+    date: '1707'
+    iata: ''
+    coordinates: '5737N 01336E'
+    remarks: ''
+-
+    ch: ''
     locode: 'SE OEN'
     name: Ön
-    namewodiacritics: On
+    namewodiacritics: 'On'
     subdiv: C
     function: 1-------
     status: AA
@@ -8223,7 +9279,7 @@
     locode: 'SE NOS'
     name: Onsala
     namewodiacritics: Onsala
-    subdiv: N
+    subdiv: 'N'
     function: '-----6--'
     status: RL
     date: '1301'
@@ -8295,12 +9351,12 @@
     locode: 'SE OER'
     name: Örnsköldsvik
     namewodiacritics: Ornskoldsvik
-    subdiv: Y
+    subdiv: 'Y'
     function: 1234----
-    status: AI
-    date: '9601'
+    status: AA
+    date: '1601'
     iata: ''
-    coordinates: ''
+    coordinates: '6318N 01843E'
     remarks: ''
 -
     ch: ''
@@ -8355,12 +9411,12 @@
     locode: 'SE ORT'
     name: Ortviken
     namewodiacritics: Ortviken
-    subdiv: Y
+    subdiv: 'Y'
     function: 1-------
-    status: AI
-    date: '9704'
+    status: AA
+    date: '1601'
     iata: ''
-    coordinates: ''
+    coordinates: '6223N 01721E'
     remarks: ''
 -
     ch: ''
@@ -8393,17 +9449,17 @@
     namewodiacritics: Oskarshamn
     subdiv: H
     function: 123-----
-    status: AI
-    date: '9601'
+    status: AA
+    date: '1601'
     iata: ''
-    coordinates: ''
+    coordinates: '5716N 01626E'
     remarks: ''
 -
     ch: ''
     locode: 'SE OSS'
     name: Oskarström
     namewodiacritics: Oskarstrom
-    subdiv: N
+    subdiv: 'N'
     function: '--3-----'
     status: RQ
     date: '0907'
@@ -8433,6 +9489,18 @@
     date: '0701'
     iata: ''
     coordinates: '6012N 01754E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SE OAB'
+    name: Österhaninge
+    namewodiacritics: Osterhaninge
+    subdiv: AB
+    function: '-----6--'
+    status: RL
+    date: '1901'
+    iata: ''
+    coordinates: '5907N 01810E'
     remarks: ''
 -
     ch: ''
@@ -8496,15 +9564,27 @@
     remarks: ''
 -
     ch: ''
+    locode: 'SE TRP'
+    name: 'Östra Tommarp'
+    namewodiacritics: 'Ostra Tommarp'
+    subdiv: M
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '5532N 01414E'
+    remarks: ''
+-
+    ch: ''
     locode: 'SE OST'
     name: Östrand
     namewodiacritics: Ostrand
     subdiv: X
     function: 1-------
-    status: AI
-    date: '9704'
+    status: AA
+    date: '1601'
     iata: ''
-    coordinates: ''
+    coordinates: '6228N 01719E'
     remarks: ''
 -
     ch: ''
@@ -8513,10 +9593,22 @@
     namewodiacritics: Otterbacken
     subdiv: O
     function: 123-----
-    status: AI
-    date: '0207'
+    status: AA
+    date: '1601'
     iata: ''
-    coordinates: ''
+    coordinates: '5857N 01402E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SE OVH'
+    name: Överhörnäs
+    namewodiacritics: Overhornas
+    subdiv: 'Y'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '6317N 01833E'
     remarks: ''
 -
     ch: ''
@@ -8585,10 +9677,34 @@
     namewodiacritics: Oxelosund
     subdiv: D
     function: 123-----
-    status: AI
-    date: '9704'
+    status: AA
+    date: '1601'
     iata: ''
-    coordinates: ''
+    coordinates: '5840N 01706E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SE OXI'
+    name: Oxie
+    namewodiacritics: Oxie
+    subdiv: M
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '5532N 01306E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SE PRP'
+    name: Påarp
+    namewodiacritics: Paarp
+    subdiv: M
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '5602N 01249E'
     remarks: ''
 -
     ch: ''
@@ -8669,10 +9785,10 @@
     namewodiacritics: Pitea
     subdiv: BD
     function: 123-----
-    status: AI
-    date: '9704'
+    status: AA
+    date: '1601'
     iata: ''
-    coordinates: ''
+    coordinates: '6520N 02130E'
     remarks: ''
 -
     ch: ''
@@ -8685,6 +9801,18 @@
     date: '0907'
     iata: ''
     coordinates: '5739N 01205E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SE POR'
+    name: Porjus
+    namewodiacritics: Porjus
+    subdiv: BD
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '6657N 01949E'
     remarks: ''
 -
     ch: ''
@@ -8736,10 +9864,22 @@
     remarks: ''
 -
     ch: ''
+    locode: 'SE RS8'
+    name: Ramsele
+    namewodiacritics: Ramsele
+    subdiv: 'Y'
+    function: '--3-----'
+    status: RL
+    date: '1707'
+    iata: ''
+    coordinates: '6333N 01629E'
+    remarks: ''
+-
+    ch: ''
     locode: 'SE RAM'
     name: Ramvik
     namewodiacritics: Ramvik
-    subdiv: Y
+    subdiv: 'Y'
     function: 123-----
     status: AF
     date: '8312'
@@ -8747,7 +9887,7 @@
     coordinates: ''
     remarks: ''
 -
-    ch: +
+    ch: ''
     locode: 'SE RAQ'
     name: Rånäs
     namewodiacritics: Ranas
@@ -8784,6 +9924,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'SE RVD'
+    name: Rävlanda
+    namewodiacritics: Ravlanda
+    subdiv: O
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '5739N 01230E'
+    remarks: ''
+-
+    ch: ''
     locode: 'SE REP'
     name: Reftele
     namewodiacritics: Reftele
@@ -8796,13 +9948,25 @@
     remarks: ''
 -
     ch: ''
+    locode: 'SE RJM'
+    name: Rejmyre
+    namewodiacritics: Rejmyre
+    subdiv: E
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '5850N 01555E'
+    remarks: ''
+-
+    ch: ''
     locode: 'SE RDD'
     name: Riddarhyttan
     namewodiacritics: Riddarhyttan
     subdiv: U
-    function: 1----6--
+    function: '-----6--'
     status: RL
-    date: '1201'
+    date: '1901'
     iata: ''
     coordinates: '5948N 01533E'
     remarks: ''
@@ -8832,13 +9996,25 @@
     remarks: ''
 -
     ch: ''
+    locode: 'SE RIN'
+    name: Ringhals
+    namewodiacritics: Ringhals
+    subdiv: 'N'
+    function: 1-------
+    status: AA
+    date: '1601'
+    iata: ''
+    coordinates: '5715N 01205E'
+    remarks: ''
+-
+    ch: ''
     locode: 'SE XXX'
     name: 'RIS Inland waterways'
     namewodiacritics: 'RIS Inland waterways'
     subdiv: ''
-    function: 1-------
+    function: 0-------
     status: AI
-    date: '1101'
+    date: '1901'
     iata: ''
     coordinates: ''
     remarks: ''
@@ -8853,6 +10029,18 @@
     date: '1001'
     iata: ''
     coordinates: '6411N 02051E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SE RFS'
+    name: Röfors
+    namewodiacritics: Rofors
+    subdiv: T
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5857N 01437E'
     remarks: ''
 -
     ch: ''
@@ -8873,10 +10061,10 @@
     namewodiacritics: Ronehamn
     subdiv: I
     function: 1-------
-    status: AI
-    date: '9704'
+    status: AA
+    date: '1601'
     iata: ''
-    coordinates: ''
+    coordinates: '5710N 01829E'
     remarks: ''
 -
     ch: ''
@@ -8885,10 +10073,10 @@
     namewodiacritics: Ronnang
     subdiv: O
     function: 1-3-----
-    status: RL
-    date: '9901'
+    status: AA
+    date: '1601'
     iata: ''
-    coordinates: ''
+    coordinates: '5756N 01135E'
     remarks: ''
 -
     ch: ''
@@ -8897,10 +10085,10 @@
     namewodiacritics: Ronneby
     subdiv: K
     function: 1234----
-    status: AI
-    date: '9601'
+    status: AA
+    date: '1601'
     iata: ''
-    coordinates: ''
+    coordinates: '5612N 01518E'
     remarks: ''
 -
     ch: ''
@@ -8909,10 +10097,10 @@
     namewodiacritics: Ronnebyhamn
     subdiv: K
     function: 123-----
-    status: RL
-    date: '9901'
+    status: AA
+    date: '1601'
     iata: ''
-    coordinates: ''
+    coordinates: '5611N 01518E'
     remarks: ''
 -
     ch: ''
@@ -8956,9 +10144,9 @@
     name: Rosenborg
     namewodiacritics: Rosenborg
     subdiv: ''
-    function: 1-------
+    function: 0-------
     status: RQ
-    date: '1001'
+    date: '1901'
     iata: ''
     coordinates: '5912N 01738E'
     remarks: ''
@@ -8985,6 +10173,30 @@
     date: '9307'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SE RNX'
+    name: Rossön
+    namewodiacritics: Rosson
+    subdiv: 'Y'
+    function: '--3-----'
+    status: RL
+    date: '2001'
+    iata: ''
+    coordinates: '6355N 01619E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SE RON'
+    name: Rossön
+    namewodiacritics: Rosson
+    subdiv: Z
+    function: '--3-----'
+    status: RL
+    date: '2001'
+    iata: ''
+    coordinates: '6356N 01621E'
     remarks: ''
 -
     ch: ''
@@ -9053,8 +10265,8 @@
     namewodiacritics: Rundvik
     subdiv: AC
     function: 1-3-----
-    status: AI
-    date: '0401'
+    status: AA
+    date: '1601'
     iata: ''
     coordinates: '6332N 01926E'
     remarks: ''
@@ -9108,6 +10320,42 @@
     remarks: ''
 -
     ch: ''
+    locode: 'SE RWD'
+    name: Rydboholm
+    namewodiacritics: Rydboholm
+    subdiv: O
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5739N 01253E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SE RYB'
+    name: Rydebäck
+    namewodiacritics: Rydeback
+    subdiv: M
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '5558N 01246E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SE RDB'
+    name: Rydobruk
+    namewodiacritics: Rydobruk
+    subdiv: 'N'
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '5357N 01309E'
+    remarks: ''
+-
+    ch: ''
     locode: 'SE RYD'
     name: Rydsgård
     namewodiacritics: Rydsgard
@@ -9136,9 +10384,9 @@
     name: Säivisnäs
     namewodiacritics: Saivisnas
     subdiv: BD
-    function: 1-------
+    function: 0-------
     status: AA
-    date: '1201'
+    date: '1901'
     iata: ''
     coordinates: '6548N 02334E'
     remarks: ''
@@ -9252,6 +10500,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'SE SDJ'
+    name: Sandsjöfors
+    namewodiacritics: Sandsjofors
+    subdiv: F
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5730N 01447E'
+    remarks: ''
+-
+    ch: ''
     locode: 'SE SAK'
     name: Sandvik
     namewodiacritics: Sandvik
@@ -9297,6 +10557,30 @@
     date: '1301'
     iata: ''
     coordinates: '5821N 01642E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SE SIB'
+    name: 'Sankt Ibb'
+    namewodiacritics: 'Sankt Ibb'
+    subdiv: M
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '5555N 01241E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SE 2SK'
+    name: 'Sankt Olof'
+    namewodiacritics: 'Sankt Olof'
+    subdiv: M
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '5538N 01408E'
     remarks: ''
 -
     ch: ''
@@ -9411,7 +10695,7 @@
     locode: 'SE SNN'
     name: Sennan
     namewodiacritics: Sennan
-    subdiv: N
+    subdiv: 'N'
     function: '--3-----'
     status: RL
     date: '9307'
@@ -9431,7 +10715,31 @@
     coordinates: ''
     remarks: ''
 -
-    ch: +
+    ch: ''
+    locode: 'SE DRE'
+    name: Sexdrega
+    namewodiacritics: Sexdrega
+    subdiv: O
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '5735N 01307E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SE SBH'
+    name: Sibbhult
+    namewodiacritics: Sibbhult
+    subdiv: M
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '5616N 01412E'
+    remarks: ''
+-
+    ch: ''
     locode: 'SE SK8'
     name: Sickla
     namewodiacritics: Sickla
@@ -9483,7 +10791,7 @@
     locode: 'SE SL3'
     name: Simlangsdalen
     namewodiacritics: Simlangsdalen
-    subdiv: N
+    subdiv: 'N'
     function: '--3-----'
     status: RL
     date: '1301'
@@ -9492,27 +10800,51 @@
     remarks: ''
 -
     ch: ''
+    locode: 'SE SPP'
+    name: Simpevarp
+    namewodiacritics: Simpevarp
+    subdiv: H
+    function: 1-------
+    status: AA
+    date: '1601'
+    iata: ''
+    coordinates: '5725N 01640E'
+    remarks: ''
+-
+    ch: ''
     locode: 'SE SIM'
     name: Simrishamn
     namewodiacritics: Simrishamn
     subdiv: M
     function: 123-----
-    status: AI
-    date: '9704'
+    status: AA
+    date: '1601'
     iata: ''
-    coordinates: ''
+    coordinates: '5533N 01420E'
     remarks: ''
 -
     ch: ''
     locode: 'SE SJV'
     name: Själevad
     namewodiacritics: Sjalevad
-    subdiv: Y
+    subdiv: 'Y'
     function: '--3-----'
     status: RL
     date: '1301'
     iata: ''
     coordinates: '6318N 01836E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SE SJB'
+    name: Sjöbo
+    namewodiacritics: Sjobo
+    subdiv: M
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '5538N 01343E'
     remarks: ''
 -
     ch: ''
@@ -9527,7 +10859,7 @@
     coordinates: ''
     remarks: ''
 -
-    ch: +
+    ch: ''
     locode: 'SE SOJ'
     name: Sjömarken
     namewodiacritics: Sjomarken
@@ -9556,9 +10888,9 @@
     name: Sjöviken
     namewodiacritics: Sjoviken
     subdiv: O
-    function: 1-3--6--
+    function: '--3--6--'
     status: RL
-    date: '1301'
+    date: '1901'
     iata: ''
     coordinates: '5833N 01115E'
     remarks: ''
@@ -9579,10 +10911,10 @@
     locode: 'SE SGM'
     name: Skagshamn
     namewodiacritics: Skagshamn
-    subdiv: Y
+    subdiv: 'Y'
     function: 1-------
-    status: RL
-    date: '0201'
+    status: AA
+    date: '1601'
     iata: ''
     coordinates: '6313N 01901E'
     remarks: ''
@@ -9597,6 +10929,18 @@
     date: '9704'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SE SKF'
+    name: 'Skånes Fagerhult'
+    namewodiacritics: 'Skanes Fagerhult'
+    subdiv: M
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5622N 01329E'
     remarks: ''
 -
     ch: ''
@@ -9665,10 +11009,10 @@
     namewodiacritics: Skarhamn
     subdiv: O
     function: 1-3-----
-    status: RL
-    date: '9901'
+    status: AA
+    date: '1601'
     iata: ''
-    coordinates: ''
+    coordinates: '5759N 01133E'
     remarks: ''
 -
     ch: ''
@@ -9713,10 +11057,10 @@
     namewodiacritics: Skattkarr
     subdiv: S
     function: 1-------
-    status: AI
-    date: '9704'
+    status: AA
+    date: '1601'
     iata: ''
-    coordinates: ''
+    coordinates: '5925N 01338E'
     remarks: ''
 -
     ch: ''
@@ -9737,10 +11081,10 @@
     namewodiacritics: Skelleftea
     subdiv: AC
     function: 1234----
-    status: AI
-    date: '9601'
+    status: AA
+    date: '1601'
     iata: ''
-    coordinates: ''
+    coordinates: '6446N 02057E'
     remarks: ''
 -
     ch: ''
@@ -9749,10 +11093,10 @@
     namewodiacritics: Skelleftehamn
     subdiv: AC
     function: 1-------
-    status: AF
-    date: '8312'
+    status: AA
+    date: '1601'
     iata: ''
-    coordinates: ''
+    coordinates: '6441N 02114E'
     remarks: ''
 -
     ch: ''
@@ -9816,6 +11160,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'SE XMN'
+    name: Skivarp
+    namewodiacritics: Skivarp
+    subdiv: M
+    function: '--3-----'
+    status: RL
+    date: '1901'
+    iata: ''
+    coordinates: '5525N 01334E'
+    remarks: ''
+-
+    ch: ''
     locode: 'SE SGZ'
     name: Skogås
     namewodiacritics: Skogas
@@ -9845,10 +11201,10 @@
     namewodiacritics: Skoghall
     subdiv: S
     function: 123-----
-    status: AI
-    date: '0207'
+    status: AA
+    date: '1601'
     iata: ''
-    coordinates: ''
+    coordinates: '5920N 01326E'
     remarks: ''
 -
     ch: ''
@@ -9861,6 +11217,30 @@
     date: '0907'
     iata: ''
     coordinates: '5909N 01555E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SE SLL'
+    name: Sköllersta
+    namewodiacritics: Skollersta
+    subdiv: T
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '5909N 01520E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SE SKJ'
+    name: Sköndal
+    namewodiacritics: Skondal
+    subdiv: AB
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5915N 01807E'
     remarks: ''
 -
     ch: ''
@@ -9899,7 +11279,7 @@
     coordinates: ''
     remarks: ''
 -
-    ch: +
+    ch: ''
     locode: 'SE SUV'
     name: Skruv
     namewodiacritics: Skruv
@@ -9953,10 +11333,22 @@
     namewodiacritics: Skutskar
     subdiv: C
     function: 123-----
-    status: AI
-    date: '9704'
+    status: AA
+    date: '1601'
     iata: ''
-    coordinates: ''
+    coordinates: '6038N 01725E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SE SKY'
+    name: Skyllberg
+    namewodiacritics: Skyllberg
+    subdiv: T
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5857N 01459E'
     remarks: ''
 -
     ch: ''
@@ -9965,17 +11357,17 @@
     namewodiacritics: Slite
     subdiv: I
     function: 1-------
-    status: AI
-    date: '9704'
+    status: AA
+    date: '1601'
     iata: ''
-    coordinates: ''
+    coordinates: '5743N 01848E'
     remarks: ''
 -
     ch: ''
     locode: 'SE SLG'
     name: Slöinge
     namewodiacritics: Sloinge
-    subdiv: N
+    subdiv: 'N'
     function: '-23-----'
     status: RL
     date: '0601'
@@ -10029,6 +11421,18 @@
     date: '9901'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SE SO3'
+    name: Söderåkra
+    namewodiacritics: Soderakra
+    subdiv: H
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '5627N 01604E'
     remarks: ''
 -
     ch: ''
@@ -10092,13 +11496,25 @@
     remarks: ''
 -
     ch: ''
+    locode: 'SE IDJ'
+    name: Södertälje
+    namewodiacritics: Sodertalje
+    subdiv: D
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '5911N 01737E'
+    remarks: ''
+-
+    ch: ''
     locode: 'SE SOE'
     name: Södertälje
     namewodiacritics: Sodertalje
     subdiv: AB
     function: 123--6--
-    status: AI
-    date: '1201'
+    status: AA
+    date: '1601'
     iata: ''
     coordinates: '5912N 01737E'
     remarks: ''
@@ -10155,7 +11571,7 @@
     locode: 'SE SLF'
     name: Sollefteå
     namewodiacritics: Solleftea
-    subdiv: Y
+    subdiv: 'Y'
     function: '--3-----'
     status: RL
     date: '9903'
@@ -10193,20 +11609,32 @@
     namewodiacritics: Solvesborg
     subdiv: K
     function: 123-----
-    status: AI
-    date: '1201'
+    status: AA
+    date: '1601'
     iata: XYU
-    coordinates: ''
+    coordinates: '5603N 01433E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SE SOM'
+    name: Sommen
+    namewodiacritics: Sommen
+    subdiv: F
+    function: '--3-----'
+    status: AA
+    date: '2107'
+    iata: ''
+    coordinates: '5808N 01457E'
     remarks: ''
 -
     ch: ''
     locode: 'SE SOR'
     name: Söråker
     namewodiacritics: Soraker
-    subdiv: Y
+    subdiv: 'Y'
     function: 123-----
-    status: AI
-    date: '0307'
+    status: AA
+    date: '1601'
     iata: ''
     coordinates: '6230N 01730E'
     remarks: ''
@@ -10263,7 +11691,7 @@
     locode: 'SE SPR'
     name: Sprängsviken
     namewodiacritics: Sprangsviken
-    subdiv: Y
+    subdiv: 'Y'
     function: 123-----
     status: AF
     date: '8312'
@@ -10308,6 +11736,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'SE SGB'
+    name: Stegeborg
+    namewodiacritics: Stegeborg
+    subdiv: E
+    function: 0-------
+    status: RL
+    date: '1901'
+    iata: ''
+    coordinates: '5826N 01635E'
+    remarks: ''
+-
+    ch: ''
     locode: 'SE SNU'
     name: Stenkullen
     namewodiacritics: Stenkullen
@@ -10337,10 +11777,10 @@
     namewodiacritics: Stenungsund
     subdiv: O
     function: 123-----
-    status: AI
-    date: '9704'
+    status: AA
+    date: '1601'
     iata: ''
-    coordinates: ''
+    coordinates: '5845N 01149E'
     remarks: ''
 -
     ch: ''
@@ -10395,12 +11835,12 @@
     locode: 'SE STA'
     name: Stocka
     namewodiacritics: Stocka
-    subdiv: Y
+    subdiv: X
     function: 1-------
-    status: AF
-    date: '8312'
+    status: AA
+    date: '1601'
     iata: ''
-    coordinates: ''
+    coordinates: '6153N 01720E'
     remarks: ''
 -
     ch: ''
@@ -10433,10 +11873,10 @@
     namewodiacritics: Stockholm
     subdiv: AB
     function: 12345---
-    status: AI
-    date: '9601'
+    status: AA
+    date: '1601'
     iata: ''
-    coordinates: ''
+    coordinates: '5920N 01803E'
     remarks: ''
 -
     ch: ''
@@ -10453,12 +11893,12 @@
 -
     ch: ''
     locode: 'SE STK'
-    name: Stockvik
-    namewodiacritics: Stockvik
-    subdiv: Y
+    name: Stockviksverken
+    namewodiacritics: Stockviksverken
+    subdiv: 'Y'
     function: 1-3-----
-    status: AI
-    date: '0307'
+    status: AA
+    date: '1601'
     iata: ''
     coordinates: '6220N 01721E'
     remarks: ''
@@ -10467,7 +11907,7 @@
     locode: 'SE SDE'
     name: Stöde
     namewodiacritics: Stode
-    subdiv: Y
+    subdiv: 'Y'
     function: '-23-----'
     status: RL
     date: '0901'
@@ -10488,6 +11928,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'SE RQT'
+    name: 'Stora Levene'
+    namewodiacritics: 'Stora Levene'
+    subdiv: O
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '5820N 01255E'
+    remarks: ''
+-
+    ch: ''
     locode: 'SE SRB'
     name: 'Stora Raby'
     namewodiacritics: 'Stora Raby'
@@ -10497,6 +11949,18 @@
     date: '1201'
     iata: ''
     coordinates: '5541N 01313E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SE SSI'
+    name: 'Stora Skedvi'
+    namewodiacritics: 'Stora Skedvi'
+    subdiv: W
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '6024N 01548E'
     remarks: ''
 -
     ch: ''
@@ -10565,10 +12029,10 @@
     namewodiacritics: Storugns
     subdiv: I
     function: 1-3-----
-    status: AI
-    date: '0701'
+    status: AA
+    date: '1601'
     iata: ''
-    coordinates: ''
+    coordinates: '5745N 01849E'
     remarks: ''
 -
     ch: ''
@@ -10595,17 +12059,17 @@
     coordinates: ''
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'SE KAF'
     name: Strå
     namewodiacritics: Stra
     subdiv: I
     function: 1-------
-    status: RL
-    date: '1307'
+    status: AA
+    date: '1601'
     iata: ''
     coordinates: '5753N 01901E'
-    remarks: '@Fun@Sub@Coo'
+    remarks: ''
 -
     ch: ''
     locode: 'SE STQ'
@@ -10613,10 +12077,10 @@
     namewodiacritics: Strangnas
     subdiv: D
     function: 123-----
-    status: AI
-    date: '0207'
+    status: AA
+    date: '1601'
     iata: ''
-    coordinates: ''
+    coordinates: '5923N 01702E'
     remarks: ''
 -
     ch: ''
@@ -10649,10 +12113,10 @@
     namewodiacritics: Stromstad
     subdiv: O
     function: 123-----
-    status: AI
-    date: '9704'
+    status: AA
+    date: '1601'
     iata: ''
-    coordinates: ''
+    coordinates: '5856N 01111E'
     remarks: ''
 -
     ch: ''
@@ -10673,8 +12137,8 @@
     namewodiacritics: Studsvik
     subdiv: D
     function: 1-------
-    status: RL
-    date: '1201'
+    status: AA
+    date: '1601'
     iata: ''
     coordinates: '5846N 01723E'
     remarks: ''
@@ -10685,10 +12149,10 @@
     namewodiacritics: Stugsund
     subdiv: X
     function: 123-----
-    status: AF
-    date: '8312'
+    status: AA
+    date: '1601'
     iata: ''
-    coordinates: ''
+    coordinates: '6118N 01703E'
     remarks: ''
 -
     ch: ''
@@ -10701,6 +12165,18 @@
     date: '8312'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SE SUO'
+    name: Sundborn
+    namewodiacritics: Sundborn
+    subdiv: W
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '6039N 01546E'
     remarks: ''
 -
     ch: ''
@@ -10731,7 +12207,7 @@
     locode: 'SE SDK'
     name: Sundsbruk
     namewodiacritics: Sundsbruk
-    subdiv: Y
+    subdiv: 'Y'
     function: 123-----
     status: RL
     date: '0901'
@@ -10743,11 +12219,11 @@
     locode: 'SE SDL'
     name: Sundsvall
     namewodiacritics: Sundsvall
-    subdiv: Y
+    subdiv: 'Y'
     function: 1-34----
-    status: AI
-    date: '0307'
-    iata: XXZ
+    status: AA
+    date: '1601'
+    iata: ''
     coordinates: '6223N 01718E'
     remarks: ''
 -
@@ -10781,10 +12257,10 @@
     namewodiacritics: Surte
     subdiv: O
     function: 1-3-----
-    status: AI
-    date: '0207'
+    status: AA
+    date: '1601'
     iata: ''
-    coordinates: ''
+    coordinates: '5749N 01201E'
     remarks: ''
 -
     ch: ''
@@ -10797,6 +12273,18 @@
     date: '0901'
     iata: ''
     coordinates: '5555N 01306E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SE VS8'
+    name: Svaneholm
+    namewodiacritics: Svaneholm
+    subdiv: O
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '5737N 01249E'
     remarks: ''
 -
     ch: ''
@@ -10827,7 +12315,7 @@
     locode: 'SE SVX'
     name: Svanö
     namewodiacritics: Svano
-    subdiv: Y
+    subdiv: 'Y'
     function: 1-------
     status: AF
     date: '8312'
@@ -10839,15 +12327,15 @@
     locode: 'SE S2N'
     name: Svanön
     namewodiacritics: Svanon
-    subdiv: Y
-    function: 1-------
+    subdiv: 'Y'
+    function: 0-------
     status: RL
-    date: '1201'
+    date: '1901'
     iata: ''
     coordinates: '6254N 01752E'
     remarks: ''
 -
-    ch: +
+    ch: ''
     locode: 'SE SVP'
     name: Svappavaara
     namewodiacritics: Svappavaara
@@ -10888,9 +12376,9 @@
     name: Svedala
     namewodiacritics: Svedala
     subdiv: M
-    function: '--3-----'
-    status: RN
-    date: '9806'
+    function: 1-3-----
+    status: AA
+    date: '1601'
     iata: ''
     coordinates: ''
     remarks: ''
@@ -10936,9 +12424,9 @@
     name: Svenstavik
     namewodiacritics: Svenstavik
     subdiv: Z
-    function: 123-----
+    function: '-23-----'
     status: RL
-    date: '0901'
+    date: '1901'
     iata: ''
     coordinates: '6246N 01427E'
     remarks: ''
@@ -11007,7 +12495,7 @@
     locode: 'SE TSB'
     name: Tågsjöberg
     namewodiacritics: Tagsjoberg
-    subdiv: Y
+    subdiv: 'Y'
     function: '--3-----'
     status: RL
     date: '0105'
@@ -11031,7 +12519,7 @@
     locode: 'SE TAG'
     name: Tångaberg
     namewodiacritics: Tangaberg
-    subdiv: N
+    subdiv: 'N'
     function: '--3-----'
     status: RQ
     date: '0101'
@@ -11052,6 +12540,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'SE TEO'
+    name: Tarendo
+    namewodiacritics: Tarendo
+    subdiv: BD
+    function: '--3-----'
+    status: RL
+    date: '2001'
+    iata: ''
+    coordinates: '6709N 02238E'
+    remarks: ''
+-
+    ch: ''
     locode: 'SE TAE'
     name: Tärnaby
     namewodiacritics: Tarnaby
@@ -11061,6 +12561,18 @@
     date: '0105'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SE TNJ'
+    name: Tärnsjö
+    namewodiacritics: Tarnsjo
+    subdiv: U
+    function: '-----6--'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '6009N 01656E'
     remarks: ''
 -
     ch: ''
@@ -11127,7 +12639,7 @@
     locode: 'SE TIM'
     name: Timrå
     namewodiacritics: Timra
-    subdiv: Y
+    subdiv: 'Y'
     function: '--3-----'
     status: RL
     date: '9912'
@@ -11261,10 +12773,10 @@
     namewodiacritics: Tore
     subdiv: BD
     function: 1-------
-    status: AI
-    date: '9704'
+    status: AA
+    date: '1601'
     iata: ''
-    coordinates: ''
+    coordinates: '6554N 02239E'
     remarks: ''
 -
     ch: ''
@@ -11292,10 +12804,34 @@
     remarks: ''
 -
     ch: ''
+    locode: 'SE TTP'
+    name: Torestorp
+    namewodiacritics: Torestorp
+    subdiv: O
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5727N 01230E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SE RUK'
+    name: Torpsbruk
+    namewodiacritics: Torpsbruk
+    subdiv: G
+    function: '--3-----'
+    status: RL
+    date: '1707'
+    iata: ''
+    coordinates: '5702N 01435E'
+    remarks: ''
+-
+    ch: ''
     locode: 'SE THR'
     name: Torpshammar
     namewodiacritics: Torpshammar
-    subdiv: Y
+    subdiv: 'Y'
     function: '--3-----'
     status: RL
     date: '0501'
@@ -11307,7 +12843,7 @@
     locode: 'SE TSR'
     name: Torsaker
     namewodiacritics: Torsaker
-    subdiv: Y
+    subdiv: 'Y'
     function: '--3-----'
     status: RL
     date: '0701'
@@ -11391,7 +12927,7 @@
     locode: 'SE TOP'
     name: Torup
     namewodiacritics: Torup
-    subdiv: N
+    subdiv: 'N'
     function: '--3-----'
     status: RL
     date: '0105'
@@ -11464,9 +13000,9 @@
     name: Transtrand
     namewodiacritics: Transtrand
     subdiv: W
-    function: 1----6--
+    function: '-----6--'
     status: RL
-    date: '1107'
+    date: '1901'
     iata: ''
     coordinates: '6105N 01319E'
     remarks: ''
@@ -11481,6 +13017,18 @@
     date: '9501'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SE TSL'
+    name: Träslövsläge
+    namewodiacritics: Traslovslage
+    subdiv: 'N'
+    function: 1-------
+    status: AA
+    date: '1601'
+    iata: ''
+    coordinates: '5703N 01216E'
     remarks: ''
 -
     ch: ''
@@ -11513,10 +13061,10 @@
     namewodiacritics: Trelleborg
     subdiv: M
     function: 1-------
-    status: AI
-    date: '9704'
+    status: AA
+    date: '1601'
     iata: ''
-    coordinates: ''
+    coordinates: '5522N 01310E'
     remarks: ''
 -
     ch: ''
@@ -11525,10 +13073,10 @@
     namewodiacritics: Trollhattan
     subdiv: O
     function: 1234----
-    status: AI
-    date: '0207'
+    status: AA
+    date: '1601'
     iata: ''
-    coordinates: ''
+    coordinates: '5816N 01218E'
     remarks: ''
 -
     ch: ''
@@ -11571,10 +13119,10 @@
     locode: 'SE TUN'
     name: Tunadal
     namewodiacritics: Tunadal
-    subdiv: Y
+    subdiv: 'Y'
     function: 123-----
-    status: AI
-    date: '0307'
+    status: AA
+    date: '1601'
     iata: ''
     coordinates: '6224N 01722E'
     remarks: ''
@@ -11613,6 +13161,18 @@
     date: '1001'
     iata: ''
     coordinates: '6405N 01940E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SE TK2'
+    name: Tving
+    namewodiacritics: Tving
+    subdiv: K
+    function: '--3-----'
+    status: RL
+    date: '1901'
+    iata: ''
+    coordinates: '5618N 01527E'
     remarks: ''
 -
     ch: ''
@@ -11681,17 +13241,17 @@
     namewodiacritics: Uddevalla
     subdiv: O
     function: 123-----
-    status: AI
-    date: '9704'
+    status: AA
+    date: '1601'
     iata: ''
-    coordinates: ''
+    coordinates: '5822N 01156E'
     remarks: ''
 -
     ch: ''
     locode: 'SE UGG'
     name: Ugglarp
     namewodiacritics: Ugglarp
-    subdiv: N
+    subdiv: 'N'
     function: 0-------
     status: AF
     date: '1301'
@@ -11727,7 +13287,7 @@
     locode: 'SE ULD'
     name: Ullared
     namewodiacritics: Ullared
-    subdiv: N
+    subdiv: 'N'
     function: '--3-----'
     status: RL
     date: '9501'
@@ -11763,10 +13323,10 @@
     locode: 'SE UND'
     name: Underås
     namewodiacritics: Underas
-    subdiv: ''
+    subdiv: AB
     function: 1-------
     status: AA
-    date: '0507'
+    date: '1601'
     iata: ''
     coordinates: '5916N 01732E'
     remarks: ''
@@ -11787,7 +13347,7 @@
     locode: 'SE URD'
     name: Unnaryd
     namewodiacritics: Unnaryd
-    subdiv: N
+    subdiv: 'N'
     function: '--3-----'
     status: RN
     date: '9811'
@@ -11847,12 +13407,24 @@
     locode: 'SE UTA'
     name: Utansjö
     namewodiacritics: Utansjo
-    subdiv: Y
+    subdiv: 'Y'
     function: 1-------
-    status: AI
-    date: '9704'
+    status: AA
+    date: '1601'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SE VAC'
+    name: Väckelsång
+    namewodiacritics: Vackelsang
+    subdiv: G
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '5638N 01455E'
     remarks: ''
 -
     ch: ''
@@ -11907,7 +13479,7 @@
     locode: 'SE VAJ'
     name: Väja
     namewodiacritics: Vaja
-    subdiv: Y
+    subdiv: 'Y'
     function: 123-----
     status: AI
     date: '9704'
@@ -11920,11 +13492,11 @@
     name: Vålberg
     namewodiacritics: Valberg
     subdiv: S
-    function: '--3-----'
-    status: RL
-    date: '9307'
+    function: 1-3-----
+    status: AA
+    date: '1601'
     iata: ''
-    coordinates: ''
+    coordinates: '5924N 01310E'
     remarks: ''
 -
     ch: ''
@@ -11967,7 +13539,7 @@
     locode: 'SE VLD'
     name: Vallda
     namewodiacritics: Vallda
-    subdiv: N
+    subdiv: 'N'
     function: '--3-----'
     status: RL
     date: '1301'
@@ -12005,13 +13577,13 @@
     namewodiacritics: Vallvik
     subdiv: X
     function: 123-----
-    status: AI
-    date: '9704'
+    status: AA
+    date: '1601'
     iata: ''
-    coordinates: ''
+    coordinates: '6111N 01711E'
     remarks: ''
 -
-    ch: +
+    ch: ''
     locode: 'SE VSG'
     name: Valskog
     namewodiacritics: Valskog
@@ -12029,10 +13601,10 @@
     namewodiacritics: Vanersborg
     subdiv: O
     function: 123-----
-    status: AI
-    date: '0207'
+    status: AA
+    date: '1601'
     iata: ''
-    coordinates: ''
+    coordinates: '5822N 01219E'
     remarks: ''
 -
     ch: ''
@@ -12075,10 +13647,10 @@
     locode: 'SE VAG'
     name: Varberg
     namewodiacritics: Varberg
-    subdiv: N
+    subdiv: 'N'
     function: 123-----
-    status: AI
-    date: '9704'
+    status: AA
+    date: '1601'
     iata: XWV
     coordinates: ''
     remarks: ''
@@ -12093,6 +13665,18 @@
     date: '0507'
     iata: ''
     coordinates: '5915N 01752E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SE VKI'
+    name: Varekil
+    namewodiacritics: Varekil
+    subdiv: O
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '5808N 01142E'
     remarks: ''
 -
     ch: ''
@@ -12113,10 +13697,10 @@
     namewodiacritics: Vargon
     subdiv: O
     function: 123-----
-    status: AI
-    date: '0207'
+    status: AA
+    date: '1601'
     iata: ''
-    coordinates: ''
+    coordinates: '5822N 01222E'
     remarks: ''
 -
     ch: ''
@@ -12124,9 +13708,9 @@
     name: Värmdö
     namewodiacritics: Varmdo
     subdiv: AB
-    function: 1-3-----
+    function: '--3-----'
     status: RL
-    date: '0601'
+    date: '1901'
     iata: ''
     coordinates: '5922N 01830E'
     remarks: ''
@@ -12147,12 +13731,24 @@
     locode: 'SE VBC'
     name: Väröbacka
     namewodiacritics: Varobacka
-    subdiv: N
+    subdiv: 'N'
     function: '-23-----'
     status: RL
     date: '0601'
     iata: ''
     coordinates: '5715N 01211E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SE VTT'
+    name: Vartofta
+    namewodiacritics: Vartofta
+    subdiv: I
+    function: '-23-----'
+    status: AA
+    date: '2107'
+    iata: ''
+    coordinates: '5805N 01337E'
     remarks: ''
 -
     ch: ''
@@ -12173,10 +13769,10 @@
     namewodiacritics: Vasteras
     subdiv: U
     function: 1234----
-    status: AI
-    date: '0207'
+    status: AA
+    date: '1601'
     iata: ''
-    coordinates: ''
+    coordinates: '5937N 01633E'
     remarks: ''
 -
     ch: ''
@@ -12209,10 +13805,10 @@
     namewodiacritics: Vastervik
     subdiv: H
     function: 1234----
-    status: AI
-    date: '9601'
+    status: AA
+    date: '1601'
     iata: ''
-    coordinates: ''
+    coordinates: '5745N 01638E'
     remarks: ''
 -
     ch: ''
@@ -12237,6 +13833,18 @@
     date: '1007'
     iata: ''
     coordinates: '5818N 01224E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SE VAT'
+    name: Vattholma
+    namewodiacritics: Vattholma
+    subdiv: C
+    function: '--3-----'
+    status: RL
+    date: '2001'
+    iata: ''
+    coordinates: '6001N 01744E'
     remarks: ''
 -
     ch: ''
@@ -12267,12 +13875,24 @@
     locode: 'SE VXT'
     name: Våxtorp
     namewodiacritics: Vaxtorp
-    subdiv: N
+    subdiv: 'N'
     function: '--3-----'
     status: RL
     date: '9307'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SE VBE'
+    name: Veberöd
+    namewodiacritics: Veberod
+    subdiv: M
+    function: '-23-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '5538N 01329E'
     remarks: ''
 -
     ch: ''
@@ -12291,12 +13911,24 @@
     locode: 'SE VDG'
     name: Veddige
     namewodiacritics: Veddige
-    subdiv: N
+    subdiv: 'N'
     function: '--3-----'
     status: RL
     date: '1301'
     iata: ''
     coordinates: '5716N 01219E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SE 6VG'
+    name: Vedum
+    namewodiacritics: Vedum
+    subdiv: O
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5810N 01259E'
     remarks: ''
 -
     ch: ''
@@ -12336,6 +13968,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'SE VGE'
+    name: Vessigebro
+    namewodiacritics: Vessigebro
+    subdiv: 'N'
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '5658N 01239E'
+    remarks: ''
+-
+    ch: ''
     locode: 'SE VTL'
     name: Vetlanda
     namewodiacritics: Vetlanda
@@ -12348,6 +13992,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'SE VKB'
+    name: Vikarbyn
+    namewodiacritics: Vikarbyn
+    subdiv: W
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '6055N 01501E'
+    remarks: ''
+-
+    ch: ''
     locode: 'SE VKO'
     name: Vikbolandet
     namewodiacritics: Vikbolandet
@@ -12357,6 +14013,30 @@
     date: '1301'
     iata: ''
     coordinates: '5832N 01640E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SE VKN'
+    name: Viken
+    namewodiacritics: Viken
+    subdiv: M
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '5609N 01234E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SE VKT'
+    name: Vikingstad
+    namewodiacritics: Vikingstad
+    subdiv: E
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '5822N 01527E'
     remarks: ''
 -
     ch: ''
@@ -12468,6 +14148,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'SE VRT'
+    name: Virestad
+    namewodiacritics: Virestad
+    subdiv: G
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '5637N 01420E'
+    remarks: ''
+-
+    ch: ''
     locode: 'SE VIO'
     name: 'Virsbo Bruk'
     namewodiacritics: 'Virsbo Bruk'
@@ -12497,10 +14189,10 @@
     namewodiacritics: Visby
     subdiv: I
     function: 1234----
-    status: AI
-    date: '9601'
+    status: AA
+    date: '1601'
     iata: ''
-    coordinates: ''
+    coordinates: '5738N 01818E'
     remarks: ''
 -
     ch: ''
@@ -12612,15 +14304,39 @@
     remarks: ''
 -
     ch: ''
+    locode: 'SE VRI'
+    name: Vrigstad
+    namewodiacritics: Vrigstad
+    subdiv: F
+    function: '--3-----'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '5721N 01428E'
+    remarks: ''
+-
+    ch: ''
     locode: 'SE WAL'
     name: Wallhamn
     namewodiacritics: Wallhamn
     subdiv: O
     function: 1-------
-    status: AI
-    date: '9704'
+    status: AA
+    date: '1601'
     iata: ''
-    coordinates: ''
+    coordinates: '5801N 01142E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SE YDR'
+    name: Ydre
+    namewodiacritics: Ydre
+    subdiv: E
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '5750N 01516E'
     remarks: ''
 -
     ch: ''
@@ -12641,17 +14357,17 @@
     namewodiacritics: Ystad
     subdiv: M
     function: 123-----
-    status: AF
-    date: '9704'
+    status: AA
+    date: '1601'
     iata: ''
-    coordinates: ''
+    coordinates: '5525N 01349E'
     remarks: ''
 -
     ch: ''
     locode: 'SE YTT'
     name: Ytterfälle/Härnösand
     namewodiacritics: Ytterfalle/Harnosand
-    subdiv: Y
+    subdiv: 'Y'
     function: '--3-----'
     status: RL
     date: '0907'

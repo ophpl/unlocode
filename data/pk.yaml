@@ -107,17 +107,17 @@
     coordinates: ''
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'PK BNP'
     name: Bannu
     namewodiacritics: Bannu
-    subdiv: NW
+    subdiv: KP
     function: '-234----'
     status: AI
     date: '1307'
     iata: ''
     coordinates: ''
-    remarks: '@Sub'
+    remarks: ''
 -
     ch: ''
     locode: 'PK BPR'
@@ -141,6 +141,30 @@
     date: '0701'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PK BWL'
+    name: Bhalwal
+    namewodiacritics: Bhalwal
+    subdiv: PB
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '3216N 07252E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PK BHM'
+    name: Bhimber
+    namewodiacritics: Bhimber
+    subdiv: JK
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3258N 07404E'
     remarks: ''
 -
     ch: ''
@@ -275,17 +299,17 @@
     coordinates: ''
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'PK CJL'
     name: Chitral
     namewodiacritics: Chitral
-    subdiv: NW
+    subdiv: KP
     function: '--34----'
     status: AI
     date: '1307'
     iata: ''
     coordinates: ''
-    remarks: '@Sub'
+    remarks: ''
 -
     ch: ''
     locode: 'PK DDU'
@@ -347,17 +371,17 @@
     coordinates: ''
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'PK DSK'
     name: 'Dera Ismail Khan'
     namewodiacritics: 'Dera Ismail Khan'
-    subdiv: NW
+    subdiv: KP
     function: '--34----'
     status: AI
     date: '1307'
     iata: ''
     coordinates: ''
-    remarks: '@Sub'
+    remarks: ''
 -
     ch: ''
     locode: 'PK DIR'
@@ -383,17 +407,17 @@
     coordinates: ''
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'PK FZB'
     name: Faizabad
     namewodiacritics: Faizabad
-    subdiv: NW
+    subdiv: KP
     function: '--3-----'
     status: RL
     date: '1307'
     iata: ''
     coordinates: '3423N 07145E'
-    remarks: '@Sub'
+    remarks: ''
 -
     ch: ''
     locode: 'PK GAD'
@@ -407,17 +431,17 @@
     coordinates: ''
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'PK GHB'
     name: 'Garhi Habibullah Khan'
     namewodiacritics: 'Garhi Habibullah Khan'
-    subdiv: NW
+    subdiv: KP
     function: '--3--6--'
     status: RL
     date: '1307'
     iata: ''
     coordinates: '3424N 07323E'
-    remarks: '@Sub'
+    remarks: ''
 -
     ch: ''
     locode: 'PK GHK'
@@ -431,17 +455,29 @@
     coordinates: ''
     remarks: ''
 -
-    ch: ¦
+    ch: ''
+    locode: 'PK GHT'
+    name: Ghotki
+    namewodiacritics: Ghotki
+    subdiv: SD
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '2801N 06919E'
+    remarks: ''
+-
+    ch: ''
     locode: 'PK GIL'
     name: Gilgit
     namewodiacritics: Gilgit
-    subdiv: NA
+    subdiv: GB
     function: '--34----'
     status: AI
     date: '1307'
     iata: ''
     coordinates: ''
-    remarks: '@Sub'
+    remarks: ''
 -
     ch: ''
     locode: 'PK GKN'
@@ -563,17 +599,17 @@
     coordinates: ''
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'PK HAY'
     name: Hayatabad
     namewodiacritics: Hayatabad
-    subdiv: NW
+    subdiv: KP
     function: '-----6--'
     status: RL
     date: '1307'
     iata: ''
     coordinates: '3416N 07141E'
-    remarks: '@Sub'
+    remarks: ''
 -
     ch: ''
     locode: 'PK HUB'
@@ -635,7 +671,7 @@
     coordinates: ''
     remarks: ''
 -
-    ch: +
+    ch: ''
     locode: 'PK JAM'
     name: 'Jam Shoro'
     namewodiacritics: 'Jam Shoro'
@@ -852,18 +888,6 @@
     remarks: ''
 -
     ch: ''
-    locode: 'PK BQM'
-    name: 'Karachi-Muhammad Bin Qasim'
-    namewodiacritics: 'Karachi-Muhammad Bin Qasim'
-    subdiv: SD
-    function: 123-----
-    status: AS
-    date: '0407'
-    iata: ''
-    coordinates: '2446N 06720E'
-    remarks: ''
--
-    ch: ''
     locode: 'PK KZL'
     name: Kashmor
     namewodiacritics: Kashmor
@@ -1020,6 +1044,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'PK KHW'
+    name: Khwazakhela
+    namewodiacritics: Khwazakhela
+    subdiv: KP
+    function: '--3-----'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '3456N 07228E'
+    remarks: ''
+-
+    ch: ''
     locode: 'PK KIA'
     name: Kiamari
     namewodiacritics: Kiamari
@@ -1031,17 +1067,17 @@
     coordinates: '2449N 06658E'
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'PK OHT'
     name: Kohat
     namewodiacritics: Kohat
-    subdiv: NW
+    subdiv: KP
     function: '-234----'
     status: AI
     date: '1307'
     iata: ''
     coordinates: ''
-    remarks: '@Sub'
+    remarks: ''
 -
     ch: ''
     locode: 'PK KHC'
@@ -1432,9 +1468,9 @@
     name: 'Muhammad Bin Qasim/Karachi'
     namewodiacritics: 'Muhammad Bin Qasim/Karachi'
     subdiv: SD
-    function: 123-----
-    status: AS
-    date: '0407'
+    function: 1-------
+    status: RL
+    date: '1601'
     iata: ''
     coordinates: '2446N 06720E'
     remarks: ''
@@ -1715,17 +1751,17 @@
     coordinates: ''
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'PK PEW'
     name: Peshawar
     namewodiacritics: Peshawar
-    subdiv: NW
+    subdiv: KP
     function: '-234----'
     status: AI
     date: '1307'
     iata: ''
     coordinates: ''
-    remarks: '@Sub'
+    remarks: ''
 -
     ch: ''
     locode: 'PK PSC'
@@ -1931,17 +1967,17 @@
     coordinates: ''
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'PK SDT'
     name: 'Saidu Sharif'
     namewodiacritics: 'Saidu Sharif'
-    subdiv: NW
+    subdiv: KP
     function: '--34----'
     status: AI
     date: '1307'
     iata: ''
     coordinates: ''
-    remarks: '@Sub'
+    remarks: ''
 -
     ch: ''
     locode: 'PK SMA'
@@ -2178,9 +2214,9 @@
     subdiv: PB
     function: '-234-6--'
     status: AI
-    date: '0701'
+    date: '1407'
     iata: ''
-    coordinates: ''
+    coordinates: '3230N 07431E'
     remarks: ''
 -
     ch: ''
@@ -2243,17 +2279,17 @@
     coordinates: ''
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'PK SWT'
     name: Swat
     namewodiacritics: Swat
-    subdiv: NW
+    subdiv: KP
     function: '--3-----'
     status: RQ
     date: '1307'
     iata: ''
     coordinates: '3406N 07142E'
-    remarks: '@Sub'
+    remarks: ''
 -
     ch: ''
     locode: 'PK TFT'
@@ -2265,6 +2301,18 @@
     date: '9304'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PK TLG'
+    name: Talagang
+    namewodiacritics: Talagang
+    subdiv: PB
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3255N 07225E'
     remarks: ''
 -
     ch: ''
@@ -2291,17 +2339,17 @@
     coordinates: ''
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'PK TLB'
     name: Tarbela
     namewodiacritics: Tarbela
-    subdiv: NW
+    subdiv: KP
     function: '--34----'
     status: AI
     date: '1307'
     iata: ''
     coordinates: ''
-    remarks: '@Sub'
+    remarks: ''
 -
     ch: ''
     locode: 'PK TXA'
@@ -2351,17 +2399,17 @@
     coordinates: ''
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'PK TOR'
     name: Torkham
     namewodiacritics: Torkham
-    subdiv: NW
+    subdiv: KP
     function: '-23----B'
     status: AS
     date: '1307'
     iata: ''
     coordinates: ''
-    remarks: '@Sub'
+    remarks: ''
 -
     ch: ''
     locode: 'PK TUK'

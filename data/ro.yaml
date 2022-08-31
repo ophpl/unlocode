@@ -36,6 +36,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'RO ADJ'
+    name: Adjud
+    namewodiacritics: Adjud
+    subdiv: VN
+    function: '--3-5---'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '4606N 02710E'
+    remarks: ''
+-
+    ch: ''
     locode: 'RO ADC'
     name: Adunatii-Copaceni
     namewodiacritics: Adunatii-Copaceni
@@ -69,6 +81,30 @@
     date: '1101'
     iata: ''
     coordinates: '4405N 02837E'
+    remarks: ''
+-
+    ch: +
+    locode: 'RO ATM'
+    name: 'Aita Mare'
+    namewodiacritics: 'Aita Mare'
+    subdiv: CV
+    function: '--3-----'
+    status: AM
+    date: '2201'
+    iata: ''
+    coordinates: '4558N 02533E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'RO AID'
+    name: Aiud
+    namewodiacritics: Aiud
+    subdiv: AB
+    function: '--3-----'
+    status: RL
+    date: '1707'
+    iata: ''
+    coordinates: '4618N 02343E'
     remarks: ''
 -
     ch: ''
@@ -132,6 +168,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'RO AMA'
+    name: 'Almasu Mare'
+    namewodiacritics: 'Almasu Mare'
+    subdiv: AB
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4606N 02308E'
+    remarks: ''
+-
+    ch: ''
     locode: 'RO AMR'
     name: Amara
     namewodiacritics: Amara
@@ -141,6 +189,18 @@
     date: '1007'
     iata: ''
     coordinates: '4437N 02712E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'RO AGH'
+    name: Anghelesti
+    namewodiacritics: Anghelesti
+    subdiv: VN
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4605N 02703E'
     remarks: ''
 -
     ch: ''
@@ -252,6 +312,42 @@
     remarks: ''
 -
     ch: ''
+    locode: 'RO BAQ'
+    name: Baia
+    namewodiacritics: Baia
+    subdiv: TL
+    function: '--3-----'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '4443N 02840E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'RO BDC'
+    name: 'Baia de Cris'
+    namewodiacritics: 'Baia de Cris'
+    subdiv: HD
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '4610N 02243E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'RO BDF'
+    name: 'Baia de Fier'
+    namewodiacritics: 'Baia de Fier'
+    subdiv: GJ
+    function: '--3-----'
+    status: RL
+    date: '2001'
+    iata: ''
+    coordinates: '4510N 02346E'
+    remarks: ''
+-
+    ch: ''
     locode: 'RO BAY'
     name: 'Baia Mare'
     namewodiacritics: 'Baia Mare'
@@ -261,6 +357,18 @@
     date: '9401'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'RO BPH'
+    name: Baicoi
+    namewodiacritics: Baicoi
+    subdiv: PH
+    function: '-2---6--'
+    status: RL
+    date: '1707'
+    iata: ''
+    coordinates: '4502N 02551E'
     remarks: ''
 -
     ch: ''
@@ -285,6 +393,30 @@
     date: '0607'
     iata: ''
     coordinates: '4609N 02551E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'RO BL3'
+    name: Balaciu
+    namewodiacritics: Balaciu
+    subdiv: VL
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '4456N 02356E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'RO BAE'
+    name: Baleni
+    namewodiacritics: Baleni
+    subdiv: BH
+    function: '--3-----'
+    status: RL
+    date: '1707'
+    iata: ''
+    coordinates: '4636N 02223E'
     remarks: ''
 -
     ch: ''
@@ -384,6 +516,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'RO BRS'
+    name: Barsana
+    namewodiacritics: Barsana
+    subdiv: MM
+    function: '--3-----'
+    status: RL
+    date: '2001'
+    iata: ''
+    coordinates: '4748N 02403E'
+    remarks: ''
+-
+    ch: ''
     locode: 'RO BAR'
     name: Barticesti
     namewodiacritics: Barticesti
@@ -479,7 +623,7 @@
     coordinates: '4619N 02518E'
     remarks: ''
 -
-    ch: +
+    ch: ''
     locode: 'RO BEI'
     name: Beius
     namewodiacritics: Beius
@@ -489,6 +633,18 @@
     date: '1307'
     iata: ''
     coordinates: '4640N 02221E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'RO GBC'
+    name: Belciugatele
+    namewodiacritics: Belciugatele
+    subdiv: CL
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '4429N 02626E'
     remarks: ''
 -
     ch: ''
@@ -513,6 +669,30 @@
     date: '1201'
     iata: ''
     coordinates: '4509N 02531E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'RO BCD'
+    name: Bicsad
+    namewodiacritics: Bicsad
+    subdiv: CV
+    function: '--3-----'
+    status: AM
+    date: '2101'
+    iata: ''
+    coordinates: '4606N 02552E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'RO BR5'
+    name: Biharea
+    namewodiacritics: Biharea
+    subdiv: BH
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '4709N 02155E'
     remarks: ''
 -
     ch: ''
@@ -561,6 +741,18 @@
     date: '0407'
     iata: ''
     coordinates: '4459N 02600E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'RO BBI'
+    name: Boboiesti
+    namewodiacritics: Boboiesti
+    subdiv: GJ
+    function: '--3-----'
+    status: AM
+    date: '2107'
+    iata: ''
+    coordinates: '4456N 02257E'
     remarks: ''
 -
     ch: ''
@@ -648,6 +840,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'RO BCE'
+    name: Borcea
+    namewodiacritics: Borcea
+    subdiv: CL
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '4420N 02745E'
+    remarks: ''
+-
+    ch: ''
     locode: 'RO BOR'
     name: Bors
     namewodiacritics: Bors
@@ -684,6 +888,42 @@
     remarks: ''
 -
     ch: ''
+    locode: 'RO BOI'
+    name: Bosanci
+    namewodiacritics: Bosanci
+    subdiv: SV
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '4735N 02619E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'RO BTZ'
+    name: Botiz
+    namewodiacritics: Botiz
+    subdiv: SM
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4750N 02257E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'RO BOT'
+    name: Botiza
+    namewodiacritics: Botiza
+    subdiv: MM
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '4740N 02409E'
+    remarks: ''
+-
+    ch: ''
     locode: 'RO BOS'
     name: Botosani
     namewodiacritics: Botosani
@@ -705,6 +945,18 @@
     date: '0207'
     iata: ''
     coordinates: '4455N 02159E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'RO BRB'
+    name: Brad
+    namewodiacritics: Brad
+    subdiv: BC
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '4641N 02652E'
     remarks: ''
 -
     ch: ''
@@ -747,12 +999,12 @@
     locode: 'RO BTS'
     name: Branesti
     namewodiacritics: Branesti
-    subdiv: B
+    subdiv: IF
     function: '--3-----'
-    status: RQ
-    date: '1101'
+    status: RL
+    date: '1501'
     iata: ''
-    coordinates: ''
+    coordinates: '4427N 02620E'
     remarks: ''
 -
     ch: ''
@@ -789,6 +1041,18 @@
     date: '1101'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'RO PHV'
+    name: 'Brazii de Sus'
+    namewodiacritics: 'Brazii de Sus'
+    subdiv: PH
+    function: '--3-----'
+    status: RL
+    date: '1707'
+    iata: ''
+    coordinates: '4452N 02601E'
     remarks: ''
 -
     ch: ''
@@ -936,6 +1200,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'RO BDH'
+    name: Buduhala
+    namewodiacritics: Buduhala
+    subdiv: GJ
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '4459N 02308E'
+    remarks: ''
+-
+    ch: ''
     locode: 'RO BUF'
     name: Buftea
     namewodiacritics: Buftea
@@ -947,7 +1223,19 @@
     coordinates: '4434N 02557E'
     remarks: ''
 -
-    ch: +
+    ch: ''
+    locode: 'RO GJJ'
+    name: Bumbesti-Jiu
+    namewodiacritics: Bumbesti-Jiu
+    subdiv: GJ
+    function: '-----6--'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '4510N 02324E'
+    remarks: ''
+-
+    ch: ''
     locode: 'RO BUS'
     name: Busteni
     namewodiacritics: Busteni
@@ -957,6 +1245,18 @@
     date: '1307'
     iata: ''
     coordinates: '4524N 02532E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'RO BBT'
+    name: Butimanu
+    namewodiacritics: Butimanu
+    subdiv: DB
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4441N 02554E'
     remarks: ''
 -
     ch: ''
@@ -1020,6 +1320,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'RO CAA'
+    name: Calina
+    namewodiacritics: Calina
+    subdiv: VL
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '4443N 02415E'
+    remarks: ''
+-
+    ch: ''
     locode: 'RO CLS'
     name: Calinesti
     namewodiacritics: Calinesti
@@ -1080,6 +1392,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'RO CMP'
+    name: 'Câmpulung Moldovenesc'
+    namewodiacritics: 'Campulung Moldovenesc'
+    subdiv: SV
+    function: '--3-5---'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '4732N 02534E'
+    remarks: ''
+-
+    ch: ''
     locode: 'RO RZD'
     name: 'Campulung Muscel'
     namewodiacritics: 'Campulung Muscel'
@@ -1089,6 +1413,18 @@
     date: '0901'
     iata: ''
     coordinates: '4516N 02502E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'RO CRR'
+    name: 'Cap Rosu'
+    namewodiacritics: 'Cap Rosu'
+    subdiv: PH
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '4503N 02547E'
     remarks: ''
 -
     ch: ''
@@ -1137,6 +1473,42 @@
     date: '8309'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'RO CAT'
+    name: Catanele
+    namewodiacritics: Catanele
+    subdiv: AG
+    function: '--3-----'
+    status: RL
+    date: '1707'
+    iata: ''
+    coordinates: '4448N 02500E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'RO CAC'
+    name: Catcau
+    namewodiacritics: Catcau
+    subdiv: CJ
+    function: '--3-----'
+    status: AM
+    date: '2007'
+    iata: ''
+    coordinates: '4715N 02345E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'RO CTC'
+    name: Cateasca
+    namewodiacritics: Cateasca
+    subdiv: AG
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '4446N 02505E'
     remarks: ''
 -
     ch: ''
@@ -1296,6 +1668,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'RO RMV'
+    name: Ciacova
+    namewodiacritics: Ciacova
+    subdiv: TM
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4530N 02107E'
+    remarks: ''
+-
+    ch: ''
     locode: 'RO CNC'
     name: 'Cîlnic, Gorj'
     namewodiacritics: 'Cilnic, Gorj'
@@ -1305,6 +1689,18 @@
     date: '0407'
     iata: ''
     coordinates: '4557N 02304E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'RO CPT'
+    name: Cimpenita
+    namewodiacritics: Cimpenita
+    subdiv: MS
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '4639N 02429E'
     remarks: ''
 -
     ch: ''
@@ -1332,6 +1728,42 @@
     remarks: ''
 -
     ch: ''
+    locode: 'RO CBV'
+    name: Cincsor
+    namewodiacritics: Cincsor
+    subdiv: BV
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '4550N 02449E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'RO CIO'
+    name: Ciorogârla
+    namewodiacritics: Ciorogarla
+    subdiv: IF
+    function: '--3-----'
+    status: RL
+    date: '1707'
+    iata: ''
+    coordinates: '4426N 02553E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'RO CUR'
+    name: Ciucurova
+    namewodiacritics: Ciucurova
+    subdiv: TL
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '4456N 02829E'
+    remarks: ''
+-
+    ch: ''
     locode: 'RO CIU'
     name: Ciumani
     namewodiacritics: Ciumani
@@ -1341,6 +1773,18 @@
     date: '1007'
     iata: ''
     coordinates: '4641N 02531E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'RO CBD'
+    name: Ciumbrud
+    namewodiacritics: Ciumbrud
+    subdiv: AB
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '4618N 02346E'
     remarks: ''
 -
     ch: ''
@@ -1404,6 +1848,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'RO CLO'
+    name: Colonia
+    namewodiacritics: Colonia
+    subdiv: CJ
+    function: '--3-----'
+    status: RL
+    date: '2001'
+    iata: ''
+    coordinates: '4635N 02400E'
+    remarks: ''
+-
+    ch: ''
     locode: 'RO COM'
     name: Comanesti
     namewodiacritics: Comanesti
@@ -1413,6 +1869,18 @@
     date: '0501'
     iata: ''
     coordinates: '4625N 02626E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'RO CRC'
+    name: Comarnic
+    namewodiacritics: Comarnic
+    subdiv: PH
+    function: '-23-----'
+    status: RL
+    date: '2001'
+    iata: ''
+    coordinates: '4515N 02538E'
     remarks: ''
 -
     ch: ''
@@ -1500,6 +1968,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'RO CNI'
+    name: Cornesti
+    namewodiacritics: Cornesti
+    subdiv: MM
+    function: '--3-----'
+    status: AM
+    date: '2107'
+    iata: ''
+    coordinates: '4749N 02358E'
+    remarks: ''
+-
+    ch: ''
     locode: 'RO CNU'
     name: 'Cornetu, Ilfov'
     namewodiacritics: 'Cornetu, Ilfov'
@@ -1509,6 +1989,18 @@
     date: '0407'
     iata: ''
     coordinates: '4420N 02556E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'RO CSU'
+    name: 'Cornu de Sus'
+    namewodiacritics: 'Cornu de Sus'
+    subdiv: PH
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '4450N 02615E'
     remarks: ''
 -
     ch: ''
@@ -1595,7 +2087,7 @@
     coordinates: '4419N 02348E'
     remarks: ''
 -
-    ch: +
+    ch: ''
     locode: 'RO CRP'
     name: Crâmpoia
     namewodiacritics: Crampoia
@@ -1605,6 +2097,18 @@
     date: '1307'
     iata: ''
     coordinates: '4418N 02445E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'RO CR8'
+    name: Crângurile
+    namewodiacritics: Crangurile
+    subdiv: DB
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '4444N 02515E'
     remarks: ''
 -
     ch: ''
@@ -1653,6 +2157,18 @@
     date: '1107'
     iata: ''
     coordinates: '4617N 02502E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'RO C5M'
+    name: Cumpana
+    namewodiacritics: Cumpana
+    subdiv: CT
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '4406N 02833E'
     remarks: ''
 -
     ch: ''
@@ -1764,6 +2280,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'RO DVS'
+    name: Deveselu
+    namewodiacritics: Deveselu
+    subdiv: OT
+    function: '-----6--'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '4404N 02423E'
+    remarks: ''
+-
+    ch: ''
     locode: 'RO DIM'
     name: Dîmbovita
     namewodiacritics: Dimbovita
@@ -1812,6 +2340,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'RO DOB'
+    name: Dobresti
+    namewodiacritics: Dobresti
+    subdiv: BH
+    function: '--3-----'
+    status: AM
+    date: '2007'
+    iata: ''
+    coordinates: '4651N 02216E'
+    remarks: ''
+-
+    ch: ''
     locode: 'RO BDO'
     name: Dobroesti
     namewodiacritics: Dobroesti
@@ -1836,15 +2376,27 @@
     remarks: ''
 -
     ch: ''
+    locode: 'RO DMA'
+    name: Domasnea
+    namewodiacritics: Domasnea
+    subdiv: CS
+    function: '--3-----'
+    status: RL
+    date: '1707'
+    iata: ''
+    coordinates: '4505N 02219E'
+    remarks: ''
+-
+    ch: ''
     locode: 'RO BDM'
     name: Domnesti
     namewodiacritics: Domnesti
-    subdiv: B
-    function: '-----6--'
+    subdiv: IF
+    function: '--3-----'
     status: RL
-    date: '0901'
+    date: '1707'
     iata: ''
-    coordinates: '4423N 25551E'
+    coordinates: '4424N 02555E'
     remarks: ''
 -
     ch: ''
@@ -1881,6 +2433,18 @@
     date: '0307'
     iata: ''
     coordinates: '4757N 02624E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'RO DGA'
+    name: Dragalina
+    namewodiacritics: Dragalina
+    subdiv: CL
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '4426N 02719E'
     remarks: ''
 -
     ch: ''
@@ -1941,6 +2505,18 @@
     date: '0901'
     iata: ''
     coordinates: '4513N 02603E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'RO DRB'
+    name: Drambar
+    namewodiacritics: Drambar
+    subdiv: AB
+    function: '--3-----'
+    status: AM
+    date: '2107'
+    iata: ''
+    coordinates: '4605N 02338E'
     remarks: ''
 -
     ch: ''
@@ -2052,6 +2628,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'RO SHA'
+    name: Faget
+    namewodiacritics: Faget
+    subdiv: DJ
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4420N 02336E'
+    remarks: ''
+-
+    ch: ''
     locode: 'RO FAC'
     name: Falciu
     namewodiacritics: Falciu
@@ -2073,6 +2661,18 @@
     date: '0501'
     iata: ''
     coordinates: '4727N 02618E'
+    remarks: ''
+-
+    ch: +
+    locode: 'RO FDA'
+    name: Feldioara
+    namewodiacritics: Feldioara
+    subdiv: BV
+    function: '--3-----'
+    status: AM
+    date: '2201'
+    iata: ''
+    coordinates: '4549N 02536E'
     remarks: ''
 -
     ch: ''
@@ -2100,6 +2700,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'RO FIL'
+    name: Filiasi
+    namewodiacritics: Filiasi
+    subdiv: DJ
+    function: '--3-5---'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '4433N 02331E'
+    remarks: ''
+-
+    ch: ''
     locode: 'RO FDP'
     name: 'Filipestii de Padure'
     namewodiacritics: 'Filipestii de Padure'
@@ -2109,6 +2721,30 @@
     date: '0407'
     iata: ''
     coordinates: '4500N 02545E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'RO FTA'
+    name: Finta
+    namewodiacritics: Finta
+    subdiv: DB
+    function: '--3-----'
+    status: AM
+    date: '2107'
+    iata: ''
+    coordinates: '4449N 02548E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'RO 4ZM'
+    name: Fintesti
+    namewodiacritics: Fintesti
+    subdiv: BZ
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '4506N 02628E'
     remarks: ''
 -
     ch: ''
@@ -2172,6 +2808,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'RO FUA'
+    name: Fusea
+    namewodiacritics: Fusea
+    subdiv: DB
+    function: '--3-----'
+    status: AM
+    date: '2101'
+    iata: ''
+    coordinates: '4440N 02531E'
+    remarks: ''
+-
+    ch: ''
     locode: 'RO GAE'
     name: Gaesti
     namewodiacritics: Gaesti
@@ -2181,6 +2829,30 @@
     date: '0212'
     iata: ''
     coordinates: '4443N 02519E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'RO GAI'
+    name: Gainesti
+    namewodiacritics: Gainesti
+    subdiv: SV
+    function: '--3-----'
+    status: RL
+    date: '2001'
+    iata: ''
+    coordinates: '4725N 02555E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'RO GTI'
+    name: Galanesti
+    namewodiacritics: Galanesti
+    subdiv: SV
+    function: '-23-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '4755N 02548E'
     remarks: ''
 -
     ch: ''
@@ -2268,6 +2940,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'RO GEO'
+    name: Geomal
+    namewodiacritics: Geomal
+    subdiv: AB
+    function: '--3-----'
+    status: RL
+    date: '2001'
+    iata: ''
+    coordinates: '4616N 02337E'
+    remarks: ''
+-
+    ch: ''
     locode: 'RO GGH'
     name: Gheorgheni
     namewodiacritics: Gheorgheni
@@ -2337,6 +3021,18 @@
     date: '0701'
     iata: ''
     coordinates: '4547N 02117E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'RO JMV'
+    name: Giarmata
+    namewodiacritics: Giarmata
+    subdiv: TM
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '4550N 02118E'
     remarks: ''
 -
     ch: ''
@@ -2424,6 +3120,42 @@
     remarks: ''
 -
     ch: ''
+    locode: 'RO GRB'
+    name: Gorban
+    namewodiacritics: Gorban
+    subdiv: IS
+    function: '--3-----'
+    status: AM
+    date: '2007'
+    iata: ''
+    coordinates: '4652N 02804E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'RO GNU'
+    name: Grindu
+    namewodiacritics: Grindu
+    subdiv: IL
+    function: '--3-----'
+    status: AM
+    date: '2101'
+    iata: ''
+    coordinates: '4446N 02655E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'RO GTB'
+    name: 'Grosii Tiblesului'
+    namewodiacritics: 'Grosii Tiblesului'
+    subdiv: MM
+    function: '--3-----'
+    status: AM
+    date: '2107'
+    iata: ''
+    coordinates: '4729N 02404E'
+    remarks: ''
+-
+    ch: ''
     locode: 'RO GRA'
     name: Gruia
     namewodiacritics: Gruia
@@ -2460,6 +3192,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'RO GCN'
+    name: 'Gura Cîlnaului'
+    namewodiacritics: 'Gura Cilnaului'
+    subdiv: BZ
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '4511N 02650E'
+    remarks: ''
+-
+    ch: +
+    locode: 'RO GHI'
+    name: 'Gura Humorului'
+    namewodiacritics: 'Gura Humorului'
+    subdiv: SV
+    function: '-23-----'
+    status: AM
+    date: '2201'
+    iata: ''
+    coordinates: '4733N 02554E'
+    remarks: ''
+-
+    ch: ''
     locode: 'RO GVD'
     name: 'Gura Vadului'
     namewodiacritics: 'Gura Vadului'
@@ -2469,6 +3225,30 @@
     date: '1101'
     iata: ''
     coordinates: '4503N 02628E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'RO GHO'
+    name: Gurahont
+    namewodiacritics: Gurahont
+    subdiv: AR
+    function: '--3-----'
+    status: AM
+    date: '2107'
+    iata: ''
+    coordinates: '4616N 02221E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'RO GRI'
+    name: Gurani
+    namewodiacritics: Gurani
+    subdiv: BH
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '4636N 02233E'
     remarks: ''
 -
     ch: ''
@@ -2568,6 +3348,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'RO HDS'
+    name: 'Hidiselu de Sus'
+    namewodiacritics: 'Hidiselu de Sus'
+    subdiv: BH
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '4657N 02203E'
+    remarks: ''
+-
+    ch: ''
     locode: 'RO HTI'
     name: Hintesti
     namewodiacritics: Hintesti
@@ -2601,6 +3393,30 @@
     date: '0901'
     iata: ''
     coordinates: '4638N 02449E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'RO HOZ'
+    name: Hoghiz
+    namewodiacritics: Hoghiz
+    subdiv: BV
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4559N 02518E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'RO HOR'
+    name: Horezu
+    namewodiacritics: Horezu
+    subdiv: GJ
+    function: '--3-5---'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '4509N 02318E'
     remarks: ''
 -
     ch: ''
@@ -2682,9 +3498,33 @@
     subdiv: DB
     function: '--3-----'
     status: RL
-    date: '0901'
+    date: '1707'
     iata: ''
-    coordinates: '4449N 25340E'
+    coordinates: '4449N 02534E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'RO IVM'
+    name: 'Ilva Mica'
+    namewodiacritics: 'Ilva Mica'
+    subdiv: BN
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '4719N 02440E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'RO IBZ'
+    name: 'Intorsura Buzaului'
+    namewodiacritics: 'Intorsura Buzaului'
+    subdiv: CV
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '4541N 02602E'
     remarks: ''
 -
     ch: ''
@@ -2724,6 +3564,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'RO IZV'
+    name: Izvin
+    namewodiacritics: Izvin
+    subdiv: TM
+    function: '-23-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '4548N 02127E'
+    remarks: ''
+-
+    ch: ''
     locode: 'RO JRT'
     name: Jaristea
     namewodiacritics: Jaristea
@@ -2733,6 +3585,18 @@
     date: '1201'
     iata: ''
     coordinates: '4547N 02704E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'RO JB9'
+    name: Jibou
+    namewodiacritics: Jibou
+    subdiv: SJ
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '4716N 02315E'
     remarks: ''
 -
     ch: ''
@@ -2772,6 +3636,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'RO JOI'
+    name: Joita
+    namewodiacritics: Joita
+    subdiv: GR
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '4429N 02551E'
+    remarks: ''
+-
+    ch: ''
     locode: 'RO RZK'
     name: Jucu-Herghelia
     namewodiacritics: Jucu-Herghelia
@@ -2805,6 +3681,18 @@
     date: '1001'
     iata: ''
     coordinates: '4808N 02209E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'RO SLL'
+    name: Lalosu
+    namewodiacritics: Lalosu
+    subdiv: VL
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '4433N 02401E'
     remarks: ''
 -
     ch: ''
@@ -2856,6 +3744,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'RO LER'
+    name: Leresti
+    namewodiacritics: Leresti
+    subdiv: AG
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4520N 02504E'
+    remarks: ''
+-
+    ch: ''
     locode: 'RO LTI'
     name: Liesti
     namewodiacritics: Liesti
@@ -2877,6 +3777,30 @@
     date: '1207'
     iata: ''
     coordinates: '4605N 02141E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'RO 5LI'
+    name: Livezeni
+    namewodiacritics: Livezeni
+    subdiv: MS
+    function: 1----6--
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '4633N 02438E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'RO LZI'
+    name: Livezi
+    namewodiacritics: Livezi
+    subdiv: BC
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '4624N 02644E'
     remarks: ''
 -
     ch: ''
@@ -2940,6 +3864,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'RO LUN'
+    name: Lungeni
+    namewodiacritics: Lungeni
+    subdiv: SV
+    function: '--3-----'
+    status: RL
+    date: '2001'
+    iata: ''
+    coordinates: '4715N 02543E'
+    remarks: ''
+-
+    ch: ''
     locode: 'RO LGU'
     name: Lunguletu
     namewodiacritics: Lunguletu
@@ -2988,15 +3924,51 @@
     remarks: ''
 -
     ch: ''
+    locode: 'RO BH3'
+    name: Madaras
+    namewodiacritics: Madaras
+    subdiv: BH
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4650N 02141E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'RO MAE'
+    name: Magesti
+    namewodiacritics: Magesti
+    subdiv: BH
+    function: '--3-----'
+    status: AM
+    date: '2107'
+    iata: ''
+    coordinates: '4701N 02227E'
+    remarks: ''
+-
+    ch: ''
     locode: 'RO MGH'
     name: Magheru
     namewodiacritics: Magheru
     subdiv: MH
     function: '--3-----'
     status: RL
-    date: '0901'
+    date: '1707'
     iata: ''
-    coordinates: '4465N 22630E'
+    coordinates: '4439N 02237E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'RO MGR'
+    name: Magurele
+    namewodiacritics: Magurele
+    subdiv: IF
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '4421N 02602E'
     remarks: ''
 -
     ch: ''
@@ -3048,6 +4020,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'RO MAN'
+    name: Manastireni
+    namewodiacritics: Manastireni
+    subdiv: CJ
+    function: '--3-----'
+    status: AM
+    date: '2101'
+    iata: ''
+    coordinates: '4646N 02305E'
+    remarks: ''
+-
+    ch: ''
     locode: 'RO MAG'
     name: Mangalia
     namewodiacritics: Mangalia
@@ -3072,6 +4056,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'RO MAR'
+    name: Marghita
+    namewodiacritics: Marghita
+    subdiv: BH
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '4721N 02220E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'RO MG5'
+    name: Marginea
+    namewodiacritics: Marginea
+    subdiv: SV
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '4749N 02549E'
+    remarks: ''
+-
+    ch: ''
     locode: 'RO RZM'
     name: Margineni
     namewodiacritics: Margineni
@@ -3081,6 +4089,30 @@
     date: '0901'
     iata: ''
     coordinates: '4636N 02654E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'RO MAA'
+    name: Matasaru
+    namewodiacritics: Matasaru
+    subdiv: DB
+    function: '--3-----'
+    status: AM
+    date: '2101'
+    iata: ''
+    coordinates: '4443N 02526E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'RO MAT'
+    name: Matca
+    namewodiacritics: Matca
+    subdiv: GL
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '4551N 02732E'
     remarks: ''
 -
     ch: ''
@@ -3240,6 +4272,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'RO MRA'
+    name: Mirila
+    namewodiacritics: Mirila
+    subdiv: OT
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '4422N 02409E'
+    remarks: ''
+-
+    ch: ''
     locode: 'RO RZA'
     name: Mizil
     namewodiacritics: Mizil
@@ -3249,6 +4293,18 @@
     date: '0901'
     iata: ''
     coordinates: '4501N 02627E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'RO MAV'
+    name: Moara
+    namewodiacritics: Moara
+    subdiv: PH
+    function: '--3-----'
+    status: RL
+    date: '2001'
+    iata: ''
+    coordinates: '4450N 02604E'
     remarks: ''
 -
     ch: ''
@@ -3348,6 +4404,66 @@
     remarks: ''
 -
     ch: ''
+    locode: 'RO MTE'
+    name: Motatei
+    namewodiacritics: Motatei
+    subdiv: DJ
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '4405N 02312E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'RO MOT'
+    name: Motru
+    namewodiacritics: Motru
+    subdiv: GJ
+    function: '--3-5---'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '4448N 02258E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'RO MVC'
+    name: 'Movila Verde'
+    namewodiacritics: 'Movila Verde'
+    subdiv: CT
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '4358N 02808E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'RO MUT'
+    name: Munteni
+    namewodiacritics: Munteni
+    subdiv: BH
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '4654N 02241E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'RO MUN'
+    name: Muntenii
+    namewodiacritics: Muntenii
+    subdiv: GL
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '4555N 02726E'
+    remarks: ''
+-
+    ch: ''
     locode: 'RO MSN'
     name: Mureseni
     namewodiacritics: Mureseni
@@ -3369,6 +4485,18 @@
     date: '0307'
     iata: ''
     coordinates: '4411N 02825E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'RO MUS'
+    name: Musca
+    namewodiacritics: Musca
+    subdiv: AB
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '4622N 02310E'
     remarks: ''
 -
     ch: ''
@@ -3419,7 +4547,7 @@
     coordinates: '4632N 02430E'
     remarks: ''
 -
-    ch: +
+    ch: ''
     locode: 'RO NDE'
     name: Nedelea
     namewodiacritics: Nedelea
@@ -3480,6 +4608,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'RO NCL'
+    name: Niculitel
+    namewodiacritics: Niculitel
+    subdiv: TL
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '4511N 02829E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'RO NFN'
+    name: Nifon
+    namewodiacritics: Nifon
+    subdiv: TL
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '4509N 02822E'
+    remarks: ''
+-
+    ch: ''
     locode: 'RO NVA'
     name: Novacu
     namewodiacritics: Novacu
@@ -3501,6 +4653,18 @@
     date: '0701'
     iata: ''
     coordinates: '4601N 02335E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'RO OAJ'
+    name: Oarja
+    namewodiacritics: Oarja
+    subdiv: AG
+    function: '--3-----'
+    status: RL
+    date: '1707'
+    iata: ''
+    coordinates: '4446N 02458E'
     remarks: ''
 -
     ch: ''
@@ -3576,6 +4740,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'RO TM5'
+    name: Olosag
+    namewodiacritics: Olosag
+    subdiv: TM
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4536N 02157E'
+    remarks: ''
+-
+    ch: ''
     locode: 'RO OLT'
     name: Oltenita
     namewodiacritics: Oltenita
@@ -3585,6 +4761,18 @@
     date: '1101'
     iata: ''
     coordinates: '4405N 02639E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'RO ROI'
+    name: Onesti
+    namewodiacritics: Onesti
+    subdiv: IS
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '4729N 02707E'
     remarks: ''
 -
     ch: ''
@@ -3648,6 +4836,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'RO ORT'
+    name: Orlesti
+    namewodiacritics: Orlesti
+    subdiv: VL
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '4448N 02413E'
+    remarks: ''
+-
+    ch: ''
     locode: 'RO ODL'
     name: Orodelu
     namewodiacritics: Orodelu
@@ -3672,13 +4872,25 @@
     remarks: ''
 -
     ch: ''
+    locode: 'RO OSA'
+    name: Ortisoara
+    namewodiacritics: Ortisoara
+    subdiv: TM
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '4557N 02111E'
+    remarks: ''
+-
+    ch: ''
     locode: 'RO OTI'
     name: Otopeni
     namewodiacritics: Otopeni
-    subdiv: B
+    subdiv: IF
     function: '--3-----'
     status: RL
-    date: '1101'
+    date: '1407'
     iata: ''
     coordinates: '4433N 02604E'
     remarks: ''
@@ -3687,12 +4899,12 @@
     locode: 'RO OTP'
     name: 'Otopeni Apt/Bucuresti'
     namewodiacritics: 'Otopeni Apt/Bucuresti'
-    subdiv: ''
+    subdiv: IF
     function: '---4----'
     status: AI
-    date: '9601'
+    date: '1407'
     iata: ''
-    coordinates: ''
+    coordinates: '4434N 02605E'
     remarks: ''
 -
     ch: ''
@@ -3780,6 +4992,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'RO S3R'
+    name: Parscov
+    namewodiacritics: Parscov
+    subdiv: BZ
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '4517N 02633E'
+    remarks: ''
+-
+    ch: ''
     locode: 'RO PAR'
     name: Parta
     namewodiacritics: Parta
@@ -3789,6 +5013,18 @@
     date: '1007'
     iata: ''
     coordinates: '4538N 02108E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'RO PCI'
+    name: Pascani
+    namewodiacritics: Pascani
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0501'
+    iata: ''
+    coordinates: '4715N 02644E'
     remarks: ''
 -
     ch: ''
@@ -3804,15 +5040,15 @@
     remarks: ''
 -
     ch: ''
-    locode: 'RO PCI'
-    name: Pascani
-    namewodiacritics: Pascani
-    subdiv: ''
+    locode: 'RO PAT'
+    name: Patrauti
+    namewodiacritics: Patrauti
+    subdiv: SV
     function: '--3-----'
-    status: RL
-    date: '0501'
+    status: AM
+    date: '2007'
     iata: ''
-    coordinates: '4715N 02644E'
+    coordinates: '4743N 02612E'
     remarks: ''
 -
     ch: ''
@@ -3839,6 +5075,18 @@
     coordinates: '4508N 02415E'
     remarks: ''
 -
+    ch: +
+    locode: 'RO PEA'
+    name: Pechea
+    namewodiacritics: Pechea
+    subdiv: GL
+    function: '--3-----'
+    status: AM
+    date: '2201'
+    iata: ''
+    coordinates: '4538N 02748E'
+    remarks: ''
+-
     ch: ''
     locode: 'RO PCA'
     name: Pecica
@@ -3849,6 +5097,18 @@
     date: '0407'
     iata: ''
     coordinates: '4610N 02104E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'RO PCT'
+    name: Pecineaga
+    namewodiacritics: Pecineaga
+    subdiv: CT
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '4354N 02830E'
     remarks: ''
 -
     ch: ''
@@ -4068,6 +5328,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'RO CIA'
+    name: Pociovalistea
+    namewodiacritics: Pociovalistea
+    subdiv: GJ
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '4509N 02339E'
+    remarks: ''
+-
+    ch: ''
     locode: 'RO PDR'
     name: Podari
     namewodiacritics: Podari
@@ -4176,6 +5448,42 @@
     remarks: ''
 -
     ch: ''
+    locode: 'RO PBM'
+    name: 'Porumbenii Mici'
+    namewodiacritics: 'Porumbenii Mici'
+    subdiv: HR
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4616N 02506E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'RO POS'
+    name: Posoloaca
+    namewodiacritics: Posoloaca
+    subdiv: BH
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '4704N 02212E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'RO PRJ'
+    name: Preajba
+    namewodiacritics: Preajba
+    subdiv: MM
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '4415N 02351E'
+    remarks: ''
+-
+    ch: ''
     locode: 'RO PRE'
     name: Prejmer
     namewodiacritics: Prejmer
@@ -4204,11 +5512,11 @@
     name: Pucioasa
     namewodiacritics: Pucioasa
     subdiv: DB
-    function: '-----6--'
+    function: '--3-----'
     status: RL
-    date: '0901'
+    date: '1707'
     iata: ''
-    coordinates: '4550N 25250E'
+    coordinates: '4504N 02526E'
     remarks: ''
 -
     ch: ''
@@ -4224,6 +5532,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'RO RDU'
+    name: Radauti
+    namewodiacritics: Radauti
+    subdiv: SV
+    function: '--3-----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: '4751N 02555E'
+    remarks: ''
+-
+    ch: ''
     locode: 'RO RAU'
     name: Radauti
     namewodiacritics: Radauti
@@ -4236,15 +5556,15 @@
     remarks: ''
 -
     ch: ''
-    locode: 'RO RDU'
-    name: Radauti
-    namewodiacritics: Radauti
-    subdiv: SV
+    locode: 'RO RMS'
+    name: 'Ramnicu Sarat'
+    namewodiacritics: 'Ramnicu Sarat'
+    subdiv: BZ
     function: '--3-----'
-    status: RQ
-    date: '0901'
+    status: RL
+    date: '1601'
     iata: ''
-    coordinates: '4751N 02555E'
+    coordinates: '4522N 02703E'
     remarks: ''
 -
     ch: ''
@@ -4281,6 +5601,18 @@
     date: '0501'
     iata: ''
     coordinates: '4625N 02352E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'RO RBR'
+    name: Rebra
+    namewodiacritics: Rebra
+    subdiv: BN
+    function: '--3-----'
+    status: RL
+    date: '2001'
+    iata: ''
+    coordinates: '4719N 02430E'
     remarks: ''
 -
     ch: ''
@@ -4404,6 +5736,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'RO RIS'
+    name: Risca
+    namewodiacritics: Risca
+    subdiv: HD
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '4611N 02242E'
+    remarks: ''
+-
+    ch: ''
     locode: 'RO RMN'
     name: Roman
     namewodiacritics: Roman
@@ -4452,6 +5796,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'RO ROS'
+    name: 'Rosiorii de Vede'
+    namewodiacritics: 'Rosiorii de Vede'
+    subdiv: TR
+    function: '-----6--'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '4406N 02459E'
+    remarks: ''
+-
+    ch: ''
     locode: 'RO ROV'
     name: Rovinari
     namewodiacritics: Rovinari
@@ -4485,6 +5841,18 @@
     date: '0501'
     iata: ''
     coordinates: '4523N 02511E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'RO RUG'
+    name: Rugetu
+    namewodiacritics: Rugetu
+    subdiv: VL
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '4500N 02415E'
     remarks: ''
 -
     ch: ''
@@ -4548,6 +5916,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'RO BHR'
+    name: Salard
+    namewodiacritics: Salard
+    subdiv: BH
+    function: '-----6--'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '4713N 02203E'
+    remarks: ''
+-
+    ch: ''
     locode: 'RO SDJ'
     name: 'Salciua de Jos'
     namewodiacritics: 'Salciua de Jos'
@@ -4596,6 +5976,78 @@
     remarks: ''
 -
     ch: ''
+    locode: 'RO SNC'
+    name: Sancraieni
+    namewodiacritics: Sancraieni
+    subdiv: HR
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '4618N 02550E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'RO SNL'
+    name: Sanleani
+    namewodiacritics: Sanleani
+    subdiv: AR
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '4612N 02123E'
+    remarks: ''
+-
+    ch: +
+    locode: 'RO SUM'
+    name: 'Sannicolau Mare'
+    namewodiacritics: 'Sannicolau Mare'
+    subdiv: TM
+    function: '--3-----'
+    status: AM
+    date: '2201'
+    iata: ''
+    coordinates: '4605N 02038E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'RO STN'
+    name: Sântana
+    namewodiacritics: Santana
+    subdiv: AR
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '4621N 02130E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'RO SDI'
+    name: Sântandrei
+    namewodiacritics: Santandrei
+    subdiv: BH
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '4704N 02151E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'RO SSU'
+    name: Sarasau
+    namewodiacritics: Sarasau
+    subdiv: MM
+    function: '--3-----'
+    status: AM
+    date: '2107'
+    iata: ''
+    coordinates: '4757N 02349E'
+    remarks: ''
+-
+    ch: ''
     locode: 'RO RTA'
     name: Sarata
     namewodiacritics: Sarata
@@ -4605,6 +6057,18 @@
     date: '1301'
     iata: ''
     coordinates: '4705N 02427E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'RO SRT'
+    name: Sarata
+    namewodiacritics: Sarata
+    subdiv: BC
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '4630N 02650E'
     remarks: ''
 -
     ch: ''
@@ -4644,6 +6108,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'RO LCV'
+    name: 'Sat Luncavita'
+    namewodiacritics: 'Sat Luncavita'
+    subdiv: TL
+    function: '--3-----'
+    status: AM
+    date: '2007'
+    iata: ''
+    coordinates: '4517N 02816E'
+    remarks: ''
+-
+    ch: ''
     locode: 'RO SVD'
     name: 'Sat Valea Draganului'
     namewodiacritics: 'Sat Valea Draganului'
@@ -4680,15 +6156,27 @@
     remarks: ''
 -
     ch: ''
+    locode: 'RO SDL'
+    name: Savadisla
+    namewodiacritics: Savadisla
+    subdiv: CJ
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '4641N 02327E'
+    remarks: ''
+-
+    ch: ''
     locode: 'RO SAV'
     name: Saveni
     namewodiacritics: Saveni
     subdiv: BT
     function: '--3-----'
     status: RL
-    date: '0901'
+    date: '1707'
     iata: ''
-    coordinates: '4757N 26520E'
+    coordinates: '4757N 02651E'
     remarks: ''
 -
     ch: ''
@@ -4716,6 +6204,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'RO SCO'
+    name: Scornicesti
+    namewodiacritics: Scornicesti
+    subdiv: OT
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '4434N 02433E'
+    remarks: ''
+-
+    ch: ''
     locode: 'RO SBS'
     name: 'Sebes, Alba'
     namewodiacritics: 'Sebes, Alba'
@@ -4740,6 +6240,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'RO DOJ'
+    name: Segarcea
+    namewodiacritics: Segarcea
+    subdiv: DJ
+    function: '-----6--'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '4406N 02345E'
+    remarks: ''
+-
+    ch: ''
     locode: 'RO SNI'
     name: Seini
     namewodiacritics: Seini
@@ -4761,6 +6273,18 @@
     date: '0212'
     iata: ''
     coordinates: '4606N 02051E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'RO SEL'
+    name: Selimbar
+    namewodiacritics: Selimbar
+    subdiv: SB
+    function: '-----6--'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '4546N 02412E'
     remarks: ''
 -
     ch: ''
@@ -4824,6 +6348,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'RO SMN'
+    name: Simian
+    namewodiacritics: Simian
+    subdiv: BH
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4729N 02206E'
+    remarks: ''
+-
+    ch: ''
     locode: 'RO SJS'
     name: 'Simleu Silvaniei'
     namewodiacritics: 'Simleu Silvaniei'
@@ -4884,6 +6420,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'RO SGM'
+    name: 'Sîngeorgiu de Mures'
+    namewodiacritics: 'Singeorgiu de Mures'
+    subdiv: MS
+    function: '--3-----'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '4634N 02436E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'RO SMR'
+    name: Sînmartin
+    namewodiacritics: Sinmartin
+    subdiv: CJ
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '4654N 02334E'
+    remarks: ''
+-
+    ch: ''
     locode: 'RO SIN'
     name: 'Sinnicolau Mare'
     namewodiacritics: 'Sinnicolau Mare'
@@ -4893,6 +6453,18 @@
     date: '0907'
     iata: ''
     coordinates: '4640N 02037E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'RO 4SB'
+    name: Sinpetru
+    namewodiacritics: Sinpetru
+    subdiv: BV
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '4543N 02538E'
     remarks: ''
 -
     ch: ''
@@ -4947,12 +6519,48 @@
     locode: 'RO SLA'
     name: Slatina
     namewodiacritics: Slatina
-    subdiv: ''
+    subdiv: OT
     function: '--3-----'
     status: QQ
-    date: '0212'
+    date: '2001'
     iata: ''
-    coordinates: ''
+    coordinates: '4426N 02422E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'RO STR'
+    name: Slatioara
+    namewodiacritics: Slatioara
+    subdiv: OT
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '4424N 02419E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'RO SCZ'
+    name: 'Slava Cercheza'
+    namewodiacritics: 'Slava Cercheza'
+    subdiv: CT
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '4424N 02833E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'RO SRS'
+    name: 'Slava Rusa'
+    namewodiacritics: 'Slava Rusa'
+    subdiv: TL
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '4451N 02836E'
     remarks: ''
 -
     ch: ''
@@ -5051,7 +6659,7 @@
     coordinates: '4502N 02618E'
     remarks: ''
 -
-    ch: +
+    ch: ''
     locode: 'RO SOU'
     name: Soimus
     namewodiacritics: Soimus
@@ -5094,9 +6702,9 @@
     subdiv: VN
     function: '--3-----'
     status: RL
-    date: '0901'
+    date: '1707'
     iata: ''
-    coordinates: '4600N 26039E'
+    coordinates: '4600N 02639E'
     remarks: ''
 -
     ch: ''
@@ -5244,6 +6852,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'RO TAL'
+    name: Talea
+    namewodiacritics: Talea
+    subdiv: PH
+    function: '--3-----'
+    status: RL
+    date: '2001'
+    iata: ''
+    coordinates: '4513N 02533E'
+    remarks: ''
+-
+    ch: ''
     locode: 'RO TAM'
     name: Tamna
     namewodiacritics: Tamna
@@ -5253,6 +6873,30 @@
     date: '1107'
     iata: ''
     coordinates: '4434N 02301E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'RO BNS'
+    name: Tancabesti
+    namewodiacritics: Tancabesti
+    subdiv: IF
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '4442N 02610E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'RO TDE'
+    name: Tandarei
+    namewodiacritics: Tandarei
+    subdiv: IL
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4439N 02740E'
     remarks: ''
 -
     ch: ''
@@ -5277,6 +6921,42 @@
     date: '0307'
     iata: ''
     coordinates: '4456N 02527E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'RO TAG'
+    name: 'Targsoru Nou'
+    namewodiacritics: 'Targsoru Nou'
+    subdiv: PH
+    function: '--3-----'
+    status: RL
+    date: '2001'
+    iata: ''
+    coordinates: '4454N 02552E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'RO TFR'
+    name: 'Targu Frumos'
+    namewodiacritics: 'Targu Frumos'
+    subdiv: IS
+    function: '-23-----'
+    status: AM
+    date: '2007'
+    iata: ''
+    coordinates: '4712N 02700E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'RO TGU'
+    name: 'Târgu Jiu'
+    namewodiacritics: 'Targu Jiu'
+    subdiv: GJ
+    function: '--3-----'
+    status: RL
+    date: '2001'
+    iata: ''
+    coordinates: '4503N 02317E'
     remarks: ''
 -
     ch: ''
@@ -5352,6 +7032,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'RO TAS'
+    name: Tasnad
+    namewodiacritics: Tasnad
+    subdiv: SM
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4729N 02235E'
+    remarks: ''
+-
+    ch: ''
     locode: 'RO TCC'
     name: Tecuci
     namewodiacritics: Tecuci
@@ -5361,6 +7053,18 @@
     date: '1107'
     iata: ''
     coordinates: '4552N 02725E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'RO TEU'
+    name: Teius
+    namewodiacritics: Teius
+    subdiv: AB
+    function: '--3-----'
+    status: RL
+    date: '2001'
+    iata: ''
+    coordinates: '4612N 02341E'
     remarks: ''
 -
     ch: ''
@@ -5409,6 +7113,18 @@
     date: '0601'
     iata: ''
     coordinates: '4453N 02323E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'RO TFT'
+    name: Tifesti
+    namewodiacritics: Tifesti
+    subdiv: VN
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '4551N 02706E'
     remarks: ''
 -
     ch: ''
@@ -5472,6 +7188,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'RO 6BT'
+    name: Tincabesti
+    namewodiacritics: Tincabesti
+    subdiv: B
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '4441N 02605E'
+    remarks: ''
+-
+    ch: ''
     locode: 'RO TIN'
     name: Tintesti
     namewodiacritics: Tintesti
@@ -5520,6 +7248,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'RO TIT'
+    name: Titu
+    namewodiacritics: Titu
+    subdiv: DB
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '4439N 02532E'
+    remarks: ''
+-
+    ch: ''
     locode: 'RO OAA'
     name: Toaca
     namewodiacritics: Toaca
@@ -5544,6 +7284,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'RO TOI'
+    name: Tomesti
+    namewodiacritics: Tomesti
+    subdiv: IS
+    function: '--3-----'
+    status: RL
+    date: '2001'
+    iata: ''
+    coordinates: '4707N 02741E'
+    remarks: ''
+-
+    ch: ''
     locode: 'RO TNI'
     name: 'Tonesti, Olt'
     namewodiacritics: 'Tonesti, Olt'
@@ -5556,6 +7308,42 @@
     remarks: ''
 -
     ch: ''
+    locode: 'RO TPL'
+    name: Topolog
+    namewodiacritics: Topolog
+    subdiv: TL
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '4453N 02822E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'RO TTI'
+    name: Totesti
+    namewodiacritics: Totesti
+    subdiv: HD
+    function: '--3-----'
+    status: AM
+    date: '2107'
+    iata: ''
+    coordinates: '4534N 02253E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'RO TRA'
+    name: Traisteni
+    namewodiacritics: Traisteni
+    subdiv: PH
+    function: '--3-----'
+    status: AM
+    date: '2007'
+    iata: ''
+    coordinates: '4521N 02543E'
+    remarks: ''
+-
+    ch: ''
     locode: 'RO TCE'
     name: Tulcea
     namewodiacritics: Tulcea
@@ -5565,6 +7353,18 @@
     date: '1101'
     iata: ''
     coordinates: '4511N 02848E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'RO TGH'
+    name: Tulghes
+    namewodiacritics: Tulghes
+    subdiv: HR
+    function: '-23-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '4657N 02546E'
     remarks: ''
 -
     ch: ''
@@ -5589,6 +7389,30 @@
     date: '1101'
     iata: ''
     coordinates: '4634N 02347E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'RO TUC'
+    name: Tureac
+    namewodiacritics: Tureac
+    subdiv: BN
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '4713N 02446E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'RO TR5'
+    name: Tureni
+    namewodiacritics: Tureni
+    subdiv: CJ
+    function: 1----6--
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '4637N 02342E'
     remarks: ''
 -
     ch: ''
@@ -5664,6 +7488,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'RO UN7'
+    name: Ungheni
+    namewodiacritics: Ungheni
+    subdiv: MS
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '4629N 02428E'
+    remarks: ''
+-
+    ch: ''
     locode: 'RO URA'
     name: Unirea
     namewodiacritics: Unirea
@@ -5733,6 +7569,18 @@
     date: '0601'
     iata: ''
     coordinates: '4753N 02357E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'RO VDP'
+    name: 'Vadu Pasii'
+    namewodiacritics: 'Vadu Pasii'
+    subdiv: BZ
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '4510N 02654E'
     remarks: ''
 -
     ch: ''
@@ -5988,6 +7836,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'RO VRA'
+    name: Virtescoiu
+    namewodiacritics: Virtescoiu
+    subdiv: VN
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '4544N 02705E'
+    remarks: ''
+-
+    ch: ''
     locode: 'RO VDS'
     name: 'Viseu de Sus'
     namewodiacritics: 'Viseu de Sus'
@@ -6045,6 +7905,18 @@
     date: '0507'
     iata: ''
     coordinates: '4459N 02636E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'RO VOI'
+    name: Voiniceni
+    namewodiacritics: Voiniceni
+    subdiv: MS
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '4637N 02432E'
     remarks: ''
 -
     ch: ''

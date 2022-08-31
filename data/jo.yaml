@@ -12,6 +12,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'JO DUL'
+    name: Ad-Dulayl
+    namewodiacritics: Ad-Dulayl
+    subdiv: AZ
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '3207N 03616E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'JO AJL'
+    name: Ajloun
+    namewodiacritics: Ajloun
+    subdiv: AJ
+    function: '--3-----'
+    status: AM
+    date: '2107'
+    iata: ''
+    coordinates: '3220N 03543E'
+    remarks: ''
+-
+    ch: ''
     locode: 'JO AQJ'
     name: 'Al ''Aqabah'
     namewodiacritics: 'Al ''Aqabah'
@@ -48,6 +72,42 @@
     remarks: ''
 -
     ch: ''
+    locode: 'JO 8AJ'
+    name: 'Al Jizah'
+    namewodiacritics: 'Al Jizah'
+    subdiv: AM
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '3142N 03557E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'JO SLT'
+    name: 'Al Salt'
+    namewodiacritics: 'Al Salt'
+    subdiv: BA
+    function: '--3-----'
+    status: AM
+    date: '2107'
+    iata: ''
+    coordinates: '3201N 03543E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'JO KAR'
+    name: Al-Karak
+    namewodiacritics: Al-Karak
+    subdiv: KA
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '3111N 03542E'
+    remarks: ''
+-
+    ch: ''
     locode: 'JO AMM'
     name: Amman
     namewodiacritics: Amman
@@ -69,6 +129,18 @@
     date: '0701'
     iata: ''
     coordinates: '2931N 03500E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'JO ARM'
+    name: 'Ar Ramtha'
+    namewodiacritics: 'Ar Ramtha'
+    subdiv: IR
+    function: '--3-----'
+    status: AM
+    date: '2107'
+    iata: ''
+    coordinates: '3233N 03600E'
     remarks: ''
 -
     ch: ''
@@ -96,6 +168,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'JO TFH'
+    name: 'At Tafilah'
+    namewodiacritics: 'At Tafilah'
+    subdiv: AT
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3050N 03536E'
+    remarks: ''
+-
+    ch: ''
     locode: 'JO ZAR'
     name: 'Az Zarqa'''
     namewodiacritics: 'Az Zarqa'''
@@ -117,6 +201,18 @@
     date: '9901'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'JO JAR'
+    name: Jerash
+    namewodiacritics: Jerash
+    subdiv: JA
+    function: '--3-----'
+    status: AM
+    date: '2107'
+    iata: ''
+    coordinates: '3216N 03553E'
     remarks: ''
 -
     ch: ''
@@ -189,6 +285,30 @@
     date: '1101'
     iata: ''
     coordinates: '3152N 03600E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'JO IHS'
+    name: 'Sheikh Hussein Bridge'
+    namewodiacritics: 'Sheikh Hussein Bridge'
+    subdiv: IR
+    function: '-------B'
+    status: RL
+    date: '1707'
+    iata: ''
+    coordinates: '3229N 03534E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'JO SHO'
+    name: Shoubak
+    namewodiacritics: Shoubak
+    subdiv: MN
+    function: '--3-----'
+    status: RL
+    date: '1707'
+    iata: ''
+    coordinates: '3031N 03533E'
     remarks: ''
 -
     ch: ''

@@ -36,6 +36,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'TD AJR'
+    name: Amdjarass
+    namewodiacritics: Amdjarass
+    subdiv: EE
+    function: '--3-----'
+    status: AM
+    date: '2007'
+    iata: ''
+    coordinates: '1603N 02250E'
+    remarks: ''
+-
+    ch: ''
     locode: 'TD ATV'
     name: Ati
     namewodiacritics: Ati
@@ -48,6 +60,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'TD BAD'
+    name: Badila
+    namewodiacritics: Badila
+    subdiv: LR
+    function: '--3-----'
+    status: RL
+    date: '1707'
+    iata: ''
+    coordinates: '0821N 01617E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TD BGA'
+    name: 'Baga Sola'
+    namewodiacritics: 'Baga Sola'
+    subdiv: LC
+    function: '--3-----'
+    status: AM
+    date: '2007'
+    iata: ''
+    coordinates: '1332N 01418E'
+    remarks: ''
+-
+    ch: ''
     locode: 'TD BND'
     name: Banda
     namewodiacritics: Banda
@@ -57,6 +93,18 @@
     date: '0212'
     iata: ''
     coordinates: '0909N 01822E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TD BNB'
+    name: Bitkine
+    namewodiacritics: Bitkine
+    subdiv: GR
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '1158N 01812E'
     remarks: ''
 -
     ch: ''
@@ -108,6 +156,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'TD CHG'
+    name: Chagoua
+    namewodiacritics: Chagoua
+    subdiv: CB
+    function: '-----6--'
+    status: AM
+    date: '2007'
+    iata: ''
+    coordinates: '1205N 01505E'
+    remarks: ''
+-
+    ch: ''
     locode: 'TD DOB'
     name: Doba
     namewodiacritics: Doba
@@ -143,7 +203,7 @@
     coordinates: ''
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'TD GAY'
     name: Gaya
     namewodiacritics: Gaya
@@ -153,7 +213,55 @@
     date: '1307'
     iata: ''
     coordinates: '1354N 01530E'
-    remarks: '@Sub'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TD GOR'
+    name: Gore
+    namewodiacritics: Gore
+    subdiv: LR
+    function: '--3-----'
+    status: AM
+    date: '2007'
+    iata: ''
+    coordinates: '0755N 01638E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TD GZB'
+    name: 'Goz Beida'
+    namewodiacritics: 'Goz Beida'
+    subdiv: SI
+    function: '--34----'
+    status: AM
+    date: '2007'
+    iata: ''
+    coordinates: '1213N 02124E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TD GRD'
+    name: Guereda
+    namewodiacritics: Guereda
+    subdiv: WF
+    function: '--3-----'
+    status: AM
+    date: '2007'
+    iata: ''
+    coordinates: '1431N 02205E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TD IRI'
+    name: Iriba
+    namewodiacritics: Iriba
+    subdiv: WF
+    function: '--3-----'
+    status: AM
+    date: '2007'
+    iata: ''
+    coordinates: '1507N 02215E'
+    remarks: ''
 -
     ch: ''
     locode: 'TD KEL'
@@ -204,6 +312,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'TD KMC'
+    name: Kyabé
+    namewodiacritics: Kyabe
+    subdiv: MC
+    function: '--34----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '0927N 01857E'
+    remarks: ''
+-
+    ch: ''
     locode: 'TD LTC'
     name: Lai
     namewodiacritics: Lai
@@ -215,7 +335,7 @@
     coordinates: ''
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'TD LER'
     name: Léré
     namewodiacritics: Lere
@@ -225,7 +345,19 @@
     date: '1307'
     iata: ''
     coordinates: '0939N 01413E'
-    remarks: '@Sub'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TD MGR'
+    name: Mangara
+    namewodiacritics: Mangara
+    subdiv: MC
+    function: '--3-----'
+    status: RL
+    date: '1707'
+    iata: ''
+    coordinates: '0859N 01805E'
+    remarks: ''
 -
     ch: ''
     locode: 'TD AMO'
@@ -249,6 +381,18 @@
     date: '9601'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'TD 2GR'
+    name: Mongo
+    namewodiacritics: Mongo
+    subdiv: GR
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '1211N 01842E'
     remarks: ''
 -
     ch: ''

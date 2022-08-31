@@ -3,7 +3,7 @@
     locode: 'EE AAR'
     name: Aaravete
     namewodiacritics: Aaravete
-    subdiv: '51'
+    subdiv: '52'
     function: '--3-----'
     status: RL
     date: '1301'
@@ -36,6 +36,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'EE ABJ'
+    name: 'Abaja Sadam'
+    namewodiacritics: 'Abaja Sadam'
+    subdiv: '74'
+    function: 1-------
+    status: AA
+    date: '1801'
+    iata: ''
+    coordinates: '5822N 02201E'
+    remarks: ''
+-
+    ch: ''
     locode: 'EE APL'
     name: Abja-Paluoja
     namewodiacritics: Abja-Paluoja
@@ -60,6 +72,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'EE ADV'
+    name: 'Admirali Väikesadam'
+    namewodiacritics: 'Admirali Vaikesadam'
+    subdiv: '68'
+    function: 1-------
+    status: AA
+    date: '1407'
+    iata: ''
+    coordinates: '5832N 02341E'
+    remarks: ''
+-
+    ch: ''
     locode: 'EE AEN'
     name: Aegna
     namewodiacritics: Aegna
@@ -75,7 +99,7 @@
     locode: 'EE AHJ'
     name: Ahja
     namewodiacritics: Ahja
-    subdiv: '65'
+    subdiv: '64'
     function: '--3-----'
     status: RL
     date: '0307'
@@ -84,25 +108,25 @@
     remarks: ''
 -
     ch: ''
-    locode: 'EE ALJ'
-    name: Alajõe
-    namewodiacritics: Alajoe
-    subdiv: '44'
+    locode: 'EE AHO'
+    name: 'Ahoi Jõesadam'
+    namewodiacritics: 'Ahoi Joesadam'
+    subdiv: '74'
     function: 1-------
     status: AA
-    date: '1301'
+    date: '1801'
     iata: ''
-    coordinates: '5901N 02726E'
+    coordinates: '5813N 02222E'
     remarks: ''
 -
     ch: ''
-    locode: 'EE AJS'
-    name: 'Alajõe Jõesadam'
-    namewodiacritics: 'Alajoe Joesadam'
-    subdiv: '44'
-    function: 1-------
+    locode: 'EE ALJ'
+    name: Alajõe
+    namewodiacritics: Alajoe
+    subdiv: '45'
+    function: 0-------
     status: AA
-    date: '1201'
+    date: '2101'
     iata: ''
     coordinates: '5901N 02726E'
     remarks: ''
@@ -111,7 +135,7 @@
     locode: 'EE AKS'
     name: 'Alajõe Kalasadam'
     namewodiacritics: 'Alajoe Kalasadam'
-    subdiv: '44'
+    subdiv: '45'
     function: 1-------
     status: AA
     date: '1007'
@@ -123,7 +147,7 @@
     locode: 'EE AEC'
     name: Alatskivi
     namewodiacritics: Alatskivi
-    subdiv: '78'
+    subdiv: '79'
     function: '-----6--'
     status: RL
     date: '0901'
@@ -132,10 +156,22 @@
     remarks: ''
 -
     ch: ''
+    locode: 'EE ALU'
+    name: Alliku
+    namewodiacritics: Alliku
+    subdiv: '37'
+    function: '-23-----'
+    status: AA
+    date: '2101'
+    iata: ''
+    coordinates: '5921N 02433E'
+    remarks: ''
+-
+    ch: ''
     locode: 'EE AMB'
     name: Ambla
     namewodiacritics: Ambla
-    subdiv: '51'
+    subdiv: '52'
     function: '--3-----'
     status: RL
     date: '1207'
@@ -147,7 +183,7 @@
     locode: 'EE ANT'
     name: Antsla
     namewodiacritics: Antsla
-    subdiv: '86'
+    subdiv: '87'
     function: '--3-----'
     status: RL
     date: '1007'
@@ -171,7 +207,7 @@
     locode: 'EE ARK'
     name: Arkna
     namewodiacritics: Arkna
-    subdiv: '44'
+    subdiv: '45'
     function: '--3-----'
     status: RL
     date: '1107'
@@ -195,10 +231,22 @@
     locode: 'EE ASE'
     name: Aseri
     namewodiacritics: Aseri
-    subdiv: '44'
+    subdiv: '45'
     function: 1-3-----
     status: RL
     date: '1301'
+    iata: ''
+    coordinates: '5927N 02652E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'EE ASV'
+    name: 'Aseri Väikesadam'
+    namewodiacritics: 'Aseri Vaikesadam'
+    subdiv: '60'
+    function: 1-------
+    status: AA
+    date: '2007'
     iata: ''
     coordinates: '5927N 02652E'
     remarks: ''
@@ -219,7 +267,7 @@
     locode: 'EE AUD'
     name: Audru
     namewodiacritics: Audru
-    subdiv: '67'
+    subdiv: '68'
     function: '--3-----'
     status: RL
     date: '0607'
@@ -243,12 +291,24 @@
     locode: 'EE DIR'
     name: Dirhami
     namewodiacritics: Dirhami
-    subdiv: '57'
+    subdiv: '56'
     function: 1------B
     status: AA
     date: '1201'
     iata: ''
     coordinates: '5913N 02330E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'EE DOB'
+    name: Doberani
+    namewodiacritics: Doberani
+    subdiv: '68'
+    function: 0-------
+    status: AA
+    date: '2101'
+    iata: ''
+    coordinates: '5823N 02422E'
     remarks: ''
 -
     ch: ''
@@ -264,10 +324,22 @@
     remarks: ''
 -
     ch: ''
+    locode: 'EE EIS'
+    name: Eisma
+    namewodiacritics: Eisma
+    subdiv: '60'
+    function: 1-------
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '5934N 02618E'
+    remarks: ''
+-
+    ch: ''
     locode: 'EE ELV'
     name: Elva
     namewodiacritics: Elva
-    subdiv: '78'
+    subdiv: '79'
     function: '--3-----'
     status: RL
     date: '1301'
@@ -279,7 +351,7 @@
     locode: 'EE ERV'
     name: Ervu
     namewodiacritics: Ervu
-    subdiv: '78'
+    subdiv: '79'
     function: '-----6--'
     status: RL
     date: '0901'
@@ -303,7 +375,7 @@
     locode: 'EE HAA'
     name: Haapsalu
     namewodiacritics: Haapsalu
-    subdiv: '57'
+    subdiv: '56'
     function: 123-----
     status: RL
     date: '1301'
@@ -315,7 +387,7 @@
     locode: 'EE HVV'
     name: 'Haapsalu Veskiviigi'
     namewodiacritics: 'Haapsalu Veskiviigi'
-    subdiv: '57'
+    subdiv: '56'
     function: 1-------
     status: AA
     date: '1201'
@@ -324,10 +396,22 @@
     remarks: ''
 -
     ch: ''
+    locode: 'EE HLD'
+    name: Haldi
+    namewodiacritics: Haldi
+    subdiv: '39'
+    function: 1-------
+    status: AA
+    date: '1401'
+    iata: ''
+    coordinates: '5848N 02227E'
+    remarks: ''
+-
+    ch: ''
     locode: 'EE HLA'
     name: Halinga
     namewodiacritics: Halinga
-    subdiv: '67'
+    subdiv: '68'
     function: '--3-----'
     status: RL
     date: '0212'
@@ -339,7 +423,7 @@
     locode: 'EE HJA'
     name: Haljala
     namewodiacritics: Haljala
-    subdiv: '59'
+    subdiv: '60'
     function: '--3-----'
     status: RL
     date: '0601'
@@ -363,12 +447,48 @@
     locode: 'EE HAN'
     name: Hanila
     namewodiacritics: Hanila
-    subdiv: '57'
+    subdiv: '56'
     function: '--3-----'
     status: RL
     date: '1301'
     iata: ''
     coordinates: '5836N 02333E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'EE HRA'
+    name: 'Hara Sadam'
+    namewodiacritics: 'Hara Sadam'
+    subdiv: '56'
+    function: 1-------
+    status: AA
+    date: '1607'
+    iata: ''
+    coordinates: '5905N 02332E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'EE HRS'
+    name: 'Hara Sadam'
+    namewodiacritics: 'Hara Sadam'
+    subdiv: '37'
+    function: 1-------
+    status: AA
+    date: '1607'
+    iata: ''
+    coordinates: '5935N 02537E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'EE HRJ'
+    name: Harju
+    namewodiacritics: Harju
+    subdiv: '39'
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '5844N 02238E'
     remarks: ''
 -
     ch: ''
@@ -423,7 +543,7 @@
     locode: 'EE IMA'
     name: Imavere
     namewodiacritics: Imavere
-    subdiv: '51'
+    subdiv: '52'
     function: '--3-----'
     status: RL
     date: '0601'
@@ -435,7 +555,7 @@
     locode: 'EE JGP'
     name: Jaagupi
     namewodiacritics: Jaagupi
-    subdiv: '67'
+    subdiv: '68'
     function: 1-------
     status: AA
     date: '1301'
@@ -447,12 +567,24 @@
     locode: 'EE JAA'
     name: Jaanikese
     namewodiacritics: Jaanikese
-    subdiv: '82'
-    function: '-----6--'
+    subdiv: '81'
+    function: '--3-----'
     status: RL
-    date: '0901'
+    date: '1707'
     iata: ''
-    coordinates: '5780N 26067E'
+    coordinates: '5748N 02603E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'EE JAP'
+    name: 'Japsi Kalasadam'
+    namewodiacritics: 'Japsi Kalasadam'
+    subdiv: '68'
+    function: 1-------
+    status: AA
+    date: '2101'
+    iata: ''
+    coordinates: '5823N 02429E'
     remarks: ''
 -
     ch: ''
@@ -471,7 +603,7 @@
     locode: 'EE JAR'
     name: Järvakandi
     namewodiacritics: Jarvakandi
-    subdiv: '70'
+    subdiv: '71'
     function: '--3-----'
     status: RL
     date: '0701'
@@ -480,10 +612,22 @@
     remarks: ''
 -
     ch: ''
+    locode: 'EE JEP'
+    name: 'Jõe Paadisadam'
+    namewodiacritics: 'Joe Paadisadam'
+    subdiv: '79'
+    function: 1-------
+    status: AA
+    date: '1601'
+    iata: ''
+    coordinates: '5822N 02644E'
+    remarks: ''
+-
+    ch: ''
     locode: 'EE JKR'
     name: Jõekääru
     namewodiacritics: Joekaaru
-    subdiv: '44'
+    subdiv: '45'
     function: 1-------
     status: AA
     date: '1007'
@@ -519,7 +663,7 @@
     locode: 'EE JGA'
     name: Jõgeva
     namewodiacritics: Jogeva
-    subdiv: '49'
+    subdiv: '50'
     function: '-23-----'
     status: RL
     date: '1301'
@@ -531,7 +675,7 @@
     locode: 'EE JVI'
     name: Jõhvi
     namewodiacritics: Johvi
-    subdiv: '44'
+    subdiv: '45'
     function: '-23-----'
     status: RL
     date: '1301'
@@ -543,7 +687,7 @@
     locode: 'EE JHT'
     name: Juheta
     namewodiacritics: Juheta
-    subdiv: '67'
+    subdiv: '68'
     function: 1-------
     status: AA
     date: '1007'
@@ -564,6 +708,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'EE KVI'
+    name: 'Kaavi Paadisadam'
+    namewodiacritics: 'Kaavi Paadisadam'
+    subdiv: '74'
+    function: 1-------
+    status: AA
+    date: '1707'
+    iata: ''
+    coordinates: '5759N 02212E'
+    remarks: ''
+-
+    ch: ''
     locode: 'EE KAB'
     name: Kaberneeme
     namewodiacritics: Kaberneeme
@@ -576,10 +732,22 @@
     remarks: ''
 -
     ch: ''
+    locode: 'EE KBN'
+    name: 'Kaberneeme Sadam'
+    namewodiacritics: 'Kaberneeme Sadam'
+    subdiv: '37'
+    function: 1-------
+    status: AA
+    date: '1407'
+    iata: ''
+    coordinates: '5931N 02517E'
+    remarks: ''
+-
+    ch: ''
     locode: 'EE KAD'
     name: Kadrina
     namewodiacritics: Kadrina
-    subdiv: '49'
+    subdiv: '50'
     function: '--3-----'
     status: RL
     date: '1301'
@@ -591,7 +759,7 @@
     locode: 'EE KDA'
     name: Kadrina
     namewodiacritics: Kadrina
-    subdiv: '59'
+    subdiv: '60'
     function: '-23-----'
     status: RL
     date: '1301'
@@ -648,6 +816,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'EE KLD'
+    name: Kaldu
+    namewodiacritics: Kaldu
+    subdiv: '74'
+    function: 1-------
+    status: AA
+    date: '1601'
+    iata: ''
+    coordinates: '5827N 02316E'
+    remarks: ''
+-
+    ch: ''
     locode: 'EE KJK'
     name: 'Kalevi Jahtklubi'
     namewodiacritics: 'Kalevi Jahtklubi'
@@ -675,7 +855,7 @@
     locode: 'EE KLL'
     name: Kallaste
     namewodiacritics: Kallaste
-    subdiv: '78'
+    subdiv: '79'
     function: 1-3-----
     status: AA
     date: '1301'
@@ -687,7 +867,7 @@
     locode: 'EE KLR'
     name: 'Kallaste Rannasadam'
     namewodiacritics: 'Kallaste Rannasadam'
-    subdiv: '78'
+    subdiv: '79'
     function: 1-------
     status: AA
     date: '1007'
@@ -696,10 +876,22 @@
     remarks: ''
 -
     ch: ''
+    locode: 'EE KAM'
+    name: 'Kalmaküla Sadam'
+    namewodiacritics: 'Kalmakula Sadam'
+    subdiv: '45'
+    function: 1-------
+    status: AA
+    date: '1607'
+    iata: ''
+    coordinates: '5853N 02658E'
+    remarks: ''
+-
+    ch: ''
     locode: 'EE KLV'
     name: Kalvi
     namewodiacritics: Kalvi
-    subdiv: '59'
+    subdiv: '60'
     function: '--3-----'
     status: RL
     date: '1301'
@@ -711,7 +903,7 @@
     locode: 'EE KMM'
     name: Kammeri
     namewodiacritics: Kammeri
-    subdiv: '78'
+    subdiv: '79'
     function: '--3-----'
     status: RL
     date: '1101'
@@ -720,10 +912,22 @@
     remarks: ''
 -
     ch: ''
+    locode: 'EE KAN'
+    name: Kandiküla
+    namewodiacritics: Kandikula
+    subdiv: '79'
+    function: '--3-----'
+    status: RL
+    date: '1901'
+    iata: ''
+    coordinates: '5823N 02639E'
+    remarks: ''
+-
+    ch: ''
     locode: 'EE KNP'
     name: Kanepi
     namewodiacritics: Kanepi
-    subdiv: '65'
+    subdiv: XJ
     function: '--3-----'
     status: RQ
     date: '0901'
@@ -731,7 +935,7 @@
     coordinates: '5758N 02645E'
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'EE KDL'
     name: Kärdla
     namewodiacritics: Kardla
@@ -741,7 +945,19 @@
     date: '1307'
     iata: ''
     coordinates: '5900N 02245E'
-    remarks: '@Fun'
+    remarks: ''
+-
+    ch: ''
+    locode: 'EE KPA'
+    name: 'Karepa Sadam'
+    namewodiacritics: 'Karepa Sadam'
+    subdiv: '60'
+    function: 1-------
+    status: AA
+    date: '1701'
+    iata: ''
+    coordinates: '5933N 02625E'
+    remarks: ''
 -
     ch: ''
     locode: 'EE KAE'
@@ -753,6 +969,18 @@
     date: '1301'
     iata: ''
     coordinates: '5807N 02535E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'EE KAP'
+    name: 'Karlova Paadisadam'
+    namewodiacritics: 'Karlova Paadisadam'
+    subdiv: '79'
+    function: 1-------
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '5822N 02645E'
     remarks: ''
 -
     ch: ''
@@ -768,10 +996,22 @@
     remarks: ''
 -
     ch: ''
+    locode: 'EE KKS'
+    name: 'Kassari Sadam'
+    namewodiacritics: 'Kassari Sadam'
+    subdiv: '39'
+    function: 1-------
+    status: AA
+    date: '1801'
+    iata: ''
+    coordinates: '5846N 02250E'
+    remarks: ''
+-
+    ch: ''
     locode: 'EE KSN'
     name: Kastna
     namewodiacritics: Kastna
-    subdiv: '67'
+    subdiv: '68'
     function: 1-------
     status: AA
     date: '1007'
@@ -795,7 +1035,7 @@
     locode: 'EE KDU'
     name: Kavandu
     namewodiacritics: Kavandu
-    subdiv: '78'
+    subdiv: '79'
     function: '--3-----'
     status: RL
     date: '0901'
@@ -807,7 +1047,7 @@
     locode: 'EE KVR'
     name: Kavaru
     namewodiacritics: Kavaru
-    subdiv: '67'
+    subdiv: '68'
     function: 1-------
     status: AA
     date: '1301'
@@ -819,7 +1059,7 @@
     locode: 'EE KEE'
     name: Keeni
     namewodiacritics: Keeni
-    subdiv: '82'
+    subdiv: '81'
     function: '-23-----'
     status: RL
     date: '0701'
@@ -876,15 +1116,39 @@
     remarks: ''
 -
     ch: ''
+    locode: 'EE KEJ'
+    name: Kesse-Jaani
+    namewodiacritics: Kesse-Jaani
+    subdiv: '74'
+    function: 1-------
+    status: AA
+    date: '1407'
+    iata: ''
+    coordinates: '5838N 02327E'
+    remarks: ''
+-
+    ch: ''
     locode: 'EE KHN'
     name: Kihnu
     namewodiacritics: Kihnu
-    subdiv: '67'
+    subdiv: '68'
     function: 1-------
     status: AA
     date: '1201'
     iata: ''
     coordinates: '5808N 02401E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'EE KII'
+    name: Kiideva
+    namewodiacritics: Kiideva
+    subdiv: '56'
+    function: 1-------
+    status: RL
+    date: '2001'
+    iata: ''
+    coordinates: '5846N 02332E'
     remarks: ''
 -
     ch: ''
@@ -897,6 +1161,30 @@
     date: '0901'
     iata: ''
     coordinates: '5926N 02522E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'EE IDA'
+    name: Kiviõli
+    namewodiacritics: Kivioli
+    subdiv: '45'
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '5921N 02658E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'EE KOB'
+    name: Kobela
+    namewodiacritics: Kobela
+    subdiv: '87'
+    function: '--3-----'
+    status: AA
+    date: '2101'
+    iata: ''
+    coordinates: '5750N 02628E'
     remarks: ''
 -
     ch: ''
@@ -927,7 +1215,7 @@
     locode: 'EE KHA'
     name: Kohila
     namewodiacritics: Kohila
-    subdiv: '70'
+    subdiv: '71'
     function: '-23-----'
     status: RL
     date: '0601'
@@ -939,7 +1227,7 @@
     locode: 'EE KJE'
     name: Kohtla-Järve
     namewodiacritics: Kohtla-Jarve
-    subdiv: '44'
+    subdiv: '45'
     function: '--3-----'
     status: RL
     date: '1301'
@@ -951,12 +1239,24 @@
     locode: 'EE KOI'
     name: Koigi
     namewodiacritics: Koigi
-    subdiv: '51'
+    subdiv: '52'
     function: '--3-----'
     status: RL
     date: '1007'
     iata: ''
     coordinates: '5850N 02545E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'EE KGS'
+    name: Kõiguste
+    namewodiacritics: Koiguste
+    subdiv: '74'
+    function: 1-------
+    status: AA
+    date: '1407'
+    iata: ''
+    coordinates: '5822N 02258E'
     remarks: ''
 -
     ch: ''
@@ -972,15 +1272,27 @@
     remarks: ''
 -
     ch: ''
-    locode: 'EE KNK'
+    locode: 'EE KLK'
     name: Koljunuki
     namewodiacritics: Koljunuki
     subdiv: '37'
     function: 1-------
     status: AA
-    date: '1207'
+    date: '1407'
     iata: ''
     coordinates: '5930N 02505E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'EE KOL'
+    name: Kolkja
+    namewodiacritics: Kolkja
+    subdiv: '79'
+    function: 1-------
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '5833N 02713E'
     remarks: ''
 -
     ch: ''
@@ -993,6 +1305,18 @@
     date: '0901'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'EE KRK'
+    name: Koorküla
+    namewodiacritics: Koorkula
+    subdiv: '81'
+    function: '--3-----'
+    status: AA
+    date: '2101'
+    iata: ''
+    coordinates: '5756N 02552E'
     remarks: ''
 -
     ch: ''
@@ -1020,6 +1344,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'EE KDR'
+    name: 'Kudruküla Sadam'
+    namewodiacritics: 'Kudrukula Sadam'
+    subdiv: '45'
+    function: 1-------
+    status: AA
+    date: '1701'
+    iata: ''
+    coordinates: '5927N 02905E'
+    remarks: ''
+-
+    ch: ''
     locode: 'EE KUI'
     name: Kuivastu
     namewodiacritics: Kuivastu
@@ -1035,7 +1371,7 @@
     locode: 'EE KUL'
     name: Kulaaseme
     namewodiacritics: Kulaaseme
-    subdiv: '78'
+    subdiv: '79'
     function: '--3-----'
     status: RQ
     date: '0901'
@@ -1047,7 +1383,7 @@
     locode: 'EE KND'
     name: Kunda
     namewodiacritics: Kunda
-    subdiv: '59'
+    subdiv: '60'
     function: 1------B
     status: AA
     date: '1201'
@@ -1071,7 +1407,7 @@
     locode: 'EE KEA'
     name: Kurena
     namewodiacritics: Kurena
-    subdiv: '67'
+    subdiv: '68'
     function: '--3-----'
     status: RQ
     date: '0901'
@@ -1128,6 +1464,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'EE LAB'
+    name: Laabi
+    namewodiacritics: Laabi
+    subdiv: '37'
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '5924N 02433E'
+    remarks: ''
+-
+    ch: ''
     locode: 'EE LAA'
     name: Laagri
     namewodiacritics: Laagri
@@ -1143,12 +1491,24 @@
     locode: 'EE LKS'
     name: Laaksaare
     namewodiacritics: Laaksaare
-    subdiv: '78'
+    subdiv: '79'
     function: 1-------
     status: AA
     date: '1007'
     iata: ''
     coordinates: '5820N 02725E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'EE LAN'
+    name: Lääne
+    namewodiacritics: Laane
+    subdiv: '68'
+    function: 1-------
+    status: AA
+    date: '1407'
+    iata: ''
+    coordinates: '5832N 02341E'
     remarks: ''
 -
     ch: ''
@@ -1161,6 +1521,18 @@
     date: '1007'
     iata: ''
     coordinates: '5808N 02215E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'EE LGD'
+    name: Lagedi
+    namewodiacritics: Lagedi
+    subdiv: '37'
+    function: '--3-----'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '5924N 02456E'
     remarks: ''
 -
     ch: ''
@@ -1179,12 +1551,36 @@
     locode: 'EE LAO'
     name: Lao
     namewodiacritics: Lao
-    subdiv: '67'
+    subdiv: '68'
     function: 1-------
     status: AA
     date: '1007'
     iata: ''
     coordinates: '5814N 02407E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'EE LAU'
+    name: Lautri
+    namewodiacritics: Lautri
+    subdiv: '39'
+    function: 1-------
+    status: AA
+    date: '1401'
+    iata: ''
+    coordinates: '5855N 02205E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'EE LAV'
+    name: Lavassaare
+    namewodiacritics: Lavassaare
+    subdiv: '68'
+    function: '-23-----'
+    status: AA
+    date: '1601'
+    iata: ''
+    coordinates: '5830N 02423E'
     remarks: ''
 -
     ch: ''
@@ -1195,6 +1591,18 @@
     function: 1------B
     status: AA
     date: '1201'
+    iata: ''
+    coordinates: '5904N 02242E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'EE LHK'
+    name: 'Lehtma Kalurisadam'
+    namewodiacritics: 'Lehtma Kalurisadam'
+    subdiv: '39'
+    function: 1-------
+    status: AA
+    date: '1607'
     iata: ''
     coordinates: '5904N 02242E'
     remarks: ''
@@ -1239,7 +1647,7 @@
     locode: 'EE LIH'
     name: Lihula
     namewodiacritics: Lihula
-    subdiv: '57'
+    subdiv: '56'
     function: '--3-----'
     status: RL
     date: '1301'
@@ -1251,7 +1659,7 @@
     locode: 'EE LIN'
     name: Lindi
     namewodiacritics: Lindi
-    subdiv: '67'
+    subdiv: '68'
     function: 1-------
     status: AA
     date: '0601'
@@ -1260,10 +1668,22 @@
     remarks: ''
 -
     ch: ''
+    locode: 'EE LNA'
+    name: Linna
+    namewodiacritics: Linna
+    subdiv: '81'
+    function: '--3-----'
+    status: AA
+    date: '1601'
+    iata: ''
+    coordinates: '5801N 02551E'
+    remarks: ''
+-
+    ch: ''
     locode: 'EE LIU'
     name: Liu
     namewodiacritics: Liu
-    subdiv: '67'
+    subdiv: '68'
     function: 1-------
     status: AA
     date: '1007'
@@ -1287,7 +1707,7 @@
     locode: 'EE LHU'
     name: Lohusuu
     namewodiacritics: Lohusuu
-    subdiv: '44'
+    subdiv: '45'
     function: '--3-----'
     status: RL
     date: '1301'
@@ -1320,6 +1740,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'EE LOO'
+    name: Loo
+    namewodiacritics: Loo
+    subdiv: '37'
+    function: '--3-----'
+    status: RL
+    date: '2001'
+    iata: ''
+    coordinates: '5926N 02456E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'EE LPS'
+    name: Lõpesuu
+    namewodiacritics: Lopesuu
+    subdiv: '74'
+    function: 1-------
+    status: AA
+    date: '1601'
+    iata: ''
+    coordinates: '5829N 02316E'
+    remarks: ''
+-
+    ch: ''
     locode: 'EE LNR'
     name: Lõunaranna
     namewodiacritics: Lounaranna
@@ -1335,7 +1779,7 @@
     locode: 'EE LHM'
     name: Luhamaa
     namewodiacritics: Luhamaa
-    subdiv: '44'
+    subdiv: '45'
     function: '--3----B'
     status: RL
     date: '1301'
@@ -1344,10 +1788,22 @@
     remarks: ''
 -
     ch: ''
+    locode: 'EE LUI'
+    name: 'Luige Väikesadam'
+    namewodiacritics: 'Luige Vaikesadam'
+    subdiv: '56'
+    function: 1-------
+    status: AA
+    date: '1407'
+    iata: ''
+    coordinates: '5852N 02329E'
+    remarks: ''
+-
+    ch: ''
     locode: 'EE LNJ'
     name: Luunja
     namewodiacritics: Luunja
-    subdiv: '78'
+    subdiv: '79'
     function: '--3-----'
     status: RQ
     date: '0901'
@@ -1368,10 +1824,34 @@
     remarks: ''
 -
     ch: ''
+    locode: 'EE MAA'
+    name: Maarja-Magdaleena
+    namewodiacritics: Maarja-Magdaleena
+    subdiv: '50'
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '5837N 02644E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'EE MAH'
+    name: 'Mahu Sadam'
+    namewodiacritics: 'Mahu Sadam'
+    subdiv: '60'
+    function: 1-------
+    status: RL
+    date: '1901'
+    iata: ''
+    coordinates: '5931N 02343E'
+    remarks: ''
+-
+    ch: ''
     locode: 'EE MAN'
     name: Manilaiu
     namewodiacritics: Manilaiu
-    subdiv: '67'
+    subdiv: '68'
     function: 1-------
     status: AA
     date: '1201'
@@ -1383,7 +1863,7 @@
     locode: 'EE MNI'
     name: Männi
     namewodiacritics: Manni
-    subdiv: '67'
+    subdiv: '68'
     function: 1-------
     status: AA
     date: '1201'
@@ -1395,7 +1875,7 @@
     locode: 'EE MAR'
     name: Märjamaa
     namewodiacritics: Marjamaa
-    subdiv: '70'
+    subdiv: '71'
     function: '--3-----'
     status: RQ
     date: '0901'
@@ -1416,15 +1896,39 @@
     remarks: ''
 -
     ch: ''
+    locode: 'EE MEH'
+    name: 'Mehikoorma Sadam'
+    namewodiacritics: 'Mehikoorma Sadam'
+    subdiv: '79'
+    function: 1-------
+    status: AA
+    date: '1607'
+    iata: ''
+    coordinates: '5814N 02729E'
+    remarks: ''
+-
+    ch: ''
     locode: 'EE MRL'
     name: Merelaiu
     namewodiacritics: Merelaiu
-    subdiv: '67'
+    subdiv: '68'
     function: 1-------
     status: AA
     date: '1007'
     iata: ''
     coordinates: '5818N 02401E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'EE MIH'
+    name: 'Mihkli Sadam'
+    namewodiacritics: 'Mihkli Sadam'
+    subdiv: '50'
+    function: 1-------
+    status: AA
+    date: '1701'
+    iata: ''
+    coordinates: '5847N 02659E'
     remarks: ''
 -
     ch: ''
@@ -1452,6 +1956,18 @@
     remarks: 'Harju maakond'
 -
     ch: ''
+    locode: 'EE MOL'
+    name: Mölgi
+    namewodiacritics: Molgi
+    subdiv: '37'
+    function: 0-------
+    status: AA
+    date: '2101'
+    iata: ''
+    coordinates: '5936N 02500E'
+    remarks: ''
+-
+    ch: ''
     locode: 'EE MNT'
     name: Mõntu
     namewodiacritics: Montu
@@ -1464,10 +1980,22 @@
     remarks: ''
 -
     ch: ''
+    locode: 'EE MNV'
+    name: 'Mõntu Väikelaevade Sadam'
+    namewodiacritics: 'Montu Vaikelaevade Sadam'
+    subdiv: '74'
+    function: 1-------
+    status: AA
+    date: '1601'
+    iata: ''
+    coordinates: '5757N 02207E'
+    remarks: ''
+-
+    ch: ''
     locode: 'EE MUN'
     name: Munalaiu
     namewodiacritics: Munalaiu
-    subdiv: '67'
+    subdiv: '68'
     function: 1-------
     status: AA
     date: '1201'
@@ -1488,10 +2016,22 @@
     remarks: ''
 -
     ch: ''
+    locode: 'EE MUR'
+    name: 'Muratsi Sadam'
+    namewodiacritics: 'Muratsi Sadam'
+    subdiv: '74'
+    function: 1-------
+    status: AA
+    date: '1607'
+    iata: ''
+    coordinates: '5814N 02235E'
+    remarks: ''
+-
+    ch: ''
     locode: 'EE MTV'
     name: Mustvee
     namewodiacritics: Mustvee
-    subdiv: '49'
+    subdiv: '50'
     function: 1-------
     status: AA
     date: '1007'
@@ -1536,10 +2076,22 @@
     remarks: ''
 -
     ch: ''
+    locode: 'EE NST'
+    name: 'Naistlaiu Sadam'
+    namewodiacritics: 'Naistlaiu Sadam'
+    subdiv: '39'
+    function: 1-------
+    status: AA
+    date: '1607'
+    iata: ''
+    coordinates: '5849N 02302E'
+    remarks: ''
+-
+    ch: ''
     locode: 'EE NAP'
     name: Näpi
     namewodiacritics: Napi
-    subdiv: '59'
+    subdiv: '60'
     function: '--3-----'
     status: RL
     date: '0701'
@@ -1551,12 +2103,48 @@
     locode: 'EE NAR'
     name: Narva
     namewodiacritics: Narva
-    subdiv: '44'
-    function: '--3-----'
+    subdiv: '45'
+    function: '-23-----'
     status: RL
-    date: '1301'
+    date: '2007'
     iata: ''
     coordinates: '5923N 02811E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'EE KUG'
+    name: 'Narva Kulgu Sadam'
+    namewodiacritics: 'Narva Kulgu Sadam'
+    subdiv: '45'
+    function: 1-------
+    status: RL
+    date: '2101'
+    iata: ''
+    coordinates: '5921N 02810E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'EE JOS'
+    name: 'Narva Linnasadam'
+    namewodiacritics: 'Narva Linnasadam'
+    subdiv: '45'
+    function: 1-------
+    status: RL
+    date: '2101'
+    iata: ''
+    coordinates: '5923N 02812E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'EE NJS'
+    name: 'Narva-Jõesuu Sadam'
+    namewodiacritics: 'Narva-Joesuu Sadam'
+    subdiv: '45'
+    function: 1-------
+    status: AA
+    date: '1607'
+    iata: ''
+    coordinates: '5928N 02803E'
     remarks: ''
 -
     ch: ''
@@ -1572,15 +2160,63 @@
     remarks: ''
 -
     ch: ''
+    locode: 'EE NJD'
+    name: 'Nasva Jõesadam'
+    namewodiacritics: 'Nasva Joesadam'
+    subdiv: '74'
+    function: 1-------
+    status: AA
+    date: '1607'
+    iata: ''
+    coordinates: '5814N 02223E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'EE NME'
+    name: Neeme
+    namewodiacritics: Neeme
+    subdiv: '37'
+    function: 1-------
+    status: AA
+    date: '1401'
+    iata: ''
+    coordinates: '5932N 02510E'
+    remarks: ''
+-
+    ch: ''
     locode: 'EE NII'
     name: Niibi
     namewodiacritics: Niibi
-    subdiv: '57'
+    subdiv: '56'
     function: '--3-----'
     status: RL
     date: '0701'
     iata: ''
     coordinates: '5903N 02339E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'EE NOB'
+    name: Noblessneri
+    namewodiacritics: Noblessneri
+    subdiv: '37'
+    function: 1-------
+    status: AA
+    date: '1401'
+    iata: ''
+    coordinates: '5927N 02444E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'EE NVA'
+    name: 'Nõva Sadam'
+    namewodiacritics: 'Nova Sadam'
+    subdiv: '56'
+    function: 1-------
+    status: AA
+    date: '1607'
+    iata: ''
+    coordinates: '5915N 02340E'
     remarks: ''
 -
     ch: ''
@@ -1623,7 +2259,7 @@
     locode: 'EE OMR'
     name: 'Omedu Rand'
     namewodiacritics: 'Omedu Rand'
-    subdiv: '49'
+    subdiv: '50'
     function: 1-------
     status: AA
     date: '1007'
@@ -1635,7 +2271,7 @@
     locode: 'EE OOS'
     name: Oomiste
     namewodiacritics: Oomiste
-    subdiv: '78'
+    subdiv: '79'
     function: '--3-----'
     status: RL
     date: '0901'
@@ -1647,7 +2283,7 @@
     locode: 'EE ORA'
     name: Orava
     namewodiacritics: Orava
-    subdiv: '65'
+    subdiv: XJ
     function: '--3-----'
     status: RL
     date: '0901'
@@ -1680,10 +2316,34 @@
     remarks: ''
 -
     ch: ''
+    locode: 'EE OSM'
+    name: 'Osmussaare Sadam'
+    namewodiacritics: 'Osmussaare Sadam'
+    subdiv: '56'
+    function: 1-------
+    status: AA
+    date: '1701'
+    iata: ''
+    coordinates: '5917N 02325E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'EE OUS'
+    name: Õssu
+    namewodiacritics: Ossu
+    subdiv: '79'
+    function: '--3-----'
+    status: RL
+    date: '1901'
+    iata: ''
+    coordinates: '5822N 02639E'
+    remarks: ''
+-
+    ch: ''
     locode: 'EE OST'
     name: Österby
     namewodiacritics: Osterby
-    subdiv: '57'
+    subdiv: '56'
     function: 1-------
     status: AA
     date: '1107'
@@ -1695,7 +2355,7 @@
     locode: 'EE OTP'
     name: Otepää
     namewodiacritics: Otepaa
-    subdiv: '82'
+    subdiv: '81'
     function: '--3-----'
     status: RL
     date: '0601'
@@ -1719,12 +2379,36 @@
     locode: 'EE OTS'
     name: Otsa
     namewodiacritics: Otsa
-    subdiv: '78'
+    subdiv: '79'
     function: 1-------
     status: AA
     date: '1007'
     iata: ''
     coordinates: '5839N 02710E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'EE PAA'
+    name: Paatsalu
+    namewodiacritics: Paatsalu
+    subdiv: '68'
+    function: 1-------
+    status: AA
+    date: '1407'
+    iata: ''
+    coordinates: '5831N 02341E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'EE PSM'
+    name: 'Pae Sadam'
+    namewodiacritics: 'Pae Sadam'
+    subdiv: '74'
+    function: 1-------
+    status: AA
+    date: '1601'
+    iata: ''
+    coordinates: '5829N 02316E'
     remarks: ''
 -
     ch: ''
@@ -1743,7 +2427,7 @@
     locode: 'EE PAI'
     name: Paide
     namewodiacritics: Paide
-    subdiv: '51'
+    subdiv: '52'
     function: '--3-----'
     status: RL
     date: '0601'
@@ -1803,7 +2487,7 @@
     locode: 'EE PVE'
     name: Palivere
     namewodiacritics: Palivere
-    subdiv: '57'
+    subdiv: '56'
     function: '--3-----'
     status: RL
     date: '0601'
@@ -1827,7 +2511,7 @@
     locode: 'EE PNG'
     name: Pangodi
     namewodiacritics: Pangodi
-    subdiv: '78'
+    subdiv: '79'
     function: '--3-----'
     status: RL
     date: '0701'
@@ -1836,10 +2520,22 @@
     remarks: ''
 -
     ch: ''
+    locode: 'EE PAP'
+    name: 'Papissaare Sadam'
+    namewodiacritics: 'Papissaare Sadam'
+    subdiv: '74'
+    function: 1-------
+    status: AA
+    date: '1701'
+    iata: ''
+    coordinates: '5822N 02159E'
+    remarks: ''
+-
+    ch: ''
     locode: 'EE AEF'
     name: Parksepa
     namewodiacritics: Parksepa
-    subdiv: '86'
+    subdiv: '87'
     function: '-----6--'
     status: RL
     date: '0901'
@@ -1851,12 +2547,36 @@
     locode: 'EE PRN'
     name: Pärnu
     namewodiacritics: Parnu
-    subdiv: '67'
+    subdiv: '68'
     function: 1------B
     status: AA
     date: '1207'
     iata: ''
     coordinates: '5823N 02430E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'EE PRV'
+    name: 'Pärnu Sadama Väikesadam'
+    namewodiacritics: 'Parnu Sadama Vaikesadam'
+    subdiv: '68'
+    function: 1-------
+    status: AA
+    date: '1407'
+    iata: ''
+    coordinates: '5823N 02429E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'EE PSV'
+    name: 'Paslepa-Viigi Sadam'
+    namewodiacritics: 'Paslepa-Viigi Sadam'
+    subdiv: '56'
+    function: 1-------
+    status: AA
+    date: '1607'
+    iata: ''
+    coordinates: '5901N 02326E'
     remarks: ''
 -
     ch: ''
@@ -1875,7 +2595,7 @@
     locode: 'EE PRI'
     name: Peerni
     namewodiacritics: Peerni
-    subdiv: '67'
+    subdiv: '68'
     function: 1-------
     status: AA
     date: '1007'
@@ -1896,15 +2616,27 @@
     remarks: ''
 -
     ch: ''
-    locode: 'EE PET'
-    name: 'Peetri Port'
-    namewodiacritics: 'Peetri Port'
-    subdiv: '37'
+    locode: 'EE PHL'
+    name: Pihelgalaiu
+    namewodiacritics: Pihelgalaiu
+    subdiv: '68'
     function: 1-------
     status: AA
-    date: '1301'
+    date: '1601'
     iata: ''
-    coordinates: '5927N 02444E'
+    coordinates: '5827N 02340E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'EE PRE'
+    name: 'Piirissaare Sadam'
+    namewodiacritics: 'Piirissaare Sadam'
+    subdiv: '79'
+    function: 1-------
+    status: AA
+    date: '1601'
+    iata: ''
+    coordinates: '5823N 02731E'
     remarks: ''
 -
     ch: ''
@@ -1923,7 +2655,7 @@
     locode: 'EE PSA'
     name: Pikasilla
     namewodiacritics: Pikasilla
-    subdiv: '82'
+    subdiv: '81'
     function: '--3-----'
     status: RL
     date: '1301'
@@ -1947,7 +2679,7 @@
     locode: 'EE AEE'
     name: Põdra
     namewodiacritics: Podra
-    subdiv: '78'
+    subdiv: '79'
     function: '--3--6--'
     status: RL
     date: '0901'
@@ -1959,7 +2691,7 @@
     locode: 'EE POL'
     name: Polli
     namewodiacritics: Polli
-    subdiv: '70'
+    subdiv: '71'
     function: '--3-----'
     status: RL
     date: '0901'
@@ -1971,7 +2703,7 @@
     locode: 'EE PLT'
     name: Põltsamaa
     namewodiacritics: Poltsamaa
-    subdiv: '51'
+    subdiv: '52'
     function: '--3-----'
     status: RL
     date: '0701'
@@ -1983,7 +2715,7 @@
     locode: 'EE POV'
     name: Põlva
     namewodiacritics: Polva
-    subdiv: '65'
+    subdiv: '64'
     function: '-23-----'
     status: RL
     date: '1301'
@@ -1992,10 +2724,22 @@
     remarks: ''
 -
     ch: ''
+    locode: 'EE PRL'
+    name: 'Prangli Lõunasadam'
+    namewodiacritics: 'Prangli Lounasadam'
+    subdiv: '37'
+    function: 1-------
+    status: AA
+    date: '1601'
+    iata: ''
+    coordinates: '5937N 02500E'
+    remarks: ''
+-
+    ch: ''
     locode: 'EE PUR'
     name: Purtse
     namewodiacritics: Purtse
-    subdiv: '44'
+    subdiv: '45'
     function: 1-3-----
     status: AA
     date: '1301'
@@ -2004,10 +2748,34 @@
     remarks: ''
 -
     ch: ''
+    locode: 'EE PRJ'
+    name: 'Purtse Jahisadam'
+    namewodiacritics: 'Purtse Jahisadam'
+    subdiv: '45'
+    function: 1-------
+    status: AA
+    date: '1407'
+    iata: ''
+    coordinates: '5926N 02659E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'EE PRK'
+    name: 'Purtse Kalasadam'
+    namewodiacritics: 'Purtse Kalasadam'
+    subdiv: '45'
+    function: 1-------
+    status: AA
+    date: '1601'
+    iata: ''
+    coordinates: '5926N 02659E'
+    remarks: ''
+-
+    ch: ''
     locode: 'EE PUS'
     name: Pusi
     namewodiacritics: Pusi
-    subdiv: '78'
+    subdiv: '79'
     function: 1-------
     status: AA
     date: '1301'
@@ -2019,7 +2787,7 @@
     locode: 'EE AEI'
     name: Püssi
     namewodiacritics: Pussi
-    subdiv: '44'
+    subdiv: '45'
     function: '-----6--'
     status: RL
     date: '1301'
@@ -2055,7 +2823,7 @@
     locode: 'EE RAJ'
     name: Raja
     namewodiacritics: Raja
-    subdiv: '49'
+    subdiv: '50'
     function: 1-------
     status: AA
     date: '1007'
@@ -2067,12 +2835,24 @@
     locode: 'EE RAK'
     name: Rakvere
     namewodiacritics: Rakvere
-    subdiv: '59'
+    subdiv: '60'
     function: '--3-----'
     status: RL
     date: '1301'
     iata: ''
     coordinates: '5921N 02621E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'EE RLB'
+    name: 'Rälby Sadam'
+    namewodiacritics: 'Ralby Sadam'
+    subdiv: '56'
+    function: 1-------
+    status: AA
+    date: '1601'
+    iata: ''
+    coordinates: '5902N 02317E'
     remarks: ''
 -
     ch: ''
@@ -2091,7 +2871,7 @@
     locode: 'EE RNM'
     name: Rannametsa
     namewodiacritics: Rannametsa
-    subdiv: '67'
+    subdiv: '68'
     function: 1-------
     status: AA
     date: '1007'
@@ -2100,22 +2880,10 @@
     remarks: ''
 -
     ch: ''
-    locode: 'EE RPA'
-    name: Räpina
-    namewodiacritics: Rapina
-    subdiv: '65'
-    function: '--3-----'
-    status: RL
-    date: '0601'
-    iata: ''
-    coordinates: '5806N 02726E'
-    remarks: ''
--
-    ch: ''
     locode: 'EE RPI'
     name: Räpina
     namewodiacritics: Rapina
-    subdiv: '65'
+    subdiv: '64'
     function: 1-------
     status: AA
     date: '1007'
@@ -2124,10 +2892,22 @@
     remarks: ''
 -
     ch: ''
+    locode: 'EE RPA'
+    name: Räpina
+    namewodiacritics: Rapina
+    subdiv: '64'
+    function: '--3-----'
+    status: RL
+    date: '0601'
+    iata: ''
+    coordinates: '5806N 02726E'
+    remarks: ''
+-
+    ch: ''
     locode: 'EE AEG'
     name: Rapla
     namewodiacritics: Rapla
-    subdiv: '70'
+    subdiv: '71'
     function: '-----6--'
     status: RL
     date: '0901'
@@ -2139,7 +2919,7 @@
     locode: 'EE RBS'
     name: 'Rebase Paadisadam'
     namewodiacritics: 'Rebase Paadisadam'
-    subdiv: '78'
+    subdiv: '79'
     function: 1-------
     status: AA
     date: '1301'
@@ -2151,7 +2931,7 @@
     locode: 'EE RVS'
     name: 'Remniku Vanasadam'
     namewodiacritics: 'Remniku Vanasadam'
-    subdiv: '44'
+    subdiv: '45'
     function: 1-------
     status: AA
     date: '1201'
@@ -2163,7 +2943,7 @@
     locode: 'EE REO'
     name: Reola
     namewodiacritics: Reola
-    subdiv: '78'
+    subdiv: '79'
     function: '-----6--'
     status: RL
     date: '0901'
@@ -2187,7 +2967,7 @@
     locode: 'EE RID'
     name: Ridala
     namewodiacritics: Ridala
-    subdiv: '57'
+    subdiv: '56'
     function: '-23-----'
     status: RL
     date: '0407'
@@ -2247,7 +3027,7 @@
     locode: 'EE RHK'
     name: Rohuküla
     namewodiacritics: Rohukula
-    subdiv: '57'
+    subdiv: '56'
     function: 1------B
     status: AA
     date: '1201'
@@ -2283,7 +3063,7 @@
     locode: 'EE RGU'
     name: Rõngu
     namewodiacritics: Rongu
-    subdiv: '78'
+    subdiv: '79'
     function: '--3-----'
     status: RL
     date: '0501'
@@ -2328,6 +3108,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'EE RUV'
+    name: Ruhve
+    namewodiacritics: Ruhve
+    subdiv: '74'
+    function: 1-------
+    status: AA
+    date: '1407'
+    iata: ''
+    coordinates: '5823N 02302E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'EE SGS'
+    name: 'Saaga Sadam'
+    namewodiacritics: 'Saaga Sadam'
+    subdiv: '79'
+    function: 1-------
+    status: AA
+    date: '1607'
+    iata: ''
+    coordinates: '5823N 02659E'
+    remarks: ''
+-
+    ch: ''
     locode: 'EE SMA'
     name: 'Saaremaa sadam'
     namewodiacritics: 'Saaremaa sadam'
@@ -2343,7 +3147,7 @@
     locode: 'EE SRA'
     name: Saarepera
     namewodiacritics: Saarepera
-    subdiv: '65'
+    subdiv: '64'
     function: 1-------
     status: AA
     date: '1007'
@@ -2355,12 +3159,24 @@
     locode: 'EE SVS'
     name: 'Saastna Vanasadam'
     namewodiacritics: 'Saastna Vanasadam'
-    subdiv: '57'
+    subdiv: '56'
     function: 1-------
     status: AA
     date: '1201'
     iata: ''
     coordinates: '5844N 02334E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'EE SAI'
+    name: Saiakopli
+    namewodiacritics: Saiakopli
+    subdiv: '60'
+    function: '--3-----'
+    status: AA
+    date: '1807'
+    iata: ''
+    coordinates: '5913N 02604E'
     remarks: ''
 -
     ch: ''
@@ -2397,6 +3213,18 @@
     date: '1301'
     iata: ''
     coordinates: '5850N 02257E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'EE SNP'
+    name: 'Salinõmme Paadisadam'
+    namewodiacritics: 'Salinomme Paadisadam'
+    subdiv: '39'
+    function: 1-------
+    status: AA
+    date: '1601'
+    iata: ''
+    coordinates: '5859N 02257E'
     remarks: ''
 -
     ch: ''
@@ -2439,7 +3267,7 @@
     locode: 'EE SLT'
     name: 'Salutaguse, Kaiu'
     namewodiacritics: 'Salutaguse, Kaiu'
-    subdiv: '70'
+    subdiv: '71'
     function: '--3-----'
     status: RL
     date: '0901'
@@ -2451,7 +3279,7 @@
     locode: 'EE SAS'
     name: Sassukvere
     namewodiacritics: Sassukvere
-    subdiv: '49'
+    subdiv: '50'
     function: 1-------
     status: AA
     date: '1007'
@@ -2475,7 +3303,7 @@
     locode: 'EE SAG'
     name: Sauga
     namewodiacritics: Sauga
-    subdiv: '67'
+    subdiv: '68'
     function: '--3-----'
     status: RL
     date: '1301'
@@ -2487,7 +3315,7 @@
     locode: 'EE SLJ'
     name: Selja
     namewodiacritics: Selja
-    subdiv: '67'
+    subdiv: '68'
     function: '--3-----'
     status: RQ
     date: '0901'
@@ -2496,10 +3324,22 @@
     remarks: ''
 -
     ch: ''
+    locode: 'EE SIG'
+    name: 'Sigatsuaru Väikesadam'
+    namewodiacritics: 'Sigatsuaru Vaikesadam'
+    subdiv: '68'
+    function: 1-------
+    status: AA
+    date: '1601'
+    iata: ''
+    coordinates: '5809N 02400E'
+    remarks: ''
+-
+    ch: ''
     locode: 'EE SLM'
     name: Sillamäe
     namewodiacritics: Sillamae
-    subdiv: '44'
+    subdiv: '45'
     function: 123----B
     status: AA
     date: '1201'
@@ -2511,7 +3351,7 @@
     locode: 'EE SIN'
     name: Sindi
     namewodiacritics: Sindi
-    subdiv: '67'
+    subdiv: '68'
     function: '-23-----'
     status: RL
     date: '1301'
@@ -2547,7 +3387,7 @@
     locode: 'EE SMR'
     name: Sõmeru
     namewodiacritics: Someru
-    subdiv: '59'
+    subdiv: '60'
     function: '--3-----'
     status: RL
     date: '0907'
@@ -2556,15 +3396,39 @@
     remarks: ''
 -
     ch: ''
+    locode: 'EE SDA'
+    name: Sonda
+    namewodiacritics: Sonda
+    subdiv: '45'
+    function: '-----6--'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '5920N 02650E'
+    remarks: ''
+-
+    ch: ''
     locode: 'EE SSO'
     name: Soo
     namewodiacritics: Soo
-    subdiv: '49'
+    subdiv: '50'
     function: 1-------
     status: AA
     date: '1007'
     iata: ''
     coordinates: '5843N 02707E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'EE SV6'
+    name: Soodevahe
+    namewodiacritics: Soodevahe
+    subdiv: '37'
+    function: '-----6--'
+    status: AA
+    date: '1801'
+    iata: ''
+    coordinates: '5924N 02452E'
     remarks: ''
 -
     ch: ''
@@ -2580,15 +3444,75 @@
     remarks: ''
 -
     ch: ''
+    locode: 'EE SRV'
+    name: 'Sõru Väikelaevasadam'
+    namewodiacritics: 'Soru Vaikelaevasadam'
+    subdiv: '39'
+    function: 1-------
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '5842N 02231E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'EE SUA'
+    name: Suaru
+    namewodiacritics: Suaru
+    subdiv: '68'
+    function: 1-------
+    status: AA
+    date: '1601'
+    iata: ''
+    coordinates: '5808N 02401E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'EE SUK'
+    name: 'Suaru Kalasadam'
+    namewodiacritics: 'Suaru Kalasadam'
+    subdiv: '68'
+    function: 1-------
+    status: AA
+    date: '1801'
+    iata: ''
+    coordinates: '5808N 02400E'
+    remarks: ''
+-
+    ch: ''
     locode: 'EE SHL'
     name: Suur-Holmi
     namewodiacritics: Suur-Holmi
-    subdiv: '57'
+    subdiv: '56'
     function: 1-------
     status: AA
     date: '1007'
     iata: ''
     coordinates: '5858N 02332E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'EE SUL'
+    name: Suur-Lootsi
+    namewodiacritics: Suur-Lootsi
+    subdiv: '45'
+    function: 1-------
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '5928N 02803E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'EE SUR'
+    name: Suurpea
+    namewodiacritics: Suurpea
+    subdiv: '37'
+    function: 1-------
+    status: AA
+    date: '1407'
+    iata: ''
+    coordinates: '5938N 02541E'
     remarks: ''
 -
     ch: ''
@@ -2607,12 +3531,24 @@
     locode: 'EE SVI'
     name: Sviby
     namewodiacritics: Sviby
-    subdiv: '57'
+    subdiv: '56'
     function: 1-------
     status: AA
     date: '1201'
     iata: ''
     coordinates: '5858N 02319E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'EE TAL'
+    name: 'Taaliku Sadam'
+    namewodiacritics: 'Taaliku Sadam'
+    subdiv: '74'
+    function: 1-------
+    status: AA
+    date: '1607'
+    iata: ''
+    coordinates: '5836N 02259E'
     remarks: ''
 -
     ch: ''
@@ -2625,6 +3561,18 @@
     date: '1301'
     iata: ''
     coordinates: '5925N 02431E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'EE TAB'
+    name: Tabivere
+    namewodiacritics: Tabivere
+    subdiv: '79'
+    function: '--3-----'
+    status: AA
+    date: '2101'
+    iata: ''
+    coordinates: '5833N 02634E'
     remarks: ''
 -
     ch: ''
@@ -2644,11 +3592,23 @@
     name: Tallinn
     namewodiacritics: Tallinn
     subdiv: '37'
-    function: 1--45---
+    function: 12-45---
     status: AI
-    date: '0212'
+    date: '2007'
     iata: ''
     coordinates: '5926N 02444E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'EE TLV'
+    name: Talvesadam
+    namewodiacritics: Talvesadam
+    subdiv: '68'
+    function: 1-------
+    status: AA
+    date: '1401'
+    iata: ''
+    coordinates: '5823N 02430E'
     remarks: ''
 -
     ch: ''
@@ -2656,18 +3616,30 @@
     name: Tammelao
     namewodiacritics: Tammelao
     subdiv: '74'
-    function: 1-------
+    function: 0-------
     status: AA
-    date: '1007'
+    date: '1901'
     iata: ''
     coordinates: '5825N 02307E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'EE TMN'
+    name: 'Tammneeme Sadam'
+    namewodiacritics: 'Tammneeme Sadam'
+    subdiv: '37'
+    function: 1-------
+    status: AA
+    date: '1801'
+    iata: ''
+    coordinates: '5931N 02453E'
     remarks: ''
 -
     ch: ''
     locode: 'EE AEA'
     name: Tamsalu
     namewodiacritics: Tamsalu
-    subdiv: '59'
+    subdiv: '60'
     function: '-----6--'
     status: RL
     date: '1301'
@@ -2679,7 +3651,7 @@
     locode: 'EE TAP'
     name: Tapa
     namewodiacritics: Tapa
-    subdiv: '59'
+    subdiv: '60'
     function: '-23-----'
     status: RL
     date: '1301'
@@ -2715,12 +3687,24 @@
     locode: 'EE TAY'
     name: Tartu
     namewodiacritics: Tartu
-    subdiv: '78'
+    subdiv: '79'
     function: '-234----'
     status: RL
     date: '1301'
     iata: ''
     coordinates: '5821N 02644E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'EE TRV'
+    name: Tarvastu
+    namewodiacritics: Tarvastu
+    subdiv: '84'
+    function: 1-------
+    status: AA
+    date: '1601'
+    iata: ''
+    coordinates: '5815N 02558E'
     remarks: ''
 -
     ch: ''
@@ -2751,7 +3735,7 @@
     locode: 'EE TOI'
     name: Toila
     namewodiacritics: Toila
-    subdiv: '44'
+    subdiv: '45'
     function: 1-3-----
     status: RL
     date: '1201'
@@ -2760,10 +3744,34 @@
     remarks: ''
 -
     ch: ''
+    locode: 'EE TJS'
+    name: 'Tori Jõesadam'
+    namewodiacritics: 'Tori Joesadam'
+    subdiv: '74'
+    function: 1-------
+    status: AA
+    date: '1801'
+    iata: ''
+    coordinates: '5815N 02228E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'EE RVA'
+    name: Tõrva
+    namewodiacritics: Torva
+    subdiv: '81'
+    function: '--3-----'
+    status: AA
+    date: '2101'
+    iata: ''
+    coordinates: '5800N 02556E'
+    remarks: ''
+-
+    ch: ''
     locode: 'EE TOV'
     name: Tõrvandi
     namewodiacritics: Torvandi
-    subdiv: '78'
+    subdiv: '79'
     function: '--3-----'
     status: RL
     date: '1301'
@@ -2775,7 +3783,7 @@
     locode: 'EE TRE'
     name: Treimani
     namewodiacritics: Treimani
-    subdiv: '67'
+    subdiv: '68'
     function: 1-------
     status: AA
     date: '1007'
@@ -2811,12 +3819,72 @@
     locode: 'EE TUR'
     name: Türi
     namewodiacritics: Turi
-    subdiv: '51'
+    subdiv: '52'
     function: '-23-----'
     status: RL
     date: '0601'
     iata: ''
     coordinates: '5848N 02525E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'EE TJA'
+    name: 'Turja Sadam'
+    namewodiacritics: 'Turja Sadam'
+    subdiv: '74'
+    function: 1-------
+    status: AA
+    date: '1607'
+    iata: ''
+    coordinates: '5820N 02256E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'EE TRU'
+    name: Turusadam
+    namewodiacritics: Turusadam
+    subdiv: '79'
+    function: 1-------
+    status: AA
+    date: '1607'
+    iata: ''
+    coordinates: '5822N 02644E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'EE UIS'
+    name: Uisusadam
+    namewodiacritics: Uisusadam
+    subdiv: '74'
+    function: 1-------
+    status: AA
+    date: '2007'
+    iata: ''
+    coordinates: '5833N 02305E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'EE URG'
+    name: 'Ürgoru Paadisadam'
+    namewodiacritics: 'Urgoru Paadisadam'
+    subdiv: '79'
+    function: 1-------
+    status: AA
+    date: '1801'
+    iata: ''
+    coordinates: '5822N 02659E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'EE VPA'
+    name: 'Vahtrepa Sadam'
+    namewodiacritics: 'Vahtrepa Sadam'
+    subdiv: '39'
+    function: 1-------
+    status: RL
+    date: '1901'
+    iata: ''
+    coordinates: '5853N 02301E'
     remarks: ''
 -
     ch: ''
@@ -2832,10 +3900,22 @@
     remarks: ''
 -
     ch: ''
+    locode: 'EE VMA'
+    name: Väike-Maarja
+    namewodiacritics: Vaike-Maarja
+    subdiv: '60'
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '5907N 02615E'
+    remarks: ''
+-
+    ch: ''
     locode: 'EE VTR'
     name: Väike-Turu
     namewodiacritics: Vaike-Turu
-    subdiv: '78'
+    subdiv: '79'
     function: 1-------
     status: AA
     date: '1007'
@@ -2847,7 +3927,7 @@
     locode: 'EE VAS'
     name: Vaisi
     namewodiacritics: Vaisi
-    subdiv: '57'
+    subdiv: '56'
     function: '--3-----'
     status: RL
     date: '1301'
@@ -2856,15 +3936,39 @@
     remarks: ''
 -
     ch: ''
+    locode: 'EE VAV'
+    name: Vaivara
+    namewodiacritics: Vaivara
+    subdiv: '45'
+    function: '-23-----'
+    status: AA
+    date: '2101'
+    iata: ''
+    coordinates: '5922N 02745E'
+    remarks: ''
+-
+    ch: ''
     locode: 'EE VLG'
     name: Valga
     namewodiacritics: Valga
-    subdiv: '82'
+    subdiv: '81'
     function: '--3-----'
     status: RL
     date: '1301'
     iata: ''
     coordinates: '5746N 02603E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'EE VLR'
+    name: Valmeranna
+    namewodiacritics: Valmeranna
+    subdiv: '74'
+    function: 1-------
+    status: AA
+    date: '1601'
+    iata: ''
+    coordinates: '5830N 02314E'
     remarks: ''
 -
     ch: ''
@@ -2880,10 +3984,22 @@
     remarks: ''
 -
     ch: ''
+    locode: 'EE VSG'
+    name: 'Vana-Sauga Sadam'
+    namewodiacritics: 'Vana-Sauga Sadam'
+    subdiv: '68'
+    function: 1-------
+    status: AA
+    date: '1607'
+    iata: ''
+    coordinates: '5823N 02429E'
+    remarks: ''
+-
+    ch: ''
     locode: 'EE VDA'
     name: Vändra
     namewodiacritics: Vandra
-    subdiv: '67'
+    subdiv: '68'
     function: '-23-----'
     status: RL
     date: '1301'
@@ -2895,7 +4011,7 @@
     locode: 'EE VRI'
     name: Värati
     namewodiacritics: Varati
-    subdiv: '67'
+    subdiv: '68'
     function: 1-------
     status: AA
     date: '1007'
@@ -2904,15 +4020,75 @@
     remarks: ''
 -
     ch: ''
+    locode: 'EE VPS'
+    name: 'Varbla Puhkeküla'
+    namewodiacritics: 'Varbla Puhkekula'
+    subdiv: '68'
+    function: 1-------
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '5826N 02341E'
+    remarks: ''
+-
+    ch: ''
     locode: 'EE VBA'
     name: Varbola
     namewodiacritics: Varbola
-    subdiv: '70'
+    subdiv: '71'
     function: '--3-----'
     status: RL
     date: '0601'
     iata: ''
     coordinates: '5903N 02427E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'EE VRS'
+    name: 'Varese Sadam'
+    namewodiacritics: 'Varese Sadam'
+    subdiv: '74'
+    function: 1-------
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '5835N 02224E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'EE VNJ'
+    name: 'Varnja Sadam'
+    namewodiacritics: 'Varnja Sadam'
+    subdiv: '79'
+    function: 1-------
+    status: AA
+    date: '1607'
+    iata: ''
+    coordinates: '5829N 02715E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'EE VRA'
+    name: 'Värska Sadam'
+    namewodiacritics: 'Varska Sadam'
+    subdiv: '87'
+    function: 1-------
+    status: AA
+    date: '2101'
+    iata: ''
+    coordinates: '5757N 02737E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'EE VAR'
+    name: Värssu
+    namewodiacritics: Varssu
+    subdiv: '39'
+    function: 1-------
+    status: AA
+    date: '1407'
+    iata: ''
+    coordinates: '5856N 02257E'
     remarks: ''
 -
     ch: ''
@@ -2931,7 +4107,7 @@
     locode: 'EE VNA'
     name: Vasknarva
     namewodiacritics: Vasknarva
-    subdiv: '44'
+    subdiv: '45'
     function: 1-3-----
     status: AA
     date: '0701'
@@ -2943,7 +4119,7 @@
     locode: 'EE VVN'
     name: 'Vasknarva Paadisadam'
     namewodiacritics: 'Vasknarva Paadisadam'
-    subdiv: '44'
+    subdiv: '45'
     function: 1-------
     status: AA
     date: '1301'
@@ -2952,34 +4128,10 @@
     remarks: ''
 -
     ch: ''
-    locode: 'EE VSK'
-    name: 'Vasknarva Reisisadam'
-    namewodiacritics: 'Vasknarva Reisisadam'
-    subdiv: '44'
-    function: 1-------
-    status: AA
-    date: '1007'
-    iata: ''
-    coordinates: '5901N 02744E'
-    remarks: ''
--
-    ch: ''
-    locode: 'EE VKS'
-    name: 'Vasknarva Sadam'
-    namewodiacritics: 'Vasknarva Sadam'
-    subdiv: '44'
-    function: 1-------
-    status: AA
-    date: '1201'
-    iata: ''
-    coordinates: '5900N 02744E'
-    remarks: ''
--
-    ch: ''
     locode: 'EE VUS'
     name: 'Vasknarva Uussadam'
     namewodiacritics: 'Vasknarva Uussadam'
-    subdiv: '44'
+    subdiv: '45'
     function: 1-------
     status: AA
     date: '1201'
@@ -3000,6 +4152,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'EE VVM'
+    name: 'Veere Vanasadam'
+    namewodiacritics: 'Veere Vanasadam'
+    subdiv: '74'
+    function: 1-------
+    status: AA
+    date: '1407'
+    iata: ''
+    coordinates: '5828N 02203E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'EE VEI'
+    name: Veibri
+    namewodiacritics: Veibri
+    subdiv: '79'
+    function: 0-------
+    status: AA
+    date: '2001'
+    iata: ''
+    coordinates: '5820N 02647E'
+    remarks: ''
+-
+    ch: ''
     locode: 'EE VEB'
     name: Vene-Balti
     namewodiacritics: Vene-Balti
@@ -3009,6 +4185,18 @@
     date: '1201'
     iata: ''
     coordinates: '5927N 02439E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'EE VER'
+    name: Vergi
+    namewodiacritics: Vergi
+    subdiv: '60'
+    function: 1-------
+    status: AA
+    date: '1407'
+    iata: ''
+    coordinates: '5836N 02606E'
     remarks: ''
 -
     ch: ''
@@ -3036,6 +4224,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'EE VIN'
+    name: 'Viinistu Sadam'
+    namewodiacritics: 'Viinistu Sadam'
+    subdiv: '37'
+    function: 1-------
+    status: AA
+    date: '1801'
+    iata: ''
+    coordinates: '5939N 02545E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'EE VIK'
+    name: 'Vikati Sadam'
+    namewodiacritics: 'Vikati Sadam'
+    subdiv: '74'
+    function: 1-------
+    status: AA
+    date: '1701'
+    iata: ''
+    coordinates: '5822N 02152E'
+    remarks: ''
+-
+    ch: ''
     locode: 'EE VIL'
     name: Viljandi
     namewodiacritics: Viljandi
@@ -3051,7 +4263,7 @@
     locode: 'EE VIR'
     name: Virtsu
     namewodiacritics: Virtsu
-    subdiv: '57'
+    subdiv: '56'
     function: 1------B
     status: AA
     date: '1201'
@@ -3063,7 +4275,7 @@
     locode: 'EE VIS'
     name: 'Virtsu Kalasadam'
     namewodiacritics: 'Virtsu Kalasadam'
-    subdiv: '57'
+    subdiv: '56'
     function: 1-------
     status: AA
     date: '1201'
@@ -3075,7 +4287,7 @@
     locode: 'EE VVS'
     name: 'Virtsu Vanasadam'
     namewodiacritics: 'Virtsu Vanasadam'
-    subdiv: '57'
+    subdiv: '56'
     function: 1-------
     status: AA
     date: '1201'
@@ -3087,7 +4299,7 @@
     locode: 'EE VDU'
     name: Võidu
     namewodiacritics: Voidu
-    subdiv: '67'
+    subdiv: '68'
     function: 1-------
     status: AA
     date: '1201'
@@ -3099,7 +4311,7 @@
     locode: 'EE VOI'
     name: Võiste
     namewodiacritics: Voiste
-    subdiv: '67'
+    subdiv: '68'
     function: 1-------
     status: AA
     date: '1101'
@@ -3111,12 +4323,24 @@
     locode: 'EE VOP'
     name: Võõpsu
     namewodiacritics: Voopsu
-    subdiv: '65'
+    subdiv: '64'
     function: 1-------
     status: AA
     date: '1007'
     iata: ''
     coordinates: '5805N 02733E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'EE VOK'
+    name: 'Võõpsu Külasadam'
+    namewodiacritics: 'Voopsu Kulasadam'
+    subdiv: '87'
+    function: 1-------
+    status: AA
+    date: '2101'
+    iata: ''
+    coordinates: '5804N 02733E'
     remarks: ''
 -
     ch: ''
@@ -3147,7 +4371,7 @@
     locode: 'EE VRU'
     name: Võru
     namewodiacritics: Voru
-    subdiv: '86'
+    subdiv: '87'
     function: '-----6--'
     status: RL
     date: '1301'
@@ -3156,10 +4380,22 @@
     remarks: ''
 -
     ch: ''
+    locode: 'EE VOS'
+    name: Võsu
+    namewodiacritics: Vosu
+    subdiv: '60'
+    function: 1-------
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '5935N 02558E'
+    remarks: ''
+-
+    ch: ''
     locode: 'EE WST'
     name: Westmeri
     namewodiacritics: Westmeri
-    subdiv: '57'
+    subdiv: '56'
     function: 1-------
     status: AA
     date: '1101'
@@ -3171,7 +4407,7 @@
     locode: 'EE WJS'
     name: 'Westmeri Jahisadam'
     namewodiacritics: 'Westmeri Jahisadam'
-    subdiv: '57'
+    subdiv: '56'
     function: 1-------
     status: AA
     date: '1107'

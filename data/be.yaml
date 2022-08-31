@@ -396,6 +396,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'BE ANG'
+    name: Angreau
+    namewodiacritics: Angreau
+    subdiv: WHT
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '5021N 00341E'
+    remarks: ''
+-
+    ch: ''
     locode: 'BE ANH'
     name: Anhée
     namewodiacritics: Anhee
@@ -768,6 +780,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'BE 7PD'
+    name: Athis
+    namewodiacritics: Athis
+    subdiv: WHT
+    function: 1-3-----
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '5022N 00346E'
+    remarks: ''
+-
+    ch: ''
     locode: 'BE AAT'
     name: Athus
     namewodiacritics: Athus
@@ -948,6 +972,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'BE W5R'
+    name: Awirs
+    namewodiacritics: Awirs
+    subdiv: WLG
+    function: 1-3-----
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '5036N 00524E'
+    remarks: ''
+-
+    ch: ''
     locode: 'BE AYW'
     name: Aywaille
     namewodiacritics: Aywaille
@@ -1092,6 +1128,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'BE BNN'
+    name: Banneux
+    namewodiacritics: Banneux
+    subdiv: WLG
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5032N 00544E'
+    remarks: ''
+-
+    ch: ''
     locode: 'BE BCN'
     name: Barchon
     namewodiacritics: Barchon
@@ -1101,6 +1149,18 @@
     date: '0307'
     iata: ''
     coordinates: '5040N 00542E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BE BRV'
+    name: Baronville
+    namewodiacritics: Baronville
+    subdiv: WNA
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '5008N 00457E'
     remarks: ''
 -
     ch: ''
@@ -1413,6 +1473,18 @@
     date: '0307'
     iata: ''
     coordinates: '5046N 00418E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BE BSZ'
+    name: Beerst
+    namewodiacritics: Beerst
+    subdiv: VWV
+    function: '--3-----'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '5104N 00253E'
     remarks: ''
 -
     ch: ''
@@ -1812,6 +1884,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'BE BR3'
+    name: Beselare
+    namewodiacritics: Beselare
+    subdiv: VWV
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5051N 00301E'
+    remarks: ''
+-
+    ch: ''
     locode: 'BE BET'
     name: Bettincourt
     namewodiacritics: Bettincourt
@@ -2112,6 +2196,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'BE BAD'
+    name: Blaasveld
+    namewodiacritics: Blaasveld
+    subdiv: VAN
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '5103N 00422E'
+    remarks: ''
+-
+    ch: ''
     locode: 'BE BIM'
     name: Blaimont
     namewodiacritics: Blaimont
@@ -2159,7 +2255,7 @@
     coordinates: '5119N 00308E'
     remarks: ''
 -
-    ch: +
+    ch: ''
     locode: 'BE WHT'
     name: Blaregnies
     namewodiacritics: Blaregnies
@@ -2289,6 +2385,18 @@
     date: '0307'
     iata: ''
     coordinates: '5042N 00353E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BE BDV'
+    name: Bois-De-Villers
+    namewodiacritics: Bois-De-Villers
+    subdiv: WNA
+    function: '--3-----'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '5023N 00449E'
     remarks: ''
 -
     ch: ''
@@ -2484,6 +2592,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'BE BNR'
+    name: Born
+    namewodiacritics: Born
+    subdiv: WLG
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5020N 00607E'
+    remarks: ''
+-
+    ch: ''
     locode: 'BE BON'
     name: Bornem
     namewodiacritics: Bornem
@@ -2568,6 +2688,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'BE QW2'
+    name: Bouffioulx
+    namewodiacritics: Bouffioulx
+    subdiv: WHT
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '5023N 00430E'
+    remarks: ''
+-
+    ch: ''
     locode: 'BE BUG'
     name: Bouge
     namewodiacritics: Bouge
@@ -2577,6 +2709,18 @@
     date: '0307'
     iata: ''
     coordinates: '5028N 00454E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BE BO2'
+    name: Bougnies
+    namewodiacritics: Bougnies
+    subdiv: WHT
+    function: 1-3-----
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '5023N 00356E'
     remarks: ''
 -
     ch: ''
@@ -3072,6 +3216,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'BE BL7'
+    name: Bullingen
+    namewodiacritics: Bullingen
+    subdiv: WLG
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '5024N 00615E'
+    remarks: ''
+-
+    ch: ''
     locode: 'BE BUD'
     name: Burcht
     namewodiacritics: Burcht
@@ -3228,18 +3384,6 @@
     remarks: ''
 -
     ch: ''
-    locode: 'BE CLE'
-    name: Celles
-    namewodiacritics: Celles
-    subdiv: WHT
-    function: '--3-----'
-    status: RN
-    date: '0307'
-    iata: ''
-    coordinates: '5043N 00327E'
-    remarks: ''
--
-    ch: ''
     locode: 'BE CEL'
     name: Celles
     namewodiacritics: Celles
@@ -3249,6 +3393,18 @@
     date: '0307'
     iata: ''
     coordinates: '5014N 00501E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BE CLE'
+    name: Celles
+    namewodiacritics: Celles
+    subdiv: WHT
+    function: '--3-----'
+    status: RN
+    date: '0307'
+    iata: ''
+    coordinates: '5043N 00327E'
     remarks: ''
 -
     ch: ''
@@ -3744,6 +3900,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'BE CIG'
+    name: Corroy-le-Grand
+    namewodiacritics: Corroy-le-Grand
+    subdiv: WBR
+    function: '--3-----'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '5040N 00441E'
+    remarks: ''
+-
+    ch: ''
     locode: 'BE COU'
     name: Couillet
     namewodiacritics: Couillet
@@ -4108,11 +4276,11 @@
     name: Denderwindeke
     namewodiacritics: Denderwindeke
     subdiv: VOV
-    function: '-----6--'
-    status: RQ
-    date: '0907'
+    function: '--3-----'
+    status: RL
+    date: '1707'
     iata: ''
-    coordinates: '5048N 41000E'
+    coordinates: '5050N 00401E'
     remarks: ''
 -
     ch: ''
@@ -4380,6 +4548,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'BE DOL'
+    name: Dolembreux
+    namewodiacritics: Dolembreux
+    subdiv: WLG
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '5032N 00538E'
+    remarks: ''
+-
+    ch: ''
     locode: 'BE DCE'
     name: Donceel
     namewodiacritics: Donceel
@@ -4557,6 +4737,18 @@
     date: '0307'
     iata: ''
     coordinates: '5044N 00418E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BE 9IR'
+    name: Eben-Emael
+    namewodiacritics: Eben-Emael
+    subdiv: WLG
+    function: 1-3-----
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '5048N 00540E'
     remarks: ''
 -
     ch: ''
@@ -5208,6 +5400,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'BE E8O'
+    name: Etikhove
+    namewodiacritics: Etikhove
+    subdiv: VOV
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '5049N 00337E'
+    remarks: ''
+-
+    ch: ''
     locode: 'BE ETE'
     name: Etterbeek
     namewodiacritics: Etterbeek
@@ -5280,6 +5484,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'BE EVX'
+    name: Eveux
+    namewodiacritics: Eveux
+    subdiv: WLX
+    function: '-----6--'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '5019N 00534E'
+    remarks: ''
+-
+    ch: ''
     locode: 'BE EYT'
     name: Eynatten
     namewodiacritics: Eynatten
@@ -5337,6 +5553,18 @@
     date: '0307'
     iata: ''
     coordinates: '5026N 00433E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BE FLT'
+    name: 'Faulx-Les Tombes'
+    namewodiacritics: 'Faulx-Les Tombes'
+    subdiv: WNA
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '5025N 00500E'
     remarks: ''
 -
     ch: ''
@@ -5493,6 +5721,18 @@
     date: '0307'
     iata: ''
     coordinates: '5036N 00528E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BE FMG'
+    name: Flémalle-Grande
+    namewodiacritics: Flemalle-Grande
+    subdiv: WLG
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '5036N 00529E'
     remarks: ''
 -
     ch: ''
@@ -5868,6 +6108,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'BE FLG'
+    name: Frasnes-lez-Gosselies
+    namewodiacritics: Frasnes-lez-Gosselies
+    subdiv: WHT
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '5032N 00426E'
+    remarks: ''
+-
+    ch: ''
     locode: 'BE FRY'
     name: Freylange
     namewodiacritics: Freylange
@@ -6093,6 +6345,18 @@
     date: '0601'
     iata: ''
     coordinates: '5050N 00259E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BE GLW'
+    name: Geluwe
+    namewodiacritics: Geluwe
+    subdiv: VWV
+    function: '--3-----'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '5048N 00304E'
     remarks: ''
 -
     ch: ''
@@ -6792,6 +7056,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'BE GUT'
+    name: Gutschoven
+    namewodiacritics: Gutschoven
+    subdiv: VLI
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '5046N 00519E'
+    remarks: ''
+-
+    ch: ''
     locode: 'BE HAC'
     name: Haacht
     namewodiacritics: Haacht
@@ -6813,6 +7089,18 @@
     date: '0307'
     iata: ''
     coordinates: '5054N 00400E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BE HDQ'
+    name: Haasdonk
+    namewodiacritics: Haasdonk
+    subdiv: VOV
+    function: '--3-----'
+    status: RL
+    date: '1707'
+    iata: ''
+    coordinates: '5111N 00415E'
     remarks: ''
 -
     ch: ''
@@ -7008,6 +7296,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'BE MHA'
+    name: Ham
+    namewodiacritics: Ham
+    subdiv: VLI
+    function: '--3-----'
+    status: RL
+    date: '1707'
+    iata: ''
+    coordinates: '5106N 00508E'
+    remarks: ''
+-
+    ch: ''
     locode: 'BE HAW'
     name: Ham
     namewodiacritics: Ham
@@ -7017,6 +7317,18 @@
     date: '0901'
     iata: ''
     coordinates: '5019N 00422E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BE HMM'
+    name: Hamme
+    namewodiacritics: Hamme
+    subdiv: VOV
+    function: 123-----
+    status: RL
+    date: '0307'
+    iata: ''
+    coordinates: '5105N 00332E'
     remarks: ''
 -
     ch: ''
@@ -7041,18 +7353,6 @@
     date: '0212'
     iata: ''
     coordinates: '5106N 00408E'
-    remarks: ''
--
-    ch: ''
-    locode: 'BE HMM'
-    name: Hamme
-    namewodiacritics: Hamme
-    subdiv: VOV
-    function: 123-----
-    status: RL
-    date: '0307'
-    iata: ''
-    coordinates: '5105N 00332E'
     remarks: ''
 -
     ch: ''
@@ -8100,6 +8400,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'BE H9G'
+    name: Hoepertingen
+    namewodiacritics: Hoepertingen
+    subdiv: VLI
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '5049N 00517E'
+    remarks: ''
+-
+    ch: ''
     locode: 'BE HOE'
     name: Hoeselt
     namewodiacritics: Hoeselt
@@ -8183,7 +8495,7 @@
     coordinates: '5048N 00256E'
     remarks: ''
 -
-    ch: +
+    ch: ''
     locode: 'BE HLG'
     name: Hollogne-sur-Geer
     namewodiacritics: Hollogne-sur-Geer
@@ -8904,6 +9216,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'BE JMO'
+    name: Jamoigne
+    namewodiacritics: Jamoigne
+    subdiv: WLX
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '4942N 00525E'
+    remarks: ''
+-
+    ch: ''
     locode: 'BE JAV'
     name: Java
     namewodiacritics: Java
@@ -9081,6 +9405,18 @@
     date: '0307'
     iata: ''
     coordinates: '5038N 00322E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BE KBV'
+    name: Kalken
+    namewodiacritics: Kalken
+    subdiv: VOV
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5102N 00355E'
     remarks: ''
 -
     ch: ''
@@ -9288,6 +9624,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'BE KNL'
+    name: Kerniel
+    namewodiacritics: Kerniel
+    subdiv: VLI
+    function: '--3-----'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '5049N 00521E'
+    remarks: ''
+-
+    ch: ''
     locode: 'BE KMO'
     name: Kersbeek-Miskom
     namewodiacritics: Kersbeek-Miskom
@@ -9321,6 +9669,18 @@
     date: '0307'
     iata: ''
     coordinates: '5054N 00445E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BE KS3'
+    name: Kesselt
+    namewodiacritics: Kesselt
+    subdiv: VLI
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '5050N 00537E'
     remarks: ''
 -
     ch: ''
@@ -9396,6 +9756,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'BE KWB'
+    name: 'Klein Willebroek'
+    namewodiacritics: 'Klein Willebroek'
+    subdiv: ''
+    function: 0-------
+    status: AA
+    date: '1407'
+    iata: ''
+    coordinates: '5105N 00421E'
+    remarks: ''
+-
+    ch: ''
     locode: 'BE KLS'
     name: Kleine-Spouwen
     namewodiacritics: Kleine-Spouwen
@@ -9439,6 +9811,18 @@
     function: 1-3-----
     status: RN
     date: '0307'
+    iata: ''
+    coordinates: '5108N 00325E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BE BZZ'
+    name: Knesselare
+    namewodiacritics: Knesselare
+    subdiv: VOV
+    function: '--3-----'
+    status: RL
+    date: '1601'
     iata: ''
     coordinates: '5108N 00325E'
     remarks: ''
@@ -9648,6 +10032,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'BE KZN'
+    name: Kozen
+    namewodiacritics: Kozen
+    subdiv: VLI
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5053N 00414E'
+    remarks: ''
+-
+    ch: ''
     locode: 'BE KRA'
     name: Kraainem
     namewodiacritics: Kraainem
@@ -9828,18 +10224,6 @@
     remarks: ''
 -
     ch: ''
-    locode: 'BE YZO'
-    name: Laakdal
-    namewodiacritics: Laakdal
-    subdiv: VLI
-    function: '--3-----'
-    status: RN
-    date: '0307'
-    iata: ''
-    coordinates: '5105N 00459E'
-    remarks: ''
--
-    ch: ''
     locode: 'BE LDA'
     name: Laakdal
     namewodiacritics: Laakdal
@@ -9849,6 +10233,18 @@
     date: '0701'
     iata: ''
     coordinates: '5105N 00504E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BE YZO'
+    name: Laakdal
+    namewodiacritics: Laakdal
+    subdiv: VLI
+    function: '--3-----'
+    status: RN
+    date: '0307'
+    iata: ''
+    coordinates: '5105N 00459E'
     remarks: ''
 -
     ch: ''
@@ -9921,6 +10317,18 @@
     date: '0701'
     iata: ''
     coordinates: '5035N 00550E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BE LBT'
+    name: Lambusart
+    namewodiacritics: Lambusart
+    subdiv: WHT
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '5027N 00433E'
     remarks: ''
 -
     ch: ''
@@ -10656,6 +11064,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'BE LIV'
+    name: Lievegem
+    namewodiacritics: Lievegem
+    subdiv: VOV
+    function: '--3-----'
+    status: RL
+    date: '2001'
+    iata: ''
+    coordinates: '5106N 00336E'
+    remarks: ''
+-
+    ch: ''
     locode: 'BE LGN'
     name: Ligne
     namewodiacritics: Ligne
@@ -11184,6 +11604,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'BE LIU'
+    name: Luingne
+    namewodiacritics: Luingne
+    subdiv: WHT
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '5044N 00314E'
+    remarks: ''
+-
+    ch: ''
     locode: 'BE LUM'
     name: Lummen
     namewodiacritics: Lummen
@@ -11268,18 +11700,6 @@
     remarks: ''
 -
     ch: ''
-    locode: 'BE MAC'
-    name: Machelen
-    namewodiacritics: Machelen
-    subdiv: VBR
-    function: '--3-----'
-    status: RN
-    date: '0307'
-    iata: ''
-    coordinates: '5055N 00426E'
-    remarks: ''
--
-    ch: ''
     locode: 'BE MCN'
     name: Machelen
     namewodiacritics: Machelen
@@ -11289,6 +11709,18 @@
     date: '0401'
     iata: ''
     coordinates: '5058N 00329E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BE MAC'
+    name: Machelen
+    namewodiacritics: Machelen
+    subdiv: VBR
+    function: '--3-----'
+    status: RN
+    date: '0307'
+    iata: ''
+    coordinates: '5055N 00426E'
     remarks: ''
 -
     ch: ''
@@ -11424,6 +11856,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'BE MN2'
+    name: Malderen
+    namewodiacritics: Malderen
+    subdiv: VBR
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '5101N 00415E'
+    remarks: ''
+-
+    ch: ''
     locode: 'BE MAL'
     name: Malle
     namewodiacritics: Malle
@@ -11556,6 +12000,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'BE ECA'
+    name: Marche-Lez-Ecaussinnes
+    namewodiacritics: Marche-Lez-Ecaussinnes
+    subdiv: WHT
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '5033N 00410E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BE 2HW'
+    name: Marche-lez-Écaussinnes
+    namewodiacritics: Marche-lez-Ecaussinnes
+    subdiv: WHT
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '5033N 00411E'
+    remarks: ''
+-
+    ch: ''
     locode: 'BE MAP'
     name: Marchienne-au-Pont
     namewodiacritics: Marchienne-au-Pont
@@ -11604,6 +12072,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'BE MOU'
+    name: Marienbourg
+    namewodiacritics: Marienbourg
+    subdiv: WNA
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '5006N 00431E'
+    remarks: ''
+-
+    ch: ''
     locode: 'BE MAR'
     name: Marke
     namewodiacritics: Marke
@@ -11613,6 +12093,18 @@
     date: '0307'
     iata: ''
     coordinates: '5048N 00313E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BE MOI'
+    name: Marloie
+    namewodiacritics: Marloie
+    subdiv: WLX
+    function: '-23-----'
+    status: RL
+    date: '2001'
+    iata: ''
+    coordinates: '5011N 00519E'
     remarks: ''
 -
     ch: ''
@@ -12420,6 +12912,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'BE JK8'
+    name: Moerdijk
+    namewodiacritics: Moerdijk
+    subdiv: VWV
+    function: '-23-----'
+    status: RL
+    date: '1901'
+    iata: ''
+    coordinates: '5108N 00259E'
+    remarks: ''
+-
+    ch: ''
     locode: 'BE MOK'
     name: Moerkerke
     namewodiacritics: Moerkerke
@@ -12636,6 +13140,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'BE MTN'
+    name: Montegnee
+    namewodiacritics: Montegnee
+    subdiv: WLG
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5039N 00531E'
+    remarks: ''
+-
+    ch: ''
     locode: 'BE MON'
     name: Montignies-le-Tilleul
     namewodiacritics: Montignies-le-Tilleul
@@ -12645,6 +13161,18 @@
     date: '0212'
     iata: ''
     coordinates: '5023N 00422E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BE MS5'
+    name: Montignies-Sur-Roc
+    namewodiacritics: Montignies-Sur-Roc
+    subdiv: WHT
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5022N 00343E'
     remarks: ''
 -
     ch: ''
@@ -13332,6 +13860,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'BE NKW'
+    name: Nieuwkerken-Waas
+    namewodiacritics: Nieuwkerken-Waas
+    subdiv: VOV
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '5112N 00411E'
+    remarks: ''
+-
+    ch: ''
     locode: 'BE NIE'
     name: Nieuwpoort
     namewodiacritics: Nieuwpoort
@@ -13523,7 +14063,7 @@
     coordinates: '5028N 00400E'
     remarks: ''
 -
-    ch: +
+    ch: ''
     locode: 'BE VLD'
     name: Oedelem
     namewodiacritics: Oedelem
@@ -13944,6 +14484,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'BE OPH'
+    name: Ophasselt
+    namewodiacritics: Ophasselt
+    subdiv: VOV
+    function: '--3-----'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '5049N 00353E'
+    remarks: ''
+-
+    ch: ''
     locode: 'BE OHN'
     name: Ophoven
     namewodiacritics: Ophoven
@@ -14100,6 +14652,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'BE LOA'
+    name: Oteppe
+    namewodiacritics: Oteppe
+    subdiv: WLG
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '5035N 00508E'
+    remarks: ''
+-
+    ch: ''
     locode: 'BE OTI'
     name: 'Ottignies-Louvain-la Neuve'
     namewodiacritics: 'Ottignies-Louvain-la Neuve'
@@ -14133,6 +14697,18 @@
     date: '0307'
     iata: ''
     coordinates: '5051N 00336E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BE ODA'
+    name: Oudenaken
+    namewodiacritics: Oudenaken
+    subdiv: VBR
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '5047N 00412E'
     remarks: ''
 -
     ch: ''
@@ -14517,6 +15093,18 @@
     date: '0307'
     iata: ''
     coordinates: '5037N 00449E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BE PSH'
+    name: Pesche
+    namewodiacritics: Pesche
+    subdiv: WAL
+    function: '--3-----'
+    status: RL
+    date: '1707'
+    iata: ''
+    coordinates: '5003N 00427E'
     remarks: ''
 -
     ch: ''
@@ -15059,7 +15647,7 @@
     coordinates: '5038N 00455E'
     remarks: ''
 -
-    ch: +
+    ch: ''
     locode: 'BE RMD'
     name: Ramsdonk
     namewodiacritics: Ramsdonk
@@ -15180,18 +15768,6 @@
     remarks: ''
 -
     ch: ''
-    locode: 'BE REK'
-    name: Rekkem
-    namewodiacritics: Rekkem
-    subdiv: VOV
-    function: 1-3-----
-    status: RN
-    date: '0307'
-    iata: ''
-    coordinates: '5050N 00337E'
-    remarks: ''
--
-    ch: ''
     locode: 'BE RKM'
     name: Rekkem
     namewodiacritics: Rekkem
@@ -15201,6 +15777,18 @@
     date: '0307'
     iata: ''
     coordinates: '5047N 00309E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BE REK'
+    name: Rekkem
+    namewodiacritics: Rekkem
+    subdiv: VOV
+    function: 1-3-----
+    status: RN
+    date: '0307'
+    iata: ''
+    coordinates: '5050N 00337E'
     remarks: ''
 -
     ch: ''
@@ -15744,18 +16332,6 @@
     remarks: ''
 -
     ch: ''
-    locode: 'BE RUI'
-    name: Ruisbroek
-    namewodiacritics: Ruisbroek
-    subdiv: VBR
-    function: 1-3-----
-    status: RN
-    date: '0307'
-    iata: ''
-    coordinates: '5047N 00418E'
-    remarks: ''
--
-    ch: ''
     locode: 'BE SVG'
     name: Ruisbroek
     namewodiacritics: Ruisbroek
@@ -15765,6 +16341,18 @@
     date: '0307'
     iata: ''
     coordinates: '5105N 00420E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BE RUI'
+    name: Ruisbroek
+    namewodiacritics: Ruisbroek
+    subdiv: VBR
+    function: 1-3-----
+    status: RN
+    date: '0307'
+    iata: ''
+    coordinates: '5047N 00418E'
     remarks: ''
 -
     ch: ''
@@ -15900,18 +16488,6 @@
     remarks: ''
 -
     ch: ''
-    locode: 'BE SDI'
-    name: Saint-Denis
-    namewodiacritics: Saint-Denis
-    subdiv: WHT
-    function: '--3-----'
-    status: RN
-    date: '1101'
-    iata: ''
-    coordinates: '5029N 00401E'
-    remarks: ''
--
-    ch: ''
     locode: 'BE SDE'
     name: Saint-Denis
     namewodiacritics: Saint-Denis
@@ -15921,6 +16497,18 @@
     date: '1101'
     iata: ''
     coordinates: '5031N 00446E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BE SDI'
+    name: Saint-Denis
+    namewodiacritics: Saint-Denis
+    subdiv: WHT
+    function: '--3-----'
+    status: RN
+    date: '1101'
+    iata: ''
+    coordinates: '5029N 00401E'
     remarks: ''
 -
     ch: ''
@@ -16245,6 +16833,18 @@
     date: '0307'
     iata: ''
     coordinates: '5020N 00412E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BE WLS'
+    name: 'Sart Les Spa'
+    namewodiacritics: 'Sart Les Spa'
+    subdiv: WAL
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5031N 00556E'
     remarks: ''
 -
     ch: ''
@@ -17100,6 +17700,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'BE SHM'
+    name: Sint-Lievens-Houtem
+    namewodiacritics: Sint-Lievens-Houtem
+    subdiv: VOV
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '5055N 00351E'
+    remarks: ''
+-
+    ch: ''
     locode: 'BE SLH'
     name: Sint-Lievens-Houtem
     namewodiacritics: Sint-Lievens-Houtem
@@ -17121,6 +17733,18 @@
     date: '1101'
     iata: ''
     coordinates: '5116N 00332E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BE SMB'
+    name: Sint-Martens-Bodegem
+    namewodiacritics: Sint-Martens-Bodegem
+    subdiv: VBR
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '5052N 00412E'
     remarks: ''
 -
     ch: ''
@@ -18312,6 +18936,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'BE THT'
+    name: Thorembais-Saint-Trond
+    namewodiacritics: Thorembais-Saint-Trond
+    subdiv: WBR
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5038N 00447E'
+    remarks: ''
+-
+    ch: ''
     locode: 'BE TOB'
     name: Thorntonbank
     namewodiacritics: Thorntonbank
@@ -18405,6 +19041,18 @@
     date: '0307'
     iata: ''
     coordinates: '5048N 00328E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BE TLN'
+    name: Tielen
+    namewodiacritics: Tielen
+    subdiv: VAN
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5115N 00453E'
     remarks: ''
 -
     ch: ''
@@ -20169,6 +20817,18 @@
     date: '0307'
     iata: ''
     coordinates: '5041N 00418E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BE WAV'
+    name: Waver
+    namewodiacritics: Waver
+    subdiv: VOV
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '5056N 00406E'
     remarks: ''
 -
     ch: ''

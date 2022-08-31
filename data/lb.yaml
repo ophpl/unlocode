@@ -48,6 +48,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'LB AJA'
+    name: Ajaltoun
+    namewodiacritics: Ajaltoun
+    subdiv: JL
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '3358N 03541E'
+    remarks: ''
+-
+    ch: ''
     locode: 'LB KKR'
     name: Akkar
     namewodiacritics: Akkar
@@ -69,6 +81,42 @@
     date: '1301'
     iata: ''
     coordinates: '3348N 03535E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LB HBM'
+    name: 'Amaret Chalhoub'
+    namewodiacritics: 'Amaret Chalhoub'
+    subdiv: JL
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '3353N 03534E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LB ACT'
+    name: Amchit
+    namewodiacritics: Amchit
+    subdiv: JL
+    function: 1-------
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3409N 03538E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LB AMM'
+    name: Amioûn
+    namewodiacritics: Amioun
+    subdiv: AS
+    function: '--3-----'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '3418N 03548E'
     remarks: ''
 -
     ch: ''
@@ -156,6 +204,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'LB BR2'
+    name: Bauchrieh
+    namewodiacritics: Bauchrieh
+    subdiv: BA
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '3353N 03533E'
+    remarks: ''
+-
+    ch: ''
     locode: 'LB BMN'
     name: Bchamoun
     namewodiacritics: Bchamoun
@@ -168,13 +228,25 @@
     remarks: ''
 -
     ch: ''
+    locode: 'LB BSH'
+    name: Bechamoun
+    namewodiacritics: Bechamoun
+    subdiv: JL
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '3346N 03531E'
+    remarks: ''
+-
+    ch: ''
     locode: 'LB BEY'
     name: Beirut
     namewodiacritics: Beirut
-    subdiv: ''
+    subdiv: BA
     function: 1--45---
     status: AI
-    date: '0207'
+    date: '1601'
     iata: ''
     coordinates: '3350N 03529E'
     remarks: ''
@@ -192,6 +264,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'LB LN8'
+    name: Bekaa
+    namewodiacritics: Bekaa
+    subdiv: BI
+    function: 1-3-----
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '3400N 03608E'
+    remarks: ''
+-
+    ch: ''
     locode: 'LB BYT'
     name: Beyrouth
     namewodiacritics: Beyrouth
@@ -201,6 +285,18 @@
     date: '1301'
     iata: ''
     coordinates: '3352N 03530E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LB BHA'
+    name: Bhamdoun
+    namewodiacritics: Bhamdoun
+    subdiv: JL
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3348N 03539E'
     remarks: ''
 -
     ch: ''
@@ -215,7 +311,7 @@
     coordinates: '3355N 03541E'
     remarks: ''
 -
-    ch: +
+    ch: ''
     locode: 'LB BRO'
     name: Broumana
     namewodiacritics: Broumana
@@ -264,6 +360,78 @@
     remarks: ''
 -
     ch: ''
+    locode: 'LB CHL'
+    name: Chlaura
+    namewodiacritics: Chlaura
+    subdiv: BI
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3348N 03551E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LB CHO'
+    name: Choueifat
+    namewodiacritics: Choueifat
+    subdiv: JA
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '3349N 03531E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LB DAM'
+    name: Damour
+    namewodiacritics: Damour
+    subdiv: JA
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '3344N 03527E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LB DAQ'
+    name: 'Deir al-Qamar'
+    namewodiacritics: 'Deir al-Qamar'
+    subdiv: JA
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '3342N 03534E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LB DEK'
+    name: Dekwaneh
+    namewodiacritics: Dekwaneh
+    subdiv: AS
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '3352N 03532E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LB DRA'
+    name: Dora
+    namewodiacritics: Dora
+    subdiv: JL
+    function: 1-------
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3355N 03534E'
+    remarks: ''
+-
+    ch: ''
     locode: 'LB NAQ'
     name: 'En Nâqoûra'
     namewodiacritics: 'En Naqoura'
@@ -273,6 +441,54 @@
     date: '0401'
     iata: ''
     coordinates: '3307N 03508E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LB SAR'
+    name: 'Es Saraya'
+    namewodiacritics: 'Es Saraya'
+    subdiv: NA
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3322N 03528E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LB FAI'
+    name: Faitroun
+    namewodiacritics: Faitroun
+    subdiv: JL
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '3359N 03544E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LB AW4'
+    name: Ghazir
+    namewodiacritics: Ghazir
+    subdiv: JL
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '3401N 03540E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LB GHO'
+    name: Ghobeiry
+    namewodiacritics: Ghobeiry
+    subdiv: JL
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '3351N 03530E'
     remarks: ''
 -
     ch: ''
@@ -312,6 +528,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'LB H8L'
+    name: Hazmiyeh
+    namewodiacritics: Hazmiyeh
+    subdiv: JL
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '3351N 03532E'
+    remarks: ''
+-
+    ch: ''
     locode: 'LB QJQ'
     name: 'Jal Edib'
     namewodiacritics: 'Jal Edib'
@@ -321,6 +549,42 @@
     date: '0907'
     iata: ''
     coordinates: '3354N 03535E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LB JDT'
+    name: Jdeideh
+    namewodiacritics: Jdeideh
+    subdiv: JL
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3353N 03534E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LB JDI'
+    name: Jdita
+    namewodiacritics: Jdita
+    subdiv: JL
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3349N 03550E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LB JET'
+    name: Jeita
+    namewodiacritics: Jeita
+    subdiv: BA
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '3357N 03538E'
     remarks: ''
 -
     ch: ''
@@ -347,7 +611,7 @@
     coordinates: ''
     remarks: ''
 -
-    ch: +
+    ch: ''
     locode: 'LB KFA'
     name: 'Kfar Aaqqa'
     namewodiacritics: 'Kfar Aaqqa'
@@ -357,6 +621,18 @@
     date: '1307'
     iata: ''
     coordinates: '3418N 03550E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LB KKL'
+    name: 'Kfar Kila'
+    namewodiacritics: 'Kfar Kila'
+    subdiv: NA
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3317N 03533E'
     remarks: ''
 -
     ch: ''
@@ -372,6 +648,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'LB KCH'
+    name: 'Kornet Chehwan'
+    namewodiacritics: 'Kornet Chehwan'
+    subdiv: JL
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3355N 03540E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LB MAN'
+    name: Mansourieh
+    namewodiacritics: Mansourieh
+    subdiv: JL
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '3351N 03534E'
+    remarks: ''
+-
+    ch: ''
     locode: 'LB MKA'
     name: Mkalles
     namewodiacritics: Mkalles
@@ -381,6 +681,18 @@
     date: '1207'
     iata: ''
     coordinates: '3352N 03533E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LB MTE'
+    name: Mtein
+    namewodiacritics: Mtein
+    subdiv: JL
+    function: '--3-----'
+    status: RL
+    date: '1707'
+    iata: ''
+    coordinates: '3353N 03544E'
     remarks: ''
 -
     ch: ''
@@ -396,6 +708,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'LB NAM'
+    name: 'Nahr Al Mawt'
+    namewodiacritics: 'Nahr Al Mawt'
+    subdiv: JL
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3354N 03534E'
+    remarks: ''
+-
+    ch: ''
     locode: 'LB OUZ'
     name: Ouzai
     namewodiacritics: Ouzai
@@ -408,6 +732,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'LB QBY'
+    name: Qoubaiyat
+    namewodiacritics: Qoubaiyat
+    subdiv: AK
+    function: '--3-----'
+    status: AM
+    date: '2107'
+    iata: ''
+    coordinates: '3434N 03616E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LB RAW'
+    name: Raouché
+    namewodiacritics: Raouche
+    subdiv: BA
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '3353N 03528E'
+    remarks: ''
+-
+    ch: ''
     locode: 'LB RST'
     name: 'Ras Selata'
     namewodiacritics: 'Ras Selata'
@@ -417,6 +765,42 @@
     date: '9506'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'LB R5G'
+    name: Roumieh
+    namewodiacritics: Roumieh
+    subdiv: JL
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3352N 03539E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LB SAF'
+    name: Safra
+    namewodiacritics: Safra
+    subdiv: JL
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '3402N 03538E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LB SHA'
+    name: 'Sahel Alma'
+    namewodiacritics: 'Sahel Alma'
+    subdiv: JL
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3359N 03539E'
     remarks: ''
 -
     ch: ''
@@ -441,6 +825,18 @@
     date: '9506'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'LB SDN'
+    name: Sidon
+    namewodiacritics: Sidon
+    subdiv: JA
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '3333N 03522E'
     remarks: ''
 -
     ch: ''
@@ -501,4 +897,28 @@
     date: '9506'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'LB ZUK'
+    name: Zouk
+    namewodiacritics: Zouk
+    subdiv: JL
+    function: 1-------
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3358N 03538E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LB ZML'
+    name: 'Zouk Mikael'
+    namewodiacritics: 'Zouk Mikael'
+    subdiv: JL
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3358N 03536E'
     remarks: ''

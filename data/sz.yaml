@@ -12,18 +12,6 @@
     remarks: ''
 -
     ch: ''
-    locode: 'SZ BUO'
-    name: Buonas
-    namewodiacritics: Buonas
-    subdiv: ''
-    function: 1-------
-    status: RQ
-    date: '1001'
-    iata: ''
-    coordinates: '4708N 80027E'
-    remarks: ''
--
-    ch: ''
     locode: 'SZ EPA'
     name: Epagny
     namewodiacritics: Epagny
@@ -48,6 +36,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'SZ SHO'
+    name: 'King Mswati III International Apt'
+    namewodiacritics: 'King Mswati III International Apt'
+    subdiv: MA
+    function: '---4----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '2621S 03143E'
+    remarks: ''
+-
+    ch: ''
     locode: 'SZ KLB'
     name: Kollbrunn
     namewodiacritics: Kollbrunn
@@ -63,12 +63,24 @@
     locode: 'SZ LHH'
     name: Lomahasha
     namewodiacritics: Lomahasha
-    subdiv: ''
-    function: '-----6--'
-    status: RQ
-    date: '1001'
+    subdiv: LU
+    function: '--3-----'
+    status: RL
+    date: '1707'
     iata: ''
-    coordinates: '2559S 32000E'
+    coordinates: '2559S 03200E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SZ MLY'
+    name: Mahlanya
+    namewodiacritics: Mahlanya
+    subdiv: MA
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '2630S 03117E'
     remarks: ''
 -
     ch: ''
@@ -153,6 +165,42 @@
     date: '0307'
     iata: ''
     coordinates: '2707S 03112E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SZ 7DS'
+    name: Sidvokodvo
+    namewodiacritics: Sidvokodvo
+    subdiv: MA
+    function: 1-3-----
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '2637S 03127E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SZ SIM'
+    name: Simunye
+    namewodiacritics: Simunye
+    subdiv: LU
+    function: '--3-----'
+    status: RL
+    date: '1707'
+    iata: ''
+    coordinates: '2612S 03155E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SZ SPH'
+    name: Siphofaneni
+    namewodiacritics: Siphofaneni
+    subdiv: LU
+    function: '-23-----'
+    status: AM
+    date: '2007'
+    iata: ''
+    coordinates: '2641S 03141E'
     remarks: ''
 -
     ch: ''

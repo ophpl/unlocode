@@ -36,6 +36,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'PR ABS'
+    name: 'Aguas Buenas'
+    namewodiacritics: 'Aguas Buenas'
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '1815N 06606W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PR A6U'
+    name: Aguirre
+    namewodiacritics: Aguirre
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '1757N 06613W'
+    remarks: ''
+-
+    ch: ''
     locode: 'PR AIB'
     name: Aibonito
     namewodiacritics: Aibonito
@@ -73,12 +97,12 @@
 -
     ch: ''
     locode: 'PR ARR'
-    name: Arroyo/Guayama
-    namewodiacritics: Arroyo/Guayama
+    name: Arroyo
+    namewodiacritics: Arroyo
     subdiv: ''
     function: 1-3-----
     status: RL
-    date: '0701'
+    date: '1807'
     iata: ''
     coordinates: '1758N 06604W'
     remarks: ''
@@ -117,6 +141,18 @@
     date: '9307'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PR BOQ'
+    name: Boquerón
+    namewodiacritics: Boqueron
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '1801N 06710W'
     remarks: ''
 -
     ch: ''
@@ -216,6 +252,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'PR CEI'
+    name: Ceiba
+    namewodiacritics: Ceiba
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '1814N 06537W'
+    remarks: ''
+-
+    ch: ''
     locode: 'PR CLE'
     name: Ciales
     namewodiacritics: Ciales
@@ -276,6 +324,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'PR CLL'
+    name: 'Coto Laurel'
+    namewodiacritics: 'Coto Laurel'
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '1802N 06633W'
+    remarks: ''
+-
+    ch: ''
     locode: 'PR CPX'
     name: Culebra
     namewodiacritics: Culebra
@@ -321,6 +381,30 @@
     date: '9601'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PR FLO'
+    name: Florida
+    namewodiacritics: Florida
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '1821N 06633W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PR FTB'
+    name: 'Fort Buchanan'
+    namewodiacritics: 'Fort Buchanan'
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '1824N 06607W'
     remarks: ''
 -
     ch: ''
@@ -432,13 +516,25 @@
     remarks: ''
 -
     ch: ''
+    locode: 'PR HUM'
+    name: Hormigueros
+    namewodiacritics: Hormigueros
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '1808N 06707W'
+    remarks: ''
+-
+    ch: ''
     locode: 'PR HUC'
     name: Humacao
     namewodiacritics: Humacao
     subdiv: ''
-    function: '---4----'
+    function: '--34----'
     status: AI
-    date: '9601'
+    date: '2101'
     iata: ''
     coordinates: ''
     remarks: ''
@@ -516,6 +612,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'PR LAR'
+    name: Lares
+    namewodiacritics: Lares
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '1817N 06652W'
+    remarks: ''
+-
+    ch: ''
     locode: 'PR LAM'
     name: 'Las Mareas (Guayama)'
     namewodiacritics: 'Las Mareas (Guayama)'
@@ -525,6 +633,18 @@
     date: '9506'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PR LMA'
+    name: 'Las Marias'
+    namewodiacritics: 'Las Marias'
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '1815N 06659W'
     remarks: ''
 -
     ch: ''
@@ -549,6 +669,18 @@
     date: '1107'
     iata: ''
     coordinates: '1815N 06555W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PR LOI'
+    name: Loíza
+    namewodiacritics: Loiza
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '1825N 06552W'
     remarks: ''
 -
     ch: ''
@@ -588,6 +720,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'PR MAU'
+    name: Maunabo
+    namewodiacritics: Maunabo
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '1800N 06553W'
+    remarks: ''
+-
+    ch: ''
     locode: 'PR MAZ'
     name: Mayagüez
     namewodiacritics: Mayaguez
@@ -624,6 +768,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'PR MRV'
+    name: Morovis
+    namewodiacritics: Morovis
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '1806N 06610W'
+    remarks: ''
+-
+    ch: ''
     locode: 'PR NAG'
     name: Naguabo
     namewodiacritics: Naguabo
@@ -636,6 +792,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'PR NAR'
+    name: Naranjito
+    namewodiacritics: Naranjito
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '1818N 06614W'
+    remarks: ''
+-
+    ch: ''
     locode: 'PR NXL'
     name: Noxell
     namewodiacritics: Noxell
@@ -645,6 +813,18 @@
     date: '9307'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PR OPO'
+    name: Orocovis
+    namewodiacritics: Orocovis
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '1813N 06623W'
     remarks: ''
 -
     ch: ''
@@ -684,6 +864,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'PR PDT'
+    name: 'Puerta de Tierra'
+    namewodiacritics: 'Puerta de Tierra'
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '1827N 06605W'
+    remarks: ''
+-
+    ch: ''
     locode: 'PR PJO'
     name: 'Puerto de Jobos'
     namewodiacritics: 'Puerto de Jobos'
@@ -717,6 +909,18 @@
     date: '0212'
     iata: ''
     coordinates: '1803N 06550W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PR QUE'
+    name: Quebradillas
+    namewodiacritics: Quebradillas
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '1828N 06656W'
     remarks: ''
 -
     ch: ''
@@ -780,6 +984,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'PR SSA'
+    name: 'Sabana Seca'
+    namewodiacritics: 'Sabana Seca'
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '1826N 06615W'
+    remarks: ''
+-
+    ch: ''
     locode: 'PR SAL'
     name: Salinas
     namewodiacritics: Salinas
@@ -813,6 +1029,18 @@
     date: '1101'
     iata: SIG
     coordinates: '1827N 06605W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PR SLP'
+    name: 'San Lorenzo'
+    namewodiacritics: 'San Lorenzo'
+    subdiv: ''
+    function: '--3-----'
+    status: AA
+    date: '1601'
+    iata: ''
+    coordinates: '1811N 06558W'
     remarks: ''
 -
     ch: ''
@@ -945,6 +1173,18 @@
     date: '9601'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PR VIL'
+    name: Villalba
+    namewodiacritics: Villalba
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '1807N 06629W'
     remarks: ''
 -
     ch: ''

@@ -23,7 +23,19 @@
     coordinates: ''
     remarks: Tammar
 -
-    ch: +
+    ch: ''
+    locode: 'IQ ABG'
+    name: 'Abu Gharib'
+    namewodiacritics: 'Abu Gharib'
+    subdiv: DQ
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '3106N 04602E'
+    remarks: ''
+-
+    ch: ''
     locode: 'IQ ABU'
     name: 'Abu Ghraib'
     namewodiacritics: 'Abu Ghraib'
@@ -35,7 +47,19 @@
     coordinates: '3317N 04403E'
     remarks: ''
 -
-    ch: ¦
+    ch: ''
+    locode: 'IQ ADW'
+    name: 'Ad Dawrah'
+    namewodiacritics: 'Ad Dawrah'
+    subdiv: BG
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '3315N 04423E'
+    remarks: ''
+-
+    ch: ''
     locode: 'IQ ASD'
     name: 'Al Asad'
     namewodiacritics: 'Al Asad'
@@ -45,7 +69,7 @@
     date: '1307'
     iata: ''
     coordinates: '3347N 04226E'
-    remarks: '@Coo'
+    remarks: ''
 -
     ch: ''
     locode: 'IQ HIL'
@@ -83,7 +107,7 @@
     coordinates: '3548N 04317E'
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'IQ TQD'
     name: 'Al Taqaddum'
     namewodiacritics: 'Al Taqaddum'
@@ -93,7 +117,7 @@
     date: '1307'
     iata: ''
     coordinates: '3320N 04335E'
-    remarks: '@Coo'
+    remarks: ''
 -
     ch: ''
     locode: 'IQ UZA'
@@ -204,6 +228,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'IQ BBB'
+    name: Babil
+    namewodiacritics: Babil
+    subdiv: BB
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '3232N 04425E'
+    remarks: ''
+-
+    ch: ''
     locode: 'IQ BGW'
     name: Baghdåd
     namewodiacritics: Baghdad
@@ -267,12 +303,24 @@
     locode: 'IQ BSR'
     name: Basra
     namewodiacritics: Basra
-    subdiv: ''
+    subdiv: BA
     function: 1-------
     status: AI
-    date: '9601'
+    date: '1407'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'IQ MAB'
+    name: 'Basrah Oil Terminal'
+    namewodiacritics: 'Basrah Oil Terminal'
+    subdiv: BA
+    function: 1-------
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '2945N 04850E'
     remarks: ''
 -
     ch: ''
@@ -348,6 +396,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'IQ DHK'
+    name: Duhok
+    namewodiacritics: Duhok
+    subdiv: DA
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '3706N 04349E'
+    remarks: ''
+-
+    ch: ''
     locode: 'IQ EBL'
     name: 'Erbil International Apt'
     namewodiacritics: 'Erbil International Apt'
@@ -393,6 +453,18 @@
     date: '1001'
     iata: ''
     coordinates: '3349N 04126E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IQ IDQ'
+    name: 'Hasan Al Baghdadi'
+    namewodiacritics: 'Hasan Al Baghdadi'
+    subdiv: DQ
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3117N 04606E'
     remarks: ''
 -
     ch: ''
@@ -516,6 +588,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'IQ BA4'
+    name: 'Mafraq Ash Shuaybah'
+    namewodiacritics: 'Mafraq Ash Shuaybah'
+    subdiv: BA
+    function: '-23-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3028N 04739E'
+    remarks: ''
+-
+    ch: ''
     locode: 'IQ MAN'
     name: Mandali
     namewodiacritics: Mandali
@@ -525,18 +609,6 @@
     date: '8103'
     iata: ''
     coordinates: ''
-    remarks: ''
--
-    ch: ''
-    locode: 'IQ MAB'
-    name: 'Mina'' al Bakr'
-    namewodiacritics: 'Mina'' al Bakr'
-    subdiv: BA
-    function: 1-------
-    status: RL
-    date: '0212'
-    iata: ''
-    coordinates: '2945N 04850E'
     remarks: ''
 -
     ch: ''
@@ -552,6 +624,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'IQ B9T'
+    name: Musayyib
+    namewodiacritics: Musayyib
+    subdiv: BB
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '3246N 04417E'
+    remarks: ''
+-
+    ch: ''
     locode: 'IQ NMA'
     name: 'Nahr an Nu''maniyah'
     namewodiacritics: 'Nahr an Nu''maniyah'
@@ -563,7 +647,7 @@
     coordinates: '3058N 04616E'
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'IQ NJF'
     name: Najaf
     namewodiacritics: Najaf
@@ -573,7 +657,7 @@
     date: '1307'
     iata: ''
     coordinates: '3159N 04418E'
-    remarks: '@Fun@Sub@Coo'
+    remarks: ''
 -
     ch: ''
     locode: 'IQ NAS'
@@ -587,7 +671,7 @@
     coordinates: ''
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'IQ NSR'
     name: Nasiriyah
     namewodiacritics: Nasiriyah
@@ -597,7 +681,7 @@
     date: '1307'
     iata: ''
     coordinates: '3103N 04615E'
-    remarks: '@Coo'
+    remarks: ''
 -
     ch: ''
     locode: 'IQ NAM'
@@ -633,6 +717,18 @@
     date: '9012'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'IQ SAF'
+    name: Safwan
+    namewodiacritics: Safwan
+    subdiv: BA
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '3006N 04743E'
     remarks: ''
 -
     ch: ''
@@ -683,7 +779,19 @@
     coordinates: ''
     remarks: ''
 -
-    ch: ¦
+    ch: ''
+    locode: 'IQ ISU'
+    name: 'Sulaymaniyah International Airport'
+    namewodiacritics: 'Sulaymaniyah International Airport'
+    subdiv: SU
+    function: '---4----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '3533N 04518E'
+    remarks: ''
+-
+    ch: ''
     locode: 'IQ TJI'
     name: Taji
     namewodiacritics: Taji
@@ -693,7 +801,7 @@
     date: '1307'
     iata: ''
     coordinates: '3331N 04416E'
-    remarks: '@Coo'
+    remarks: ''
 -
     ch: ''
     locode: 'IQ TAF'

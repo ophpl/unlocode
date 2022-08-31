@@ -48,6 +48,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'IE AHL'
+    name: Aherla
+    namewodiacritics: Aherla
+    subdiv: CO
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5151N 00844W'
+    remarks: ''
+-
+    ch: ''
     locode: 'IE ALQ'
     name: 'Alexandra Quay'
     namewodiacritics: 'Alexandra Quay'
@@ -201,6 +213,18 @@
     date: '0901'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'IE ATS'
+    name: Arthurstown
+    namewodiacritics: Arthurstown
+    subdiv: KE
+    function: '--3-----'
+    status: RL
+    date: '1901'
+    iata: ''
+    coordinates: '5313N 00634W'
     remarks: ''
 -
     ch: ''
@@ -444,6 +468,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'IE BLL'
+    name: Ballina
+    namewodiacritics: Ballina
+    subdiv: MO
+    function: 1-3-----
+    status: RL
+    date: '1207'
+    iata: ''
+    coordinates: '5407N 00910W'
+    remarks: ''
+-
+    ch: ''
     locode: 'IE BNA'
     name: Ballina
     namewodiacritics: Ballina
@@ -456,18 +492,6 @@
     remarks: ''
 -
     ch: ''
-    locode: 'IE BLL'
-    name: Ballina
-    namewodiacritics: Ballina
-    subdiv: MO
-    function: 1-3-----
-    status: RL
-    date: '1207'
-    iata: ''
-    coordinates: '5407N 00910W'
-    remarks: ''
--
-    ch: +
     locode: 'IE BKL'
     name: Ballinakill
     namewodiacritics: Ballinakill
@@ -507,10 +531,10 @@
     locode: 'IE IBG'
     name: Ballincollig
     namewodiacritics: Ballincollig
-    subdiv: C
+    subdiv: CO
     function: '-----6--'
     status: RL
-    date: '0901'
+    date: '1501'
     iata: ''
     coordinates: '5153N 00835W'
     remarks: ''
@@ -573,6 +597,18 @@
     date: '0607'
     iata: ''
     coordinates: '5332N 00657W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IE BON'
+    name: Ballon
+    namewodiacritics: Ballon
+    subdiv: CW
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '5244N 00646W'
     remarks: ''
 -
     ch: ''
@@ -699,10 +735,10 @@
     locode: 'IE BYH'
     name: Ballydehob
     namewodiacritics: Ballydehob
-    subdiv: C
+    subdiv: CO
     function: '--3-----'
     status: RQ
-    date: '0901'
+    date: '1501'
     iata: ''
     coordinates: '5133N 00928W'
     remarks: ''
@@ -711,10 +747,10 @@
     locode: 'IE BYD'
     name: Ballydesmond
     namewodiacritics: Ballydesmond
-    subdiv: C
+    subdiv: CO
     function: '--3-----'
     status: RQ
-    date: '0901'
+    date: '1501'
     iata: ''
     coordinates: '5210N 00914W'
     remarks: ''
@@ -771,10 +807,10 @@
     locode: 'IE BYL'
     name: Ballyhoolahan
     namewodiacritics: Ballyhoolahan
-    subdiv: C
+    subdiv: CO
     function: '--3-----'
     status: RL
-    date: '0901'
+    date: '1501'
     iata: ''
     coordinates: '5209N 00903W'
     remarks: ''
@@ -825,6 +861,30 @@
     date: '0501'
     iata: ''
     coordinates: '5334N 00746W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IE BMY'
+    name: Ballymoney
+    namewodiacritics: Ballymoney
+    subdiv: DL
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '5502N 00730W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IE BMO'
+    name: Ballymote
+    namewodiacritics: Ballymote
+    subdiv: SO
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '5405N 00831W'
     remarks: ''
 -
     ch: ''
@@ -900,6 +960,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'IE BVY'
+    name: Ballyvourney
+    namewodiacritics: Ballyvourney
+    subdiv: CO
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '5156N 00910W'
+    remarks: ''
+-
+    ch: ''
     locode: 'IE BTM'
     name: Baltimore
     namewodiacritics: Baltimore
@@ -927,12 +999,12 @@
     locode: 'IE BGR'
     name: Banagher
     namewodiacritics: Banagher
-    subdiv: ''
+    subdiv: OY
     function: '--3-----'
     status: RL
-    date: '9811'
+    date: '1501'
     iata: ''
-    coordinates: ''
+    coordinates: '5311N 00759W'
     remarks: Offaly
 -
     ch: ''
@@ -987,10 +1059,10 @@
     locode: 'IE BTH'
     name: 'Bantry Harbour'
     namewodiacritics: 'Bantry Harbour'
-    subdiv: C
+    subdiv: CO
     function: 1-------
     status: RQ
-    date: '0901'
+    date: '1501'
     iata: ''
     coordinates: '5141N 00927W'
     remarks: ''
@@ -1007,7 +1079,7 @@
     coordinates: '5407N 00741W'
     remarks: ''
 -
-    ch: +
+    ch: ''
     locode: 'IE BEF'
     name: Belfast
     namewodiacritics: Belfast
@@ -1043,7 +1115,19 @@
     coordinates: '5406N 00726W'
     remarks: ''
 -
-    ch: +
+    ch: ''
+    locode: 'IE BYS'
+    name: Bettystown
+    namewodiacritics: Bettystown
+    subdiv: MH
+    function: '--3-----'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '5342N 00614W'
+    remarks: ''
+-
+    ch: ''
     locode: 'IE BIH'
     name: Birdhill
     namewodiacritics: Birdhill
@@ -1071,12 +1155,12 @@
     locode: 'IE BVL'
     name: 'Bishops Village'
     namewodiacritics: 'Bishops Village'
-    subdiv: C
+    subdiv: CO
     function: '-----6--'
     status: RL
-    date: '0901'
+    date: '1707'
     iata: ''
-    coordinates: '5134N 91745W'
+    coordinates: '5134N 00917W'
     remarks: ''
 -
     ch: ''
@@ -1116,6 +1200,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'IE BNY'
+    name: Blarney
+    namewodiacritics: Blarney
+    subdiv: CO
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '5156N 00834W'
+    remarks: ''
+-
+    ch: ''
     locode: 'IE BLE'
     name: Blessington
     namewodiacritics: Blessington
@@ -1137,6 +1233,18 @@
     date: '0407'
     iata: ''
     coordinates: '5236N 00655W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IE BIO'
+    name: 'Borris in Ossory'
+    namewodiacritics: 'Borris in Ossory'
+    subdiv: LS
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5256N 00738W'
     remarks: ''
 -
     ch: ''
@@ -1884,6 +1992,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'IE CHD'
+    name: Cloghjordan
+    namewodiacritics: Cloghjordan
+    subdiv: TA
+    function: '--3-----'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '5256N 00802W'
+    remarks: ''
+-
+    ch: ''
     locode: 'IE CLO'
     name: Cloghore
     namewodiacritics: Cloghore
@@ -2063,7 +2183,7 @@
     coordinates: ''
     remarks: ''
 -
-    ch: +
+    ch: ''
     locode: 'IE CON'
     name: Collon
     namewodiacritics: Collon
@@ -2085,6 +2205,18 @@
     date: '0201'
     iata: ''
     coordinates: '5411N 00829W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IE COA'
+    name: Coolea
+    namewodiacritics: Coolea
+    subdiv: CO
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5155N 00913W'
     remarks: ''
 -
     ch: ''
@@ -2280,6 +2412,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'IE DEL'
+    name: Delgany
+    namewodiacritics: Delgany
+    subdiv: WW
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5307N 00605W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IE DYB'
+    name: Derrybeg
+    namewodiacritics: Derrybeg
+    subdiv: DL
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '5505N 00817W'
+    remarks: ''
+-
+    ch: ''
     locode: 'IE DER'
     name: Derryveagh
     namewodiacritics: Derryveagh
@@ -2361,6 +2517,18 @@
     date: '1301'
     iata: ''
     coordinates: '5244N 00931W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IE DNE'
+    name: Dooneen
+    namewodiacritics: Dooneen
+    subdiv: CO
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5130N 00913W'
     remarks: ''
 -
     ch: ''
@@ -2724,6 +2892,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'IE DUN'
+    name: Dunshaughlin
+    namewodiacritics: Dunshaughlin
+    subdiv: MH
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5330N 00632W'
+    remarks: ''
+-
+    ch: ''
     locode: 'IE DOW'
     name: Durrow
     namewodiacritics: Durrow
@@ -2757,6 +2937,18 @@
     date: '0207'
     iata: ''
     coordinates: '5320N 00703W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IE EYV'
+    name: Emyvale
+    namewodiacritics: Emyvale
+    subdiv: MN
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '5420N 00657W'
     remarks: ''
 -
     ch: ''
@@ -2799,12 +2991,24 @@
     locode: 'IE ENK'
     name: Enniskean
     namewodiacritics: Enniskean
-    subdiv: C
+    subdiv: CO
     function: '--3-----'
     status: RQ
-    date: '0901'
+    date: '1501'
     iata: ''
     coordinates: '5144N 00855W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IE DWE'
+    name: Ennistymon
+    namewodiacritics: Ennistymon
+    subdiv: CE
+    function: 1-3-----
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '5256N 00917W'
     remarks: ''
 -
     ch: ''
@@ -2866,6 +3070,18 @@
     iata: ''
     coordinates: ''
     remarks: Cork
+-
+    ch: ''
+    locode: 'IE FEB'
+    name: Ferrybank
+    namewodiacritics: Ferrybank
+    subdiv: WD
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '5215N 00706W'
+    remarks: ''
 -
     ch: ''
     locode: 'IE FTD'
@@ -3024,6 +3240,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'IE GLG'
+    name: Gilloge
+    namewodiacritics: Gilloge
+    subdiv: CE
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '5241N 00834W'
+    remarks: ''
+-
+    ch: ''
     locode: 'IE GLM'
     name: Glanmire
     namewodiacritics: Glanmire
@@ -3047,7 +3275,7 @@
     coordinates: '5322N 00617W'
     remarks: ''
 -
-    ch: +
+    ch: ''
     locode: 'IE GMD'
     name: Glenamaddy
     namewodiacritics: Glenamaddy
@@ -3160,11 +3388,23 @@
     name: Graiguenamanagh
     namewodiacritics: Graiguenamanagh
     subdiv: KK
-    function: '-----6--'
-    status: RQ
-    date: '0907'
+    function: '--3-----'
+    status: RL
+    date: '1707'
     iata: ''
-    coordinates: '5232N 65717W'
+    coordinates: '5232N 00657W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IE GGG'
+    name: Grangegeeth
+    namewodiacritics: Grangegeeth
+    subdiv: MH
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '5345N 00632W'
     remarks: ''
 -
     ch: ''
@@ -3177,6 +3417,18 @@
     date: '0701'
     iata: ''
     coordinates: '5215N 00706W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IE GRE'
+    name: Greencastle
+    namewodiacritics: Greencastle
+    subdiv: DL
+    function: 1-3-----
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5512N 00659W'
     remarks: ''
 -
     ch: ''
@@ -3216,6 +3468,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'IE GUR'
+    name: Gurteen
+    namewodiacritics: Gurteen
+    subdiv: LM
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '5419N 00818W'
+    remarks: ''
+-
+    ch: ''
     locode: 'IE HAU'
     name: Haulbowline
     namewodiacritics: Haulbowline
@@ -3225,6 +3489,18 @@
     date: '9508'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'IE HOH'
+    name: 'Holly Hill'
+    namewodiacritics: 'Holly Hill'
+    subdiv: CO
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '5140N 00950W'
     remarks: ''
 -
     ch: ''
@@ -3347,7 +3623,7 @@
     coordinates: ''
     remarks: ''
 -
-    ch: +
+    ch: ''
     locode: 'IE JTD'
     name: Johnstown
     namewodiacritics: Johnstown
@@ -3357,6 +3633,18 @@
     date: '1307'
     iata: ''
     coordinates: '5324N 00650W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IE JUL'
+    name: Julianstown
+    namewodiacritics: Julianstown
+    subdiv: MH
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5340N 00616W'
     remarks: ''
 -
     ch: ''
@@ -3480,6 +3768,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'IE KCM'
+    name: Kilcormac
+    namewodiacritics: Kilcormac
+    subdiv: OY
+    function: '--3-----'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '5310N 00743W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IE KKY'
+    name: Kildalkey
+    namewodiacritics: Kildalkey
+    subdiv: MH
+    function: '--3-----'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '5334N 00654W'
+    remarks: ''
+-
+    ch: ''
     locode: 'IE KIL'
     name: Kildare
     namewodiacritics: Kildare
@@ -3495,10 +3807,10 @@
     locode: 'IE RRR'
     name: Kildorrery
     namewodiacritics: Kildorrery
-    subdiv: C
+    subdiv: CO
     function: 1-------
     status: RL
-    date: '0901'
+    date: '1501'
     iata: ''
     coordinates: '5214N 00825W'
     remarks: ''
@@ -3585,6 +3897,18 @@
     date: '9705'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'IE KLV'
+    name: Killavullen
+    namewodiacritics: Killavullen
+    subdiv: CO
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '5208N 00830W'
     remarks: ''
 -
     ch: ''
@@ -3696,6 +4020,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'IE KWD'
+    name: 'Kilmainham Wood'
+    namewodiacritics: 'Kilmainham Wood'
+    subdiv: MH
+    function: '--3-----'
+    status: RL
+    date: '1707'
+    iata: ''
+    coordinates: '5351N 00648W'
+    remarks: ''
+-
+    ch: ''
     locode: 'IE KMK'
     name: Kilmallock
     namewodiacritics: Kilmallock
@@ -3756,18 +4092,6 @@
     remarks: ''
 -
     ch: ''
-    locode: 'IE KRN'
-    name: Kilronan
-    namewodiacritics: Kilronan
-    subdiv: CE
-    function: '--3-----'
-    status: RQ
-    date: '0207'
-    iata: ''
-    coordinates: '5239N 00940W'
-    remarks: ''
--
-    ch: ''
     locode: 'IE KIN'
     name: Kilronan
     namewodiacritics: Kilronan
@@ -3777,6 +4101,18 @@
     date: '0207'
     iata: ''
     coordinates: '5307N 00940W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IE KRN'
+    name: Kilronan
+    namewodiacritics: Kilronan
+    subdiv: CE
+    function: '--3-----'
+    status: RQ
+    date: '0207'
+    iata: ''
+    coordinates: '5239N 00940W'
     remarks: ''
 -
     ch: ''
@@ -3924,6 +4260,30 @@
     remarks: 'ex Connaught'
 -
     ch: ''
+    locode: 'IE NOK'
+    name: Knockalough
+    namewodiacritics: Knockalough
+    subdiv: CE
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '5242N 00915W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IE KTH'
+    name: Knocktopher
+    namewodiacritics: Knocktopher
+    subdiv: KK
+    function: '--3-----'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '5229N 00712W'
+    remarks: ''
+-
+    ch: ''
     locode: 'IE LBH'
     name: Lanesborough
     namewodiacritics: Lanesborough
@@ -4068,6 +4428,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'IE LEH'
+    name: 'Lough Egish'
+    namewodiacritics: 'Lough Egish'
+    subdiv: MN
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5404N 00648W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IE LOG'
+    name: Loughlinstown
+    namewodiacritics: Loughlinstown
+    subdiv: D
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '5314N 00607W'
+    remarks: ''
+-
+    ch: ''
     locode: 'IE LOU'
     name: Loughrea
     namewodiacritics: Loughrea
@@ -4138,6 +4522,18 @@
     iata: ''
     coordinates: ''
     remarks: Donegal
+-
+    ch: ''
+    locode: 'IE MRT'
+    name: Magheraroarty
+    namewodiacritics: Magheraroarty
+    subdiv: DL
+    function: 1-------
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '5508N 00810W'
+    remarks: ''
 -
     ch: ''
     locode: 'IE MAH'
@@ -4416,6 +4812,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'IE MOY'
+    name: Moycullen
+    namewodiacritics: Moycullen
+    subdiv: G
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '5320N 00912W'
+    remarks: ''
+-
+    ch: ''
     locode: 'IE MLT'
     name: Mulhurddart
     namewodiacritics: Mulhurddart
@@ -4461,6 +4869,18 @@
     date: '9705'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'IE MUE'
+    name: Mullinahone
+    namewodiacritics: Mullinahone
+    subdiv: TA
+    function: '--3-----'
+    status: RL
+    date: '1707'
+    iata: ''
+    coordinates: '5230N 00730W'
     remarks: ''
 -
     ch: ''
@@ -4569,6 +4989,18 @@
     date: '1207'
     iata: ''
     coordinates: '5223N 00657W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IE NBS'
+    name: Newbliss
+    namewodiacritics: Newbliss
+    subdiv: MN
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '5409N 00708W'
     remarks: ''
 -
     ch: ''
@@ -4716,6 +5148,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'IE OUG'
+    name: Oughterard
+    namewodiacritics: Oughterard
+    subdiv: G
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5325N 00920W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IE OVE'
+    name: Ovens
+    namewodiacritics: Ovens
+    subdiv: CO
+    function: '--3-----'
+    status: RL
+    date: '1901'
+    iata: ''
+    coordinates: '5152N 00840W'
+    remarks: ''
+-
+    ch: ''
     locode: 'IE PMS'
     name: Palmerston
     namewodiacritics: Palmerston
@@ -4755,12 +5211,36 @@
     locode: 'IE PAW'
     name: 'Passage West'
     namewodiacritics: 'Passage West'
-    subdiv: C
+    subdiv: CO
     function: 1-3-----
     status: RL
-    date: '0901'
+    date: '1501'
     iata: ''
     coordinates: '5152N 00821W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IE PTW'
+    name: Piltown
+    namewodiacritics: Piltown
+    subdiv: KK
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '5221N 00720W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IE PBE'
+    name: 'Pluckerstown Bridge'
+    namewodiacritics: 'Pluckerstown Bridge'
+    subdiv: KE
+    function: '--3-----'
+    status: RL
+    date: '1707'
+    iata: ''
+    coordinates: '5314N 00652W'
     remarks: ''
 -
     ch: ''
@@ -4821,6 +5301,18 @@
     date: '1007'
     iata: ''
     coordinates: '5305N 00813W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IE RAH'
+    name: Raheenagh
+    namewodiacritics: Raheenagh
+    subdiv: LK
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '5222N 00902W'
     remarks: ''
 -
     ch: ''
@@ -4971,12 +5463,12 @@
     locode: 'IE RED'
     name: Redhouse
     namewodiacritics: Redhouse
-    subdiv: ''
-    function: 1-------
+    subdiv: KK
+    function: '--3-----'
     status: RQ
-    date: '1001'
+    date: '1707'
     iata: ''
-    coordinates: '5235N 29530W'
+    coordinates: '5235N 00725W'
     remarks: ''
 -
     ch: ''
@@ -5112,6 +5604,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'IE RCB'
+    name: 'Ross Carbery'
+    namewodiacritics: 'Ross Carbery'
+    subdiv: CO
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5134N 00902W'
+    remarks: ''
+-
+    ch: ''
     locode: 'IE RAV'
     name: Rossaveel
     namewodiacritics: Rossaveel
@@ -5121,6 +5625,18 @@
     date: '9508'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'IE RSM'
+    name: Rossaveel
+    namewodiacritics: Rossaveel
+    subdiv: G
+    function: 1-------
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '5316N 00933W'
     remarks: ''
 -
     ch: ''
@@ -5232,6 +5748,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'IE SDN'
+    name: Sandycove
+    namewodiacritics: Sandycove
+    subdiv: DL
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5317N 00606W'
+    remarks: ''
+-
+    ch: ''
     locode: 'IE SYF'
     name: Sandyford
     namewodiacritics: Sandyford
@@ -5316,6 +5844,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'IE SMB'
+    name: Sixmilebridge
+    namewodiacritics: Sixmilebridge
+    subdiv: CE
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '5244N 00846W'
+    remarks: ''
+-
+    ch: ''
     locode: 'IE SKE'
     name: Skerries
     namewodiacritics: Skerries
@@ -5339,7 +5879,7 @@
     coordinates: '5134N 00917W'
     remarks: ''
 -
-    ch: +
+    ch: ''
     locode: 'IE SKR'
     name: Skreen
     namewodiacritics: Skreen
@@ -5652,6 +6192,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'IE TIN'
+    name: Tinahely
+    namewodiacritics: Tinahely
+    subdiv: WW
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5248N 00628W'
+    remarks: ''
+-
+    ch: ''
     locode: 'IE TPY'
     name: Tipperary
     namewodiacritics: Tipperary
@@ -5691,10 +6243,10 @@
     locode: 'IE TOG'
     name: Togher
     namewodiacritics: Togher
-    subdiv: C
+    subdiv: CO
     function: '--3-----'
     status: RQ
-    date: '0901'
+    date: '1501'
     iata: ''
     coordinates: '5152N 00829W'
     remarks: ''
@@ -5823,12 +6375,24 @@
     locode: 'IE TYL'
     name: Tullylease
     namewodiacritics: Tullylease
-    subdiv: C
+    subdiv: CO
     function: '--3-----'
     status: RQ
-    date: '0901'
+    date: '1501'
     iata: ''
     coordinates: '5218N 00857W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IE TLN'
+    name: Tullynamalra
+    namewodiacritics: Tullynamalra
+    subdiv: MN
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '5403N 00649W'
     remarks: ''
 -
     ch: ''
@@ -5985,6 +6549,18 @@
     date: '9508'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'IE WHO'
+    name: 'White''s Cross'
+    namewodiacritics: 'White''s Cross'
+    subdiv: CO
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '5156N 00826W'
     remarks: ''
 -
     ch: ''

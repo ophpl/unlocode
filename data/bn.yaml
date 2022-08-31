@@ -3,12 +3,24 @@
     locode: 'BN BWN'
     name: 'Bandar Seri Begawan'
     namewodiacritics: 'Bandar Seri Begawan'
-    subdiv: ''
+    subdiv: BM
     function: 1-345---
     status: AI
-    date: '0307'
+    date: '1601'
     iata: ''
     coordinates: '0453N 11456E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BN BAG'
+    name: Bangar
+    namewodiacritics: Bangar
+    subdiv: TE
+    function: '--3-----'
+    status: RL
+    date: '1907'
+    iata: ''
+    coordinates: '0443N 11540E'
     remarks: ''
 -
     ch: ''
@@ -69,4 +81,16 @@
     date: '9506'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'BN TUT'
+    name: Tutong
+    namewodiacritics: Tutong
+    subdiv: TU
+    function: '--3-----'
+    status: RL
+    date: '1907'
+    iata: ''
+    coordinates: '0448N 11439E'
     remarks: ''

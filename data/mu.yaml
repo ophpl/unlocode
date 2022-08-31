@@ -1,5 +1,41 @@
 -
     ch: ''
+    locode: 'MU ABN'
+    name: Albion
+    namewodiacritics: Albion
+    subdiv: BL
+    function: 1-------
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '2012S 05724E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MU ANL'
+    name: Arsenal
+    namewodiacritics: Arsenal
+    subdiv: PA
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '2006S 05732E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MU BTB'
+    name: Baie-du-Tombeau
+    namewodiacritics: Baie-du-Tombeau
+    subdiv: PA
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '2006S 05730E'
+    remarks: ''
+-
+    ch: ''
     locode: 'MU BAM'
     name: Bambous
     namewodiacritics: Bambous
@@ -35,7 +71,19 @@
     coordinates: '2005S 05734E'
     remarks: ''
 -
-    ch: +
+    ch: ''
+    locode: 'MU BVN'
+    name: 'Beau Vallon'
+    namewodiacritics: 'Beau Vallon'
+    subdiv: GP
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '2021S 05741E'
+    remarks: ''
+-
+    ch: ''
     locode: 'MU BEL'
     name: 'Bel Air'
     namewodiacritics: 'Bel Air'
@@ -45,6 +93,66 @@
     date: '1307'
     iata: ''
     coordinates: '2015S 05744E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MU BOR'
+    name: 'Bel Ombre'
+    namewodiacritics: 'Bel Ombre'
+    subdiv: SA
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '2030S 05724E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MU BLM'
+    name: 'Belle Mare'
+    namewodiacritics: 'Belle Mare'
+    subdiv: FL
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '2011S 05746E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MU BRE'
+    name: 'Belle Rose'
+    namewodiacritics: 'Belle Rose'
+    subdiv: QB
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '2015S 05743E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MU CPX'
+    name: 'Cap Malheureux'
+    namewodiacritics: 'Cap Malheureux'
+    subdiv: RR
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '1959S 05736E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MU CSS'
+    name: Cassis
+    namewodiacritics: Cassis
+    subdiv: PL
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '2009S 05728E'
     remarks: ''
 -
     ch: ''
@@ -60,6 +168,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'MU CHL'
+    name: Chamarel
+    namewodiacritics: Chamarel
+    subdiv: SA
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '2025S 05723E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MU CGR'
+    name: 'Chemin Grenier'
+    namewodiacritics: 'Chemin Grenier'
+    subdiv: SA
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '2029S 05727E'
+    remarks: ''
+-
+    ch: ''
     locode: 'MU CDE'
     name: Cloverdale
     namewodiacritics: Cloverdale
@@ -69,6 +201,18 @@
     date: '0004'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MU CMD'
+    name: Coromandel
+    namewodiacritics: Coromandel
+    subdiv: BR
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '2010S 05727E'
     remarks: ''
 -
     ch: ''
@@ -108,6 +252,102 @@
     remarks: ''
 -
     ch: ''
+    locode: 'MU FDS'
+    name: 'Fond du Sac'
+    namewodiacritics: 'Fond du Sac'
+    subdiv: PA
+    function: '-----6--'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '2002S 05734E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MU FSD'
+    name: 'Forest Side'
+    namewodiacritics: 'Forest Side'
+    subdiv: PW
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '2019S 05731E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MU GOO'
+    name: Goodlands
+    namewodiacritics: Goodlands
+    subdiv: RR
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '2002S 05738E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MU GBA'
+    name: 'Grand Baie'
+    namewodiacritics: 'Grand Baie'
+    subdiv: PA
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '2000S 05734E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MU GRN'
+    name: 'Grand River North West'
+    namewodiacritics: 'Grand River North West'
+    subdiv: PL
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '2010S 05728E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MU GRS'
+    name: 'Grande Rivière Sud Est'
+    namewodiacritics: 'Grande Riviere Sud Est'
+    subdiv: FL
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '2017S 05746E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MU GBS'
+    name: 'Gros Bois'
+    namewodiacritics: 'Gros Bois'
+    subdiv: GP
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '2026S 05736E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MU LME'
+    name: 'La Mivoie'
+    namewodiacritics: 'La Mivoie'
+    subdiv: RR
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '2020S 05721E'
+    remarks: ''
+-
+    ch: ''
     locode: 'MU MAH'
     name: Mahébourg
     namewodiacritics: Mahebourg
@@ -117,6 +357,18 @@
     date: '0212'
     iata: ''
     coordinates: '2024S 05741E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MU MAP'
+    name: Mapou
+    namewodiacritics: Mapou
+    subdiv: RR
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '2001S 05734E'
     remarks: ''
 -
     ch: ''
@@ -144,6 +396,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'MU GPO'
+    name: 'Nouvelle France'
+    namewodiacritics: 'Nouvelle France'
+    subdiv: GP
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '2022S 05733E'
+    remarks: ''
+-
+    ch: ''
     locode: 'MU PAI'
     name: Pailles
     namewodiacritics: Pailles
@@ -153,6 +417,18 @@
     date: '1301'
     iata: ''
     coordinates: '2011S 05728E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MU PMR'
+    name: Palmar
+    namewodiacritics: Palmar
+    subdiv: FL
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '2013S 05746E'
     remarks: ''
 -
     ch: ''
@@ -168,6 +444,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'MU PYY'
+    name: Pereybèré
+    namewodiacritics: Pereybere
+    subdiv: RR
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '1959S 05735E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MU PRI'
+    name: 'Petite Rivière'
+    namewodiacritics: 'Petite Riviere'
+    subdiv: BL
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '2011S 05726E'
+    remarks: ''
+-
+    ch: ''
     locode: 'MU PNX'
     name: Phoenix
     namewodiacritics: Phoenix
@@ -177,6 +477,18 @@
     date: '1107'
     iata: ''
     coordinates: '2017S 05730E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MU PTN'
+    name: Piton
+    namewodiacritics: Piton
+    subdiv: RR
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '2005S 05737E'
     remarks: ''
 -
     ch: ''
@@ -192,6 +504,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'MU PAC'
+    name: 'Pointe aux Canonniers'
+    namewodiacritics: 'Pointe aux Canonniers'
+    subdiv: PA
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '2000S 05733E'
+    remarks: ''
+-
+    ch: ''
     locode: 'MU PSB'
     name: 'Pointe aux Sables'
     namewodiacritics: 'Pointe aux Sables'
@@ -201,6 +525,18 @@
     date: '1101'
     iata: ''
     coordinates: '2009S 05727E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MU PEY'
+    name: 'Pointe dEsny'
+    namewodiacritics: 'Pointe dEsny'
+    subdiv: GP
+    function: '--3-----'
+    status: RL
+    date: '1707'
+    iata: ''
+    coordinates: '2025S 05743E'
     remarks: ''
 -
     ch: ''
@@ -228,6 +564,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'MU PDF'
+    name: 'Poste de Flacq'
+    namewodiacritics: 'Poste de Flacq'
+    subdiv: FL
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '2009S 05743E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MU QML'
+    name: 'Quartier Militaire'
+    namewodiacritics: 'Quartier Militaire'
+    subdiv: MO
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '2014S 05735E'
+    remarks: ''
+-
+    ch: ''
     locode: 'MU QBE'
     name: 'Quatre Bornes'
     namewodiacritics: 'Quatre Bornes'
@@ -239,7 +599,7 @@
     coordinates: '2015S 05728E'
     remarks: ''
 -
-    ch: +
+    ch: ''
     locode: 'MU RCT'
     name: Richeterre
     namewodiacritics: Richeterre
@@ -251,7 +611,7 @@
     coordinates: '2007S 05730E'
     remarks: ''
 -
-    ch: +
+    ch: ''
     locode: 'MU RDR'
     name: 'Rivière du Rempart'
     namewodiacritics: 'Riviere du Rempart'
@@ -261,6 +621,42 @@
     date: '1307'
     iata: ''
     coordinates: '2006S 05741E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MU BLR'
+    name: 'Rivière Noire'
+    namewodiacritics: 'Riviere Noire'
+    subdiv: BL
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '2021S 05721E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MU MRB'
+    name: 'Roches Brunes'
+    namewodiacritics: 'Roches Brunes'
+    subdiv: PW
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '2013S 05727E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MU RNE'
+    name: 'Roches Noire'
+    namewodiacritics: 'Roches Noire'
+    subdiv: RR
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '2006S 05742E'
     remarks: ''
 -
     ch: ''
@@ -275,7 +671,19 @@
     coordinates: '1942S 06325E'
     remarks: ''
 -
-    ch: +
+    ch: ''
+    locode: 'MU RSH'
+    name: 'Rose Hill'
+    namewodiacritics: 'Rose Hill'
+    subdiv: BR
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '2014S 05728E'
+    remarks: ''
+-
+    ch: ''
     locode: 'MU SAU'
     name: 'Saint Aubin'
     namewodiacritics: 'Saint Aubin'
@@ -312,6 +720,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'MU SLC'
+    name: Souillac
+    namewodiacritics: Souillac
+    subdiv: SA
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '2031S 05731E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MU SRM'
+    name: Surinam
+    namewodiacritics: Surinam
+    subdiv: SA
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '2030S 05730E'
+    remarks: ''
+-
+    ch: ''
     locode: 'MU TAM'
     name: Tamarin
     namewodiacritics: Tamarin
@@ -321,4 +753,88 @@
     date: '1107'
     iata: ''
     coordinates: '2019S 05722E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MU TRE'
+    name: 'Terre Rouge'
+    namewodiacritics: 'Terre Rouge'
+    subdiv: PA
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '2007S 05731E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MU TLT'
+    name: Triolet
+    namewodiacritics: Triolet
+    subdiv: PA
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '2003S 05732E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MU TAB'
+    name: 'Trou aux Biches'
+    namewodiacritics: 'Trou aux Biches'
+    subdiv: PA
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '2002S 05732E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MU TDD'
+    name: 'Trou d''eau Douce'
+    namewodiacritics: 'Trou d''eau Douce'
+    subdiv: FL
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '2014S 05746E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MU TYK'
+    name: Tyack
+    namewodiacritics: Tyack
+    subdiv: SA
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '2028S 05733E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MU VAC'
+    name: Vacoas
+    namewodiacritics: Vacoas
+    subdiv: PW
+    function: '--3-----'
+    status: RL
+    date: '1707'
+    iata: ''
+    coordinates: '2017S 05728E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MU VER'
+    name: Verdun
+    namewodiacritics: Verdun
+    subdiv: MO
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '2013S 05732E'
     remarks: ''

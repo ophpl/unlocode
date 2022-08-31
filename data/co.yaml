@@ -48,6 +48,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CO AGC'
+    name: Aguachica
+    namewodiacritics: Aguachica
+    subdiv: CES
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '0818N 07337W'
+    remarks: ''
+-
+    ch: ''
     locode: 'CO ACL'
     name: Aguaclara
     namewodiacritics: Aguaclara
@@ -57,6 +69,30 @@
     date: '0901'
     iata: ''
     coordinates: '0143N 07847W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CO AGU'
+    name: Aguadas
+    namewodiacritics: Aguadas
+    subdiv: CAL
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '0536N 07527W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CO ABL'
+    name: Aguasblancas
+    namewodiacritics: Aguasblancas
+    subdiv: CES
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '1013N 07329W'
     remarks: ''
 -
     ch: ''
@@ -120,6 +156,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CO LAP'
+    name: Apartadó
+    namewodiacritics: Apartado
+    subdiv: ANT
+    function: '--3-----'
+    status: RL
+    date: '1707'
+    iata: ''
+    coordinates: '0753N 07638W'
+    remarks: ''
+-
+    ch: ''
     locode: 'CO API'
     name: Apiay
     namewodiacritics: Apiay
@@ -129,6 +177,18 @@
     date: '0907'
     iata: ''
     coordinates: '0405N 07334W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CO ARA'
+    name: Aracataca
+    namewodiacritics: Aracataca
+    subdiv: MAG
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '1035N 07411W'
     remarks: ''
 -
     ch: ''
@@ -180,6 +240,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CO ARE'
+    name: Arenal
+    namewodiacritics: Arenal
+    subdiv: BOL
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '0828N 07357W'
+    remarks: ''
+-
+    ch: ''
     locode: 'CO ACM'
     name: Arica
     namewodiacritics: Arica
@@ -192,6 +264,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CO ARI'
+    name: Ariguani
+    namewodiacritics: Ariguani
+    subdiv: CES
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '1015N 07400W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CO ARJ'
+    name: Arjona
+    namewodiacritics: Arjona
+    subdiv: CES
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '0932N 07354W'
+    remarks: ''
+-
+    ch: ''
     locode: 'CO AXM'
     name: Armenia
     namewodiacritics: Armenia
@@ -201,6 +297,18 @@
     date: '9601'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'CO AGY'
+    name: 'Armero Guayabal'
+    namewodiacritics: 'Armero Guayabal'
+    subdiv: TOL
+    function: '--3-----'
+    status: AM
+    date: '2007'
+    iata: ''
+    coordinates: '0502N 07453W'
     remarks: ''
 -
     ch: ''
@@ -276,6 +384,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CO BAR'
+    name: Baranoa
+    namewodiacritics: Baranoa
+    subdiv: ATL
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '1047N 07455W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CO BAA'
+    name: Barbosa
+    namewodiacritics: Barbosa
+    subdiv: ANT
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '0626N 07519W'
+    remarks: ''
+-
+    ch: ''
     locode: 'CO BAC'
     name: 'Barranca de Upia'
     namewodiacritics: 'Barranca de Upia'
@@ -300,6 +432,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CO BRR'
+    name: Barrancas
+    namewodiacritics: Barrancas
+    subdiv: LAG
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '1057N 07247W'
+    remarks: ''
+-
+    ch: ''
     locode: 'CO NBB'
     name: Barrancominas
     namewodiacritics: Barrancominas
@@ -321,6 +465,54 @@
     date: '9601'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'CO BAY'
+    name: Bayunca
+    namewodiacritics: Bayunca
+    subdiv: BOL
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '1032N 07524W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CO BEC'
+    name: Becerril
+    namewodiacritics: Becerril
+    subdiv: CES
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '0942N 07317W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CO BLO'
+    name: Bello
+    namewodiacritics: Bello
+    subdiv: ANT
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '0620N 07533W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CO BER'
+    name: Berrugas
+    namewodiacritics: Berrugas
+    subdiv: SUC
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '0942N 07537W'
     remarks: ''
 -
     ch: ''
@@ -360,6 +552,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CO BOS'
+    name: Bosconia
+    namewodiacritics: Bosconia
+    subdiv: CES
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '0958N 07353W'
+    remarks: ''
+-
+    ch: ''
     locode: 'CO BGA'
     name: Bucaramanga
     namewodiacritics: Bucaramanga
@@ -369,6 +573,18 @@
     date: '9601'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'CO BUE'
+    name: 'Buena Vista'
+    namewodiacritics: 'Buena Vista'
+    subdiv: COR
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '0813N 07529W'
     remarks: ''
 -
     ch: ''
@@ -420,6 +636,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CO CAL'
+    name: Calamar
+    namewodiacritics: Calamar
+    subdiv: BOL
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '0900N 07422W'
+    remarks: ''
+-
+    ch: ''
     locode: 'CO CLO'
     name: Cali
     namewodiacritics: Cali
@@ -432,6 +660,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CO N6A'
+    name: California
+    namewodiacritics: California
+    subdiv: SAN
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '0721N 07258W'
+    remarks: ''
+-
+    ch: ''
     locode: 'CO XCO'
     name: Caloto
     namewodiacritics: Caloto
@@ -441,6 +681,42 @@
     date: '1201'
     iata: ''
     coordinates: '0302N 07624W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CO CAM'
+    name: Camarones
+    namewodiacritics: Camarones
+    subdiv: LAG
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '1125N 07303W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CO CLC'
+    name: 'Campo de La Cruz'
+    namewodiacritics: 'Campo de La Cruz'
+    subdiv: ATL
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '1023N 07453W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CO CAN'
+    name: Candelaria
+    namewodiacritics: Candelaria
+    subdiv: VAC
+    function: '-----6--'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '0324N 07620W'
     remarks: ''
 -
     ch: ''
@@ -528,6 +804,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CO CAS'
+    name: Casacará
+    namewodiacritics: Casacara
+    subdiv: CES
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '0949N 07315W'
+    remarks: ''
+-
+    ch: ''
     locode: 'CO CSR'
     name: Casuarito
     namewodiacritics: Casuarito
@@ -561,6 +849,30 @@
     date: '0907'
     iata: ''
     coordinates: '0759N 07512W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CO CCA'
+    name: 'Centro Alegre'
+    namewodiacritics: 'Centro Alegre'
+    subdiv: COR
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '0810N 07538W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CO CER'
+    name: Cereté
+    namewodiacritics: Cerete
+    subdiv: COR
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '0853N 07547W'
     remarks: ''
 -
     ch: ''
@@ -600,6 +912,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CO CHG'
+    name: Chimichagua
+    namewodiacritics: Chimichagua
+    subdiv: CES
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '0915N 07349W'
+    remarks: ''
+-
+    ch: ''
     locode: 'CO NNA'
     name: Chinchina
     namewodiacritics: Chinchina
@@ -609,6 +933,42 @@
     date: '1001'
     iata: ''
     coordinates: '0458N 07536W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CO CHU'
+    name: Chinú
+    namewodiacritics: Chinu
+    subdiv: COR
+    function: '--3-----'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '0906N 07523W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CO CHQ'
+    name: Chiquinquirá
+    namewodiacritics: Chiquinquira
+    subdiv: BOY
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '0537N 07349W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CO CHN'
+    name: Chiriguaná
+    namewodiacritics: Chiriguana
+    subdiv: CES
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '0922N 07335W'
     remarks: ''
 -
     ch: ''
@@ -636,6 +996,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CO CDO'
+    name: 'Ciénaga de Oro'
+    namewodiacritics: 'Cienaga de Oro'
+    subdiv: COR
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '0852N 07537W'
+    remarks: ''
+-
+    ch: ''
     locode: 'CO CIM'
     name: Cimitarra
     namewodiacritics: Cimitarra
@@ -660,6 +1032,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CO CGA'
+    name: Cogua
+    namewodiacritics: Cogua
+    subdiv: COR
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '0504N 07359W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CO COL'
+    name: Colomboy
+    namewodiacritics: Colomboy
+    subdiv: COR
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '0845N 07530W'
+    remarks: ''
+-
+    ch: ''
     locode: 'CO COG'
     name: Condoto
     namewodiacritics: Condoto
@@ -669,6 +1065,18 @@
     date: '0901'
     iata: ''
     coordinates: '0505N 07637W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CO CNR'
+    name: Contecar
+    namewodiacritics: Contecar
+    subdiv: BOL
+    function: 1-3--6--
+    status: RQ
+    date: '1607'
+    iata: ''
+    coordinates: '1023N 07531W'
     remarks: ''
 -
     ch: ''
@@ -695,7 +1103,19 @@
     coordinates: '0449N 07406W'
     remarks: ''
 -
-    ch: '#'
+    ch: ''
+    locode: 'CO COR'
+    name: Cotorra
+    namewodiacritics: Cotorra
+    subdiv: COR
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '0903N 07548W'
+    remarks: ''
+-
+    ch: ''
     locode: 'CO CVE'
     name: Coveñas
     namewodiacritics: Covenas
@@ -705,7 +1125,7 @@
     date: '1307'
     iata: ''
     coordinates: '0925N 07542W'
-    remarks: '@Sub@Coo'
+    remarks: ''
 -
     ch: ''
     locode: 'CO COV'
@@ -756,6 +1176,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CO CUR'
+    name: Curumaní
+    namewodiacritics: Curumani
+    subdiv: CES
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '0912N 07332W'
+    remarks: ''
+-
+    ch: ''
     locode: 'CO DAB'
     name: Dabeiba
     namewodiacritics: Dabeiba
@@ -765,6 +1197,30 @@
     date: '0607'
     iata: ''
     coordinates: '0700N 07616W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CO DQS'
+    name: 'Dos Quebradas'
+    namewodiacritics: 'Dos Quebradas'
+    subdiv: RIS
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '0450N 07540W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CO DUE'
+    name: Duitama
+    namewodiacritics: Duitama
+    subdiv: BOY
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '0549N 07301W'
     remarks: ''
 -
     ch: ''
@@ -816,6 +1272,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CO ECB'
+    name: 'El Carmen de Bolívar'
+    namewodiacritics: 'El Carmen de Bolivar'
+    subdiv: BOL
+    function: '-23-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '0943N 07507W'
+    remarks: ''
+-
+    ch: ''
     locode: 'CO ECR'
     name: 'El Charco'
     namewodiacritics: 'El Charco'
@@ -852,6 +1320,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CO ELP'
+    name: 'El Paso'
+    namewodiacritics: 'El Paso'
+    subdiv: CES
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '0939N 07345W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CO EPI'
+    name: 'El Penón'
+    namewodiacritics: 'El Penon'
+    subdiv: MAG
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '1024N 07449W'
+    remarks: ''
+-
+    ch: ''
     locode: 'CO PBD'
     name: 'El Poblado'
     namewodiacritics: 'El Poblado'
@@ -873,6 +1365,18 @@
     date: '0907'
     iata: ''
     coordinates: '0220N 07556W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CO ESN'
+    name: 'El Santuario'
+    namewodiacritics: 'El Santuario'
+    subdiv: ANT
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '0608N 07515W'
     remarks: ''
 -
     ch: ''
@@ -900,6 +1404,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CO TOL'
+    name: Espinal
+    namewodiacritics: Espinal
+    subdiv: TOL
+    function: '-----6--'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0409N 07453W'
+    remarks: ''
+-
+    ch: ''
     locode: 'CO 9FC'
     name: Facatativa
     namewodiacritics: Facatativa
@@ -924,6 +1440,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CO FLC'
+    name: Floridablanca
+    namewodiacritics: Floridablanca
+    subdiv: SAN
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '0703N 07305W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CO FON'
+    name: Fonseca
+    namewodiacritics: Fonseca
+    subdiv: LAG
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '1053N 07251W'
+    remarks: ''
+-
+    ch: ''
     locode: 'CO FUN'
     name: Fundacion
     namewodiacritics: Fundacion
@@ -935,7 +1475,19 @@
     coordinates: '0401N 07427W'
     remarks: ''
 -
-    ch: +
+    ch: ''
+    locode: 'CO FZA'
+    name: Funza
+    namewodiacritics: Funza
+    subdiv: CUN
+    function: '--3-----'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '0443N 07413W'
+    remarks: ''
+-
+    ch: ''
     locode: 'CO GLP'
     name: Galapa
     namewodiacritics: Galapa
@@ -945,6 +1497,18 @@
     date: '1307'
     iata: ''
     coordinates: '1054N 07453W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CO GRL'
+    name: Galeras
+    namewodiacritics: Galeras
+    subdiv: SUC
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '0909N 07503W'
     remarks: ''
 -
     ch: ''
@@ -960,18 +1524,6 @@
     remarks: ''
 -
     ch: ''
-    locode: 'CO GAM'
-    name: Gamarra
-    namewodiacritics: Gamarra
-    subdiv: ''
-    function: '--3-----'
-    status: RQ
-    date: '0607'
-    iata: ''
-    coordinates: '0820N 07344W'
-    remarks: ''
--
-    ch: ''
     locode: 'CO GRA'
     name: Gamarra
     namewodiacritics: Gamarra
@@ -981,6 +1533,18 @@
     date: '0901'
     iata: ''
     coordinates: '0820N 07341W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CO GAM'
+    name: Gamarra
+    namewodiacritics: Gamarra
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '0607'
+    iata: ''
+    coordinates: '0820N 07344W'
     remarks: ''
 -
     ch: ''
@@ -1032,6 +1596,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CO GIN'
+    name: Girón
+    namewodiacritics: Giron
+    subdiv: SAN
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '0704N 07310W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CO GRD'
+    name: Granada
+    namewodiacritics: Granada
+    subdiv: ANT
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '0608N 07511W'
+    remarks: ''
+-
+    ch: ''
     locode: 'CO GCA'
     name: Guacamaya
     namewodiacritics: Guacamaya
@@ -1080,18 +1668,6 @@
     remarks: ''
 -
     ch: ''
-    locode: 'CO GUP'
-    name: Guapi
-    namewodiacritics: Guapi
-    subdiv: ''
-    function: '--3-----'
-    status: RQ
-    date: '0607'
-    iata: ''
-    coordinates: '0235N 07754W'
-    remarks: ''
--
-    ch: ''
     locode: 'CO GPI'
     name: Guapi
     namewodiacritics: Guapi
@@ -1104,6 +1680,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CO GUP'
+    name: Guapi
+    namewodiacritics: Guapi
+    subdiv: ''
+    function: '--3-----'
+    status: RQ
+    date: '0607'
+    iata: ''
+    coordinates: '0235N 07754W'
+    remarks: ''
+-
+    ch: ''
     locode: 'CO GST'
     name: Guaranao
     namewodiacritics: Guaranao
@@ -1113,6 +1701,30 @@
     date: '0901'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'CO GUD'
+    name: Guaranda
+    namewodiacritics: Guaranda
+    subdiv: COR
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '0828N 07532W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CO GTI'
+    name: Guatica
+    namewodiacritics: Guatica
+    subdiv: RIS
+    function: '--3-----'
+    status: AM
+    date: '2101'
+    iata: ''
+    coordinates: '0519N 07548W'
     remarks: ''
 -
     ch: ''
@@ -1137,6 +1749,18 @@
     date: '0901'
     iata: ''
     coordinates: '0609N 07146W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CO HAT'
+    name: 'Hato Nuevo'
+    namewodiacritics: 'Hato Nuevo'
+    subdiv: LAG
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '1104N 07246W'
     remarks: ''
 -
     ch: ''
@@ -1211,6 +1835,42 @@
     coordinates: '0610N 07536W'
     remarks: ''
 -
+    ch: +
+    locode: 'CO JAR'
+    name: Jardin
+    namewodiacritics: Jardin
+    subdiv: ANT
+    function: '--3-----'
+    status: AM
+    date: '2201'
+    iata: ''
+    coordinates: '0536N 07549W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CO JER'
+    name: Jericó
+    namewodiacritics: Jerico
+    subdiv: ANT
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '0547N 07547W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CO JDA'
+    name: 'Juan de Acosta'
+    namewodiacritics: 'Juan de Acosta'
+    subdiv: ATL
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '1049N 07502W'
+    remarks: ''
+-
     ch: ''
     locode: 'CO JUO'
     name: Jurado
@@ -1221,6 +1881,30 @@
     date: '0907'
     iata: ''
     coordinates: '0631N 07636W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CO APA'
+    name: 'La Apartada'
+    namewodiacritics: 'La Apartada'
+    subdiv: COR
+    function: '--3-----'
+    status: RL
+    date: '1707'
+    iata: ''
+    coordinates: '0806N 07522W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CO LAU'
+    name: 'La Aurora'
+    namewodiacritics: 'La Aurora'
+    subdiv: CES
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '0928N 07333W'
     remarks: ''
 -
     ch: ''
@@ -1241,10 +1925,10 @@
     namewodiacritics: 'La Dorada'
     subdiv: ''
     function: '--3-----'
-    status: RQ
-    date: '0607'
+    status: RL
+    date: '1707'
     iata: ''
-    coordinates: '0821N 07429W'
+    coordinates: '0528N 07440W'
     remarks: ''
 -
     ch: ''
@@ -1269,6 +1953,18 @@
     date: '1201'
     iata: ''
     coordinates: '0933N 07320W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CO LLO'
+    name: 'La Loma'
+    namewodiacritics: 'La Loma'
+    subdiv: CES
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '0937N 07335W'
     remarks: ''
 -
     ch: ''
@@ -1332,6 +2028,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CO LPS'
+    name: 'Las Palomas'
+    namewodiacritics: 'Las Palomas'
+    subdiv: COR
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '0827N 07600W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CO LEB'
+    name: Lebrija
+    namewodiacritics: Lebrija
+    subdiv: SAN
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '0707N 07313W'
+    remarks: ''
+-
+    ch: ''
     locode: 'CO LEJ'
     name: Lejanias
     namewodiacritics: Lejanias
@@ -1343,7 +2063,7 @@
     coordinates: '0331N 07401W'
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'CO LET'
     name: Leticia
     namewodiacritics: Leticia
@@ -1353,7 +2073,7 @@
     date: '1307'
     iata: ''
     coordinates: '0413S 06956W'
-    remarks: '@Sub@Coo'
+    remarks: ''
 -
     ch: ''
     locode: 'CO LMX'
@@ -1377,6 +2097,18 @@
     date: '0901'
     iata: ''
     coordinates: '0901N 07542W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CO LCO'
+    name: 'Los Córdobas'
+    namewodiacritics: 'Los Cordobas'
+    subdiv: COR
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '0854N 07621W'
     remarks: ''
 -
     ch: ''
@@ -1404,6 +2136,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CO MDD'
+    name: Madrid
+    namewodiacritics: Madrid
+    subdiv: CUN
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '0444N 07416W'
+    remarks: ''
+-
+    ch: ''
     locode: 'CO MGN'
     name: Magangue
     namewodiacritics: Magangue
@@ -1427,7 +2171,31 @@
     coordinates: ''
     remarks: ''
 -
-    ch: ¦
+    ch: ''
+    locode: 'CO MAJ'
+    name: Majagual
+    namewodiacritics: Majagual
+    subdiv: SUC
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '0832N 07437W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CO MAL'
+    name: Malambo
+    namewodiacritics: Malambo
+    subdiv: ATL
+    function: '--3-----'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '1051N 07446W'
+    remarks: ''
+-
+    ch: ''
     locode: 'CO MAM'
     name: Mamonal
     namewodiacritics: Mamonal
@@ -1437,7 +2205,7 @@
     date: '1307'
     iata: ''
     coordinates: '1019N 07530W'
-    remarks: '@Fun@Sta@Sub@Coo'
+    remarks: ''
 -
     ch: ''
     locode: 'CO MAU'
@@ -1461,6 +2229,30 @@
     date: '9601'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'CO MBA'
+    name: 'Maria La Baja'
+    namewodiacritics: 'Maria La Baja'
+    subdiv: BOL
+    function: '--3-----'
+    status: RL
+    date: '1707'
+    iata: ''
+    coordinates: '1000N 07520W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CO MRA'
+    name: Marinilla
+    namewodiacritics: Marinilla
+    subdiv: ANT
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '0610N 07520W'
     remarks: ''
 -
     ch: ''
@@ -1509,6 +2301,18 @@
     date: '0901'
     iata: ''
     coordinates: '0431N 07316W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CO MIN'
+    name: Mingueo
+    namewodiacritics: Mingueo
+    subdiv: LAG
+    function: 1-3--6--
+    status: AM
+    date: '2101'
+    iata: ''
+    coordinates: '1112N 07324W'
     remarks: ''
 -
     ch: ''
@@ -1764,6 +2568,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CO ORE'
+    name: Orejero
+    namewodiacritics: Orejero
+    subdiv: SUC
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '0859N 07443W'
+    remarks: ''
+-
+    ch: ''
     locode: 'CO ORC'
     name: Orocue
     namewodiacritics: Orocue
@@ -1788,6 +2604,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CO OVE'
+    name: Ovejas
+    namewodiacritics: Ovejas
+    subdiv: SUC
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '0931N 07514W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CO PAI'
+    name: Pailitas
+    namewodiacritics: Pailitas
+    subdiv: CES
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '0857N 07337W'
+    remarks: ''
+-
+    ch: ''
     locode: 'CO PAL'
     name: Palanquero
     namewodiacritics: Palanquero
@@ -1809,6 +2649,18 @@
     date: '0901'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'CO PDG'
+    name: 'Palo de Agua'
+    namewodiacritics: 'Palo de Agua'
+    subdiv: COR
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '0910N 07551W'
     remarks: ''
 -
     ch: ''
@@ -1860,6 +2712,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CO PEL'
+    name: Pelaya
+    namewodiacritics: Pelaya
+    subdiv: CES
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '0841N 07339W'
+    remarks: ''
+-
+    ch: ''
     locode: 'CO PEI'
     name: Pereira
     namewodiacritics: Pereira
@@ -1872,6 +2736,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CO PIE'
+    name: Piedecuesta
+    namewodiacritics: Piedecuesta
+    subdiv: SAN
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '0659N 07303W'
+    remarks: ''
+-
+    ch: ''
     locode: 'CO PTX'
     name: Pitalito
     namewodiacritics: Pitalito
@@ -1881,6 +2757,18 @@
     date: '0907'
     iata: ''
     coordinates: '0151N 07602W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CO PIV'
+    name: Pivijay
+    namewodiacritics: Pivijay
+    subdiv: MAG
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '1028N 07437W'
     remarks: ''
 -
     ch: ''
@@ -1917,6 +2805,18 @@
     date: '0901'
     iata: ''
     coordinates: '0946N 07446W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CO PON'
+    name: Ponedera
+    namewodiacritics: Ponedera
+    subdiv: ATL
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '1038N 07445W'
     remarks: ''
 -
     ch: ''
@@ -1965,6 +2865,42 @@
     date: '0901'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'CO PBL'
+    name: 'Pueblo Bello'
+    namewodiacritics: 'Pueblo Bello'
+    subdiv: CES
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '1025N 07335W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CO PNU'
+    name: 'Pueblo Nuevo'
+    namewodiacritics: 'Pueblo Nuevo'
+    subdiv: COR
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '0830N 07530W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CO PCA'
+    name: 'Puente Canoas'
+    namewodiacritics: 'Puente Canoas'
+    subdiv: CES
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '0939N 07338W'
     remarks: ''
 -
     ch: ''
@@ -2052,6 +2988,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CO PES'
+    name: 'Puerto Escondido'
+    namewodiacritics: 'Puerto Escondido'
+    subdiv: COR
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '0901N 07615W'
+    remarks: ''
+-
+    ch: ''
     locode: 'CO PGA'
     name: 'Puerto Gaitan'
     namewodiacritics: 'Puerto Gaitan'
@@ -2088,15 +3036,15 @@
     remarks: ''
 -
     ch: ''
-    locode: 'CO PUL'
-    name: 'Puerto Limón'
-    namewodiacritics: 'Puerto Limon'
-    subdiv: ''
-    function: 1-3-----
+    locode: 'CO PLI'
+    name: 'Puerto Libertador'
+    namewodiacritics: 'Puerto Libertador'
+    subdiv: COR
+    function: '--3-----'
     status: RL
-    date: '0201'
+    date: '1601'
     iata: ''
-    coordinates: '0923N 07611W'
+    coordinates: '0753N 07540W'
     remarks: ''
 -
     ch: ''
@@ -2109,6 +3057,18 @@
     date: '0201'
     iata: ''
     coordinates: '0103N 07630W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CO PUL'
+    name: 'Puerto Limón'
+    namewodiacritics: 'Puerto Limon'
+    subdiv: ''
+    function: 1-3-----
+    status: RL
+    date: '0201'
+    iata: ''
+    coordinates: '0923N 07611W'
     remarks: ''
 -
     ch: ''
@@ -2148,6 +3108,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CO PWI'
+    name: 'Puerto Wilches'
+    namewodiacritics: 'Puerto Wilches'
+    subdiv: SAN
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '0720N 07354W'
+    remarks: ''
+-
+    ch: ''
     locode: 'CO UIB'
     name: Quibdó
     namewodiacritics: Quibdo
@@ -2157,6 +3129,18 @@
     date: '0212'
     iata: ''
     coordinates: '0542N 07640W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CO QUO'
+    name: Quindio
+    namewodiacritics: Quindio
+    subdiv: SAN
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '0714N 07334W'
     remarks: ''
 -
     ch: ''
@@ -2208,6 +3192,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CO ROZ'
+    name: Rozo
+    namewodiacritics: Rozo
+    subdiv: VAC
+    function: '--3-----'
+    status: AM
+    date: '2101'
+    iata: ''
+    coordinates: '0336N 07623W'
+    remarks: ''
+-
+    ch: ''
     locode: 'CO SNT'
     name: 'Sabana de Torres'
     namewodiacritics: 'Sabana de Torres'
@@ -2217,6 +3213,66 @@
     date: '0907'
     iata: ''
     coordinates: '0740N 07301W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CO SGR'
+    name: Sabanagrande
+    namewodiacritics: Sabanagrande
+    subdiv: ATL
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '1047N 07445W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CO SAB'
+    name: Sabanalarga
+    namewodiacritics: Sabanalarga
+    subdiv: ATL
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '1038N 07455W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CO SA2'
+    name: Sabanalarga
+    namewodiacritics: Sabanalarga
+    subdiv: ANT
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '0651N 07549W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CO SAT'
+    name: Sabaneta
+    namewodiacritics: Sabaneta
+    subdiv: ANT
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '0609N 07536W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CO SAH'
+    name: Sahagún
+    namewodiacritics: Sahagun
+    subdiv: COR
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '0856N 07526W'
     remarks: ''
 -
     ch: ''
@@ -2244,6 +3300,42 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CO SAP'
+    name: Sampués
+    namewodiacritics: Sampues
+    subdiv: SUC
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '0922N 07522W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CO SAO'
+    name: 'San Alberto'
+    namewodiacritics: 'San Alberto'
+    subdiv: CES
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '0908N 07334W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CO SAC'
+    name: 'San Andrés'
+    namewodiacritics: 'San Andres'
+    subdiv: SAP
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '1235N 08142W'
+    remarks: ''
+-
+    ch: ''
     locode: 'CO ADZ'
     name: 'San Andres Island'
     namewodiacritics: 'San Andres Island'
@@ -2256,6 +3348,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CO ANT'
+    name: 'San Antero'
+    namewodiacritics: 'San Antero'
+    subdiv: COR
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '0922N 07545W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CO SBV'
+    name: 'San Bernardo del Viento'
+    namewodiacritics: 'San Bernardo del Viento'
+    subdiv: COR
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '0921N 07557W'
+    remarks: ''
+-
+    ch: ''
     locode: 'CO 8SG'
     name: 'San Carlos de Guaroa'
     namewodiacritics: 'San Carlos de Guaroa'
@@ -2265,6 +3381,30 @@
     date: '1301'
     iata: ''
     coordinates: '0342N 07314W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CO SDI'
+    name: 'San Diego'
+    namewodiacritics: 'San Diego'
+    subdiv: CES
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '1020N 07310W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CO SET'
+    name: 'San Estanislao'
+    namewodiacritics: 'San Estanislao'
+    subdiv: BOL
+    function: '--3-----'
+    status: RL
+    date: '1707'
+    iata: ''
+    coordinates: '1023N 07509W'
     remarks: ''
 -
     ch: ''
@@ -2289,6 +3429,30 @@
     date: '0607'
     iata: ''
     coordinates: '0633N 07308W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CO SJC'
+    name: 'San Jacinto'
+    namewodiacritics: 'San Jacinto'
+    subdiv: BOL
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '0949N 07507W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CO SJA'
+    name: 'San Jose de Ariguani'
+    namewodiacritics: 'San Jose de Ariguani'
+    subdiv: BOL
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '0955N 07457W'
     remarks: ''
 -
     ch: ''
@@ -2328,6 +3492,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CO SJN'
+    name: 'San Juan Nepomuceno'
+    namewodiacritics: 'San Juan Nepomuceno'
+    subdiv: BOL
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '0957N 07505W'
+    remarks: ''
+-
+    ch: ''
     locode: 'CO SQE'
     name: 'San Luis de Pale'
     namewodiacritics: 'San Luis de Pale'
@@ -2349,6 +3525,54 @@
     date: '0901'
     iata: ''
     coordinates: '0838N 07507W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CO SMA'
+    name: 'San Martín'
+    namewodiacritics: 'San Martin'
+    subdiv: CES
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '0956N 07338W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CO SMT'
+    name: 'San Mateo'
+    namewodiacritics: 'San Mateo'
+    subdiv: SUC
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '0854N 07443W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CO SON'
+    name: 'San Onofre'
+    namewodiacritics: 'San Onofre'
+    subdiv: SUC
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '0944N 07531W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CO SPR'
+    name: 'San Pedro'
+    namewodiacritics: 'San Pedro'
+    subdiv: SUC
+    function: '--3-----'
+    status: RL
+    date: '1707'
+    iata: ''
+    coordinates: '0843N 07443W'
     remarks: ''
 -
     ch: ''
@@ -2376,15 +3600,51 @@
     remarks: ''
 -
     ch: ''
-    locode: 'CO SVI'
-    name: 'San Vincente'
-    namewodiacritics: 'San Vincente'
-    subdiv: ''
-    function: '---4----'
-    status: RQ
-    date: '0901'
+    locode: 'CO SPY'
+    name: 'San Pelayo'
+    namewodiacritics: 'San Pelayo'
+    subdiv: COR
+    function: '--3-----'
+    status: RL
+    date: '1601'
     iata: ''
-    coordinates: ''
+    coordinates: '0857N 07550W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CO SRB'
+    name: 'San Roque'
+    namewodiacritics: 'San Roque'
+    subdiv: MAG
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '0904N 07409W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CO SRQ'
+    name: 'San Roque'
+    namewodiacritics: 'San Roque'
+    subdiv: CES
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '0917N 07330W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CO SVI'
+    name: 'San Vicente del Caguán'
+    namewodiacritics: 'San Vicente del Caguan'
+    subdiv: CAQ
+    function: '---4----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '0206N 07446W'
     remarks: ''
 -
     ch: ''
@@ -2421,6 +3681,18 @@
     date: '0607'
     iata: ''
     coordinates: '0638N 07046W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CO STI'
+    name: 'Santa Inés'
+    namewodiacritics: 'Santa Ines'
+    subdiv: SUC
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '0843N 07514W'
     remarks: ''
 -
     ch: ''
@@ -2508,6 +3780,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CO STT'
+    name: 'Santiago de Tolu'
+    namewodiacritics: 'Santiago de Tolu'
+    subdiv: SUC
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '0931N 07535W'
+    remarks: ''
+-
+    ch: ''
     locode: 'CO RVE'
     name: Saravena
     namewodiacritics: Saravena
@@ -2556,6 +3840,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CO SIG'
+    name: Simana
+    namewodiacritics: Simana
+    subdiv: LAG
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '0837N 07344W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CO SIM'
+    name: Simiti
+    namewodiacritics: Simiti
+    subdiv: BOL
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '0757N 07356W'
+    remarks: ''
+-
+    ch: ''
     locode: 'CO PSB'
     name: 'Simon Bolivar'
     namewodiacritics: 'Simon Bolivar'
@@ -2577,6 +3885,42 @@
     date: '0607'
     iata: ''
     coordinates: '0914N 07508W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CO SIJ'
+    name: Sincelejo
+    namewodiacritics: Sincelejo
+    subdiv: SUC
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '0918N 07523W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CO SOA'
+    name: Soacha
+    namewodiacritics: Soacha
+    subdiv: CUN
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '0435N 07413W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CO SPC'
+    name: 'Sociedad Portuaria Regional Cartagena'
+    namewodiacritics: 'Sociedad Portuaria Regional Cartagena'
+    subdiv: BOL
+    function: 1-3--6--
+    status: RQ
+    date: '1607'
+    iata: ''
+    coordinates: '1024N 07532W'
     remarks: ''
 -
     ch: ''
@@ -2628,6 +3972,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CO SUC'
+    name: Sucre
+    namewodiacritics: Sucre
+    subdiv: SUC
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '0848N 07443W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CO STM'
+    name: Sutamarchan
+    namewodiacritics: Sutamarchan
+    subdiv: BOY
+    function: '--3-----'
+    status: AM
+    date: '2107'
+    iata: ''
+    coordinates: '0536N 07338W'
+    remarks: ''
+-
+    ch: ''
     locode: 'CO TTM'
     name: 'Tablon de Tamara'
     namewodiacritics: 'Tablon de Tamara'
@@ -2637,6 +4005,18 @@
     date: '0901'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'CO TAL'
+    name: Tamalameque
+    namewodiacritics: Tamalameque
+    subdiv: CES
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '0851N 07349W'
     remarks: ''
 -
     ch: ''
@@ -2688,6 +4068,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CO TEN'
+    name: Tenerife
+    namewodiacritics: Tenerife
+    subdiv: MAG
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '0954N 07451W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CO TEO'
+    name: Tenjo
+    namewodiacritics: Tenjo
+    subdiv: CUN
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '0452N 07408W'
+    remarks: ''
+-
+    ch: ''
     locode: 'CO TIB'
     name: Tibu
     namewodiacritics: Tibu
@@ -2697,6 +4101,18 @@
     date: '0907'
     iata: ''
     coordinates: '0838N 07244W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CO TIE'
+    name: Tierralta
+    namewodiacritics: Tierralta
+    subdiv: COR
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '0810N 07603W'
     remarks: ''
 -
     ch: ''
@@ -2733,6 +4149,18 @@
     date: '0212'
     iata: ''
     coordinates: '0932N 07535W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CO TOV'
+    name: Toluviejo
+    namewodiacritics: Toluviejo
+    subdiv: SUC
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '0927N 07526W'
     remarks: ''
 -
     ch: ''
@@ -2807,7 +4235,7 @@
     coordinates: '1019N 07524W'
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'CO TRB'
     name: Turbo
     namewodiacritics: Turbo
@@ -2817,7 +4245,7 @@
     date: '1307'
     iata: ''
     coordinates: '0805N 07643W'
-    remarks: '@Sub@Coo'
+    remarks: ''
 -
     ch: ''
     locode: 'CO UMB'
@@ -2868,6 +4296,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CO UQN'
+    name: Usaquen
+    namewodiacritics: Usaquen
+    subdiv: CUN
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '0442N 07402W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CO VDJ'
+    name: 'Valencia de Jesús'
+    namewodiacritics: 'Valencia de Jesus'
+    subdiv: CES
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '1018N 07324W'
+    remarks: ''
+-
+    ch: ''
     locode: 'CO VUP'
     name: Valledupar
     namewodiacritics: Valledupar
@@ -2892,6 +4344,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CO VLR'
+    name: 'Villa Rica'
+    namewodiacritics: 'Villa Rica'
+    subdiv: CAU
+    function: '-2------'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '0306N 07616W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CO SDU'
+    name: 'Villa San Diego de Ubaté'
+    namewodiacritics: 'Villa San Diego de Ubate'
+    subdiv: CUN
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '0518N 07348W'
+    remarks: ''
+-
+    ch: ''
     locode: 'CO VGZ'
     name: Villagarzon
     namewodiacritics: Villagarzon
@@ -2901,6 +4377,18 @@
     date: '0907'
     iata: ''
     coordinates: '0104N 07643W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CO GVL'
+    name: Villanueva
+    namewodiacritics: Villanueva
+    subdiv: LAG
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '1036N 07258W'
     remarks: ''
 -
     ch: ''
@@ -2976,6 +4464,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CO ZBR'
+    name: Zambrano
+    namewodiacritics: Zambrano
+    subdiv: MAG
+    function: '--3-----'
+    status: RL
+    date: '1707'
+    iata: ''
+    coordinates: '0944N 07449W'
+    remarks: ''
+-
+    ch: ''
     locode: 'CO AZT'
     name: Zapatoca
     namewodiacritics: Zapatoca
@@ -2985,4 +4485,16 @@
     date: '0907'
     iata: ''
     coordinates: '0649N 07317W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CO ZQA'
+    name: Zipaquirá
+    namewodiacritics: Zipaquira
+    subdiv: CUN
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '0501N 07400W'
     remarks: ''

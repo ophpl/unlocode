@@ -1,5 +1,5 @@
 -
-    ch: ¦
+    ch: ''
     locode: 'AF ASH'
     name: 'Ali Shirzayi'
     namewodiacritics: 'Ali Shirzayi'
@@ -9,7 +9,7 @@
     date: '1307'
     iata: ''
     coordinates: '3252N 06603E'
-    remarks: '@Sub'
+    remarks: ''
 -
     ch: ''
     locode: 'AF BAG'
@@ -59,7 +59,7 @@
     coordinates: ''
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'AF CBN'
     name: 'Camp Bastion'
     namewodiacritics: 'Camp Bastion'
@@ -69,7 +69,7 @@
     date: '1307'
     iata: OAZ
     coordinates: '3151N 06413E'
-    remarks: '@Coo'
+    remarks: ''
 -
     ch: ''
     locode: 'AF CDW'
@@ -83,7 +83,7 @@
     coordinates: '3107N 06411E'
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'AF CLN'
     name: 'Camp Leatherneck'
     namewodiacritics: 'Camp Leatherneck'
@@ -93,7 +93,7 @@
     date: '1307'
     iata: ''
     coordinates: '3153N 06411E'
-    remarks: '@Coo'
+    remarks: ''
 -
     ch: ''
     locode: 'AF CSO'
@@ -119,7 +119,7 @@
     coordinates: '3204N 06712E'
     remarks: ''
 -
-    ch: '#'
+    ch: ''
     locode: 'AF CCN'
     name: Chaghcharan
     namewodiacritics: Chaghcharan
@@ -129,7 +129,7 @@
     date: '1307'
     iata: ''
     coordinates: '3431N 06515E'
-    remarks: '@Coo'
+    remarks: ''
 -
     ch: ''
     locode: 'AF DAZ'
@@ -215,7 +215,7 @@
     coordinates: '3145N 06507E'
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'AF SHK'
     name: 'FOB Shank'
     namewodiacritics: 'FOB Shank'
@@ -225,7 +225,7 @@
     date: '1307'
     iata: ''
     coordinates: '3400N 06917E'
-    remarks: '@Sub'
+    remarks: ''
 -
     ch: ''
     locode: 'AF GRG'
@@ -479,7 +479,7 @@
     coordinates: '3440N 07012E'
     remarks: ''
 -
-    ch: +
+    ch: ''
     locode: 'AF MEY'
     name: Meydan
     namewodiacritics: Meydan
@@ -503,7 +503,7 @@
     coordinates: ''
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'AF ORG'
     name: 'Orgun-E Kalan'
     namewodiacritics: 'Orgun-E Kalan'
@@ -513,7 +513,7 @@
     date: '1307'
     iata: ''
     coordinates: '3254N 06913E'
-    remarks: '@Sub'
+    remarks: ''
 -
     ch: ''
     locode: 'AF PSD'
@@ -525,6 +525,18 @@
     date: '1207'
     iata: ''
     coordinates: '3341N 06451E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AF PEC'
+    name: 'Pol-e Charkhi'
+    namewodiacritics: 'Pol-e Charkhi'
+    subdiv: KAB
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '3432N 06920E'
     remarks: ''
 -
     ch: ''
@@ -635,7 +647,7 @@
     coordinates: '3318N 06208E'
     remarks: ''
 -
-    ch: '#'
+    ch: ''
     locode: 'AF SBK'
     name: 'Spin Boldak'
     namewodiacritics: 'Spin Boldak'
@@ -659,7 +671,7 @@
     coordinates: ''
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'AF TKO'
     name: 'Tarin Kowt'
     namewodiacritics: 'Tarin Kowt'
@@ -669,7 +681,7 @@
     date: '1307'
     iata: ''
     coordinates: '3237N 06552E'
-    remarks: '@Sub'
+    remarks: ''
 -
     ch: ''
     locode: 'AF TII'
@@ -707,7 +719,7 @@
     coordinates: '3453N 07155E'
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'AF TOW'
     name: Towraghondi
     namewodiacritics: Towraghondi
@@ -717,7 +729,7 @@
     date: '1307'
     iata: ''
     coordinates: '3515N 06217E'
-    remarks: '@Sub'
+    remarks: ''
 -
     ch: ''
     locode: 'AF URN'

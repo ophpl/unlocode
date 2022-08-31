@@ -48,6 +48,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'FO GLY'
+    name: Glyvrar
+    namewodiacritics: Glyvrar
+    subdiv: ''
+    function: '-23-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '6208N 00643W'
+    remarks: ''
+-
+    ch: ''
     locode: 'FO HYV'
     name: Hoyvik
     namewodiacritics: Hoyvik
@@ -241,12 +253,12 @@
 -
     ch: ''
     locode: 'FO TOR'
-    name: Torshavn
+    name: Tórshavn
     namewodiacritics: Torshavn
     subdiv: ''
-    function: '-----6--'
+    function: 1----6--
     status: RL
-    date: '0901'
+    date: '1601'
     iata: ''
     coordinates: '6210N 06460W'
     remarks: ''
@@ -297,6 +309,18 @@
     date: '0201'
     iata: ''
     coordinates: '6213N 00635W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'FO VBR'
+    name: Velbastadur
+    namewodiacritics: Velbastadur
+    subdiv: ''
+    function: '-----6--'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '6159N 00651W'
     remarks: ''
 -
     ch: ''

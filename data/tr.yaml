@@ -240,15 +240,27 @@
     remarks: ''
 -
     ch: ''
+    locode: 'TR KY8'
+    name: Akyurt
+    namewodiacritics: Akyurt
+    subdiv: '06'
+    function: '--3-----'
+    status: RL
+    date: '1707'
+    iata: ''
+    coordinates: '4008N 03306E'
+    remarks: ''
+-
+    ch: ''
     locode: 'TR ALA'
     name: Alanya
     namewodiacritics: Alanya
     subdiv: '07'
     function: 1-------
-    status: QQ
-    date: '8103'
+    status: RL
+    date: '1901'
     iata: ''
-    coordinates: ''
+    coordinates: '3632N 03159E'
     remarks: ''
 -
     ch: ''
@@ -293,8 +305,8 @@
     namewodiacritics: Aliaga
     subdiv: '35'
     function: 1-------
-    status: RQ
-    date: '9506'
+    status: RL
+    date: '1901'
     iata: ''
     coordinates: ''
     remarks: ''
@@ -389,8 +401,8 @@
     namewodiacritics: Amasra
     subdiv: '67'
     function: 1-------
-    status: RQ
-    date: '9506'
+    status: RL
+    date: '1901'
     iata: ''
     coordinates: ''
     remarks: ''
@@ -424,9 +436,9 @@
     name: Ambarli
     namewodiacritics: Ambarli
     subdiv: '34'
-    function: '--3-----'
+    function: 1-3-----
     status: RL
-    date: '0701'
+    date: '1807'
     iata: ''
     coordinates: '4058N 02842E'
     remarks: ''
@@ -435,12 +447,12 @@
     locode: 'TR PAM'
     name: Ambarli
     namewodiacritics: Ambarli
-    subdiv: '66'
-    function: 1-3-----
+    subdiv: '61'
+    function: '--3-----'
     status: RL
-    date: '0601'
+    date: '1901'
     iata: ''
-    coordinates: '4103N 03908E'
+    coordinates: '4102N 03910E'
     remarks: ''
 -
     ch: ''
@@ -461,10 +473,10 @@
     namewodiacritics: Anamur
     subdiv: '33'
     function: 1-------
-    status: RQ
-    date: '9506'
+    status: RL
+    date: '1901'
     iata: ''
-    coordinates: ''
+    coordinates: '3604N 03251E'
     remarks: ''
 -
     ch: ''
@@ -496,11 +508,11 @@
     name: Antalya
     namewodiacritics: Antalya
     subdiv: '07'
-    function: 1--4----
+    function: 1234----
     status: AI
-    date: '9601'
+    date: '1901'
     iata: ''
-    coordinates: ''
+    coordinates: '3650N 03036E'
     remarks: ''
 -
     ch: ''
@@ -513,6 +525,30 @@
     date: '0901'
     iata: ''
     coordinates: '3650N 03036E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TR ARD'
+    name: Ardahan
+    namewodiacritics: Ardahan
+    subdiv: '75'
+    function: '--34----'
+    status: AA
+    date: '1801'
+    iata: ''
+    coordinates: '4106N 04242E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TR ARE'
+    name: Arifiye
+    namewodiacritics: Arifiye
+    subdiv: '54'
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '4043N 03022E'
     remarks: ''
 -
     ch: ''
@@ -575,18 +611,6 @@
     coordinates: '4059N 02907E'
     remarks: ''
 -
-    ch: +
-    locode: 'TR AVE'
-    name: Avcilar
-    namewodiacritics: Avcilar
-    subdiv: '24'
-    function: '--3-----'
-    status: RL
-    date: '1307'
-    iata: ''
-    coordinates: '3937N 03949E'
-    remarks: ''
--
     ch: ''
     locode: 'TR AVC'
     name: Avcilar
@@ -600,15 +624,27 @@
     remarks: ''
 -
     ch: ''
+    locode: 'TR AVE'
+    name: Avcilar
+    namewodiacritics: Avcilar
+    subdiv: '24'
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '3937N 03949E'
+    remarks: ''
+-
+    ch: ''
     locode: 'TR AYA'
     name: Ayancik
     namewodiacritics: Ayancik
     subdiv: '57'
     function: 1-------
-    status: QQ
-    date: '8103'
+    status: RL
+    date: '1901'
     iata: ''
-    coordinates: ''
+    coordinates: '4156N 03435E'
     remarks: ''
 -
     ch: ''
@@ -689,10 +725,10 @@
     namewodiacritics: Ayvalik
     subdiv: '10'
     function: 1-------
-    status: QQ
-    date: '8103'
+    status: RL
+    date: '1901'
     iata: ''
-    coordinates: ''
+    coordinates: '3919N 02641E'
     remarks: ''
 -
     ch: ''
@@ -924,6 +960,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'TR YOJ'
+    name: Baspinar
+    namewodiacritics: Baspinar
+    subdiv: '66'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4007N 03533E'
+    remarks: ''
+-
+    ch: ''
     locode: 'TR BAL'
     name: Batman
     namewodiacritics: Batman
@@ -933,6 +981,18 @@
     date: '9710'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'TR IGT'
+    name: Battalgazi
+    namewodiacritics: Battalgazi
+    subdiv: '44'
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '3825N 03821E'
     remarks: ''
 -
     ch: ''
@@ -1164,15 +1224,27 @@
     remarks: ''
 -
     ch: ''
+    locode: 'TR BIT'
+    name: Bitlis
+    namewodiacritics: Bitlis
+    subdiv: '13'
+    function: '--3-----'
+    status: AA
+    date: '1801'
+    iata: ''
+    coordinates: '3824N 04206E'
+    remarks: ''
+-
+    ch: ''
     locode: 'TR BXN'
     name: Bodrum
     namewodiacritics: Bodrum
     subdiv: '48'
     function: 1--4----
     status: AI
-    date: '9601'
+    date: '1901'
     iata: ''
-    coordinates: ''
+    coordinates: '3702N 02725E'
     remarks: ''
 -
     ch: ''
@@ -1263,10 +1335,10 @@
     locode: 'TR BOT'
     name: Botas
     namewodiacritics: Botas
-    subdiv: ''
+    subdiv: '01'
     function: 1-------
     status: AI
-    date: '0201'
+    date: '1901'
     iata: ''
     coordinates: '3649N 03610E'
     remarks: ''
@@ -1301,10 +1373,10 @@
     namewodiacritics: Bozcaada
     subdiv: '17'
     function: 1-------
-    status: QQ
-    date: '8103'
+    status: RL
+    date: '1901'
     iata: ''
-    coordinates: ''
+    coordinates: '3950N 02604E'
     remarks: ''
 -
     ch: ''
@@ -1461,6 +1533,18 @@
     date: '1107'
     iata: ''
     coordinates: '3713N 03650E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TR CKM'
+    name: Çakmakli
+    namewodiacritics: Cakmakli
+    subdiv: '35'
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '3844N 02655E'
     remarks: ''
 -
     ch: ''
@@ -1648,10 +1732,10 @@
     name: Çaycuma
     namewodiacritics: Caycuma
     subdiv: '67'
-    function: '--3-----'
-    status: RN
-    date: '0212'
-    iata: ''
+    function: '--34----'
+    status: RL
+    date: '1701'
+    iata: ONQ
     coordinates: '4125N 03205E'
     remarks: ''
 -
@@ -1665,6 +1749,18 @@
     date: '0212'
     iata: ''
     coordinates: '3913N 03705E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TR CKO'
+    name: Cekmekoy
+    namewodiacritics: Cekmekoy
+    subdiv: '34'
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '4102N 02910E'
     remarks: ''
 -
     ch: ''
@@ -1745,10 +1841,10 @@
     namewodiacritics: Cide
     subdiv: '37'
     function: 1-------
-    status: RQ
-    date: '9506'
+    status: RL
+    date: '1901'
     iata: ''
-    coordinates: ''
+    coordinates: '4154N 03259E'
     remarks: ''
 -
     ch: ''
@@ -1761,6 +1857,18 @@
     date: '9710'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'TR CTR'
+    name: Cifteler
+    namewodiacritics: Cifteler
+    subdiv: '26'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3922N 03102E'
     remarks: ''
 -
     ch: ''
@@ -1932,6 +2040,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'TR DAN'
+    name: Dardanelles
+    namewodiacritics: Dardanelles
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '4012N 02624E'
+    remarks: ''
+-
+    ch: ''
     locode: 'TR DAR'
     name: Darica
     namewodiacritics: Darica
@@ -2004,6 +2124,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'TR DMR'
+    name: Demirciler
+    namewodiacritics: Demirciler
+    subdiv: '41'
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '4051N 02947E'
+    remarks: ''
+-
+    ch: ''
     locode: 'TR DMK'
     name: Demirkapi
     namewodiacritics: Demirkapi
@@ -2049,6 +2181,18 @@
     date: '9705'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: +
+    locode: 'TR DFZ'
+    name: 'Denizli Osb'
+    namewodiacritics: 'Denizli Osb'
+    subdiv: '20'
+    function: '--3-----'
+    status: AM
+    date: '2201'
+    iata: ''
+    coordinates: '3748N 02915E'
     remarks: ''
 -
     ch: ''
@@ -2105,10 +2249,10 @@
     namewodiacritics: Dikili
     subdiv: '35'
     function: 1-------
-    status: QQ
-    date: '8103'
+    status: RL
+    date: '1901'
     iata: ''
-    coordinates: ''
+    coordinates: '3904N 02653E'
     remarks: ''
 -
     ch: ''
@@ -2220,6 +2364,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'TR EAL'
+    name: Dosemealti
+    namewodiacritics: Dosemealti
+    subdiv: '07'
+    function: '--3--6--'
+    status: AM
+    date: '2101'
+    iata: ''
+    coordinates: '3701N 03036E'
+    remarks: ''
+-
+    ch: ''
     locode: 'TR DUD'
     name: Dudullu
     namewodiacritics: Dudullu
@@ -2308,9 +2464,9 @@
     name: Edremit
     namewodiacritics: Edremit
     subdiv: '10'
-    function: '--34----'
+    function: 1-34----
     status: AI
-    date: '1207'
+    date: '1901'
     iata: ''
     coordinates: '3935N 02701E'
     remarks: ''
@@ -2441,10 +2597,10 @@
     namewodiacritics: Enez
     subdiv: '22'
     function: 1-------
-    status: QQ
-    date: '8103'
+    status: RL
+    date: '1901'
     iata: ''
-    coordinates: ''
+    coordinates: '4043N 02604E'
     remarks: ''
 -
     ch: ''
@@ -2465,10 +2621,10 @@
     namewodiacritics: Erdek
     subdiv: '10'
     function: 1-------
-    status: RN
-    date: '9710'
+    status: RL
+    date: '1901'
     iata: ''
-    coordinates: ''
+    coordinates: '4023N 02747E'
     remarks: ''
 -
     ch: ''
@@ -2476,11 +2632,11 @@
     name: Eregli
     namewodiacritics: Eregli
     subdiv: '67'
-    function: 1-------
-    status: QQ
-    date: '8103'
+    function: 1-3-----
+    status: RL
+    date: '1901'
     iata: ''
-    coordinates: ''
+    coordinates: '4117N 03124E'
     remarks: ''
 -
     ch: ''
@@ -2488,11 +2644,11 @@
     name: Eregli
     namewodiacritics: Eregli
     subdiv: '42'
-    function: 1-------
-    status: RN
-    date: '9710'
+    function: '--3-----'
+    status: RL
+    date: '1901'
     iata: ''
-    coordinates: ''
+    coordinates: '3730N 03403E'
     remarks: ''
 -
     ch: ''
@@ -2508,6 +2664,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'TR D8T'
+    name: Erenler
+    namewodiacritics: Erenler
+    subdiv: '54'
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '4045N 03024E'
+    remarks: ''
+-
+    ch: ''
     locode: 'TR EMK'
     name: Ermenek
     namewodiacritics: Ermenek
@@ -2519,7 +2687,7 @@
     coordinates: '3638N 03253E'
     remarks: ''
 -
-    ch: +
+    ch: ''
     locode: 'TR ZIN'
     name: Erzin
     namewodiacritics: Erzin
@@ -2628,6 +2796,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'TR KOK'
+    name: Evrensekiz
+    namewodiacritics: Evrensekiz
+    subdiv: '39'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4122N 02729E'
+    remarks: ''
+-
+    ch: ''
     locode: 'TR EYP'
     name: 'Evyap Port /Kocaeli'
     namewodiacritics: 'Evyap Port /Kocaeli'
@@ -2693,10 +2873,10 @@
     namewodiacritics: Fatsa
     subdiv: '52'
     function: 1-------
-    status: QQ
-    date: '8103'
+    status: RL
+    date: '1901'
     iata: ''
-    coordinates: ''
+    coordinates: '4102N 03729E'
     remarks: ''
 -
     ch: ''
@@ -2705,10 +2885,10 @@
     namewodiacritics: Fethiye
     subdiv: '48'
     function: 1-------
-    status: QQ
-    date: '8103'
+    status: RL
+    date: '1901'
     iata: ''
-    coordinates: ''
+    coordinates: '3637N 02906E'
     remarks: ''
 -
     ch: ''
@@ -2729,10 +2909,10 @@
     namewodiacritics: Finike
     subdiv: '07'
     function: 1-------
-    status: QQ
-    date: '8103'
+    status: RL
+    date: '1901'
     iata: ''
-    coordinates: ''
+    coordinates: '3617N 03008E'
     remarks: ''
 -
     ch: ''
@@ -2844,6 +3024,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'TR GSZ'
+    name: Gazipasa
+    namewodiacritics: Gazipasa
+    subdiv: '07'
+    function: '--3-----'
+    status: AA
+    date: '2107'
+    iata: ''
+    coordinates: '3616N 03218E'
+    remarks: ''
+-
+    ch: ''
     locode: 'TR GEB'
     name: Gebze
     namewodiacritics: Gebze
@@ -2885,10 +3077,10 @@
     namewodiacritics: Gemlik
     subdiv: '16'
     function: 1-------
-    status: QQ
-    date: '8103'
+    status: RL
+    date: '1901'
     iata: ''
-    coordinates: ''
+    coordinates: '4025N 02909E'
     remarks: ''
 -
     ch: ''
@@ -2919,10 +3111,10 @@
     locode: 'TR GZE'
     name: Gerze
     namewodiacritics: Gerze
-    subdiv: ''
+    subdiv: '57'
     function: 1-------
     status: AI
-    date: '0201'
+    date: '1901'
     iata: ''
     coordinates: '4138N 03611E'
     remarks: ''
@@ -2945,10 +3137,10 @@
     namewodiacritics: Giresun
     subdiv: '28'
     function: 1-------
-    status: QQ
-    date: '8103'
+    status: RL
+    date: '1901'
     iata: ''
-    coordinates: ''
+    coordinates: '4055N 03823E'
     remarks: ''
 -
     ch: ''
@@ -2957,10 +3149,22 @@
     namewodiacritics: Gocek
     subdiv: '48'
     function: 1-------
-    status: QQ
-    date: '0212'
+    status: RL
+    date: '1901'
     iata: ''
-    coordinates: ''
+    coordinates: '3645N 02856E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TR GCA'
+    name: Gokceada
+    namewodiacritics: Gokceada
+    subdiv: '17'
+    function: 1-------
+    status: RL
+    date: '1901'
+    iata: ''
+    coordinates: '4011N 02555E'
     remarks: ''
 -
     ch: ''
@@ -3304,10 +3508,10 @@
     name: Hatay
     namewodiacritics: Hatay
     subdiv: '31'
-    function: 0-------
-    status: RN
-    date: '9710'
-    iata: ''
+    function: '---4----'
+    status: RL
+    date: '1701'
+    iata: HTY
     coordinates: ''
     remarks: ''
 -
@@ -3413,20 +3617,20 @@
     namewodiacritics: Hopa
     subdiv: '08'
     function: 1-3-----
-    status: QQ
-    date: '8103'
+    status: RL
+    date: '1901'
     iata: ''
-    coordinates: ''
+    coordinates: '4124N 04125E'
     remarks: ''
 -
     ch: ''
     locode: 'TR IDS'
     name: 'Icdas Jetty'
     namewodiacritics: 'Icdas Jetty'
-    subdiv: ''
+    subdiv: '17'
     function: 1-------
     status: RL
-    date: '1201'
+    date: '1901'
     iata: ''
     coordinates: '4027N 02718E'
     remarks: ''
@@ -3473,10 +3677,10 @@
     namewodiacritics: Igneada
     subdiv: '39'
     function: 1-------
-    status: QQ
-    date: '8103'
+    status: RL
+    date: '1901'
     iata: ''
-    coordinates: ''
+    coordinates: '4153N 02801E'
     remarks: ''
 -
     ch: ''
@@ -3528,18 +3732,6 @@
     remarks: ''
 -
     ch: ''
-    locode: 'TR GCA'
-    name: Imroz
-    namewodiacritics: Imroz
-    subdiv: '17'
-    function: 1-------
-    status: RL
-    date: '0212'
-    iata: ''
-    coordinates: '4011N 02555E'
-    remarks: ''
--
-    ch: ''
     locode: 'TR INC'
     name: Incirlik
     namewodiacritics: Incirlik
@@ -3569,10 +3761,10 @@
     namewodiacritics: Inebolu
     subdiv: '37'
     function: 1-------
-    status: QQ
-    date: '8103'
+    status: RL
+    date: '1901'
     iata: ''
-    coordinates: ''
+    coordinates: '4158N 03346E'
     remarks: ''
 -
     ch: ''
@@ -3630,7 +3822,7 @@
     subdiv: '31'
     function: 1-------
     status: RL
-    date: '0901'
+    date: '1901'
     iata: ''
     coordinates: '3643N 03611E'
     remarks: ''
@@ -3642,9 +3834,9 @@
     subdiv: '35'
     function: '--3-----'
     status: RL
-    date: '1301'
+    date: '1701'
     iata: ''
-    coordinates: '4013N 02858E'
+    coordinates: '3825N 02714E'
     remarks: ''
 -
     ch: ''
@@ -3652,11 +3844,11 @@
     name: Iskenderun
     namewodiacritics: Iskenderun
     subdiv: '31'
-    function: 1-3-----
-    status: QQ
-    date: '8103'
+    function: 123-----
+    status: RL
+    date: '1901'
     iata: ''
-    coordinates: ''
+    coordinates: '3635N 03610E'
     remarks: ''
 -
     ch: ''
@@ -3676,11 +3868,23 @@
     name: Istanbul
     namewodiacritics: Istanbul
     subdiv: '34'
-    function: 1-345---
+    function: 12345---
     status: AI
-    date: '9601'
+    date: '1901'
     iata: ''
-    coordinates: ''
+    coordinates: '4101N 02858E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TR ISL'
+    name: 'Istanbul New Airport'
+    namewodiacritics: 'Istanbul New Airport'
+    subdiv: '34'
+    function: '---4----'
+    status: RL
+    date: '1901'
+    iata: ''
+    coordinates: '4116N 02845E'
     remarks: ''
 -
     ch: ''
@@ -3708,6 +3912,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'TR ADB'
+    name: 'Izmir Adnan Menderes International Airport'
+    namewodiacritics: 'Izmir Adnan Menderes International Airport'
+    subdiv: '35'
+    function: '---4----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '3824N 02709E'
+    remarks: ''
+-
+    ch: ''
     locode: 'TR IZT'
     name: Izmit
     namewodiacritics: Izmit
@@ -3732,18 +3948,6 @@
     remarks: ''
 -
     ch: ''
-    locode: 'TR KTS'
-    name: Kabatas
-    namewodiacritics: Kabatas
-    subdiv: '63'
-    function: '-----6--'
-    status: RL
-    date: '0901'
-    iata: ''
-    coordinates: '3654N 03905E'
-    remarks: ''
--
-    ch: ''
     locode: 'TR KBS'
     name: Kabatas
     namewodiacritics: Kabatas
@@ -3753,6 +3957,18 @@
     date: '0901'
     iata: ''
     coordinates: '4102N 02900E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TR KTS'
+    name: Kabatas
+    namewodiacritics: Kabatas
+    subdiv: '63'
+    function: '-----6--'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '3654N 03905E'
     remarks: ''
 -
     ch: ''
@@ -3777,6 +3993,18 @@
     date: '9710'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'TR OIY'
+    name: Kadirli
+    namewodiacritics: Kadirli
+    subdiv: '80'
+    function: '--3--6--'
+    status: AA
+    date: '1801'
+    iata: ''
+    coordinates: '3722N 03606E'
     remarks: ''
 -
     ch: ''
@@ -3828,6 +4056,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'TR K7A'
+    name: Kapakli
+    namewodiacritics: Kapakli
+    subdiv: '59'
+    function: '--3--6--'
+    status: AA
+    date: '1801'
+    iata: ''
+    coordinates: '4119N 02758E'
+    remarks: ''
+-
+    ch: ''
     locode: 'TR KPY'
     name: Kapiköy
     namewodiacritics: Kapikoy
@@ -3857,10 +4097,10 @@
     namewodiacritics: Karabiga
     subdiv: '17'
     function: 1-------
-    status: QQ
-    date: '8103'
+    status: RL
+    date: '1901'
     iata: ''
-    coordinates: ''
+    coordinates: '4024N 02718E'
     remarks: ''
 -
     ch: ''
@@ -4000,9 +4240,9 @@
     name: Karasu
     namewodiacritics: Karasu
     subdiv: '54'
-    function: '--3-----'
-    status: RN
-    date: '1207'
+    function: 1-3-----
+    status: RL
+    date: '1901'
     iata: ''
     coordinates: '4104N 03047E'
     remarks: ''
@@ -4011,12 +4251,12 @@
     locode: 'TR KRT'
     name: Karatas
     namewodiacritics: Karatas
-    subdiv: '80'
-    function: '-----6--'
+    subdiv: '01'
+    function: 1----6--
     status: RL
-    date: '1107'
+    date: '1901'
     iata: ''
-    coordinates: '3804N 03925E'
+    coordinates: '3633N 03523E'
     remarks: ''
 -
     ch: ''
@@ -4079,28 +4319,16 @@
     coordinates: '4044N 02958E'
     remarks: ''
 -
-    ch: +
-    locode: 'TR KPT'
-    name: Kartepe
-    namewodiacritics: Kartepe
-    subdiv: '41'
-    function: '--3-----'
-    status: RL
-    date: '1307'
-    iata: ''
-    coordinates: '4044N 02958E'
-    remarks: ''
--
     ch: ''
     locode: 'TR KAS'
     name: Kas
     namewodiacritics: Kas
     subdiv: '07'
     function: 1-------
-    status: QQ
-    date: '8103'
+    status: RL
+    date: '1901'
     iata: ''
-    coordinates: ''
+    coordinates: '3611N 02938E'
     remarks: ''
 -
     ch: ''
@@ -4199,6 +4427,18 @@
     coordinates: '3843N 03528E'
     remarks: ''
 -
+    ch: +
+    locode: 'TR ASF'
+    name: 'Kayseri Free Zone'
+    namewodiacritics: 'Kayseri Free Zone'
+    subdiv: '38'
+    function: '--3-----'
+    status: AM
+    date: '2201'
+    iata: ''
+    coordinates: '3843N 03523E'
+    remarks: ''
+-
     ch: ''
     locode: 'TR KZZ'
     name: Kazan
@@ -4275,10 +4515,10 @@
     locode: 'TR KFK'
     name: Kefken
     namewodiacritics: Kefken
-    subdiv: ''
+    subdiv: '41'
     function: 1-------
     status: AI
-    date: '0201'
+    date: '1901'
     iata: ''
     coordinates: '4112N 03015E'
     remarks: ''
@@ -4312,9 +4552,9 @@
     name: Kemer
     namewodiacritics: Kemer
     subdiv: '07'
-    function: 0-------
-    status: RN
-    date: '1207'
+    function: 1-3-----
+    status: RL
+    date: '1901'
     iata: ''
     coordinates: '3635N 03033E'
     remarks: ''
@@ -4548,6 +4788,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'TR KN2'
+    name: Konak
+    namewodiacritics: Konak
+    subdiv: '35'
+    function: 1-3-----
+    status: AA
+    date: '1801'
+    iata: ''
+    coordinates: '3824N 02706E'
+    remarks: ''
+-
+    ch: ''
     locode: 'TR KKL'
     name: Konakli
     namewodiacritics: Konakli
@@ -4599,10 +4851,10 @@
     locode: 'TR KFZ'
     name: Körfez
     namewodiacritics: Korfez
-    subdiv: '42'
+    subdiv: '41'
     function: 123-----
     status: RL
-    date: '0901'
+    date: '1807'
     iata: ''
     coordinates: '4047N 02944E'
     remarks: ''
@@ -4737,6 +4989,18 @@
     date: '9710'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'TR KLL'
+    name: Kullar
+    namewodiacritics: Kullar
+    subdiv: '41'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4043N 02959E'
     remarks: ''
 -
     ch: ''
@@ -4923,12 +5187,12 @@
     locode: 'TR LMA'
     name: Limas
     namewodiacritics: Limas
-    subdiv: '35'
-    function: 1-------
+    subdiv: '41'
+    function: 12------
     status: RQ
-    date: '0501'
+    date: '2107'
     iata: ''
-    coordinates: '3845N 02655E'
+    coordinates: '4043N 02953E'
     remarks: ''
 -
     ch: ''
@@ -5008,11 +5272,11 @@
     name: Manavgat
     namewodiacritics: Manavgat
     subdiv: '07'
-    function: 0-------
-    status: RN
-    date: '9710'
+    function: 1-3-----
+    status: RL
+    date: '1901'
     iata: ''
-    coordinates: ''
+    coordinates: '3646N 03127E'
     remarks: ''
 -
     ch: ''
@@ -5065,14 +5329,14 @@
 -
     ch: ''
     locode: 'TR MRA'
-    name: Marmara
-    namewodiacritics: Marmara
+    name: 'Marmara Adasi'
+    namewodiacritics: 'Marmara Adasi'
     subdiv: '10'
     function: 1-------
     status: RL
-    date: '0601'
+    date: '1901'
     iata: ''
-    coordinates: ''
+    coordinates: '4035N 02733E'
     remarks: ''
 -
     ch: ''
@@ -5093,10 +5357,10 @@
     namewodiacritics: Marmaris
     subdiv: '48'
     function: 1-------
-    status: QQ
-    date: '8103'
+    status: RL
+    date: '1901'
     iata: ''
-    coordinates: ''
+    coordinates: '3651N 02816E'
     remarks: ''
 -
     ch: ''
@@ -5248,10 +5512,10 @@
     name: Milas
     namewodiacritics: Milas
     subdiv: '48'
-    function: 0-------
-    status: RN
-    date: '9710'
-    iata: ''
+    function: '---4----'
+    status: RL
+    date: '1701'
+    iata: BJV
     coordinates: ''
     remarks: ''
 -
@@ -5273,10 +5537,10 @@
     namewodiacritics: Mudanya
     subdiv: '16'
     function: 1-3-----
-    status: QQ
-    date: '8103'
+    status: RL
+    date: '1901'
     iata: ''
-    coordinates: ''
+    coordinates: '4022N 02853E'
     remarks: ''
 -
     ch: ''
@@ -5436,6 +5700,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'TR GIU'
+    name: Nizip
+    namewodiacritics: Nizip
+    subdiv: '27'
+    function: '--3--6--'
+    status: AM
+    date: '2101'
+    iata: ''
+    coordinates: '3700N 03747E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TR M47'
+    name: Nusaybin
+    namewodiacritics: Nusaybin
+    subdiv: '47'
+    function: 1-3-----
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '3704N 04113E'
+    remarks: ''
+-
+    ch: ''
     locode: 'TR ODE'
     name: Ödemis
     namewodiacritics: Odemis
@@ -5484,15 +5772,27 @@
     remarks: ''
 -
     ch: ''
+    locode: 'TR OPR'
+    name: Öncüpinar
+    namewodiacritics: Oncupinar
+    subdiv: '27'
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '3638N 03705E'
+    remarks: ''
+-
+    ch: ''
     locode: 'TR ORD'
     name: Ordu
     namewodiacritics: Ordu
     subdiv: '52'
     function: 1-------
-    status: QQ
-    date: '8103'
+    status: RL
+    date: '1901'
     iata: ''
-    coordinates: ''
+    coordinates: '4059N 03752E'
     remarks: ''
 -
     ch: ''
@@ -5667,10 +5967,10 @@
     locode: 'TR PZR'
     name: Pazar
     namewodiacritics: Pazar
-    subdiv: ''
+    subdiv: '53'
     function: 1-------
     status: AI
-    date: '0201'
+    date: '1901'
     iata: ''
     coordinates: '4110N 04053E'
     remarks: ''
@@ -5760,6 +6060,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'TR PLP'
+    name: Poliport
+    namewodiacritics: Poliport
+    subdiv: '41'
+    function: 1-------
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3759N 04203E'
+    remarks: ''
+-
+    ch: ''
     locode: 'TR ESP'
     name: Porsuk
     namewodiacritics: Porsuk
@@ -5771,7 +6083,31 @@
     coordinates: '0001S 00001W'
     remarks: ''
 -
-    ch: +
+    ch: ''
+    locode: 'TR KSP'
+    name: 'Port of Karasu'
+    namewodiacritics: 'Port of Karasu'
+    subdiv: '54'
+    function: 1-------
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '4107N 03040E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TR PZZ'
+    name: Pozanti
+    namewodiacritics: Pozanti
+    subdiv: '01'
+    function: '--3--6--'
+    status: AA
+    date: '2007'
+    iata: ''
+    coordinates: '3725N 03452E'
+    remarks: ''
+-
+    ch: ''
     locode: 'TR PUR'
     name: Pursaklar
     namewodiacritics: Pursaklar
@@ -5832,15 +6168,27 @@
     remarks: ''
 -
     ch: ''
+    locode: 'TR REY'
+    name: Reyhanli
+    namewodiacritics: Reyhanli
+    subdiv: '31'
+    function: '--3-----'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '3616N 03634E'
+    remarks: ''
+-
+    ch: ''
     locode: 'TR RIZ'
     name: Rize
     namewodiacritics: Rize
     subdiv: '53'
     function: 1-------
-    status: QQ
-    date: '8103'
+    status: RL
+    date: '1901'
     iata: ''
-    coordinates: ''
+    coordinates: '4102N 04029E'
     remarks: ''
 -
     ch: ''
@@ -5877,6 +6225,18 @@
     date: '0607'
     iata: ''
     coordinates: '4115N 03241E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TR GHY'
+    name: Sahinbey
+    namewodiacritics: Sahinbey
+    subdiv: '27'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3653N 03721E'
     remarks: ''
 -
     ch: ''
@@ -5922,9 +6282,9 @@
     subdiv: '55'
     function: 1--4----
     status: AI
-    date: '9601'
+    date: '1901'
     iata: SZF
-    coordinates: ''
+    coordinates: '4117N 03620E'
     remarks: ''
 -
     ch: ''
@@ -6095,7 +6455,7 @@
     coordinates: '4037N 02706E'
     remarks: ''
 -
-    ch: +
+    ch: ''
     locode: 'TR SRC'
     name: Sarnic
     namewodiacritics: Sarnic
@@ -6303,10 +6663,10 @@
     locode: 'TR SLE'
     name: Sile
     namewodiacritics: Sile
-    subdiv: ''
+    subdiv: '34'
     function: 1-------
     status: AI
-    date: '0201'
+    date: '1901'
     iata: ''
     coordinates: '4110N 02936E'
     remarks: ''
@@ -6316,9 +6676,9 @@
     name: Silivri
     namewodiacritics: Silivri
     subdiv: '34'
-    function: '--3-----'
+    function: 1-3-----
     status: RL
-    date: '1207'
+    date: '1901'
     iata: ''
     coordinates: '4104N 02815E'
     remarks: ''
@@ -6366,9 +6726,9 @@
     subdiv: '57'
     function: 1--4----
     status: AI
-    date: '9601'
+    date: '1901'
     iata: ''
-    coordinates: ''
+    coordinates: '4201N 03508E'
     remarks: ''
 -
     ch: ''
@@ -6569,10 +6929,10 @@
     namewodiacritics: Surmene
     subdiv: '61'
     function: 1-------
-    status: RQ
-    date: '9506'
+    status: RL
+    date: '1901'
     iata: ''
-    coordinates: ''
+    coordinates: '4054N 04007E'
     remarks: ''
 -
     ch: ''
@@ -6677,10 +7037,10 @@
     namewodiacritics: Tasucu
     subdiv: '33'
     function: 1-------
-    status: QQ
-    date: '8103'
+    status: RL
+    date: '1901'
     iata: ''
-    coordinates: ''
+    coordinates: '3619N 03352E'
     remarks: ''
 -
     ch: ''
@@ -6726,9 +7086,9 @@
     subdiv: '59'
     function: 1234----
     status: AI
-    date: '9901'
+    date: '1901'
     iata: TEQ
-    coordinates: ''
+    coordinates: '4058N 02731E'
     remarks: ''
 -
     ch: ''
@@ -6761,10 +7121,10 @@
     namewodiacritics: Tirebolu
     subdiv: '28'
     function: 1-------
-    status: QQ
-    date: '8103'
+    status: RL
+    date: '1901'
     iata: ''
-    coordinates: ''
+    coordinates: '4100N 03848E'
     remarks: ''
 -
     ch: ''
@@ -6792,18 +7152,6 @@
     remarks: ''
 -
     ch: ''
-    locode: 'TR TOP'
-    name: Topkapi
-    namewodiacritics: Topkapi
-    subdiv: '34'
-    function: '--3-----'
-    status: RN
-    date: '1207'
-    iata: ''
-    coordinates: '4102N 02854E'
-    remarks: ''
--
-    ch: ''
     locode: 'TR TOK'
     name: Topkapi
     namewodiacritics: Topkapi
@@ -6813,6 +7161,18 @@
     date: '1207'
     iata: ''
     coordinates: '3906N 03838E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TR TOP'
+    name: Topkapi
+    namewodiacritics: Topkapi
+    subdiv: '34'
+    function: '--3-----'
+    status: RN
+    date: '1207'
+    iata: ''
+    coordinates: '4102N 02854E'
     remarks: ''
 -
     ch: ''
@@ -6846,9 +7206,9 @@
     subdiv: '61'
     function: 1-34----
     status: AI
-    date: '9601'
+    date: '1901'
     iata: ''
-    coordinates: ''
+    coordinates: '4100N 03944E'
     remarks: ''
 -
     ch: ''
@@ -6917,10 +7277,10 @@
     namewodiacritics: Tuzla
     subdiv: '34'
     function: 1-------
-    status: RN
-    date: '9710'
+    status: RL
+    date: '1901'
     iata: ''
-    coordinates: ''
+    coordinates: '4050N 02915E'
     remarks: ''
 -
     ch: ''
@@ -6945,6 +7305,18 @@
     date: '9710'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'TR ULS'
+    name: Ulas
+    namewodiacritics: Ulas
+    subdiv: '59'
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '4114N 02742E'
     remarks: ''
 -
     ch: ''
@@ -7059,10 +7431,10 @@
     locode: 'TR VAK'
     name: Vakfikebir
     namewodiacritics: Vakfikebir
-    subdiv: ''
+    subdiv: '61'
     function: 1-------
     status: AI
-    date: '0201'
+    date: '1901'
     iata: ''
     coordinates: '4102N 03916E'
     remarks: ''
@@ -7077,6 +7449,18 @@
     date: '9601'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'TR VLM'
+    name: Velimese
+    namewodiacritics: Velimese
+    subdiv: '59'
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '4115N 02753E'
     remarks: ''
 -
     ch: ''
@@ -7121,10 +7505,10 @@
     namewodiacritics: Yalova
     subdiv: '77'
     function: 1-3-----
-    status: RQ
-    date: '1101'
+    status: RL
+    date: '1901'
     iata: ''
-    coordinates: '4016N 02624E'
+    coordinates: '4039N 02916E'
     remarks: ''
 -
     ch: ''
@@ -7284,10 +7668,10 @@
     remarks: ''
 -
     ch: ''
-    locode: 'TR YEZ'
+    locode: 'TR YPZ'
     name: Yenipazar
     namewodiacritics: Yenipazar
-    subdiv: '11'
+    subdiv: '09'
     function: 0-------
     status: RN
     date: '9710'
@@ -7296,10 +7680,10 @@
     remarks: ''
 -
     ch: ''
-    locode: 'TR YPZ'
+    locode: 'TR YEZ'
     name: Yenipazar
     namewodiacritics: Yenipazar
-    subdiv: '09'
+    subdiv: '11'
     function: 0-------
     status: RN
     date: '9710'
@@ -7338,9 +7722,21 @@
     subdiv: '34'
     function: '--3-----'
     status: RL
-    date: '0212'
+    date: '1501'
     iata: ''
     coordinates: '4057N 02849E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TR YIK'
+    name: Yesilovacik
+    namewodiacritics: Yesilovacik
+    subdiv: '33'
+    function: 1-------
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3612N 03340E'
     remarks: ''
 -
     ch: ''
@@ -7395,12 +7791,12 @@
     locode: 'TR ADY'
     name: Yumurtalik
     namewodiacritics: Yumurtalik
-    subdiv: ''
+    subdiv: '01'
     function: 1-------
     status: RL
-    date: '1107'
+    date: '1901'
     iata: ''
-    coordinates: '0010S 00001E'
+    coordinates: '3646N 03547E'
     remarks: ''
 -
     ch: ''
@@ -7433,8 +7829,8 @@
     namewodiacritics: Zonguldak
     subdiv: '67'
     function: 1-------
-    status: QQ
-    date: '8103'
+    status: RL
+    date: '1901'
     iata: ''
-    coordinates: ''
+    coordinates: '4127N 03147E'
     remarks: ''

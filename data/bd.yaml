@@ -12,13 +12,25 @@
     remarks: ''
 -
     ch: ''
+    locode: 'BD ASJ'
+    name: Ashuganj
+    namewodiacritics: Ashuganj
+    subdiv: '04'
+    function: 1-------
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '2402N 09101E'
+    remarks: ''
+-
+    ch: ''
     locode: 'BD BZL'
     name: Barisal
     namewodiacritics: Barisal
     subdiv: ''
     function: 1--4----
     status: AI
-    date: '9601'
+    date: '1807'
     iata: ''
     coordinates: ''
     remarks: ''
@@ -36,13 +48,25 @@
     remarks: ''
 -
     ch: ''
+    locode: 'BD BHL'
+    name: Bhola
+    namewodiacritics: Bhola
+    subdiv: '13'
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '2347N 09025E'
+    remarks: ''
+-
+    ch: ''
     locode: 'BD BRG'
-    name: Bogra
-    namewodiacritics: Bogra
+    name: Bogura
+    namewodiacritics: Bogura
     subdiv: ''
     function: '-----6--'
     status: RL
-    date: '1107'
+    date: '1807'
     iata: ''
     coordinates: '2451N 08922E'
     remarks: ''
@@ -61,14 +85,14 @@
 -
     ch: ''
     locode: 'BD CGP'
-    name: Chittagong
-    namewodiacritics: Chittagong
-    subdiv: ''
-    function: 1---5---
+    name: Chattogram
+    namewodiacritics: Chattogram
+    subdiv: '10'
+    function: 1--45---
     status: AI
-    date: '9601'
+    date: '1901'
     iata: ''
-    coordinates: ''
+    coordinates: '2220N 09150E'
     remarks: ''
 -
     ch: ''
@@ -84,18 +108,6 @@
     remarks: ''
 -
     ch: ''
-    locode: 'BD CLA'
-    name: Comilla
-    namewodiacritics: Comilla
-    subdiv: ''
-    function: '---4----'
-    status: AI
-    date: '9601'
-    iata: ''
-    coordinates: ''
-    remarks: ''
--
-    ch: ''
     locode: 'BD CXB'
     name: 'Cox''s Bazar'
     namewodiacritics: 'Cox''s Bazar'
@@ -108,18 +120,30 @@
     remarks: ''
 -
     ch: ''
-    locode: 'BD DAC'
-    name: Dhaka
-    namewodiacritics: Dhaka
+    locode: 'BD CLA'
+    name: Cumilla
+    namewodiacritics: Cumilla
     subdiv: ''
-    function: '---45---'
+    function: '---4----'
     status: AI
-    date: '9601'
+    date: '1807'
     iata: ''
     coordinates: ''
     remarks: ''
 -
-    ch: ¦
+    ch: ''
+    locode: 'BD DAC'
+    name: Dhaka
+    namewodiacritics: Dhaka
+    subdiv: '13'
+    function: '---45---'
+    status: AI
+    date: '1601'
+    iata: ''
+    coordinates: '2410N 09025E'
+    remarks: ''
+-
+    ch: ''
     locode: 'BD FNI'
     name: Feni
     namewodiacritics: Feni
@@ -129,19 +153,31 @@
     date: '1307'
     iata: ''
     coordinates: '2301N 09124E'
-    remarks: '@Sub'
+    remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'BD GAZ'
     name: Gazipur
     namewodiacritics: Gazipur
-    subdiv: '10'
+    subdiv: ''
     function: '--3-----'
     status: RL
     date: '1307'
     iata: ''
     coordinates: '2342N 09057E'
-    remarks: '@Sub'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BD GPG'
+    name: Gopalganj
+    namewodiacritics: Gopalganj
+    subdiv: '13'
+    function: '--3-----'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '2313N 09003E'
+    remarks: ''
 -
     ch: ''
     locode: 'BD IRD'
@@ -157,12 +193,12 @@
 -
     ch: ''
     locode: 'BD JSR'
-    name: Jessore
-    namewodiacritics: Jessore
+    name: Jashore
+    namewodiacritics: Jashore
     subdiv: ''
     function: '---4----'
     status: AI
-    date: '9601'
+    date: '1807'
     iata: ''
     coordinates: ''
     remarks: ''
@@ -251,7 +287,7 @@
     coordinates: ''
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'BD MBB'
     name: 'Moulvi Bazar'
     namewodiacritics: 'Moulvi Bazar'
@@ -261,7 +297,19 @@
     date: '1307'
     iata: ''
     coordinates: '2429N 09147E'
-    remarks: '@Sub'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BD MUN'
+    name: Munshiganj
+    namewodiacritics: Munshiganj
+    subdiv: '35'
+    function: 1-------
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '2333N 09032W'
+    remarks: ''
 -
     ch: ''
     locode: 'BD MYM'
@@ -312,6 +360,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'BD PGN'
+    name: Pangaon
+    namewodiacritics: Pangaon
+    subdiv: '13'
+    function: 1-3-----
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '2339N 09027E'
+    remarks: ''
+-
+    ch: ''
     locode: 'BD PAR'
     name: Parbatipur
     namewodiacritics: Parbatipur
@@ -321,6 +381,18 @@
     date: '9805'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'BD PAY'
+    name: 'Payra Port'
+    namewodiacritics: 'Payra Port'
+    subdiv: '06'
+    function: 1-------
+    status: AA
+    date: '1601'
+    iata: ''
+    coordinates: '2156N 09016E'
     remarks: ''
 -
     ch: ''
@@ -396,6 +468,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'BD SSU'
+    name: 'Sherpur Sadar Upazila'
+    namewodiacritics: 'Sherpur Sadar Upazila'
+    subdiv: '13'
+    function: '--3-----'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '2500N 09001E'
+    remarks: ''
+-
+    ch: ''
     locode: 'BD SAJ'
     name: Sirajganj
     namewodiacritics: Sirajganj
@@ -419,17 +503,17 @@
     coordinates: ''
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'BD TEJ'
     name: Tejgaon
     namewodiacritics: Tejgaon
-    subdiv: '13'
+    subdiv: ''
     function: '-----6--'
     status: RL
     date: '1307'
     iata: ''
     coordinates: '2346N 09024E'
-    remarks: '@Sub'
+    remarks: ''
 -
     ch: ''
     locode: 'BD TKR'

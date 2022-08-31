@@ -107,7 +107,19 @@
     coordinates: ''
     remarks: ''
 -
-    ch: +
+    ch: ''
+    locode: 'SO DH9'
+    name: Dhoobleey
+    namewodiacritics: Dhoobleey
+    subdiv: JH
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '0230N 04219E'
+    remarks: ''
+-
+    ch: ''
     locode: 'SO DOW'
     name: Doolow
     namewodiacritics: Doolow
@@ -155,7 +167,7 @@
     coordinates: ''
     remarks: ''
 -
-    ch: +
+    ch: ''
     locode: 'SO GAA'
     name: Gaalkacyo
     namewodiacritics: Gaalkacyo

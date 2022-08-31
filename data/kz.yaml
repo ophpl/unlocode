@@ -24,15 +24,39 @@
     remarks: 'Baghlan region'
 -
     ch: ''
+    locode: 'KZ ASK'
+    name: Aksukent
+    namewodiacritics: Aksukent
+    subdiv: YUZ
+    function: '-23-----'
+    status: AM
+    date: '2101'
+    iata: ''
+    coordinates: '4225N 06950E'
+    remarks: ''
+-
+    ch: ''
     locode: 'KZ AAU'
     name: Aktau
     namewodiacritics: Aktau
-    subdiv: ''
-    function: 1--4----
+    subdiv: MAN
+    function: 12-4----
     status: AI
-    date: '0103'
+    date: '2007'
     iata: ''
-    coordinates: ''
+    coordinates: '4339N 05109E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'KZ SCO'
+    name: 'Aktau Apt'
+    namewodiacritics: 'Aktau Apt'
+    subdiv: MAN
+    function: '---4----'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '4351N 05105E'
     remarks: ''
 -
     ch: ''
@@ -63,12 +87,12 @@
     locode: 'KZ ALA'
     name: Almaty
     namewodiacritics: Almaty
-    subdiv: ''
-    function: '---45---'
+    subdiv: ALA
+    function: '-2-45---'
     status: AI
-    date: '9601'
+    date: '2007'
     iata: ''
-    coordinates: ''
+    coordinates: '4315N 07657E'
     remarks: ''
 -
     ch: ''
@@ -81,6 +105,18 @@
     date: '0501'
     iata: ''
     coordinates: '5017N 05710E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'KZ AGY'
+    name: Aqtoghay
+    namewodiacritics: Aqtoghay
+    subdiv: VOS
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '4657N 07940E'
     remarks: ''
 -
     ch: ''
@@ -120,18 +156,6 @@
     remarks: ''
 -
     ch: ''
-    locode: 'KZ AST'
-    name: 'Astana (ex Tselinograd)'
-    namewodiacritics: 'Astana (ex Tselinograd)'
-    subdiv: ''
-    function: '---45---'
-    status: AI
-    date: '0001'
-    iata: TSE
-    coordinates: ''
-    remarks: ''
--
-    ch: ''
     locode: 'KZ ATX'
     name: Atbasar
     namewodiacritics: Atbasar
@@ -148,9 +172,9 @@
     name: 'Atyrau (ex Guryev)'
     namewodiacritics: 'Atyrau (ex Guryev)'
     subdiv: ''
-    function: '---4----'
+    function: '-2-4----'
     status: AI
-    date: '0001'
+    date: '2007'
     iata: ''
     coordinates: ''
     remarks: ''
@@ -180,6 +204,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'KZ BAH'
+    name: Balkhash
+    namewodiacritics: Balkhash
+    subdiv: KAR
+    function: '--3-----'
+    status: RL
+    date: '1707'
+    iata: ''
+    coordinates: '4650N 07459E'
+    remarks: ''
+-
+    ch: ''
     locode: 'KZ BTN'
     name: Bautino
     namewodiacritics: Bautino
@@ -189,6 +225,18 @@
     date: '0901'
     iata: ''
     coordinates: '4432N 05015E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'KZ BKL'
+    name: Beskol
+    namewodiacritics: Beskol
+    subdiv: ALM
+    function: '-23-----'
+    status: AM
+    date: '2007'
+    iata: ''
+    coordinates: '5446N 06906E'
     remarks: ''
 -
     ch: ''
@@ -213,6 +261,18 @@
     date: '0901'
     iata: ''
     coordinates: '4218N 06936E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'KZ DOS'
+    name: Dosytk
+    namewodiacritics: Dosytk
+    subdiv: ALA
+    function: '-2------'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '4515N 08229E'
     remarks: ''
 -
     ch: ''
@@ -252,13 +312,37 @@
     remarks: ''
 -
     ch: ''
+    locode: 'KZ EIK'
+    name: Esik
+    namewodiacritics: Esik
+    subdiv: ALA
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '4321N 07727E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'KZ EIL'
+    name: Esil
+    namewodiacritics: Esil
+    subdiv: AKM
+    function: '--3-----'
+    status: RL
+    date: '1901'
+    iata: ''
+    coordinates: '5123N 06707E'
+    remarks: ''
+-
+    ch: ''
     locode: 'KZ HOR'
     name: Horgos
     namewodiacritics: Horgos
     subdiv: ''
-    function: '----5---'
+    function: '-23-56--'
     status: AI
-    date: '9809'
+    date: '2007'
     iata: ''
     coordinates: ''
     remarks: ''
@@ -276,15 +360,27 @@
     remarks: ''
 -
     ch: ''
+    locode: 'KZ KPC'
+    name: Kapchagay
+    namewodiacritics: Kapchagay
+    subdiv: ALM
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4353N 07750E'
+    remarks: ''
+-
+    ch: ''
     locode: 'KZ KGF'
     name: Karaganda
     namewodiacritics: Karaganda
-    subdiv: ''
-    function: '--3-----'
+    subdiv: KAR
+    function: '-234----'
     status: AI
-    date: '9811'
+    date: '2007'
     iata: ''
-    coordinates: ''
+    coordinates: '4950N 07310E'
     remarks: ''
 -
     ch: ''
@@ -378,7 +474,7 @@
     subdiv: ATY
     function: '--3-----'
     status: RL
-    date: '0901'
+    date: '2101'
     iata: ''
     coordinates: '4312N 05139E'
     remarks: ''
@@ -420,6 +516,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'KZ MDT'
+    name: Madeniet
+    namewodiacritics: Madeniet
+    subdiv: VOS
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4752N 07837E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'KZ MAM'
+    name: Mamlyutka
+    namewodiacritics: Mamlyutka
+    subdiv: SEV
+    function: '--3-----'
+    status: RL
+    date: '2001'
+    iata: ''
+    coordinates: '5456N 06832E'
+    remarks: ''
+-
+    ch: ''
     locode: 'KZ MAN'
     name: Mankent
     namewodiacritics: Mankent
@@ -432,6 +552,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'KZ NOA'
+    name: 'Novaya Shul''ba'
+    namewodiacritics: 'Novaya Shul''ba'
+    subdiv: VOS
+    function: '--3-----'
+    status: AM
+    date: '2101'
+    iata: ''
+    coordinates: '5032N 08119E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'KZ SKO'
+    name: Novonikolskoe
+    namewodiacritics: Novonikolskoe
+    subdiv: SEV
+    function: '--3-----'
+    status: RL
+    date: '2001'
+    iata: ''
+    coordinates: '5431N 06841E'
+    remarks: ''
+-
+    ch: ''
     locode: 'KZ NOV'
     name: Novoyamyshevo
     namewodiacritics: Novoyamyshevo
@@ -441,6 +585,30 @@
     date: '1201'
     iata: ''
     coordinates: '5155N 07719E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'KZ AST'
+    name: Nur-Sultan
+    namewodiacritics: Nur-Sultan
+    subdiv: ''
+    function: '---45---'
+    status: AI
+    date: '2007'
+    iata: TSE
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'KZ OTE'
+    name: 'Otegen Batyr'
+    namewodiacritics: 'Otegen Batyr'
+    subdiv: ALA
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '4320N 07703E'
     remarks: ''
 -
     ch: ''
@@ -480,6 +648,42 @@
     remarks: ''
 -
     ch: ''
+    locode: 'KZ QSY'
+    name: Qulsary
+    namewodiacritics: Qulsary
+    subdiv: ATY
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '4659N 05401E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'KZ RRK'
+    name: Raygorodok
+    namewodiacritics: Raygorodok
+    subdiv: ATY
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4842N 05253E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'KZ LAX'
+    name: Ridder
+    namewodiacritics: Ridder
+    subdiv: VOS
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5021N 08330E'
+    remarks: ''
+-
+    ch: ''
     locode: 'KZ RNY'
     name: Rudnyy
     namewodiacritics: Rudnyy
@@ -513,6 +717,30 @@
     date: '0401'
     iata: ''
     coordinates: '5024N 08013E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'KZ SGV'
+    name: 'Semiglavyy Mar'
+    namewodiacritics: 'Semiglavyy Mar'
+    subdiv: ZAP
+    function: '-23-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '5111N 05003E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'KZ SHA'
+    name: Shakhtinsk
+    namewodiacritics: Shakhtinsk
+    subdiv: KAR
+    function: '--3-----'
+    status: AM
+    date: '2007'
+    iata: ''
+    coordinates: '4942N 07235E'
     remarks: ''
 -
     ch: ''
@@ -561,6 +789,18 @@
     date: '1007'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'KZ SGU'
+    name: Shyngyrlau
+    namewodiacritics: Shyngyrlau
+    subdiv: ZAP
+    function: '--3-----'
+    status: AM
+    date: '2007'
+    iata: ''
+    coordinates: '5109N 05408E'
     remarks: ''
 -
     ch: ''
@@ -696,6 +936,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'KZ ZCH'
+    name: Zashchita
+    namewodiacritics: Zashchita
+    subdiv: VOS
+    function: '--3-----'
+    status: RL
+    date: '1707'
+    iata: ''
+    coordinates: '5000N 08235E'
+    remarks: ''
+-
+    ch: ''
     locode: 'KZ HRC'
     name: Zhairem
     namewodiacritics: Zhairem
@@ -729,6 +981,18 @@
     date: '1107'
     iata: ''
     coordinates: '5109N 07437E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'KZ ZRK'
+    name: Zharkent
+    namewodiacritics: Zharkent
+    subdiv: ALA
+    function: '----5---'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '4409N 08000E'
     remarks: ''
 -
     ch: ''

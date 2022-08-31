@@ -47,7 +47,19 @@
     coordinates: '4713N 00932E'
     remarks: ''
 -
-    ch: +
+    ch: ''
+    locode: 'LI NEN'
+    name: Nendeln
+    namewodiacritics: Nendeln
+    subdiv: '01'
+    function: '--3-----'
+    status: RL
+    date: '1707'
+    iata: ''
+    coordinates: '4712N 00933E'
+    remarks: ''
+-
+    ch: ''
     locode: 'LI PLK'
     name: Planken
     namewodiacritics: Planken

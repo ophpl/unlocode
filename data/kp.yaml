@@ -15,10 +15,10 @@
     locode: 'KP CHO'
     name: Chongjin
     namewodiacritics: Chongjin
-    subdiv: ''
+    subdiv: '09'
     function: 1-------
-    status: RQ
-    date: '9506'
+    status: AA
+    date: '1901'
     iata: ''
     coordinates: ''
     remarks: ''
@@ -39,10 +39,10 @@
     locode: 'KP HAE'
     name: Haeju
     namewodiacritics: Haeju
-    subdiv: ''
+    subdiv: '05'
     function: 1-------
-    status: RQ
-    date: '9506'
+    status: AA
+    date: '1901'
     iata: ''
     coordinates: ''
     remarks: ''
@@ -51,10 +51,10 @@
     locode: 'KP HGM'
     name: Hungnam
     namewodiacritics: Hungnam
-    subdiv: ''
+    subdiv: '08'
     function: 1-------
-    status: QQ
-    date: '8103'
+    status: AA
+    date: '1901'
     iata: ''
     coordinates: ''
     remarks: ''
@@ -72,25 +72,13 @@
     remarks: ''
 -
     ch: ''
-    locode: 'KP NJN'
-    name: Najin
-    namewodiacritics: Najin
-    subdiv: ''
-    function: '--3-----'
-    status: RQ
-    date: '9501'
-    iata: ''
-    coordinates: ''
-    remarks: ''
--
-    ch: ''
     locode: 'KP NAM'
     name: Nampo
     namewodiacritics: Nampo
-    subdiv: ''
+    subdiv: '14'
     function: 123-----
-    status: RQ
-    date: '9506'
+    status: AA
+    date: '1901'
     iata: ''
     coordinates: ''
     remarks: ''
@@ -129,6 +117,18 @@
     date: '9601'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'KP RJN'
+    name: 'Rajin (Najin)'
+    namewodiacritics: 'Rajin (Najin)'
+    subdiv: '13'
+    function: 123-----
+    status: AA
+    date: '1901'
+    iata: ''
+    coordinates: '4213N 13017E'
     remarks: ''
 -
     ch: ''
@@ -180,6 +180,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'KP SGO'
+    name: Songdo
+    namewodiacritics: Songdo
+    subdiv: '05'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3823N 12536E'
+    remarks: ''
+-
+    ch: ''
     locode: 'KP SON'
     name: Songjin
     namewodiacritics: Songjin
@@ -189,6 +201,30 @@
     date: '9506'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'KP SGN'
+    name: Songnim
+    namewodiacritics: Songnim
+    subdiv: '06'
+    function: 1-------
+    status: AA
+    date: '1901'
+    iata: ''
+    coordinates: '3846N 12535E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'KP TCH'
+    name: Tanchon
+    namewodiacritics: Tanchon
+    subdiv: '08'
+    function: 1-------
+    status: AA
+    date: '1901'
+    iata: ''
+    coordinates: '4025N 12856E'
     remarks: ''
 -
     ch: ''
@@ -207,10 +243,10 @@
     locode: 'KP WON'
     name: Wonsan
     namewodiacritics: Wonsan
-    subdiv: ''
+    subdiv: '07'
     function: 1-------
-    status: RQ
-    date: '9506'
+    status: AA
+    date: '1901'
     iata: ''
     coordinates: ''
     remarks: ''

@@ -4,9 +4,9 @@
     name: Alamedin
     namewodiacritics: Alamedin
     subdiv: ''
-    function: '--3-----'
+    function: '-23-----'
     status: RL
-    date: '0601'
+    date: '2007'
     iata: ''
     coordinates: '4254N 07438E'
     remarks: ''
@@ -15,7 +15,7 @@
     locode: 'KG BYK'
     name: Balykchy
     namewodiacritics: Balykchy
-    subdiv: Y
+    subdiv: 'Y'
     function: '--3-----'
     status: RL
     date: '0307'
@@ -28,9 +28,9 @@
     name: 'Bishkek (ex Frunze)'
     namewodiacritics: 'Bishkek (ex Frunze)'
     subdiv: GB
-    function: '--34----'
+    function: '-234----'
     status: AI
-    date: '1101'
+    date: '2007'
     iata: ''
     coordinates: '4252N 07436E'
     remarks: ''
@@ -72,13 +72,25 @@
     remarks: ''
 -
     ch: ''
+    locode: 'KG NAR'
+    name: Naryn
+    namewodiacritics: Naryn
+    subdiv: 'Y'
+    function: '--3-----'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '4125N 07600E'
+    remarks: ''
+-
+    ch: ''
     locode: 'KG OSS'
     name: Osh
     namewodiacritics: Osh
     subdiv: ''
-    function: '---4----'
+    function: '-2-4----'
     status: AI
-    date: '0001'
+    date: '2007'
     iata: ''
     coordinates: ''
     remarks: ''
@@ -87,7 +99,7 @@
     locode: 'KG RBC'
     name: Rybacje
     namewodiacritics: Rybacje
-    subdiv: Y
+    subdiv: 'Y'
     function: '--3-----'
     status: RL
     date: '0901'

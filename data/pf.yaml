@@ -6,9 +6,9 @@
     subdiv: ''
     function: '---4----'
     status: AI
-    date: '0001'
+    date: '1901'
     iata: ''
-    coordinates: ''
+    coordinates: '1426S 14615W'
     remarks: ''
 -
     ch: ''
@@ -18,9 +18,9 @@
     subdiv: ''
     function: 1-------
     status: RL
-    date: '9811'
+    date: '1901'
     iata: ''
-    coordinates: ''
+    coordinates: '2737S 14421W'
     remarks: ''
 -
     ch: ''
@@ -30,9 +30,9 @@
     subdiv: ''
     function: '---4----'
     status: AI
-    date: '9601'
+    date: '1901'
     iata: ''
-    coordinates: ''
+    coordinates: '1721S 14531W'
     remarks: ''
 -
     ch: ''
@@ -42,9 +42,21 @@
     subdiv: ''
     function: '---4----'
     status: AI
-    date: '9601'
+    date: '1901'
     iata: ''
-    coordinates: ''
+    coordinates: '1535S 14625W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PF AUE'
+    name: Arue
+    namewodiacritics: Arue
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '1901'
+    iata: ''
+    coordinates: '1732S 14931W'
     remarks: ''
 -
     ch: ''
@@ -54,33 +66,9 @@
     subdiv: ''
     function: '---4----'
     status: AI
-    date: '0001'
+    date: '1901'
     iata: ''
-    coordinates: ''
-    remarks: ''
--
-    ch: ''
-    locode: 'PF HHT'
-    name: 'Atoll Hereheretue'
-    namewodiacritics: 'Atoll Hereheretue'
-    subdiv: ''
-    function: 1-------
-    status: RQ
-    date: '0901'
-    iata: ''
-    coordinates: '1952S 14458W'
-    remarks: ''
--
-    ch: ''
-    locode: 'PF PKP'
-    name: 'Atoll Pukapuka'
-    namewodiacritics: 'Atoll Pukapuka'
-    subdiv: ''
-    function: '---4----'
-    status: AI
-    date: '0212'
-    iata: ''
-    coordinates: '1449S 13848W'
+    coordinates: '1515S 14637W'
     remarks: ''
 -
     ch: ''
@@ -90,9 +78,9 @@
     subdiv: ''
     function: '---4----'
     status: AI
-    date: '9601'
+    date: '1901'
     iata: ''
-    coordinates: ''
+    coordinates: '0948S 13902W'
     remarks: ''
 -
     ch: ''
@@ -102,33 +90,21 @@
     subdiv: ''
     function: 1-------
     status: RL
-    date: '0901'
+    date: '1901'
     iata: ''
-    coordinates: '2228S 15120W'
+    coordinates: '2229S 15120W'
     remarks: ''
 -
     ch: ''
     locode: 'PF BOB'
-    name: Bora-Bora
-    namewodiacritics: Bora-Bora
+    name: 'Bora Bora'
+    namewodiacritics: 'Bora Bora'
     subdiv: ''
     function: 1--4----
     status: AI
-    date: '0212'
+    date: '1901'
     iata: ''
-    coordinates: '1630S 15145W'
-    remarks: ''
--
-    ch: ''
-    locode: 'PF FAA'
-    name: 'Faaa, Tahiti'
-    namewodiacritics: 'Faaa, Tahiti'
-    subdiv: ''
-    function: '----5---'
-    status: AI
-    date: '9710'
-    iata: ''
-    coordinates: ''
+    coordinates: '1627S 15145W'
     remarks: ''
 -
     ch: ''
@@ -138,9 +114,9 @@
     subdiv: ''
     function: '---4----'
     status: AI
-    date: '0001'
+    date: '1901'
     iata: ''
-    coordinates: ''
+    coordinates: '1641S 14520W'
     remarks: ''
 -
     ch: ''
@@ -150,9 +126,9 @@
     subdiv: ''
     function: '---4----'
     status: AI
-    date: '0001'
+    date: '1901'
     iata: ''
-    coordinates: ''
+    coordinates: '1600S 14010W'
     remarks: ''
 -
     ch: ''
@@ -162,9 +138,9 @@
     subdiv: ''
     function: '---4----'
     status: AI
-    date: '9601'
+    date: '1901'
     iata: ''
-    coordinates: ''
+    coordinates: '1603S 14540W'
     remarks: ''
 -
     ch: ''
@@ -174,9 +150,9 @@
     subdiv: ''
     function: '---4----'
     status: AI
-    date: '0001'
+    date: '1901'
     iata: ''
-    coordinates: ''
+    coordinates: '1549S 14053W'
     remarks: ''
 -
     ch: ''
@@ -185,22 +161,22 @@
     namewodiacritics: 'Fatu Hiva'
     subdiv: ''
     function: 1-------
-    status: RQ
-    date: '0901'
+    status: RL
+    date: '1901'
     iata: ''
     coordinates: '1029S 13839W'
     remarks: ''
 -
     ch: ''
     locode: 'PF HOI'
-    name: 'Hao Is'
-    namewodiacritics: 'Hao Is'
+    name: Hao
+    namewodiacritics: Hao
     subdiv: ''
     function: '---4----'
-    status: QQ
-    date: '8103'
+    status: AI
+    date: '1901'
     iata: ''
-    coordinates: ''
+    coordinates: '1804S 14058W'
     remarks: ''
 -
     ch: ''
@@ -209,10 +185,22 @@
     namewodiacritics: Hatiheu
     subdiv: ''
     function: 1-------
-    status: RQ
-    date: '0901'
+    status: RL
+    date: '1901'
     iata: ''
-    coordinates: '0850S 14005W'
+    coordinates: '0850S 04005W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PF HHT'
+    name: Hereheretue
+    namewodiacritics: Hereheretue
+    subdiv: ''
+    function: 1-------
+    status: RL
+    date: '1901'
+    iata: ''
+    coordinates: '1952S 14500W'
     remarks: ''
 -
     ch: ''
@@ -222,33 +210,33 @@
     subdiv: ''
     function: '---4----'
     status: AI
-    date: '0001'
+    date: '1901'
     iata: ''
-    coordinates: ''
+    coordinates: '1733S 14236W'
     remarks: ''
 -
     ch: ''
     locode: 'PF HIX'
-    name: 'Hiva Oa'
-    namewodiacritics: 'Hiva Oa'
+    name: 'Hiva''Oa'
+    namewodiacritics: 'Hiva''Oa'
     subdiv: ''
     function: '---4----'
     status: AI
-    date: '0001'
+    date: '1901'
     iata: ''
-    coordinates: ''
+    coordinates: '0946S 13900W'
     remarks: ''
 -
     ch: ''
     locode: 'PF HUH'
-    name: Huahine
-    namewodiacritics: Huahine
+    name: Huahine/Fare
+    namewodiacritics: Huahine/Fare
     subdiv: ''
     function: '---4----'
-    status: QQ
-    date: '8103'
+    status: AI
+    date: '1901'
     iata: ''
-    coordinates: ''
+    coordinates: '1641S 15101W'
     remarks: ''
 -
     ch: ''
@@ -258,21 +246,9 @@
     subdiv: ''
     function: 1-------
     status: RL
-    date: '0901'
+    date: '1901'
     iata: ''
     coordinates: '1750S 14051W'
-    remarks: ''
--
-    ch: ''
-    locode: 'PF GMR'
-    name: 'Iles Gambier'
-    namewodiacritics: 'Iles Gambier'
-    subdiv: ''
-    function: '---4----'
-    status: AI
-    date: '0212'
-    iata: ''
-    coordinates: '2309S 13458W'
     remarks: ''
 -
     ch: ''
@@ -281,10 +257,10 @@
     namewodiacritics: Kaukura
     subdiv: ''
     function: '---4----'
-    status: QQ
-    date: '8103'
+    status: AI
+    date: '1901'
     iata: ''
-    coordinates: ''
+    coordinates: '1540S 14653W'
     remarks: ''
 -
     ch: ''
@@ -294,21 +270,9 @@
     subdiv: ''
     function: '---4----'
     status: AI
-    date: '9601'
+    date: '1901'
     iata: ''
-    coordinates: ''
-    remarks: ''
--
-    ch: ''
-    locode: 'PF XMH'
-    name: Manihi
-    namewodiacritics: Manihi
-    subdiv: ''
-    function: '---4----'
-    status: AI
-    date: '9601'
-    iata: ''
-    coordinates: ''
+    coordinates: '1634S 14341W'
     remarks: ''
 -
     ch: ''
@@ -318,9 +282,9 @@
     subdiv: ''
     function: '--3-----'
     status: RL
-    date: '0207'
+    date: '1901'
     iata: ''
-    coordinates: '1645S 15059W'
+    coordinates: '1646S 15059W'
     remarks: ''
 -
     ch: ''
@@ -330,9 +294,9 @@
     subdiv: ''
     function: '---4----'
     status: AI
-    date: '9601'
+    date: '1901'
     iata: ''
-    coordinates: ''
+    coordinates: '1452S 14843W'
     remarks: ''
 -
     ch: ''
@@ -342,9 +306,9 @@
     subdiv: ''
     function: '---4----'
     status: AI
-    date: '9601'
+    date: '1901'
     iata: ''
-    coordinates: ''
+    coordinates: '1626S 15215W'
     remarks: ''
 -
     ch: ''
@@ -354,33 +318,57 @@
     subdiv: ''
     function: 1-------
     status: RL
-    date: '0901'
+    date: '1901'
     iata: ''
-    coordinates: '2226S 15120W'
+    coordinates: '2227S 15121W'
     remarks: ''
 -
     ch: ''
     locode: 'PF MOZ'
-    name: Moorea
-    namewodiacritics: Moorea
+    name: 'Mo''orea'
+    namewodiacritics: 'Mo''orea'
     subdiv: ''
     function: '---4----'
     status: AI
-    date: '9601'
+    date: '1901'
     iata: ''
-    coordinates: ''
+    coordinates: '1730S 14946W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PF XMH'
+    name: Nanihi
+    namewodiacritics: Nanihi
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '1901'
+    iata: ''
+    coordinates: '1426S 14604W'
     remarks: ''
 -
     ch: ''
     locode: 'PF NAU'
-    name: 'Napuka Island'
-    namewodiacritics: 'Napuka Island'
+    name: Napuka
+    namewodiacritics: Napuka
     subdiv: ''
     function: '---4----'
     status: AI
-    date: '0001'
+    date: '1901'
     iata: ''
-    coordinates: ''
+    coordinates: '1411S 14116W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PF TUP'
+    name: Niau
+    namewodiacritics: Niau
+    subdiv: ''
+    function: 1-------
+    status: RL
+    date: '1901'
+    iata: ''
+    coordinates: '1607S 14622W'
     remarks: ''
 -
     ch: ''
@@ -390,9 +378,9 @@
     subdiv: ''
     function: '---4----'
     status: AI
-    date: '9601'
+    date: '1901'
     iata: ''
-    coordinates: ''
+    coordinates: '0848S 04014W'
     remarks: ''
 -
     ch: ''
@@ -402,9 +390,9 @@
     subdiv: ''
     function: '---4----'
     status: AI
-    date: '0001'
+    date: '1901'
     iata: ''
-    coordinates: ''
+    coordinates: '1917S 13846W'
     remarks: ''
 -
     ch: ''
@@ -414,9 +402,21 @@
     subdiv: ''
     function: 1-------
     status: RL
-    date: '0901'
+    date: '1901'
     iata: ''
     coordinates: '1807S 14054W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PF PAP'
+    name: Papara
+    namewodiacritics: Papara
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '1745S 14933W'
     remarks: ''
 -
     ch: ''
@@ -426,21 +426,45 @@
     subdiv: ''
     function: 1--45---
     status: AI
-    date: '9601'
+    date: '1901'
     iata: ''
-    coordinates: ''
+    coordinates: '1733S 14937W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PF PKP'
+    name: Pukapuka
+    namewodiacritics: Pukapuka
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '1901'
+    iata: ''
+    coordinates: '1449S 13848W'
     remarks: ''
 -
     ch: ''
     locode: 'PF PUK'
-    name: Pukarua
-    namewodiacritics: Pukarua
+    name: Pukaruha
+    namewodiacritics: Pukaruha
     subdiv: ''
     function: '---4----'
     status: AI
-    date: '0001'
+    date: '1901'
     iata: ''
-    coordinates: ''
+    coordinates: '1818S 13701W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PF PAA'
+    name: Punaauia
+    namewodiacritics: Punaauia
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '1901'
+    iata: ''
+    coordinates: '1738S 14936W'
     remarks: ''
 -
     ch: ''
@@ -450,9 +474,9 @@
     subdiv: ''
     function: '---4----'
     status: AI
-    date: '9601'
+    date: '1901'
     iata: ''
-    coordinates: ''
+    coordinates: '1644S 15128W'
     remarks: ''
 -
     ch: ''
@@ -461,10 +485,10 @@
     namewodiacritics: Raivavae
     subdiv: ''
     function: 1-------
-    status: RQ
-    date: '0901'
+    status: RL
+    date: '1901'
     iata: ''
-    coordinates: '2353S 14739W'
+    coordinates: '2353S 14740W'
     remarks: ''
 -
     ch: ''
@@ -474,9 +498,9 @@
     subdiv: ''
     function: '---4----'
     status: AI
-    date: '9601'
+    date: '1901'
     iata: ''
-    coordinates: ''
+    coordinates: '1457S 14740W'
     remarks: ''
 -
     ch: ''
@@ -486,9 +510,9 @@
     subdiv: ''
     function: '---4----'
     status: AI
-    date: '0001'
+    date: '1901'
     iata: ''
-    coordinates: ''
+    coordinates: '1828S 13626W'
     remarks: ''
 -
     ch: ''
@@ -498,9 +522,21 @@
     subdiv: ''
     function: '---4----'
     status: AI
-    date: '9601'
+    date: '1901'
     iata: ''
-    coordinates: ''
+    coordinates: '2226S 15122W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PF FAA'
+    name: 'Tahiti Fa''a''à'
+    namewodiacritics: 'Tahiti Fa''a''a'
+    subdiv: ''
+    function: '---45---'
+    status: AI
+    date: '1901'
+    iata: ''
+    coordinates: '1733S 14937W'
     remarks: ''
 -
     ch: ''
@@ -509,10 +545,10 @@
     namewodiacritics: Taiohae
     subdiv: ''
     function: 1-------
-    status: RQ
-    date: '9506'
+    status: RL
+    date: '1901'
     iata: ''
-    coordinates: ''
+    coordinates: '0854S 04006W'
     remarks: ''
 -
     ch: ''
@@ -522,9 +558,9 @@
     subdiv: ''
     function: '---4----'
     status: AI
-    date: '9601'
+    date: '1901'
     iata: ''
-    coordinates: ''
+    coordinates: '1443S 14515W'
     remarks: ''
 -
     ch: ''
@@ -534,9 +570,9 @@
     subdiv: ''
     function: '---4----'
     status: AI
-    date: '0001'
+    date: '1901'
     iata: ''
-    coordinates: ''
+    coordinates: '1427S 14501W'
     remarks: ''
 -
     ch: ''
@@ -546,9 +582,9 @@
     subdiv: ''
     function: '---4----'
     status: AI
-    date: '0001'
+    date: '1901'
     iata: ''
-    coordinates: ''
+    coordinates: '1551S 14216W'
     remarks: ''
 -
     ch: ''
@@ -558,21 +594,21 @@
     subdiv: ''
     function: '---4----'
     status: AI
-    date: '0001'
+    date: '1901'
     iata: ''
-    coordinates: ''
+    coordinates: '1721S 13827W'
     remarks: ''
 -
     ch: ''
     locode: 'PF TTI'
-    name: 'Tetiaroa Is'
-    namewodiacritics: 'Tetiaroa Is'
+    name: Tertiaroa
+    namewodiacritics: Tertiaroa
     subdiv: ''
     function: '---4----'
     status: AI
-    date: '0001'
+    date: '1901'
     iata: ''
-    coordinates: ''
+    coordinates: '1701S 14935W'
     remarks: ''
 -
     ch: ''
@@ -582,9 +618,21 @@
     subdiv: ''
     function: '---4----'
     status: AI
-    date: '9601'
+    date: '1901'
     iata: ''
-    coordinates: ''
+    coordinates: '1507S 14814W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PF GMR'
+    name: Totegegie
+    namewodiacritics: Totegegie
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '1901'
+    iata: ''
+    coordinates: '2305S 13453W'
     remarks: ''
 -
     ch: ''
@@ -594,21 +642,9 @@
     subdiv: ''
     function: '---4----'
     status: AI
-    date: '9601'
+    date: '1901'
     iata: ''
-    coordinates: ''
-    remarks: ''
--
-    ch: ''
-    locode: 'PF TUP'
-    name: Tupana
-    namewodiacritics: Tupana
-    subdiv: ''
-    function: 1-------
-    status: RL
-    date: '0901'
-    iata: ''
-    coordinates: '1608S 14620W'
+    coordinates: '2322S 14931W'
     remarks: ''
 -
     ch: ''
@@ -618,9 +654,9 @@
     subdiv: ''
     function: '---4----'
     status: AI
-    date: '0212'
+    date: '1901'
     iata: ''
-    coordinates: '2050S 13832W'
+    coordinates: '2047S 13834W'
     remarks: ''
 -
     ch: ''
@@ -630,9 +666,9 @@
     subdiv: ''
     function: '---4----'
     status: AI
-    date: '9601'
+    date: '1901'
     iata: ''
-    coordinates: ''
+    coordinates: '0856S 03933W'
     remarks: ''
 -
     ch: ''
@@ -642,9 +678,9 @@
     subdiv: ''
     function: '---4----'
     status: AI
-    date: '9601'
+    date: '1901'
     iata: ''
-    coordinates: ''
+    coordinates: '0921S 04005W'
     remarks: ''
 -
     ch: ''
@@ -653,10 +689,10 @@
     namewodiacritics: Uturoa
     subdiv: ''
     function: 1-------
-    status: RQ
-    date: '9506'
+    status: RL
+    date: '1901'
     iata: ''
-    coordinates: ''
+    coordinates: '1644S 15127W'
     remarks: ''
 -
     ch: ''
@@ -666,9 +702,9 @@
     subdiv: ''
     function: '---4----'
     status: AI
-    date: '0001'
+    date: '1901'
     iata: ''
-    coordinates: ''
+    coordinates: '1847S 13851W'
     remarks: ''
 -
     ch: ''

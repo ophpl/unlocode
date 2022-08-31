@@ -1,5 +1,17 @@
 -
     ch: ''
+    locode: 'BJ AMV'
+    name: Abomey-Calavi
+    namewodiacritics: Abomey-Calavi
+    subdiv: AQ
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '0627N 00221E'
+    remarks: ''
+-
+    ch: ''
     locode: 'BJ AGT'
     name: Agbanta
     namewodiacritics: Agbanta
@@ -33,6 +45,18 @@
     date: '9601'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'BJ DDJ'
+    name: Djidja
+    namewodiacritics: Djidja
+    subdiv: ZO
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0720N 00156E'
     remarks: ''
 -
     ch: ''
@@ -93,6 +117,30 @@
     date: '9912'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'BJ DA3'
+    name: Ndali
+    namewodiacritics: Ndali
+    subdiv: BO
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '0951N 00243E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BJ OIH'
+    name: Ouidah
+    namewodiacritics: Ouidah
+    subdiv: AQ
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '0622N 00205E'
     remarks: ''
 -
     ch: ''

@@ -47,17 +47,17 @@
     coordinates: '2349N 07610W'
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'BS CEL'
     name: 'Cape Eleuthera'
     namewodiacritics: 'Cape Eleuthera'
-    subdiv: RS
+    subdiv: SE
     function: 1--4----
     status: AI
     date: '1307'
     iata: ''
     coordinates: '2449N 07621W'
-    remarks: '@Sub'
+    remarks: ''
 -
     ch: ''
     locode: 'BS CXY'
@@ -107,29 +107,29 @@
     coordinates: ''
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'BS CBT'
     name: 'Cockburn Town'
     namewodiacritics: 'Cockburn Town'
-    subdiv: SR
+    subdiv: SS
     function: 1-------
     status: RQ
     date: '1307'
     iata: ''
     coordinates: '2402N 07431W'
-    remarks: '@Sub@Coo'
+    remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'BS COX'
     name: 'Congo Town'
     namewodiacritics: 'Congo Town'
-    subdiv: KB
+    subdiv: SA
     function: 1--4----
     status: AI
     date: '1307'
     iata: ''
     coordinates: '2409N 07732W'
-    remarks: '@Sub@Coo'
+    remarks: ''
 -
     ch: ''
     locode: 'BS CRI'
@@ -251,41 +251,41 @@
     coordinates: '2332N 07550W'
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'BS GHC'
     name: 'Great Harbour Cay'
     namewodiacritics: 'Great Harbour Cay'
-    subdiv: NB
+    subdiv: BY
     function: 1--4----
     status: AI
     date: '1307'
     iata: ''
     coordinates: '2545N 07750W'
-    remarks: '@Sub'
+    remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'BS GSC'
     name: 'Great Stirrup Cay'
     namewodiacritics: 'Great Stirrup Cay'
-    subdiv: NB
+    subdiv: BY
     function: 1-------
     status: RQ
     date: '1307'
     iata: ''
     coordinates: '2550N 07754W'
-    remarks: '@Sub@Coo'
+    remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'BS GTC'
     name: 'Green Turtle Cay'
     namewodiacritics: 'Green Turtle Cay'
-    subdiv: GT
+    subdiv: HT
     function: 1--4----
     status: AI
     date: '1307'
     iata: ''
     coordinates: '2645N 07720W'
-    remarks: '@Sub@Coo'
+    remarks: ''
 -
     ch: ''
     locode: 'BS HBI'
@@ -323,17 +323,17 @@
     coordinates: '2435N 07555W'
     remarks: ''
 -
-    ch: '#'
+    ch: ''
     locode: 'BS COC'
     name: 'Little Stirrup Cay'
     namewodiacritics: 'Little Stirrup Cay'
-    subdiv: NB
+    subdiv: BY
     function: 1-------
     status: RQ
     date: '1307'
     iata: ''
     coordinates: '2549N 07756W'
-    remarks: '@Sub'
+    remarks: ''
 -
     ch: ''
     locode: 'BS LUC'
@@ -348,6 +348,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'BS LYC'
+    name: 'Lyford Cay'
+    namewodiacritics: 'Lyford Cay'
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '2502N 07734W'
+    remarks: ''
+-
+    ch: ''
     locode: 'BS MAY'
     name: 'Mangrove Cay Apt'
     namewodiacritics: 'Mangrove Cay Apt'
@@ -359,17 +371,17 @@
     coordinates: '2417N 07740W'
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'BS MHH'
     name: 'Marsh Harbour'
     namewodiacritics: 'Marsh Harbour'
-    subdiv: MH
+    subdiv: CO
     function: 1--4----
     status: AI
     date: '1307'
     iata: ''
     coordinates: '2632N 07658W'
-    remarks: '@Sub@Coo'
+    remarks: ''
 -
     ch: ''
     locode: 'BS MSK'
@@ -407,17 +419,17 @@
     coordinates: ''
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'BS NAS'
     name: Nassau
     namewodiacritics: Nassau
-    subdiv: NP
+    subdiv: ''
     function: 1--45---
     status: AI
     date: '1307'
     iata: ''
     coordinates: '2505N 07721W'
-    remarks: '@Sub'
+    remarks: ''
 -
     ch: ''
     locode: 'BS NET'
@@ -503,17 +515,17 @@
     coordinates: ''
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'BS RSD'
     name: 'Rock Sound'
     namewodiacritics: 'Rock Sound'
-    subdiv: RS
+    subdiv: SE
     function: 1--4----
     status: AI
     date: '1307'
     iata: ''
     coordinates: '2454N 07612W'
-    remarks: '@Sub'
+    remarks: ''
 -
     ch: ''
     locode: 'BS RCY'
@@ -527,17 +539,17 @@
     coordinates: ''
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'BS SAQ'
     name: 'San Andros'
     namewodiacritics: 'San Andros'
-    subdiv: NB
+    subdiv: NS
     function: 1--4----
     status: AI
     date: '1307'
     iata: ''
     coordinates: '2504N 07803W'
-    remarks: '@Sub'
+    remarks: ''
 -
     ch: ''
     locode: 'BS ZSA'

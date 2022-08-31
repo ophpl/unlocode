@@ -144,6 +144,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'MM HTL'
+    name: 'Htan Tlang'
+    namewodiacritics: 'Htan Tlang'
+    subdiv: '14'
+    function: '--3-----'
+    status: RL
+    date: '1907'
+    iata: ''
+    coordinates: '2240N 09324E'
+    remarks: ''
+-
+    ch: ''
     locode: 'MM INS'
     name: Insein
     namewodiacritics: Insein
@@ -165,6 +177,18 @@
     date: '9601'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MM KKR'
+    name: Kawkareik
+    namewodiacritics: Kawkareik
+    subdiv: '13'
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '1633N 09814E'
     remarks: ''
 -
     ch: ''
@@ -252,6 +276,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'MM LPT'
+    name: Latputta
+    namewodiacritics: Latputta
+    subdiv: '07'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '1609N 09446E'
+    remarks: ''
+-
+    ch: ''
     locode: 'MM LIW'
     name: Loikaw
     namewodiacritics: Loikaw
@@ -261,6 +297,18 @@
     date: '9601'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MM LWJ'
+    name: Lweje
+    namewodiacritics: Lweje
+    subdiv: '11'
+    function: '--3-----'
+    status: RL
+    date: '1907'
+    iata: ''
+    coordinates: '2412N 09743E'
     remarks: ''
 -
     ch: ''
@@ -348,6 +396,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'MM MES'
+    name: Mese
+    namewodiacritics: Mese
+    subdiv: '12'
+    function: '--3--6--'
+    status: RL
+    date: '1907'
+    iata: ''
+    coordinates: '1838N 09740E'
+    remarks: ''
+-
+    ch: ''
     locode: 'MM MOE'
     name: Momeik
     namewodiacritics: Momeik
@@ -384,6 +444,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'MM MYA'
+    name: Monywa
+    namewodiacritics: Monywa
+    subdiv: '01'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '2207N 09508E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MM MSE'
+    name: 'Mu Se'
+    namewodiacritics: 'Mu Se'
+    subdiv: '17'
+    function: '--3----B'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '2359N 09754E'
+    remarks: ''
+-
+    ch: ''
     locode: 'MM MUR'
     name: Murdon
     namewodiacritics: Murdon
@@ -396,6 +480,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'MM MWD'
+    name: Myawadi
+    namewodiacritics: Myawadi
+    subdiv: '13'
+    function: '--3----B'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '1641N 09831E'
+    remarks: ''
+-
+    ch: ''
     locode: 'MM MGZ'
     name: Myeik
     namewodiacritics: Myeik
@@ -405,6 +501,18 @@
     date: '0001'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MM MNE'
+    name: 'Myit Nge'
+    namewodiacritics: 'Myit Nge'
+    subdiv: '04'
+    function: '-23--6--'
+    status: RL
+    date: '1907'
+    iata: ''
+    coordinates: '2152N 09605E'
     remarks: ''
 -
     ch: ''
@@ -441,6 +549,18 @@
     date: '0001'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MM NPD'
+    name: Naypyidaw
+    namewodiacritics: Naypyidaw
+    subdiv: '18'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '1945N 09606E'
     remarks: ''
 -
     ch: ''
@@ -551,6 +671,18 @@
     coordinates: ''
     remarks: ''
 -
+    ch: ''
+    locode: 'MM PYA'
+    name: Pyapon
+    namewodiacritics: Pyapon
+    subdiv: '07'
+    function: '--3-----'
+    status: RL
+    date: '1907'
+    iata: ''
+    coordinates: '1617N 09540E'
+    remarks: ''
+-
     ch: '='
     locode: MM
     name: 'Rangoon = Yangon'
@@ -573,6 +705,18 @@
     date: ''
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MM TMU'
+    name: 'Ta Mu'
+    namewodiacritics: 'Ta Mu'
+    subdiv: '01'
+    function: '--3----B'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '2413N 09419E'
     remarks: ''
 -
     ch: ''
@@ -612,6 +756,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'MM TGI'
+    name: Taunggyi
+    namewodiacritics: Taunggyi
+    subdiv: '17'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '2047N 09702E'
+    remarks: ''
+-
+    ch: ''
     locode: 'MM TAV'
     name: Tavoy
     namewodiacritics: Tavoy
@@ -648,6 +804,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'MM YHN'
+    name: Thanhlyin
+    namewodiacritics: Thanhlyin
+    subdiv: '06'
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '1647N 09616E'
+    remarks: ''
+-
+    ch: ''
     locode: 'MM THA'
     name: Thaton
     namewodiacritics: Thaton
@@ -657,6 +825,18 @@
     date: '8103'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MM TLA'
+    name: Thilawa
+    namewodiacritics: Thilawa
+    subdiv: '06'
+    function: 123-----
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '1639N 09615E'
     remarks: ''
 -
     ch: ''

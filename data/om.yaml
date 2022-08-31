@@ -12,6 +12,66 @@
     remarks: ''
 -
     ch: ''
+    locode: 'OM AMZ'
+    name: 'Al Mazunah'
+    namewodiacritics: 'Al Mazunah'
+    subdiv: ZU
+    function: '--3--6--'
+    status: AM
+    date: '2007'
+    iata: ''
+    coordinates: '1750N 05238E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'OM AMR'
+    name: 'Al''Amrat'
+    namewodiacritics: 'Al''Amrat'
+    subdiv: MA
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '2331N 05829E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'OM SUW'
+    name: Al-Suwaiq
+    namewodiacritics: Al-Suwaiq
+    subdiv: BJ
+    function: 1-------
+    status: AA
+    date: '1807'
+    iata: ''
+    coordinates: '2351N 05726E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'OM BKK'
+    name: Barka
+    namewodiacritics: Barka
+    subdiv: BA
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '2342N 05733E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'OM BID'
+    name: Bidbid
+    namewodiacritics: Bidbid
+    subdiv: DA
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '2324N 05807E'
+    remarks: ''
+-
+    ch: ''
     locode: 'OM RMB'
     name: Buraimi
     namewodiacritics: Buraimi
@@ -60,6 +120,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'OM R2H'
+    name: Ghurah
+    namewodiacritics: Ghurah
+    subdiv: BA
+    function: '--3-----'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '2331N 05711E'
+    remarks: ''
+-
+    ch: ''
     locode: 'OM KHS'
     name: Khasab
     namewodiacritics: Khasab
@@ -69,6 +141,18 @@
     date: '0001'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'OM KDP'
+    name: Khazaen
+    namewodiacritics: Khazaen
+    subdiv: BJ
+    function: '--3--6--'
+    status: AM
+    date: '2007'
+    iata: ''
+    coordinates: '2333N 05748E'
     remarks: ''
 -
     ch: ''
@@ -135,12 +219,12 @@
     locode: 'OM MCT'
     name: Muscat
     namewodiacritics: Muscat
-    subdiv: ''
+    subdiv: MA
     function: 1--45---
     status: AI
-    date: '9601'
+    date: '1601'
     iata: ''
-    coordinates: ''
+    coordinates: '2336N 05835E'
     remarks: ''
 -
     ch: ''
@@ -156,13 +240,25 @@
     remarks: ''
 -
     ch: ''
+    locode: 'OM NIZ'
+    name: Nizwa
+    namewodiacritics: Nizwa
+    subdiv: DA
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '2256N 05732E'
+    remarks: ''
+-
+    ch: ''
     locode: 'OM OPQ'
     name: 'Port Qaboos'
     namewodiacritics: 'Port Qaboos'
     subdiv: ''
     function: 1-------
     status: QQ
-    date: '8103'
+    date: '1407'
     iata: ''
     coordinates: ''
     remarks: ''
@@ -192,6 +288,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'OM QLM'
+    name: 'Qarn Alam'
+    namewodiacritics: 'Qarn Alam'
+    subdiv: WU
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '2118N 05705E'
+    remarks: ''
+-
+    ch: ''
     locode: 'OM QUO'
     name: 'Quoin Island'
     namewodiacritics: 'Quoin Island'
@@ -201,6 +309,18 @@
     date: '0907'
     iata: ''
     coordinates: '2635N 05631E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'OM QYT'
+    name: Qurayyat
+    namewodiacritics: Qurayyat
+    subdiv: MA
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '2319N 05854E'
     remarks: ''
 -
     ch: ''
@@ -240,6 +360,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'OM SAF'
+    name: Safa
+    namewodiacritics: Safa
+    subdiv: DA
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '2347N 05641E'
+    remarks: ''
+-
+    ch: ''
     locode: 'OM SLL'
     name: Salalah
     namewodiacritics: Salalah
@@ -264,6 +396,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'OM SHI'
+    name: Shinas
+    namewodiacritics: Shinas
+    subdiv: BS
+    function: 1-------
+    status: RL
+    date: '2001'
+    iata: ''
+    coordinates: '2444N 05628E'
+    remarks: ''
+-
+    ch: ''
     locode: 'OM SOH'
     name: Sohar
     namewodiacritics: Sohar
@@ -273,6 +417,18 @@
     date: '8103'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'OM OFC'
+    name: Sur
+    namewodiacritics: Sur
+    subdiv: SJ
+    function: 1-------
+    status: RL
+    date: '1707'
+    iata: ''
+    coordinates: '2239N 05926E'
     remarks: ''
 -
     ch: ''

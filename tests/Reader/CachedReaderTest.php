@@ -1,15 +1,17 @@
 <?php
 
-namespace UN\Locode\Reader;
+namespace UN\Locode\Tests\Reader;
+
+use PHPUnit\Framework\TestCase;
+use UN\Locode\Reader\CachedReader;
 
 /**
  * Class CachedReaderTest
  * @package UN\Locode\Reader
  * @description Cached Reader Tests
  */
-class CachedReaderTest extends \PHPUnit_Framework_TestCase
+class CachedReaderTest extends TestCase
 {
-
     /**
      * @covers {className}::{origMethodName}
      */
@@ -20,5 +22,4 @@ class CachedReaderTest extends \PHPUnit_Framework_TestCase
         $reader = new CachedReader($reader, $cache);
         $this->assertInstanceOf('UN\Locode\Reader\CachedReader', $reader);
     }
-
 }

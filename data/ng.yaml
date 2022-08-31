@@ -120,6 +120,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'NG AGB'
+    name: Agbara
+    namewodiacritics: Agbara
+    subdiv: LA
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '0631N 00306E'
+    remarks: ''
+-
+    ch: ''
     locode: 'NG AGJ'
     name: Agboju
     namewodiacritics: Agboju
@@ -324,6 +336,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'NG ASO'
+    name: Asokoro
+    namewodiacritics: Asokoro
+    subdiv: FC
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '0903N 00731E'
+    remarks: ''
+-
+    ch: ''
     locode: 'NG ACH'
     name: Auchi
     namewodiacritics: Auchi
@@ -393,6 +417,18 @@
     date: '1107'
     iata: ''
     coordinates: '0754N 00350E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NG BAM'
+    name: Bama
+    namewodiacritics: Bama
+    subdiv: BO
+    function: '--3-----'
+    status: AM
+    date: '2007'
+    iata: ''
+    coordinates: '1131N 01341E'
     remarks: ''
 -
     ch: ''
@@ -492,6 +528,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'NG DMS'
+    name: Damasak
+    namewodiacritics: Damasak
+    subdiv: BO
+    function: '--3-----'
+    status: AM
+    date: '2007'
+    iata: ''
+    coordinates: '1306N 01230E'
+    remarks: ''
+-
+    ch: ''
     locode: 'NG DEN'
     name: Denema
     namewodiacritics: Denema
@@ -501,6 +549,18 @@
     date: '8311'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'NG DKW'
+    name: Dikwa
+    namewodiacritics: Dikwa
+    subdiv: BO
+    function: '--3-----'
+    status: AM
+    date: '2007'
+    iata: ''
+    coordinates: '1202N 01355E'
     remarks: ''
 -
     ch: ''
@@ -579,7 +639,7 @@
     locode: 'NG ERT'
     name: 'Erha Terminal'
     namewodiacritics: 'Erha Terminal'
-    subdiv: ON
+    subdiv: 'ON'
     function: 1-----7-
     status: RQ
     date: '0901'
@@ -684,6 +744,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'NG GWZ'
+    name: Gwoza
+    namewodiacritics: Gwoza
+    subdiv: BO
+    function: '--3-----'
+    status: AM
+    date: '2007'
+    iata: ''
+    coordinates: '1105N 01341E'
+    remarks: ''
+-
+    ch: ''
     locode: 'NG IBA'
     name: Ibadan
     namewodiacritics: Ibadan
@@ -741,6 +813,18 @@
     date: '1107'
     iata: ''
     coordinates: '0633N 00315E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NG IGB'
+    name: Igboho
+    namewodiacritics: Igboho
+    subdiv: OY
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '0850N 00345E'
     remarks: ''
 -
     ch: ''
@@ -924,6 +1008,42 @@
     remarks: ''
 -
     ch: ''
+    locode: 'NG KRU'
+    name: Karu
+    namewodiacritics: Karu
+    subdiv: KD
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '1038N 00639E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NG KT7'
+    name: Katsina
+    namewodiacritics: Katsina
+    subdiv: KT
+    function: 1-----7-
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '1259N 00735E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NG KEB'
+    name: Kebbi
+    namewodiacritics: Kebbi
+    subdiv: SO
+    function: '-----6--'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '1207N 00444E'
+    remarks: ''
+-
+    ch: ''
     locode: 'NG KTU'
     name: Ketu
     namewodiacritics: Ketu
@@ -948,6 +1068,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'NG KIK'
+    name: Kirikiri
+    namewodiacritics: Kirikiri
+    subdiv: LA
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '0626N 00318E'
+    remarks: ''
+-
+    ch: ''
     locode: 'NG KOK'
     name: Koko
     namewodiacritics: Koko
@@ -969,6 +1101,18 @@
     date: '8311'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'NG LAG'
+    name: Lagos
+    namewodiacritics: Lagos
+    subdiv: LA
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '0627N 00323E'
     remarks: ''
 -
     ch: ''
@@ -1002,12 +1146,12 @@
     subdiv: LA
     function: '--3-----'
     status: RL
-    date: '1301'
+    date: '1701'
     iata: ''
-    coordinates: '0625N 00406E'
+    coordinates: '0627N 00306E'
     remarks: ''
 -
-    ch: +
+    ch: ''
     locode: 'NG OGL'
     name: 'Ljebu Ode'
     namewodiacritics: 'Ljebu Ode'
@@ -1335,7 +1479,7 @@
     locode: 'NG OGO'
     name: Olorunsogo
     namewodiacritics: Olorunsogo
-    subdiv: ON
+    subdiv: 'ON'
     function: '-----6--'
     status: RL
     date: '1201'
@@ -1347,7 +1491,7 @@
     locode: 'NG OND'
     name: Ondo
     namewodiacritics: Ondo
-    subdiv: ON
+    subdiv: 'ON'
     function: '-----6--'
     status: RL
     date: '1107'
@@ -1452,6 +1596,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'NG OGS'
+    name: Osogbo
+    namewodiacritics: Osogbo
+    subdiv: OS
+    function: '-23-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '0746N 00434E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NG OGG'
+    name: Ota
+    namewodiacritics: Ota
+    subdiv: OG
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '0641N 00313E'
+    remarks: ''
+-
+    ch: ''
     locode: 'NG OWE'
     name: Owerri
     namewodiacritics: Owerri
@@ -1521,6 +1689,18 @@
     date: '8311'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'NG RAN'
+    name: Rann
+    namewodiacritics: Rann
+    subdiv: BO
+    function: '--3-----'
+    status: AM
+    date: '2007'
+    iata: ''
+    coordinates: '1217N 01428E'
     remarks: ''
 -
     ch: ''
@@ -1635,12 +1815,12 @@
     locode: 'NG UMU'
     name: Umuahia
     namewodiacritics: Umuahia
-    subdiv: ''
-    function: 1-------
+    subdiv: AB
+    function: '--3-----'
     status: RL
-    date: '0901'
+    date: '1707'
     iata: ''
-    coordinates: '5320N 72900E'
+    coordinates: '0532N 00729E'
     remarks: ''
 -
     ch: ''
@@ -1677,6 +1857,18 @@
     date: '0907'
     iata: ''
     coordinates: '0503N 00756E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NG VIC'
+    name: 'Victoria Island'
+    namewodiacritics: 'Victoria Island'
+    subdiv: LA
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '0625N 00324E'
     remarks: ''
 -
     ch: ''

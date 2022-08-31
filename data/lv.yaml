@@ -1,5 +1,5 @@
 -
-    ch: ¦
+    ch: ''
     locode: 'LV ZRA'
     name: Adazi
     namewodiacritics: Adazi
@@ -9,211 +9,439 @@
     date: '1307'
     iata: ''
     coordinates: '5704N 02419E'
-    remarks: '@Sub'
+    remarks: ''
 -
-    ch: ¦
+    ch: ''
+    locode: 'LV AGL'
+    name: Aglona
+    namewodiacritics: Aglona
+    subdiv: '001'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5608N 02701E'
+    remarks: ''
+-
+    ch: ''
     locode: 'LV AIN'
     name: Ainazi
     namewodiacritics: Ainazi
-    subdiv: LM
-    function: 1-------
+    subdiv: '054'
+    function: '--3-----'
     status: AI
-    date: '1307'
+    date: '2101'
     iata: ''
     coordinates: '5752N 02422E'
-    remarks: '@Sub'
+    remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'LV AIZ'
     name: Aizkraukle
     namewodiacritics: Aizkraukle
-    subdiv: AI
-    function: 123-----
+    subdiv: '002'
+    function: '-23-----'
     status: RL
-    date: '1307'
+    date: '2101'
     iata: ''
     coordinates: '5636N 02513E'
-    remarks: '@Sub'
+    remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'LV APE'
     name: Aizpute
     namewodiacritics: Aizpute
-    subdiv: LE
+    subdiv: '003'
     function: '--3-----'
     status: RL
     date: '1307'
     iata: ''
     coordinates: '5643N 02136E'
-    remarks: '@Sub'
+    remarks: ''
 -
     ch: ''
     locode: 'LV AKI'
     name: Akniste
     namewodiacritics: Akniste
-    subdiv: JK
+    subdiv: JKB
     function: '--3--6--'
     status: RL
-    date: '0507'
+    date: '1501'
     iata: ''
     coordinates: '5610N 02545E'
     remarks: ''
 -
-    ch: ¦
+    ch: ''
+    locode: 'LV ALJ'
+    name: Aloja
+    namewodiacritics: Aloja
+    subdiv: '005'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5746N 02452E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LV 6LV'
+    name: Alsunga
+    namewodiacritics: Alsunga
+    subdiv: '006'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5659N 02134E'
+    remarks: ''
+-
+    ch: ''
     locode: 'LV ASE'
     name: Aluksne
     namewodiacritics: Aluksne
-    subdiv: AL
+    subdiv: '002'
     function: '-23-----'
     status: RL
     date: '1307'
     iata: ''
     coordinates: '5725N 02703E'
-    remarks: '@Sub'
+    remarks: ''
 -
-    ch: ¦
+    ch: ''
+    locode: 'LV AMT'
+    name: Amata
+    namewodiacritics: Amata
+    subdiv: '008'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5712N 02509E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LV APP'
+    name: Ape
+    namewodiacritics: Ape
+    subdiv: '007'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5732N 02640E'
+    remarks: ''
+-
+    ch: ''
     locode: 'LV AUC'
     name: Auce
     namewodiacritics: Auce
-    subdiv: DO
+    subdiv: '010'
     function: '-23-----'
     status: RL
     date: '1307'
     iata: ''
     coordinates: '5628N 02254E'
-    remarks: '@Sub'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LV ARX'
+    name: Avoti
+    namewodiacritics: Avoti
+    subdiv: RIX
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '5658N 02350E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LV BAB'
+    name: Babite
+    namewodiacritics: Babite
+    subdiv: '079'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5657N 02357E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LV B9G'
+    name: Baldone
+    namewodiacritics: Baldone
+    subdiv: '013'
+    function: '--3-----'
+    status: RL
+    date: '2101'
+    iata: ''
+    coordinates: '5644N 02423E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LV B8R'
+    name: Balozi
+    namewodiacritics: Balozi
+    subdiv: '052'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5652N 02407E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LV BLN'
+    name: Baltinava
+    namewodiacritics: Baltinava
+    subdiv: '014'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5657N 02739E'
+    remarks: ''
 -
     ch: ''
     locode: 'LV BMT'
     name: 'Baltmarine Terminal, Riga'
     namewodiacritics: 'Baltmarine Terminal, Riga'
-    subdiv: RI
-    function: 1------B
+    subdiv: RIX
+    function: '-------B'
     status: RQ
-    date: '0901'
+    date: '2101'
     iata: ''
     coordinates: ''
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'LV BAL'
     name: Balvi
     namewodiacritics: Balvi
-    subdiv: BL
+    subdiv: '015'
     function: '-23-----'
     status: RL
     date: '1307'
     iata: ''
     coordinates: '5708N 02715W'
-    remarks: '@Sub'
+    remarks: ''
 -
-    ch: ¦
+    ch: ''
+    locode: 'LV BAR'
+    name: Barkava
+    namewodiacritics: Barkava
+    subdiv: '059'
+    function: '--3--6--'
+    status: RL
+    date: '1901'
+    iata: ''
+    coordinates: '5643N 02636E'
+    remarks: ''
+-
+    ch: ''
     locode: 'LV BAU'
     name: Bauska
     namewodiacritics: Bauska
-    subdiv: BU
+    subdiv: '016'
     function: '-23-----'
     status: RL
     date: '1307'
     iata: ''
     coordinates: '5624N 02411E'
-    remarks: '@Sub'
+    remarks: ''
 -
-    ch: ¦
+    ch: ''
+    locode: 'LV BRN'
+    name: Beverina
+    namewodiacritics: Beverina
+    subdiv: '017'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5730N 02527E'
+    remarks: ''
+-
+    ch: ''
     locode: 'LV BZC'
     name: Briezuciems
     namewodiacritics: Briezuciems
-    subdiv: BL
+    subdiv: '015'
     function: '--3-----'
     status: RL
     date: '1307'
     iata: ''
     coordinates: '5657N 02735E'
-    remarks: '@Sub'
+    remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'LV BRC'
     name: Broceni
     namewodiacritics: Broceni
-    subdiv: SA
+    subdiv: '018'
     function: '-23-----'
     status: RL
     date: '1307'
     iata: ''
     coordinates: '5642N 02232E'
-    remarks: '@Sub'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LV BUL'
+    name: Bullu
+    namewodiacritics: Bullu
+    subdiv: RIX
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5702N 02400E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LV BRK'
+    name: Burtnieki
+    namewodiacritics: Burtnieki
+    subdiv: '099'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5647N 02341E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LV BRT'
+    name: Burtnieki
+    namewodiacritics: Burtnieki
+    subdiv: '019'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5742N 02516E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LV H5D'
+    name: Carnikava
+    namewodiacritics: Carnikava
+    subdiv: '020'
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '5707N 02416E'
+    remarks: ''
 -
     ch: ''
     locode: 'LV CEN'
     name: Cena
     namewodiacritics: Cena
-    subdiv: JL
+    subdiv: '041'
     function: '--3-----'
     status: RL
-    date: '1201'
+    date: '1501'
     iata: ''
-    coordinates: '5643N 02349E'
+    coordinates: '5643N 02350E'
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'LV CES'
     name: Cesis
     namewodiacritics: Cesis
-    subdiv: CE
+    subdiv: '022'
     function: '-23-----'
     status: RL
     date: '1307'
     iata: ''
     coordinates: '5719N 02517E'
-    remarks: '@Sub'
+    remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'LV CSV'
     name: Cesvaine
     namewodiacritics: Cesvaine
-    subdiv: MA
+    subdiv: '021'
     function: '--3-----'
     status: RL
     date: '1307'
     iata: ''
     coordinates: '5658N 02619E'
-    remarks: '@Sub'
+    remarks: ''
 -
-    ch: ¦
+    ch: ''
+    locode: 'LV CBL'
+    name: Cibla
+    namewodiacritics: Cibla
+    subdiv: '023'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5633N 02753E'
+    remarks: ''
+-
+    ch: ''
     locode: 'LV CIM'
     name: Cimdenieki
     namewodiacritics: Cimdenieki
-    subdiv: LE
+    subdiv: '032'
     function: '--3-----'
     status: RL
     date: '1307'
     iata: ''
     coordinates: '5631N 02105E'
-    remarks: '@Sub'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LV DGD'
+    name: Dagda
+    namewodiacritics: Dagda
+    subdiv: '024'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5606N 02732E'
+    remarks: ''
 -
     ch: ''
     locode: 'LV DGP'
     name: Daugavpils
     namewodiacritics: Daugavpils
-    subdiv: DW
-    function: '---4----'
+    subdiv: DGV
+    function: '-2-4----'
     status: AI
-    date: '0001'
+    date: '2007'
     iata: ''
-    coordinates: ''
+    coordinates: '5553N 02632E'
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'LV DOB'
     name: Dobele
     namewodiacritics: Dobele
-    subdiv: DO
+    subdiv: '026'
     function: '-23-----'
     status: RL
     date: '1307'
     iata: ''
     coordinates: '5637N 02317E'
-    remarks: '@Sub'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LV RI7'
+    name: Dreilini
+    namewodiacritics: Dreilini
+    subdiv: '095'
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '5657N 02414E'
+    remarks: ''
 -
     ch: ''
     locode: 'LV DUN'
@@ -227,53 +455,101 @@
     coordinates: ''
     remarks: ''
 -
-    ch: ¦
+    ch: ''
+    locode: 'LV DRB'
+    name: Durbe
+    namewodiacritics: Durbe
+    subdiv: '028'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5635N 02121E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LV JJ5'
+    name: Eleja
+    namewodiacritics: Eleja
+    subdiv: '041'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5624N 02340E'
+    remarks: ''
+-
+    ch: ''
     locode: 'LV EGE'
     name: Engure
     namewodiacritics: Engure
-    subdiv: TU
+    subdiv: '029'
     function: 1-3-----
     status: RL
     date: '1307'
     iata: ''
     coordinates: '5710N 02313E'
-    remarks: '@Sub'
+    remarks: ''
 -
-    ch: ¦
+    ch: ''
+    locode: 'LV ERG'
+    name: Ergli
+    namewodiacritics: Ergli
+    subdiv: '030'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5654N 02538E'
+    remarks: ''
+-
+    ch: ''
     locode: 'LV GRD'
     name: Gardene
     namewodiacritics: Gardene
-    subdiv: DO
+    subdiv: '026'
     function: '--3-----'
     status: RL
     date: '1307'
     iata: ''
     coordinates: '5638N 02312E'
-    remarks: '@Sub'
+    remarks: ''
 -
-    ch: ¦
+    ch: ''
+    locode: 'LV GAR'
+    name: Garkalne
+    namewodiacritics: Garkalne
+    subdiv: '079'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5704N 02425E'
+    remarks: ''
+-
+    ch: ''
     locode: 'LV GKE'
     name: Garkalne
     namewodiacritics: Garkalne
-    subdiv: RI
+    subdiv: '031'
     function: '-23-----'
     status: RL
     date: '1307'
     iata: ''
     coordinates: '5702N 02425E'
-    remarks: '@Sub'
+    remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'LV GRE'
     name: Grebneva
     namewodiacritics: Grebneva
-    subdiv: LU
+    subdiv: '047'
     function: '--3----B'
     status: RQ
     date: '1307'
     iata: ''
     coordinates: ''
-    remarks: '@Sub'
+    remarks: ''
 -
     ch: ''
     locode: 'LV GBA'
@@ -287,67 +563,163 @@
     coordinates: '5633N 02110E'
     remarks: ''
 -
-    ch: ¦
+    ch: ''
+    locode: 'LV GUD'
+    name: Gudenieki
+    namewodiacritics: Gudenieki
+    subdiv: '050'
+    function: '--3-----'
+    status: RL
+    date: '2001'
+    iata: ''
+    coordinates: '5654N 02138E'
+    remarks: ''
+-
+    ch: ''
     locode: 'LV GUL'
     name: Gulbene
     namewodiacritics: Gulbene
-    subdiv: GU
+    subdiv: '033'
     function: '-23-----'
     status: RL
     date: '1307'
     iata: ''
     coordinates: '5710N 02645E'
-    remarks: '@Sub'
+    remarks: ''
 -
-    ch: ¦
+    ch: ''
+    locode: 'LV ICV'
+    name: Iecava
+    namewodiacritics: Iecava
+    subdiv: '034'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5635N 02141E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LV IKK'
+    name: Ikskile
+    namewodiacritics: Ikskile
+    subdiv: '035'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5650N 02430E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LV ILU'
+    name: Ilukste
+    namewodiacritics: Ilukste
+    subdiv: '025'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5603N 02621E'
+    remarks: ''
+-
+    ch: ''
     locode: 'LV ICK'
     name: Incukalns
     namewodiacritics: Incukalns
-    subdiv: RI
+    subdiv: '037'
     function: '-23-----'
     status: RL
     date: '1307'
     iata: ''
     coordinates: '5705N 02442E'
-    remarks: '@Sub'
+    remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'LV JAU'
     name: Jaunauce
     namewodiacritics: Jaunauce
-    subdiv: SA
+    subdiv: '088'
     function: '--3-----'
     status: RL
     date: '1307'
     iata: ''
     coordinates: '5627N 02241E'
-    remarks: '@Sub'
+    remarks: ''
 -
-    ch: ¦
+    ch: ''
+    locode: 'LV JNJ'
+    name: Jaunjelgava
+    namewodiacritics: Jaunjelgava
+    subdiv: '092'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5637N 02550E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LV JKN'
+    name: Jaunkalsnava
+    namewodiacritics: Jaunkalsnava
+    subdiv: '059'
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '5641N 02558E'
+    remarks: ''
+-
+    ch: ''
     locode: 'LV JAP'
     name: Jaunpagasts
     namewodiacritics: Jaunpagasts
-    subdiv: TA
+    subdiv: '097'
     function: '--3-----'
     status: RL
     date: '1307'
     iata: ''
     coordinates: '5708N 02238E'
-    remarks: '@Sub'
+    remarks: ''
 -
-    ch: ¦
+    ch: ''
+    locode: 'LV JNP'
+    name: Jaunpiebalga
+    namewodiacritics: Jaunpiebalga
+    subdiv: '039'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5711N 02603E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LV JPL'
+    name: Jaunpils
+    namewodiacritics: Jaunpils
+    subdiv: '040'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5643N 02300E'
+    remarks: ''
+-
+    ch: ''
     locode: 'LV JPS'
     name: Jekabpils
     namewodiacritics: Jekabpils
-    subdiv: JK
-    function: 123-----
+    subdiv: '042'
+    function: '-23-----'
     status: RL
-    date: '1307'
+    date: '2101'
     iata: ''
     coordinates: '5629N 02551E'
-    remarks: '@Sub'
+    remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'LV JGA'
     name: Jelgava
     namewodiacritics: Jelgava
@@ -357,55 +729,115 @@
     date: '1307'
     iata: ''
     coordinates: '5639N 02342E'
-    remarks: '@Sub'
+    remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'LV ZJA'
     name: Jurmala
     namewodiacritics: Jurmala
     subdiv: JUR
-    function: '-----6--'
+    function: 1----6--
     status: RL
-    date: '1307'
+    date: '2101'
     iata: ''
     coordinates: '5657N 02345E'
-    remarks: '@Sub'
+    remarks: ''
 -
-    ch: ¦
+    ch: ''
+    locode: 'LV KDV'
+    name: Kandava
+    namewodiacritics: Kandava
+    subdiv: '043'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5702N 02246E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LV UTY'
+    name: Karsava
+    namewodiacritics: Karsava
+    subdiv: '044'
+    function: '--3-----'
+    status: RL
+    date: '2101'
+    iata: ''
+    coordinates: '5647N 02740E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LV KGM'
+    name: Kegums
+    namewodiacritics: Kegums
+    subdiv: '051'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5644N 02442E'
+    remarks: ''
+-
+    ch: ''
     locode: 'LV KKV'
     name: Kekava
     namewodiacritics: Kekava
-    subdiv: RI
+    subdiv: '052'
     function: '--3--6--'
     status: RQ
     date: '1307'
     iata: ''
     coordinates: '5649N 02414E'
-    remarks: '@Sub'
+    remarks: ''
 -
-    ch: ¦
+    ch: ''
+    locode: 'LV KOC'
+    name: Koceni
+    namewodiacritics: Koceni
+    subdiv: '045'
+    function: '--3-----'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '5731N 02520E'
+    remarks: ''
+-
+    ch: ''
     locode: 'LV ZKE'
     name: Koknese
     namewodiacritics: Koknese
-    subdiv: AI
+    subdiv: '002'
     function: '-----6--'
     status: RL
     date: '1307'
     iata: ''
     coordinates: '5639N 02526E'
-    remarks: '@Sub'
+    remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'LV KRA'
     name: Kraslava
     namewodiacritics: Kraslava
-    subdiv: KR
+    subdiv: '047'
     function: '--3-----'
     status: RQ
     date: '1307'
     iata: ''
     coordinates: '5553N 02710E'
-    remarks: '@Sub'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LV KRI'
+    name: Krimulda
+    namewodiacritics: Krimulda
+    subdiv: '079'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5710N 02449E'
+    remarks: ''
 -
     ch: ''
     locode: 'LV KRU'
@@ -419,41 +851,53 @@
     coordinates: '5632N 02553E'
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'LV KDA'
     name: Kuldiga
     namewodiacritics: Kuldiga
-    subdiv: KU
+    subdiv: '050'
     function: '--3-----'
     status: RL
     date: '1307'
     iata: ''
     coordinates: '5658N 02159E'
-    remarks: '@Sub'
+    remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'LV LMS'
     name: Lapmezciems
     namewodiacritics: Lapmezciems
-    subdiv: TU
-    function: 1-3-----
+    subdiv: '029'
+    function: '--3-----'
     status: RL
-    date: '1307'
+    date: '2101'
     iata: ''
     coordinates: '5700N 02331E'
-    remarks: '@Sub'
+    remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'LV LAU'
     name: Launkalne
     namewodiacritics: Launkalne
-    subdiv: VK
+    subdiv: '094'
     function: '--3-----'
     status: RL
     date: '1307'
     iata: ''
     coordinates: '5719N 02551E'
-    remarks: '@Sub'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LV LZD'
+    name: Lazdona
+    namewodiacritics: Lazdona
+    subdiv: '059'
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '5650N 02615E'
+    remarks: ''
 -
     ch: ''
     locode: 'LV LAZ'
@@ -468,6 +912,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'LV LVD'
+    name: Lielvarde
+    namewodiacritics: Lielvarde
+    subdiv: '053'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5643N 02448E'
+    remarks: ''
+-
+    ch: ''
     locode: 'LV LPX'
     name: Liepaja
     namewodiacritics: Liepaja
@@ -479,53 +935,101 @@
     coordinates: '5631N 02101E'
     remarks: ''
 -
-    ch: ¦
+    ch: ''
+    locode: 'LV LPA'
+    name: Liepna
+    namewodiacritics: Liepna
+    subdiv: '007'
+    function: '--3-----'
+    status: AM
+    date: '2101'
+    iata: ''
+    coordinates: '5721N 02728E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LV LGT'
+    name: Ligatne
+    namewodiacritics: Ligatne
+    subdiv: '055'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5714N 02503E'
+    remarks: ''
+-
+    ch: ''
     locode: 'LV LBZ'
     name: Limbazi
     namewodiacritics: Limbazi
-    subdiv: LM
+    subdiv: '054'
     function: '-23-----'
     status: RL
     date: '1307'
     iata: ''
     coordinates: '5730N 02442E'
-    remarks: '@Sub'
+    remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'LV LVI'
     name: Livani
     namewodiacritics: Livani
-    subdiv: PR
+    subdiv: '073'
     function: '-23-----'
     status: RL
     date: '1307'
     iata: ''
     coordinates: '5622N 02611E'
-    remarks: '@Sub'
+    remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'LV LZS'
     name: Lizums
     namewodiacritics: Lizums
-    subdiv: GU
+    subdiv: '033'
     function: '-23-----'
     status: RL
     date: '1307'
     iata: ''
     coordinates: '5712N 02622E'
-    remarks: '@Sub'
+    remarks: ''
 -
-    ch: ¦
+    ch: ''
+    locode: 'LV LBN'
+    name: Lubana
+    namewodiacritics: Lubana
+    subdiv: '057'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5654N 02643E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LV BNH'
+    name: Ludza
+    namewodiacritics: Ludza
+    subdiv: '058'
+    function: '--3-----'
+    status: RL
+    date: '2101'
+    iata: ''
+    coordinates: '5633N 02743E'
+    remarks: ''
+-
+    ch: ''
     locode: 'LV MAD'
     name: Madona
     namewodiacritics: Madona
-    subdiv: MA
+    subdiv: '059'
     function: '-23-----'
     status: RL
     date: '1307'
     iata: ''
     coordinates: '5651N 02613E'
-    remarks: '@Sub'
+    remarks: ''
 -
     ch: ''
     locode: 'LV MPS'
@@ -539,125 +1043,257 @@
     coordinates: '5700N 02457E'
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'LV MAL'
     name: Malta
     namewodiacritics: Malta
-    subdiv: RE
+    subdiv: '077'
     function: '--3-----'
     status: RL
     date: '1307'
     iata: ''
     coordinates: '5621N 02710E'
-    remarks: '@Sub'
+    remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'LV MGI'
     name: Mangali
     namewodiacritics: Mangali
-    subdiv: LE
+    subdiv: '003'
     function: '--3-----'
     status: RL
     date: '1307'
     iata: ''
     coordinates: '5645N 02128E'
-    remarks: '@Sub'
+    remarks: ''
 -
-    ch: ¦
+    ch: ''
+    locode: 'LV ZVT'
+    name: Marupe
+    namewodiacritics: Marupe
+    subdiv: '062'
+    function: '--3-----'
+    status: RL
+    date: '2101'
+    iata: ''
+    coordinates: '5654N 02402E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LV MZC'
+    name: Mazsalaca
+    namewodiacritics: Mazsalaca
+    subdiv: '060'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5752N 02503E'
+    remarks: ''
+-
+    ch: ''
     locode: 'LV MRX'
     name: Mersrags
     namewodiacritics: Mersrags
-    subdiv: TA
+    subdiv: '063'
     function: 123-----
     status: AA
     date: '1307'
     iata: ''
     coordinates: '5720N 02306E'
-    remarks: '@Sub'
+    remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'LV MAU'
     name: Misa
     namewodiacritics: Misa
-    subdiv: BU
+    subdiv: '105'
     function: '-----6--'
     status: RL
     date: '1307'
     iata: ''
     coordinates: '5635N 02423E'
-    remarks: '@Sub'
+    remarks: ''
 -
-    ch: ¦
+    ch: ''
+    locode: 'LV NAM'
+    name: Namiki
+    namewodiacritics: Namiki
+    subdiv: '088'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '5643N 02224E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LV NAU'
+    name: Naukseni
+    namewodiacritics: Naukseni
+    subdiv: '064'
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '5753N 02527E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LV NKS'
+    name: Naukseni
+    namewodiacritics: Naukseni
+    subdiv: '064'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5753N 02527E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LV NRT'
+    name: Nereta
+    namewodiacritics: Nereta
+    subdiv: '065'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5610N 02518E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LV NCA'
+    name: Nica
+    namewodiacritics: Nica
+    subdiv: '066'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5621N 02104E'
+    remarks: ''
+-
+    ch: ''
     locode: 'LV ORE'
     name: Ogre
     namewodiacritics: Ogre
-    subdiv: OG
-    function: 123-----
+    subdiv: '067'
+    function: '-23-----'
     status: RL
-    date: '1307'
+    date: '2101'
     iata: ''
     coordinates: '5648N 02437E'
-    remarks: '@Sub'
+    remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'LV OLA'
     name: Olaine
     namewodiacritics: Olaine
-    subdiv: RI
+    subdiv: '068'
     function: '-23-----'
     status: RL
     date: '1307'
     iata: ''
     coordinates: '5647N 02356E'
-    remarks: '@Sub'
+    remarks: ''
 -
-    ch: ¦
+    ch: ''
+    locode: 'LV D7G'
+    name: Ozolnieki
+    namewodiacritics: Ozolnieki
+    subdiv: '069'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5641N 02347E'
+    remarks: ''
+-
+    ch: ''
     locode: 'LV PBZ'
     name: Pabazi
     namewodiacritics: Pabazi
-    subdiv: RI
+    subdiv: '089'
     function: '--3-----'
     status: RL
     date: '1307'
     iata: ''
     coordinates: '5716N 02435E'
-    remarks: '@Sub'
+    remarks: ''
 -
     ch: ''
     locode: 'LV PAC'
     name: Pace
     namewodiacritics: Pace
-    subdiv: BU
+    subdiv: '016'
     function: '--3-----'
     status: RL
-    date: '0501'
+    date: '1501'
     iata: ''
-    coordinates: '5618N 02411E'
+    coordinates: '5619N 02411E'
     remarks: ''
 -
-    ch: ¦
+    ch: ''
+    locode: 'LV PAR'
+    name: Pargauja
+    namewodiacritics: Pargauja
+    subdiv: '070'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5722N 02501E'
+    remarks: ''
+-
+    ch: ''
     locode: 'LV PAT'
     name: Paternieki
     namewodiacritics: Paternieki
-    subdiv: KR
+    subdiv: '047'
     function: '--3----B'
     status: RQ
     date: '1307'
     iata: ''
     coordinates: ''
-    remarks: '@Sub'
+    remarks: ''
 -
-    ch: ¦
+    ch: ''
+    locode: 'LV PVT'
+    name: Pavilosta
+    namewodiacritics: Pavilosta
+    subdiv: '071'
+    function: 1-3-----
+    status: RL
+    date: '2101'
+    iata: ''
+    coordinates: '5653N 02111E'
+    remarks: ''
+-
+    ch: ''
     locode: 'LV PIN'
     name: Pinki
     namewodiacritics: Pinki
-    subdiv: RI
+    subdiv: '032'
     function: '--3-----'
     status: RL
     date: '1307'
     iata: ''
     coordinates: '5656N 02354E'
-    remarks: '@Sub'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LV PVN'
+    name: Plavinas
+    namewodiacritics: Plavinas
+    subdiv: '072'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5637N 02543E'
+    remarks: ''
 -
     ch: ''
     locode: 'LV PLC'
@@ -675,25 +1311,37 @@
     locode: 'LV PRE'
     name: 'Preli (Preili)'
     namewodiacritics: 'Preli (Preili)'
-    subdiv: PR
+    subdiv: '073'
     function: '--3-----'
     status: RL
-    date: '0407'
+    date: '1501'
     iata: ''
     coordinates: '5618N 02643E'
     remarks: ''
 -
-    ch: ¦
+    ch: ''
+    locode: 'LV PKL'
+    name: Priekule
+    namewodiacritics: Priekule
+    subdiv: '075'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5626N 02135E'
+    remarks: ''
+-
+    ch: ''
     locode: 'LV PKU'
     name: Priekuli
     namewodiacritics: Priekuli
-    subdiv: CE
+    subdiv: '022'
     function: '-----6--'
     status: RL
     date: '1307'
     iata: ''
     coordinates: '5719N 02522E'
-    remarks: '@Sub'
+    remarks: ''
 -
     ch: ''
     locode: 'LV TTU'
@@ -707,113 +1355,281 @@
     coordinates: '5702N 02254E'
     remarks: ''
 -
-    ch: ¦
+    ch: ''
+    locode: 'LV RAG'
+    name: Ragana
+    namewodiacritics: Ragana
+    subdiv: '048'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5710N 02442E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LV RMV'
+    name: Ramava
+    namewodiacritics: Ramava
+    subdiv: '052'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5653N 02409E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LV RAU'
+    name: Raubeni
+    namewodiacritics: Raubeni
+    subdiv: JEL
+    function: '--3-----'
+    status: RL
+    date: '2001'
+    iata: ''
+    coordinates: '5639N 02347E'
+    remarks: ''
+-
+    ch: ''
     locode: 'LV RNA'
     name: Rauna
     namewodiacritics: Rauna
-    subdiv: CE
+    subdiv: '022'
     function: '--3-----'
     status: RL
     date: '1307'
     iata: ''
     coordinates: '5720N 02537E'
-    remarks: '@Sub'
+    remarks: ''
 -
-    ch: ¦
+    ch: ''
+    locode: 'LV REN'
+    name: Renda
+    namewodiacritics: Renda
+    subdiv: '050'
+    function: '--3-----'
+    status: AM
+    date: '2107'
+    iata: ''
+    coordinates: '5704N 02217E'
+    remarks: ''
+-
+    ch: ''
     locode: 'LV REZ'
     name: Rezekne
     namewodiacritics: Rezekne
-    subdiv: RE
+    subdiv: '077'
     function: '--3-----'
     status: RL
     date: '1307'
     iata: ''
     coordinates: '5630N 02720E'
-    remarks: '@Sub'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LV RBN'
+    name: Riebini
+    namewodiacritics: Riebini
+    subdiv: '078'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5620N 02648E'
+    remarks: ''
 -
     ch: ''
     locode: 'LV RIX'
     name: Riga
     namewodiacritics: Riga
     subdiv: RIX
-    function: 1--45---
+    function: 12-45---
     status: AI
-    date: '9601'
+    date: '2007'
     iata: ''
     coordinates: ''
     remarks: ''
 -
-    ch: ¦
+    ch: ''
+    locode: 'LV RBK'
+    name: Robeznieki
+    namewodiacritics: Robeznieki
+    subdiv: '015'
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '5713N 02750E'
+    remarks: ''
+-
+    ch: ''
     locode: 'LV ROJ'
     name: Roja
     namewodiacritics: Roja
-    subdiv: TA
+    subdiv: '079'
     function: 1-3-----
     status: RQ
     date: '1307'
     iata: ''
     coordinates: '5730N 02248E'
-    remarks: '@Sub'
+    remarks: ''
 -
-    ch: ¦
+    ch: ''
+    locode: 'LV ROP'
+    name: Ropazi
+    namewodiacritics: Ropazi
+    subdiv: '080'
+    function: '--3-----'
+    status: RL
+    date: '2101'
+    iata: ''
+    coordinates: '5658N 02438E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LV RPZ'
+    name: Ropazi
+    namewodiacritics: Ropazi
+    subdiv: '080'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5658N 02438E'
+    remarks: ''
+-
+    ch: ''
     locode: 'LV ZRU'
     name: Rucava
     namewodiacritics: Rucava
-    subdiv: LE
+    subdiv: '081'
     function: '-----6--'
     status: RL
     date: '1307'
     iata: ''
     coordinates: '5610N 02109E'
-    remarks: '@Sub'
+    remarks: ''
 -
-    ch: ¦
+    ch: ''
+    locode: 'LV RGJ'
+    name: Rugaji
+    namewodiacritics: Rugaji
+    subdiv: '082'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5700N 02708E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LV RJN'
+    name: Rujiena
+    namewodiacritics: Rujiena
+    subdiv: '084'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5754N 02519E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LV RUM'
+    name: Rumbula
+    namewodiacritics: Rumbula
+    subdiv: '095'
+    function: '--3-----'
+    status: RL
+    date: '2101'
+    iata: ''
+    coordinates: '5652N 02415E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LV RDL'
+    name: Rundale
+    namewodiacritics: Rundale
+    subdiv: '083'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5625N 02359E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LV SLA'
+    name: Sala
+    namewodiacritics: Sala
+    subdiv: '085'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5630N 02545E'
+    remarks: ''
+-
+    ch: ''
     locode: 'LV SAL'
     name: Salacgriva
     namewodiacritics: Salacgriva
-    subdiv: LM
+    subdiv: '054'
     function: 1-3-----
     status: RL
     date: '1307'
     iata: ''
     coordinates: '5745N 02421E'
-    remarks: '@Sub'
+    remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'LV SPS'
     name: Salaspils
     namewodiacritics: Salaspils
-    subdiv: RI
+    subdiv: '087'
     function: '--3-----'
     status: RL
     date: '1307'
     iata: ''
     coordinates: '5651N 02420E'
-    remarks: '@Sub'
+    remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'LV SDS'
     name: Saldus
     namewodiacritics: Saldus
-    subdiv: SA
+    subdiv: '088'
     function: '-23-----'
     status: RL
     date: '1307'
     iata: ''
     coordinates: '5640N 02230E'
-    remarks: '@Sub'
+    remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'LV SAR'
     name: Sarkani
     namewodiacritics: Sarkani
-    subdiv: MA
+    subdiv: '059'
     function: '--3-----'
     status: RL
     date: '1307'
     iata: ''
     coordinates: '5653N 02615E'
-    remarks: '@Sub'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LV SKT'
+    name: Saulkrasti
+    namewodiacritics: Saulkrasti
+    subdiv: '089'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5715N 02425E'
+    remarks: ''
 -
     ch: ''
     locode: 'LV SAU'
@@ -827,29 +1643,53 @@
     coordinates: '5655N 02421E'
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'LV ZSA'
     name: Seda
     namewodiacritics: Seda
-    subdiv: VK
+    subdiv: '096'
     function: '-----6--'
     status: RL
     date: '1307'
     iata: ''
     coordinates: '5739N 02545E'
-    remarks: '@Sub'
+    remarks: ''
 -
-    ch: ¦
+    ch: ''
+    locode: 'LV SEJ'
+    name: Seja
+    namewodiacritics: Seja
+    subdiv: '090'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5712N 02435E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LV RQA'
+    name: Sidgunda
+    namewodiacritics: Sidgunda
+    subdiv: '061'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5657N 02455E'
+    remarks: ''
+-
+    ch: ''
     locode: 'LV SGD'
     name: Sigulda
     namewodiacritics: Sigulda
-    subdiv: RI
+    subdiv: '091'
     function: '--3--6--'
     status: RL
     date: '1307'
     iata: ''
     coordinates: '5709N 02451E'
-    remarks: '@Sub'
+    remarks: ''
 -
     ch: ''
     locode: 'LV SKR'
@@ -863,149 +1703,377 @@
     coordinates: '5639N 02508E'
     remarks: ''
 -
-    ch: ¦
+    ch: ''
+    locode: 'LV SRD'
+    name: Skrunda
+    namewodiacritics: Skrunda
+    subdiv: '093'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5641N 02201E'
+    remarks: ''
+-
+    ch: ''
     locode: 'LV SKU'
     name: Skulte
     namewodiacritics: Skulte
-    subdiv: LM
+    subdiv: '054'
     function: 123-----
     status: RL
     date: '1307'
     iata: ''
     coordinates: '5719N 02426E'
-    remarks: '@Sub'
+    remarks: ''
 -
     ch: ''
     locode: 'LV SPG'
     name: 'Slampes Pagasts'
     namewodiacritics: 'Slampes Pagasts'
-    subdiv: TU
+    subdiv: '099'
     function: '--3-----'
     status: RQ
-    date: '0907'
+    date: '1401'
     iata: ''
     coordinates: '5650N 02317E'
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'LV SMA'
     name: Smarde
     namewodiacritics: Smarde
-    subdiv: TU
+    subdiv: '029'
     function: '--3-----'
     status: RL
     date: '1307'
     iata: ''
     coordinates: '5657N 02320E'
-    remarks: '@Sub'
+    remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'LV STE'
     name: Smiltene
     namewodiacritics: Smiltene
-    subdiv: VK
+    subdiv: '094'
     function: '-23-----'
     status: RL
     date: '1307'
     iata: ''
     coordinates: '5726N 02554E'
-    remarks: '@Sub'
+    remarks: ''
 -
-    ch: ¦
+    ch: ''
+    locode: 'LV STO'
+    name: Stopini
+    namewodiacritics: Stopini
+    subdiv: '087'
+    function: '--3-----'
+    status: RL
+    date: '2101'
+    iata: ''
+    coordinates: '5656N 02423E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LV STC'
+    name: Strenci
+    namewodiacritics: Strenci
+    subdiv: '096'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5737N 02541E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LV TSN'
+    name: Stunisi
+    namewodiacritics: Stunisi
+    subdiv: RIX
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '5652N 02403E'
+    remarks: ''
+-
+    ch: ''
     locode: 'LV TSI'
     name: Talsi
     namewodiacritics: Talsi
-    subdiv: TA
+    subdiv: '097'
     function: '--3-----'
     status: RL
     date: '1307'
     iata: ''
     coordinates: '5715N 02236E'
-    remarks: '@Sub'
+    remarks: ''
 -
-    ch: ¦
+    ch: ''
+    locode: 'LV TAR'
+    name: Targale
+    namewodiacritics: Targale
+    subdiv: '106'
+    function: '--3-----'
+    status: AM
+    date: '2007'
+    iata: ''
+    coordinates: '5720N 02138E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LV TUR'
+    name: Taurene
+    namewodiacritics: Taurene
+    subdiv: '022'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5710N 02542E'
+    remarks: ''
+-
+    ch: ''
     locode: 'LV TER'
     name: Terehova
     namewodiacritics: Terehova
-    subdiv: LU
+    subdiv: '001'
     function: '--3----B'
     status: RQ
     date: '1307'
     iata: ''
     coordinates: ''
-    remarks: '@Sub'
+    remarks: ''
 -
-    ch: ¦
+    ch: ''
+    locode: 'LV TVT'
+    name: Tervete
+    namewodiacritics: Tervete
+    subdiv: '041'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5638N 02336E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LV TRV'
+    name: Tervete
+    namewodiacritics: Tervete
+    subdiv: '098'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5628N 02323E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LV XRT'
+    name: Tiraine
+    namewodiacritics: Tiraine
+    subdiv: '062'
+    function: '--3-----'
+    status: RL
+    date: '2101'
+    iata: ''
+    coordinates: '5652N 02404E'
+    remarks: ''
+-
+    ch: ''
     locode: 'LV TKM'
     name: Tukums
     namewodiacritics: Tukums
-    subdiv: TU
+    subdiv: '099'
     function: '-23-----'
     status: RL
     date: '1307'
     iata: ''
     coordinates: '5658N 02309E'
-    remarks: '@Sub'
+    remarks: ''
 -
-    ch: ¦
+    ch: ''
+    locode: 'LV LM8'
+    name: Ungurpils
+    namewodiacritics: Ungurpils
+    subdiv: '005'
+    function: '--3-----'
+    status: RL
+    date: '2101'
+    iata: ''
+    coordinates: '5746N 02448E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LV VVM'
+    name: Vaidava
+    namewodiacritics: Vaidava
+    subdiv: '045'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5726N 02517E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LV VND'
+    name: Vainode
+    namewodiacritics: Vainode
+    subdiv: '100'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5626N 02152E'
+    remarks: ''
+-
+    ch: ''
     locode: 'LV VGE'
     name: Valdgale
     namewodiacritics: Valdgale
-    subdiv: TA
+    subdiv: '097'
     function: '-23-----'
     status: RL
     date: '1307'
     iata: ''
     coordinates: '5717N 02234E'
-    remarks: '@Sub'
+    remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'LV VAL'
     name: Valka
     namewodiacritics: Valka
-    subdiv: VK
+    subdiv: '101'
     function: '-23-----'
     status: RL
     date: '1307'
     iata: ''
     coordinates: '5746N 02601E'
-    remarks: '@Sub'
+    remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'LV VLL'
     name: Valle
     namewodiacritics: Valle
-    subdiv: AI
+    subdiv: '002'
     function: '--3-----'
     status: RL
     date: '1307'
     iata: ''
     coordinates: '5630N 02443E'
-    remarks: '@Sub'
+    remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'LV VIA'
     name: Valmiera
     namewodiacritics: Valmiera
-    subdiv: VM
+    subdiv: VMR
     function: '--3-----'
     status: RQ
     date: '1307'
     iata: ''
     coordinates: ''
-    remarks: '@Sub'
+    remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'LV VGI'
     name: Vangazi
     namewodiacritics: Vangazi
-    subdiv: RI
+    subdiv: '037'
     function: '-23-----'
     status: RL
     date: '1307'
     iata: ''
     coordinates: '5705N 02433E'
-    remarks: '@Sub'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LV VKN'
+    name: Varaklani
+    namewodiacritics: Varaklani
+    subdiv: '102'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5637N 02644E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LV VKV'
+    name: Varkava
+    namewodiacritics: Varkava
+    subdiv: '004'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5604N 02557E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LV VRK'
+    name: Varkava
+    namewodiacritics: Varkava
+    subdiv: '103'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5615N 02634E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LV VBG'
+    name: Vecpiebalga
+    namewodiacritics: Vecpiebalga
+    subdiv: '104'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5701N 02550E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LV VCE'
+    name: Vecsaule
+    namewodiacritics: Vecsaule
+    subdiv: '016'
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '5625N 02420E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LV VMK'
+    name: Vecumnieki
+    namewodiacritics: Vecumnieki
+    subdiv: '102'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5640N 02639E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LV VCK'
+    name: Vecumnieki
+    namewodiacritics: Vecumnieki
+    subdiv: '105'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5636N 02431E'
+    remarks: ''
 -
     ch: ''
     locode: 'LV VNT'
@@ -1020,49 +2088,97 @@
     remarks: ''
 -
     ch: ''
+    locode: 'LV VSA'
+    name: Veselava
+    namewodiacritics: Veselava
+    subdiv: '075'
+    function: '--3-----'
+    status: RL
+    date: '1901'
+    iata: ''
+    coordinates: '5717N 02529E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LV VST'
+    name: Viesite
+    namewodiacritics: Viesite
+    subdiv: '107'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5621N 02533E'
+    remarks: ''
+-
+    ch: ''
     locode: 'LV VIL'
     name: Vilaka
     namewodiacritics: Vilaka
-    subdiv: BL
+    subdiv: '015'
     function: '--3-----'
     status: RL
-    date: '1207'
+    date: '1501'
     iata: ''
     coordinates: '5710N 02740E'
     remarks: ''
 -
-    ch: ¦
+    ch: ''
+    locode: 'LV VLN'
+    name: Vilani
+    namewodiacritics: Vilani
+    subdiv: '109'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5633N 02657E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LV VAP'
+    name: Vilpulka
+    namewodiacritics: Vilpulka
+    subdiv: '084'
+    function: '--3-----'
+    status: AM
+    date: '2101'
+    iata: ''
+    coordinates: '5757N 02514E'
+    remarks: ''
+-
+    ch: ''
     locode: 'LV ZAK'
     name: Zakumuiza
     namewodiacritics: Zakumuiza
-    subdiv: RI
+    subdiv: '080'
     function: '--3-----'
     status: RQ
     date: '1307'
     iata: ''
     coordinates: '5658N 02428E'
-    remarks: '@Sub'
+    remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'LV ZIL'
     name: Zilaiskalns
     namewodiacritics: Zilaiskalns
-    subdiv: VM
+    subdiv: '045'
     function: '--3-----'
     status: RL
     date: '1307'
     iata: ''
     coordinates: '5731N 02515E'
-    remarks: '@Sub'
+    remarks: ''
 -
-    ch: +
+    ch: ''
     locode: 'LV ZLP'
     name: Zilupe
     namewodiacritics: Zilupe
-    subdiv: ''
-    function: '--3-----'
+    subdiv: '058'
+    function: '-23-----'
     status: RL
-    date: '1307'
+    date: '2007'
     iata: ''
     coordinates: '5623N 02807E'
     remarks: ''

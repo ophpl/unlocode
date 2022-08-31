@@ -112,11 +112,23 @@
     name: Amurang
     namewodiacritics: Amurang
     subdiv: SA
-    function: '-----6--'
+    function: 1----6--
     status: RL
-    date: '1107'
+    date: '2101'
     iata: ''
     coordinates: '0110N 12434W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ID ANC'
+    name: Ancol
+    namewodiacritics: Ancol
+    subdiv: JK
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '0607S 10651E'
     remarks: ''
 -
     ch: ''
@@ -143,7 +155,31 @@
     coordinates: '0123S 13352E'
     remarks: ''
 -
-    ch: +
+    ch: ''
+    locode: 'ID AGR'
+    name: Anggrek
+    namewodiacritics: Anggrek
+    subdiv: SA
+    function: 1-3-----
+    status: RL
+    date: '1901'
+    iata: ''
+    coordinates: '0051N 12247E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ID ANK'
+    name: Angke
+    namewodiacritics: Angke
+    subdiv: JK
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '0608S 10647E'
+    remarks: ''
+-
+    ch: ''
     locode: 'ID ANO'
     name: 'Anoa Natuna Pt.'
     namewodiacritics: 'Anoa Natuna Pt.'
@@ -191,7 +227,7 @@
     coordinates: ''
     remarks: ''
 -
-    ch: +
+    ch: ''
     locode: 'ID AJS'
     name: Arjasa
     namewodiacritics: Arjasa
@@ -227,7 +263,7 @@
     coordinates: ''
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'ID ARJ'
     name: Arso
     namewodiacritics: Arso
@@ -237,7 +273,7 @@
     date: '1307'
     iata: ''
     coordinates: '0254S 14045E'
-    remarks: '@Sub@Coo'
+    remarks: ''
 -
     ch: ''
     locode: 'ID AUN'
@@ -263,7 +299,7 @@
     coordinates: '0354S 11506E'
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'ID ASI'
     name: Asike
     namewodiacritics: Asike
@@ -273,7 +309,7 @@
     date: '1307'
     iata: ''
     coordinates: '0639S 14025E'
-    remarks: '@Sub'
+    remarks: ''
 -
     ch: ''
     locode: 'ID ABU'
@@ -285,18 +321,6 @@
     date: '9501'
     iata: ''
     coordinates: ''
-    remarks: ''
--
-    ch: X
-    locode: 'ID AUT'
-    name: Atauro
-    namewodiacritics: Atauro
-    subdiv: ''
-    function: '---4----'
-    status: XX
-    date: '1307'
-    iata: ''
-    coordinates: '0800S 12540E'
     remarks: ''
 -
     ch: ''
@@ -312,6 +336,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'ID BAD'
+    name: Badau
+    namewodiacritics: Badau
+    subdiv: SS
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '0250S 10748E'
+    remarks: ''
+-
+    ch: ''
     locode: 'ID BXD'
     name: Bade
     namewodiacritics: Bade
@@ -321,6 +357,30 @@
     date: '9601'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'ID BGD'
+    name: Bagendang
+    namewodiacritics: Bagendang
+    subdiv: KT
+    function: 1-------
+    status: AM
+    date: '2101'
+    iata: ''
+    coordinates: '0244S 11233E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ID BAH'
+    name: Bahudopi
+    namewodiacritics: Bahudopi
+    subdiv: ST
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '0247S 12206E'
     remarks: ''
 -
     ch: ''
@@ -335,7 +395,7 @@
     coordinates: ''
     remarks: ''
 -
-    ch: '#'
+    ch: ''
     locode: 'ID BPN'
     name: Balikpapan
     namewodiacritics: Balikpapan
@@ -345,7 +405,19 @@
     date: '1307'
     iata: ''
     coordinates: '0117S 11650E'
-    remarks: '@Sub@Coo'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ID BLH'
+    name: Balohan
+    namewodiacritics: Balohan
+    subdiv: AC
+    function: 1-------
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '0549N 09520E'
+    remarks: ''
 -
     ch: ''
     locode: 'ID BAL'
@@ -387,12 +459,12 @@
     locode: 'ID NDA'
     name: Bandanaira
     namewodiacritics: Bandanaira
-    subdiv: ''
-    function: '--3-----'
+    subdiv: MA
+    function: '--34----'
     status: RL
-    date: '9805'
+    date: '1601'
     iata: ''
-    coordinates: ''
+    coordinates: '0432S 12954E'
     remarks: ''
 -
     ch: ''
@@ -405,6 +477,18 @@
     date: '0001'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'ID BDG'
+    name: Bandengan
+    namewodiacritics: Bandengan
+    subdiv: JI
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '0655S 11012E'
     remarks: ''
 -
     ch: ''
@@ -432,6 +516,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'ID 5AN'
+    name: Bangkalan
+    namewodiacritics: Bangkalan
+    subdiv: JI
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '0701S 11244E'
+    remarks: ''
+-
+    ch: ''
     locode: 'ID BJN'
     name: Banjaran
     namewodiacritics: Banjaran
@@ -443,7 +539,7 @@
     coordinates: '0712S 10847E'
     remarks: ''
 -
-    ch: +
+    ch: ''
     locode: 'ID BJB'
     name: Banjarbaru
     namewodiacritics: Banjarbaru
@@ -465,6 +561,18 @@
     date: '9601'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'ID BAJ'
+    name: Banjarnegara
+    namewodiacritics: Banjarnegara
+    subdiv: JT
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '0723S 10941E'
     remarks: ''
 -
     ch: ''
@@ -492,6 +600,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'ID IBL'
+    name: Bantul
+    namewodiacritics: Bantul
+    subdiv: YO
+    function: '-----6--'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '0754S 11020E'
+    remarks: ''
+-
+    ch: ''
     locode: 'ID BTL'
     name: Bantul
     namewodiacritics: Bantul
@@ -504,15 +624,39 @@
     remarks: ''
 -
     ch: ''
-    locode: 'ID IBL'
-    name: Bantul
-    namewodiacritics: Bantul
-    subdiv: YO
-    function: '-----6--'
+    locode: 'ID BAY'
+    name: Banyumas
+    namewodiacritics: Banyumas
+    subdiv: JT
+    function: '--3-----'
     status: RL
-    date: '0901'
+    date: '1501'
     iata: ''
-    coordinates: '0754S 11020E'
+    coordinates: '0731S 10917E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ID BNI'
+    name: Banyuwangi
+    namewodiacritics: Banyuwangi
+    subdiv: JI
+    function: '-23-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '0812S 11421E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ID BA2'
+    name: Baralaja
+    namewodiacritics: Baralaja
+    subdiv: JB
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '0611S 10627E'
     remarks: ''
 -
     ch: ''
@@ -531,12 +675,12 @@
     locode: 'ID BTM'
     name: 'Batam Island'
     namewodiacritics: 'Batam Island'
-    subdiv: ''
-    function: '--3-----'
-    status: RQ
-    date: '9501'
+    subdiv: KR
+    function: 1-3-----
+    status: RL
+    date: '1607'
     iata: ''
-    coordinates: ''
+    coordinates: '0105N 10402E'
     remarks: ''
 -
     ch: ''
@@ -552,15 +696,27 @@
     remarks: ''
 -
     ch: ''
+    locode: 'ID 5TU'
+    name: Batu
+    namewodiacritics: Batu
+    subdiv: JI
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '0752S 11231E'
+    remarks: ''
+-
+    ch: ''
     locode: 'ID BUR'
-    name: 'Batu Ampal'
-    namewodiacritics: 'Batu Ampal'
-    subdiv: ''
+    name: 'Batu Ampar'
+    namewodiacritics: 'Batu Ampar'
+    subdiv: KR
     function: 1-3-----
     status: RL
-    date: '9805'
+    date: '1701'
     iata: ''
-    coordinates: ''
+    coordinates: '0110N 10401E'
     remarks: 'Batu Ampar?'
 -
     ch: ''
@@ -573,6 +729,30 @@
     date: '8103'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'ID BAM'
+    name: Batuampar
+    namewodiacritics: Batuampar
+    subdiv: RI
+    function: 1-3-----
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '0058S 10244E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ID 5BT'
+    name: Batubantar
+    namewodiacritics: Batubantar
+    subdiv: JB
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '0621S 10602E'
     remarks: ''
 -
     ch: ''
@@ -599,16 +779,28 @@
     coordinates: ''
     remarks: ''
 -
-    ch: X
-    locode: 'ID BCH'
-    name: Baucau
-    namewodiacritics: Baucau
-    subdiv: ''
-    function: '---4----'
-    status: XX
-    date: '1307'
+    ch: ''
+    locode: 'ID 5BA'
+    name: Bayah
+    namewodiacritics: Bayah
+    subdiv: JB
+    function: '--3-----'
+    status: RL
+    date: '1701'
     iata: ''
-    coordinates: ''
+    coordinates: '0655S 10615E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ID BYH'
+    name: Bayah
+    namewodiacritics: Bayah
+    subdiv: JB
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '0655S 10615E'
     remarks: ''
 -
     ch: ''
@@ -633,6 +825,18 @@
     date: '0101'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'ID BES'
+    name: 'Bekasi Timur'
+    namewodiacritics: 'Bekasi Timur'
+    subdiv: JB
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '0614S 10659E'
     remarks: ''
 -
     ch: ''
@@ -696,6 +900,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'ID NBR'
+    name: 'Bener Meriah'
+    namewodiacritics: 'Bener Meriah'
+    subdiv: AC
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '0445N 09700E'
+    remarks: ''
+-
+    ch: ''
     locode: 'ID BEN'
     name: Benete
     namewodiacritics: Benete
@@ -720,6 +936,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'ID BKY'
+    name: Bengkayang
+    namewodiacritics: Bengkayang
+    subdiv: KB
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '0050S 10929E'
+    remarks: ''
+-
+    ch: ''
     locode: 'ID BKS'
     name: 'Bengkulu, Sumatra'
     namewodiacritics: 'Bengkulu, Sumatra'
@@ -733,14 +961,14 @@
 -
     ch: ''
     locode: 'ID BOA'
-    name: 'Benoa, Bali'
-    namewodiacritics: 'Benoa, Bali'
-    subdiv: ''
+    name: Benoa
+    namewodiacritics: Benoa
+    subdiv: BA
     function: 1-------
-    status: QQ
-    date: '8103'
+    status: RL
+    date: '1501'
     iata: ''
-    coordinates: ''
+    coordinates: '0846S 11513E'
     remarks: ''
 -
     ch: ''
@@ -765,6 +993,18 @@
     date: '9601'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'ID BTO'
+    name: Betro
+    namewodiacritics: Betro
+    subdiv: JT
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '0723S 11245E'
     remarks: ''
 -
     ch: ''
@@ -801,6 +1041,18 @@
     date: '9506'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'ID BJI'
+    name: Binjai
+    namewodiacritics: Binjai
+    subdiv: SU
+    function: '--3-----'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '0336N 09830E'
     remarks: ''
 -
     ch: ''
@@ -864,15 +1116,39 @@
     remarks: ''
 -
     ch: ''
+    locode: 'ID BTR'
+    name: Blitar
+    namewodiacritics: Blitar
+    subdiv: JI
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '0806S 11209E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ID BLO'
+    name: Blora
+    namewodiacritics: Blora
+    subdiv: JT
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '0657S 11125E'
+    remarks: ''
+-
+    ch: ''
     locode: 'ID BOG'
     name: Bogor
     namewodiacritics: Bogor
-    subdiv: ''
+    subdiv: JB
     function: '--3-----'
-    status: RQ
-    date: '0101'
+    status: RL
+    date: '1607'
     iata: ''
-    coordinates: ''
+    coordinates: '0635S 10647E'
     remarks: ''
 -
     ch: ''
@@ -912,6 +1188,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'ID 5BO'
+    name: Bondowoso
+    namewodiacritics: Bondowoso
+    subdiv: JI
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '0755S 11349E'
+    remarks: ''
+-
+    ch: ''
     locode: 'ID BNG'
     name: Bonggala
     namewodiacritics: Bonggala
@@ -948,6 +1236,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'ID BRE'
+    name: Brebes
+    namewodiacritics: Brebes
+    subdiv: JT
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '0653N 10930E'
+    remarks: ''
+-
+    ch: ''
     locode: 'ID BRB'
     name: Brumbung
     namewodiacritics: Brumbung
@@ -971,7 +1271,19 @@
     coordinates: ''
     remarks: ''
 -
-    ch: ¦
+    ch: ''
+    locode: 'ID BDN'
+    name: Buduran
+    namewodiacritics: Buduran
+    subdiv: JT
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '0725S 11243E'
+    remarks: ''
+-
+    ch: ''
     locode: 'ID BUK'
     name: Bukittinggi
     namewodiacritics: Bukittinggi
@@ -981,7 +1293,7 @@
     date: '1307'
     iata: ''
     coordinates: '0019S 10022E'
-    remarks: '@Fun@Coo'
+    remarks: ''
 -
     ch: ''
     locode: 'ID BUA'
@@ -1005,6 +1317,18 @@
     date: '9506'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'ID BUT'
+    name: Bunati
+    namewodiacritics: Bunati
+    subdiv: KS
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '0345S 11537E'
     remarks: ''
 -
     ch: ''
@@ -1044,6 +1368,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'ID CAK'
+    name: Cakung
+    namewodiacritics: Cakung
+    subdiv: JK
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '0613S 10656E'
+    remarks: ''
+-
+    ch: ''
     locode: 'ID CLG'
     name: Calang
     namewodiacritics: Calang
@@ -1056,6 +1392,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'ID CND'
+    name: Candi
+    namewodiacritics: Candi
+    subdiv: JT
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '0724S 11237E'
+    remarks: ''
+-
+    ch: ''
     locode: 'ID CSA'
     name: 'Cape Sago'
     namewodiacritics: 'Cape Sago'
@@ -1065,6 +1413,30 @@
     date: '8103'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'ID CAW'
+    name: Cawang
+    namewodiacritics: Cawang
+    subdiv: JK
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '0611S 10652E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ID CGR'
+    name: Ceger
+    namewodiacritics: Ceger
+    subdiv: JK
+    function: '--3-----'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '0618S 10653E'
     remarks: ''
 -
     ch: ''
@@ -1116,6 +1488,54 @@
     remarks: ''
 -
     ch: ''
+    locode: 'ID 5CI'
+    name: Ciamis
+    namewodiacritics: Ciamis
+    subdiv: JB
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '0720S 10821E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ID CIJ'
+    name: Cianjur
+    namewodiacritics: Cianjur
+    subdiv: JB
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '0649S 10708E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ID CIA'
+    name: Ciawi
+    namewodiacritics: Ciawi
+    subdiv: JB
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '0609S 10650E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ID CBD'
+    name: Cibadak
+    namewodiacritics: Cibadak
+    subdiv: JB
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '0653S 10646E'
+    remarks: ''
+-
+    ch: ''
     locode: 'ID CIB'
     name: Cibinong
     namewodiacritics: Cibinong
@@ -1140,6 +1560,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'ID CID'
+    name: Cibubur
+    namewodiacritics: Cibubur
+    subdiv: JB
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '0620S 10652E'
+    remarks: ''
+-
+    ch: ''
     locode: 'ID CDS'
     name: Cicadas
     namewodiacritics: Cicadas
@@ -1155,12 +1587,36 @@
     locode: 'ID CIG'
     name: Cigading
     namewodiacritics: Cigading
-    subdiv: ''
-    function: 1-------
-    status: RQ
-    date: '9506'
+    subdiv: BT
+    function: '--3-----'
+    status: RL
+    date: '2107'
     iata: ''
-    coordinates: ''
+    coordinates: '0601S 10558E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ID CGJ'
+    name: Ciganjur
+    namewodiacritics: Ciganjur
+    subdiv: JB
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '0611S 10653E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ID CJT'
+    name: Cijantung
+    namewodiacritics: Cijantung
+    subdiv: JB
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '0619S 10651E'
     remarks: ''
 -
     ch: ''
@@ -1176,6 +1632,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'ID SZA'
+    name: Cikande
+    namewodiacritics: Cikande
+    subdiv: JB
+    function: 1-3-----
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '0612S 10621E'
+    remarks: ''
+-
+    ch: ''
     locode: 'ID CKR'
     name: Cikarang
     namewodiacritics: Cikarang
@@ -1185,6 +1653,18 @@
     date: '0907'
     iata: ''
     coordinates: '0615S 10709E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ID CIP'
+    name: Cikupa
+    namewodiacritics: Cikupa
+    subdiv: JB
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '0613S 10631E'
     remarks: ''
 -
     ch: ''
@@ -1224,6 +1704,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'ID CIE'
+    name: Cileungsi
+    namewodiacritics: Cileungsi
+    subdiv: JB
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '0623S 10657E'
+    remarks: ''
+-
+    ch: ''
     locode: 'ID CIL'
     name: Cilincing
     namewodiacritics: Cilincing
@@ -1233,6 +1725,30 @@
     date: '0907'
     iata: ''
     coordinates: '0605S 10656E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ID CIU'
+    name: Ciluar
+    namewodiacritics: Ciluar
+    subdiv: JB
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '0613S 10624E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ID CMI'
+    name: Cimahi
+    namewodiacritics: Cimahi
+    subdiv: JB
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '0652S 10732E'
     remarks: ''
 -
     ch: ''
@@ -1260,15 +1776,39 @@
     remarks: ''
 -
     ch: ''
-    locode: 'ID CIN'
-    name: 'Cinta, Java'
-    namewodiacritics: 'Cinta, Java'
-    subdiv: ''
-    function: 1-------
-    status: QQ
-    date: '8103'
+    locode: 'ID CNE'
+    name: Cinere
+    namewodiacritics: Cinere
+    subdiv: JB
+    function: '--3-----'
+    status: RL
+    date: '1601'
     iata: ''
-    coordinates: ''
+    coordinates: '0620S 10648E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ID CIN'
+    name: Cinta
+    namewodiacritics: Cinta
+    subdiv: JB
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '0709S 10803E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ID CII'
+    name: Cipinang
+    namewodiacritics: Cipinang
+    subdiv: JB
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '0613S 10621E'
     remarks: ''
 -
     ch: ''
@@ -1284,6 +1824,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'ID CRC'
+    name: Ciracas
+    namewodiacritics: Ciracas
+    subdiv: JB
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '0619S 10652E'
+    remarks: ''
+-
+    ch: ''
     locode: 'ID CBN'
     name: 'Cirebon (Tjeribon)'
     namewodiacritics: 'Cirebon (Tjeribon)'
@@ -1293,6 +1845,30 @@
     date: '0401'
     iata: ''
     coordinates: '0644S 10834E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ID CIR'
+    name: Ciruas
+    namewodiacritics: Ciruas
+    subdiv: JB
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '0607S 10613E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ID CIS'
+    name: Cisalak
+    namewodiacritics: Cisalak
+    subdiv: JB
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '0622S 10651E'
     remarks: ''
 -
     ch: ''
@@ -1308,15 +1884,27 @@
     remarks: ''
 -
     ch: ''
+    locode: 'ID CIC'
+    name: Citeureup
+    namewodiacritics: Citeureup
+    subdiv: JB
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '0658S 10737E'
+    remarks: ''
+-
+    ch: ''
     locode: 'ID CIW'
     name: Ciwandan
     namewodiacritics: Ciwandan
-    subdiv: ''
+    subdiv: BT
     function: 1-------
-    status: RQ
-    date: '9901'
+    status: RL
+    date: '1601'
     iata: ''
-    coordinates: ''
+    coordinates: '0601S 10557E'
     remarks: ''
 -
     ch: ''
@@ -1332,6 +1920,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'ID CRG'
+    name: Curug
+    namewodiacritics: Curug
+    subdiv: JB
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '0620S 10641E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ID CUR'
+    name: Curug
+    namewodiacritics: Curug
+    subdiv: JB
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '0722S 10740E'
+    remarks: ''
+-
+    ch: ''
     locode: 'ID DAS'
     name: 'Dabo, Singkep Isl'
     namewodiacritics: 'Dabo, Singkep Isl'
@@ -1341,6 +1953,18 @@
     date: '0401'
     iata: ''
     coordinates: '0030S 10433E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ID DAR'
+    name: Daruba
+    namewodiacritics: Daruba
+    subdiv: MU
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '0205N 12814E'
     remarks: ''
 -
     ch: ''
@@ -1362,12 +1986,12 @@
     subdiv: JT
     function: '-----6--'
     status: RL
-    date: '1107'
+    date: '1601'
     iata: ''
-    coordinates: ''
+    coordinates: '0653S 11038E'
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'ID DMA'
     name: Demta
     namewodiacritics: Demta
@@ -1377,7 +2001,7 @@
     date: '1307'
     iata: ''
     coordinates: '0220S 14008E'
-    remarks: '@Sub'
+    remarks: ''
 -
     ch: ''
     locode: 'ID DPS'
@@ -1401,6 +2025,30 @@
     date: '1101'
     iata: ''
     coordinates: '0624S 10649E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ID DBB'
+    name: 'Desa Bambe'
+    namewodiacritics: 'Desa Bambe'
+    subdiv: JT
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '0721S 11239E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ID DGG'
+    name: 'Desa Greges'
+    namewodiacritics: 'Desa Greges'
+    subdiv: JT
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '0721S 11010E'
     remarks: ''
 -
     ch: ''
@@ -1431,10 +2079,10 @@
     locode: 'ID DOB'
     name: Dobo
     namewodiacritics: Dobo
-    subdiv: ML
+    subdiv: MA
     function: 1--4----
     status: RL
-    date: '0212'
+    date: '1501'
     iata: ''
     coordinates: '0545S 13413E'
     remarks: ''
@@ -1452,6 +2100,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'ID DYJ'
+    name: Driyorejo
+    namewodiacritics: Driyorejo
+    subdiv: JT
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '0721S 11237E'
+    remarks: ''
+-
+    ch: ''
     locode: 'ID DUM'
     name: 'Dumai, Sumatra'
     namewodiacritics: 'Dumai, Sumatra'
@@ -1461,6 +2121,18 @@
     date: '9601'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'ID DRI'
+    name: Duri
+    namewodiacritics: Duri
+    subdiv: RI
+    function: '--3-----'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '0127N 10115E'
     remarks: ''
 -
     ch: ''
@@ -1524,6 +2196,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'ID ETK'
+    name: Entikong
+    namewodiacritics: Entikong
+    subdiv: KB
+    function: '--3--6--'
+    status: AM
+    date: '2007'
+    iata: ''
+    coordinates: '0057N 11021E'
+    remarks: ''
+-
+    ch: ''
     locode: 'ID EWE'
     name: Ewer
     namewodiacritics: Ewer
@@ -1572,6 +2256,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'ID GRG'
+    name: 'Gagak Rimang Fso'
+    namewodiacritics: 'Gagak Rimang Fso'
+    subdiv: JK
+    function: '------7-'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '0642S 11213E'
+    remarks: ''
+-
+    ch: ''
     locode: 'ID GLX'
     name: 'Galela, Halmahera'
     namewodiacritics: 'Galela, Halmahera'
@@ -1596,6 +2292,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'ID GRT'
+    name: Garut
+    namewodiacritics: Garut
+    subdiv: JB
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '0713S 10754E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ID GTS'
+    name: 'Gatot Subroto Permai'
+    namewodiacritics: 'Gatot Subroto Permai'
+    subdiv: BA
+    function: 1-------
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '0838S 11512E'
+    remarks: ''
+-
+    ch: ''
     locode: 'ID GEB'
     name: Gebe
     namewodiacritics: Gebe
@@ -1605,6 +2325,18 @@
     date: '9506'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'ID JTI'
+    name: Gedangan
+    namewodiacritics: Gedangan
+    subdiv: JI
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '0724S 11243E'
     remarks: ''
 -
     ch: ''
@@ -1680,6 +2412,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'ID GRO'
+    name: Grobogan
+    namewodiacritics: Grobogan
+    subdiv: JT
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '0710N 11050E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ID 5GK'
+    name: 'Gunung Kidul'
+    namewodiacritics: 'Gunung Kidul'
+    subdiv: JB
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '0604S 10620E'
+    remarks: ''
+-
+    ch: ''
     locode: 'ID GNS'
     name: 'Gunung Sitoli, St'
     namewodiacritics: 'Gunung Sitoli, St'
@@ -1689,6 +2445,66 @@
     date: '9506'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'ID GUK'
+    name: Gunungkidul
+    namewodiacritics: Gunungkidul
+    subdiv: JB
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '0644N 10620E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ID GPT'
+    name: Gunungputri
+    namewodiacritics: Gunungputri
+    subdiv: JB
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '0627S 10653E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ID GUN'
+    name: Gunungsari
+    namewodiacritics: Gunungsari
+    subdiv: JB
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '0635S 10818E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ID HLP'
+    name: 'Halim Perdanakusuma Airport'
+    namewodiacritics: 'Halim Perdanakusuma Airport'
+    subdiv: JK
+    function: '---4----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '0615S 10654E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ID HDL'
+    name: Handil
+    namewodiacritics: Handil
+    subdiv: KI
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '0045S 11716E'
     remarks: ''
 -
     ch: ''
@@ -1703,7 +2519,7 @@
     coordinates: ''
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'ID INA'
     name: Inanwatan
     namewodiacritics: Inanwatan
@@ -1713,7 +2529,7 @@
     date: '1307'
     iata: ''
     coordinates: '0208S 13210E'
-    remarks: '@Sub'
+    remarks: ''
 -
     ch: ''
     locode: 'ID IDY'
@@ -1731,10 +2547,10 @@
     locode: 'ID IBT'
     name: 'Indonesia Bulk Terminal'
     namewodiacritics: 'Indonesia Bulk Terminal'
-    subdiv: KA
+    subdiv: KS
     function: 1-------
     status: RQ
-    date: '0901'
+    date: '1501'
     iata: ''
     coordinates: ''
     remarks: ''
@@ -1761,6 +2577,30 @@
     date: '0901'
     iata: ''
     coordinates: '0053S 10404E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ID JGK'
+    name: Jagakarsa
+    namewodiacritics: Jagakarsa
+    subdiv: JB
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '0620S 10649E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ID JPU'
+    name: 'Jakarta Pusat'
+    namewodiacritics: 'Jakarta Pusat'
+    subdiv: JK
+    function: 1-------
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '0611S 10650E'
     remarks: ''
 -
     ch: ''
@@ -1836,6 +2676,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'ID JAI'
+    name: Jatiluhur
+    namewodiacritics: Jatiluhur
+    subdiv: JB
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '0633S 10725E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ID JAA'
+    name: Jatinegara
+    namewodiacritics: Jatinegara
+    subdiv: JK
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '0613S 10652E'
+    remarks: ''
+-
+    ch: ''
     locode: 'ID JTH'
     name: Jatitujuh
     namewodiacritics: Jatitujuh
@@ -1847,7 +2711,19 @@
     coordinates: ''
     remarks: ''
 -
-    ch: ¦
+    ch: ''
+    locode: 'ID JWA'
+    name: 'Jawa Timur'
+    namewodiacritics: 'Jawa Timur'
+    subdiv: JI
+    function: 1-------
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '0744S 11230E'
+    remarks: ''
+-
+    ch: ''
     locode: 'ID DJJ'
     name: 'Jayapura, Irian Jaya'
     namewodiacritics: 'Jayapura, Irian Jaya'
@@ -1857,7 +2733,19 @@
     date: '1307'
     iata: ''
     coordinates: '0232S 14042E'
-    remarks: '@Sub'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ID JBN'
+    name: Jembatan
+    namewodiacritics: Jembatan
+    subdiv: JB
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '0628S 10652E'
+    remarks: ''
 -
     ch: ''
     locode: 'ID JEM'
@@ -1877,22 +2765,22 @@
     namewodiacritics: Jembrana
     subdiv: BA
     function: '-----6--'
-    status: RQ
-    date: '1001'
+    status: RL
+    date: '1607'
     iata: ''
-    coordinates: '8220S 11439E'
+    coordinates: '0822S 11439E'
     remarks: ''
 -
     ch: ''
     locode: 'ID JEP'
     name: Jepara
     namewodiacritics: Jepara
-    subdiv: JW
+    subdiv: JT
     function: 1-------
-    status: RQ
-    date: '0901'
+    status: RL
+    date: '1601'
     iata: ''
-    coordinates: ''
+    coordinates: '0635S 11039E'
     remarks: ''
 -
     ch: ''
@@ -1920,6 +2808,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'ID JGL'
+    name: Jonggol
+    namewodiacritics: Jonggol
+    subdiv: JB
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '0628S 10702E'
+    remarks: ''
+-
+    ch: ''
     locode: 'ID JOR'
     name: 'Jorong Anchorage'
     namewodiacritics: 'Jorong Anchorage'
@@ -1929,6 +2829,18 @@
     date: '0907'
     iata: ''
     coordinates: '0411S 11506E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ID JUA'
+    name: Juanda
+    namewodiacritics: Juanda
+    subdiv: JI
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '0723S 11246E'
     remarks: ''
 -
     ch: ''
@@ -2028,6 +2940,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'ID KAL'
+    name: 'Kalianak Barat'
+    namewodiacritics: 'Kalianak Barat'
+    subdiv: JI
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '0713S 11242E'
+    remarks: ''
+-
+    ch: ''
     locode: 'ID KAT'
     name: Kalianget
     namewodiacritics: Kalianget
@@ -2039,16 +2963,16 @@
     coordinates: ''
     remarks: ''
 -
-    ch: X
-    locode: 'ID KLT'
-    name: Kaltim
-    namewodiacritics: Kaltim
-    subdiv: ''
-    function: 1-------
-    status: XX
-    date: '1307'
+    ch: ''
+    locode: 'ID KLR'
+    name: Kaliorang
+    namewodiacritics: Kaliorang
+    subdiv: KI
+    function: '--3-----'
+    status: RL
+    date: '1601'
     iata: ''
-    coordinates: ''
+    coordinates: '0049N 11752E'
     remarks: ''
 -
     ch: ''
@@ -2121,6 +3045,18 @@
     date: '1107'
     iata: ''
     coordinates: '0716S 11034E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ID KWC'
+    name: Karawaci
+    namewodiacritics: Karawaci
+    subdiv: JB
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '0611S 10637E'
     remarks: ''
 -
     ch: ''
@@ -2211,10 +3147,10 @@
     locode: 'ID KSE'
     name: Kassue
     namewodiacritics: Kassue
-    subdiv: IJ
+    subdiv: PA
     function: 1-------
     status: RL
-    date: '0212'
+    date: '1501'
     iata: ''
     coordinates: '0659S 13913E'
     remarks: ''
@@ -2244,6 +3180,54 @@
     remarks: ''
 -
     ch: ''
+    locode: 'ID KEU'
+    name: Kebumen
+    namewodiacritics: Kebumen
+    subdiv: JT
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '0740S 10939E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ID KDR'
+    name: Kediri
+    namewodiacritics: Kediri
+    subdiv: JI
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '0748S 11200E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ID KDY'
+    name: Kedoya
+    namewodiacritics: Kedoya
+    subdiv: JB
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '0610S 10645E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ID KDH'
+    name: Kedunghalang
+    namewodiacritics: Kedunghalang
+    subdiv: JB
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '0633S 10647E'
+    remarks: ''
+-
+    ch: ''
     locode: 'ID KEA'
     name: Keisah
     namewodiacritics: Keisah
@@ -2265,6 +3249,18 @@
     date: '1207'
     iata: ''
     coordinates: '0606S 10700E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ID KLD'
+    name: Kelapagading
+    namewodiacritics: Kelapagading
+    subdiv: JK
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '0609S 10652E'
     remarks: ''
 -
     ch: ''
@@ -2364,6 +3360,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'ID KEN'
+    name: Kenjeran
+    namewodiacritics: Kenjeran
+    subdiv: JI
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '0714S 11247E'
+    remarks: ''
+-
+    ch: ''
     locode: 'ID KEI'
     name: Kepi
     namewodiacritics: Kepi
@@ -2373,6 +3381,30 @@
     date: '9601'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'ID JBB'
+    name: Keragilan
+    namewodiacritics: Keragilan
+    subdiv: JB
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '0608S 10617E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ID BTT'
+    name: Kerawang
+    namewodiacritics: Kerawang
+    subdiv: JB
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '0618S 10717E'
     remarks: ''
 -
     ch: ''
@@ -2397,6 +3429,18 @@
     date: '1201'
     iata: ''
     coordinates: '0100S 12025E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ID KER'
+    name: Kertapati
+    namewodiacritics: Kertapati
+    subdiv: SS
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '0301S 10445E'
     remarks: ''
 -
     ch: ''
@@ -2460,6 +3504,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'ID KLA'
+    name: Klari
+    namewodiacritics: Klari
+    subdiv: JB
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '0619S 10722E'
+    remarks: ''
+-
+    ch: ''
     locode: 'ID KLE'
     name: Klaten
     namewodiacritics: Klaten
@@ -2469,6 +3525,18 @@
     date: '1007'
     iata: ''
     coordinates: '0742S 11035E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ID KL3'
+    name: Kletek
+    namewodiacritics: Kletek
+    subdiv: NT
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '0935S 12456E'
     remarks: ''
 -
     ch: ''
@@ -2483,7 +3551,7 @@
     coordinates: '0618S 10623E'
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'ID KOK'
     name: Kokas
     namewodiacritics: Kokas
@@ -2493,7 +3561,7 @@
     date: '1307'
     iata: ''
     coordinates: '0242S 13226E'
-    remarks: '@Sub'
+    remarks: ''
 -
     ch: ''
     locode: 'ID KOX'
@@ -2524,11 +3592,23 @@
     name: Kolonodale
     namewodiacritics: Kolonodale
     subdiv: ST
-    function: '--3-----'
+    function: 1-3-----
     status: RL
-    date: '0401'
+    date: '2101'
     iata: ''
     coordinates: '0158S 12120E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ID KMD'
+    name: Komodo
+    namewodiacritics: Komodo
+    subdiv: NT
+    function: 1-------
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '0835S 11930E'
     remarks: ''
 -
     ch: ''
@@ -2580,6 +3660,54 @@
     remarks: ''
 -
     ch: ''
+    locode: 'ID KOT'
+    name: Kotatengah
+    namewodiacritics: Kotatengah
+    subdiv: LA
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '0510S 10530E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ID KRA'
+    name: Kragilan
+    namewodiacritics: Kragilan
+    subdiv: JT
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '0746S 11036E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ID KMJ'
+    name: Kramatjati
+    namewodiacritics: Kramatjati
+    subdiv: JK
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '0616S 10652E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ID KPK'
+    name: Krapyak
+    namewodiacritics: Krapyak
+    subdiv: YO
+    function: '-23-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '0744S 11024E'
+    remarks: ''
+-
+    ch: ''
     locode: 'ID KGH'
     name: 'Krueng Geukueh'
     namewodiacritics: 'Krueng Geukueh'
@@ -2616,18 +3744,6 @@
     remarks: ''
 -
     ch: ''
-    locode: 'ID KMA'
-    name: 'Kuala Mandah, Sumatra'
-    namewodiacritics: 'Kuala Mandah, Sumatra'
-    subdiv: ''
-    function: 1-------
-    status: QQ
-    date: '8103'
-    iata: ''
-    coordinates: ''
-    remarks: ''
--
-    ch: +
     locode: 'ID KNO'
     name: 'Kuala Namu Intl Apt/Medan'
     namewodiacritics: 'Kuala Namu Intl Apt/Medan'
@@ -2649,6 +3765,18 @@
     date: '0212'
     iata: ''
     coordinates: '0432N 09801E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ID KMA'
+    name: Kualamandah
+    namewodiacritics: Kualamandah
+    subdiv: RI
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '0030S 10353E'
     remarks: ''
 -
     ch: ''
@@ -2676,6 +3804,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'ID KUD'
+    name: Kudus
+    namewodiacritics: Kudus
+    subdiv: JT
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '0648S 11050E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ID KUG'
+    name: Kulonprogo
+    namewodiacritics: Kulonprogo
+    subdiv: JB
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '0614S 10640E'
+    remarks: ''
+-
+    ch: ''
     locode: 'ID KUM'
     name: Kumai
     namewodiacritics: Kumai
@@ -2700,6 +3852,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'ID KUN'
+    name: Kuningan
+    namewodiacritics: Kuningan
+    subdiv: JB
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '0659S 10829E'
+    remarks: ''
+-
+    ch: ''
     locode: 'ID KOE'
     name: 'Kupang, Timor'
     namewodiacritics: 'Kupang, Timor'
@@ -2721,6 +3885,30 @@
     date: '1001'
     iata: ''
     coordinates: '0843S 11511E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ID LAA'
+    name: Labuan
+    namewodiacritics: Labuan
+    subdiv: SG
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '0425S 12257E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ID LBO'
+    name: 'Labuan Bajo'
+    namewodiacritics: 'Labuan Bajo'
+    subdiv: NT
+    function: 1-3-----
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '0830S 11953E'
     remarks: ''
 -
     ch: ''
@@ -2751,12 +3939,24 @@
     locode: 'ID LAJ'
     name: Labuhan
     namewodiacritics: Labuhan
-    subdiv: JB
+    subdiv: BT
     function: '--3-----'
     status: RL
-    date: '0401'
+    date: '2107'
     iata: ''
     coordinates: '0622S 10550E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ID LHT'
+    name: Lahat
+    namewodiacritics: Lahat
+    subdiv: SS
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '0348S 10332E'
     remarks: ''
 -
     ch: ''
@@ -2769,6 +3969,18 @@
     date: '9506'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'ID LAM'
+    name: Lamongan
+    namewodiacritics: Lamongan
+    subdiv: JI
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '0707S 11225E'
     remarks: ''
 -
     ch: ''
@@ -2808,6 +4020,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'ID LAP'
+    name: Lapangan
+    namewodiacritics: Lapangan
+    subdiv: SA
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '0132N 12455E'
+    remarks: ''
+-
+    ch: ''
     locode: 'ID LKA'
     name: Larantuka
     namewodiacritics: Larantuka
@@ -2829,6 +4053,18 @@
     date: '9805'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'ID LWG'
+    name: Lawang
+    namewodiacritics: Lawang
+    subdiv: JI
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '0749S 11242E'
     remarks: ''
 -
     ch: ''
@@ -2856,6 +4092,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'ID 5LE'
+    name: Lembang
+    namewodiacritics: Lembang
+    subdiv: JB
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '0648S 10737E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ID LBR'
+    name: Lembar
+    namewodiacritics: Lembar
+    subdiv: NB
+    function: 1-3-----
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '0844S 11604E'
+    remarks: ''
+-
+    ch: ''
     locode: 'ID LHI'
     name: Lereh
     namewodiacritics: Lereh
@@ -2865,6 +4125,18 @@
     date: '0001'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'ID LEU'
+    name: Leuwiliang
+    namewodiacritics: Leuwiliang
+    subdiv: JB
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '0635N 10637E'
     remarks: ''
 -
     ch: ''
@@ -2925,6 +4197,18 @@
     date: '8103'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'ID LIM'
+    name: Limo
+    namewodiacritics: Limo
+    subdiv: JB
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '0621S 10646E'
     remarks: ''
 -
     ch: ''
@@ -3024,6 +4308,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'ID LTT'
+    name: 'Lubuk Tutung'
+    namewodiacritics: 'Lubuk Tutung'
+    subdiv: KI
+    function: 1-3-----
+    status: AM
+    date: '2007'
+    iata: ''
+    coordinates: '0046N 11744E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ID LMJ'
+    name: Lumajang
+    namewodiacritics: Lumajang
+    subdiv: JI
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '0808S 11313E'
+    remarks: ''
+-
+    ch: ''
     locode: 'ID LYK'
     name: Lunyuk
     namewodiacritics: Lunyuk
@@ -3048,6 +4356,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'ID MDI'
+    name: Madiun
+    namewodiacritics: Madiun
+    subdiv: JI
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '0737S 11131E'
+    remarks: ''
+-
+    ch: ''
     locode: 'ID MDR'
     name: 'Madura Terminal'
     namewodiacritics: 'Madura Terminal'
@@ -3059,7 +4379,7 @@
     coordinates: '0651S 11257E'
     remarks: ''
 -
-    ch: +
+    ch: ''
     locode: 'ID MAG'
     name: Magelang
     namewodiacritics: Magelang
@@ -3069,6 +4389,30 @@
     date: '1307'
     iata: ''
     coordinates: '0728S 11013E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ID 5MT'
+    name: Magetan
+    namewodiacritics: Magetan
+    subdiv: JI
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '0739S 11120E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ID 5MA'
+    name: Majalengka
+    namewodiacritics: Majalengka
+    subdiv: KB
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '0650S 10813E'
     remarks: ''
 -
     ch: ''
@@ -3093,6 +4437,18 @@
     date: '0307'
     iata: ''
     coordinates: '0507S 11924E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ID MLH'
+    name: Malahayati
+    namewodiacritics: Malahayati
+    subdiv: AC
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '0008S 09944E'
     remarks: ''
 -
     ch: ''
@@ -3153,6 +4509,18 @@
     date: '9601'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'ID MAD'
+    name: Manggadua
+    namewodiacritics: Manggadua
+    subdiv: JK
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '0608S 10649E'
     remarks: ''
 -
     ch: ''
@@ -3255,10 +4623,10 @@
     locode: 'ID MAI'
     name: 'Mapia Island'
     namewodiacritics: 'Mapia Island'
-    subdiv: IJ
+    subdiv: PA
     function: 1-------
     status: RQ
-    date: '0901'
+    date: '1501'
     iata: ''
     coordinates: '0053N 13419E'
     remarks: ''
@@ -3273,6 +4641,18 @@
     date: '0901'
     iata: ''
     coordinates: '0259S 11446E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ID MGO'
+    name: Margomulyo
+    namewodiacritics: Margomulyo
+    subdiv: SA
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '0032N 12145E'
     remarks: ''
 -
     ch: ''
@@ -3321,6 +4701,18 @@
     date: '0001'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'ID MAU'
+    name: Mauk
+    namewodiacritics: Mauk
+    subdiv: JB
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '0603S 10630E'
     remarks: ''
 -
     ch: ''
@@ -3447,10 +4839,10 @@
     locode: 'ID MIT'
     name: 'Misool Terminal'
     namewodiacritics: 'Misool Terminal'
-    subdiv: IJ
+    subdiv: PA
     function: 1-------
     status: RQ
-    date: '0901'
+    date: '1501'
     iata: ''
     coordinates: '0134S 13031E'
     remarks: ''
@@ -3477,6 +4869,18 @@
     date: '1001'
     iata: ''
     coordinates: '0728S 11226E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ID MJI'
+    name: Mojosari
+    namewodiacritics: Mojosari
+    subdiv: JI
+    function: '-23-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '0731S 11233E'
     remarks: ''
 -
     ch: ''
@@ -3735,12 +5139,12 @@
     locode: 'ID NAM'
     name: Namlea
     namewodiacritics: Namlea
-    subdiv: ''
+    subdiv: MA
     function: '---4----'
     status: AI
-    date: '9601'
+    date: '1601'
     iata: ''
-    coordinates: ''
+    coordinates: '0318S 12706E'
     remarks: ''
 -
     ch: ''
@@ -3756,6 +5160,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'ID NBF'
+    name: 'Nanga Badau'
+    namewodiacritics: 'Nanga Badau'
+    subdiv: KB
+    function: '--3----B'
+    status: RL
+    date: '2001'
+    iata: ''
+    coordinates: '0101N 11152E'
+    remarks: ''
+-
+    ch: ''
     locode: 'ID NPO'
     name: Nangapinoh
     namewodiacritics: Nangapinoh
@@ -3768,6 +5184,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'ID NAR'
+    name: Narogong
+    namewodiacritics: Narogong
+    subdiv: JB
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '0626S 10655E'
+    remarks: ''
+-
+    ch: ''
     locode: 'ID NTX'
     name: 'Natuna Ranai'
     namewodiacritics: 'Natuna Ranai'
@@ -3777,6 +5205,54 @@
     date: '0001'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'ID NEG'
+    name: Negara
+    namewodiacritics: Negara
+    subdiv: BA
+    function: '--3-----'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '0822S 11437E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ID CTO'
+    name: 'New Priok Port'
+    namewodiacritics: 'New Priok Port'
+    subdiv: JK
+    function: 1----6--
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '0605S 10655E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ID 5NG'
+    name: Nganjuk
+    namewodiacritics: Nganjuk
+    subdiv: JI
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '0736S 11155E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ID NGW'
+    name: Ngawi
+    namewodiacritics: Ngawi
+    subdiv: JI
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '0724S 11126E'
     remarks: ''
 -
     ch: ''
@@ -3863,18 +5339,6 @@
     coordinates: ''
     remarks: ''
 -
-    ch: X
-    locode: 'ID OEC'
-    name: Ocussi
-    namewodiacritics: Ocussi
-    subdiv: ''
-    function: '---4----'
-    status: XX
-    date: '1307'
-    iata: ''
-    coordinates: ''
-    remarks: ''
--
     ch: ''
     locode: 'ID OKQ'
     name: 'Okaba, Irian Jaya'
@@ -3923,7 +5387,7 @@
     coordinates: ''
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'ID ORA'
     name: Oransbari
     namewodiacritics: Oransbari
@@ -3933,7 +5397,7 @@
     date: '1307'
     iata: ''
     coordinates: '0121S 13416E'
-    remarks: '@Sub'
+    remarks: ''
 -
     ch: ''
     locode: 'ID OYO'
@@ -3957,6 +5421,42 @@
     date: '1101'
     iata: ''
     coordinates: '0620S 10702E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ID PAC'
+    name: Paciran
+    namewodiacritics: Paciran
+    subdiv: JI
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '0652S 11220E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ID 5PP'
+    name: Pacitan
+    namewodiacritics: Pacitan
+    subdiv: JI
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '0812S 11107E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ID PDL'
+    name: Padalarang
+    namewodiacritics: Padalarang
+    subdiv: JB
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '0650S 10729E'
     remarks: ''
 -
     ch: ''
@@ -4017,6 +5517,18 @@
     date: '0401'
     iata: ''
     coordinates: '0743S 11330E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ID PLG'
+    name: Palang
+    namewodiacritics: Palang
+    subdiv: JT
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '0654S 11208E'
     remarks: ''
 -
     ch: ''
@@ -4104,6 +5616,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'ID 5SS'
+    name: Pamekasan
+    namewodiacritics: Pamekasan
+    subdiv: JI
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '0710S 11328E'
+    remarks: ''
+-
+    ch: ''
     locode: 'ID PKK'
     name: Panakukang
     namewodiacritics: Panakukang
@@ -4137,6 +5661,18 @@
     date: '8103'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'ID 5PN'
+    name: Pangandaran
+    namewodiacritics: Pangandaran
+    subdiv: JB
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '0741S 10839E'
     remarks: ''
 -
     ch: ''
@@ -4248,15 +5784,87 @@
     remarks: ''
 -
     ch: ''
-    locode: 'ID PSG'
-    name: Pasarminggu
-    namewodiacritics: Pasarminggu
+    locode: 'ID PRG'
+    name: Parung
+    namewodiacritics: Parung
     subdiv: JB
     function: '--3-----'
     status: RL
-    date: '1101'
+    date: '1501'
+    iata: ''
+    coordinates: '0619S 10658E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ID PGD'
+    name: Parungkuda
+    namewodiacritics: Parungkuda
+    subdiv: JB
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '0651S 10646E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ID PKM'
+    name: 'Pasar Kemis'
+    namewodiacritics: 'Pasar Kemis'
+    subdiv: JB
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '0610S 10631E'
+    remarks: ''
+-
+    ch: +
+    locode: 'ID PSA'
+    name: 'Pasar Minggu'
+    namewodiacritics: 'Pasar Minggu'
+    subdiv: JK
+    function: '--3-----'
+    status: AM
+    date: '2201'
+    iata: ''
+    coordinates: '0617S 10650E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ID PRB'
+    name: 'Pasar Rebo'
+    namewodiacritics: 'Pasar Rebo'
+    subdiv: JB
+    function: '-----6--'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '0624S 10644E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ID PSG'
+    name: Pasarminggu
+    namewodiacritics: Pasarminggu
+    subdiv: BT
+    function: '--3-----'
+    status: RL
+    date: '2107'
     iata: ''
     coordinates: '0611S 10643E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ID PSR'
+    name: Pasarrebo
+    namewodiacritics: Pasarrebo
+    subdiv: JK
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '0618S 10652E'
     remarks: ''
 -
     ch: ''
@@ -4296,6 +5904,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'ID PAT'
+    name: Pati
+    namewodiacritics: Pati
+    subdiv: JT
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '0645S 11101E'
+    remarks: ''
+-
+    ch: ''
     locode: 'ID PJL'
     name: Pejagalan
     namewodiacritics: Pejagalan
@@ -4332,13 +5952,25 @@
     remarks: ''
 -
     ch: ''
+    locode: 'ID PBB'
+    name: 'Pelabuhan Badas'
+    namewodiacritics: 'Pelabuhan Badas'
+    subdiv: NB
+    function: 1-------
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '0827S 11722E'
+    remarks: ''
+-
+    ch: ''
     locode: 'ID FTG'
     name: 'Pelabuhan Futong Terminal'
     namewodiacritics: 'Pelabuhan Futong Terminal'
-    subdiv: SM
+    subdiv: RI
     function: 1-------
     status: RQ
-    date: '0901'
+    date: '1501'
     iata: ''
     coordinates: '0049N 10224E'
     remarks: ''
@@ -4392,6 +6024,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'ID PJA'
+    name: Penajam
+    namewodiacritics: Penajam
+    subdiv: KI
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0115S 11646E'
+    remarks: ''
+-
+    ch: ''
     locode: 'ID PDO'
     name: Pendopo
     namewodiacritics: Pendopo
@@ -4401,6 +6045,18 @@
     date: '0001'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'ID PEN'
+    name: Penjaringan
+    namewodiacritics: Penjaringan
+    subdiv: JK
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '0607S 10647E'
     remarks: ''
 -
     ch: ''
@@ -4415,7 +6071,7 @@
     coordinates: ''
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'ID PER'
     name: Perawang
     namewodiacritics: Perawang
@@ -4425,9 +6081,9 @@
     date: '1307'
     iata: ''
     coordinates: '0104N 10252E'
-    remarks: '@Fun@Sta@Sub@Coo'
+    remarks: ''
 -
-    ch: '#'
+    ch: ''
     locode: 'ID PWG'
     name: Perawang
     namewodiacritics: Perawang
@@ -4437,7 +6093,7 @@
     date: '1307'
     iata: ''
     coordinates: '0038N 10137E'
-    remarks: '@Fun@Sta@Sub@Coo'
+    remarks: ''
 -
     ch: ''
     locode: 'ID PBG'
@@ -4449,6 +6105,18 @@
     date: '0901'
     iata: ''
     coordinates: '0334N 09857E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ID 5PE'
+    name: Petamburan
+    namewodiacritics: Petamburan
+    subdiv: JB
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '0611S 10648E'
     remarks: ''
 -
     ch: ''
@@ -4476,6 +6144,42 @@
     remarks: ''
 -
     ch: ''
+    locode: 'ID PED'
+    name: Plered
+    namewodiacritics: Plered
+    subdiv: JB
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '0613S 10642E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ID PLP'
+    name: Plumpang
+    namewodiacritics: Plumpang
+    subdiv: JI
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '0701S 11205E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ID PMD'
+    name: Podomoro
+    namewodiacritics: Podomoro
+    subdiv: SN
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '0235S 12100E'
+    remarks: ''
+-
+    ch: ''
     locode: 'ID POL'
     name: Poleng
     namewodiacritics: Poleng
@@ -4491,10 +6195,10 @@
     locode: 'ID PMK'
     name: Pomako
     namewodiacritics: Pomako
-    subdiv: IJ
+    subdiv: PA
     function: 1-------
     status: RQ
-    date: '0901'
+    date: '1501'
     iata: ''
     coordinates: '0448S 13646E'
     remarks: ''
@@ -4509,6 +6213,18 @@
     date: '0207'
     iata: ''
     coordinates: '0402S 12135E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ID PST'
+    name: Pomposa
+    namewodiacritics: Pomposa
+    subdiv: ST
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '0124S 12042E'
     remarks: ''
 -
     ch: ''
@@ -4545,6 +6261,18 @@
     date: '9601'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'ID PRS'
+    name: Porsea
+    namewodiacritics: Porsea
+    subdiv: SU
+    function: '--3-----'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '0227N 09909E'
     remarks: ''
 -
     ch: ''
@@ -4655,18 +6383,6 @@
     coordinates: '0018S 11552E'
     remarks: ''
 -
-    ch: X
-    locode: 'ID PJK'
-    name: 'Pulau Jarak'
-    namewodiacritics: 'Pulau Jarak'
-    subdiv: ''
-    function: 1-------
-    status: XX
-    date: '1307'
-    iata: ''
-    coordinates: '0358N 10005E'
-    remarks: ''
--
     ch: ''
     locode: 'ID PUT'
     name: 'Pulau Laut'
@@ -4728,6 +6444,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'ID PUB'
+    name: Purbalingga
+    namewodiacritics: Purbalingga
+    subdiv: JT
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '0654S 10922E'
+    remarks: ''
+-
+    ch: ''
     locode: 'ID PUR'
     name: Purwakarta
     namewodiacritics: Purwakarta
@@ -4749,6 +6477,18 @@
     date: '0001'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'ID PUW'
+    name: Purworejo
+    namewodiacritics: Purworejo
+    subdiv: JT
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '0743S 11001E'
     remarks: ''
 -
     ch: ''
@@ -4788,6 +6528,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'ID RJL'
+    name: Rajawali
+    namewodiacritics: Rajawali
+    subdiv: SG
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '0407S 12230E'
+    remarks: ''
+-
+    ch: ''
     locode: 'ID RNI'
     name: Ranai
     namewodiacritics: Ranai
@@ -4797,6 +6549,30 @@
     date: '0401'
     iata: ''
     coordinates: '0355N 10823E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ID RAN'
+    name: Rancaekek
+    namewodiacritics: Rancaekek
+    subdiv: JB
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '0657S 10746E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ID RGG'
+    name: Rangkasbitung
+    namewodiacritics: Rangkasbitung
+    subdiv: JB
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '0621S 10614E'
     remarks: ''
 -
     ch: ''
@@ -4821,6 +6597,18 @@
     date: '9506'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'ID RDK'
+    name: Rengasdengklok
+    namewodiacritics: Rengasdengklok
+    subdiv: JB
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '0608S 10716E'
     remarks: ''
 -
     ch: ''
@@ -4920,6 +6708,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'ID SDG'
+    name: Sadang
+    namewodiacritics: Sadang
+    subdiv: JB
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '0711S 10758E'
+    remarks: ''
+-
+    ch: ''
     locode: 'ID SAD'
     name: 'Sadau, Borneo'
     namewodiacritics: 'Sadau, Borneo'
@@ -4947,12 +6747,24 @@
     locode: 'ID SWT'
     name: 'Salawati Terminal'
     namewodiacritics: 'Salawati Terminal'
-    subdiv: IJ
+    subdiv: PB
     function: 1-------
     status: RQ
-    date: '0901'
+    date: '1501'
     iata: ''
     coordinates: '0121S 13100E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ID 5SA'
+    name: Salemba
+    namewodiacritics: Salemba
+    subdiv: JB
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '0611S 10651E'
     remarks: ''
 -
     ch: ''
@@ -4977,6 +6789,18 @@
     date: '8103'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'ID 5SP'
+    name: Sampang
+    namewodiacritics: Sampang
+    subdiv: JI
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '0712S 11314E'
     remarks: ''
 -
     ch: ''
@@ -5076,6 +6900,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'ID SNR'
+    name: Sanur
+    namewodiacritics: Sanur
+    subdiv: BA
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '0841S 11516E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ID SAP'
+    name: Sape
+    namewodiacritics: Sape
+    subdiv: NB
+    function: 1-3-----
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '0834S 11859E'
+    remarks: ''
+-
+    ch: ''
     locode: 'ID ZRM'
     name: Sarmi
     namewodiacritics: Sarmi
@@ -5171,18 +7019,6 @@
     coordinates: '0330S 11622E'
     remarks: ''
 -
-    ch: X
-    locode: 'ID SEG'
-    name: 'Segama, Borneo'
-    namewodiacritics: 'Segama, Borneo'
-    subdiv: ''
-    function: 1-------
-    status: XX
-    date: '1307'
-    iata: ''
-    coordinates: ''
-    remarks: ''
--
     ch: ''
     locode: 'ID SKP'
     name: Sekupang
@@ -5229,6 +7065,30 @@
     date: '0907'
     iata: ''
     coordinates: '0658S 11029E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ID SMP'
+    name: Semper
+    namewodiacritics: Semper
+    subdiv: JI
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '0607S 10655E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ID SEY'
+    name: Senayan
+    namewodiacritics: Senayan
+    subdiv: JK
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '0613S 10648E'
     remarks: ''
 -
     ch: ''
@@ -5280,6 +7140,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'ID SEN'
+    name: Sentul
+    namewodiacritics: Sentul
+    subdiv: JB
+    function: '--3-----'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '0623S 10656E'
+    remarks: ''
+-
+    ch: ''
     locode: 'ID SEP'
     name: 'Sepanjang Terminal'
     namewodiacritics: 'Sepanjang Terminal'
@@ -5316,6 +7188,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'ID SPG'
+    name: Serpong
+    namewodiacritics: Serpong
+    subdiv: JB
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '0619S 10639E'
+    remarks: ''
+-
+    ch: ''
     locode: 'ID ZRI'
     name: 'Serui, Irian Jaya'
     namewodiacritics: 'Serui, Irian Jaya'
@@ -5349,18 +7233,6 @@
     date: '1207'
     iata: ''
     coordinates: '0612S 10649E'
-    remarks: ''
--
-    ch: X
-    locode: 'ID SVP'
-    name: 'Sevivara Point'
-    namewodiacritics: 'Sevivara Point'
-    subdiv: ''
-    function: 0-------
-    status: XX
-    date: '1307'
-    iata: ''
-    coordinates: ''
     remarks: ''
 -
     ch: ''
@@ -5427,12 +7299,24 @@
     locode: 'ID SID'
     name: Sidangoli
     namewodiacritics: Sidangoli
-    subdiv: ML
+    subdiv: MU
     function: 1-3-----
     status: RL
-    date: '0212'
+    date: '1501'
     iata: ''
     coordinates: '0054N 12729E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ID SDK'
+    name: Sidikalang
+    namewodiacritics: Sidikalang
+    subdiv: SU
+    function: '--3-----'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '0245N 09819E'
     remarks: ''
 -
     ch: ''
@@ -5496,6 +7380,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'ID SIN'
+    name: Singosari
+    namewodiacritics: Singosari
+    subdiv: JI
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '0753S 11241E'
+    remarks: ''
+-
+    ch: ''
     locode: 'ID SQG'
     name: Sintang
     namewodiacritics: Sintang
@@ -5519,7 +7415,7 @@
     coordinates: ''
     remarks: ''
 -
-    ch: +
+    ch: ''
     locode: 'ID SLE'
     name: Sleman
     namewodiacritics: Sleman
@@ -5610,9 +7506,9 @@
     subdiv: JT
     function: '-----6--'
     status: RL
-    date: '1107'
+    date: '1601'
     iata: ''
-    coordinates: '0726N 11102E'
+    coordinates: '0726S 11102E'
     remarks: ''
 -
     ch: ''
@@ -5623,18 +7519,6 @@
     function: '---4----'
     status: AI
     date: '9601'
-    iata: ''
-    coordinates: ''
-    remarks: ''
--
-    ch: X
-    locode: 'ID UAI'
-    name: Suai
-    namewodiacritics: Suai
-    subdiv: ''
-    function: '---4----'
-    status: XX
-    date: '1307'
     iata: ''
     coordinates: ''
     remarks: ''
@@ -5661,6 +7545,18 @@
     date: '0901'
     iata: ''
     coordinates: '0107N 12810E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ID SBN'
+    name: Subang
+    namewodiacritics: Subang
+    subdiv: JB
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '0633S 10745E'
     remarks: ''
 -
     ch: ''
@@ -5712,6 +7608,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'ID SKO'
+    name: Sukolilo
+    namewodiacritics: Sukolilo
+    subdiv: JI
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '0757S 11245E'
+    remarks: ''
+-
+    ch: ''
     locode: 'ID TRA'
     name: Sumatra
     namewodiacritics: Sumatra
@@ -5736,13 +7644,25 @@
     remarks: ''
 -
     ch: ''
+    locode: 'ID 5SU'
+    name: Sumedang
+    namewodiacritics: Sumedang
+    subdiv: JB
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '0651S 10754E'
+    remarks: ''
+-
+    ch: ''
     locode: 'ID SUM'
     name: Sumenep
     namewodiacritics: Sumenep
-    subdiv: JW
+    subdiv: JI
     function: 1-------
     status: RQ
-    date: '0901'
+    date: '1501'
     iata: ''
     coordinates: '0703S 11357E'
     remarks: ''
@@ -5757,6 +7677,18 @@
     date: '9601'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'ID SKL'
+    name: Sundakelapa
+    namewodiacritics: Sundakelapa
+    subdiv: JK
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '0606S 10647E'
     remarks: ''
 -
     ch: ''
@@ -5967,10 +7899,10 @@
     locode: 'ID TAL'
     name: 'Tanah Laut'
     namewodiacritics: 'Tanah Laut'
-    subdiv: KA
+    subdiv: KS
     function: 1-------
     status: RQ
-    date: '0901'
+    date: '1501'
     iata: ''
     coordinates: ''
     remarks: ''
@@ -5988,6 +7920,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'ID TNK'
+    name: Tanahkuning
+    namewodiacritics: Tanahkuning
+    subdiv: KI
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '0237N 11747E'
+    remarks: ''
+-
+    ch: ''
     locode: 'ID TMH'
     name: 'Tanahmerah, Kalimantan'
     namewodiacritics: 'Tanahmerah, Kalimantan'
@@ -5997,6 +7941,18 @@
     date: '8103'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'ID TND'
+    name: Tandes
+    namewodiacritics: Tandes
+    subdiv: JI
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '0708S 11255E'
     remarks: ''
 -
     ch: ''
@@ -6023,19 +7979,7 @@
     coordinates: ''
     remarks: ''
 -
-    ch: X
-    locode: 'ID TNG'
-    name: Tangerang
-    namewodiacritics: Tangerang
-    subdiv: BT
-    function: '--3-----'
-    status: XX
-    date: '1307'
-    iata: ''
-    coordinates: '0610S 10649E'
-    remarks: 'Use ID TRG'
--
-    ch: ¦
+    ch: ''
     locode: 'ID TRG'
     name: Tangerang
     namewodiacritics: Tangerang
@@ -6045,18 +7989,30 @@
     date: '1307'
     iata: ''
     coordinates: '0610S 10637E'
-    remarks: '@Sta@Sub@Coo'
+    remarks: ''
 -
     ch: ''
-    locode: 'ID TJB'
+    locode: 'ID TGK'
+    name: Tangkiang
+    namewodiacritics: Tangkiang
+    subdiv: BT
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '0112S 12238E'
+    remarks: ''
+-
+    ch: +
+    locode: 'ID TJU'
     name: 'Tanjung Balai'
     namewodiacritics: 'Tanjung Balai'
-    subdiv: ''
-    function: 1--45---
-    status: QQ
-    date: '8103'
+    subdiv: SU
+    function: '--3-----'
+    status: AM
+    date: '2201'
     iata: ''
-    coordinates: ''
+    coordinates: '0258N 09948E'
     remarks: ''
 -
     ch: ''
@@ -6120,28 +8076,16 @@
     remarks: ''
 -
     ch: ''
-    locode: 'ID TNJ'
-    name: 'Tanjung Pinang, Riau'
-    namewodiacritics: 'Tanjung Pinang, Riau'
-    subdiv: ''
-    function: 1--4----
-    status: AI
-    date: '9601'
-    iata: ''
-    coordinates: ''
-    remarks: ''
--
-    ch: X
     locode: 'ID TPP'
     name: 'Tanjung Priok'
     namewodiacritics: 'Tanjung Priok'
-    subdiv: ''
-    function: 1-------
-    status: XX
-    date: '1307'
+    subdiv: JK
+    function: '--3-----'
+    status: RL
+    date: '1601'
     iata: ''
-    coordinates: ''
-    remarks: 'Use ID JKT'
+    coordinates: '0606S 10653E'
+    remarks: ''
 -
     ch: ''
     locode: 'ID TSX'
@@ -6204,6 +8148,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'ID TJB'
+    name: Tanjungbalai
+    namewodiacritics: Tanjungbalai
+    subdiv: KR
+    function: 1--45---
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '0100N 10326E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ID TJT'
+    name: Tanjungbatu
+    namewodiacritics: Tanjungbatu
+    subdiv: KI
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '0217N 11805E'
+    remarks: ''
+-
+    ch: ''
     locode: 'ID TMJ'
     name: Tanjungmorawa
     namewodiacritics: Tanjungmorawa
@@ -6215,17 +8183,17 @@
     coordinates: '0331N 09849E'
     remarks: ''
 -
-    ch: X
-    locode: 'ID TJP'
-    name: Tanjungperak
-    namewodiacritics: Tanjungperak
-    subdiv: ''
-    function: 1-3-----
-    status: XX
-    date: '1307'
+    ch: ''
+    locode: 'ID TNJ'
+    name: Tanjungpinang
+    namewodiacritics: Tanjungpinang
+    subdiv: KR
+    function: 1--4----
+    status: AI
+    date: '1601'
     iata: ''
-    coordinates: '0712S 11243E'
-    remarks: 'Use ID SUB'
+    coordinates: '0055N 10427E'
+    remarks: ''
 -
     ch: ''
     locode: 'ID TAN'
@@ -6288,6 +8256,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'ID TRT'
+    name: Tarutung
+    namewodiacritics: Tarutung
+    subdiv: SA
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '0201N 09858E'
+    remarks: ''
+-
+    ch: ''
     locode: 'ID TSY'
     name: Tasikmalaya
     namewodiacritics: Tasikmalaya
@@ -6333,6 +8313,18 @@
     date: '8103'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'ID TGL'
+    name: Tegalalur
+    namewodiacritics: Tegalalur
+    subdiv: JB
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '0606S 10642E'
     remarks: ''
 -
     ch: ''
@@ -6387,10 +8379,10 @@
     locode: 'ID MGG'
     name: Temanggung
     namewodiacritics: Temanggung
-    subdiv: ''
+    subdiv: JT
     function: '-----6--'
     status: RL
-    date: '1107'
+    date: '1601'
     iata: ''
     coordinates: '0718S 11010E'
     remarks: ''
@@ -6408,6 +8400,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'ID TBH'
+    name: Tembilahan
+    namewodiacritics: Tembilahan
+    subdiv: RI
+    function: '--3-----'
+    status: RL
+    date: '2101'
+    iata: ''
+    coordinates: '0019S 10309E'
+    remarks: ''
+-
+    ch: ''
     locode: 'ID TXM'
     name: Teminabuan
     namewodiacritics: Teminabuan
@@ -6419,7 +8423,7 @@
     coordinates: ''
     remarks: ''
 -
-    ch: +
+    ch: ''
     locode: 'ID TRS'
     name: Teras
     namewodiacritics: Teras
@@ -6455,7 +8459,7 @@
     coordinates: ''
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'ID TMK'
     name: Timika
     namewodiacritics: Timika
@@ -6465,7 +8469,7 @@
     date: '1307'
     iata: ''
     coordinates: '0445S 13633E'
-    remarks: '@Sub'
+    remarks: ''
 -
     ch: ''
     locode: 'ID TMY'
@@ -6491,7 +8495,7 @@
     coordinates: ''
     remarks: ''
 -
-    ch: +
+    ch: ''
     locode: 'ID TBL'
     name: Toboali
     namewodiacritics: Toboali
@@ -6516,6 +8520,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'ID 5TR'
+    name: Trenggalek
+    namewodiacritics: Trenggalek
+    subdiv: JI
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '0803S 11143E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ID TRO'
+    name: Trosobo
+    namewodiacritics: Trosobo
+    subdiv: JI
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '0722S 11238E'
+    remarks: ''
+-
+    ch: ''
     locode: 'ID TUA'
     name: Tual
     namewodiacritics: Tual
@@ -6537,6 +8565,18 @@
     date: '9506'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'ID TLU'
+    name: Tulungagung
+    namewodiacritics: Tulungagung
+    subdiv: JI
+    function: '-23-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '0840S 11154E'
     remarks: ''
 -
     ch: ''
@@ -6575,7 +8615,7 @@
     coordinates: '0657S 10644E'
     remarks: ''
 -
-    ch: +
+    ch: ''
     locode: 'ID UDG'
     name: 'Udang Natuna Terminal'
     namewodiacritics: 'Udang Natuna Terminal'
@@ -6595,18 +8635,6 @@
     function: 1--45---
     status: AI
     date: '9601'
-    iata: ''
-    coordinates: ''
-    remarks: ''
--
-    ch: X
-    locode: 'ID VIQ'
-    name: Viqueque
-    namewodiacritics: Viqueque
-    subdiv: ''
-    function: '---4----'
-    status: XX
-    date: '1307'
     iata: ''
     coordinates: ''
     remarks: ''
@@ -6639,12 +8667,12 @@
     locode: 'ID WGP'
     name: 'Waingapu, Sumba'
     namewodiacritics: 'Waingapu, Sumba'
-    subdiv: ''
+    subdiv: NT
     function: 1--4----
     status: AI
-    date: '8103'
+    date: '1601'
     iata: ''
-    coordinates: ''
+    coordinates: '0939S 12016E'
     remarks: ''
 -
     ch: ''
@@ -6657,6 +8685,18 @@
     date: '0901'
     iata: ''
     coordinates: '0304S 12632E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ID 6DI'
+    name: Wajo
+    namewodiacritics: Wajo
+    subdiv: SN
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '0406S 12007E'
     remarks: ''
 -
     ch: ''
@@ -6684,13 +8724,25 @@
     remarks: ''
 -
     ch: ''
+    locode: 'ID WAH'
+    name: Wanaherang
+    namewodiacritics: Wanaherang
+    subdiv: JB
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '0625S 10656E'
+    remarks: ''
+-
+    ch: ''
     locode: 'ID WAN'
     name: Wanam
     namewodiacritics: Wanam
-    subdiv: IJ
+    subdiv: PB
     function: 1-------
     status: RQ
-    date: '0901'
+    date: '1501'
     iata: ''
     coordinates: '0733S 13906E'
     remarks: ''
@@ -6705,6 +8757,42 @@
     date: '0001'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'ID WRU'
+    name: Waru
+    namewodiacritics: Waru
+    subdiv: JB
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '0611S 10624E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ID WNG'
+    name: Warunggunung
+    namewodiacritics: Warunggunung
+    subdiv: JB
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '0620S 10611E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ID WJB'
+    name: Warungjambu
+    namewodiacritics: Warungjambu
+    subdiv: JB
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '0628S 10647E'
     remarks: ''
 -
     ch: ''
@@ -6744,6 +8832,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'ID WNR'
+    name: Wonogiri
+    namewodiacritics: Wonogiri
+    subdiv: JT
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '0749S 11055E'
+    remarks: ''
+-
+    ch: ''
     locode: 'ID WON'
     name: Wonosari
     namewodiacritics: Wonosari
@@ -6753,6 +8853,30 @@
     date: '0101'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'ID WNB'
+    name: Wonosobo
+    namewodiacritics: Wonosobo
+    subdiv: JT
+    function: '-----6--'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '0722S 10954E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ID WRI'
+    name: Wringinanom
+    namewodiacritics: Wringinanom
+    subdiv: JI
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '0723S 11231E'
     remarks: ''
 -
     ch: ''

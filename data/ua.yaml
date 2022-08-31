@@ -24,6 +24,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'UA ADK'
+    name: Andreevka
+    namewodiacritics: Andreevka
+    subdiv: '63'
+    function: '-23-----'
+    status: AM
+    date: '2101'
+    iata: ''
+    coordinates: '4932N 03637E'
+    remarks: ''
+-
+    ch: ''
     locode: 'UA ARM'
     name: Armyansk
     namewodiacritics: Armyansk
@@ -48,6 +60,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'UA BCV'
+    name: 'Bachivs''k'
+    namewodiacritics: 'Bachivs''k'
+    subdiv: '59'
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '5150N 03416E'
+    remarks: ''
+-
+    ch: ''
     locode: 'UA BAG'
     name: Bagerovo
     namewodiacritics: Bagerovo
@@ -59,7 +83,7 @@
     coordinates: '4522N 03617E'
     remarks: ''
 -
-    ch: +
+    ch: ''
     locode: 'UA BAP'
     name: Bakhchysarai
     namewodiacritics: Bakhchysarai
@@ -112,35 +136,35 @@
     name: Bar
     namewodiacritics: Bar
     subdiv: '05'
-    function: 1-3--6--
-    status: RL
-    date: '0901'
+    function: '--3--6--'
+    status: AA
+    date: '1707'
     iata: ''
     coordinates: '4904N 02740E'
     remarks: ''
 -
     ch: ''
-    locode: 'UA BGD'
-    name: Belgorod-Dnestrovskiy
-    namewodiacritics: Belgorod-Dnestrovskiy
-    subdiv: ''
-    function: 1-------
-    status: AI
-    date: '9501'
+    locode: 'UA BTA'
+    name: Barativka
+    namewodiacritics: Barativka
+    subdiv: '48'
+    function: '--3-----'
+    status: RL
+    date: '1601'
     iata: ''
-    coordinates: ''
+    coordinates: '4735N 03221E'
     remarks: ''
 -
     ch: ''
     locode: 'UA ERD'
-    name: Berdyansk
-    namewodiacritics: Berdyansk
-    subdiv: ''
+    name: Berdiansk
+    namewodiacritics: Berdiansk
+    subdiv: '23'
     function: 1-------
-    status: AI
-    date: '9501'
+    status: AA
+    date: '1707'
     iata: ''
-    coordinates: ''
+    coordinates: '4645N 03646E'
     remarks: ''
 -
     ch: ''
@@ -192,6 +216,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'UA B8V'
+    name: Bershad
+    namewodiacritics: Bershad
+    subdiv: '05'
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '4822N 02931E'
+    remarks: ''
+-
+    ch: ''
     locode: 'UA BZW'
     name: 'Bila Tserkva (Belaja Zerkow)'
     namewodiacritics: 'Bila Tserkva (Belaja Zerkow)'
@@ -201,6 +237,30 @@
     date: '0701'
     iata: ''
     coordinates: '4948N 03007E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'UA BGD'
+    name: Bilhorod-Dnistrovskyi
+    namewodiacritics: Bilhorod-Dnistrovskyi
+    subdiv: '51'
+    function: 1-------
+    status: AA
+    date: '1707'
+    iata: ''
+    coordinates: '4611N 03022E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'UA BKY'
+    name: Bilki
+    namewodiacritics: Bilki
+    subdiv: '05'
+    function: '--3-----'
+    status: AM
+    date: '2101'
+    iata: ''
+    coordinates: '4857N 02918E'
     remarks: ''
 -
     ch: ''
@@ -234,19 +294,19 @@
     subdiv: '26'
     function: '--3-----'
     status: RL
-    date: '0901'
+    date: '1707'
     iata: ''
-    coordinates: '4848N 24321E'
+    coordinates: '4848N 02432E'
     remarks: ''
 -
     ch: ''
     locode: 'UA KBP'
-    name: 'Borispol Apt/Kiev'
-    namewodiacritics: 'Borispol Apt/Kiev'
+    name: 'Borispol Intl Apt/kiev'
+    namewodiacritics: 'Borispol Intl Apt/kiev'
     subdiv: ''
     function: '---4----'
     status: AI
-    date: '9601'
+    date: '1601'
     iata: ''
     coordinates: ''
     remarks: ''
@@ -292,9 +352,9 @@
     name: Brody
     namewodiacritics: Brody
     subdiv: '46'
-    function: 1-------
-    status: RL
-    date: '1207'
+    function: '--3-----'
+    status: AA
+    date: '1707'
     iata: ''
     coordinates: '5005N 02509E'
     remarks: ''
@@ -503,19 +563,19 @@
     coordinates: '5116N 03014E'
     remarks: ''
 -
-    ch: X
-    locode: 'UA CHU'
-    name: Chuguev
-    namewodiacritics: Chuguev
-    subdiv: '63'
-    function: '--3-----'
-    status: XX
-    date: '1307'
+    ch: ''
+    locode: 'UA ILK'
+    name: Chornomorsk
+    namewodiacritics: Chornomorsk
+    subdiv: '51'
+    function: 123--6--
+    status: AA
+    date: '2001'
     iata: ''
-    coordinates: '4950N 36411E'
-    remarks: 'Use UA CGV'
+    coordinates: '4619N 03040E'
+    remarks: 'ex Ilyichevsk'
 -
-    ch: '#'
+    ch: ''
     locode: 'UA CGV'
     name: Chuhuyiv
     namewodiacritics: Chuhuyiv
@@ -525,7 +585,7 @@
     date: '1307'
     iata: ''
     coordinates: '4950N 03641E'
-    remarks: '@Coo'
+    remarks: ''
 -
     ch: ''
     locode: 'UA CRI'
@@ -540,39 +600,51 @@
     remarks: ''
 -
     ch: ''
-    locode: 'UA DNB'
-    name: Dneprobugskiy
-    namewodiacritics: Dneprobugskiy
-    subdiv: '48'
-    function: 1-------
+    locode: 'UA D26'
+    name: 'Deliatyn (Delatyn)'
+    namewodiacritics: 'Deliatyn (Delatyn)'
+    subdiv: '26'
+    function: '--3-----'
     status: RL
-    date: '0901'
+    date: '1607'
     iata: ''
-    coordinates: '4645N 03157E'
+    coordinates: '4832N 02438E'
     remarks: ''
 -
     ch: ''
-    locode: 'UA DZK'
-    name: Dneprodzerzhinsk
-    namewodiacritics: Dneprodzerzhinsk
-    subdiv: '12'
-    function: '--3-----'
+    locode: 'UA K63'
+    name: Dergachi
+    namewodiacritics: Dergachi
+    subdiv: '63'
+    function: '-23-----'
     status: RL
-    date: '0212'
+    date: '1701'
     iata: ''
-    coordinates: '4830N 03437E'
+    coordinates: '4958N 03529E'
     remarks: ''
 -
     ch: ''
     locode: 'UA DNK'
-    name: Dnepropetrovsk
-    namewodiacritics: Dnepropetrovsk
-    subdiv: ''
-    function: '---4----'
+    name: Dnipro
+    namewodiacritics: Dnipro
+    subdiv: '12'
+    function: '-2-4----'
     status: AI
-    date: '0001'
+    date: '2007'
     iata: ''
-    coordinates: ''
+    coordinates: '4827N 03459E'
+    remarks: ''
+-
+    ch: +
+    locode: 'UA DPS'
+    name: 'Dniprovs''Ke'
+    namewodiacritics: 'Dniprovs''Ke'
+    subdiv: '12'
+    function: '-23-----'
+    status: AM
+    date: '2201'
+    iata: ''
+    coordinates: '4836N 03425E'
     remarks: ''
 -
     ch: ''
@@ -581,10 +653,10 @@
     namewodiacritics: Dolyna
     subdiv: '26'
     function: '--3-----'
-    status: RQ
-    date: '1001'
+    status: RL
+    date: '1707'
     iata: ''
-    coordinates: '4858N 24040E'
+    coordinates: '4858N 02400E'
     remarks: ''
 -
     ch: ''
@@ -610,6 +682,18 @@
     iata: ''
     coordinates: '4452N 03349E'
     remarks: ''
+-
+    ch: ''
+    locode: 'UA SVK'
+    name: Dovzhansk
+    namewodiacritics: Dovzhansk
+    subdiv: '09'
+    function: '-23-----'
+    status: AA
+    date: '2001'
+    iata: ''
+    coordinates: '4804N 03939E'
+    remarks: 'ex Sverdlovs''k'
 -
     ch: ''
     locode: 'UA DUB'
@@ -673,14 +757,26 @@
 -
     ch: ''
     locode: 'UA FEO'
-    name: Feodosiya
-    namewodiacritics: Feodosiya
+    name: Feodosiia
+    namewodiacritics: Feodosiia
     subdiv: ''
-    function: 1-------
-    status: AI
-    date: '9501'
+    function: 0-------
+    status: AA
+    date: '2001'
     iata: ''
-    coordinates: ''
+    coordinates: '4502N 03523E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'UA GAY'
+    name: Gaysin
+    namewodiacritics: Gaysin
+    subdiv: '05'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '4914N 02904E'
     remarks: ''
 -
     ch: ''
@@ -708,6 +804,54 @@
     remarks: ''
 -
     ch: ''
+    locode: 'UA HBY'
+    name: Hlobyne
+    namewodiacritics: Hlobyne
+    subdiv: '53'
+    function: '-----6--'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4923N 03317E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'UA HLU'
+    name: Hlukhivtsi
+    namewodiacritics: Hlukhivtsi
+    subdiv: '59'
+    function: '--3-----'
+    status: RL
+    date: '1907'
+    iata: ''
+    coordinates: '4946N 02844E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'UA KOM'
+    name: 'Horishni Plavni'
+    namewodiacritics: 'Horishni Plavni'
+    subdiv: '53'
+    function: '-23-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '4900N 03338E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'UA HDK'
+    name: Horodok
+    namewodiacritics: Horodok
+    subdiv: '68'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '4910N 02634E'
+    remarks: ''
+-
+    ch: ''
     locode: 'UA HUS'
     name: Huszt
     namewodiacritics: Huszt
@@ -732,18 +876,6 @@
     remarks: ''
 -
     ch: ''
-    locode: 'UA ILK'
-    name: 'Illichivs''k'
-    namewodiacritics: 'Illichivs''k'
-    subdiv: '51'
-    function: 123-----
-    status: AI
-    date: '0907'
-    iata: ''
-    coordinates: '4618N 03040E'
-    remarks: ''
--
-    ch: ''
     locode: 'UA ZUL'
     name: Illintsi
     namewodiacritics: Illintsi
@@ -753,18 +885,6 @@
     date: '0901'
     iata: ''
     coordinates: '4907N 02912E'
-    remarks: ''
--
-    ch: ''
-    locode: 'UA ILY'
-    name: Ilyichevsk
-    namewodiacritics: Ilyichevsk
-    subdiv: '51'
-    function: '--3--6--'
-    status: RL
-    date: '1107'
-    iata: ''
-    coordinates: ''
     remarks: ''
 -
     ch: ''
@@ -803,19 +923,7 @@
     coordinates: '4818N 02302E'
     remarks: ''
 -
-    ch: X
-    locode: 'UA IVA'
-    name: 'Ivano Frankivsk'
-    namewodiacritics: 'Ivano Frankivsk'
-    subdiv: '26'
-    function: '--3-----'
-    status: XX
-    date: '1307'
-    iata: ''
-    coordinates: '4855N 24422E'
-    remarks: 'Use UA IFO'
--
-    ch: '#'
+    ch: ''
     locode: 'UA IFO'
     name: 'Ivano-Frankivs''k'
     namewodiacritics: 'Ivano-Frankivs''k'
@@ -825,7 +933,7 @@
     date: '1307'
     iata: ''
     coordinates: '4855N 02442E'
-    remarks: '@Fun@Sub@Coo'
+    remarks: ''
 -
     ch: ''
     locode: 'UA IZI'
@@ -834,21 +942,33 @@
     subdiv: '07'
     function: '--3-----'
     status: RL
-    date: '0901'
+    date: '1707'
     iata: ''
-    coordinates: '5606N 26492E'
+    coordinates: '5007N 02648E'
     remarks: ''
 -
     ch: ''
     locode: 'UA IZM'
     name: Izmail
     namewodiacritics: Izmail
-    subdiv: ''
+    subdiv: '51'
     function: 1-------
-    status: AI
-    date: '9501'
+    status: AA
+    date: '1707'
     iata: ''
-    coordinates: ''
+    coordinates: '4519N 02851E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'UA KKH'
+    name: Kakhovka
+    namewodiacritics: Kakhovka
+    subdiv: '65'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4648N 03328E'
     remarks: ''
 -
     ch: ''
@@ -894,9 +1014,21 @@
     subdiv: '68'
     function: '--3-----'
     status: RL
-    date: '0901'
+    date: '1707'
     iata: ''
-    coordinates: '4841N 26345E'
+    coordinates: '4841N 02635E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'UA DZK'
+    name: Kamianske
+    namewodiacritics: Kamianske
+    subdiv: '12'
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '4830N 03437E'
     remarks: ''
 -
     ch: ''
@@ -939,7 +1071,7 @@
     locode: 'UA ZUN'
     name: Kaniv
     namewodiacritics: Kaniv
-    subdiv: '71'
+    subdiv: TW
     function: '-----6--'
     status: RL
     date: '0901'
@@ -952,11 +1084,11 @@
     name: Kerch
     namewodiacritics: Kerch
     subdiv: ''
-    function: 1-------
-    status: AI
-    date: '9501'
+    function: 0-------
+    status: AA
+    date: '1707'
     iata: ''
-    coordinates: ''
+    coordinates: '4521N 03629E'
     remarks: ''
 -
     ch: ''
@@ -984,18 +1116,6 @@
     remarks: ''
 -
     ch: ''
-    locode: 'UA KHA'
-    name: Khartsyzk
-    namewodiacritics: Khartsyzk
-    subdiv: '14'
-    function: '--3-----'
-    status: RL
-    date: '0901'
-    iata: ''
-    coordinates: '4802N 38829E'
-    remarks: ''
--
-    ch: ''
     locode: 'UA KHT'
     name: Khartsyzsk
     namewodiacritics: Khartsyzsk
@@ -1011,12 +1131,12 @@
     locode: 'UA KHE'
     name: Kherson
     namewodiacritics: Kherson
-    subdiv: ''
+    subdiv: '65'
     function: 1--4----
-    status: AI
-    date: '9501'
+    status: AA
+    date: '1707'
     iata: ''
-    coordinates: ''
+    coordinates: '4637N 03237E'
     remarks: ''
 -
     ch: ''
@@ -1038,12 +1158,12 @@
     subdiv: '68'
     function: '--3-----'
     status: RL
-    date: '0901'
+    date: '1707'
     iata: ''
-    coordinates: '4950N 36411E'
+    coordinates: '4925N 02700E'
     remarks: ''
 -
-    ch: +
+    ch: ''
     locode: 'UA UUA'
     name: 'Khmil''nyk'
     namewodiacritics: 'Khmil''nyk'
@@ -1053,6 +1173,18 @@
     date: '1307'
     iata: ''
     coordinates: '4933N 02758E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'UA KTN'
+    name: Khotyn
+    namewodiacritics: Khotyn
+    subdiv: '77'
+    function: '--3-----'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '4829N 02630E'
     remarks: ''
 -
     ch: ''
@@ -1068,39 +1200,15 @@
     remarks: ''
 -
     ch: ''
-    locode: 'UA IEV'
-    name: Kiev
-    namewodiacritics: Kiev
-    subdiv: ''
-    function: 1--45---
-    status: AI
-    date: '9501'
-    iata: ''
-    coordinates: ''
-    remarks: ''
--
-    ch: ''
     locode: 'UA KIA'
-    name: Kiliya
-    namewodiacritics: Kiliya
+    name: Kiliia
+    namewodiacritics: Kiliia
     subdiv: ''
     function: 1-------
-    status: RQ
-    date: '9501'
+    status: AA
+    date: '2001'
     iata: ''
-    coordinates: ''
-    remarks: ''
--
-    ch: ''
-    locode: 'UA KGO'
-    name: Kirovograd
-    namewodiacritics: Kirovograd
-    subdiv: ''
-    function: '---4----'
-    status: AI
-    date: '0001'
-    iata: ''
-    coordinates: ''
+    coordinates: '4526N 02916E'
     remarks: ''
 -
     ch: ''
@@ -1110,12 +1218,12 @@
     subdiv: '35'
     function: '--3-----'
     status: RL
-    date: '0901'
+    date: '1707'
     iata: ''
-    coordinates: '4830N 32157E'
+    coordinates: '4830N 03216E'
     remarks: ''
 -
-    ch: +
+    ch: ''
     locode: 'UA KOL'
     name: Kolomyia
     namewodiacritics: Kolomyia
@@ -1125,18 +1233,6 @@
     date: '1307'
     iata: ''
     coordinates: '4831N 02502E'
-    remarks: ''
--
-    ch: ''
-    locode: 'UA KOM'
-    name: Komsomolsk
-    namewodiacritics: Komsomolsk
-    subdiv: '53'
-    function: '-23-----'
-    status: RL
-    date: '1201'
-    iata: ''
-    coordinates: '4900N 03338E'
     remarks: ''
 -
     ch: ''
@@ -1167,12 +1263,24 @@
     locode: 'UA KON'
     name: Konstantinovka
     namewodiacritics: Konstantinovka
-    subdiv: ''
+    subdiv: '14'
     function: '--3-----'
     status: RL
-    date: '0901'
+    date: '1707'
     iata: ''
-    coordinates: '4722N 32170E'
+    coordinates: '4832N 03743E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'UA KPO'
+    name: Kopylov
+    namewodiacritics: Kopylov
+    subdiv: '32'
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '5024N 02953E'
     remarks: ''
 -
     ch: ''
@@ -1215,12 +1323,24 @@
     locode: 'UA ZUT'
     name: 'Korsun Shevchenkivskyy'
     namewodiacritics: 'Korsun Shevchenkivskyy'
-    subdiv: '71'
+    subdiv: TW
     function: '-----6--'
     status: RL
     date: '0901'
     iata: ''
     coordinates: '4926N 03115E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'UA KKR'
+    name: Koryukivka
+    namewodiacritics: Koryukivka
+    subdiv: '74'
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '5146N 03216E'
     remarks: ''
 -
     ch: ''
@@ -1233,6 +1353,18 @@
     date: '0407'
     iata: ''
     coordinates: '5113N 02443E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'UA VA5'
+    name: Kozyatyn
+    namewodiacritics: Kozyatyn
+    subdiv: '05'
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '4943N 02850E'
     remarks: ''
 -
     ch: ''
@@ -1344,6 +1476,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'UA KGO'
+    name: Kropyvnytskyi
+    namewodiacritics: Kropyvnytskyi
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '1701'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
     locode: 'UA KUL'
     name: Kulinichi
     namewodiacritics: Kulinichi
@@ -1368,15 +1512,39 @@
     remarks: ''
 -
     ch: ''
+    locode: 'UA IEV'
+    name: Kyiv
+    namewodiacritics: Kyiv
+    subdiv: '30'
+    function: '-2-45---'
+    status: AI
+    date: '2007'
+    iata: ''
+    coordinates: '5027N 03032E'
+    remarks: ''
+-
+    ch: +
+    locode: 'UA LZH'
+    name: Ladyzhyn
+    namewodiacritics: Ladyzhyn
+    subdiv: '05'
+    function: '--3-----'
+    status: AM
+    date: '2201'
+    iata: ''
+    coordinates: '4840N 02915E'
+    remarks: ''
+-
+    ch: ''
     locode: 'UA ISI'
     name: Lisichansk
     namewodiacritics: Lisichansk
-    subdiv: ''
-    function: '-----6--'
-    status: RQ
-    date: '1001'
+    subdiv: '09'
+    function: '--3-----'
+    status: RL
+    date: '1707'
     iata: ''
-    coordinates: '4855N 38420E'
+    coordinates: '4855N 03824E'
     remarks: ''
 -
     ch: ''
@@ -1416,6 +1584,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'UA LVV'
+    name: 'L''Viv'
+    namewodiacritics: 'L''Viv'
+    subdiv: '46'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4950N 02400E'
+    remarks: ''
+-
+    ch: ''
     locode: 'UA LWO'
     name: 'L''viv'
     namewodiacritics: 'L''viv'
@@ -1437,6 +1617,18 @@
     date: '9806'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'UA MAK'
+    name: Makeyevka
+    namewodiacritics: Makeyevka
+    subdiv: '14'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '4802N 03753E'
     remarks: ''
 -
     ch: ''
@@ -1477,15 +1669,15 @@
 -
     ch: ''
     locode: 'UA MPW'
-    name: 'Mariupol (ex Zhdanov)'
-    namewodiacritics: 'Mariupol (ex Zhdanov)'
+    name: Mariupol
+    namewodiacritics: Mariupol
     subdiv: '14'
     function: 1--4----
-    status: RL
-    date: '0212'
+    status: AA
+    date: '2001'
     iata: ''
-    coordinates: '4706N 03733E'
-    remarks: 'ex RU ZHD'
+    coordinates: '4703N 03730E'
+    remarks: 'ex RU ZHDex Zhdanov (UA ZHD)'
 -
     ch: ''
     locode: 'UA MAR'
@@ -1501,14 +1693,26 @@
 -
     ch: ''
     locode: 'UA MAS'
-    name: Massandra
-    namewodiacritics: Massandra
+    name: Masandra
+    namewodiacritics: Masandra
     subdiv: '43'
-    function: 1----6--
-    status: RL
-    date: '1201'
+    function: 0-------
+    status: AA
+    date: '2001'
     iata: ''
     coordinates: '4431N 03411E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'UA ZZO'
+    name: 'Melitopol'''
+    namewodiacritics: 'Melitopol'''
+    subdiv: '23'
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '4650N 03522E'
     remarks: ''
 -
     ch: ''
@@ -1571,17 +1775,17 @@
     coordinates: '4827N 02243E'
     remarks: ''
 -
-    ch: '#'
+    ch: ''
     locode: 'UA NLV'
-    name: Mykolayiv
-    namewodiacritics: Mykolayiv
+    name: Mykolaiv
+    namewodiacritics: Mykolaiv
     subdiv: '48'
     function: 1-34----
-    status: AI
-    date: '1307'
+    status: AA
+    date: '1707'
     iata: ''
-    coordinates: '4658N 03200E'
-    remarks: '@Fun@Sub@Coo'
+    coordinates: '4656N 03200E'
+    remarks: ''
 -
     ch: ''
     locode: 'UA ZUA'
@@ -1620,6 +1824,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'UA ASD'
+    name: Nalivaykovka
+    namewodiacritics: Nalivaykovka
+    subdiv: '32'
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '5029N 02943E'
+    remarks: ''
+-
+    ch: ''
     locode: 'UA ZUW'
     name: Nemirov
     namewodiacritics: Nemirov
@@ -1630,18 +1846,6 @@
     iata: ''
     coordinates: '4858N 02851E'
     remarks: ''
--
-    ch: X
-    locode: 'UA NIK'
-    name: Nikolayev
-    namewodiacritics: Nikolayev
-    subdiv: ''
-    function: 1-------
-    status: XX
-    date: '1307'
-    iata: ''
-    coordinates: ''
-    remarks: 'Use UA NLV'
 -
     ch: ''
     locode: 'UA POL'
@@ -1683,7 +1887,7 @@
     locode: 'UA ZUR'
     name: 'Nova Kakhovka'
     namewodiacritics: 'Nova Kakhovka'
-    subdiv: '65'
+    subdiv: XJ
     function: '-----6--'
     status: RL
     date: '0901'
@@ -1740,15 +1944,39 @@
     remarks: ''
 -
     ch: ''
-    locode: 'UA ODS'
-    name: Odessa
-    namewodiacritics: Odessa
-    subdiv: ''
-    function: 1234-6--
-    status: AI
-    date: '0701'
+    locode: 'UA OBK'
+    name: Obukhiv
+    namewodiacritics: Obukhiv
+    subdiv: '30'
+    function: '--3-----'
+    status: RL
+    date: '1707'
     iata: ''
-    coordinates: ''
+    coordinates: '5007N 03039E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'UA OCH'
+    name: Ochakiv
+    namewodiacritics: Ochakiv
+    subdiv: '48'
+    function: 1-3--6--
+    status: AM
+    date: '2107'
+    iata: ''
+    coordinates: '4636N 03134E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'UA ODS'
+    name: Odesa
+    namewodiacritics: Odesa
+    subdiv: '51'
+    function: 1234-6--
+    status: AA
+    date: '2007'
+    iata: ''
+    coordinates: '4630N 03045E'
     remarks: ''
 -
     ch: ''
@@ -1764,18 +1992,6 @@
     remarks: ''
 -
     ch: ''
-    locode: 'UA OCT'
-    name: Oktyabrsk
-    namewodiacritics: Oktyabrsk
-    subdiv: '48'
-    function: 123-----
-    status: RQ
-    date: '0407'
-    iata: ''
-    coordinates: '4644N 03156E'
-    remarks: ''
--
-    ch: ''
     locode: 'UA OLK'
     name: Olevsk
     namewodiacritics: Olevsk
@@ -1786,6 +2002,18 @@
     iata: ''
     coordinates: '5131N 02738E'
     remarks: ''
+-
+    ch: ''
+    locode: 'UA OCT'
+    name: Olviia
+    namewodiacritics: Olviia
+    subdiv: '48'
+    function: 123-----
+    status: AA
+    date: '1707'
+    iata: ''
+    coordinates: '4650N 03157E'
+    remarks: 'ex Oktyabrsk'
 -
     ch: ''
     locode: 'UA ZUS'
@@ -1812,15 +2040,39 @@
     remarks: ''
 -
     ch: ''
+    locode: 'UA OKI'
+    name: Orikhiv
+    namewodiacritics: Orikhiv
+    subdiv: '23'
+    function: '-----6--'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '4733N 03547E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'UA ZHI'
+    name: Orzhiv
+    namewodiacritics: Orzhiv
+    subdiv: '56'
+    function: '-----6--'
+    status: AA
+    date: '1707'
+    iata: ''
+    coordinates: '5045N 02607E'
+    remarks: ''
+-
+    ch: ''
     locode: 'UA OVI'
     name: Ovidiopol
     namewodiacritics: Ovidiopol
     subdiv: '51'
     function: '--3-----'
     status: RL
-    date: '0901'
+    date: '1707'
     iata: ''
-    coordinates: '4616N 30260E'
+    coordinates: '4614N 03026E'
     remarks: ''
 -
     ch: ''
@@ -1893,6 +2145,18 @@
     date: '1107'
     iata: ''
     coordinates: '4952N 03604E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'UA YUZ'
+    name: Pivdennyi
+    namewodiacritics: Pivdennyi
+    subdiv: '51'
+    function: 1-------
+    status: AA
+    date: '2001'
+    iata: ''
+    coordinates: '4636N 03101E'
     remarks: ''
 -
     ch: ''
@@ -2015,6 +2279,18 @@
     coordinates: '5011N 02841E'
     remarks: ''
 -
+    ch: +
+    locode: 'UA PKL'
+    name: Prykolotne
+    namewodiacritics: Prykolotne
+    subdiv: '63'
+    function: '--3-----'
+    status: AM
+    date: '2201'
+    iata: ''
+    coordinates: '5010N 03721E'
+    remarks: ''
+-
     ch: ''
     locode: 'UA PLK'
     name: Pryluky
@@ -2040,6 +2316,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'UA LOR'
+    name: Radekhiv
+    namewodiacritics: Radekhiv
+    subdiv: '46'
+    function: '-----6--'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '5016N 02438E'
+    remarks: ''
+-
+    ch: ''
     locode: 'UA RAD'
     name: Radisne
     namewodiacritics: Radisne
@@ -2051,7 +2339,7 @@
     coordinates: '4701N 03022E'
     remarks: ''
 -
-    ch: +
+    ch: ''
     locode: 'UA RAF'
     name: Rafalivka
     namewodiacritics: Rafalivka
@@ -2079,12 +2367,12 @@
     locode: 'UA RNI'
     name: Reni
     namewodiacritics: Reni
-    subdiv: ''
+    subdiv: '51'
     function: 12------
-    status: AI
-    date: '9501'
+    status: AA
+    date: '1707'
     iata: ''
-    coordinates: ''
+    coordinates: '4525N 02817E'
     remarks: ''
 -
     ch: ''
@@ -2094,21 +2382,9 @@
     subdiv: '74'
     function: '-----6--'
     status: RL
-    date: '0901'
+    date: '1707'
     iata: ''
-    coordinates: '5148N 31600E'
-    remarks: ''
--
-    ch: ''
-    locode: 'UA XXX'
-    name: 'RIS Inland waterways'
-    namewodiacritics: 'RIS Inland waterways'
-    subdiv: ''
-    function: 1-------
-    status: AI
-    date: '1101'
-    iata: ''
-    coordinates: ''
+    coordinates: '5148N 03105E'
     remarks: ''
 -
     ch: ''
@@ -2116,9 +2392,9 @@
     name: Rivne
     namewodiacritics: Rivne
     subdiv: '56'
-    function: 1----6--
-    status: RQ
-    date: '1001'
+    function: '-----6--'
+    status: AA
+    date: '1707'
     iata: ''
     coordinates: '5037N 02615E'
     remarks: ''
@@ -2176,11 +2452,11 @@
     name: Sevastopol
     namewodiacritics: Sevastopol
     subdiv: '40'
-    function: 1-------
-    status: RL
-    date: '0212'
+    function: 0-------
+    status: AA
+    date: '2001'
     iata: ''
-    coordinates: '4436N 03332E'
+    coordinates: '4437N 03331E'
     remarks: ''
 -
     ch: ''
@@ -2220,13 +2496,25 @@
     remarks: ''
 -
     ch: ''
+    locode: 'UA MKS'
+    name: 'Shman''kovchyki'
+    namewodiacritics: 'Shman''kovchyki'
+    subdiv: '61'
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '4858N 02554E'
+    remarks: ''
+-
+    ch: ''
     locode: 'UA TKK'
     name: Shostka
     namewodiacritics: Shostka
     subdiv: '59'
-    function: 123-----
-    status: RL
-    date: '0901'
+    function: '-23-----'
+    status: AA
+    date: '1707'
     iata: ''
     coordinates: '5151N 03329E'
     remarks: ''
@@ -2249,10 +2537,22 @@
     namewodiacritics: Skadovsk
     subdiv: '65'
     function: 1-3-----
-    status: RL
-    date: '0401'
+    status: AA
+    date: '1707'
     iata: ''
-    coordinates: '4607N 03255E'
+    coordinates: '4606N 03254E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'UA SPA'
+    name: 'Skala-Podil''s''Ka'
+    namewodiacritics: 'Skala-Podil''s''Ka'
+    subdiv: '61'
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '4851N 02612E'
     remarks: ''
 -
     ch: ''
@@ -2340,6 +2640,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'UA SCY'
+    name: Stavchany
+    namewodiacritics: Stavchany
+    subdiv: '46'
+    function: '--3-----'
+    status: AM
+    date: '2101'
+    iata: ''
+    coordinates: '4946N 02350E'
+    remarks: ''
+-
+    ch: ''
     locode: 'UA UMY'
     name: Sumy
     namewodiacritics: Sumy
@@ -2356,9 +2668,9 @@
     name: Susly
     namewodiacritics: Susly
     subdiv: '18'
-    function: 1-3-----
-    status: RL
-    date: '0501'
+    function: '--3-----'
+    status: AA
+    date: '1707'
     iata: ''
     coordinates: '5033N 02737E'
     remarks: ''
@@ -2376,25 +2688,13 @@
     remarks: ''
 -
     ch: ''
-    locode: 'UA SVK'
-    name: 'Sverdlovs''k'
-    namewodiacritics: 'Sverdlovs''k'
-    subdiv: '09'
-    function: '-23-----'
-    status: RL
-    date: '0901'
-    iata: ''
-    coordinates: '4804N 03939E'
-    remarks: ''
--
-    ch: ''
     locode: 'UA DSK'
-    name: Svetlovodsk
-    namewodiacritics: Svetlovodsk
+    name: Svitlovodsk
+    namewodiacritics: Svitlovodsk
     subdiv: '35'
     function: 1-3-----
-    status: RL
-    date: '0901'
+    status: AA
+    date: '2001'
     iata: ''
     coordinates: '4903N 03314E'
     remarks: ''
@@ -2418,9 +2718,21 @@
     subdiv: '71'
     function: '--3-----'
     status: RL
-    date: '0901'
+    date: '1707'
     iata: ''
-    coordinates: '4853N 30421E'
+    coordinates: '4853N 03042E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'UA TKV'
+    name: Tankovoye
+    namewodiacritics: Tankovoye
+    subdiv: '43'
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '4439N 03349E'
     remarks: ''
 -
     ch: ''
@@ -2445,6 +2757,18 @@
     date: '0212'
     iata: ''
     coordinates: '4933N 02535E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'UA TOK'
+    name: Tomilovka
+    namewodiacritics: Tomilovka
+    subdiv: '32'
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '4945N 03016E'
     remarks: ''
 -
     ch: ''
@@ -2478,9 +2802,21 @@
     subdiv: '46'
     function: '--3-----'
     status: RL
-    date: '0901'
+    date: '1707'
     iata: ''
-    coordinates: '4917N 23300E'
+    coordinates: '4916N 02330E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'UA TSP'
+    name: 'Tsyurupyns''k'
+    namewodiacritics: 'Tsyurupyns''k'
+    subdiv: '65'
+    function: '-23-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '4636N 03242E'
     remarks: ''
 -
     ch: ''
@@ -2493,18 +2829,6 @@
     date: '0407'
     iata: ''
     coordinates: '4801N 02335E'
-    remarks: ''
--
-    ch: ''
-    locode: 'UA UGL'
-    name: Uglegorsk
-    namewodiacritics: Uglegorsk
-    subdiv: ''
-    function: 1-------
-    status: AI
-    date: '9501'
-    iata: ''
-    coordinates: ''
     remarks: ''
 -
     ch: ''
@@ -2535,7 +2859,7 @@
     locode: 'UA ZUV'
     name: Uman
     namewodiacritics: Uman
-    subdiv: '71'
+    subdiv: TW
     function: '-----6--'
     status: RL
     date: '0901'
@@ -2544,27 +2868,15 @@
     remarks: ''
 -
     ch: ''
-    locode: 'UA USD'
-    name: 'Ust Donetskiy'
-    namewodiacritics: 'Ust Donetskiy'
-    subdiv: ''
-    function: 1-------
-    status: AI
-    date: '9501'
-    iata: ''
-    coordinates: ''
-    remarks: ''
--
-    ch: ''
     locode: 'UA UDY'
-    name: 'Ust Dunaysk'
-    namewodiacritics: 'Ust Dunaysk'
-    subdiv: ''
+    name: Ust-Dunaisk/Vylkove
+    namewodiacritics: Ust-Dunaisk/Vylkove
+    subdiv: '51'
     function: 1-------
-    status: RQ
-    date: '9501'
+    status: AA
+    date: '2001'
     iata: ''
-    coordinates: ''
+    coordinates: '4528N 02942E'
     remarks: ''
 -
     ch: ''
@@ -2652,6 +2964,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'UA VIZ'
+    name: Vizirka
+    namewodiacritics: Vizirka
+    subdiv: '51'
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '4641N 03100E'
+    remarks: ''
+-
+    ch: ''
     locode: 'UA VLV'
     name: Vladimir-Volynskiy
     namewodiacritics: Vladimir-Volynskiy
@@ -2682,9 +3006,9 @@
     subdiv: '32'
     function: '--3-----'
     status: RL
-    date: '0901'
+    date: '1707'
     iata: ''
-    coordinates: '5033N 30090E'
+    coordinates: '5033N 03009E'
     remarks: ''
 -
     ch: ''
@@ -2712,6 +3036,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'UA UGL'
+    name: Vuhlehirsk
+    namewodiacritics: Vuhlehirsk
+    subdiv: '14'
+    function: '-23-----'
+    status: AA
+    date: '2001'
+    iata: ''
+    coordinates: '4819N 03817E'
+    remarks: ''
+-
+    ch: ''
     locode: 'UA VYL'
     name: Vylkove
     namewodiacritics: Vylkove
@@ -2728,9 +3064,9 @@
     name: Vyshhorod
     namewodiacritics: Vyshhorod
     subdiv: '32'
-    function: 1-------
-    status: RQ
-    date: '1007'
+    function: '--3-----'
+    status: AA
+    date: '2001'
     iata: ''
     coordinates: '5035N 03030E'
     remarks: ''
@@ -2751,12 +3087,12 @@
     locode: 'UA YAL'
     name: Yalta
     namewodiacritics: Yalta
-    subdiv: ''
-    function: 1-------
-    status: RQ
-    date: '9501'
+    subdiv: '43'
+    function: 0-------
+    status: AA
+    date: '2001'
     iata: ''
-    coordinates: ''
+    coordinates: '4430N 03410E'
     remarks: ''
 -
     ch: ''
@@ -2778,9 +3114,9 @@
     subdiv: '46'
     function: '--3-----'
     status: RL
-    date: '0901'
+    date: '1707'
     iata: ''
-    coordinates: '4956N 23230E'
+    coordinates: '4956N 02323E'
     remarks: ''
 -
     ch: ''
@@ -2833,62 +3169,38 @@
 -
     ch: ''
     locode: 'UA ZKA'
-    name: Yevpatoriya
-    namewodiacritics: Yevpatoriya
+    name: Yevpatoriia
+    namewodiacritics: Yevpatoriia
     subdiv: '43'
-    function: '-----6--'
-    status: RL
-    date: '0901'
+    function: 0-------
+    status: AA
+    date: '2001'
     iata: ''
-    coordinates: '4511N 03321E'
+    coordinates: '4511N 03322E'
     remarks: ''
 -
     ch: ''
-    locode: 'UA YUZ'
-    name: Yuzhnyy
-    namewodiacritics: Yuzhnyy
-    subdiv: ''
-    function: 1-------
-    status: RQ
-    date: '9501'
+    locode: 'UA YZE'
+    name: Yuzhne
+    namewodiacritics: Yuzhne
+    subdiv: '51'
+    function: '--3-----'
+    status: RL
+    date: '1707'
     iata: ''
-    coordinates: ''
+    coordinates: '4638N 03103E'
     remarks: ''
 -
     ch: ''
     locode: 'UA ZPR'
-    name: Zaporizhia
-    namewodiacritics: Zaporizhia
+    name: Zaporizhzhia
+    namewodiacritics: Zaporizhzhia
     subdiv: '23'
-    function: 1-------
-    status: RQ
-    date: '1007'
+    function: 1--4-6--
+    status: AA
+    date: '2001'
     iata: ''
     coordinates: '4749N 03510E'
-    remarks: ''
--
-    ch: ''
-    locode: 'UA ZAP'
-    name: Zaporizhzhyia
-    namewodiacritics: Zaporizhzhyia
-    subdiv: ''
-    function: '-----6--'
-    status: RQ
-    date: '1001'
-    iata: ''
-    coordinates: '4752N 03518E'
-    remarks: ''
--
-    ch: ''
-    locode: 'UA OZH'
-    name: Zaporozhye
-    namewodiacritics: Zaporozhye
-    subdiv: ''
-    function: '---4----'
-    status: AI
-    date: '0212'
-    iata: ''
-    coordinates: '4819N 03337E'
     remarks: ''
 -
     ch: ''
@@ -2931,7 +3243,7 @@
     locode: 'UA ZKB'
     name: Zhashkiv
     namewodiacritics: Zhashkiv
-    subdiv: '71'
+    subdiv: TW
     function: '-----6--'
     status: RL
     date: '0901'
@@ -2941,8 +3253,8 @@
 -
     ch: '='
     locode: UA
-    name: 'Zhdanov = Mariupol (ex Zhdanov)'
-    namewodiacritics: 'Zhdanov = Mariupol (ex Zhdanov)'
+    name: 'Zhdanov = Mariupol'
+    namewodiacritics: 'Zhdanov = Mariupol'
     subdiv: ''
     function: ''
     status: ''
@@ -2967,12 +3279,12 @@
     locode: 'UA ZHO'
     name: Zhovkva
     namewodiacritics: Zhovkva
-    subdiv: ''
+    subdiv: '46'
     function: '--3-----'
     status: RL
-    date: '0901'
+    date: '1707'
     iata: ''
-    coordinates: '5040N 23580E'
+    coordinates: '5004N 02358E'
     remarks: ''
 -
     ch: ''
@@ -3003,7 +3315,7 @@
     locode: 'UA ZKD'
     name: Zolotonosha
     namewodiacritics: Zolotonosha
-    subdiv: '71'
+    subdiv: TW
     function: '-----6--'
     status: RL
     date: '0901'

@@ -12,6 +12,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'JP AKC'
+    name: Abiko
+    namewodiacritics: Abiko
+    subdiv: '12'
+    function: '-----6--'
+    status: AF
+    date: '1501'
+    iata: ''
+    coordinates: '3552N 14002E'
+    remarks: ''
+-
+    ch: ''
     locode: 'JP ABS'
     name: Abohshita
     namewodiacritics: Abohshita
@@ -60,6 +72,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'JP ADA'
+    name: Adachi
+    namewodiacritics: Adachi
+    subdiv: '13'
+    function: '-23-----'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '3547N 13948E'
+    remarks: ''
+-
+    ch: ''
     locode: 'JP ADE'
     name: Ade
     namewodiacritics: Ade
@@ -81,6 +105,30 @@
     date: '9907'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'JP AGA'
+    name: 'Aga Niigata'
+    namewodiacritics: 'Aga Niigata'
+    subdiv: '15'
+    function: '-----6--'
+    status: AF
+    date: '1701'
+    iata: ''
+    coordinates: '3750N 13913E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'JP AG2'
+    name: Agano
+    namewodiacritics: Agano
+    subdiv: '15'
+    function: '--3--6--'
+    status: AM
+    date: '2101'
+    iata: ''
+    coordinates: '3750N 13913E'
     remarks: ''
 -
     ch: ''
@@ -141,6 +189,18 @@
     date: '9907'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'JP AGC'
+    name: 'Agui Aichi'
+    namewodiacritics: 'Agui Aichi'
+    subdiv: '23'
+    function: '-----6--'
+    status: AF
+    date: '1701'
+    iata: ''
+    coordinates: '3456N 13654E'
     remarks: ''
 -
     ch: ''
@@ -264,6 +324,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'JP AIS'
+    name: Aisai
+    namewodiacritics: Aisai
+    subdiv: '23'
+    function: '-----6--'
+    status: RQ
+    date: '1601'
+    iata: ''
+    coordinates: '3510N 13641E'
+    remarks: ''
+-
+    ch: ''
     locode: 'JP AIM'
     name: Aishima
     namewodiacritics: Aishima
@@ -285,6 +357,30 @@
     date: '9907'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'JP AHF'
+    name: 'Aizubange, Fukushima'
+    namewodiacritics: 'Aizubange, Fukushima'
+    subdiv: '07'
+    function: '-----6--'
+    status: AF
+    date: '1601'
+    iata: ''
+    coordinates: '3739N 13949E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'JP ZIS'
+    name: 'Aizumisato, Fukushima'
+    namewodiacritics: 'Aizumisato, Fukushima'
+    subdiv: '07'
+    function: '-----6--'
+    status: AF
+    date: '1601'
+    iata: ''
+    coordinates: '3727N 13950E'
     remarks: ''
 -
     ch: ''
@@ -492,6 +588,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'JP KFK'
+    name: 'Aki, Kochi'
+    namewodiacritics: 'Aki, Kochi'
+    subdiv: '39'
+    function: '-----6--'
+    status: AF
+    date: '1601'
+    iata: ''
+    coordinates: '3330N 13354E'
+    remarks: ''
+-
+    ch: ''
     locode: 'JP AIG'
     name: Aki-gun/Hiroshima
     namewodiacritics: Aki-gun/Hiroshima
@@ -501,6 +609,18 @@
     date: '1101'
     iata: ''
     coordinates: '3420N 13232E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'JP MAA'
+    name: Akishima
+    namewodiacritics: Akishima
+    subdiv: '13'
+    function: '--3-----'
+    status: AF
+    date: '1407'
+    iata: ''
+    coordinates: '3542N 13921E'
     remarks: ''
 -
     ch: ''
@@ -792,6 +912,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'JP ANK'
+    name: Annaka
+    namewodiacritics: Annaka
+    subdiv: '10'
+    function: '--3--6--'
+    status: AA
+    date: '2107'
+    iata: ''
+    coordinates: '3619N 13854E'
+    remarks: ''
+-
+    ch: ''
     locode: 'JP AOE'
     name: Aoe
     namewodiacritics: Aoe
@@ -837,6 +969,18 @@
     date: '9907'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'JP AZI'
+    name: 'Aoki, Nagano'
+    namewodiacritics: 'Aoki, Nagano'
+    subdiv: '20'
+    function: '-----6--'
+    status: AF
+    date: '1501'
+    iata: ''
+    coordinates: '3622N 13808E'
     remarks: ''
 -
     ch: ''
@@ -888,6 +1032,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'JP SJK'
+    name: Arajuku
+    namewodiacritics: Arajuku
+    subdiv: '11'
+    function: '-----6--'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3611N 13904E'
+    remarks: ''
+-
+    ch: ''
     locode: 'JP ARO'
     name: Arao
     namewodiacritics: Arao
@@ -909,6 +1065,18 @@
     date: '9907'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'JP ARI'
+    name: 'Ariake, Tokyo'
+    namewodiacritics: 'Ariake, Tokyo'
+    subdiv: '13'
+    function: 1-3-----
+    status: AF
+    date: '1601'
+    iata: ''
+    coordinates: '3538N 13947E'
     remarks: ''
 -
     ch: ''
@@ -960,6 +1128,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'JP ASO'
+    name: Asago
+    namewodiacritics: Asago
+    subdiv: '28'
+    function: '-----6--'
+    status: AF
+    date: '1501'
+    iata: ''
+    coordinates: '3520N 13451E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'JP AHI'
+    name: 'Asahi, Mie'
+    namewodiacritics: 'Asahi, Mie'
+    subdiv: '24'
+    function: '--3-----'
+    status: AF
+    date: '1501'
+    iata: ''
+    coordinates: '3502N 13640E'
+    remarks: ''
+-
+    ch: ''
     locode: 'JP AKJ'
     name: Asahikawa
     namewodiacritics: Asahikawa
@@ -1005,6 +1197,30 @@
     date: '9907'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'JP AUI'
+    name: Asakuchi
+    namewodiacritics: Asakuchi
+    subdiv: '33'
+    function: 1----6--
+    status: AF
+    date: '1501'
+    iata: ''
+    coordinates: '3431N 13335E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'JP ARJ'
+    name: 'Asakura, Fukuoka'
+    namewodiacritics: 'Asakura, Fukuoka'
+    subdiv: '40'
+    function: '-----6--'
+    status: AF
+    date: '1601'
+    iata: ''
+    coordinates: '3325N 13040E'
     remarks: ''
 -
     ch: ''
@@ -1092,6 +1308,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'JP ASS'
+    name: 'Ashiya, Hyogo'
+    namewodiacritics: 'Ashiya, Hyogo'
+    subdiv: '28'
+    function: '-----6--'
+    status: AF
+    date: '1501'
+    iata: ''
+    coordinates: '3444N 13519E'
+    remarks: ''
+-
+    ch: ''
     locode: 'JP ASR'
     name: Ashizuri
     namewodiacritics: Ashizuri
@@ -1101,6 +1329,18 @@
     date: '9907'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'JP ASC'
+    name: Aso
+    namewodiacritics: Aso
+    subdiv: '43'
+    function: '-----6--'
+    status: AF
+    date: '1907'
+    iata: ''
+    coordinates: '3256N 13107E'
     remarks: ''
 -
     ch: ''
@@ -1188,6 +1428,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'JP AWJ'
+    name: Awaji
+    namewodiacritics: Awaji
+    subdiv: '28'
+    function: '--3-----'
+    status: AF
+    date: '1407'
+    iata: ''
+    coordinates: '3426N 13455E'
+    remarks: ''
+-
+    ch: ''
     locode: 'JP TBS'
     name: Awajikoryunotsubasa
     namewodiacritics: Awajikoryunotsubasa
@@ -1209,6 +1461,18 @@
     date: '9907'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'JP AWR'
+    name: Awara
+    namewodiacritics: Awara
+    subdiv: '30'
+    function: '-2---6--'
+    status: AF
+    date: '1901'
+    iata: ''
+    coordinates: '3613N 13615E'
     remarks: ''
 -
     ch: ''
@@ -1245,6 +1509,18 @@
     date: '9907'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'JP AYW'
+    name: Ayagawa
+    namewodiacritics: Ayagawa
+    subdiv: '37'
+    function: '-----6--'
+    status: RQ
+    date: '1601'
+    iata: ''
+    coordinates: '3425N 13355E'
     remarks: ''
 -
     ch: ''
@@ -1293,6 +1569,30 @@
     date: '9907'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'JP FHB'
+    name: 'Bandai, Fukushima'
+    namewodiacritics: 'Bandai, Fukushima'
+    subdiv: '07'
+    function: '-----6--'
+    status: AF
+    date: '1601'
+    iata: ''
+    coordinates: '3733N 13959E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'JP BAN'
+    name: 'Bando, Ibaraki'
+    namewodiacritics: 'Bando, Ibaraki'
+    subdiv: '08'
+    function: '--3--6--'
+    status: AF
+    date: '1601'
+    iata: ''
+    coordinates: '3602N 13953E'
     remarks: ''
 -
     ch: ''
@@ -1356,6 +1656,42 @@
     remarks: ''
 -
     ch: ''
+    locode: 'JP BUD'
+    name: Bungotakada
+    namewodiacritics: Bungotakada
+    subdiv: '44'
+    function: '-----6--'
+    status: AF
+    date: '1801'
+    iata: ''
+    coordinates: '3333N 13127E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'JP BUK'
+    name: Bunkyo-Ku
+    namewodiacritics: Bunkyo-Ku
+    subdiv: '13'
+    function: '--3-----'
+    status: AA
+    date: '2007'
+    iata: ''
+    coordinates: '3543N 13945E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'JP BZN'
+    name: Buzen
+    namewodiacritics: Buzen
+    subdiv: '40'
+    function: '--3--6--'
+    status: AF
+    date: '1901'
+    iata: ''
+    coordinates: '3337N 13108E'
+    remarks: ''
+-
+    ch: ''
     locode: 'JP BYO'
     name: Byobu
     namewodiacritics: Byobu
@@ -1365,6 +1701,18 @@
     date: '9907'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'JP CWN'
+    name: Chatan
+    namewodiacritics: Chatan
+    subdiv: '47'
+    function: '-----6--'
+    status: RQ
+    date: '1601'
+    iata: ''
+    coordinates: '2618N 12746E'
     remarks: ''
 -
     ch: ''
@@ -1379,7 +1727,7 @@
     coordinates: ''
     remarks: ''
 -
-    ch: +
+    ch: ''
     locode: 'JP CHC'
     name: Chichibu
     namewodiacritics: Chichibu
@@ -1440,6 +1788,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'JP KUO'
+    name: 'Chikugo, Fukuoka'
+    namewodiacritics: 'Chikugo, Fukuoka'
+    subdiv: '40'
+    function: '-----6--'
+    status: AF
+    date: '1601'
+    iata: ''
+    coordinates: '3312N 13030E'
+    remarks: ''
+-
+    ch: ''
     locode: 'JP CKM'
     name: Chikumi
     namewodiacritics: Chikumi
@@ -1449,6 +1809,30 @@
     date: '9907'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'JP CHE'
+    name: Chikusei
+    namewodiacritics: Chikusei
+    subdiv: '08'
+    function: '-----6--'
+    status: AF
+    date: '1501'
+    iata: ''
+    coordinates: '3618N 13959E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'JP CKZ'
+    name: 'Chikuzen, Fukuoka'
+    namewodiacritics: 'Chikuzen, Fukuoka'
+    subdiv: '40'
+    function: '-----6--'
+    status: AF
+    date: '1607'
+    iata: ''
+    coordinates: '3327N 13036E'
     remarks: ''
 -
     ch: ''
@@ -1488,6 +1872,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'JP CNO'
+    name: Chino
+    namewodiacritics: Chino
+    subdiv: '20'
+    function: '-----6--'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '3559N 13809E'
+    remarks: ''
+-
+    ch: ''
     locode: 'JP CIO'
     name: Chio
     namewodiacritics: Chio
@@ -1500,6 +1896,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'JP CYU'
+    name: Chiryu
+    namewodiacritics: Chiryu
+    subdiv: '23'
+    function: 1----6--
+    status: AA
+    date: '2007'
+    iata: ''
+    coordinates: '3500N 13703E'
+    remarks: ''
+-
+    ch: ''
     locode: 'JP CTA'
     name: Chita
     namewodiacritics: Chita
@@ -1509,6 +1917,18 @@
     date: '9907'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'JP CKK'
+    name: Chitose
+    namewodiacritics: Chitose
+    subdiv: '01'
+    function: '--3-----'
+    status: AF
+    date: '1407'
+    iata: ''
+    coordinates: '4249N 14139E'
     remarks: ''
 -
     ch: ''
@@ -1572,6 +1992,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'JP CCF'
+    name: Chofu
+    namewodiacritics: Chofu
+    subdiv: '13'
+    function: '-----6--'
+    status: AF
+    date: '1501'
+    iata: ''
+    coordinates: '3539N 13933E'
+    remarks: ''
+-
+    ch: ''
     locode: 'JP CHF'
     name: Chofu
     namewodiacritics: Chofu
@@ -1593,6 +2025,18 @@
     date: '9907'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'JP CZO'
+    name: Chuo
+    namewodiacritics: Chuo
+    subdiv: '19'
+    function: '--3-----'
+    status: AF
+    date: '1907'
+    iata: ''
+    coordinates: '3535N 13838E'
     remarks: ''
 -
     ch: ''
@@ -1632,6 +2076,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'JP DSE'
+    name: Daisen
+    namewodiacritics: Daisen
+    subdiv: '05'
+    function: '--3-----'
+    status: AF
+    date: '1407'
+    iata: ''
+    coordinates: '3927N 14029E'
+    remarks: ''
+-
+    ch: ''
     locode: 'JP DTU'
     name: Daito
     namewodiacritics: Daito
@@ -1641,6 +2097,18 @@
     date: '9907'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'JP DIT'
+    name: 'Daito, Osaka'
+    namewodiacritics: 'Daito, Osaka'
+    subdiv: '27'
+    function: '-----6--'
+    status: AF
+    date: '1601'
+    iata: ''
+    coordinates: '3442N 13537E'
     remarks: ''
 -
     ch: ''
@@ -1691,7 +2159,7 @@
     coordinates: ''
     remarks: ''
 -
-    ch: +
+    ch: ''
     locode: 'JP BIN'
     name: 'Ebina-Shi Kanagawa'
     namewodiacritics: 'Ebina-Shi Kanagawa'
@@ -1704,6 +2172,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'JP ENB'
+    name: 'Ebino, Miyazaki'
+    namewodiacritics: 'Ebino, Miyazaki'
+    subdiv: '45'
+    function: '-----6--'
+    status: AF
+    date: '1601'
+    iata: ''
+    coordinates: '3202N 13049E'
+    remarks: ''
+-
+    ch: ''
     locode: 'JP EBI'
     name: Ebito
     namewodiacritics: Ebito
@@ -1713,6 +2193,18 @@
     date: '9907'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'JP ECZ'
+    name: Echizen
+    namewodiacritics: Echizen
+    subdiv: '18'
+    function: '--3-----'
+    status: AF
+    date: '1407'
+    iata: ''
+    coordinates: '3554N 13610E'
     remarks: ''
 -
     ch: ''
@@ -1764,6 +2256,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'JP JHE'
+    name: Eiheiji
+    namewodiacritics: Eiheiji
+    subdiv: '18'
+    function: '-----6--'
+    status: AF
+    date: '1501'
+    iata: ''
+    coordinates: '3606N 13620E'
+    remarks: ''
+-
+    ch: ''
     locode: 'JP EIS'
     name: Eishi
     namewodiacritics: Eishi
@@ -1812,6 +2316,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'JP ENG'
+    name: Ena
+    namewodiacritics: Ena
+    subdiv: '21'
+    function: '-----6--'
+    status: AF
+    date: '1801'
+    iata: ''
+    coordinates: '3527N 13725E'
+    remarks: ''
+-
+    ch: ''
     locode: 'JP ENA'
     name: Ena
     namewodiacritics: Ena
@@ -1821,6 +2337,18 @@
     date: '9907'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'JP EIN'
+    name: Eniwa
+    namewodiacritics: Eniwa
+    subdiv: '01'
+    function: '--3-----'
+    status: AF
+    date: '1907'
+    iata: ''
+    coordinates: '4253N 14134E'
     remarks: ''
 -
     ch: ''
@@ -1992,6 +2520,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'JP UKU'
+    name: Fuefuki
+    namewodiacritics: Fuefuki
+    subdiv: '19'
+    function: '--3-----'
+    status: AF
+    date: '1407'
+    iata: ''
+    coordinates: '3539N 13838E'
+    remarks: ''
+-
+    ch: ''
     locode: 'JP FGS'
     name: Fugusaki
     namewodiacritics: Fugusaki
@@ -2025,6 +2565,18 @@
     date: '0901'
     iata: ''
     coordinates: '3453N 13814E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'JP FUD'
+    name: Fujiidera
+    namewodiacritics: Fujiidera
+    subdiv: '27'
+    function: '-----6--'
+    status: AF
+    date: '1501'
+    iata: ''
+    coordinates: '3434N 13536E'
     remarks: ''
 -
     ch: ''
@@ -2097,6 +2649,18 @@
     date: '9907'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'JP FKG'
+    name: Fukagawa
+    namewodiacritics: Fukagawa
+    subdiv: '13'
+    function: '-----6--'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '3541N 13948W'
     remarks: ''
 -
     ch: ''
@@ -2700,6 +3264,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'JP FSS'
+    name: Fussa
+    namewodiacritics: Fussa
+    subdiv: '13'
+    function: '-----6--'
+    status: RQ
+    date: '1601'
+    iata: ''
+    coordinates: '3544N 13919E'
+    remarks: ''
+-
+    ch: ''
     locode: 'JP FTE'
     name: Futae
     namewodiacritics: Futae
@@ -2856,6 +3432,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'JP GGG'
+    name: 'Gero, Gifu'
+    namewodiacritics: 'Gero, Gifu'
+    subdiv: '21'
+    function: '-----6--'
+    status: AF
+    date: '1601'
+    iata: ''
+    coordinates: '3548N 13715E'
+    remarks: ''
+-
+    ch: ''
     locode: 'JP GIF'
     name: Gifu
     namewodiacritics: Gifu
@@ -2877,6 +3465,18 @@
     date: '9907'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'JP GOO'
+    name: 'Gobo Wakayama'
+    namewodiacritics: 'Gobo Wakayama'
+    subdiv: '30'
+    function: 1----6--
+    status: AF
+    date: '1701'
+    iata: ''
+    coordinates: '3353N 13509E'
     remarks: ''
 -
     ch: ''
@@ -2952,6 +3552,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'JP GSE'
+    name: Gose
+    namewodiacritics: Gose
+    subdiv: '29'
+    function: '-----6--'
+    status: RQ
+    date: '1601'
+    iata: ''
+    coordinates: '3427N 13544E'
+    remarks: ''
+-
+    ch: ''
     locode: 'JP GOS'
     name: Gosen
     namewodiacritics: Gosen
@@ -3024,6 +3636,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'JP HAZ'
+    name: Habikino
+    namewodiacritics: Habikino
+    subdiv: '27'
+    function: '-----6--'
+    status: AF
+    date: '1501'
+    iata: ''
+    coordinates: '3433N 13536E'
+    remarks: ''
+-
+    ch: ''
     locode: 'JP HBO'
     name: Haboro
     namewodiacritics: Haboro
@@ -3093,6 +3717,18 @@
     date: '9907'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'JP HTI'
+    name: Hachimantai
+    namewodiacritics: Hachimantai
+    subdiv: '03'
+    function: '--3--6--'
+    status: AA
+    date: '2007'
+    iata: ''
+    coordinates: '3957N 14140E'
     remarks: ''
 -
     ch: ''
@@ -3240,6 +3876,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'JP JPK'
+    name: 'Hakuba Mura'
+    namewodiacritics: 'Hakuba Mura'
+    subdiv: '20'
+    function: '--3-----'
+    status: AF
+    date: '1801'
+    iata: ''
+    coordinates: '3641N 13750E'
+    remarks: ''
+-
+    ch: ''
     locode: 'JP UIA'
     name: Hakui
     namewodiacritics: Hakui
@@ -3249,6 +3897,18 @@
     date: '9907'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'JP HAK'
+    name: Hakusan
+    namewodiacritics: Hakusan
+    subdiv: '17'
+    function: '--3-----'
+    status: AF
+    date: '1407'
+    iata: ''
+    coordinates: '3631N 13634E'
     remarks: ''
 -
     ch: ''
@@ -3444,6 +4104,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'JP HMR'
+    name: Hamura
+    namewodiacritics: Hamura
+    subdiv: '13'
+    function: 1-------
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '3546N 13918E'
+    remarks: ''
+-
+    ch: ''
     locode: 'JP HNA'
     name: Hanamaki
     namewodiacritics: Hanamaki
@@ -3513,6 +4185,18 @@
     date: '9907'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'JP HNC'
+    name: 'Hanno Saitama'
+    namewodiacritics: 'Hanno Saitama'
+    subdiv: '11'
+    function: '-----6--'
+    status: AF
+    date: '1701'
+    iata: ''
+    coordinates: '3551N 13919E'
     remarks: ''
 -
     ch: ''
@@ -3624,6 +4308,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'JP HSA'
+    name: Hasuda
+    namewodiacritics: Hasuda
+    subdiv: '11'
+    function: '-----6--'
+    status: AF
+    date: '1501'
+    iata: ''
+    coordinates: '3600N 13940E'
+    remarks: ''
+-
+    ch: ''
     locode: 'JP HTT'
     name: Hata
     namewodiacritics: Hata
@@ -3669,6 +4365,18 @@
     date: '0401'
     iata: ''
     coordinates: '2428N 12346E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'JP YYT'
+    name: Hatoyama
+    namewodiacritics: Hatoyama
+    subdiv: '11'
+    function: '-----6--'
+    status: AF
+    date: '1501'
+    iata: ''
+    coordinates: '3559N 13920E'
     remarks: ''
 -
     ch: ''
@@ -3804,6 +4512,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'JP HIY'
+    name: Hiagashiyamato
+    namewodiacritics: Hiagashiyamato
+    subdiv: '13'
+    function: '--3--6--'
+    status: AM
+    date: '2101'
+    iata: ''
+    coordinates: '3544N 13925E'
+    remarks: ''
+-
+    ch: ''
     locode: 'JP HIB'
     name: Hibi
     namewodiacritics: Hibi
@@ -3852,6 +4572,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'JP HFF'
+    name: 'Hida, Oita'
+    namewodiacritics: 'Hida, Oita'
+    subdiv: '44'
+    function: '-----6--'
+    status: AF
+    date: '1601'
+    iata: ''
+    coordinates: '3319N 13056E'
+    remarks: ''
+-
+    ch: ''
     locode: 'JP HDK'
     name: Hidaka
     namewodiacritics: Hidaka
@@ -3885,6 +4617,18 @@
     date: '9907'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'JP HGR'
+    name: Higashihiroshima
+    namewodiacritics: Higashihiroshima
+    subdiv: '34'
+    function: '--3-----'
+    status: AF
+    date: '1407'
+    iata: ''
+    coordinates: '3425N 13244E'
     remarks: ''
 -
     ch: ''
@@ -4005,6 +4749,30 @@
     date: '9907'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'JP HGN'
+    name: 'Higashisonogi-Gun Cho'
+    namewodiacritics: 'Higashisonogi-Gun Cho'
+    subdiv: '42'
+    function: 1----6--
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '3202N 12955E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'JP HHA'
+    name: Higashiura
+    namewodiacritics: Higashiura
+    subdiv: '23'
+    function: '-----6--'
+    status: AF
+    date: '1501'
+    iata: ''
+    coordinates: '3459N 13658E'
     remarks: ''
 -
     ch: ''
@@ -4236,6 +5004,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'JP ZHO'
+    name: 'Hino, Tokyo'
+    namewodiacritics: 'Hino, Tokyo'
+    subdiv: '13'
+    function: '-----6--'
+    status: AF
+    date: '1501'
+    iata: ''
+    coordinates: '3540N 13924E'
+    remarks: ''
+-
+    ch: ''
     locode: 'JP HNS'
     name: Hinoshima
     namewodiacritics: Hinoshima
@@ -4257,6 +5037,18 @@
     date: '9907'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'JP IOK'
+    name: Hioki
+    namewodiacritics: Hioki
+    subdiv: '46'
+    function: '-----6--'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '3135N 13021E'
     remarks: ''
 -
     ch: ''
@@ -4428,6 +5220,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'JP HOA'
+    name: 'Hirosaki, Aomori'
+    namewodiacritics: 'Hirosaki, Aomori'
+    subdiv: '02'
+    function: '--3-----'
+    status: AF
+    date: '1601'
+    iata: ''
+    coordinates: '4035N 14028E'
+    remarks: ''
+-
+    ch: ''
     locode: 'JP HIJ'
     name: Hiroshima
     namewodiacritics: Hiroshima
@@ -4560,6 +5364,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'JP HOM'
+    name: Hitachiomiya
+    namewodiacritics: Hitachiomiya
+    subdiv: '08'
+    function: '--3-----'
+    status: AF
+    date: '1407'
+    iata: ''
+    coordinates: '3635N 14024E'
+    remarks: ''
+-
+    ch: ''
     locode: 'JP HTK'
     name: Hitakatsu
     namewodiacritics: Hitakatsu
@@ -4668,6 +5484,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'JP HOK'
+    name: Hoki
+    namewodiacritics: Hoki
+    subdiv: '31'
+    function: '-----6--'
+    status: AF
+    date: '1501'
+    iata: ''
+    coordinates: '3523N 13324E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'JP HKY'
+    name: Hokuei
+    namewodiacritics: Hokuei
+    subdiv: '31'
+    function: '-----6--'
+    status: AF
+    date: '1501'
+    iata: ''
+    coordinates: '3529N 13346E'
+    remarks: ''
+-
+    ch: ''
     locode: 'JP HKO'
     name: Hokuto
     namewodiacritics: Hokuto
@@ -4677,6 +5517,18 @@
     date: '1301'
     iata: ''
     coordinates: '4151N 14033E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'JP HOO'
+    name: 'Hokuto Hokkaido'
+    namewodiacritics: 'Hokuto Hokkaido'
+    subdiv: '01'
+    function: '-----6--'
+    status: RQ
+    date: '1601'
+    iata: ''
+    coordinates: '4149N 14039E'
     remarks: ''
 -
     ch: ''
@@ -4871,7 +5723,7 @@
     coordinates: ''
     remarks: ''
 -
-    ch: +
+    ch: ''
     locode: 'JP HOG'
     name: Hyogo
     namewodiacritics: Hyogo
@@ -5124,6 +5976,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'JP LJM'
+    name: 'Iijima, Nagano'
+    namewodiacritics: 'Iijima, Nagano'
+    subdiv: '20'
+    function: '-----6--'
+    status: AF
+    date: '1601'
+    iata: ''
+    coordinates: '3540N 13755E'
+    remarks: ''
+-
+    ch: ''
     locode: 'JP INT'
     name: Iinoseto
     namewodiacritics: Iinoseto
@@ -5133,6 +5997,30 @@
     date: '9907'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'JP LIY'
+    name: Iiyama
+    namewodiacritics: Iiyama
+    subdiv: '20'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '3651N 13822E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'JP ZKA'
+    name: Iizuka
+    namewodiacritics: Iizuka
+    subdiv: '40'
+    function: 1----6--
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '3339N 13041E'
     remarks: ''
 -
     ch: ''
@@ -5229,6 +6117,18 @@
     date: '0401'
     iata: ''
     coordinates: '3323N 12926E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'JP OQM'
+    name: Ikoma
+    namewodiacritics: Ikoma
+    subdiv: '29'
+    function: '-----6--'
+    status: AF
+    date: '1501'
+    iata: ''
+    coordinates: '3441N 13542E'
     remarks: ''
 -
     ch: ''
@@ -5339,6 +6239,18 @@
     coordinates: ''
     remarks: ''
 -
+    ch: +
+    locode: 'JP IMU'
+    name: Imizu
+    namewodiacritics: Imizu
+    subdiv: '16'
+    function: '--3-----'
+    status: AA
+    date: '2201'
+    iata: ''
+    coordinates: '3646N 13708E'
+    remarks: ''
+-
     ch: ''
     locode: 'JP INA'
     name: Ina
@@ -5349,6 +6261,30 @@
     date: '9907'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'JP INJ'
+    name: 'Ina Saitama'
+    namewodiacritics: 'Ina Saitama'
+    subdiv: '11'
+    function: '-----6--'
+    status: AF
+    date: '1601'
+    iata: ''
+    coordinates: '3600N 13937E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'JP INN'
+    name: 'Ina, Nagano'
+    namewodiacritics: 'Ina, Nagano'
+    subdiv: '20'
+    function: '-----6--'
+    status: AF
+    date: '1601'
+    iata: ''
+    coordinates: '3550N 13750E'
     remarks: ''
 -
     ch: ''
@@ -5373,6 +6309,18 @@
     date: '1007'
     iata: ''
     coordinates: '3563N 13955E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'JP INM'
+    name: Inami
+    namewodiacritics: Inami
+    subdiv: '28'
+    function: '--3-----'
+    status: AF
+    date: '1407'
+    iata: ''
+    coordinates: '3445N 13455E'
     remarks: ''
 -
     ch: ''
@@ -5445,6 +6393,18 @@
     date: '9907'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'JP IKZ'
+    name: Ino
+    namewodiacritics: Ino
+    subdiv: '39'
+    function: '-----6--'
+    status: AF
+    date: '1501'
+    iata: ''
+    coordinates: '3333N 13326E'
     remarks: ''
 -
     ch: ''
@@ -5532,6 +6492,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'JP NZA'
+    name: Inzai
+    namewodiacritics: Inzai
+    subdiv: '12'
+    function: '-----6--'
+    status: AF
+    date: '1907'
+    iata: ''
+    coordinates: '3550N 14009E'
+    remarks: ''
+-
+    ch: ''
     locode: 'JP IRK'
     name: Irago
     namewodiacritics: Irago
@@ -5553,6 +6525,18 @@
     date: '1301'
     iata: ''
     coordinates: '3437N 13848E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'JP ISS'
+    name: Isa
+    namewodiacritics: Isa
+    subdiv: '46'
+    function: '--3-----'
+    status: AF
+    date: '1407'
+    iata: ''
+    coordinates: '3203N 13036E'
     remarks: ''
 -
     ch: ''
@@ -5593,12 +6577,12 @@
 -
     ch: ''
     locode: 'JP ISR'
-    name: Isehara-Shi
-    namewodiacritics: Isehara-Shi
+    name: Isehara
+    namewodiacritics: Isehara
     subdiv: '14'
     function: '--3-----'
     status: RQ
-    date: '1201'
+    date: '1501'
     iata: ''
     coordinates: '3523N 13918E'
     remarks: ''
@@ -5656,11 +6640,23 @@
     name: Ishigaki
     namewodiacritics: Ishigaki
     subdiv: '47'
-    function: 1--4----
+    function: 1-------
     status: AF
-    date: '0401'
+    date: '1701'
     iata: ''
     coordinates: '2420N 12409E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'JP IGK'
+    name: 'Ishigaki Apt Okinawa'
+    namewodiacritics: 'Ishigaki Apt Okinawa'
+    subdiv: '47'
+    function: '---4----'
+    status: AF
+    date: '1701'
+    iata: ISG
+    coordinates: '2424N 12415E'
     remarks: ''
 -
     ch: ''
@@ -5721,6 +6717,18 @@
     date: '9907'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'JP ISO'
+    name: Ishioka
+    namewodiacritics: Ishioka
+    subdiv: '08'
+    function: '-----6--'
+    status: AF
+    date: '1501'
+    iata: ''
+    coordinates: '3611N 14016E'
     remarks: ''
 -
     ch: ''
@@ -5796,6 +6804,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'JP ITB'
+    name: Itabashi
+    namewodiacritics: Itabashi
+    subdiv: '13'
+    function: '-23-----'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '3545N 13943E'
+    remarks: ''
+-
+    ch: ''
     locode: 'JP ITK'
     name: Itako
     namewodiacritics: Itako
@@ -5805,6 +6825,18 @@
     date: '9907'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'JP IUA'
+    name: Itakura
+    namewodiacritics: Itakura
+    subdiv: '10'
+    function: '--3--6--'
+    status: AA
+    date: '2107'
+    iata: ''
+    coordinates: '3613N 13936E'
     remarks: ''
 -
     ch: ''
@@ -5856,6 +6888,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'JP ITM'
+    name: Itoman
+    namewodiacritics: Itoman
+    subdiv: '47'
+    function: '--3-----'
+    status: AM
+    date: '2101'
+    iata: ''
+    coordinates: '2607N 12740E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'JP TSV'
+    name: 'Itoshima, Fukuoka'
+    namewodiacritics: 'Itoshima, Fukuoka'
+    subdiv: '40'
+    function: '-----6--'
+    status: AF
+    date: '1607'
+    iata: ''
+    coordinates: '3333N 13011E'
+    remarks: ''
+-
+    ch: ''
     locode: 'JP ITO'
     name: Itozaki
     namewodiacritics: Itozaki
@@ -5877,6 +6933,18 @@
     date: '9907'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: +
+    locode: 'JP IWD'
+    name: Iwade
+    namewodiacritics: Iwade
+    subdiv: '30'
+    function: '-23--6--'
+    status: AA
+    date: '2201'
+    iata: ''
+    coordinates: '3415N 13519E'
     remarks: ''
 -
     ch: ''
@@ -5928,6 +6996,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'JP IWU'
+    name: 'Iwakura Aichi'
+    namewodiacritics: 'Iwakura Aichi'
+    subdiv: '23'
+    function: '-----6--'
+    status: AF
+    date: '1701'
+    iata: ''
+    coordinates: '3517N 13652E'
+    remarks: ''
+-
+    ch: ''
     locode: 'JP IWA'
     name: Iwamatsu
     namewodiacritics: Iwamatsu
@@ -5949,6 +7029,18 @@
     date: '0907'
     iata: ''
     coordinates: '3441N 13147E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'JP HDD'
+    name: Iwamizawa
+    namewodiacritics: Iwamizawa
+    subdiv: '01'
+    function: '-----6--'
+    status: AF
+    date: '1501'
+    iata: ''
+    coordinates: '4312N 14145E'
     remarks: ''
 -
     ch: ''
@@ -6072,6 +7164,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'JP UZI'
+    name: Izu
+    namewodiacritics: Izu
+    subdiv: '22'
+    function: '--3-----'
+    status: AF
+    date: '1407'
+    iata: ''
+    coordinates: '3459N 13857E'
+    remarks: ''
+-
+    ch: ''
     locode: 'JP IZH'
     name: Izuhara
     namewodiacritics: Izuhara
@@ -6096,6 +7200,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'JP IUZ'
+    name: Izumi
+    namewodiacritics: Izumi
+    subdiv: '46'
+    function: '--3--6--'
+    status: AM
+    date: '2101'
+    iata: ''
+    coordinates: '3205N 13021E'
+    remarks: ''
+-
+    ch: ''
     locode: 'JP IZM'
     name: 'Izumi, Aichi'
     namewodiacritics: 'Izumi, Aichi'
@@ -6117,6 +7233,18 @@
     date: '9907'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'JP ZKU'
+    name: 'Izumi, Osaka'
+    namewodiacritics: 'Izumi, Osaka'
+    subdiv: '27'
+    function: '--3-----'
+    status: AF
+    date: '1407'
+    iata: ''
+    coordinates: '3429N 13526E'
     remarks: ''
 -
     ch: ''
@@ -6204,6 +7332,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'JP JOY'
+    name: Joyo
+    namewodiacritics: Joyo
+    subdiv: '26'
+    function: '-----6--'
+    status: AF
+    date: '1501'
+    iata: ''
+    coordinates: '3450N 13546E'
+    remarks: ''
+-
+    ch: ''
     locode: 'JP KAB'
     name: Kabanoki
     namewodiacritics: Kabanoki
@@ -6276,6 +7416,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'JP KDD'
+    name: Kadoma
+    namewodiacritics: Kadoma
+    subdiv: '27'
+    function: '-----6--'
+    status: AF
+    date: '1501'
+    iata: ''
+    coordinates: '3444N 13535E'
+    remarks: ''
+-
+    ch: ''
     locode: 'JP KBK'
     name: Kafuka
     namewodiacritics: Kafuka
@@ -6297,6 +7449,18 @@
     date: '9907'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'JP KGD'
+    name: Kaga
+    namewodiacritics: Kaga
+    subdiv: '17'
+    function: '-----6--'
+    status: AF
+    date: '1801'
+    iata: ''
+    coordinates: '3618N 13619E'
     remarks: ''
 -
     ch: ''
@@ -6324,6 +7488,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'JP KGZ'
+    name: Kagamino
+    namewodiacritics: Kagamino
+    subdiv: '33'
+    function: '--3-----'
+    status: AF
+    date: '1407'
+    iata: ''
+    coordinates: '3506N 13356E'
+    remarks: ''
+-
+    ch: ''
     locode: 'JP KOJ'
     name: Kagoshima
     namewodiacritics: Kagoshima
@@ -6333,6 +7509,18 @@
     date: '9907'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'JP SZQ'
+    name: Kai
+    namewodiacritics: Kai
+    subdiv: '19'
+    function: '-----6--'
+    status: AF
+    date: '1501'
+    iata: ''
+    coordinates: '3540N 13831E'
     remarks: ''
 -
     ch: ''
@@ -6405,6 +7593,18 @@
     date: '9907'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'JP KKG'
+    name: Kakamigahara
+    namewodiacritics: Kakamigahara
+    subdiv: '21'
+    function: '-----6--'
+    status: AF
+    date: '1701'
+    iata: ''
+    coordinates: '3525N 13652E'
     remarks: ''
 -
     ch: ''
@@ -6492,6 +7692,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'JP KGY'
+    name: 'Kamagaya, Chiba'
+    namewodiacritics: 'Kamagaya, Chiba'
+    subdiv: '12'
+    function: '--3-----'
+    status: AF
+    date: '1601'
+    iata: ''
+    coordinates: '3545N 14001E'
+    remarks: ''
+-
+    ch: ''
     locode: 'JP KIS'
     name: Kamaishi
     namewodiacritics: Kamaishi
@@ -6504,6 +7716,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'JP AAK'
+    name: Kamakura
+    namewodiacritics: Kamakura
+    subdiv: '14'
+    function: '--3-----'
+    status: AF
+    date: '1407'
+    iata: ''
+    coordinates: '3518N 13933E'
+    remarks: ''
+-
+    ch: ''
     locode: 'JP KEE'
     name: Kameike
     namewodiacritics: Kameike
@@ -6513,6 +7737,18 @@
     date: '9907'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'JP KEO'
+    name: Kameoka
+    namewodiacritics: Kameoka
+    subdiv: '26'
+    function: '-----6--'
+    status: AF
+    date: '1501'
+    iata: ''
+    coordinates: '3501N 13534E'
     remarks: ''
 -
     ch: ''
@@ -6576,6 +7812,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'JP QIK'
+    name: 'Kamiita, Tokushima'
+    namewodiacritics: 'Kamiita, Tokushima'
+    subdiv: '36'
+    function: '-----6--'
+    status: AF
+    date: '1601'
+    iata: ''
+    coordinates: '3407N 13424E'
+    remarks: ''
+-
+    ch: ''
     locode: 'JP KKT'
     name: Kamikatetsu
     namewodiacritics: Kamikatetsu
@@ -6585,6 +7833,18 @@
     date: '9907'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'JP ZKK'
+    name: 'Kamikatsu, Tokushima'
+    namewodiacritics: 'Kamikatsu, Tokushima'
+    subdiv: '36'
+    function: '-----6--'
+    status: AF
+    date: '1601'
+    iata: ''
+    coordinates: '3353N 13424E'
     remarks: ''
 -
     ch: ''
@@ -6852,6 +8112,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'JP KTC'
+    name: Kanuma
+    namewodiacritics: Kanuma
+    subdiv: '09'
+    function: '-----6--'
+    status: AF
+    date: '2001'
+    iata: ''
+    coordinates: '3634N 13944E'
+    remarks: ''
+-
+    ch: ''
     locode: 'JP KRK'
     name: Karakizaki
     namewodiacritics: Karakizaki
@@ -6900,6 +8172,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'JP IKF'
+    name: 'Kariya, Aichi'
+    namewodiacritics: 'Kariya, Aichi'
+    subdiv: '23'
+    function: '-----6--'
+    status: AF
+    date: '1501'
+    iata: ''
+    coordinates: '3459N 13659E'
+    remarks: ''
+-
+    ch: ''
     locode: 'JP KRY'
     name: 'Kariya, Saga'
     namewodiacritics: 'Kariya, Saga'
@@ -6924,6 +8208,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'JP WUZ'
+    name: 'Karuizawa, Nagano'
+    namewodiacritics: 'Karuizawa, Nagano'
+    subdiv: '20'
+    function: '-----6--'
+    status: AF
+    date: '1601'
+    iata: ''
+    coordinates: '3621N 13836E'
+    remarks: ''
+-
+    ch: ''
     locode: 'JP KAN'
     name: Karuno
     namewodiacritics: Karuno
@@ -6945,6 +8241,30 @@
     date: '9907'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'JP SKJ'
+    name: Kasai
+    namewodiacritics: Kasai
+    subdiv: '28'
+    function: '-----6--'
+    status: AF
+    date: '1901'
+    iata: ''
+    coordinates: '3456N 13450E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'JP CXZ'
+    name: Kasama
+    namewodiacritics: Kasama
+    subdiv: '08'
+    function: '-----6--'
+    status: AF
+    date: '1501'
+    iata: ''
+    coordinates: '3623N 14014E'
     remarks: ''
 -
     ch: ''
@@ -7008,15 +8328,15 @@
     remarks: ''
 -
     ch: ''
-    locode: 'JP KHA'
-    name: Kashihara
-    namewodiacritics: Kashihara
-    subdiv: '27'
+    locode: 'JP KAS'
+    name: 'Kashihara, Nara'
+    namewodiacritics: 'Kashihara, Nara'
+    subdiv: '29'
     function: '--3-----'
     status: AF
-    date: '1301'
+    date: '1601'
     iata: ''
-    coordinates: '3435N 13737E'
+    coordinates: '3430N 13547E'
     remarks: ''
 -
     ch: ''
@@ -7104,6 +8424,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'JP KHA'
+    name: Kashiwara
+    namewodiacritics: Kashiwara
+    subdiv: '27'
+    function: '--3-----'
+    status: AF
+    date: '1601'
+    iata: ''
+    coordinates: '3434N 13537E'
+    remarks: ''
+-
+    ch: ''
     locode: 'JP KWZ'
     name: Kashiwazaki
     namewodiacritics: Kashiwazaki
@@ -7161,6 +8493,18 @@
     date: '0307'
     iata: ''
     coordinates: '3602N 14013E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'JP ASU'
+    name: Kasuya
+    namewodiacritics: Kasuya
+    subdiv: '40'
+    function: 1----6--
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '3337N 13029E'
     remarks: ''
 -
     ch: ''
@@ -7247,7 +8591,31 @@
     coordinates: ''
     remarks: ''
 -
-    ch: +
+    ch: ''
+    locode: 'JP KTT'
+    name: Kato
+    namewodiacritics: Kato
+    subdiv: '28'
+    function: '--3-----'
+    status: AF
+    date: '1407'
+    iata: ''
+    coordinates: '3455N 13458E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'JP ICQ'
+    name: Katori
+    namewodiacritics: Katori
+    subdiv: '12'
+    function: '-----6--'
+    status: AF
+    date: '1501'
+    iata: ''
+    coordinates: '3541N 14030E'
+    remarks: ''
+-
+    ch: ''
     locode: 'JP ORI'
     name: Katori-Gun
     namewodiacritics: Katori-Gun
@@ -7269,6 +8637,30 @@
     date: '9907'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'JP FSR'
+    name: 'Katsuragi, Nara'
+    namewodiacritics: 'Katsuragi, Nara'
+    subdiv: '29'
+    function: '-----6--'
+    status: AF
+    date: '1601'
+    iata: ''
+    coordinates: '3429N 13544E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'JP KHK'
+    name: Katsushika-Ku
+    namewodiacritics: Katsushika-Ku
+    subdiv: '13'
+    function: '-----6--'
+    status: AF
+    date: '1901'
+    iata: ''
+    coordinates: '3544N 13951E'
     remarks: ''
 -
     ch: ''
@@ -7305,6 +8697,18 @@
     date: '9907'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'JP GWB'
+    name: Kawaba
+    namewodiacritics: Kawaba
+    subdiv: '10'
+    function: '-----6--'
+    status: AF
+    date: '1501'
+    iata: ''
+    coordinates: '3642N 13906E'
     remarks: ''
 -
     ch: ''
@@ -7437,6 +8841,18 @@
     date: '9907'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'JP KHW'
+    name: Kawanishi
+    namewodiacritics: Kawanishi
+    subdiv: '28'
+    function: '--3-----'
+    status: AF
+    date: '1407'
+    iata: ''
+    coordinates: '3449N 13525E'
     remarks: ''
 -
     ch: ''
@@ -7740,6 +9156,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'JP KKH'
+    name: 'Kikuchi Kumamoto'
+    namewodiacritics: 'Kikuchi Kumamoto'
+    subdiv: '43'
+    function: '-----6--'
+    status: AF
+    date: '1601'
+    iata: ''
+    coordinates: '3259N 13049E'
+    remarks: ''
+-
+    ch: ''
     locode: 'JP KWW'
     name: Kikugawa
     namewodiacritics: Kikugawa
@@ -7860,6 +9288,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'JP KOW'
+    name: Kinokawa
+    namewodiacritics: Kinokawa
+    subdiv: '30'
+    function: '-----6--'
+    status: RQ
+    date: '1601'
+    iata: ''
+    coordinates: '3416N 13521E'
+    remarks: ''
+-
+    ch: ''
     locode: 'JP KNT'
     name: Kinomoto
     namewodiacritics: Kinomoto
@@ -7917,6 +9357,18 @@
     date: '9907'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'JP KYU'
+    name: Kiryu
+    namewodiacritics: Kiryu
+    subdiv: '10'
+    function: '-----6--'
+    status: AF
+    date: '1801'
+    iata: ''
+    coordinates: '3624N 13920E'
     remarks: ''
 -
     ch: ''
@@ -8004,6 +9456,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'JP KIO'
+    name: 'Kiso, Nagano'
+    namewodiacritics: 'Kiso, Nagano'
+    subdiv: '20'
+    function: '-----6--'
+    status: AF
+    date: '1601'
+    iata: ''
+    coordinates: '3550N 13741E'
+    remarks: ''
+-
+    ch: ''
     locode: 'JP KTX'
     name: Kita/Kitadaito
     namewodiacritics: Kita/Kitadaito
@@ -8049,6 +9513,18 @@
     date: '0601'
     iata: ''
     coordinates: '3917N 14107E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'JP KQT'
+    name: 'Kitakata, Fukushima'
+    namewodiacritics: 'Kitakata, Fukushima'
+    subdiv: '07'
+    function: '-----6--'
+    status: AF
+    date: '1601'
+    iata: ''
+    coordinates: '3739N 13952E'
     remarks: ''
 -
     ch: ''
@@ -8100,6 +9576,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'JP GTK'
+    name: Kitanagoya
+    namewodiacritics: Kitanagoya
+    subdiv: '23'
+    function: 1-------
+    status: AA
+    date: '2101'
+    iata: ''
+    coordinates: '3514N 13651E'
+    remarks: ''
+-
+    ch: ''
     locode: 'JP KJT'
     name: 'Kitaura, Akita'
     namewodiacritics: 'Kitaura, Akita'
@@ -8145,6 +9633,54 @@
     date: '9907'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'JP KSF'
+    name: Kitsuki
+    namewodiacritics: Kitsuki
+    subdiv: '44'
+    function: 1----6--
+    status: AF
+    date: '1801'
+    iata: ''
+    coordinates: '3325N 13137E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'JP KYS'
+    name: 'Kiyose, Tokyo'
+    namewodiacritics: 'Kiyose, Tokyo'
+    subdiv: '13'
+    function: '--3-----'
+    status: AF
+    date: '1601'
+    iata: ''
+    coordinates: '3546N 13931E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'JP KYW'
+    name: 'Kiyosu Aichi'
+    namewodiacritics: 'Kiyosu Aichi'
+    subdiv: '23'
+    function: '-----6--'
+    status: AF
+    date: '1701'
+    iata: ''
+    coordinates: '3513N 13650E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'JP KZG'
+    name: Kizugawa
+    namewodiacritics: Kizugawa
+    subdiv: '26'
+    function: '-----6--'
+    status: AF
+    date: '1501'
+    iata: ''
+    coordinates: '3444N 13549E'
     remarks: ''
 -
     ch: ''
@@ -8229,6 +9765,18 @@
     date: '9907'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'JP KOQ'
+    name: 'Kodaira, Tokyo'
+    namewodiacritics: 'Kodaira, Tokyo'
+    subdiv: '13'
+    function: '-----6--'
+    status: AF
+    date: '1601'
+    iata: ''
+    coordinates: '3543N 13928E'
     remarks: ''
 -
     ch: ''
@@ -8495,7 +10043,7 @@
     coordinates: ''
     remarks: ''
 -
-    ch: +
+    ch: ''
     locode: 'JP KKN'
     name: Kokubunji
     namewodiacritics: Kokubunji
@@ -8517,6 +10065,18 @@
     date: '0501'
     iata: ''
     coordinates: '3348N 13053E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'JP KIE'
+    name: 'Komae, Tokyo'
+    namewodiacritics: 'Komae, Tokyo'
+    subdiv: '13'
+    function: '--3-----'
+    status: AF
+    date: '1601'
+    iata: ''
+    coordinates: '3538N 13935E'
     remarks: ''
 -
     ch: ''
@@ -8628,6 +10188,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'JP KRG'
+    name: Komoro
+    namewodiacritics: Komoro
+    subdiv: '20'
+    function: '--3-----'
+    status: AM
+    date: '2101'
+    iata: ''
+    coordinates: '3619N 13826E'
+    remarks: ''
+-
+    ch: ''
     locode: 'JP KKE'
     name: Komukae
     namewodiacritics: Komukae
@@ -8661,6 +10233,18 @@
     date: '9907'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'JP KNC'
+    name: 'Konan, Shiga'
+    namewodiacritics: 'Konan, Shiga'
+    subdiv: '25'
+    function: '--3-----'
+    status: AF
+    date: '1407'
+    iata: ''
+    coordinates: '3500N 13605E'
     remarks: ''
 -
     ch: ''
@@ -8784,6 +10368,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'JP APP'
+    name: Koshi
+    namewodiacritics: Koshi
+    subdiv: '43'
+    function: 1----6--
+    status: AF
+    date: '1501'
+    iata: ''
+    coordinates: '3253N 13047E'
+    remarks: ''
+-
+    ch: ''
     locode: 'JP KOA'
     name: Koshigaya
     namewodiacritics: Koshigaya
@@ -8829,6 +10425,18 @@
     date: '9907'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'JP KOT'
+    name: Koto-Ku
+    namewodiacritics: Koto-Ku
+    subdiv: '13'
+    function: '-----6--'
+    status: AF
+    date: '1801'
+    iata: ''
+    coordinates: '3540N 13949E'
     remarks: ''
 -
     ch: ''
@@ -9264,6 +10872,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'JP KCI'
+    name: Kunitachi
+    namewodiacritics: Kunitachi
+    subdiv: '13'
+    function: '-----6--'
+    status: AF
+    date: '1501'
+    iata: ''
+    coordinates: '3541N 13926E'
+    remarks: ''
+-
+    ch: ''
     locode: 'JP KHS'
     name: Kurahashi
     namewodiacritics: Kurahashi
@@ -9347,6 +10967,18 @@
     coordinates: ''
     remarks: ''
 -
+    ch: +
+    locode: 'JP KUI'
+    name: 'Kurihara Shi'
+    namewodiacritics: 'Kurihara Shi'
+    subdiv: '04'
+    function: '--3-----'
+    status: AA
+    date: '2201'
+    iata: ''
+    coordinates: '3848N 14056E'
+    remarks: ''
+-
     ch: ''
     locode: 'JP KRU'
     name: Kurii
@@ -9381,6 +11013,18 @@
     date: '9907'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'JP KUB'
+    name: Kurobe
+    namewodiacritics: Kurobe
+    subdiv: '16'
+    function: '-----6--'
+    status: AF
+    date: '2001'
+    iata: ''
+    coordinates: '3652N 13727E'
     remarks: ''
 -
     ch: ''
@@ -9552,6 +11196,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'JP CUK'
+    name: Kutchan
+    namewodiacritics: Kutchan
+    subdiv: '01'
+    function: '-----6--'
+    status: AF
+    date: '1501'
+    iata: ''
+    coordinates: '4254N 14044E'
+    remarks: ''
+-
+    ch: ''
     locode: 'JP KUT'
     name: Kute
     namewodiacritics: Kute
@@ -9621,6 +11277,18 @@
     date: '9907'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'JP KTB'
+    name: Kyotamba
+    namewodiacritics: Kyotamba
+    subdiv: '26'
+    function: '-----6--'
+    status: AF
+    date: '1501'
+    iata: ''
+    coordinates: '3510N 13525E'
     remarks: ''
 -
     ch: ''
@@ -9780,6 +11448,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'JP IAM'
+    name: Maibara
+    namewodiacritics: Maibara
+    subdiv: '25'
+    function: '-----6--'
+    status: AF
+    date: '1501'
+    iata: ''
+    coordinates: '3519N 13617E'
+    remarks: ''
+-
+    ch: ''
     locode: 'JP MAI'
     name: Maizuru
     namewodiacritics: Maizuru
@@ -9801,6 +11481,18 @@
     date: '9907'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'JP MKO'
+    name: Makinohara
+    namewodiacritics: Makinohara
+    subdiv: '22'
+    function: '-----6--'
+    status: AF
+    date: '2001'
+    iata: ''
+    coordinates: '3449N 13807E'
     remarks: ''
 -
     ch: ''
@@ -9837,6 +11529,18 @@
     date: '9907'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'JP MAN'
+    name: 'Maniwa, Okayama'
+    namewodiacritics: 'Maniwa, Okayama'
+    subdiv: '33'
+    function: '--3-----'
+    status: AF
+    date: '1607'
+    iata: ''
+    coordinates: '3505N 13341E'
     remarks: ''
 -
     ch: ''
@@ -9933,6 +11637,18 @@
     date: '1207'
     iata: ''
     coordinates: '3247N 13049E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'JP MHO'
+    name: Mashiko
+    namewodiacritics: Mashiko
+    subdiv: '09'
+    function: '-----6--'
+    status: AF
+    date: '1801'
+    iata: ''
+    coordinates: '3628N 14006E'
     remarks: ''
 -
     ch: ''
@@ -10260,6 +11976,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'JP MGR'
+    name: Meguro
+    namewodiacritics: Meguro
+    subdiv: '13'
+    function: '-----6--'
+    status: AF
+    date: '1901'
+    iata: ''
+    coordinates: '3538N 13941E'
+    remarks: ''
+-
+    ch: ''
     locode: 'JP MEN'
     name: Mei
     namewodiacritics: Mei
@@ -10317,6 +12045,30 @@
     date: '9907'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'JP IHM'
+    name: Mihama
+    namewodiacritics: Mihama
+    subdiv: '23'
+    function: '-----6--'
+    status: AF
+    date: '1501'
+    iata: ''
+    coordinates: '3447N 13654E'
+    remarks: ''
+-
+    ch: +
+    locode: 'JP MHA'
+    name: Mihama-Ku
+    namewodiacritics: Mihama-Ku
+    subdiv: '12'
+    function: '--3-----'
+    status: AA
+    date: '2201'
+    iata: ''
+    coordinates: '3538N 14004E'
     remarks: ''
 -
     ch: ''
@@ -10416,6 +12168,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'JP IKM'
+    name: Miki
+    namewodiacritics: Miki
+    subdiv: '28'
+    function: '-----6--'
+    status: AF
+    date: '1501'
+    iata: ''
+    coordinates: '3448N 13459E'
+    remarks: ''
+-
+    ch: ''
     locode: 'JP MKJ'
     name: Mikisato
     namewodiacritics: Mikisato
@@ -10452,6 +12216,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'JP MMK'
+    name: 'Mimasaka, Okayama'
+    namewodiacritics: 'Mimasaka, Okayama'
+    subdiv: '33'
+    function: '--3-----'
+    status: AF
+    date: '1601'
+    iata: ''
+    coordinates: '3500N 13410E'
+    remarks: ''
+-
+    ch: ''
     locode: 'JP MMT'
     name: Mimitsu
     namewodiacritics: Mimitsu
@@ -10473,6 +12249,18 @@
     date: '0401'
     iata: ''
     coordinates: '3348N 13543E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'JP MNK'
+    name: Minakami-Cho
+    namewodiacritics: Minakami-Cho
+    subdiv: '10'
+    function: '-----6--'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '3640N 13859E'
     remarks: ''
 -
     ch: ''
@@ -10499,7 +12287,7 @@
     coordinates: ''
     remarks: ''
 -
-    ch: +
+    ch: ''
     locode: 'JP APS'
     name: 'Minami Alps-Shi'
     namewodiacritics: 'Minami Alps-Shi'
@@ -10524,6 +12312,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'JP MMS'
+    name: Minamisoma
+    namewodiacritics: Minamisoma
+    subdiv: '07'
+    function: '--3-----'
+    status: AF
+    date: '1801'
+    iata: ''
+    coordinates: '3738N 14057E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'JP MYH'
+    name: Minamiyamashiro
+    namewodiacritics: Minamiyamashiro
+    subdiv: '26'
+    function: '-----6--'
+    status: AF
+    date: '1801'
+    iata: ''
+    coordinates: '3446N 13600E'
+    remarks: ''
+-
+    ch: ''
     locode: 'JP MNT'
     name: 'Minato, Hyogo'
     namewodiacritics: 'Minato, Hyogo'
@@ -10542,9 +12354,9 @@
     subdiv: '27'
     function: '-----6--'
     status: RL
-    date: '0901'
+    date: '1401'
     iata: ''
-    coordinates: '3538N 13943E'
+    coordinates: '3440N 13528E'
     remarks: ''
 -
     ch: ''
@@ -10605,6 +12417,42 @@
     date: '9907'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'JP YMI'
+    name: Minobu
+    namewodiacritics: Minobu
+    subdiv: '19'
+    function: '--3-----'
+    status: AF
+    date: '1407'
+    iata: ''
+    coordinates: '3522N 13826E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'JP MIO'
+    name: Minoo
+    namewodiacritics: Minoo
+    subdiv: '27'
+    function: '-----6--'
+    status: AF
+    date: '2001'
+    iata: ''
+    coordinates: '3450N 13528E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'JP INW'
+    name: 'Minowa, Nagano'
+    namewodiacritics: 'Minowa, Nagano'
+    subdiv: '20'
+    function: '-----6--'
+    status: AF
+    date: '1601'
+    iata: ''
+    coordinates: '3555N 13759E'
     remarks: ''
 -
     ch: ''
@@ -10836,6 +12684,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'JP OYO'
+    name: 'Mitoyo, Kagawa'
+    namewodiacritics: 'Mitoyo, Kagawa'
+    subdiv: '37'
+    function: '-----6--'
+    status: AF
+    date: '1707'
+    iata: ''
+    coordinates: '3409N 13342E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'JP MKN'
+    name: 'Mitsu Kanagawa'
+    namewodiacritics: 'Mitsu Kanagawa'
+    subdiv: '33'
+    function: '-----6--'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '3448N 13356E'
+    remarks: ''
+-
+    ch: ''
     locode: 'JP MTH'
     name: Mitsuhama
     namewodiacritics: Mitsuhama
@@ -10896,6 +12768,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'JP MND'
+    name: Miyada
+    namewodiacritics: Miyada
+    subdiv: '20'
+    function: '-----6--'
+    status: AF
+    date: '1501'
+    iata: ''
+    coordinates: '3546N 13757E'
+    remarks: ''
+-
+    ch: ''
     locode: 'JP MYG'
     name: Miyagahama
     namewodiacritics: Miyagahama
@@ -10932,6 +12816,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'JP IYK'
+    name: Miyaki
+    namewodiacritics: Miyaki
+    subdiv: '41'
+    function: '-----6--'
+    status: AF
+    date: '1501'
+    iata: ''
+    coordinates: '3319N 13027E'
+    remarks: ''
+-
+    ch: ''
     locode: 'JP MYK'
     name: 'Miyako, Iwate'
     namewodiacritics: 'Miyako, Iwate'
@@ -10965,6 +12861,18 @@
     date: '0907'
     iata: ''
     coordinates: '3144N 13104E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'JP QYM'
+    name: 'Miyama, Fukuoka'
+    namewodiacritics: 'Miyama, Fukuoka'
+    subdiv: '40'
+    function: '-----6--'
+    status: AF
+    date: '1601'
+    iata: ''
+    coordinates: '3309N 13028E'
     remarks: ''
 -
     ch: ''
@@ -11073,6 +12981,42 @@
     date: '1207'
     iata: ''
     coordinates: '3448N 13251E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'JP MYT'
+    name: 'Miyoshi, Tokushima'
+    namewodiacritics: 'Miyoshi, Tokushima'
+    subdiv: '36'
+    function: 1----6--
+    status: AF
+    date: '1501'
+    iata: ''
+    coordinates: '3401N 13348E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'JP MZH'
+    name: Mizuho
+    namewodiacritics: Mizuho
+    subdiv: '13'
+    function: '--3-----'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '3547N 12700E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'JP SXR'
+    name: Mizunami
+    namewodiacritics: Mizunami
+    subdiv: '21'
+    function: '-----6--'
+    status: AF
+    date: '1501'
+    iata: ''
+    coordinates: '3522N 13715E'
     remarks: ''
 -
     ch: ''
@@ -11448,6 +13392,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'JP MUM'
+    name: Murakami
+    namewodiacritics: Murakami
+    subdiv: '15'
+    function: '-----6--'
+    status: AA
+    date: '2101'
+    iata: ''
+    coordinates: '3814N 13929E'
+    remarks: ''
+-
+    ch: ''
     locode: 'JP MRE'
     name: Mure
     namewodiacritics: Mure
@@ -11565,6 +13521,18 @@
     date: '9907'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'JP MUH'
+    name: Musashino
+    namewodiacritics: Musashino
+    subdiv: '13'
+    function: '-----6--'
+    status: AF
+    date: '1501'
+    iata: ''
+    coordinates: '3542N 13933E'
     remarks: ''
 -
     ch: ''
@@ -11760,6 +13728,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'JP OQK'
+    name: 'Nagakute, Aichi'
+    namewodiacritics: 'Nagakute, Aichi'
+    subdiv: '23'
+    function: '-----6--'
+    status: AF
+    date: '1607'
+    iata: ''
+    coordinates: '3511N 13702E'
+    remarks: ''
+-
+    ch: ''
     locode: 'JP NGG'
     name: Nagame
     namewodiacritics: Nagame
@@ -11784,6 +13764,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'JP NKG'
+    name: Nagaoka
+    namewodiacritics: Nagaoka
+    subdiv: '15'
+    function: '--3-----'
+    status: AF
+    date: '1407'
+    iata: ''
+    coordinates: '3727N 13851E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'JP NGY'
+    name: Nagaokakyo
+    namewodiacritics: Nagaokakyo
+    subdiv: '26'
+    function: 1-------
+    status: AA
+    date: '2101'
+    iata: ''
+    coordinates: '3456N 13542E'
+    remarks: ''
+-
+    ch: ''
     locode: 'JP NAB'
     name: Nagara
     namewodiacritics: Nagara
@@ -11805,6 +13809,18 @@
     date: '1301'
     iata: ''
     coordinates: '3551N 13953E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'JP NGA'
+    name: 'Nagareyama, Chiba'
+    namewodiacritics: 'Nagareyama, Chiba'
+    subdiv: '12'
+    function: 1----6--
+    status: AF
+    date: '1501'
+    iata: ''
+    coordinates: '3551N 13954E'
     remarks: ''
 -
     ch: ''
@@ -11928,6 +13944,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'JP NOA'
+    name: Nago
+    namewodiacritics: Nago
+    subdiv: '47'
+    function: 1-------
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '2635N 12758E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'JP AGM'
+    name: 'Nagomi Kumamoto'
+    namewodiacritics: 'Nagomi Kumamoto'
+    subdiv: '43'
+    function: '-----6--'
+    status: AF
+    date: '1701'
+    iata: ''
+    coordinates: '3258N 13036E'
+    remarks: ''
+-
+    ch: ''
     locode: 'JP NGD'
     name: Nagouda
     namewodiacritics: Nagouda
@@ -11988,6 +14028,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'JP NRK'
+    name: Naka
+    namewodiacritics: Naka
+    subdiv: '08'
+    function: '-----6--'
+    status: AF
+    date: '1501'
+    iata: ''
+    coordinates: '3627N 14029E'
+    remarks: ''
+-
+    ch: ''
     locode: 'JP NKD'
     name: Nakada
     namewodiacritics: Nakada
@@ -11997,6 +14049,18 @@
     date: '9907'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'JP ANG'
+    name: 'Nakagawa, Nagano'
+    namewodiacritics: 'Nakagawa, Nagano'
+    subdiv: '20'
+    function: '-----6--'
+    status: AF
+    date: '1601'
+    iata: ''
+    coordinates: '3538N 13757E'
     remarks: ''
 -
     ch: ''
@@ -12192,6 +14256,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'JP SXZ'
+    name: Nakanoto
+    namewodiacritics: Nakanoto
+    subdiv: '17'
+    function: 1----6--
+    status: AF
+    date: '1501'
+    iata: ''
+    coordinates: '3659N 13654E'
+    remarks: ''
+-
+    ch: ''
     locode: 'JP NKN'
     name: Nakanoura
     namewodiacritics: Nakanoura
@@ -12261,6 +14337,18 @@
     date: '9907'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'JP XZW'
+    name: Nakatsugawa
+    namewodiacritics: Nakatsugawa
+    subdiv: '21'
+    function: '-----6--'
+    status: AF
+    date: '1501'
+    iata: ''
+    coordinates: '3529N 13730E'
     remarks: ''
 -
     ch: ''
@@ -12360,6 +14448,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'JP NJO'
+    name: Nanjo
+    namewodiacritics: Nanjo
+    subdiv: '47'
+    function: '--3-----'
+    status: AF
+    date: '1501'
+    iata: ''
+    coordinates: '2609N 12746E'
+    remarks: ''
+-
+    ch: ''
     locode: 'JP NKO'
     name: Nanko
     namewodiacritics: Nanko
@@ -12369,6 +14469,18 @@
     date: '9907'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'JP RPJ'
+    name: Nanto
+    namewodiacritics: Nanto
+    subdiv: '16'
+    function: '-----6--'
+    status: RQ
+    date: '1601'
+    iata: ''
+    coordinates: '3635N 13655E'
     remarks: ''
 -
     ch: ''
@@ -12528,6 +14640,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'JP NSC'
+    name: Nasushiobara
+    namewodiacritics: Nasushiobara
+    subdiv: '09'
+    function: '-----6--'
+    status: AF
+    date: '1801'
+    iata: ''
+    coordinates: '3658N 14003E'
+    remarks: ''
+-
+    ch: ''
     locode: 'JP NAZ'
     name: Naze
     namewodiacritics: Naze
@@ -12648,6 +14772,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'JP NQU'
+    name: Nihonmatsu
+    namewodiacritics: Nihonmatsu
+    subdiv: '07'
+    function: '-----6--'
+    status: RQ
+    date: '1601'
+    iata: ''
+    coordinates: '3735N 14025E'
+    remarks: ''
+-
+    ch: ''
     locode: 'JP NIX'
     name: Nii
     namewodiacritics: Nii
@@ -12720,6 +14856,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'JP XCA'
+    name: Niikappu
+    namewodiacritics: Niikappu
+    subdiv: '01'
+    function: 1----6--
+    status: AF
+    date: '1501'
+    iata: ''
+    coordinates: '4222N 14219E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'JP NMZ'
+    name: Niimi
+    namewodiacritics: Niimi
+    subdiv: '33'
+    function: '--3-----'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '3459N 13328E'
+    remarks: ''
+-
+    ch: ''
     locode: 'JP NIK'
     name: Nikaho
     namewodiacritics: Nikaho
@@ -12729,6 +14889,30 @@
     date: '1001'
     iata: ''
     coordinates: '3923N 14005E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'JP NKI'
+    name: Niki
+    namewodiacritics: Niki
+    subdiv: '01'
+    function: '--3-----'
+    status: AA
+    date: '2007'
+    iata: ''
+    coordinates: '4309N 14046E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'JP UYT'
+    name: Nikko
+    namewodiacritics: Nikko
+    subdiv: '09'
+    function: '-----6--'
+    status: AF
+    date: '1501'
+    iata: ''
+    coordinates: '3645N 13936E'
     remarks: ''
 -
     ch: ''
@@ -12744,6 +14928,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'JP NNE'
+    name: Ninohe
+    namewodiacritics: Ninohe
+    subdiv: '03'
+    function: '-----6--'
+    status: AF
+    date: '1801'
+    iata: ''
+    coordinates: '4016N 14118E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'JP NMY'
+    name: Ninomiya
+    namewodiacritics: Ninomiya
+    subdiv: '14'
+    function: '--3--6--'
+    status: AA
+    date: '2007'
+    iata: ''
+    coordinates: '3518N 13915E'
+    remarks: ''
+-
+    ch: ''
     locode: 'JP NIO'
     name: Nio
     namewodiacritics: Nio
@@ -12753,6 +14961,18 @@
     date: '9907'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'JP NZW'
+    name: 'Niseko, Hokkaido'
+    namewodiacritics: 'Niseko, Hokkaido'
+    subdiv: '01'
+    function: '-----6--'
+    status: AF
+    date: '1607'
+    iata: ''
+    coordinates: '4248N 14041E'
     remarks: ''
 -
     ch: ''
@@ -12804,6 +15024,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'JP NIG'
+    name: Nishigo
+    namewodiacritics: Nishigo
+    subdiv: '07'
+    function: '--3-----'
+    status: AF
+    date: '1501'
+    iata: ''
+    coordinates: '3708N 14009E'
+    remarks: ''
+-
+    ch: ''
     locode: 'JP NHR'
     name: Nishihara
     namewodiacritics: Nishihara
@@ -12837,6 +15069,18 @@
     date: '9907'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'JP SGP'
+    name: 'Nishiki, Kumamoto'
+    namewodiacritics: 'Nishiki, Kumamoto'
+    subdiv: '43'
+    function: '-----6--'
+    status: RQ
+    date: '1601'
+    iata: ''
+    coordinates: '3212N 13050E'
     remarks: ''
 -
     ch: ''
@@ -12960,6 +15204,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'JP NSS'
+    name: Nisshin
+    namewodiacritics: Nisshin
+    subdiv: '23'
+    function: '-----6--'
+    status: AF
+    date: '1501'
+    iata: ''
+    coordinates: '3507N 13702E'
+    remarks: ''
+-
+    ch: ''
     locode: 'JP NIA'
     name: Nita
     namewodiacritics: Nita
@@ -12993,6 +15249,18 @@
     date: '9907'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'JP RBN'
+    name: Noboribetsu
+    namewodiacritics: Noboribetsu
+    subdiv: '01'
+    function: 1-------
+    status: AA
+    date: '2107'
+    iata: ''
+    coordinates: '4227N 14110E'
     remarks: ''
 -
     ch: ''
@@ -13104,6 +15372,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'JP NMB'
+    name: Nomi
+    namewodiacritics: Nomi
+    subdiv: '17'
+    function: '-----6--'
+    status: AF
+    date: '1801'
+    iata: ''
+    coordinates: '3626N 13632E'
+    remarks: ''
+-
+    ch: ''
     locode: 'JP NOM'
     name: Nomizaki
     namewodiacritics: Nomizaki
@@ -13149,6 +15429,18 @@
     date: '9907'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'JP NZO'
+    name: Nozawaonsen
+    namewodiacritics: Nozawaonsen
+    subdiv: '20'
+    function: '-----6--'
+    status: AF
+    date: '1907'
+    iata: ''
+    coordinates: '3655N 13826E'
     remarks: ''
 -
     ch: ''
@@ -13296,6 +15588,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'JP OBU'
+    name: Obu
+    namewodiacritics: Obu
+    subdiv: '23'
+    function: '-----6--'
+    status: AF
+    date: '1501'
+    iata: ''
+    coordinates: '3501N 13658E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'JP ZXY'
+    name: 'Obuse, Nagano'
+    namewodiacritics: 'Obuse, Nagano'
+    subdiv: '20'
+    function: '-----6--'
+    status: AF
+    date: '1607'
+    iata: ''
+    coordinates: '3642N 13819E'
+    remarks: ''
+-
+    ch: ''
     locode: 'JP OOC'
     name: Ochiyo
     namewodiacritics: Ochiyo
@@ -13428,6 +15744,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'JP OAG'
+    name: Oga
+    namewodiacritics: Oga
+    subdiv: '05'
+    function: '-----6--'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '3953N 13950E'
+    remarks: ''
+-
+    ch: ''
     locode: 'JP OGG'
     name: Ogaki
     namewodiacritics: Ogaki
@@ -13461,6 +15789,18 @@
     date: '9907'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'JP OSG'
+    name: Ogi
+    namewodiacritics: Ogi
+    subdiv: '41'
+    function: 1----6--
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '3317N 13012E'
     remarks: ''
 -
     ch: ''
@@ -13545,6 +15885,18 @@
     date: '1207'
     iata: ''
     coordinates: '3323N 13033E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'JP GGO'
+    name: 'Ogose, Saitama'
+    namewodiacritics: 'Ogose, Saitama'
+    subdiv: '11'
+    function: '-----6--'
+    status: AF
+    date: '1601'
+    iata: ''
+    coordinates: '3557N 13917E'
     remarks: ''
 -
     ch: ''
@@ -14016,6 +16368,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'JP OJS'
+    name: Ojiya
+    namewodiacritics: Ojiya
+    subdiv: '15'
+    function: '-----6--'
+    status: RQ
+    date: '1601'
+    iata: ''
+    coordinates: '3719N 13848E'
+    remarks: ''
+-
+    ch: ''
     locode: 'JP OYA'
     name: Ojoya
     namewodiacritics: Ojoya
@@ -14073,6 +16437,18 @@
     date: '9907'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'JP KDP'
+    name: Okawa
+    namewodiacritics: Okawa
+    subdiv: '40'
+    function: '-----6--'
+    status: AF
+    date: '1601'
+    iata: ''
+    coordinates: '3312N 13023E'
     remarks: ''
 -
     ch: ''
@@ -14352,6 +16728,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'JP OMC'
+    name: Omachi
+    namewodiacritics: Omachi
+    subdiv: '20'
+    function: 1----6--
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '3650N 13825E'
+    remarks: ''
+-
+    ch: ''
     locode: 'JP OMZ'
     name: Omaezaki
     namewodiacritics: Omaezaki
@@ -14421,6 +16809,18 @@
     date: '9907'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'JP OMM'
+    name: Omitama
+    namewodiacritics: Omitama
+    subdiv: '08'
+    function: '-----6--'
+    status: AF
+    date: '1501'
+    iata: ''
+    coordinates: '3614N 14021E'
     remarks: ''
 -
     ch: ''
@@ -14652,6 +17052,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'JP ONN'
+    name: Ono
+    namewodiacritics: Ono
+    subdiv: '18'
+    function: '-----6--'
+    status: AF
+    date: '1501'
+    iata: ''
+    coordinates: '3559N 13629E'
+    remarks: ''
+-
+    ch: ''
     locode: 'JP ONZ'
     name: Ono
     namewodiacritics: Ono
@@ -14685,6 +17097,18 @@
     date: '9907'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'JP NOJ'
+    name: Onojo
+    namewodiacritics: Onojo
+    subdiv: '40'
+    function: 1----6--
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '3332N 13029E'
     remarks: ''
 -
     ch: ''
@@ -14733,6 +17157,18 @@
     date: '0401'
     iata: ''
     coordinates: '3518N 13937E'
+    remarks: ''
+-
+    ch: +
+    locode: 'JP ORM'
+    name: Ora
+    namewodiacritics: Ora
+    subdiv: '10'
+    function: '--3-----'
+    status: AA
+    date: '2201'
+    iata: ''
+    coordinates: '3615N 13928E'
     remarks: ''
 -
     ch: ''
@@ -14793,6 +17229,18 @@
     date: '0907'
     iata: ''
     coordinates: '3441N 13531E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'JP OKQ'
+    name: 'Osakasayama, Osaka'
+    namewodiacritics: 'Osakasayama, Osaka'
+    subdiv: '27'
+    function: '-----6--'
+    status: AF
+    date: '1607'
+    iata: ''
+    coordinates: '3430N 13533E'
     remarks: ''
 -
     ch: ''
@@ -14904,6 +17352,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'JP OCN'
+    name: Oshino
+    namewodiacritics: Oshino
+    subdiv: '19'
+    function: '-----6--'
+    status: AF
+    date: '1801'
+    iata: ''
+    coordinates: '3527N 13850E'
+    remarks: ''
+-
+    ch: ''
     locode: 'JP OSE'
     name: Osoe
     namewodiacritics: Osoe
@@ -15000,6 +17460,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'JP ZAQ'
+    name: Otawara
+    namewodiacritics: Otawara
+    subdiv: '09'
+    function: '-----6--'
+    status: AF
+    date: '1501'
+    iata: ''
+    coordinates: '3652N 14001E'
+    remarks: ''
+-
+    ch: ''
     locode: 'JP OTM'
     name: Otomi
     namewodiacritics: Otomi
@@ -15057,6 +17529,18 @@
     date: '9907'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'JP OTS'
+    name: Otsuki
+    namewodiacritics: Otsuki
+    subdiv: '19'
+    function: '-----6--'
+    status: AF
+    date: '1907'
+    iata: ''
+    coordinates: '3536N 13856E'
     remarks: ''
 -
     ch: ''
@@ -15144,6 +17628,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'JP OWR'
+    name: Owariasahi
+    namewodiacritics: Owariasahi
+    subdiv: '23'
+    function: '-----6--'
+    status: AF
+    date: '1801'
+    iata: ''
+    coordinates: '3512N 13702E'
+    remarks: ''
+-
+    ch: ''
     locode: 'JP OWA'
     name: Owase
     namewodiacritics: Owase
@@ -15180,6 +17676,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'JP OAY'
+    name: 'Oyama, Shizuoka'
+    namewodiacritics: 'Oyama, Shizuoka'
+    subdiv: '22'
+    function: '--3-----'
+    status: AF
+    date: '1407'
+    iata: ''
+    coordinates: '3521N 13900E'
+    remarks: ''
+-
+    ch: ''
     locode: 'JP OZX'
     name: Ozaki
     namewodiacritics: Ozaki
@@ -15201,6 +17709,18 @@
     date: '9907'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'JP ZZO'
+    name: 'Ozu, Kumamoto'
+    namewodiacritics: 'Ozu, Kumamoto'
+    subdiv: '43'
+    function: '-----6--'
+    status: AF
+    date: '1601'
+    iata: ''
+    coordinates: '3252N 13052E'
     remarks: ''
 -
     ch: ''
@@ -15360,6 +17880,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'JP RYA'
+    name: Ryuo
+    namewodiacritics: Ryuo
+    subdiv: '25'
+    function: 1-------
+    status: AF
+    date: '1907'
+    iata: ''
+    coordinates: '3540N 01637E'
+    remarks: ''
+-
+    ch: ''
     locode: 'JP SAB'
     name: Saba
     namewodiacritics: Saba
@@ -15369,6 +17901,18 @@
     date: '9907'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'JP SBE'
+    name: 'Sabae Fukui'
+    namewodiacritics: 'Sabae Fukui'
+    subdiv: '18'
+    function: '-----6--'
+    status: AF
+    date: '1701'
+    iata: ''
+    coordinates: '3557N 13611E'
     remarks: ''
 -
     ch: ''
@@ -15429,6 +17973,18 @@
     date: '9907'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'JP GGE'
+    name: Sagae
+    namewodiacritics: Sagae
+    subdiv: '06'
+    function: '-----6--'
+    status: AF
+    date: '1501'
+    iata: ''
+    coordinates: '3822N 14016E'
     remarks: ''
 -
     ch: ''
@@ -15576,6 +18132,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'JP SSS'
+    name: Saikai
+    namewodiacritics: Saikai
+    subdiv: '42'
+    function: 1-------
+    status: AF
+    date: '1907'
+    iata: ''
+    coordinates: '3256N 12939E'
+    remarks: ''
+-
+    ch: ''
     locode: 'JP SAE'
     name: Saiki
     namewodiacritics: Saiki
@@ -15624,6 +18192,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'JP SDD'
+    name: Sakado
+    namewodiacritics: Sakado
+    subdiv: '11'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '3557N 13924E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'JP SKC'
+    name: Sakahogi
+    namewodiacritics: Sakahogi
+    subdiv: '21'
+    function: '-----6--'
+    status: AF
+    date: '2001'
+    iata: ''
+    coordinates: '3535N 13659E'
+    remarks: ''
+-
+    ch: ''
     locode: 'JP SAK'
     name: Sakai
     namewodiacritics: Sakai
@@ -15633,6 +18225,30 @@
     date: '9907'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'JP SFI'
+    name: 'Sakai, Fukui'
+    namewodiacritics: 'Sakai, Fukui'
+    subdiv: '18'
+    function: '--3-----'
+    status: AF
+    date: '1407'
+    iata: ''
+    coordinates: '3610N 13614E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'JP SII'
+    name: 'Sakai, Ibaragi'
+    namewodiacritics: 'Sakai, Ibaragi'
+    subdiv: '08'
+    function: '-----6--'
+    status: AF
+    date: '1501'
+    iata: ''
+    coordinates: '3606N 13948E'
     remarks: ''
 -
     ch: ''
@@ -15768,6 +18384,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'JP SKE'
+    name: 'Saku Nagano'
+    namewodiacritics: 'Saku Nagano'
+    subdiv: '20'
+    function: '-----6--'
+    status: AF
+    date: '1701'
+    iata: ''
+    coordinates: '3613N 13829E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'JP SAF'
+    name: Sakura
+    namewodiacritics: Sakura
+    subdiv: '09'
+    function: '--3-----'
+    status: AF
+    date: '1801'
+    iata: ''
+    coordinates: '3643N 14000E'
+    remarks: ''
+-
+    ch: ''
     locode: 'JP SKX'
     name: Sakura
     namewodiacritics: Sakura
@@ -15777,6 +18417,18 @@
     date: '1107'
     iata: ''
     coordinates: '3543N 14014E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'JP S67'
+    name: Sakuragawa
+    namewodiacritics: Sakuragawa
+    subdiv: '08'
+    function: 0-------
+    status: AA
+    date: '2107'
+    iata: ''
+    coordinates: '3619N 14005E'
     remarks: ''
 -
     ch: ''
@@ -15876,6 +18528,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'JP SND'
+    name: Sanda
+    namewodiacritics: Sanda
+    subdiv: '28'
+    function: '-----6--'
+    status: AF
+    date: '1501'
+    iata: ''
+    coordinates: '3453N 13514E'
+    remarks: ''
+-
+    ch: ''
     locode: 'JP SMX'
     name: Sanmu
     namewodiacritics: Sanmu
@@ -15912,6 +18576,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'JP UIK'
+    name: Sanuki
+    namewodiacritics: Sanuki
+    subdiv: '37'
+    function: '-----6--'
+    status: RQ
+    date: '1601'
+    iata: ''
+    coordinates: '3419N 13410E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'JP SYD'
+    name: 'Sanyo Onoda Yamaguchi'
+    namewodiacritics: 'Sanyo Onoda Yamaguchi'
+    subdiv: '35'
+    function: 123-----
+    status: AF
+    date: '1701'
+    iata: ''
+    coordinates: '3405N 13111E'
+    remarks: ''
+-
+    ch: ''
     locode: 'JP SPK'
     name: Sapporo
     namewodiacritics: Sapporo
@@ -15933,6 +18621,18 @@
     date: '9907'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'JP SSY'
+    name: Sasayama
+    namewodiacritics: Sasayama
+    subdiv: '28'
+    function: '-----6--'
+    status: AF
+    date: '1501'
+    iata: ''
+    coordinates: '3504N 13513E'
     remarks: ''
 -
     ch: ''
@@ -16044,6 +18744,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'JP SDI'
+    name: Satsumasendai
+    namewodiacritics: Satsumasendai
+    subdiv: '46'
+    function: '--3--6--'
+    status: AA
+    date: '2101'
+    iata: ''
+    coordinates: '3149N 13018E'
+    remarks: ''
+-
+    ch: ''
     locode: 'JP SEN'
     name: Satsumasendai
     namewodiacritics: Satsumasendai
@@ -16152,6 +18864,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'JP SEI'
+    name: Seki
+    namewodiacritics: Seki
+    subdiv: '21'
+    function: 1-------
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '3529N 13655E'
+    remarks: ''
+-
+    ch: ''
     locode: 'JP SEK'
     name: Sekinehama
     namewodiacritics: Sekinehama
@@ -16209,6 +18933,18 @@
     date: '0407'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'JP SEE'
+    name: Sennan
+    namewodiacritics: Sennan
+    subdiv: '27'
+    function: '-----6--'
+    status: AF
+    date: '1501'
+    iata: ''
+    coordinates: '3421N 13516E'
     remarks: ''
 -
     ch: ''
@@ -16320,6 +19056,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'JP STP'
+    name: Setouchi
+    namewodiacritics: Setouchi
+    subdiv: '33'
+    function: '-----6--'
+    status: AF
+    date: '1501'
+    iata: ''
+    coordinates: '3440N 13406E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'JP SST'
+    name: Settsu
+    namewodiacritics: Settsu
+    subdiv: '27'
+    function: '-----6--'
+    status: AF
+    date: '1501'
+    iata: ''
+    coordinates: '3446N 13533E'
+    remarks: ''
+-
+    ch: ''
     locode: 'JP SEZ'
     name: Sezaki
     namewodiacritics: Sezaki
@@ -16368,15 +19128,15 @@
     remarks: ''
 -
     ch: ''
-    locode: 'JP BKW'
-    name: Shibukawa
-    namewodiacritics: Shibukawa
-    subdiv: '10'
+    locode: 'JP SBH'
+    name: Shibetsu
+    namewodiacritics: Shibetsu
+    subdiv: '01'
     function: 1----6--
-    status: RQ
-    date: '1001'
+    status: RL
+    date: '1807'
     iata: ''
-    coordinates: '3629N 13900E'
+    coordinates: '4339N 14507E'
     remarks: ''
 -
     ch: ''
@@ -16392,6 +19152,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'JP BKW'
+    name: Shibukawa
+    namewodiacritics: Shibukawa
+    subdiv: '10'
+    function: 1----6--
+    status: RQ
+    date: '1001'
+    iata: ''
+    coordinates: '3629N 13900E'
+    remarks: ''
+-
+    ch: ''
     locode: 'JP SBS'
     name: Shibushi
     namewodiacritics: Shibushi
@@ -16401,6 +19173,18 @@
     date: '9907'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'JP SBI'
+    name: 'Shibuya Tokyo'
+    namewodiacritics: 'Shibuya Tokyo'
+    subdiv: '13'
+    function: '-----6--'
+    status: AF
+    date: '1701'
+    iata: ''
+    coordinates: '3539N 13942E'
     remarks: ''
 -
     ch: ''
@@ -16524,6 +19308,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'JP TJZ'
+    name: Shiki
+    namewodiacritics: Shiki
+    subdiv: '11'
+    function: '-----6--'
+    status: AF
+    date: '1501'
+    iata: ''
+    coordinates: '3550N 13935E'
+    remarks: ''
+-
+    ch: ''
     locode: 'JP SKN'
     name: Shikinejima
     namewodiacritics: Shikinejima
@@ -16536,6 +19332,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'JP SKZ'
+    name: Shikokuchuo
+    namewodiacritics: Shikokuchuo
+    subdiv: '38'
+    function: '-----6--'
+    status: AF
+    date: '1501'
+    iata: ''
+    coordinates: '3359N 13333E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'JP SIX'
+    name: 'Shima, Mie'
+    namewodiacritics: 'Shima, Mie'
+    subdiv: '24'
+    function: '--3-----'
+    status: AF
+    date: '1601'
+    iata: ''
+    coordinates: '3420N 13650E'
+    remarks: ''
+-
+    ch: ''
     locode: 'JP SMB'
     name: Shimabara
     namewodiacritics: Shimabara
@@ -16545,6 +19365,18 @@
     date: '9907'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'JP SSZ'
+    name: Shimada
+    namewodiacritics: Shimada
+    subdiv: '22'
+    function: 1-------
+    status: AA
+    date: '2101'
+    iata: ''
+    coordinates: '3450N 13811E'
     remarks: ''
 -
     ch: ''
@@ -16765,12 +19597,12 @@
 -
     ch: ''
     locode: 'JP SHG'
-    name: Shinagawa-ku/Tokyo
-    namewodiacritics: Shinagawa-ku/Tokyo
+    name: 'Shinagawa, Tokyo'
+    namewodiacritics: 'Shinagawa, Tokyo'
     subdiv: '13'
     function: 123-----
     status: AF
-    date: '0401'
+    date: '1501'
     iata: ''
     coordinates: '3536N 13943E'
     remarks: ''
@@ -16797,18 +19629,6 @@
     date: '9907'
     iata: ''
     coordinates: ''
-    remarks: ''
--
-    ch: +
-    locode: 'JP SJK'
-    name: Shinjuku
-    namewodiacritics: Shinjuku
-    subdiv: '11'
-    function: '-----6--'
-    status: RL
-    date: '1307'
-    iata: ''
-    coordinates: '3611N 13904E'
     remarks: ''
 -
     ch: ''
@@ -16968,6 +19788,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'JP GSI'
+    name: 'Shiojiri, Nagano'
+    namewodiacritics: 'Shiojiri, Nagano'
+    subdiv: '20'
+    function: '-----6--'
+    status: AF
+    date: '1601'
+    iata: ''
+    coordinates: '3606N 13758E'
+    remarks: ''
+-
+    ch: ''
     locode: 'JP SIO'
     name: 'Shioya, Ishikawa'
     namewodiacritics: 'Shioya, Ishikawa'
@@ -17088,6 +19920,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'JP SRW'
+    name: Shirakawa
+    namewodiacritics: Shirakawa
+    subdiv: '07'
+    function: '-----6--'
+    status: RQ
+    date: '1601'
+    iata: ''
+    coordinates: '3707N 14012E'
+    remarks: ''
+-
+    ch: ''
     locode: 'JP SRA'
     name: Shiraki
     namewodiacritics: Shiraki
@@ -17111,6 +19955,18 @@
     coordinates: ''
     remarks: ''
 -
+    ch: +
+    locode: 'JP SRN'
+    name: Shiranuka
+    namewodiacritics: Shiranuka
+    subdiv: '01'
+    function: '--3--6--'
+    status: AA
+    date: '2201'
+    iata: ''
+    coordinates: '4257N 14405E'
+    remarks: ''
+-
     ch: ''
     locode: 'JP SRO'
     name: Shiraoi
@@ -17121,6 +19977,18 @@
     date: '9907'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'JP SOA'
+    name: Shiraoka
+    namewodiacritics: Shiraoka
+    subdiv: '11'
+    function: '-----6--'
+    status: AF
+    date: '1501'
+    iata: ''
+    coordinates: '3601N 13940E'
     remarks: ''
 -
     ch: ''
@@ -17268,6 +20136,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'JP SHW'
+    name: 'Shisui Chiba'
+    namewodiacritics: 'Shisui Chiba'
+    subdiv: '12'
+    function: '-----6--'
+    status: AF
+    date: '1701'
+    iata: ''
+    coordinates: '3543N 14016E'
+    remarks: ''
+-
+    ch: ''
     locode: 'JP STB'
     name: Shitaba
     namewodiacritics: Shitaba
@@ -17301,6 +20181,18 @@
     date: '9907'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'JP IHS'
+    name: Shitara
+    namewodiacritics: Shitara
+    subdiv: '23'
+    function: '--3-----'
+    status: AF
+    date: '1407'
+    iata: ''
+    coordinates: '3506N 13734E'
     remarks: ''
 -
     ch: ''
@@ -17361,6 +20253,18 @@
     date: '9907'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'JP SHD'
+    name: Shodoshima
+    namewodiacritics: Shodoshima
+    subdiv: '37'
+    function: '--3-----'
+    status: AA
+    date: '2107'
+    iata: ''
+    coordinates: '3430N 13415E'
     remarks: ''
 -
     ch: ''
@@ -17460,6 +20364,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'JP JSO'
+    name: 'Soja, Okayama'
+    namewodiacritics: 'Soja, Okayama'
+    subdiv: '33'
+    function: '-----6--'
+    status: AF
+    date: '1601'
+    iata: ''
+    coordinates: '3440N 13345E'
+    remarks: ''
+-
+    ch: ''
     locode: 'JP SOK'
     name: Soka
     namewodiacritics: Soka
@@ -17556,6 +20472,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'JP OOS'
+    name: Soo
+    namewodiacritics: Soo
+    subdiv: '46'
+    function: '-----6--'
+    status: AF
+    date: '2001'
+    iata: ''
+    coordinates: '3138N 13059E'
+    remarks: ''
+-
+    ch: ''
     locode: 'JP SOT'
     name: Sotodomari/Nishiumi
     namewodiacritics: Sotodomari/Nishiumi
@@ -17601,6 +20529,18 @@
     date: '9907'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'JP SUB'
+    name: Sue
+    namewodiacritics: Sue
+    subdiv: '40'
+    function: '-----6--'
+    status: AF
+    date: '1907'
+    iata: ''
+    coordinates: '3335N 13030E'
     remarks: ''
 -
     ch: ''
@@ -17652,6 +20592,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'JP SGN'
+    name: 'Suginami, Tokyo'
+    namewodiacritics: 'Suginami, Tokyo'
+    subdiv: '13'
+    function: '-----6--'
+    status: AF
+    date: '1707'
+    iata: ''
+    coordinates: '3541N 13937E'
+    remarks: ''
+-
+    ch: ''
     locode: 'JP SUI'
     name: Suita
     namewodiacritics: Suita
@@ -17685,6 +20637,18 @@
     date: '0501'
     iata: ''
     coordinates: '3255N 13243E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'JP SMW'
+    name: 'Sumida Tokyo'
+    namewodiacritics: 'Sumida Tokyo'
+    subdiv: '13'
+    function: '-----6--'
+    status: AF
+    date: '1701'
+    iata: ''
+    coordinates: '3542N 13948E'
     remarks: ''
 -
     ch: ''
@@ -17832,6 +20796,42 @@
     remarks: ''
 -
     ch: ''
+    locode: 'JP SWW'
+    name: 'Suwa, Nagano'
+    namewodiacritics: 'Suwa, Nagano'
+    subdiv: '20'
+    function: '--3-----'
+    status: AF
+    date: '1407'
+    iata: ''
+    coordinates: '3602N 13808E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'JP ZGO'
+    name: Suzaka
+    namewodiacritics: Suzaka
+    subdiv: '20'
+    function: '-----6--'
+    status: RQ
+    date: '1601'
+    iata: ''
+    coordinates: '3639N 13819E'
+    remarks: ''
+-
+    ch: +
+    locode: 'JP S7S'
+    name: Suzu
+    namewodiacritics: Suzu
+    subdiv: '17'
+    function: '-23--6--'
+    status: AA
+    date: '2201'
+    iata: ''
+    coordinates: '3726N 13715E'
+    remarks: ''
+-
+    ch: ''
     locode: 'JP KUK'
     name: Suzuka
     namewodiacritics: Suzuka
@@ -17880,6 +20880,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'JP TIR'
+    name: 'Tachiarai, Fukuoka'
+    namewodiacritics: 'Tachiarai, Fukuoka'
+    subdiv: '40'
+    function: '-----6--'
+    status: AF
+    date: '1601'
+    iata: ''
+    coordinates: '3324N 13037E'
+    remarks: ''
+-
+    ch: ''
     locode: 'JP TBN'
     name: Tachibana
     namewodiacritics: Tachibana
@@ -17889,6 +20901,18 @@
     date: '9907'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'JP TCI'
+    name: Tachikawa
+    namewodiacritics: Tachikawa
+    subdiv: '13'
+    function: '-----6--'
+    status: AF
+    date: '1501'
+    iata: ''
+    coordinates: '3541N 13925E'
     remarks: ''
 -
     ch: ''
@@ -17925,6 +20949,30 @@
     date: '9907'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'JP TGA'
+    name: Taga
+    namewodiacritics: Taga
+    subdiv: '25'
+    function: '-----6--'
+    status: AF
+    date: '1801'
+    iata: ''
+    coordinates: '3513N 13617E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'JP TGW'
+    name: Tagawa
+    namewodiacritics: Tagawa
+    subdiv: '40'
+    function: '--3-----'
+    status: AF
+    date: '1407'
+    iata: ''
+    coordinates: '3338N 13048E'
     remarks: ''
 -
     ch: ''
@@ -18168,6 +21216,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'JP KHT'
+    name: 'Takahata, Yamagata'
+    namewodiacritics: 'Takahata, Yamagata'
+    subdiv: '06'
+    function: '-----6--'
+    status: AF
+    date: '1601'
+    iata: ''
+    coordinates: '3800N 14011E'
+    remarks: ''
+-
+    ch: ''
     locode: 'JP THI'
     name: Takaishi
     namewodiacritics: Takaishi
@@ -18216,6 +21276,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'JP TMP'
+    name: Takamori
+    namewodiacritics: Takamori
+    subdiv: '20'
+    function: '--3-----'
+    status: AF
+    date: '1407'
+    iata: ''
+    coordinates: '3533N 13753E'
+    remarks: ''
+-
+    ch: ''
     locode: 'JP TNB'
     name: Takanabe
     namewodiacritics: Takanabe
@@ -18225,6 +21297,18 @@
     date: '9907'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'JP TTZ'
+    name: Takanezawa
+    namewodiacritics: Takanezawa
+    subdiv: '09'
+    function: '--3-----'
+    status: AA
+    date: '2107'
+    iata: ''
+    coordinates: '3637N 13959E'
     remarks: ''
 -
     ch: ''
@@ -18300,6 +21384,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'JP TKL'
+    name: Takashima
+    namewodiacritics: Takashima
+    subdiv: '25'
+    function: '--3--6--'
+    status: AF
+    date: '1907'
+    iata: ''
+    coordinates: '3521N 13620E'
+    remarks: ''
+-
+    ch: ''
     locode: 'JP TJK'
     name: Takashima/Masuda
     namewodiacritics: Takashima/Masuda
@@ -18345,6 +21441,18 @@
     date: '9907'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'JP JAT'
+    name: Takatsuki
+    namewodiacritics: Takatsuki
+    subdiv: '27'
+    function: '-----6--'
+    status: AF
+    date: '1501'
+    iata: ''
+    coordinates: '3451N 13537E'
     remarks: ''
 -
     ch: ''
@@ -18480,6 +21588,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'JP TIW'
+    name: 'Takikawa, Hokkaido'
+    namewodiacritics: 'Takikawa, Hokkaido'
+    subdiv: '01'
+    function: '-----6--'
+    status: AF
+    date: '1601'
+    iata: ''
+    coordinates: '4333N 14154E'
+    remarks: ''
+-
+    ch: ''
     locode: 'JP TKM'
     name: Takuma
     namewodiacritics: Takuma
@@ -18576,6 +21696,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'JP HVM'
+    name: Tamba
+    namewodiacritics: Tamba
+    subdiv: '28'
+    function: '-----6--'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '3511N 13502E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'JP AUR'
+    name: Tamura
+    namewodiacritics: Tamura
+    subdiv: '07'
+    function: '-----6--'
+    status: RQ
+    date: '1601'
+    iata: ''
+    coordinates: '3726N 14034E'
+    remarks: ''
+-
+    ch: ''
     locode: 'JP TAE'
     name: Tanabe
     namewodiacritics: Tanabe
@@ -18597,6 +21741,18 @@
     date: '9907'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'JP TNZ'
+    name: 'Tanagura, Fukushima'
+    namewodiacritics: 'Tanagura, Fukushima'
+    subdiv: '07'
+    function: '--3--6--'
+    status: AF
+    date: '1601'
+    iata: ''
+    coordinates: '3701N 14022E'
     remarks: ''
 -
     ch: ''
@@ -18801,6 +21957,18 @@
     date: '9907'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: +
+    locode: 'JP TTC'
+    name: Tateyama
+    namewodiacritics: Tateyama
+    subdiv: '16'
+    function: '--3--6--'
+    status: AA
+    date: '2201'
+    iata: ''
+    coordinates: '3639N 13718E'
     remarks: ''
 -
     ch: ''
@@ -19037,8 +22205,8 @@
     namewodiacritics: Tobishima-Mura
     subdiv: '23'
     function: '--3-----'
-    status: RL
-    date: '0901'
+    status: AF
+    date: '1501'
     iata: ''
     coordinates: '3505N 13647E'
     remarks: ''
@@ -19068,6 +22236,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'JP TTD'
+    name: Toda
+    namewodiacritics: Toda
+    subdiv: '11'
+    function: '-----6--'
+    status: AF
+    date: '1501'
+    iata: ''
+    coordinates: '3549N 13941E'
+    remarks: ''
+-
+    ch: ''
     locode: 'JP TOD'
     name: Todohokke
     namewodiacritics: Todohokke
@@ -19089,6 +22269,18 @@
     date: '9907'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'JP TOC'
+    name: Togane
+    namewodiacritics: Togane
+    subdiv: '12'
+    function: 1----6--
+    status: AF
+    date: '1501'
+    iata: ''
+    coordinates: '3534N 14022E'
     remarks: ''
 -
     ch: ''
@@ -19140,6 +22332,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'JP TNC'
+    name: 'Toin, Mie'
+    namewodiacritics: 'Toin, Mie'
+    subdiv: '24'
+    function: '-----6--'
+    status: AF
+    date: '1607'
+    iata: ''
+    coordinates: '3504N 13635E'
+    remarks: ''
+-
+    ch: ''
     locode: 'JP TJM'
     name: Tojima
     namewodiacritics: Tojima
@@ -19176,6 +22380,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'JP TKB'
+    name: Tokamachi
+    namewodiacritics: Tokamachi
+    subdiv: '15'
+    function: '--3--6--'
+    status: AF
+    date: '1901'
+    iata: ''
+    coordinates: '3708N 13846E'
+    remarks: ''
+-
+    ch: ''
     locode: 'JP TJS'
     name: Tokashiki
     namewodiacritics: Tokashiki
@@ -19185,6 +22401,30 @@
     date: '9907'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'JP GHU'
+    name: 'Toki Gifu'
+    namewodiacritics: 'Toki Gifu'
+    subdiv: '21'
+    function: '-----6--'
+    status: AF
+    date: '1701'
+    iata: ''
+    coordinates: '3521N 13711E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'JP HKG'
+    name: Tokigawa
+    namewodiacritics: Tokigawa
+    subdiv: '11'
+    function: '-----6--'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '3601N 13918E'
     remarks: ''
 -
     ch: ''
@@ -19245,6 +22485,18 @@
     date: '9907'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'JP TWZ'
+    name: Tokorozawa
+    namewodiacritics: Tokorozawa
+    subdiv: '11'
+    function: '-----6--'
+    status: AF
+    date: '1501'
+    iata: ''
+    coordinates: '3547N 13928E'
     remarks: ''
 -
     ch: ''
@@ -19428,6 +22680,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'JP TMG'
+    name: 'Tomigusuku, Okinawa'
+    namewodiacritics: 'Tomigusuku, Okinawa'
+    subdiv: '47'
+    function: '-----6--'
+    status: AF
+    date: '1707'
+    iata: ''
+    coordinates: '2611N 12740E'
+    remarks: ''
+-
+    ch: ''
     locode: 'JP TMM'
     name: Tomiku
     namewodiacritics: Tomiku
@@ -19476,6 +22740,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'JP TMY'
+    name: Tomiya
+    namewodiacritics: Tomiya
+    subdiv: '04'
+    function: '-----6--'
+    status: AF
+    date: '1801'
+    iata: ''
+    coordinates: '3823N 14053E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'JP TNM'
+    name: Tonami
+    namewodiacritics: Tonami
+    subdiv: '16'
+    function: '-----6--'
+    status: RQ
+    date: '1601'
+    iata: ''
+    coordinates: '3638N 13657E'
+    remarks: ''
+-
+    ch: ''
     locode: 'JP TND'
     name: Tonda
     namewodiacritics: Tonda
@@ -19485,6 +22773,30 @@
     date: '9907'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'JP TDY'
+    name: Tondabayashi
+    namewodiacritics: Tondabayashi
+    subdiv: '27'
+    function: '-----6--'
+    status: AF
+    date: '1501'
+    iata: ''
+    coordinates: '3430N 13536E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'JP WTN'
+    name: Tono
+    namewodiacritics: Tono
+    subdiv: '03'
+    function: '-----6--'
+    status: AA
+    date: '2007'
+    iata: ''
+    coordinates: '3919N 14132E'
     remarks: ''
 -
     ch: ''
@@ -19524,6 +22836,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'JP TOO'
+    name: 'Toon, Ehime'
+    namewodiacritics: 'Toon, Ehime'
+    subdiv: '38'
+    function: '-----6--'
+    status: AF
+    date: '1707'
+    iata: ''
+    coordinates: '3347N 13252E'
+    remarks: ''
+-
+    ch: ''
     locode: 'JP TOR'
     name: Toride
     namewodiacritics: Toride
@@ -19545,6 +22869,18 @@
     date: '9907'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'JP TSL'
+    name: 'Tosa, Kochi'
+    namewodiacritics: 'Tosa, Kochi'
+    subdiv: '39'
+    function: '-----6--'
+    status: AF
+    date: '1707'
+    iata: ''
+    coordinates: '3330N 13326E'
     remarks: ''
 -
     ch: ''
@@ -19668,6 +23004,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'JP TOA'
+    name: Toyo
+    namewodiacritics: Toyo
+    subdiv: '38'
+    function: 1----6--
+    status: AF
+    date: '1801'
+    iata: ''
+    coordinates: '3355N 13305E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'JP YKE'
+    name: Toyoake
+    namewodiacritics: Toyoake
+    subdiv: '23'
+    function: '--3-----'
+    status: AF
+    date: '1407'
+    iata: ''
+    coordinates: '3532N 13757E'
+    remarks: ''
+-
+    ch: ''
     locode: 'JP TYJ'
     name: 'Toyohama, Aichi'
     namewodiacritics: 'Toyohama, Aichi'
@@ -19788,6 +23148,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'JP TYC'
+    name: 'Toyoyama, Aichi'
+    namewodiacritics: 'Toyoyama, Aichi'
+    subdiv: '23'
+    function: '-----6--'
+    status: AF
+    date: '1601'
+    iata: ''
+    coordinates: '3515N 13655E'
+    remarks: ''
+-
+    ch: ''
     locode: 'JP TSU'
     name: Tsu
     namewodiacritics: Tsu
@@ -19797,6 +23169,30 @@
     date: '9907'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'JP TUB'
+    name: Tsubame
+    namewodiacritics: Tsubame
+    subdiv: '15'
+    function: 1-------
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '3739N 13856E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'JP AAE'
+    name: 'Tsubata, Ishikawa'
+    namewodiacritics: 'Tsubata, Ishikawa'
+    subdiv: '17'
+    function: '-----6--'
+    status: AF
+    date: '1607'
+    iata: ''
+    coordinates: '3640N 13644E'
     remarks: ''
 -
     ch: ''
@@ -19896,6 +23292,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'JP GSG'
+    name: 'Tsumagoi, Gunma'
+    namewodiacritics: 'Tsumagoi, Gunma'
+    subdiv: '10'
+    function: '-----6--'
+    status: AF
+    date: '1601'
+    iata: ''
+    coordinates: '3631N 13831E'
+    remarks: ''
+-
+    ch: ''
     locode: 'JP TNA'
     name: Tsuna
     namewodiacritics: Tsuna
@@ -19917,6 +23325,18 @@
     date: '9907'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'JP TSN'
+    name: Tsuno
+    namewodiacritics: Tsuno
+    subdiv: '45'
+    function: '-----6--'
+    status: AF
+    date: '1501'
+    iata: ''
+    coordinates: '3215N 13134E'
     remarks: ''
 -
     ch: ''
@@ -20040,6 +23460,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'JP DFG'
+    name: 'Tsushima, Aichi'
+    namewodiacritics: 'Tsushima, Aichi'
+    subdiv: '23'
+    function: '-----6--'
+    status: AF
+    date: '1601'
+    iata: ''
+    coordinates: '3510N 13643E'
+    remarks: ''
+-
+    ch: ''
     locode: 'JP TST'
     name: Tsutsu
     namewodiacritics: Tsutsu
@@ -20064,6 +23496,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'JP TSY'
+    name: 'Tsuyama, Okayama'
+    namewodiacritics: 'Tsuyama, Okayama'
+    subdiv: '33'
+    function: '-----6--'
+    status: AF
+    date: '1607'
+    iata: ''
+    coordinates: '3530N 13400E'
+    remarks: ''
+-
+    ch: ''
     locode: 'JP TYP'
     name: Tsuyoshi
     namewodiacritics: Tsuyoshi
@@ -20073,6 +23517,18 @@
     date: '9907'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'JP TUZ'
+    name: 'Tsuzu Yamaguchi'
+    namewodiacritics: 'Tsuzu Yamaguchi'
+    subdiv: '35'
+    function: 1-------
+    status: AF
+    date: '1707'
+    iata: ''
+    coordinates: '3403N 13212E'
     remarks: ''
 -
     ch: ''
@@ -20232,6 +23688,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'JP UDE'
+    name: Ueda
+    namewodiacritics: Ueda
+    subdiv: '20'
+    function: '--3-----'
+    status: AF
+    date: '1407'
+    iata: ''
+    coordinates: '3624N 13816E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'JP UEN'
+    name: Uenohara
+    namewodiacritics: Uenohara
+    subdiv: '19'
+    function: '--3-----'
+    status: AA
+    date: '2107'
+    iata: ''
+    coordinates: '3537N 13906E'
+    remarks: ''
+-
+    ch: ''
     locode: 'JP UGA'
     name: Uga
     namewodiacritics: Uga
@@ -20253,6 +23733,18 @@
     date: '9907'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'JP UJJ'
+    name: Uji
+    namewodiacritics: Uji
+    subdiv: '26'
+    function: '--3-----'
+    status: AF
+    date: '1801'
+    iata: ''
+    coordinates: '3453N 13548E'
     remarks: ''
 -
     ch: ''
@@ -20340,6 +23832,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'JP UUN'
+    name: Unnan
+    namewodiacritics: Unnan
+    subdiv: '32'
+    function: 1----6--
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '3517N 13254E'
+    remarks: ''
+-
+    ch: ''
     locode: 'JP UNO'
     name: Uno
     namewodiacritics: Uno
@@ -20385,6 +23889,18 @@
     date: '9907'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'JP UON'
+    name: Uonuma
+    namewodiacritics: Uonuma
+    subdiv: '15'
+    function: '--3--6--'
+    status: AF
+    date: '1901'
+    iata: ''
+    coordinates: '3713N 13857E'
     remarks: ''
 -
     ch: ''
@@ -20472,6 +23988,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'JP UHO'
+    name: Urahoro
+    namewodiacritics: Urahoro
+    subdiv: '01'
+    function: '--3-----'
+    status: AF
+    date: '1501'
+    iata: ''
+    coordinates: '4248N 14339E'
+    remarks: ''
+-
+    ch: ''
     locode: 'JP URK'
     name: Urakawa
     namewodiacritics: Urakawa
@@ -20541,6 +24069,54 @@
     date: '0607'
     iata: ''
     coordinates: '3539N 13954E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'JP UFZ'
+    name: 'Urazoe, Okinawa'
+    namewodiacritics: 'Urazoe, Okinawa'
+    subdiv: '47'
+    function: '-----6--'
+    status: AF
+    date: '1601'
+    iata: ''
+    coordinates: '2615N 12742E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'JP UHI'
+    name: 'Ureshino Saga'
+    namewodiacritics: 'Ureshino Saga'
+    subdiv: '41'
+    function: '-----6--'
+    status: AF
+    date: '1701'
+    iata: ''
+    coordinates: '3307N 13003E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'JP UMA'
+    name: Uruma
+    namewodiacritics: Uruma
+    subdiv: '47'
+    function: '-----6--'
+    status: RQ
+    date: '1601'
+    iata: ''
+    coordinates: '2622N 12751E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'JP USB'
+    name: Usa
+    namewodiacritics: Usa
+    subdiv: '44'
+    function: '-----6--'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '3331N 13120E'
     remarks: ''
 -
     ch: ''
@@ -20820,6 +24396,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'JP WKS'
+    name: 'Wakasa Fukui'
+    namewodiacritics: 'Wakasa Fukui'
+    subdiv: '18'
+    function: '-----6--'
+    status: AF
+    date: '1701'
+    iata: ''
+    coordinates: '3527N 13551E'
+    remarks: ''
+-
+    ch: ''
     locode: 'JP WKT'
     name: Wakatsu
     namewodiacritics: Wakatsu
@@ -20841,6 +24429,18 @@
     date: '9907'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'JP WKE'
+    name: Wake
+    namewodiacritics: Wake
+    subdiv: '33'
+    function: '-----6--'
+    status: AF
+    date: '1801'
+    iata: ''
+    coordinates: '3451N 13405E'
     remarks: ''
 -
     ch: ''
@@ -20904,6 +24504,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'JP WOT'
+    name: Wako
+    namewodiacritics: Wako
+    subdiv: '11'
+    function: '-----6--'
+    status: AF
+    date: '1501'
+    iata: ''
+    coordinates: '3547N 13936E'
+    remarks: ''
+-
+    ch: ''
     locode: 'JP WKR'
     name: Wakura
     namewodiacritics: Wakura
@@ -20952,6 +24564,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'JP OUI'
+    name: 'Wanouchi, Gifu'
+    namewodiacritics: 'Wanouchi, Gifu'
+    subdiv: '21'
+    function: '-----6--'
+    status: AF
+    date: '1601'
+    iata: ''
+    coordinates: '3517N 13638E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'JP WIR'
+    name: Warabi
+    namewodiacritics: Warabi
+    subdiv: '11'
+    function: '-----6--'
+    status: AF
+    date: '1501'
+    iata: ''
+    coordinates: '3549N 13942E'
+    remarks: ''
+-
+    ch: ''
     locode: 'JP WSB'
     name: Washibeyanoura
     namewodiacritics: Washibeyanoura
@@ -20985,6 +24621,18 @@
     date: '9907'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'JP HGG'
+    name: Yabu
+    namewodiacritics: Yabu
+    subdiv: '28'
+    function: '--3-----'
+    status: AF
+    date: '1407'
+    iata: ''
+    coordinates: '3523N 13449E'
     remarks: ''
 -
     ch: ''
@@ -21071,6 +24719,18 @@
     coordinates: ''
     remarks: ''
 -
+    ch: +
+    locode: 'JP YHK'
+    name: Yahiko
+    namewodiacritics: Yahiko
+    subdiv: '15'
+    function: '-----6--'
+    status: AA
+    date: '2201'
+    iata: ''
+    coordinates: '3742N 13850E'
+    remarks: ''
+-
     ch: ''
     locode: 'JP YZU'
     name: Yaizu
@@ -21153,6 +24813,18 @@
     date: '9907'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'JP YUF'
+    name: Yamagata
+    namewodiacritics: Yamagata
+    subdiv: '21'
+    function: '-----6--'
+    status: AF
+    date: '1801'
+    iata: ''
+    coordinates: '3530N 13647E'
     remarks: ''
 -
     ch: ''
@@ -21241,14 +24913,38 @@
 -
     ch: ''
     locode: 'JP YIH'
-    name: Yamato-Shi
-    namewodiacritics: Yamato-Shi
-    subdiv: ''
+    name: Yamato
+    namewodiacritics: Yamato
+    subdiv: '14'
     function: '--3-----'
-    status: RQ
-    date: '1007'
+    status: AF
+    date: '1501'
     iata: ''
-    coordinates: '3548N 13945E'
+    coordinates: '3529N 13927E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'JP WYA'
+    name: Yamatokoriyama
+    namewodiacritics: Yamatokoriyama
+    subdiv: '29'
+    function: '-----6--'
+    status: AF
+    date: '1501'
+    iata: ''
+    coordinates: '3439N 13547E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'JP YEA'
+    name: 'Yame, Fukuoka'
+    namewodiacritics: 'Yame, Fukuoka'
+    subdiv: '40'
+    function: '-----6--'
+    status: AF
+    date: '1601'
+    iata: ''
+    coordinates: '3311N 13033E'
     remarks: ''
 -
     ch: ''
@@ -21443,7 +25139,7 @@
     coordinates: ''
     remarks: ''
 -
-    ch: +
+    ch: ''
     locode: 'JP YDG'
     name: Yodogawa-Ku
     namewodiacritics: Yodogawa-Ku
@@ -21636,6 +25332,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'JP YRR'
+    name: Yorii
+    namewodiacritics: Yorii
+    subdiv: '11'
+    function: '-----6--'
+    status: AF
+    date: '1501'
+    iata: ''
+    coordinates: '3607N 13912E'
+    remarks: ''
+-
+    ch: ''
     locode: 'JP YOR'
     name: Yoro
     namewodiacritics: Yoro
@@ -21645,6 +25353,18 @@
     date: '9907'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'JP YRO'
+    name: Yoro
+    namewodiacritics: Yoro
+    subdiv: '21'
+    function: 1----6--
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '3518N 13633E'
     remarks: ''
 -
     ch: ''
@@ -21696,6 +25416,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'JP YOA'
+    name: Yoshikawa
+    namewodiacritics: Yoshikawa
+    subdiv: '11'
+    function: '--3-----'
+    status: AF
+    date: '1407'
+    iata: ''
+    coordinates: '3553N 13950E'
+    remarks: ''
+-
+    ch: ''
     locode: 'JP YSM'
     name: Yoshima
     namewodiacritics: Yoshima
@@ -21705,6 +25437,30 @@
     date: '9907'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'JP YOZ'
+    name: 'Yoshino, Nara'
+    namewodiacritics: 'Yoshino, Nara'
+    subdiv: '29'
+    function: '-----6--'
+    status: AF
+    date: '1607'
+    iata: ''
+    coordinates: '3424N 13551E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'JP YOW'
+    name: 'Yoshinogawa Tokushima'
+    namewodiacritics: 'Yoshinogawa Tokushima'
+    subdiv: '36'
+    function: '-----6--'
+    status: AF
+    date: '1701'
+    iata: ''
+    coordinates: '3401N 13415E'
     remarks: ''
 -
     ch: ''
@@ -21780,6 +25536,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'JP YKD'
+    name: 'Yotsukaido, Chiba'
+    namewodiacritics: 'Yotsukaido, Chiba'
+    subdiv: '12'
+    function: '-----6--'
+    status: AF
+    date: '1601'
+    iata: ''
+    coordinates: '3539N 14010E'
+    remarks: ''
+-
+    ch: ''
     locode: 'JP YOT'
     name: Yotsukura
     namewodiacritics: Yotsukura
@@ -21801,6 +25569,18 @@
     date: '9907'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'JP YAZ'
+    name: Yuasa
+    namewodiacritics: Yuasa
+    subdiv: '30'
+    function: '--3-----'
+    status: AF
+    date: '1407'
+    iata: ''
+    coordinates: '3402N 13511E'
     remarks: ''
 -
     ch: ''
@@ -21852,18 +25632,6 @@
     remarks: ''
 -
     ch: ''
-    locode: 'JP YUK'
-    name: Yuki
-    namewodiacritics: Yuki
-    subdiv: '36'
-    function: 1-------
-    status: AF
-    date: '9907'
-    iata: ''
-    coordinates: ''
-    remarks: ''
--
-    ch: ''
     locode: 'JP YKI'
     name: Yuki
     namewodiacritics: Yuki
@@ -21873,6 +25641,18 @@
     date: '0501'
     iata: ''
     coordinates: '3618N 13953E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'JP YUK'
+    name: Yuki
+    namewodiacritics: Yuki
+    subdiv: '36'
+    function: 1-------
+    status: AF
+    date: '9907'
+    iata: ''
+    coordinates: ''
     remarks: ''
 -
     ch: ''
@@ -21996,6 +25776,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'JP YIO'
+    name: 'Yurihonjo, Akita'
+    namewodiacritics: 'Yurihonjo, Akita'
+    subdiv: '05'
+    function: '-----6--'
+    status: AF
+    date: '1601'
+    iata: ''
+    coordinates: '3923N 14002E'
+    remarks: ''
+-
+    ch: ''
     locode: 'JP YUS'
     name: Yusu
     namewodiacritics: Yusu
@@ -22056,6 +25848,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'JP ZWA'
+    name: 'Yuzawa, Akita'
+    namewodiacritics: 'Yuzawa, Akita'
+    subdiv: '05'
+    function: '-----6--'
+    status: AF
+    date: '1601'
+    iata: ''
+    coordinates: '3910N 14030E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'JP YNW'
+    name: 'Yuzawa, Niigata'
+    namewodiacritics: 'Yuzawa, Niigata'
+    subdiv: '15'
+    function: '-----6--'
+    status: AF
+    date: '1601'
+    iata: ''
+    coordinates: '3656N 13849E'
+    remarks: ''
+-
+    ch: ''
     locode: 'JP ZAM'
     name: Zama
     namewodiacritics: Zama
@@ -22077,4 +25893,16 @@
     date: '9907'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'JP AXZ'
+    name: Zushi
+    namewodiacritics: Zushi
+    subdiv: '14'
+    function: 1----6--
+    status: AF
+    date: '1501'
+    iata: ''
+    coordinates: '3517N 13935E'
     remarks: ''

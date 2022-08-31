@@ -1,5 +1,29 @@
 -
     ch: ''
+    locode: 'ZA ANL'
+    name: Addington
+    namewodiacritics: Addington
+    subdiv: KZN
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '2951S 03102E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZA ADO'
+    name: Addo
+    namewodiacritics: Addo
+    subdiv: EC
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '3334S 02541E'
+    remarks: ''
+-
+    ch: ''
     locode: 'ZA ZAB'
     name: Adelaide
     namewodiacritics: Adelaide
@@ -11,11 +35,11 @@
     coordinates: '3242S 02618E'
     remarks: ''
 -
-    ch: +
+    ch: ''
     locode: 'ZA AET'
     name: Aeroton
     namewodiacritics: Aeroton
-    subdiv: GT
+    subdiv: GP
     function: '--3-----'
     status: RL
     date: '1307'
@@ -30,9 +54,9 @@
     subdiv: ''
     function: '---4----'
     status: AI
-    date: '0001'
+    date: '1801'
     iata: ''
-    coordinates: ''
+    coordinates: '2912S 01851E'
     remarks: ''
 -
     ch: ''
@@ -84,6 +108,42 @@
     remarks: ''
 -
     ch: ''
+    locode: 'ZA AGP'
+    name: Algoapark
+    namewodiacritics: Algoapark
+    subdiv: EC
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '3354S 02534E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZA ALI'
+    name: Alice
+    namewodiacritics: Alice
+    subdiv: EC
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '3247S 02650E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZA AWN'
+    name: 'Aliwal North'
+    namewodiacritics: 'Aliwal North'
+    subdiv: KZN
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '3042S 02642E'
+    remarks: ''
+-
+    ch: ''
     locode: 'ZA ADY'
     name: Alldays
     namewodiacritics: Alldays
@@ -111,7 +171,7 @@
     locode: 'ZA ALN'
     name: Alton
     namewodiacritics: Alton
-    subdiv: NL
+    subdiv: KZN
     function: '-----6--'
     status: RL
     date: '1201'
@@ -156,6 +216,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'ZA AMU'
+    name: Amatikulu
+    namewodiacritics: Amatikulu
+    subdiv: KZN
+    function: '--3-----'
+    status: RL
+    date: '1707'
+    iata: ''
+    coordinates: '2903S 03132E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZA AME'
+    name: Amersfoort
+    namewodiacritics: Amersfoort
+    subdiv: MP
+    function: '--3-----'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '2701S 02952E'
+    remarks: ''
+-
+    ch: ''
     locode: 'ZA ZAE'
     name: Amsterdam
     namewodiacritics: Amsterdam
@@ -192,6 +276,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'ZA ASG'
+    name: Assagay
+    namewodiacritics: Assagay
+    subdiv: KZN
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '2947S 03044E'
+    remarks: ''
+-
+    ch: ''
     locode: 'ZA ATN'
     name: Athlone
     namewodiacritics: Athlone
@@ -216,6 +312,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'ZA AUG'
+    name: Augrabies
+    namewodiacritics: Augrabies
+    subdiv: NC
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '2839S 02025E'
+    remarks: ''
+-
+    ch: ''
     locode: 'ZA HBL'
     name: Babelegi
     namewodiacritics: Babelegi
@@ -225,6 +333,30 @@
     date: '0001'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZA BA4'
+    name: Balfour
+    namewodiacritics: Balfour
+    subdiv: MP
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '2639N 02835E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZA BAL'
+    name: 'Ballito Bay'
+    namewodiacritics: 'Ballito Bay'
+    subdiv: KZN
+    function: '-23-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '2932S 03113E'
     remarks: ''
 -
     ch: ''
@@ -267,7 +399,7 @@
     locode: 'ZA BHD'
     name: Bayhead
     namewodiacritics: Bayhead
-    subdiv: NL
+    subdiv: KZN
     function: '-23-----'
     status: RL
     date: '0701'
@@ -339,7 +471,7 @@
     locode: 'ZA BFV'
     name: Bedfordview
     namewodiacritics: Bedfordview
-    subdiv: GT
+    subdiv: GP
     function: '-23-----'
     status: RL
     date: '0501'
@@ -369,6 +501,18 @@
     date: '0901'
     iata: ''
     coordinates: '2455S 03122E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZA BKN'
+    name: Bellair
+    namewodiacritics: Bellair
+    subdiv: KZN
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '2953S 03057E'
     remarks: ''
 -
     ch: ''
@@ -420,6 +564,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'ZA BNL'
+    name: Berea
+    namewodiacritics: Berea
+    subdiv: KZN
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '2956S 03100E'
+    remarks: ''
+-
+    ch: ''
     locode: 'ZA ZFQ'
     name: Berea
     namewodiacritics: Berea
@@ -459,12 +615,24 @@
     locode: 'ZA BET'
     name: Bethal
     namewodiacritics: Bethal
-    subdiv: GT
+    subdiv: GP
     function: '--3-----'
     status: RL
     date: '1107'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZA BED'
+    name: Bethelsdorp
+    namewodiacritics: Bethelsdorp
+    subdiv: EC
+    function: '--3-----'
+    status: RL
+    date: '1707'
+    iata: ''
+    coordinates: '3353S 02530E'
     remarks: ''
 -
     ch: ''
@@ -480,6 +648,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'ZA BTY'
+    name: 'Betty''s Bay'
+    namewodiacritics: 'Betty''s Bay'
+    subdiv: WC
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3422S 01856E'
+    remarks: ''
+-
+    ch: ''
     locode: 'ZA BIY'
     name: Bisho
     namewodiacritics: Bisho
@@ -489,6 +669,18 @@
     date: '0001'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZA BSX'
+    name: Bishopscourt
+    namewodiacritics: Bishopscourt
+    subdiv: WC
+    function: '-----6--'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3359S 01827E'
     remarks: ''
 -
     ch: ''
@@ -507,12 +699,12 @@
     locode: 'ZA BFN'
     name: Bloemfontein
     namewodiacritics: Bloemfontein
-    subdiv: ''
+    subdiv: FS
     function: '-2345---'
     status: AF
-    date: '9501'
+    date: '1601'
     iata: ''
-    coordinates: ''
+    coordinates: '2908S 02612E'
     remarks: ''
 -
     ch: ''
@@ -552,6 +744,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'ZA BWB'
+    name: 'Bluewater Bay'
+    namewodiacritics: 'Bluewater Bay'
+    subdiv: EC
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '3351S 02528E'
+    remarks: ''
+-
+    ch: ''
     locode: 'ZA BOC'
     name: Bochum
     namewodiacritics: Bochum
@@ -563,7 +767,7 @@
     coordinates: '2317S 02907E'
     remarks: ''
 -
-    ch: +
+    ch: ''
     locode: 'ZA BKP'
     name: Bokpoort
     namewodiacritics: Bokpoort
@@ -600,6 +804,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'ZA BNN'
+    name: Bonnievale
+    namewodiacritics: Bonnievale
+    subdiv: WC
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3356S 02006E'
+    remarks: ''
+-
+    ch: ''
     locode: 'ZA BYS'
     name: Booysens
     namewodiacritics: Booysens
@@ -609,6 +825,18 @@
     date: '9901'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZA BTA'
+    name: 'Botha''s Hill'
+    namewodiacritics: 'Botha''s Hill'
+    subdiv: KZN
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '2943S 03044E'
     remarks: ''
 -
     ch: ''
@@ -648,6 +876,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'ZA BTS'
+    name: Botshabelo
+    namewodiacritics: Botshabelo
+    subdiv: FS
+    function: '--3--6--'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '2650S 02751E'
+    remarks: ''
+-
+    ch: ''
     locode: 'ZA BWA'
     name: Botswana
     namewodiacritics: Botswana
@@ -657,6 +897,30 @@
     date: '0901'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZA 8GT'
+    name: Bottelary
+    namewodiacritics: Bottelary
+    subdiv: WC
+    function: 1----6--
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3308S 01806E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZA BGH'
+    name: Boughton
+    namewodiacritics: Boughton
+    subdiv: KZN
+    function: '--3-----'
+    status: RL
+    date: '1707'
+    iata: ''
+    coordinates: '2936S 03019E'
     remarks: ''
 -
     ch: ''
@@ -696,6 +960,18 @@
     remarks: Transvaal
 -
     ch: ''
+    locode: 'ZA BRM'
+    name: Bramley
+    namewodiacritics: Bramley
+    subdiv: GP
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '2607S 02804E'
+    remarks: ''
+-
+    ch: ''
     locode: 'ZA ZFR'
     name: 'Bramley View'
     namewodiacritics: 'Bramley View'
@@ -717,6 +993,18 @@
     date: '0901'
     iata: ''
     coordinates: '3432S 02002E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZA BRV'
+    name: Breërivier
+    namewodiacritics: Breerivier
+    subdiv: WC
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3332S 01913E'
     remarks: ''
 -
     ch: ''
@@ -744,10 +1032,22 @@
     remarks: ''
 -
     ch: ''
+    locode: 'ZA BDS'
+    name: Broederstroom
+    namewodiacritics: Broederstroom
+    subdiv: MP
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '2548S 02752E'
+    remarks: ''
+-
+    ch: ''
     locode: 'ZA BHT'
     name: Bronkhorstspruit
     namewodiacritics: Bronkhorstspruit
-    subdiv: GT
+    subdiv: GP
     function: '-23-----'
     status: RL
     date: '0212'
@@ -783,12 +1083,36 @@
     locode: 'ZA BSN'
     name: Bryanston
     namewodiacritics: Bryanston
-    subdiv: GT
+    subdiv: GP
     function: '--3-----'
     status: RL
     date: '0501'
     iata: ''
     coordinates: '2603S 02802E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZA BLW'
+    name: Bulwer
+    namewodiacritics: Bulwer
+    subdiv: KZN
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '2948S 02945E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZA BRR'
+    name: Burgersdorp
+    namewodiacritics: Burgersdorp
+    subdiv: EC
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3059S 02619E'
     remarks: ''
 -
     ch: ''
@@ -816,6 +1140,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'ZA CAD'
+    name: Caledon
+    namewodiacritics: Caledon
+    subdiv: WC
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3413S 01925E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZA CZP'
+    name: Calitzdorp
+    namewodiacritics: Calitzdorp
+    subdiv: WC
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3332S 02141E'
+    remarks: ''
+-
+    ch: ''
     locode: 'ZA ZAU'
     name: Cambridge
     namewodiacritics: Cambridge
@@ -839,7 +1187,7 @@
     coordinates: '2943S 03031E'
     remarks: ''
 -
-    ch: +
+    ch: ''
     locode: 'ZA CPB'
     name: 'Camps Bay'
     namewodiacritics: 'Camps Bay'
@@ -864,6 +1212,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'ZA CAS'
+    name: 'Cape Agulhas'
+    namewodiacritics: 'Cape Agulhas'
+    subdiv: WC
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3450S 02000E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZA CSF'
+    name: 'Cape St. Francis'
+    namewodiacritics: 'Cape St. Francis'
+    subdiv: EC
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '3411S 02450E'
+    remarks: ''
+-
+    ch: ''
     locode: 'ZA CPT'
     name: 'Cape Town'
     namewodiacritics: 'Cape Town'
@@ -885,6 +1257,18 @@
     date: '0901'
     iata: ''
     coordinates: '2544S 02812E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZA CTV'
+    name: Carletonville
+    namewodiacritics: Carletonville
+    subdiv: GP
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '2622S 02724E'
     remarks: ''
 -
     ch: ''
@@ -924,6 +1308,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'ZA CCT'
+    name: 'Century City'
+    namewodiacritics: 'Century City'
+    subdiv: WC
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '3353S 01830E'
+    remarks: ''
+-
+    ch: ''
     locode: 'ZA CRS'
     name: Ceres
     namewodiacritics: Ceres
@@ -948,6 +1344,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'ZA CTH'
+    name: Chatsworth
+    namewodiacritics: Chatsworth
+    subdiv: KZN
+    function: '--3-----'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '2954S 03053E'
+    remarks: ''
+-
+    ch: ''
     locode: 'ZA ZAV'
     name: Chiselhurst
     namewodiacritics: Chiselhurst
@@ -969,6 +1377,18 @@
     date: '0601'
     iata: ''
     coordinates: '2803S 02812E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZA CHR'
+    name: Christiana
+    namewodiacritics: Christiana
+    subdiv: NC
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '2755S 02510E'
     remarks: ''
 -
     ch: ''
@@ -1056,13 +1476,25 @@
     remarks: ''
 -
     ch: ''
+    locode: 'ZA CLV'
+    name: Clayville
+    namewodiacritics: Clayville
+    subdiv: GP
+    function: '--3-----'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '2557S 02813E'
+    remarks: ''
+-
+    ch: ''
     locode: 'ZA ZBA'
     name: Coega
     namewodiacritics: Coega
     subdiv: EC
-    function: '-----6--'
+    function: 1----6--
     status: RL
-    date: '0901'
+    date: '2107'
     iata: ''
     coordinates: '3346S 02540E'
     remarks: ''
@@ -1095,7 +1527,7 @@
     locode: 'ZA CMT'
     name: Compensation
     namewodiacritics: Compensation
-    subdiv: NL
+    subdiv: KZN
     function: '-----6--'
     status: RL
     date: '1201'
@@ -1107,7 +1539,7 @@
     locode: 'ZA CGN'
     name: Congella
     namewodiacritics: Congella
-    subdiv: NL
+    subdiv: KZN
     function: '-23-----'
     status: RL
     date: '0307'
@@ -1125,6 +1557,30 @@
     date: '0901'
     iata: ''
     coordinates: '3401S 01827E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZA SBY'
+    name: 'Cordon''s Bay'
+    namewodiacritics: 'Cordon''s Bay'
+    subdiv: WC
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3410S 01852E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZA COT'
+    name: Cotswold
+    namewodiacritics: Cotswold
+    subdiv: EC
+    function: '--3-----'
+    status: RL
+    date: '1707'
+    iata: ''
+    coordinates: '3356S 02532E'
     remarks: ''
 -
     ch: ''
@@ -1155,12 +1611,36 @@
     locode: 'ZA CHL'
     name: 'Craighall Park'
     namewodiacritics: 'Craighall Park'
-    subdiv: GT
+    subdiv: GP
     function: '-----6--'
     status: RQ
     date: '1007'
     iata: ''
     coordinates: '2608S 02801E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZA CRM'
+    name: Cramond
+    namewodiacritics: Cramond
+    subdiv: KZN
+    function: '--3-----'
+    status: RL
+    date: '1707'
+    iata: ''
+    coordinates: '2924S 03025E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZA CGH'
+    name: Creighton
+    namewodiacritics: Creighton
+    subdiv: KZN
+    function: '-----6--'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3002S 02950E'
     remarks: ''
 -
     ch: ''
@@ -1191,7 +1671,7 @@
     locode: 'ZA CNA'
     name: Cullinan
     namewodiacritics: Cullinan
-    subdiv: GT
+    subdiv: GP
     function: '-23-----'
     status: RL
     date: '0401'
@@ -1248,6 +1728,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'ZA DNH'
+    name: Dannhauser
+    namewodiacritics: Dannhauser
+    subdiv: KZN
+    function: '--3-----'
+    status: RL
+    date: '2001'
+    iata: ''
+    coordinates: '2800S 03003E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZA DAR'
+    name: Darling
+    namewodiacritics: Darling
+    subdiv: WC
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3323S 01823E'
+    remarks: ''
+-
+    ch: ''
     locode: 'ZA DSS'
     name: Dassenberg
     namewodiacritics: Dassenberg
@@ -1287,12 +1791,36 @@
     locode: 'ZA DDR'
     name: 'De Deur'
     namewodiacritics: 'De Deur'
-    subdiv: GT
+    subdiv: GP
     function: '-----6--'
     status: RQ
     date: '1007'
     iata: ''
     coordinates: '2632S 02756E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZA DRU'
+    name: 'De Rust'
+    namewodiacritics: 'De Rust'
+    subdiv: WC
+    function: 1----6--
+    status: AM
+    date: '2007'
+    iata: ''
+    coordinates: '3329S 02232E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZA DWK'
+    name: 'De Waterkant'
+    namewodiacritics: 'De Waterkant'
+    subdiv: WC
+    function: 1----6--
+    status: RQ
+    date: '1801'
+    iata: ''
+    coordinates: '3354S 01825E'
     remarks: ''
 -
     ch: ''
@@ -1320,6 +1848,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'ZA DNV'
+    name: Deneysville
+    namewodiacritics: Deneysville
+    subdiv: FS
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '2653S 02806E'
+    remarks: ''
+-
+    ch: ''
     locode: 'ZA ZBE'
     name: Denver
     namewodiacritics: Denver
@@ -1329,6 +1869,18 @@
     date: '0901'
     iata: ''
     coordinates: '2613S 02806E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZA DES'
+    name: Despatch
+    namewodiacritics: Despatch
+    subdiv: EC
+    function: '--3-----'
+    status: RL
+    date: '1707'
+    iata: ''
+    coordinates: '3348S 02528E'
     remarks: ''
 -
     ch: ''
@@ -1367,7 +1919,7 @@
     coordinates: '2624S 02720E'
     remarks: ''
 -
-    ch: +
+    ch: ''
     locode: 'ZA DOU'
     name: Douglas
     namewodiacritics: Douglas
@@ -1377,6 +1929,18 @@
     date: '1307'
     iata: ''
     coordinates: '2904S 02346E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZA DFS'
+    name: 'Duff''s Road'
+    namewodiacritics: 'Duff''s Road'
+    subdiv: KZN
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '2945S 03100E'
     remarks: ''
 -
     ch: ''
@@ -1401,6 +1965,18 @@
     date: '0601'
     iata: ''
     coordinates: '2639S 02756E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZA DND'
+    name: Dundee
+    namewodiacritics: Dundee
+    subdiv: KZN
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '2810S 03013E'
     remarks: ''
 -
     ch: ''
@@ -1431,12 +2007,24 @@
     locode: 'ZA DUR'
     name: Durban
     namewodiacritics: Durban
-    subdiv: ''
+    subdiv: KZN
     function: 12345---
     status: AI
-    date: '9501'
+    date: '1601'
     iata: ''
-    coordinates: ''
+    coordinates: '2951S 03101E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZA B6D'
+    name: 'Durban North'
+    namewodiacritics: 'Durban North'
+    subdiv: KZN
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '2948S 03102E'
     remarks: ''
 -
     ch: ''
@@ -1449,6 +2037,30 @@
     date: '0201'
     iata: ''
     coordinates: '3349S 01839E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZA DWA'
+    name: Dwaalboom
+    namewodiacritics: Dwaalboom
+    subdiv: LP
+    function: '--3-----'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '2443S 02649E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZA DZA'
+    name: Dzanani
+    namewodiacritics: Dzanani
+    subdiv: LP
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '2253S 03010E'
     remarks: ''
 -
     ch: ''
@@ -1488,6 +2100,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'ZA EGL'
+    name: Edenglen
+    namewodiacritics: Edenglen
+    subdiv: GP
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '2608S 02809E'
+    remarks: ''
+-
+    ch: ''
     locode: 'ZA EDE'
     name: Edenvale
     namewodiacritics: Edenvale
@@ -1497,6 +2121,42 @@
     date: '0201'
     iata: ''
     coordinates: '2607S 02809E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZA EDM'
+    name: Edgemead
+    namewodiacritics: Edgemead
+    subdiv: WC
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3353S 01832E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZA EEK'
+    name: Eendekuil
+    namewodiacritics: Eendekuil
+    subdiv: WC
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '3241S 01853E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZA EER'
+    name: Eersterivier
+    namewodiacritics: Eersterivier
+    subdiv: WC
+    function: '--3-----'
+    status: RL
+    date: '1707'
+    iata: ''
+    coordinates: '3401S 01842E'
     remarks: ''
 -
     ch: ''
@@ -1524,6 +2184,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'ZA EBY'
+    name: 'Elands Bay'
+    namewodiacritics: 'Elands Bay'
+    subdiv: WC
+    function: 1-------
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3218S 01819E'
+    remarks: ''
+-
+    ch: ''
     locode: 'ZA ELA'
     name: Elandsfontein
     namewodiacritics: Elandsfontein
@@ -1534,6 +2206,18 @@
     iata: ''
     coordinates: ''
     remarks: Gauteng
+-
+    ch: ''
+    locode: 'ZA EPK'
+    name: Elarduspark
+    namewodiacritics: Elarduspark
+    subdiv: GP
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '2250S 02818E'
+    remarks: ''
 -
     ch: ''
     locode: 'ZA EDK'
@@ -1572,6 +2256,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'ZA ELT'
+    name: Elliot
+    namewodiacritics: Elliot
+    subdiv: EC
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '3120S 02751E'
+    remarks: ''
+-
+    ch: ''
     locode: 'ZA ELL'
     name: Ellisras
     namewodiacritics: Ellisras
@@ -1581,6 +2277,30 @@
     date: '0001'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZA ELB'
+    name: Elsburg
+    namewodiacritics: Elsburg
+    subdiv: GP
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '2614S 02812E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZA ESB'
+    name: Elsenburg
+    namewodiacritics: Elsenburg
+    subdiv: WC
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3351S 01850E'
     remarks: ''
 -
     ch: ''
@@ -1635,7 +2355,7 @@
     locode: 'ZA ECE'
     name: Escombe
     namewodiacritics: Escombe
-    subdiv: NL
+    subdiv: KZN
     function: '-----6--'
     status: RL
     date: '1201'
@@ -1671,7 +2391,7 @@
     locode: 'ZA EZK'
     name: Ezakheni
     namewodiacritics: Ezakheni
-    subdiv: NL
+    subdiv: KZN
     function: '--3-----'
     status: RL
     date: '1201'
@@ -1683,12 +2403,36 @@
     locode: 'ZA FRG'
     name: 'Faerie Glen'
     namewodiacritics: 'Faerie Glen'
-    subdiv: NL
+    subdiv: KZN
     function: '-----6--'
     status: RQ
     date: '1007'
     iata: ''
     coordinates: '3051S 03020E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZA FVW'
+    name: Fairview
+    namewodiacritics: Fairview
+    subdiv: EC
+    function: '--3-----'
+    status: RL
+    date: '1707'
+    iata: ''
+    coordinates: '3400S 02407E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZA FAU'
+    name: Faure
+    namewodiacritics: Faure
+    subdiv: WC
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3402S 01844E'
     remarks: ''
 -
     ch: ''
@@ -1740,6 +2484,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'ZA FGF'
+    name: Flagstaff
+    namewodiacritics: Flagstaff
+    subdiv: EC
+    function: '--3-----'
+    status: RL
+    date: '2001'
+    iata: ''
+    coordinates: '3105S 02929E'
+    remarks: ''
+-
+    ch: ''
     locode: 'ZA ZBP'
     name: Florida
     namewodiacritics: Florida
@@ -1749,6 +2505,18 @@
     date: '0901'
     iata: ''
     coordinates: '2610S 02755E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZA FCH'
+    name: Fochville
+    namewodiacritics: Fochville
+    subdiv: NW
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '2629S 02729E'
     remarks: ''
 -
     ch: ''
@@ -1800,6 +2568,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'ZA OFG'
+    name: Fouriesburg
+    namewodiacritics: Fouriesburg
+    subdiv: FS
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '2837S 02813E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZA FRH'
+    name: Franschhoek
+    namewodiacritics: Franschhoek
+    subdiv: WC
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '3355S 01908E'
+    remarks: ''
+-
+    ch: ''
     locode: 'ZA ZCI'
     name: Franschoek
     namewodiacritics: Franschoek
@@ -1809,6 +2601,18 @@
     date: '0901'
     iata: ''
     coordinates: '3355S 01908E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZA FFE'
+    name: Fresnaye
+    namewodiacritics: Fresnaye
+    subdiv: WC
+    function: '--3-----'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '3355S 01823E'
     remarks: ''
 -
     ch: ''
@@ -1845,6 +2649,30 @@
     date: '0901'
     iata: ''
     coordinates: '2535S 02800E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZA GAR'
+    name: Gardens
+    namewodiacritics: Gardens
+    subdiv: WC
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3356S 01824E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZA GSF'
+    name: Garsfontein
+    namewodiacritics: Garsfontein
+    subdiv: GP
+    function: 1-------
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '2547S 02817E'
     remarks: ''
 -
     ch: ''
@@ -1899,12 +2727,24 @@
     locode: 'ZA GZN'
     name: Gezina
     namewodiacritics: Gezina
-    subdiv: GT
+    subdiv: GP
     function: '-----6--'
     status: RQ
     date: '1007'
     iata: ''
     coordinates: '2542S 02812E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZA GNL'
+    name: Gillitts
+    namewodiacritics: Gillitts
+    subdiv: KZN
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '2948S 03048E'
     remarks: ''
 -
     ch: ''
@@ -1935,7 +2775,7 @@
     locode: 'ZA GAY'
     name: Glenashley
     namewodiacritics: Glenashley
-    subdiv: NL
+    subdiv: KZN
     function: '--3-----'
     status: RL
     date: '0701'
@@ -1944,10 +2784,34 @@
     remarks: ''
 -
     ch: ''
+    locode: 'ZA GLC'
+    name: Glencoe
+    namewodiacritics: Glencoe
+    subdiv: KZN
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '2811S 03009E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZA GLH'
+    name: Glenhurd
+    namewodiacritics: Glenhurd
+    subdiv: EC
+    function: '--3-----'
+    status: RL
+    date: '1707'
+    iata: ''
+    coordinates: '3357S 02534E'
+    remarks: ''
+-
+    ch: ''
     locode: 'ZA GWD'
     name: Glenwood
     namewodiacritics: Glenwood
-    subdiv: NL
+    subdiv: KZN
     function: '-----6--'
     status: RL
     date: '1007'
@@ -1968,6 +2832,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'ZA GON'
+    name: Gonubie
+    namewodiacritics: Gonubie
+    subdiv: EC
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '3256S 02801E'
+    remarks: ''
+-
+    ch: ''
     locode: 'ZA ZBU'
     name: Goodwood
     namewodiacritics: Goodwood
@@ -1980,6 +2856,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'ZA GBY'
+    name: 'Gordon''s Bay'
+    namewodiacritics: 'Gordon''s Bay'
+    subdiv: WC
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3410S 01852E'
+    remarks: ''
+-
+    ch: ''
     locode: 'ZA ZCJ'
     name: Gouda
     namewodiacritics: Gouda
@@ -1989,6 +2877,18 @@
     date: '0901'
     iata: ''
     coordinates: '3318S 01902E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZA 3WC'
+    name: Goudiniweg
+    namewodiacritics: Goudiniweg
+    subdiv: WC
+    function: 1----6--
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3436S 01919E'
     remarks: ''
 -
     ch: ''
@@ -2040,6 +2940,42 @@
     remarks: ''
 -
     ch: ''
+    locode: 'ZA GPT'
+    name: 'Green Point'
+    namewodiacritics: 'Green Point'
+    subdiv: WC
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3355S 01824E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZA GRA'
+    name: Greenacres
+    namewodiacritics: Greenacres
+    subdiv: EC
+    function: '--3-----'
+    status: RL
+    date: '1707'
+    iata: ''
+    coordinates: '3240S 02748E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZA GEB'
+    name: Greenbushes
+    namewodiacritics: Greenbushes
+    subdiv: EC
+    function: '--3-----'
+    status: RL
+    date: '1707'
+    iata: ''
+    coordinates: '3356S 02525E'
+    remarks: ''
+-
+    ch: ''
     locode: 'ZA GHN'
     name: Greenhaven
     namewodiacritics: Greenhaven
@@ -2052,6 +2988,42 @@
     remarks: ''
 -
     ch: ''
+    locode: 'ZA GSI'
+    name: Greenside
+    namewodiacritics: Greenside
+    subdiv: GP
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '2500S 02843E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZA GRP'
+    name: 'Greenwood Park'
+    namewodiacritics: 'Greenwood Park'
+    subdiv: KZN
+    function: '--3-----'
+    status: RL
+    date: '1707'
+    iata: ''
+    coordinates: '2947S 03101E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZA GYT'
+    name: Greyton
+    namewodiacritics: Greyton
+    subdiv: WC
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3403S 01937E'
+    remarks: ''
+-
+    ch: ''
     locode: 'ZA GRY'
     name: Greytown
     namewodiacritics: Greytown
@@ -2061,6 +3033,18 @@
     date: '0201'
     iata: ''
     coordinates: '2903S 03035E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZA GRV'
+    name: Greyville
+    namewodiacritics: Greyville
+    subdiv: KZN
+    function: '--3-----'
+    status: RL
+    date: '1707'
+    iata: ''
+    coordinates: '2950S 03100E'
     remarks: ''
 -
     ch: ''
@@ -2112,6 +3096,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'ZA GLU'
+    name: Guguletu
+    namewodiacritics: Guguletu
+    subdiv: WC
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '3359S 01834E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZA HNB'
+    name: Haenertsburg
+    namewodiacritics: Haenertsburg
+    subdiv: LP
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '2356S 02957E'
+    remarks: ''
+-
+    ch: ''
     locode: 'ZA HAL'
     name: 'Halfway House'
     namewodiacritics: 'Halfway House'
@@ -2160,6 +3168,42 @@
     remarks: ''
 -
     ch: ''
+    locode: 'ZA HNK'
+    name: Hankey
+    namewodiacritics: Hankey
+    subdiv: EC
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '3350S 02453E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZA HOK'
+    name: 'Hanover Park'
+    namewodiacritics: 'Hanover Park'
+    subdiv: WC
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '3359S 01832E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZA HAD'
+    name: Harding
+    namewodiacritics: Harding
+    subdiv: KZN
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '3035S 02953E'
+    remarks: ''
+-
+    ch: ''
     locode: 'ZA HRS'
     name: Harrismith
     namewodiacritics: Harrismith
@@ -2169,6 +3213,30 @@
     date: '0001'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZA HAT'
+    name: Hartbeesfontein
+    namewodiacritics: Hartbeesfontein
+    subdiv: NW
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '2646S 02625E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZA HBP'
+    name: Hartbeespoort
+    namewodiacritics: Hartbeespoort
+    subdiv: MP
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '2544S 02753E'
     remarks: ''
 -
     ch: ''
@@ -2196,6 +3264,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'ZA HTF'
+    name: Hatfield
+    namewodiacritics: Hatfield
+    subdiv: GP
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '2544S 02813E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZA HAI'
+    name: Hattingspruit
+    namewodiacritics: Hattingspruit
+    subdiv: KZN
+    function: '--3-----'
+    status: AM
+    date: '2107'
+    iata: ''
+    coordinates: '2805S 03008E'
+    remarks: ''
+-
+    ch: ''
     locode: 'ZA HZV'
     name: Hazyview
     namewodiacritics: Hazyview
@@ -2220,6 +3312,18 @@
     remarks: Transvaal
 -
     ch: ''
+    locode: 'ZA HEL'
+    name: Helderberg
+    namewodiacritics: Helderberg
+    subdiv: WC
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3402S 01850E'
+    remarks: ''
+-
+    ch: ''
     locode: 'ZA HNP'
     name: Hennopspark
     namewodiacritics: Hennopspark
@@ -2232,6 +3336,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'ZA HBA'
+    name: Herbertsdale
+    namewodiacritics: Herbertsdale
+    subdiv: WC
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3401S 02146E'
+    remarks: ''
+-
+    ch: ''
     locode: 'ZA HDL'
     name: Heriotdale/Johannesburg
     namewodiacritics: Heriotdale/Johannesburg
@@ -2241,6 +3357,18 @@
     date: '0601'
     iata: ''
     coordinates: '2612S 02807E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZA HMB'
+    name: Hermannsburg
+    namewodiacritics: Hermannsburg
+    subdiv: KZN
+    function: '--3-----'
+    status: RL
+    date: '1707'
+    iata: ''
+    coordinates: '2901S 03046E'
     remarks: ''
 -
     ch: ''
@@ -2280,10 +3408,22 @@
     remarks: ''
 -
     ch: ''
+    locode: 'ZA HXR'
+    name: Hexrivier
+    namewodiacritics: Hexrivier
+    subdiv: WC
+    function: '-23--6--'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3329S 01935E'
+    remarks: ''
+-
+    ch: ''
     locode: 'ZA HI9'
     name: Hibberdene
     namewodiacritics: Hibberdene
-    subdiv: NL
+    subdiv: KZN
     function: '-2------'
     status: RL
     date: '1301'
@@ -2364,10 +3504,22 @@
     remarks: ''
 -
     ch: ''
+    locode: 'ZA HPT'
+    name: Hopetown
+    namewodiacritics: Hopetown
+    subdiv: NC
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '2937S 02405E'
+    remarks: ''
+-
+    ch: ''
     locode: 'ZA HST'
     name: 'Houghton Estate'
     namewodiacritics: 'Houghton Estate'
-    subdiv: GT
+    subdiv: GP
     function: '--3-----'
     status: RL
     date: '1301'
@@ -2424,6 +3576,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'ZA HUM'
+    name: Humewood
+    namewodiacritics: Humewood
+    subdiv: EC
+    function: '--3-----'
+    status: RL
+    date: '1707'
+    iata: ''
+    coordinates: '3358S 02538E'
+    remarks: ''
+-
+    ch: ''
     locode: 'ZA HYD'
     name: 'Hyde Park'
     namewodiacritics: 'Hyde Park'
@@ -2445,6 +3609,30 @@
     date: '0901'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZA IMP'
+    name: Impendle
+    namewodiacritics: Impendle
+    subdiv: KZN
+    function: '--3-----'
+    status: RL
+    date: '1707'
+    iata: ''
+    coordinates: '2936S 02952E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZA IDW'
+    name: Indwe
+    namewodiacritics: Indwe
+    subdiv: EC
+    function: '--3-----'
+    status: RL
+    date: '1707'
+    iata: ''
+    coordinates: '3128S 02720E'
     remarks: ''
 -
     ch: ''
@@ -2487,7 +3675,7 @@
     locode: 'ZA ISP'
     name: 'Isipingo Beach'
     namewodiacritics: 'Isipingo Beach'
-    subdiv: NL
+    subdiv: KZN
     function: '--3-----'
     status: RL
     date: '1207'
@@ -2511,12 +3699,24 @@
     locode: 'ZA IVI'
     name: 'Island View'
     namewodiacritics: 'Island View'
-    subdiv: NL
+    subdiv: KZN
     function: 1-------
     status: RL
     date: '0701'
     iata: ''
     coordinates: '2953S 03102E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZA IXO'
+    name: Ixopo
+    namewodiacritics: Ixopo
+    subdiv: KZN
+    function: '--3-----'
+    status: RL
+    date: '1707'
+    iata: ''
+    coordinates: '3009S 03005E'
     remarks: ''
 -
     ch: ''
@@ -2595,12 +3795,24 @@
     locode: 'ZA JNB'
     name: Johannesburg
     namewodiacritics: Johannesburg
-    subdiv: GT
+    subdiv: GP
     function: '-2345---'
     status: AF
     date: '1207'
     iata: ''
     coordinates: '2612S 02805E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZA JBT'
+    name: Joubertina
+    namewodiacritics: Joubertina
+    subdiv: EC
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '3349S 02351E'
     remarks: ''
 -
     ch: ''
@@ -2628,10 +3840,46 @@
     remarks: ''
 -
     ch: ''
+    locode: 'ZA KAK'
+    name: Kakamas
+    namewodiacritics: Kakamas
+    subdiv: NC
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '2845S 02038E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZA KLD'
+    name: Kanoneiland
+    namewodiacritics: Kanoneiland
+    subdiv: NC
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '2839S 02105E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZA KDW'
+    name: Kareedouw
+    namewodiacritics: Kareedouw
+    subdiv: EC
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '3357S 02417E'
+    remarks: ''
+-
+    ch: ''
     locode: 'ZA ZCY'
     name: Kaserne
     namewodiacritics: Kaserne
-    subdiv: GT
+    subdiv: GP
     function: '-----6--'
     status: RL
     date: '1001'
@@ -2676,15 +3924,27 @@
     remarks: ''
 -
     ch: ''
+    locode: 'ZA KEI'
+    name: Keimoes
+    namewodiacritics: Keimoes
+    subdiv: NC
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '2842S 02058E'
+    remarks: ''
+-
+    ch: ''
     locode: 'ZA KLV'
     name: Kelvin
     namewodiacritics: Kelvin
     subdiv: ''
-    function: '-----6--'
+    function: '--3-----'
     status: RL
-    date: '0901'
+    date: '1707'
     iata: ''
-    coordinates: '2657S 29150E'
+    coordinates: '2657S 02915E'
     remarks: ''
 -
     ch: ''
@@ -2700,6 +3960,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'ZA KHT'
+    name: Kenhardt
+    namewodiacritics: Kenhardt
+    subdiv: NC
+    function: '--3-----'
+    status: AM
+    date: '2107'
+    iata: ''
+    coordinates: '2920S 02109E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZA KEN'
+    name: Kenmore
+    namewodiacritics: Kenmore
+    subdiv: EC
+    function: '--3--6--'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '3111S 02808E'
+    remarks: ''
+-
+    ch: ''
     locode: 'ZA ZCU'
     name: Kensington
     namewodiacritics: Kensington
@@ -2712,6 +3996,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'ZA KOS'
+    name: Kenton-on-Sea
+    namewodiacritics: Kenton-on-Sea
+    subdiv: EC
+    function: 1-------
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3340S 02639E'
+    remarks: ''
+-
+    ch: ''
     locode: 'ZA KEW'
     name: Kew
     namewodiacritics: Kew
@@ -2721,6 +4017,18 @@
     date: '0607'
     iata: ''
     coordinates: '2607S 02806E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZA KKA'
+    name: Khayelitsha
+    namewodiacritics: Khayelitsha
+    subdiv: WC
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '3403S 01840E'
     remarks: ''
 -
     ch: ''
@@ -2844,6 +4152,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'ZA KLX'
+    name: Klapmuts
+    namewodiacritics: Klapmuts
+    subdiv: WC
+    function: '-----6--'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3348S 01852E'
+    remarks: ''
+-
+    ch: ''
     locode: 'ZA KSR'
     name: Klaserie
     namewodiacritics: Klaserie
@@ -2865,6 +4185,18 @@
     date: '0212'
     iata: ''
     coordinates: '3146S 01836E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZA KMD'
+    name: Kleinmond
+    namewodiacritics: Kleinmond
+    subdiv: WC
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3421S 01902E'
     remarks: ''
 -
     ch: ''
@@ -2892,10 +4224,34 @@
     remarks: ''
 -
     ch: ''
+    locode: 'ZA 2WC'
+    name: Klipheuwel
+    namewodiacritics: Klipheuwel
+    subdiv: WC
+    function: 1----6--
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3342S 01842E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZA KLI'
+    name: Kliprivier
+    namewodiacritics: Kliprivier
+    subdiv: GP
+    function: '--3-----'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '2635S 02801E'
+    remarks: ''
+-
+    ch: ''
     locode: 'ZA NLK'
     name: Kloof
     namewodiacritics: Kloof
-    subdiv: NL
+    subdiv: KZN
     function: '-----6--'
     status: RL
     date: '1107'
@@ -2943,7 +4299,7 @@
     locode: 'ZA KKD'
     name: Kokstad
     namewodiacritics: Kokstad
-    subdiv: NL
+    subdiv: KZN
     function: '-----6--'
     status: RQ
     date: '1007'
@@ -2964,15 +4320,27 @@
     remarks: ''
 -
     ch: ''
+    locode: 'ZA KMG'
+    name: Komga
+    namewodiacritics: Komga
+    subdiv: EC
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '3235S 02754E'
+    remarks: ''
+-
+    ch: ''
     locode: 'ZA KKN'
     name: Komkans
     namewodiacritics: Komkans
     subdiv: WC
     function: 1-------
     status: RL
-    date: '0901'
+    date: '1707'
     iata: ''
-    coordinates: '3113S 18030E'
+    coordinates: '3113S 01803E'
     remarks: ''
 -
     ch: ''
@@ -2985,6 +4353,30 @@
     date: '1207'
     iata: ''
     coordinates: '3408S 01819E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZA KRB'
+    name: Koringberg
+    namewodiacritics: Koringberg
+    subdiv: WC
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '3302S 01840E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZA KTN'
+    name: Korsten
+    namewodiacritics: Korsten
+    subdiv: EC
+    function: '--3--6--'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3355S 02534E'
     remarks: ''
 -
     ch: ''
@@ -3009,6 +4401,18 @@
     date: '0901'
     iata: ''
     coordinates: '3351S 01843E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZA KRK'
+    name: 'Kragga Kamma'
+    namewodiacritics: 'Kragga Kamma'
+    subdiv: NC
+    function: '--3-----'
+    status: RL
+    date: '1707'
+    iata: ''
+    coordinates: '3120S 02407E'
     remarks: ''
 -
     ch: ''
@@ -3072,6 +4476,42 @@
     remarks: ''
 -
     ch: ''
+    locode: 'ZA KDZ'
+    name: Kwadukuza
+    namewodiacritics: Kwadukuza
+    subdiv: KZN
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '2920S 03117E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZA KWF'
+    name: Kwaggafontein
+    namewodiacritics: Kwaggafontein
+    subdiv: FS
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '2517S 02857E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZA KWM'
+    name: Kwamashu
+    namewodiacritics: Kwamashu
+    subdiv: KZN
+    function: '-23-----'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '2945S 03059E'
+    remarks: ''
+-
+    ch: ''
     locode: 'ZA ZKS'
     name: 'Kya Sands'
     namewodiacritics: 'Kya Sands'
@@ -3087,7 +4527,7 @@
     locode: 'ZA KYA'
     name: Kyalami
     namewodiacritics: Kyalami
-    subdiv: GT
+    subdiv: GP
     function: 1-3-----
     status: RQ
     date: '0407'
@@ -3099,12 +4539,24 @@
     locode: 'ZA LUC'
     name: 'La Lucia'
     namewodiacritics: 'La Lucia'
-    subdiv: NL
+    subdiv: KZN
     function: '--3--6--'
     status: RQ
     date: '1001'
     iata: ''
     coordinates: '2945S 03104E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZA LAM'
+    name: 'La Mercy'
+    namewodiacritics: 'La Mercy'
+    subdiv: KZN
+    function: '--3-----'
+    status: RL
+    date: '1707'
+    iata: ''
+    coordinates: '2938S 03108E'
     remarks: ''
 -
     ch: ''
@@ -3119,7 +4571,7 @@
     coordinates: '3246S 01809E'
     remarks: ''
 -
-    ch: +
+    ch: ''
     locode: 'ZA LAD'
     name: Ladismith
     namewodiacritics: Ladismith
@@ -3132,6 +4584,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'ZA LAB'
+    name: Ladybrand
+    namewodiacritics: Ladybrand
+    subdiv: FS
+    function: '--3-----'
+    status: RL
+    date: '2001'
+    iata: ''
+    coordinates: '2912S 02727E'
+    remarks: ''
+-
+    ch: ''
     locode: 'ZA LAY'
     name: Ladysmith
     namewodiacritics: Ladysmith
@@ -3141,6 +4605,30 @@
     date: '0001'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZA LKD'
+    name: Lakeside
+    namewodiacritics: Lakeside
+    subdiv: WC
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3405S 01827E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZA L7A'
+    name: Langebaan
+    namewodiacritics: Langebaan
+    subdiv: WC
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '3306S 01802E'
     remarks: ''
 -
     ch: ''
@@ -3216,6 +4704,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'ZA LER'
+    name: Lerato
+    namewodiacritics: Lerato
+    subdiv: NC
+    function: 1-3-----
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '2934S 02131E'
+    remarks: ''
+-
+    ch: ''
     locode: 'ZA ZDH'
     name: Letsitele
     namewodiacritics: Letsitele
@@ -3252,6 +4752,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'ZA LDG'
+    name: Lidgetton
+    namewodiacritics: Lidgetton
+    subdiv: KZN
+    function: '--3-----'
+    status: RL
+    date: '1707'
+    iata: ''
+    coordinates: '2927S 03006E'
+    remarks: ''
+-
+    ch: ''
     locode: 'ZA LMR'
     name: 'Lime Acres'
     namewodiacritics: 'Lime Acres'
@@ -3279,7 +4791,7 @@
     locode: 'ZA ION'
     name: 'Lions River'
     namewodiacritics: 'Lions River'
-    subdiv: NL
+    subdiv: KZN
     function: '-----6--'
     status: RL
     date: '1201'
@@ -3309,6 +4821,30 @@
     date: '0901'
     iata: ''
     coordinates: '2543S 02758E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZA LOR'
+    name: Lorraine
+    namewodiacritics: Lorraine
+    subdiv: EC
+    function: '--3-----'
+    status: RL
+    date: '1707'
+    iata: ''
+    coordinates: '3358S 02530E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZA ALH'
+    name: Lothair
+    namewodiacritics: Lothair
+    subdiv: MP
+    function: '--3--6--'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '2623S 03026E'
     remarks: ''
 -
     ch: ''
@@ -3408,6 +4944,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'ZA MD3'
+    name: Madantsane
+    namewodiacritics: Madantsane
+    subdiv: EC
+    function: 1-3-----
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '3257S 02746E'
+    remarks: ''
+-
+    ch: ''
     locode: 'ZA MFK'
     name: Mafikeng
     namewodiacritics: Mafikeng
@@ -3495,7 +5043,7 @@
     locode: 'ZA ZDO'
     name: 'Malvern East'
     namewodiacritics: 'Malvern East'
-    subdiv: GT
+    subdiv: GP
     function: '-----6--'
     status: RL
     date: '1001'
@@ -3507,7 +5055,7 @@
     locode: 'ZA MNI'
     name: Mandeni
     namewodiacritics: Mandeni
-    subdiv: NL
+    subdiv: KZN
     function: '--3-----'
     status: RL
     date: '1301'
@@ -3552,6 +5100,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'ZA MRC'
+    name: Marchand
+    namewodiacritics: Marchand
+    subdiv: NC
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '2843S 02030E'
+    remarks: ''
+-
+    ch: ''
     locode: 'ZA MGH'
     name: Margate
     namewodiacritics: Margate
@@ -3567,7 +5127,7 @@
     locode: 'ZA MRH'
     name: Mariannhill
     namewodiacritics: Mariannhill
-    subdiv: NL
+    subdiv: KZN
     function: '--3-----'
     status: RL
     date: '1207'
@@ -3615,7 +5175,7 @@
     locode: 'ZA MST'
     name: Marshalltown
     namewodiacritics: Marshalltown
-    subdiv: GT
+    subdiv: GP
     function: '--3-----'
     status: RL
     date: '1301'
@@ -3648,6 +5208,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'ZA MAT'
+    name: Matroosfontein
+    namewodiacritics: Matroosfontein
+    subdiv: WC
+    function: '--3-----'
+    status: RL
+    date: '2001'
+    iata: ''
+    coordinates: '3356S 01835E'
+    remarks: ''
+-
+    ch: ''
     locode: 'ZA MHW'
     name: Matshewe
     namewodiacritics: Matshewe
@@ -3669,6 +5241,30 @@
     date: '0901'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZA MGR'
+    name: McGregor
+    namewodiacritics: McGregor
+    subdiv: WC
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3357S 01950E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZA AS3'
+    name: Mdantsane
+    namewodiacritics: Mdantsane
+    subdiv: EC
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '3257S 02746E'
     remarks: ''
 -
     ch: ''
@@ -3711,7 +5307,7 @@
     locode: 'ZA MPA'
     name: 'Menlo Park'
     namewodiacritics: 'Menlo Park'
-    subdiv: GT
+    subdiv: GP
     function: '-23-----'
     status: RL
     date: '0501'
@@ -3747,7 +5343,7 @@
     locode: 'ZA MRV'
     name: Merrivale
     namewodiacritics: Merrivale
-    subdiv: NL
+    subdiv: KZN
     function: '--3-----'
     status: RL
     date: '1301'
@@ -3819,7 +5415,7 @@
     locode: 'ZA MDV'
     name: Midvaal
     namewodiacritics: Midvaal
-    subdiv: GT
+    subdiv: GP
     function: '--3-----'
     status: RQ
     date: '1001'
@@ -3837,6 +5433,18 @@
     date: '0901'
     iata: ''
     coordinates: '3352S 01829E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZA MTP'
+    name: 'Mitchells Plain'
+    namewodiacritics: 'Mitchells Plain'
+    subdiv: WC
+    function: '--3-----'
+    status: RL
+    date: '1707'
+    iata: ''
+    coordinates: '3403S 01837E'
     remarks: ''
 -
     ch: ''
@@ -3879,7 +5487,7 @@
     locode: 'ZA MOB'
     name: Mobeni
     namewodiacritics: Mobeni
-    subdiv: NL
+    subdiv: KZN
     function: '-23-----'
     status: RL
     date: '0501'
@@ -3936,6 +5544,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'ZA MOO'
+    name: 'Mooi River'
+    namewodiacritics: 'Mooi River'
+    subdiv: KZN
+    function: '--3-----'
+    status: RL
+    date: '1707'
+    iata: ''
+    coordinates: '2911S 03000E'
+    remarks: ''
+-
+    ch: ''
     locode: 'ZA NAB'
     name: Mookgophong
     namewodiacritics: Mookgophong
@@ -3960,15 +5580,39 @@
     remarks: ''
 -
     ch: ''
+    locode: 'ZA MGZ'
+    name: Morgenzon
+    namewodiacritics: Morgenzon
+    subdiv: MP
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '2644S 02937E'
+    remarks: ''
+-
+    ch: ''
     locode: 'ZA MNG'
     name: Morningside
     namewodiacritics: Morningside
-    subdiv: GT
+    subdiv: GP
     function: '-----6--'
     status: RL
     date: '1107'
     iata: ''
     coordinates: '2604N 02803E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZA MSE'
+    name: Morningside
+    namewodiacritics: Morningside
+    subdiv: KZN
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '2949S 03101E'
     remarks: ''
 -
     ch: ''
@@ -4008,10 +5652,34 @@
     remarks: ''
 -
     ch: ''
+    locode: 'ZA MPL'
+    name: 'Mount Pleasant'
+    namewodiacritics: 'Mount Pleasant'
+    subdiv: EC
+    function: '--3-----'
+    status: RL
+    date: '1707'
+    iata: ''
+    coordinates: '3400S 02532E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZA MBY'
+    name: Mowbray
+    namewodiacritics: Mowbray
+    subdiv: WC
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3356S 01828E'
+    remarks: ''
+-
+    ch: ''
     locode: 'ZA MPM'
     name: Mpumalanga
     namewodiacritics: Mpumalanga
-    subdiv: NL
+    subdiv: KZN
     function: '--3-----'
     status: RL
     date: '1107'
@@ -4020,10 +5688,22 @@
     remarks: ''
 -
     ch: ''
+    locode: 'ZA MTZ'
+    name: Mtunzini
+    namewodiacritics: Mtunzini
+    subdiv: KZN
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '2857S 03145E'
+    remarks: ''
+-
+    ch: ''
     locode: 'ZA MTW'
     name: Mtwalume
     namewodiacritics: Mtwalume
-    subdiv: NL
+    subdiv: KZN
     function: '--3-----'
     status: RL
     date: '1301'
@@ -4041,6 +5721,30 @@
     date: '0901'
     iata: ''
     coordinates: '2602N 02751E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZA MUR'
+    name: Murraysburg
+    namewodiacritics: Murraysburg
+    subdiv: WC
+    function: '-----6--'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3157S 02346E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZA MGE'
+    name: Musgrave
+    namewodiacritics: Musgrave
+    subdiv: KZN
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '2951S 03100E'
     remarks: ''
 -
     ch: ''
@@ -4065,6 +5769,54 @@
     date: '0901'
     iata: ''
     coordinates: '2431S 02843E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZA NPR'
+    name: Napier
+    namewodiacritics: Napier
+    subdiv: WC
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3428S 01954E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZA NAL'
+    name: Natala
+    namewodiacritics: Natala
+    subdiv: EC
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3045S 02913E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZA NDB'
+    name: Ndabeni
+    namewodiacritics: Ndabeni
+    subdiv: KZN
+    function: '--3-----'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '2656S 03201E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZA NNB'
+    name: Ndabeni
+    namewodiacritics: Ndabeni
+    subdiv: WC
+    function: '--3-----'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '3355S 01829E'
     remarks: ''
 -
     ch: ''
@@ -4140,6 +5892,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'ZA LWD'
+    name: Newlands
+    namewodiacritics: Newlands
+    subdiv: WC
+    function: '--3-----'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '3358S 01827E'
+    remarks: ''
+-
+    ch: ''
     locode: 'ZA ZDT'
     name: Newlands
     namewodiacritics: Newlands
@@ -4176,6 +5940,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'ZA NGW'
+    name: Ngodwana
+    namewodiacritics: Ngodwana
+    subdiv: MP
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '2534S 03040E'
+    remarks: ''
+-
+    ch: ''
     locode: 'ZA ZDS'
     name: Nigel
     namewodiacritics: Nigel
@@ -4188,15 +5964,51 @@
     remarks: ''
 -
     ch: ''
+    locode: 'ZA NCC'
+    name: Noblesfontein
+    namewodiacritics: Noblesfontein
+    subdiv: NC
+    function: '--3-----'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '3147S 02310E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZA NON'
+    name: Nongoma
+    namewodiacritics: Nongoma
+    subdiv: KZN
+    function: '--3-----'
+    status: RL
+    date: '2001'
+    iata: ''
+    coordinates: '2754S 03139E'
+    remarks: ''
+-
+    ch: ''
     locode: 'ZA NDW'
     name: Noordheuwel
     namewodiacritics: Noordheuwel
-    subdiv: GT
+    subdiv: GP
     function: '--3-----'
     status: RL
     date: '1301'
     iata: ''
     coordinates: '2605S 02747E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZA NOO'
+    name: Noordhoek
+    namewodiacritics: Noordhoek
+    subdiv: WC
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3406S 01822E'
     remarks: ''
 -
     ch: ''
@@ -4227,12 +6039,36 @@
     locode: 'ZA NCF'
     name: Northcliff
     namewodiacritics: Northcliff
-    subdiv: GT
+    subdiv: GP
     function: '-23-----'
     status: RL
     date: '0501'
     iata: ''
     coordinates: '2608S 02757E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZA NTD'
+    name: Northdene
+    namewodiacritics: Northdene
+    subdiv: KZN
+    function: '--3-----'
+    status: RL
+    date: '1707'
+    iata: ''
+    coordinates: '2952S 03053E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZA NNL'
+    name: 'Nottingham Road'
+    namewodiacritics: 'Nottingham Road'
+    subdiv: KZN
+    function: 1----6--
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '2921S 03000E'
     remarks: ''
 -
     ch: ''
@@ -4245,6 +6081,18 @@
     date: '0407'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZA NYB'
+    name: Nyimba
+    namewodiacritics: Nyimba
+    subdiv: EC
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '1433S 03050E'
     remarks: ''
 -
     ch: ''
@@ -4272,6 +6120,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'ZA ODS'
+    name: Odendaalsrus
+    namewodiacritics: Odendaalsrus
+    subdiv: FS
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '2752S 02641E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZA OGS'
+    name: Ogies
+    namewodiacritics: Ogies
+    subdiv: MP
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '2603S 02904E'
+    remarks: ''
+-
+    ch: ''
     locode: 'ZA OLI'
     name: Olifantsfontein
     namewodiacritics: Olifantsfontein
@@ -4287,7 +6159,7 @@
     locode: 'ZA NDR'
     name: Onderstepoort
     namewodiacritics: Onderstepoort
-    subdiv: GT
+    subdiv: GP
     function: '-----6--'
     status: RL
     date: '1107'
@@ -4305,6 +6177,18 @@
     date: '0901'
     iata: ''
     coordinates: '3344S 02324E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZA OUS'
+    name: Onrus
+    namewodiacritics: Onrus
+    subdiv: WC
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3424S 01911E'
     remarks: ''
 -
     ch: ''
@@ -4380,6 +6264,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'ZA OTT'
+    name: Ottawa
+    namewodiacritics: Ottawa
+    subdiv: KZN
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '2940S 03102E'
+    remarks: ''
+-
+    ch: ''
     locode: 'ZA ZED'
     name: Ottery
     namewodiacritics: Ottery
@@ -4452,6 +6348,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'ZA PKR'
+    name: 'Park Rynie'
+    namewodiacritics: 'Park Rynie'
+    subdiv: KZN
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '3019S 03044E'
+    remarks: ''
+-
+    ch: ''
     locode: 'ZA ZEG'
     name: Parktown
     namewodiacritics: Parktown
@@ -4500,6 +6408,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'ZA PLP'
+    name: Paulpietersburg
+    namewodiacritics: Paulpietersburg
+    subdiv: KZN
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '2725S 03049E'
+    remarks: ''
+-
+    ch: ''
     locode: 'ZA PAU'
     name: Paulshof
     namewodiacritics: Paulshof
@@ -4536,6 +6456,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'ZA PEN'
+    name: Pennington
+    namewodiacritics: Pennington
+    subdiv: KZN
+    function: 1----6--
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3023S 03042E'
+    remarks: ''
+-
+    ch: ''
     locode: 'ZA ZEF'
     name: Perseverance
     namewodiacritics: Perseverance
@@ -4557,6 +6489,42 @@
     date: '9501'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZA PHD'
+    name: Philadelphia
+    namewodiacritics: Philadelphia
+    subdiv: WC
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '3340S 01835E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZA PDZ'
+    name: Philidelphia
+    namewodiacritics: Philidelphia
+    subdiv: WC
+    function: '-----6--'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3339S 01834E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZA PH4'
+    name: Philippi
+    namewodiacritics: Philippi
+    subdiv: WC
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '3401S 01833E'
     remarks: ''
 -
     ch: ''
@@ -4632,6 +6600,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'ZA PIB'
+    name: Pilanesberg
+    namewodiacritics: Pilanesberg
+    subdiv: NW
+    function: '--3-----'
+    status: RL
+    date: '2001'
+    iata: ''
+    coordinates: '2515S 02706E'
+    remarks: ''
+-
+    ch: ''
     locode: 'ZA PLN'
     name: Pinelands
     namewodiacritics: Pinelands
@@ -4653,6 +6633,18 @@
     date: '9705'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZA PLS'
+    name: Plessislaer
+    namewodiacritics: Plessislaer
+    subdiv: KZN
+    function: '--3-----'
+    status: RL
+    date: '1707'
+    iata: ''
+    coordinates: '2938S 03021E'
     remarks: ''
 -
     ch: ''
@@ -4719,7 +6711,7 @@
     locode: 'ZA PON'
     name: Pongola
     namewodiacritics: Pongola
-    subdiv: NL
+    subdiv: KZN
     function: '--3-----'
     status: RL
     date: '0212'
@@ -4779,12 +6771,12 @@
     locode: 'ZA NGQ'
     name: 'Port of Ngqura'
     namewodiacritics: 'Port of Ngqura'
-    subdiv: ''
-    function: '-----6--'
-    status: RQ
-    date: '1001'
+    subdiv: EC
+    function: 1----6--
+    status: RL
+    date: '1707'
     iata: ''
-    coordinates: '3346S 25400E'
+    coordinates: '3346S 02540E'
     remarks: ''
 -
     ch: ''
@@ -4803,7 +6795,7 @@
     locode: 'ZA ZCK'
     name: 'Port Shepstone'
     namewodiacritics: 'Port Shepstone'
-    subdiv: NL
+    subdiv: KZN
     function: '--3-----'
     status: RL
     date: '1101'
@@ -4821,6 +6813,18 @@
     date: '0212'
     iata: ''
     coordinates: '3300S 01859E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZA PMB'
+    name: Postmasburg
+    namewodiacritics: Postmasburg
+    subdiv: NC
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '2819S 02304E'
     remarks: ''
 -
     ch: ''
@@ -4851,7 +6855,7 @@
     locode: 'ZA PRY'
     name: Pretoria
     namewodiacritics: Pretoria
-    subdiv: GT
+    subdiv: GP
     function: '-23456--'
     status: AF
     date: '1207'
@@ -4884,6 +6888,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'ZA PAT'
+    name: 'Prince Albert'
+    namewodiacritics: 'Prince Albert'
+    subdiv: WC
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3313S 02202E'
+    remarks: ''
+-
+    ch: ''
     locode: 'ZA PTN'
     name: Prospecton
     namewodiacritics: Prospecton
@@ -4899,7 +6915,7 @@
     locode: 'ZA PUT'
     name: Putfontein
     namewodiacritics: Putfontein
-    subdiv: GT
+    subdiv: GP
     function: '--3-----'
     status: RL
     date: '1201'
@@ -4911,7 +6927,7 @@
     locode: 'ZA QBG'
     name: Queensburgh
     namewodiacritics: Queensburgh
-    subdiv: NL
+    subdiv: KZN
     function: '--3-----'
     status: RQ
     date: '1001'
@@ -4932,6 +6948,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'ZA QGN'
+    name: Quigney
+    namewodiacritics: Quigney
+    subdiv: EC
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '3301S 02754E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZA QWA'
+    name: QwaQwa
+    namewodiacritics: QwaQwa
+    subdiv: FS
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '2831S 02849E'
+    remarks: ''
+-
+    ch: ''
     locode: 'ZA RMB'
     name: Ramatlhabama
     namewodiacritics: Ramatlhabama
@@ -4941,6 +6981,18 @@
     date: '9501'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZA RGE'
+    name: Ramsgate
+    namewodiacritics: Ramsgate
+    subdiv: KZN
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3054S 03020E'
     remarks: ''
 -
     ch: ''
@@ -4971,7 +7023,7 @@
     locode: 'ZA RAN'
     name: Randjesfontein
     namewodiacritics: Randjesfontein
-    subdiv: GT
+    subdiv: GP
     function: '--3-----'
     status: RL
     date: '1301'
@@ -4995,7 +7047,7 @@
     locode: 'ZA RTD'
     name: Ratanda
     namewodiacritics: Ratanda
-    subdiv: GT
+    subdiv: GP
     function: '--3-----'
     status: RL
     date: '1301'
@@ -5028,6 +7080,42 @@
     remarks: ''
 -
     ch: ''
+    locode: 'ZA RHL'
+    name: 'Red Hill'
+    namewodiacritics: 'Red Hill'
+    subdiv: KZN
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '2946S 03101E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZA RDH'
+    name: Redhouse
+    namewodiacritics: Redhouse
+    subdiv: EC
+    function: '--3-----'
+    status: RL
+    date: '1707'
+    iata: ''
+    coordinates: '3350S 02535E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZA RTZ'
+    name: Reitz
+    namewodiacritics: Reitz
+    subdiv: GP
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '2748S 02826E'
+    remarks: ''
+-
+    ch: ''
     locode: 'ZA RVO'
     name: Reivilo
     namewodiacritics: Reivilo
@@ -5043,7 +7131,7 @@
     locode: 'ZA RVH'
     name: 'Reservoir Hills'
     namewodiacritics: 'Reservoir Hills'
-    subdiv: NL
+    subdiv: KZN
     function: '-23-----'
     status: RL
     date: '1301'
@@ -5076,6 +7164,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'ZA REU'
+    name: Reunion
+    namewodiacritics: Reunion
+    subdiv: KZN
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '2958S 03056E'
+    remarks: ''
+-
+    ch: ''
     locode: 'ZA RHS'
     name: Rhodes
     namewodiacritics: Rhodes
@@ -5100,6 +7200,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'ZA RCM'
+    name: Richmond
+    namewodiacritics: Richmond
+    subdiv: KZN
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '2952S 03016E'
+    remarks: ''
+-
+    ch: ''
     locode: 'ZA RBD'
     name: Riebeeckstad
     namewodiacritics: Riebeeckstad
@@ -5112,10 +7224,58 @@
     remarks: ''
 -
     ch: ''
+    locode: 'ZA RWC'
+    name: 'Riebeek West'
+    namewodiacritics: 'Riebeek West'
+    subdiv: WC
+    function: 1----6--
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3321S 01852E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZA RKL'
+    name: Riebeek-Kasteel
+    namewodiacritics: Riebeek-Kasteel
+    subdiv: WC
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3323S 01854E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZA RDL'
+    name: Riversdale
+    namewodiacritics: Riversdale
+    subdiv: WC
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '3406S 02116E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZA 7WC'
+    name: Riviersonderend
+    namewodiacritics: Riviersonderend
+    subdiv: WC
+    function: 1----6--
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3409S 01954E'
+    remarks: ''
+-
+    ch: ''
     locode: 'ZA RVA'
     name: Rivonia
     namewodiacritics: Rivonia
-    subdiv: GT
+    subdiv: GP
     function: '--3-----'
     status: RL
     date: '0407'
@@ -5247,7 +7407,7 @@
     locode: 'ZA RSH'
     name: Rossburgh
     namewodiacritics: Rossburgh
-    subdiv: NL
+    subdiv: KZN
     function: '--3-----'
     status: RL
     date: '1301'
@@ -5259,12 +7419,24 @@
     locode: 'ZA ROS'
     name: Rosslyn
     namewodiacritics: Rosslyn
-    subdiv: GT
+    subdiv: GP
     function: '--3-----'
     status: RL
     date: '0407'
     iata: ''
     coordinates: '2537S 02805E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZA RDW'
+    name: 'Rust De Winter'
+    namewodiacritics: 'Rust De Winter'
+    subdiv: LP
+    function: '--3-----'
+    status: AM
+    date: '2107'
+    iata: ''
+    coordinates: '2512S 02836E'
     remarks: ''
 -
     ch: ''
@@ -5448,6 +7620,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'ZA SVW'
+    name: 'Sea View'
+    namewodiacritics: 'Sea View'
+    subdiv: KZN
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '2954S 03058E'
+    remarks: ''
+-
+    ch: ''
     locode: 'ZA ZEC'
     name: Secunda
     namewodiacritics: Secunda
@@ -5481,6 +7665,42 @@
     date: '1201'
     iata: ''
     coordinates: '2351N 02923E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZA ZE4'
+    name: Sezela
+    namewodiacritics: Sezela
+    subdiv: KZN
+    function: 1-3-----
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '3025S 03041E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZA SHR'
+    name: 'Shaka''s Rock'
+    namewodiacritics: 'Shaka''s Rock'
+    subdiv: KZN
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '2930S 03113E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZA SKR'
+    name: 'Shaka''s Rock'
+    namewodiacritics: 'Shaka''s Rock'
+    subdiv: FS
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '2930S 03113E'
     remarks: ''
 -
     ch: ''
@@ -5556,6 +7776,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'ZA SLW'
+    name: 'Sir Lowry''s Pass Village'
+    namewodiacritics: 'Sir Lowry''s Pass Village'
+    subdiv: WC
+    function: '--3-----'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '3407S 01854E'
+    remarks: ''
+-
+    ch: ''
     locode: 'ZA SIS'
     name: Sishen
     namewodiacritics: Sishen
@@ -5577,6 +7809,18 @@
     date: '9501'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZA SLU'
+    name: Slurry
+    namewodiacritics: Slurry
+    subdiv: NW
+    function: '--3-----'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '2549S 02551E'
     remarks: ''
 -
     ch: ''
@@ -5604,6 +7848,42 @@
     remarks: ''
 -
     ch: ''
+    locode: 'ZA SNL'
+    name: Southbroom
+    namewodiacritics: Southbroom
+    subdiv: KZN
+    function: 1----6--
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3055S 03019E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZA SD7'
+    name: Southdale
+    namewodiacritics: Southdale
+    subdiv: GP
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '2614S 02801E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZA SPO'
+    name: Southport
+    namewodiacritics: Southport
+    subdiv: KZN
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '3041S 03030E'
+    remarks: ''
+-
+    ch: ''
     locode: 'ZA ZEV'
     name: Soweto
     namewodiacritics: Soweto
@@ -5613,6 +7893,18 @@
     date: '0901'
     iata: ''
     coordinates: '2616S 02752E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZA SPA'
+    name: Sparks
+    namewodiacritics: Sparks
+    subdiv: KZN
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '2950S 03059E'
     remarks: ''
 -
     ch: ''
@@ -5655,7 +7947,7 @@
     locode: 'ZA SHL'
     name: 'Stamford Hill'
     namewodiacritics: 'Stamford Hill'
-    subdiv: NL
+    subdiv: KZN
     function: '-----6--'
     status: RQ
     date: '1007'
@@ -5673,6 +7965,18 @@
     date: '0501'
     iata: ''
     coordinates: '2657S 02915E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZA SFD'
+    name: Stanford
+    namewodiacritics: Stanford
+    subdiv: WC
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3426S 01927E'
     remarks: ''
 -
     ch: ''
@@ -5697,6 +8001,18 @@
     date: '1007'
     iata: ''
     coordinates: '2443S 03012E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZA SNG'
+    name: Steenberg
+    namewodiacritics: Steenberg
+    subdiv: WC
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3404S 01828E'
     remarks: ''
 -
     ch: ''
@@ -5733,6 +8049,30 @@
     date: '0901'
     iata: ''
     coordinates: '3353S 01838E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZA SBI'
+    name: Stilbaai
+    namewodiacritics: Stilbaai
+    subdiv: WC
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3422S 02125E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZA SFT'
+    name: Stilfontein
+    namewodiacritics: Stilfontein
+    subdiv: GP
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '2650S 02646E'
     remarks: ''
 -
     ch: ''
@@ -5775,7 +8115,7 @@
     locode: 'ZA AVL'
     name: Strubenvale
     namewodiacritics: Strubenvale
-    subdiv: GT
+    subdiv: GP
     function: '-----6--'
     status: RQ
     date: '1007'
@@ -5793,6 +8133,18 @@
     date: '0201'
     iata: ''
     coordinates: '3233S 02725E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZA SPL'
+    name: Suider-Paarl
+    namewodiacritics: Suider-Paarl
+    subdiv: WC
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3346S 01857E'
     remarks: ''
 -
     ch: ''
@@ -5847,7 +8199,7 @@
     locode: 'ZA SNN'
     name: Sunninghill
     namewodiacritics: Sunninghill
-    subdiv: GT
+    subdiv: GP
     function: '-----6--'
     status: RQ
     date: '1007'
@@ -5855,7 +8207,7 @@
     coordinates: '2602S 02803E'
     remarks: ''
 -
-    ch: +
+    ch: ''
     locode: 'ZA SYD'
     name: Sunnyridge
     namewodiacritics: Sunnyridge
@@ -5877,6 +8229,30 @@
     date: '0901'
     iata: ''
     coordinates: '2618S 02745E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZA SWK'
+    name: Swartklip
+    namewodiacritics: Swartklip
+    subdiv: LP
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '2456S 02709E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZA SWS'
+    name: Swartkops
+    namewodiacritics: Swartkops
+    subdiv: EC
+    function: '--3-----'
+    status: RL
+    date: '2001'
+    iata: ''
+    coordinates: '3351S 02535E'
     remarks: ''
 -
     ch: ''
@@ -5919,12 +8295,24 @@
     locode: 'ZA SYH'
     name: Sydenham
     namewodiacritics: Sydenham
-    subdiv: NL
+    subdiv: KZN
     function: '-----6--'
     status: RQ
     date: '1007'
     iata: ''
     coordinates: '2949S 03059E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZA TVW'
+    name: 'Table View'
+    namewodiacritics: 'Table View'
+    subdiv: WC
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3349S 01829E'
     remarks: ''
 -
     ch: ''
@@ -5949,6 +8337,18 @@
     date: '0901'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZA TMB'
+    name: Tembisa
+    namewodiacritics: Tembisa
+    subdiv: GP
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '2600S 02812E'
     remarks: ''
 -
     ch: ''
@@ -5997,6 +8397,30 @@
     date: '0201'
     iata: ''
     coordinates: '2934S 03107E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZA TWR'
+    name: 'Touws River'
+    namewodiacritics: 'Touws River'
+    subdiv: WC
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '3320S 02002E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZA TDD'
+    name: Trichardt
+    namewodiacritics: Trichardt
+    subdiv: MP
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '2629S 02914E'
     remarks: ''
 -
     ch: ''
@@ -6135,12 +8559,24 @@
     locode: 'ZA UMB'
     name: Umbogintwini
     namewodiacritics: Umbogintwini
-    subdiv: NL
+    subdiv: KZN
     function: '-23-----'
     status: RL
     date: '0701'
     iata: ''
     coordinates: '3001S 03055E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZA UDI'
+    name: Umdloti
+    namewodiacritics: Umdloti
+    subdiv: KZN
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '2939S 03107E'
     remarks: ''
 -
     ch: ''
@@ -6156,15 +8592,39 @@
     remarks: ''
 -
     ch: ''
+    locode: 'ZA UHL'
+    name: Umhlali
+    namewodiacritics: Umhlali
+    subdiv: KZN
+    function: '--3-----'
+    status: RL
+    date: '1707'
+    iata: ''
+    coordinates: '2946S 31219E'
+    remarks: ''
+-
+    ch: ''
     locode: 'ZA UMR'
     name: 'Umhlanga Rocks'
     namewodiacritics: 'Umhlanga Rocks'
-    subdiv: NL
+    subdiv: KZN
     function: '-23-----'
     status: RL
     date: '0501'
     iata: ''
     coordinates: '2943S 03105E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZA UMH'
+    name: Umhlatuzana
+    namewodiacritics: Umhlatuzana
+    subdiv: KZN
+    function: '--3-----'
+    status: RL
+    date: '1707'
+    iata: ''
+    coordinates: '2953S 03100E'
     remarks: ''
 -
     ch: ''
@@ -6180,6 +8640,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'ZA ULZ'
+    name: Umlazi
+    namewodiacritics: Umlazi
+    subdiv: KZN
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '2958S 03053E'
+    remarks: ''
+-
+    ch: ''
     locode: 'ZA UTT'
     name: Umtata
     namewodiacritics: Umtata
@@ -6189,6 +8661,18 @@
     date: '9501'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZA UZK'
+    name: Umzimkulu
+    namewodiacritics: Umzimkulu
+    subdiv: KZN
+    function: '--3-----'
+    status: RL
+    date: '1707'
+    iata: ''
+    coordinates: '3016S 02956E'
     remarks: ''
 -
     ch: ''
@@ -6216,6 +8700,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'ZA UTR'
+    name: Utrecht
+    namewodiacritics: Utrecht
+    subdiv: KZN
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '2739S 03020E'
+    remarks: ''
+-
+    ch: ''
     locode: 'ZA VAL'
     name: Vaal
     namewodiacritics: Vaal
@@ -6240,6 +8736,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'ZA LMP'
+    name: Vaalwater
+    namewodiacritics: Vaalwater
+    subdiv: LP
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '2417S 02806E'
+    remarks: ''
+-
+    ch: ''
     locode: 'ZA VDP'
     name: Vanderbijlpark
     namewodiacritics: Vanderbijlpark
@@ -6249,6 +8757,30 @@
     date: '0201'
     iata: ''
     coordinates: '2641S 02749E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZA VLD'
+    name: Velddrif
+    namewodiacritics: Velddrif
+    subdiv: WC
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '3247S 01810E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZA FVS'
+    name: Ventersburg
+    namewodiacritics: Ventersburg
+    subdiv: FS
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '2805S 02708E'
     remarks: ''
 -
     ch: ''
@@ -6288,6 +8820,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'ZA VER'
+    name: Vergenoeg
+    namewodiacritics: Vergenoeg
+    subdiv: GP
+    function: '--3-----'
+    status: AM
+    date: '2107'
+    iata: ''
+    coordinates: '2844S 02445E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZA VRM'
+    name: Vermont
+    namewodiacritics: Vermont
+    subdiv: WC
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '3425S 01909E'
+    remarks: ''
+-
+    ch: ''
     locode: 'ZA VEU'
     name: Verulam
     namewodiacritics: Verulam
@@ -6312,6 +8868,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'ZA VIL'
+    name: Viljoenskroon
+    namewodiacritics: Viljoenskroon
+    subdiv: FS
+    function: '-----6--'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '2713S 02657E'
+    remarks: ''
+-
+    ch: ''
     locode: 'ZA ZFH'
     name: Villiersdorp
     namewodiacritics: Villiersdorp
@@ -6321,6 +8889,18 @@
     date: '0901'
     iata: ''
     coordinates: '3359S 01917E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZA VIR'
+    name: Virginia
+    namewodiacritics: Virginia
+    subdiv: FS
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '2807S 02654E'
     remarks: ''
 -
     ch: ''
@@ -6447,12 +9027,36 @@
     locode: 'ZA WBK'
     name: Wandsbeck
     namewodiacritics: Wandsbeck
-    subdiv: NL
+    subdiv: KZN
     function: '-----6--'
     status: RQ
     date: '1007'
     iata: ''
     coordinates: '2834S 03125E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZA WAM'
+    name: Warmbaths
+    namewodiacritics: Warmbaths
+    subdiv: LP
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '2453S 02817E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZA WRB'
+    name: 'Warner Beach'
+    namewodiacritics: 'Warner Beach'
+    subdiv: KZN
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '3005S 03052E'
     remarks: ''
 -
     ch: ''
@@ -6465,6 +9069,18 @@
     date: '0901'
     iata: ''
     coordinates: '2926S 03035E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZA WFL'
+    name: 'Water Fall'
+    namewodiacritics: 'Water Fall'
+    subdiv: KZN
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '3024S 02920E'
     remarks: ''
 -
     ch: ''
@@ -6489,6 +9105,18 @@
     date: '0901'
     iata: ''
     coordinates: '2546S 02814E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZA WKG'
+    name: 'Waterkloof Glen'
+    namewodiacritics: 'Waterkloof Glen'
+    subdiv: GP
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '2547S 02816E'
     remarks: ''
 -
     ch: ''
@@ -6552,6 +9180,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'ZA WWC'
+    name: Wemmershoek
+    namewodiacritics: Wemmershoek
+    subdiv: WC
+    function: 1----6--
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3352S 01902E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZA WNW'
+    name: Wentworth
+    namewodiacritics: Wentworth
+    subdiv: KZN
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '2955S 03100E'
+    remarks: ''
+-
+    ch: ''
     locode: 'ZA WBN'
     name: 'West Bank'
     namewodiacritics: 'West Bank'
@@ -6561,6 +9213,30 @@
     date: '1207'
     iata: ''
     coordinates: '3302S 02754E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZA WES'
+    name: Westering
+    namewodiacritics: Westering
+    subdiv: EC
+    function: '--3-----'
+    status: RL
+    date: '1707'
+    iata: ''
+    coordinates: '3356S 02528E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZA U7S'
+    name: Westlake
+    namewodiacritics: Westlake
+    subdiv: WC
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '3405S 01826E'
     remarks: ''
 -
     ch: ''
@@ -6579,7 +9255,7 @@
     locode: 'ZA ZFN'
     name: Westonaria
     namewodiacritics: Westonaria
-    subdiv: GT
+    subdiv: GP
     function: '-----6--'
     status: RL
     date: '1001'
@@ -6588,10 +9264,22 @@
     remarks: ''
 -
     ch: ''
+    locode: 'ZA WRD'
+    name: Westridge
+    namewodiacritics: Westridge
+    subdiv: KZN
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '2951S 03059E'
+    remarks: ''
+-
+    ch: ''
     locode: 'ZA WVE'
     name: Westville
     namewodiacritics: Westville
-    subdiv: NL
+    subdiv: KZN
     function: '-----6--'
     status: RL
     date: '1201'
@@ -6624,6 +9312,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'ZA WML'
+    name: Windmeul
+    namewodiacritics: Windmeul
+    subdiv: WC
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3339S 01855E'
+    remarks: ''
+-
+    ch: ''
     locode: 'ZA WTN'
     name: Winterton
     namewodiacritics: Winterton
@@ -6651,12 +9351,36 @@
     locode: 'ZA WFD'
     name: Witfield
     namewodiacritics: Witfield
-    subdiv: GT
+    subdiv: GP
     function: '-23-----'
     status: RL
     date: '0501'
     iata: ''
     coordinates: '2611S 02812E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZA WOL'
+    name: Wolmaransstad
+    namewodiacritics: Wolmaransstad
+    subdiv: NW
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '2712S 02558E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZA WSY'
+    name: Wolseley
+    namewodiacritics: Wolseley
+    subdiv: WC
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3325S 01912E'
     remarks: ''
 -
     ch: ''

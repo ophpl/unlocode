@@ -24,6 +24,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'AO ARO'
+    name: 'Armada Olombendo FPSO'
+    namewodiacritics: 'Armada Olombendo FPSO'
+    subdiv: ZAI
+    function: '------7-'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '0604S 01121E'
+    remarks: ''
+-
+    ch: ''
     locode: 'AO BAB'
     name: Baba
     namewodiacritics: Baba
@@ -57,6 +69,18 @@
     date: '0103'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'AO BEL'
+    name: Belas
+    namewodiacritics: Belas
+    subdiv: LUA
+    function: '--3-----'
+    status: RL
+    date: '1707'
+    iata: ''
+    coordinates: '0855S 01310E'
     remarks: ''
 -
     ch: ''
@@ -165,6 +189,18 @@
     date: '9912'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'AO CLV'
+    name: 'CLOV FPSO'
+    namewodiacritics: 'CLOV FPSO'
+    subdiv: ''
+    function: '------7-'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '0727S 01134E'
     remarks: ''
 -
     ch: ''
@@ -306,9 +342,9 @@
     subdiv: ''
     function: 1-------
     status: RL
-    date: '0901'
+    date: '1601'
     iata: ''
-    coordinates: '3356N 12545E'
+    coordinates: '0750S 01207E'
     remarks: ''
 -
     ch: ''
@@ -549,6 +585,30 @@
     date: '9012'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'AO MDZ'
+    name: 'Maquela Do Zombo'
+    namewodiacritics: 'Maquela Do Zombo'
+    subdiv: UIG
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '0604S 01506E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AO MTL'
+    name: Matala
+    namewodiacritics: Matala
+    subdiv: HUI
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '1444S 01502E'
     remarks: ''
 -
     ch: ''
@@ -909,6 +969,18 @@
     date: '0212'
     iata: ''
     coordinates: '0737S 01503E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AO VNA'
+    name: Viana
+    namewodiacritics: Viana
+    subdiv: LUA
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '0854S 01322E'
     remarks: ''
 -
     ch: ''

@@ -3,7 +3,6 @@
 namespace UN\Locode\Command;
 
 use Symfony\Component\Console\Command\Command;
-use Symfony\Component\Console\Input\InputArgument;
 use Symfony\Component\Console\Input\InputInterface;
 use Symfony\Component\Console\Input\InputOption;
 use Symfony\Component\Console\Output\OutputInterface;
@@ -19,7 +18,6 @@ use UN\Locode\Writer\YamlWriter;
  */
 class Build extends Command
 {
-
     /**
      * Data url
      *
@@ -95,7 +93,11 @@ class Build extends Command
         }
 
         foreach ($countryList as $country) {
-            $url = $this->buildUrl($country['link']);
+            $url = $country['link'];
+
+            if (str_starts_with($url, '../')) {
+                $url = $this->buildUrl($url);
+            }
 
             if ($verbose) {
                 $output->write(sprintf("Fetching code list for %s from %s", $country['code'], $url).PHP_EOL);
@@ -115,6 +117,8 @@ class Build extends Command
         }
 
         $output->write(sprintf("Build completed").PHP_EOL);
+
+        return 0;
     }
 
     /**
@@ -124,10 +128,11 @@ class Build extends Command
      * @param $countries
      * @return array
      */
-    protected function buildCountryList($url, $countries) {
+    protected function buildCountryList($url, $countries)
+    {
         $crawler = new Crawler($this->getContent($url));
 
-        return $crawler->filter('.contenttable tr')
+        return $crawler->filter('table tr')
             ->reduce(function (Crawler $node, $i) use ($countries) {
                 if (count($node->filter('td')) == 0) {
                     return false;
@@ -154,35 +159,36 @@ class Build extends Command
      * @param $url
      * @return array
      */
-    protected function buildCodesList($url) {
+    protected function buildCodesList($url)
+    {
         $crawler = new Crawler($this->getContent($url));
 
         $keys = array();
 
         return $crawler->filter('table:nth-of-type(3) tr')->reduce(function (Crawler $node, $i) use (&$keys) {
-                // Read table headers and store them as keys
-                if (empty($keys)) {
-                    $keys = $node->filter('td')->extract(array('_text'));
-                    $keys = array_map('strtolower', $keys);
-                    return false;
-                }
+            // Read table headers and store them as keys
+            if (empty($keys)) {
+                $keys = $node->filter('td')->extract(array('_text'));
+                $keys = array_map('strtolower', $keys);
+                return false;
+            }
 
-                return true;
-            })->each(function (Crawler $node, $i) use ($keys) {
-                $data = $node->filter('td')->extract(array('_text'));
+            return true;
+        })->each(function (Crawler $node, $i) use ($keys) {
+            $data = $node->filter('td')->extract(array('_text'));
 
-                // Clean the extracted text values
-                array_walk($data, function(&$value) {
-                    // todo find a better way, a simple trim does not work
-                    $value = htmlentities($value, null, 'utf-8');
-                    $value = str_replace('&nbsp;', ' ', $value);
-                    $value = preg_replace('/\s\s+/', ' ', $value);
-                    $value = trim($value);
-                    $value = html_entity_decode($value, null, 'utf-8');
-                });
-
-                return array_combine($keys, $data);
+            // Clean the extracted text values
+            array_walk($data, function (&$value) {
+                // todo find a better way, a simple trim does not work
+                $value = htmlentities($value, null, 'utf-8');
+                $value = str_replace('&nbsp;', ' ', $value);
+                $value = preg_replace('/\s\s+/', ' ', $value);
+                $value = trim($value);
+                $value = html_entity_decode($value, null, 'utf-8');
             });
+
+            return array_combine($keys, $data);
+        });
     }
 
     /**
@@ -191,7 +197,8 @@ class Build extends Command
      * @param $url
      * @return string
      */
-    protected function buildUrl($url) {
+    protected function buildUrl($url)
+    {
         $parts = parse_url($this->url);
 
         if (strpos($url, '../') === 0) {
@@ -208,7 +215,8 @@ class Build extends Command
      * @throws \RuntimeException
      * @return string
      */
-    protected function getContent($url) {
+    protected function getContent($url)
+    {
         $content = file_get_contents($url);
 
         if (empty($content)) {
@@ -225,16 +233,16 @@ class Build extends Command
      * @throws \RuntimeException
      * @return WriterInterface
      */
-    protected function getWriter(InputInterface $input) {
+    protected function getWriter(InputInterface $input)
+    {
         $format = $input->getOption("format");
 
         switch($format) {
             case 'yaml':
                 return new YamlWriter();
-            break;
+                break;
         }
 
         throw new \RuntimeException(sprintf("Writer for format %s not found", $format));
     }
-
 }

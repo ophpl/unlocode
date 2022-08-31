@@ -24,6 +24,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'LC GRI'
+    name: 'Gros Islet'
+    namewodiacritics: 'Gros Islet'
+    subdiv: '06'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '1404N 06057W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LC UVF'
+    name: 'Hewanorra Intl Apt'
+    namewodiacritics: 'Hewanorra Intl Apt'
+    subdiv: '11'
+    function: '---4----'
+    status: AI
+    date: '1501'
+    iata: ''
+    coordinates: '1343N 06057W'
+    remarks: ''
+-
+    ch: ''
     locode: 'LC SLU'
     name: 'Saint Lucia Apt'
     namewodiacritics: 'Saint Lucia Apt'

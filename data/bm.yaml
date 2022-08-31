@@ -60,6 +60,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'BM PA5'
+    name: 'Paget Parish'
+    namewodiacritics: 'Paget Parish'
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3217N 06446W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BM 5PE'
+    name: Pembroke
+    namewodiacritics: Pembroke
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3218N 06446W'
+    remarks: ''
+-
+    ch: ''
     locode: 'BM SGE'
     name: 'Saint George'
     namewodiacritics: 'Saint George'
@@ -72,6 +96,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'BM SAN'
+    name: Sandys
+    namewodiacritics: Sandys
+    subdiv: ''
+    function: 1-------
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '3218N 06452W'
+    remarks: ''
+-
+    ch: ''
     locode: 'BM SOU'
     name: Southampton
     namewodiacritics: Southampton
@@ -81,4 +117,16 @@
     date: '1207'
     iata: ''
     coordinates: '3215N 06451W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BM WA7'
+    name: Warwick
+    namewodiacritics: Warwick
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3216N 06448W'
     remarks: ''

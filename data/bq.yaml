@@ -1,5 +1,5 @@
 -
-    ch: ¦
+    ch: ''
     locode: 'BQ BON'
     name: Bonaire
     namewodiacritics: Bonaire
@@ -9,9 +9,9 @@
     date: '1307'
     iata: ''
     coordinates: '1207N 06816W'
-    remarks: '@Fun'
+    remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'BQ RIN'
     name: 'Dorp Rincón'
     namewodiacritics: 'Dorp Rincon'
@@ -21,7 +21,7 @@
     date: '1307'
     iata: ''
     coordinates: '1214N 06820W'
-    remarks: '@Fun'
+    remarks: ''
 -
     ch: ''
     locode: 'BQ DTK'
@@ -59,7 +59,19 @@
     coordinates: '1209N 06816W'
     remarks: ''
 -
-    ch: ¦
+    ch: ''
+    locode: 'BQ ORA'
+    name: Oranjestad
+    namewodiacritics: Oranjestad
+    subdiv: SE
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '1728N 06259W'
+    remarks: ''
+-
+    ch: ''
     locode: 'BQ SAB'
     name: Saba
     namewodiacritics: Saba
@@ -69,9 +81,9 @@
     date: '1307'
     iata: ''
     coordinates: '1738N 06314W'
-    remarks: '@Fun'
+    remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'BQ EUX'
     name: 'Sint Eustatius'
     namewodiacritics: 'Sint Eustatius'
@@ -81,7 +93,7 @@
     date: '1307'
     iata: ''
     coordinates: '1729N 06258W'
-    remarks: '@Fun'
+    remarks: ''
 -
     ch: ''
     locode: 'BQ BOT'

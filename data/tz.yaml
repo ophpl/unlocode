@@ -1,5 +1,17 @@
 -
     ch: ''
+    locode: 'TZ ICD'
+    name: 'African Inland Container Depot'
+    namewodiacritics: 'African Inland Container Depot'
+    subdiv: '02'
+    function: '-----6--'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0650S 03914E'
+    remarks: ''
+-
+    ch: ''
     locode: 'TZ ARK'
     name: Arusha
     namewodiacritics: Arusha
@@ -9,6 +21,30 @@
     date: '9601'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'TZ BAB'
+    name: Babati
+    namewodiacritics: Babati
+    subdiv: '26'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '0413S 03545E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TZ BHO'
+    name: Biharamulo
+    namewodiacritics: Biharamulo
+    subdiv: '05'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '0237S 03118E'
     remarks: ''
 -
     ch: ''
@@ -96,6 +132,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'TZ KBG'
+    name: Kabanga
+    namewodiacritics: Kabanga
+    subdiv: '05'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '0238S 03028E'
+    remarks: ''
+-
+    ch: ''
     locode: 'TZ KAG'
     name: Kagera
     namewodiacritics: Kagera
@@ -120,6 +168,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'TZ KSL'
+    name: Kasulu
+    namewodiacritics: Kasulu
+    subdiv: '08'
+    function: '-23-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '0434S 03006E'
+    remarks: ''
+-
+    ch: ''
     locode: 'TZ KIB'
     name: Kibaha
     namewodiacritics: Kibaha
@@ -129,6 +189,30 @@
     date: '0901'
     iata: ''
     coordinates: '0646S 03855E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TZ KBD'
+    name: Kibondo
+    namewodiacritics: Kibondo
+    subdiv: '08'
+    function: '-----6--'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '0335S 03043E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TZ KDT'
+    name: Kidatu
+    namewodiacritics: Kidatu
+    subdiv: '16'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '0742S 03657E'
     remarks: ''
 -
     ch: ''
@@ -191,7 +275,7 @@
     coordinates: ''
     remarks: ''
 -
-    ch: +
+    ch: ''
     locode: 'TZ KSS'
     name: Kisesa
     namewodiacritics: Kisesa
@@ -201,6 +285,18 @@
     date: '1307'
     iata: ''
     coordinates: '0305S 03409E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TZ KIT'
+    name: Kitagata
+    namewodiacritics: Kitagata
+    subdiv: '08'
+    function: '--3-----'
+    status: AM
+    date: '2007'
+    iata: ''
+    coordinates: '0418S 03029E'
     remarks: ''
 -
     ch: ''
@@ -276,6 +372,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'TZ MBK'
+    name: Makumbako
+    namewodiacritics: Makumbako
+    subdiv: '29'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '0851S 03450E'
+    remarks: ''
+-
+    ch: ''
     locode: 'TZ MGK'
     name: Malagarasi
     namewodiacritics: Malagarasi
@@ -285,6 +393,18 @@
     date: '1301'
     iata: ''
     coordinates: '0506S 03050E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TZ MRN'
+    name: Marungu
+    namewodiacritics: Marungu
+    subdiv: '08'
+    function: '--3-----'
+    status: AM
+    date: '2007'
+    iata: ''
+    coordinates: '0337S 03843E'
     remarks: ''
 -
     ch: ''
@@ -333,6 +453,18 @@
     date: '8103'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'TZ MKM'
+    name: Mikumi
+    namewodiacritics: Mikumi
+    subdiv: '16'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '0724S 03659E'
     remarks: ''
 -
     ch: ''
@@ -396,6 +528,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'TZ MPA'
+    name: Mpanda
+    namewodiacritics: Mpanda
+    subdiv: '28'
+    function: '--34----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '0621S 03104E'
+    remarks: ''
+-
+    ch: ''
     locode: 'TZ MTS'
     name: Mtsora
     namewodiacritics: Mtsora
@@ -432,6 +576,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'TZ MTK'
+    name: Mutukula
+    namewodiacritics: Mutukula
+    subdiv: '05'
+    function: '--3-----'
+    status: AM
+    date: '2107'
+    iata: ''
+    coordinates: '0100S 03124E'
+    remarks: ''
+-
+    ch: ''
     locode: 'TZ MWN'
     name: Mwadui
     namewodiacritics: Mwadui
@@ -447,12 +603,12 @@
     locode: 'TZ MWZ'
     name: Mwanza
     namewodiacritics: Mwanza
-    subdiv: ''
+    subdiv: '18'
     function: 1--4----
     status: AI
-    date: '9601'
+    date: '1701'
     iata: ''
-    coordinates: ''
+    coordinates: '0231S 03254E'
     remarks: ''
 -
     ch: ''
@@ -585,6 +741,18 @@
     date: '1101'
     iata: ''
     coordinates: '0108S 03359E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'TZ SGD'
+    name: Singida
+    namewodiacritics: Singida
+    subdiv: '23'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '0449S 03445E'
     remarks: ''
 -
     ch: ''

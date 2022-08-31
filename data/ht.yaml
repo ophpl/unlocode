@@ -1,5 +1,5 @@
 -
-    ch: '#'
+    ch: ''
     locode: 'HT SMC'
     name: 'Baie de Saint-Marc'
     namewodiacritics: 'Baie de Saint-Marc'
@@ -9,7 +9,7 @@
     date: '1307'
     iata: ''
     coordinates: '1907N 07242W'
-    remarks: '@Sub'
+    remarks: ''
 -
     ch: ''
     locode: 'HT CAP'
@@ -35,7 +35,7 @@
     coordinates: '1941N 07201W'
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'HT OOU'
     name: Carrefour
     namewodiacritics: Carrefour
@@ -45,9 +45,21 @@
     date: '1307'
     iata: ''
     coordinates: '1832N 07224W'
-    remarks: '@Sub'
+    remarks: ''
 -
-    ch: ¦
+    ch: ''
+    locode: 'HT CDB'
+    name: 'Croix des Bouquets'
+    namewodiacritics: 'Croix des Bouquets'
+    subdiv: OU
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '1834N 07213W'
+    remarks: ''
+-
+    ch: ''
     locode: 'HT FOM'
     name: 'Fond Mombin'
     namewodiacritics: 'Fond Mombin'
@@ -57,9 +69,21 @@
     date: '1307'
     iata: ''
     coordinates: ''
-    remarks: '@Sub'
+    remarks: ''
 -
-    ch: ¦
+    ch: ''
+    locode: 'HT FDB'
+    name: Fond-des-Blancs
+    namewodiacritics: Fond-des-Blancs
+    subdiv: SD
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '1817N 07308W'
+    remarks: ''
+-
+    ch: ''
     locode: 'HT FLI'
     name: 'Fort Liberte'
     namewodiacritics: 'Fort Liberte'
@@ -69,9 +93,9 @@
     date: '1307'
     iata: ''
     coordinates: ''
-    remarks: '@Sub'
+    remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'HT GVS'
     name: Gonaïves
     namewodiacritics: Gonaives
@@ -81,9 +105,21 @@
     date: '1307'
     iata: ''
     coordinates: ''
-    remarks: '@Sub'
+    remarks: ''
 -
-    ch: ¦
+    ch: ''
+    locode: 'HT HI5'
+    name: Hincha
+    namewodiacritics: Hincha
+    subdiv: CE
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '1909N 07201W'
+    remarks: ''
+-
+    ch: ''
     locode: 'HT JAK'
     name: Jacmel
     namewodiacritics: Jacmel
@@ -93,9 +129,9 @@
     date: '1307'
     iata: ''
     coordinates: ''
-    remarks: '@Sub'
+    remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'HT JEE'
     name: Jérémie
     namewodiacritics: Jeremie
@@ -105,7 +141,7 @@
     date: '1307'
     iata: ''
     coordinates: ''
-    remarks: '@Sub'
+    remarks: ''
 -
     ch: ''
     locode: 'HT LAB'
@@ -121,14 +157,26 @@
 -
     ch: ''
     locode: 'HT LFF'
-    name: Laffiteau
-    namewodiacritics: Laffiteau
-    subdiv: ''
-    function: 1-------
+    name: Lafiteau
+    namewodiacritics: Lafiteau
+    subdiv: OU
+    function: 1-3-----
     status: AI
-    date: '9401'
+    date: '2101'
     iata: ''
-    coordinates: ''
+    coordinates: '1841N 07221W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'HT PLH'
+    name: 'Lafito Port'
+    namewodiacritics: 'Lafito Port'
+    subdiv: OU
+    function: 1-------
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '1841N 07221W'
     remarks: ''
 -
     ch: ''
@@ -143,7 +191,7 @@
     coordinates: '1830N 07238W'
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'HT ACA'
     name: 'Les Cayes'
     namewodiacritics: 'Les Cayes'
@@ -153,21 +201,45 @@
     date: '1307'
     iata: ''
     coordinates: ''
-    remarks: '@Sub'
+    remarks: ''
 -
-    ch: ¦
+    ch: ''
+    locode: 'HT MAR'
+    name: Martinique
+    namewodiacritics: Martinique
+    subdiv: ND
+    function: '--3-----'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '1949N 07232W'
+    remarks: ''
+-
+    ch: ''
     locode: 'HT MIR'
     name: Miragoane
     namewodiacritics: Miragoane
-    subdiv: ''
+    subdiv: NI
     function: 1-------
     status: QQ
     date: '1307'
     iata: ''
     coordinates: ''
-    remarks: '@Sub'
+    remarks: ''
 -
-    ch: ¦
+    ch: ''
+    locode: 'HT PET'
+    name: Pétion-Ville
+    namewodiacritics: Petion-Ville
+    subdiv: NE
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '1831N 07217W'
+    remarks: ''
+-
+    ch: ''
     locode: 'HT PEG'
     name: 'Petit Goâve'
     namewodiacritics: 'Petit Goave'
@@ -177,21 +249,21 @@
     date: '1307'
     iata: ''
     coordinates: '1826N 07252W'
-    remarks: '@Sub'
+    remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'HT PDP'
     name: 'Port de Paix'
     namewodiacritics: 'Port de Paix'
-    subdiv: NO
+    subdiv: 'NO'
     function: '--3-----'
     status: RQ
     date: '1307'
     iata: ''
     coordinates: ''
-    remarks: '@Sub'
+    remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'HT PAP'
     name: Port-au-Prince
     namewodiacritics: Port-au-Prince
@@ -201,9 +273,9 @@
     date: '1307'
     iata: ''
     coordinates: ''
-    remarks: '@Sub'
+    remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'HT PTY'
     name: Poty
     namewodiacritics: Poty
@@ -213,7 +285,7 @@
     date: '1307'
     iata: ''
     coordinates: '1820N 07405W'
-    remarks: '@Sub'
+    remarks: ''
 -
     ch: ''
     locode: 'HT STO'

@@ -24,6 +24,42 @@
     remarks: ''
 -
     ch: ''
+    locode: 'MW CLM'
+    name: Chilomoni
+    namewodiacritics: Chilomoni
+    subdiv: BL
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '1547S 03459E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MW CPK'
+    name: Chipoka
+    namewodiacritics: Chipoka
+    subdiv: SA
+    function: 1-3--6--
+    status: RL
+    date: '1901'
+    iata: ''
+    coordinates: '1400S 03431E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MW CTP'
+    name: Chitipa
+    namewodiacritics: Chitipa
+    subdiv: CT
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '0943S 03316E'
+    remarks: ''
+-
+    ch: ''
     locode: 'MW CMK'
     name: 'Club Makokola'
     namewodiacritics: 'Club Makokola'
@@ -108,6 +144,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'MW LUZ'
+    name: Luchenza
+    namewodiacritics: Luchenza
+    subdiv: TH
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '1601S 03518E'
+    remarks: ''
+-
+    ch: ''
     locode: 'MW MAI'
     name: Mangochi
     namewodiacritics: Mangochi
@@ -131,7 +179,19 @@
     coordinates: '1406S 03431E'
     remarks: ''
 -
-    ch: +
+    ch: ''
+    locode: 'MW MU7'
+    name: Mulanje
+    namewodiacritics: Mulanje
+    subdiv: MU
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '1602S 03530E'
+    remarks: ''
+-
+    ch: ''
     locode: 'MW MZI'
     name: Mzimba
     namewodiacritics: Mzimba
@@ -156,6 +216,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'MW NTH'
+    name: Ntcheu
+    namewodiacritics: Ntcheu
+    subdiv: NU
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '1449S 03438E'
+    remarks: ''
+-
+    ch: ''
     locode: 'MW LMB'
     name: Salima
     namewodiacritics: Salima
@@ -177,4 +249,16 @@
     date: '1201'
     iata: ''
     coordinates: '1604S 03508E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MW ZOB'
+    name: Zomba
+    namewodiacritics: Zomba
+    subdiv: ZO
+    function: '-----6--'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '1523S 03520E'
     remarks: ''

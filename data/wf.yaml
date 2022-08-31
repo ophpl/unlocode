@@ -1,14 +1,14 @@
 -
     ch: ''
-    locode: 'WF FUT'
-    name: 'Futuna Island Apt'
-    namewodiacritics: 'Futuna Island Apt'
+    locode: 'WF LEA'
+    name: Leava
+    namewodiacritics: Leava
     subdiv: ''
-    function: '---4----'
-    status: AI
-    date: '0401'
+    function: '--3-----'
+    status: RL
+    date: '1901'
     iata: ''
-    coordinates: '1419S 17807W'
+    coordinates: '1418S 17809W'
     remarks: ''
 -
     ch: ''
@@ -18,9 +18,9 @@
     subdiv: ''
     function: 1-3-5---
     status: AI
-    date: '0401'
+    date: '1901'
     iata: ''
-    coordinates: '1317S 17608W'
+    coordinates: '1317S 17611W'
     remarks: ''
 -
     ch: ''
@@ -30,19 +30,31 @@
     subdiv: ''
     function: 1-3-----
     status: RL
-    date: '0407'
+    date: '1901'
     iata: ''
-    coordinates: '1415S 17809W'
+    coordinates: '1417S 17810W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'WF FUT'
+    name: 'Vele Futuna I. Apt'
+    namewodiacritics: 'Vele Futuna I. Apt'
+    subdiv: ''
+    function: '---4----'
+    status: AI
+    date: '1901'
+    iata: ''
+    coordinates: '1419S 17805W'
     remarks: ''
 -
     ch: ''
     locode: 'WF WLS'
-    name: 'Wallis Island Apt'
-    namewodiacritics: 'Wallis Island Apt'
+    name: 'Wallis I. Apt'
+    namewodiacritics: 'Wallis I. Apt'
     subdiv: ''
     function: '---4----'
     status: AI
-    date: '0401'
+    date: '1901'
     iata: ''
-    coordinates: '1314S 17612W'
+    coordinates: '1315S 17612W'
     remarks: ''

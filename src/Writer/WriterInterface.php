@@ -9,7 +9,6 @@ namespace UN\Locode\Writer;
  */
 interface WriterInterface
 {
-
     /**
      * Writer data.
      *
@@ -19,5 +18,4 @@ interface WriterInterface
      * @return
      */
     public function write($path, $country, array $data);
-
 }

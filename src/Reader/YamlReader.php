@@ -11,7 +11,6 @@ use Symfony\Component\Yaml\Yaml;
  */
 class YamlReader implements ReaderInterface
 {
-
     /**
      * {@inheritdoc}
      */
@@ -21,21 +20,7 @@ class YamlReader implements ReaderInterface
 
         $fileName = $path . '/' . $country . '.yaml';
 
-        if (!file_exists($fileName)) {
-            throw new \RuntimeException(sprintf(
-                'The data file "%s" does not exist.',
-                $fileName
-            ));
-        }
-
-        if (!is_file($fileName)) {
-            throw new \RuntimeException(sprintf(
-                'The "%s" is not a file.',
-                $fileName
-            ));
-        }
-
-        return Yaml::parse($fileName);
+        return Yaml::parseFile($fileName);
     }
 
     /**
@@ -47,7 +32,7 @@ class YamlReader implements ReaderInterface
 
         $data = $this->read($path, $country);
 
-        foreach($data as $entry) {
+        foreach ($data as $entry) {
             if ($entry[$field] == $value) {
                 return $entry;
             }
@@ -55,5 +40,4 @@ class YamlReader implements ReaderInterface
 
         return null;
     }
-
 }

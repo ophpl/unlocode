@@ -84,6 +84,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'GE GEO'
+    name: Chokhatauri
+    namewodiacritics: Chokhatauri
+    subdiv: GU
+    function: '--3-----'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '4201N 04215E'
+    remarks: ''
+-
+    ch: ''
     locode: 'GE ZAC'
     name: Chrebalo
     namewodiacritics: Chrebalo
@@ -93,6 +105,18 @@
     date: '0901'
     iata: ''
     coordinates: '4233N 04258E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GE DED'
+    name: Dedoplistskaro
+    namewodiacritics: Dedoplistskaro
+    subdiv: KA
+    function: '--3-----'
+    status: RL
+    date: '2001'
+    iata: ''
+    coordinates: '4128N 04606E'
     remarks: ''
 -
     ch: ''
@@ -107,7 +131,7 @@
     coordinates: '4119N 04421E'
     remarks: ''
 -
-    ch: +
+    ch: ''
     locode: 'GE GGR'
     name: Gagra
     namewodiacritics: Gagra
@@ -143,7 +167,7 @@
     coordinates: '4158N 04406E'
     remarks: ''
 -
-    ch: +
+    ch: ''
     locode: 'GE GUD'
     name: Gudauri
     namewodiacritics: Gudauri
@@ -201,6 +225,42 @@
     date: '0901'
     iata: ''
     coordinates: '4154N 04425E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GE KAZ'
+    name: Kazreti
+    namewodiacritics: Kazreti
+    subdiv: KK
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4122N 04424E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GE IES'
+    name: Khashmi
+    namewodiacritics: Khashmi
+    subdiv: TB
+    function: 1-3-----
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '4145N 04510E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GE KHI'
+    name: Khashuri
+    namewodiacritics: Khashuri
+    subdiv: SK
+    function: '-23-----'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '4159N 04335E'
     remarks: ''
 -
     ch: ''
@@ -312,6 +372,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'GE NAB'
+    name: Nabeghlavi
+    namewodiacritics: Nabeghlavi
+    subdiv: GU
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4156N 04221E'
+    remarks: ''
+-
+    ch: ''
     locode: 'GE NAT'
     name: Natakhtari
     namewodiacritics: Natakhtari
@@ -333,6 +405,18 @@
     date: '1107'
     iata: ''
     coordinates: '4158N 04501E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GE 5OZ'
+    name: Ozurgeti
+    namewodiacritics: Ozurgeti
+    subdiv: GU
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '4155N 04200E'
     remarks: ''
 -
     ch: ''
@@ -384,6 +468,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'GE SAG'
+    name: Saguramo
+    namewodiacritics: Saguramo
+    subdiv: TB
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '4154N 04445E'
+    remarks: ''
+-
+    ch: ''
     locode: 'GE STD'
     name: Samtredia
     namewodiacritics: Samtredia
@@ -420,6 +516,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'GE SIG'
+    name: Sighnaghi
+    namewodiacritics: Sighnaghi
+    subdiv: TB
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '4137N 04555E'
+    remarks: ''
+-
+    ch: ''
     locode: 'GE SUI'
     name: Sokhumi
     namewodiacritics: Sokhumi
@@ -429,6 +537,18 @@
     date: '1001'
     iata: ''
     coordinates: '4300N 04101E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GE ABK'
+    name: Sukhumi
+    namewodiacritics: Sukhumi
+    subdiv: AB
+    function: 1-3-----
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '4300N 04100E'
     remarks: ''
 -
     ch: ''
@@ -447,12 +567,12 @@
     locode: 'GE TBS'
     name: Tbilisi
     namewodiacritics: Tbilisi
-    subdiv: ''
+    subdiv: TB
     function: '---45---'
     status: AI
-    date: '9601'
+    date: '1601'
     iata: ''
-    coordinates: ''
+    coordinates: '4143N 04447E'
     remarks: ''
 -
     ch: ''
@@ -465,6 +585,18 @@
     date: '0601'
     iata: ''
     coordinates: '4155N 04528E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GE TRL'
+    name: Terjola
+    namewodiacritics: Terjola
+    subdiv: IM
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '4210N 04258E'
     remarks: ''
 -
     ch: ''
@@ -492,6 +624,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'GE TS2'
+    name: Tsinandali
+    namewodiacritics: Tsinandali
+    subdiv: KA
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '4153N 04534E'
+    remarks: ''
+-
+    ch: ''
     locode: 'GE TSI'
     name: Tsintskaro
     namewodiacritics: Tsintskaro
@@ -501,6 +645,18 @@
     date: '0907'
     iata: ''
     coordinates: '4135N 04437E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GE VAC'
+    name: Vachnadziani
+    namewodiacritics: Vachnadziani
+    subdiv: KA
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4150N 04539E'
     remarks: ''
 -
     ch: ''
@@ -523,6 +679,18 @@
     function: '-----6--'
     status: RQ
     date: '1201'
+    iata: ''
+    coordinates: '4206N 04303E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GE ZTP'
+    name: 'Zestap''oni'
+    namewodiacritics: 'Zestap''oni'
+    subdiv: IM
+    function: '--3-----'
+    status: RL
+    date: '1607'
     iata: ''
     coordinates: '4206N 04303E'
     remarks: ''

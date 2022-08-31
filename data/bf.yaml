@@ -72,6 +72,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'BF BRO'
+    name: Boromo
+    namewodiacritics: Boromo
+    subdiv: BAL
+    function: '--3-----'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '1145N 00256W'
+    remarks: ''
+-
+    ch: ''
     locode: 'BF BOU'
     name: Boulsa
     namewodiacritics: Boulsa
@@ -81,6 +93,18 @@
     date: '9912'
     iata: XBO
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'BF BUS'
+    name: Bousse
+    namewodiacritics: Bousse
+    subdiv: OUB
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '1239N 00153W'
     remarks: ''
 -
     ch: ''
@@ -180,6 +204,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'BF HOU'
+    name: Houndé
+    namewodiacritics: Hounde
+    subdiv: TUI
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '1130N 00331W'
+    remarks: ''
+-
+    ch: ''
     locode: 'BF KAN'
     name: Kantchari
     namewodiacritics: Kantchari
@@ -252,6 +288,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'BF MAN'
+    name: Mana
+    namewodiacritics: Mana
+    subdiv: BAL
+    function: '--3-----'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '1152N 00322W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BF NAT'
+    name: Natougou
+    namewodiacritics: Natougou
+    subdiv: TAP
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '1237N 00141E'
+    remarks: ''
+-
+    ch: ''
     locode: 'BF NOU'
     name: Nouna
     namewodiacritics: Nouna
@@ -261,6 +321,18 @@
     date: '9912'
     iata: XNU
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'BF ORO'
+    name: Orodara
+    namewodiacritics: Orodara
+    subdiv: KEN
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '1059N 00455W'
     remarks: ''
 -
     ch: ''
@@ -297,6 +369,18 @@
     date: '9912'
     iata: XPA
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'BF PEN'
+    name: Péni
+    namewodiacritics: Peni
+    subdiv: HOU
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '1057N 00429W'
     remarks: ''
 -
     ch: ''
@@ -396,6 +480,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'BF WON'
+    name: 'Wona (Ouona)'
+    namewodiacritics: 'Wona (Ouona)'
+    subdiv: TUI
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '1158N 00325W'
+    remarks: ''
+-
+    ch: ''
     locode: 'BF YKP'
     name: Yako
     namewodiacritics: Yako
@@ -405,6 +501,18 @@
     date: '1301'
     iata: ''
     coordinates: '1258N 00216W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BF LIG'
+    name: Yaramoko
+    namewodiacritics: Yaramoko
+    subdiv: MOU
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '1148N 00317W'
     remarks: ''
 -
     ch: ''
@@ -429,4 +537,16 @@
     date: '0307'
     iata: ''
     coordinates: '1237N 00049W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BF OB2'
+    name: Ziniaré
+    namewodiacritics: Ziniare
+    subdiv: OUB
+    function: 1-3-----
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '1235N 00118W'
     remarks: ''

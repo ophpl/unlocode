@@ -30,9 +30,9 @@
     subdiv: '04'
     function: 12345---
     status: RL
-    date: '0501'
+    date: '2107'
     iata: ''
-    coordinates: '2625N 05006E'
+    coordinates: '2630N 05012E'
     remarks: ''
 -
     ch: ''
@@ -63,12 +63,12 @@
     locode: 'SA BAH'
     name: 'Al Bahah'
     namewodiacritics: 'Al Bahah'
-    subdiv: ''
+    subdiv: '11'
     function: '--3-----'
     status: RL
-    date: '9901'
+    date: '1601'
     iata: ''
-    coordinates: ''
+    coordinates: '2001N 04128E'
     remarks: ''
 -
     ch: ''
@@ -81,6 +81,30 @@
     date: '8103'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SA HAD'
+    name: 'Al Hadithah'
+    namewodiacritics: 'Al Hadithah'
+    subdiv: '12'
+    function: '--3-----'
+    status: RL
+    date: '1707'
+    iata: ''
+    coordinates: '3127N 03709E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SA ALH'
+    name: 'Al Hasa'
+    namewodiacritics: 'Al Hasa'
+    subdiv: '04'
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '2525N 04937E'
     remarks: ''
 -
     ch: ''
@@ -102,9 +126,9 @@
     subdiv: ''
     function: 1-3-----
     status: RL
-    date: '0307'
+    date: '2107'
     iata: ''
-    coordinates: '2704N 04933E'
+    coordinates: '2705N 04942E'
     remarks: ''
 -
     ch: ''
@@ -117,6 +141,18 @@
     date: '1101'
     iata: ''
     coordinates: '2408N 04718E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SA AQK'
+    name: 'Al Khobar'
+    namewodiacritics: 'Al Khobar'
+    subdiv: '04'
+    function: 1-------
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '2617N 05012E'
     remarks: ''
 -
     ch: ''
@@ -180,6 +216,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'SA QRN'
+    name: 'Al Qurainah'
+    namewodiacritics: 'Al Qurainah'
+    subdiv: '01'
+    function: '--3-----'
+    status: AM
+    date: '2107'
+    iata: ''
+    coordinates: '2506N 04612E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SA ASQ'
+    name: 'Al Shuqaiq'
+    namewodiacritics: 'Al Shuqaiq'
+    subdiv: '04'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '2529N 04936E'
+    remarks: ''
+-
+    ch: ''
     locode: 'SA AUT'
     name: 'Al ''Uthmaniyah'
     namewodiacritics: 'Al ''Uthmaniyah'
@@ -215,6 +275,18 @@
     coordinates: ''
     remarks: ''
 -
+    ch: +
+    locode: 'SA ASF'
+    name: Asfan
+    namewodiacritics: Asfan
+    subdiv: '02'
+    function: '--3-----'
+    status: AA
+    date: '2201'
+    iata: ''
+    coordinates: '2155N 03922E'
+    remarks: ''
+-
     ch: ''
     locode: 'SA BDN'
     name: Badanah
@@ -237,6 +309,18 @@
     date: '9401'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SA BRU'
+    name: Buraydah
+    namewodiacritics: Buraydah
+    subdiv: '05'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '2619N 04358E'
     remarks: ''
 -
     ch: ''
@@ -270,9 +354,9 @@
     subdiv: ''
     function: 1-------
     status: RQ
-    date: '9506'
+    date: '2107'
     iata: ''
-    coordinates: ''
+    coordinates: '2734N 03433E'
     remarks: ''
 -
     ch: ''
@@ -336,6 +420,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'SA RAD'
+    name: Harad
+    namewodiacritics: Harad
+    subdiv: ''
+    function: '-23-----'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '2408N 04903E'
+    remarks: ''
+-
+    ch: ''
     locode: 'SA HZM'
     name: 'Hazm Al Jalamid'
     namewodiacritics: 'Hazm Al Jalamid'
@@ -360,15 +456,51 @@
     remarks: ''
 -
     ch: ''
+    locode: 'SA JEC'
+    name: 'Jazan Economic City'
+    namewodiacritics: 'Jazan Economic City'
+    subdiv: '09'
+    function: 1-3-----
+    status: AM
+    date: '2007'
+    iata: ''
+    coordinates: '1717N 04220E'
+    remarks: ''
+-
+    ch: ''
     locode: 'SA JED'
     name: Jeddah
     namewodiacritics: Jeddah
-    subdiv: ''
+    subdiv: '02'
     function: 1--45---
     status: AI
-    date: '9601'
+    date: '2107'
     iata: ''
-    coordinates: ''
+    coordinates: '2128N 03910E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SA JIC'
+    name: 'Jeddah Industrial City 2 & 3'
+    namewodiacritics: 'Jeddah Industrial City 2 & 3'
+    subdiv: '02'
+    function: '--3-----'
+    status: AM
+    date: '2101'
+    iata: ''
+    coordinates: '2107N 03917E'
+    remarks: ''
+-
+    ch: +
+    locode: 'SA JYC'
+    name: 'Jeddah Yachts Club Port'
+    namewodiacritics: 'Jeddah Yachts Club Port'
+    subdiv: '02'
+    function: 1-------
+    status: AA
+    date: '2201'
+    iata: ''
+    coordinates: '2319N 03906E'
     remarks: ''
 -
     ch: ''
@@ -378,9 +510,9 @@
     subdiv: ''
     function: 1--4----
     status: AI
-    date: '0607'
+    date: '2107'
     iata: ''
-    coordinates: '1653N 04233E'
+    coordinates: '1654N 04230E'
     remarks: ''
 -
     ch: ''
@@ -402,9 +534,9 @@
     subdiv: ''
     function: 1-------
     status: RQ
-    date: '9506'
+    date: '2107'
     iata: ''
-    coordinates: ''
+    coordinates: '2655N 05001E'
     remarks: ''
 -
     ch: ''
@@ -414,9 +546,9 @@
     subdiv: ''
     function: 1-------
     status: QQ
-    date: '8103'
+    date: '2107'
     iata: ''
-    coordinates: ''
+    coordinates: '2701N 04940E'
     remarks: ''
 -
     ch: ''
@@ -690,9 +822,9 @@
     subdiv: '04'
     function: 1-3-----
     status: RL
-    date: '1301'
+    date: '2107'
     iata: ''
-    coordinates: '2728N 04917E'
+    coordinates: '2733N 04912E'
     remarks: 'Ras Al Zour'
 -
     ch: ''
@@ -702,21 +834,21 @@
     subdiv: ''
     function: 1-------
     status: QQ
-    date: '8103'
+    date: '2107'
     iata: ''
-    coordinates: ''
+    coordinates: '2638N 05009E'
     remarks: ''
 -
     ch: ''
     locode: 'SA RUH'
     name: Riyadh
     namewodiacritics: Riyadh
-    subdiv: ''
+    subdiv: '01'
     function: '---45---'
     status: AI
-    date: '9401'
+    date: '1607'
     iata: ''
-    coordinates: ''
+    coordinates: '2438N 04646E'
     remarks: ''
 -
     ch: ''
@@ -753,6 +885,18 @@
     date: '8103'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SA SAL'
+    name: Salwá
+    namewodiacritics: Salwa
+    subdiv: '04'
+    function: '--3-----'
+    status: RL
+    date: '1707'
+    iata: ''
+    coordinates: '2444N 05045'
     remarks: ''
 -
     ch: ''
@@ -846,9 +990,9 @@
     subdiv: ''
     function: '-----6--'
     status: RQ
-    date: '0907'
+    date: '1707'
     iata: ''
-    coordinates: '2129N 39958E'
+    coordinates: '2129N 03909E'
     remarks: ''
 -
     ch: ''
@@ -925,14 +1069,14 @@
 -
     ch: ''
     locode: 'SA YNB'
-    name: 'Yanbu al-Bahr'
-    namewodiacritics: 'Yanbu al-Bahr'
+    name: 'Yanbu commercial city'
+    namewodiacritics: 'Yanbu commercial city'
     subdiv: '03'
     function: 1-34----
     status: AI
-    date: '0401'
+    date: '2107'
     iata: ''
-    coordinates: '2405N 03802E'
+    coordinates: '2404N 03803E'
     remarks: ''
 -
     ch: ''
@@ -942,9 +1086,9 @@
     subdiv: '03'
     function: 1-3-----
     status: RL
-    date: '0307'
+    date: '2107'
     iata: ''
-    coordinates: '2359N 03813E'
+    coordinates: '2356N 03815E'
     remarks: ''
 -
     ch: ''

@@ -1,26 +1,38 @@
 -
     ch: ''
     locode: 'YT BAN'
-    name: Bandelé
-    namewodiacritics: Bandele
+    name: Bandrele
+    namewodiacritics: Bandrele
     subdiv: ''
-    function: '--3-----'
+    function: '--3--6--'
     status: RL
-    date: '0010'
+    date: '1901'
     iata: ''
     coordinates: '1254S 04510E'
     remarks: ''
 -
     ch: ''
-    locode: 'YT BAD'
-    name: Bandrele
-    namewodiacritics: Bandrele
+    locode: 'YT MAY'
+    name: Bouéni
+    namewodiacritics: Boueni
     subdiv: ''
-    function: '-----6--'
-    status: RQ
-    date: '1001'
+    function: '--3-----'
+    status: AM
+    date: '2107'
     iata: ''
-    coordinates: '1254S 04511E'
+    coordinates: '1256S 04507E'
+    remarks: 'Coordinates modified'
+-
+    ch: ''
+    locode: 'YT CHN'
+    name: Chiconi
+    namewodiacritics: Chiconi
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '1901'
+    iata: ''
+    coordinates: '1250S 04507E'
     remarks: ''
 -
     ch: ''
@@ -29,22 +41,34 @@
     namewodiacritics: Chirongui
     subdiv: ''
     function: '-----6--'
-    status: RQ
-    date: '1001'
+    status: RL
+    date: '1901'
     iata: ''
-    coordinates: '1255S 04508E'
+    coordinates: '1256S 04509E'
     remarks: ''
 -
     ch: ''
     locode: 'YT DZA'
-    name: Dzaoudzi
-    namewodiacritics: Dzaoudzi
+    name: 'Dzaoudzi-Pamandzi Apt'
+    namewodiacritics: 'Dzaoudzi-Pamandzi Apt'
     subdiv: ''
     function: 1--4----
     status: AI
-    date: '0001'
+    date: '1901'
     iata: ''
-    coordinates: ''
+    coordinates: '1248S 04517E'
+    remarks: ''
+-
+    ch: +
+    locode: 'YT KNK'
+    name: Kani-Kéli
+    namewodiacritics: Kani-Keli
+    subdiv: ''
+    function: 1-3-----
+    status: AA
+    date: '2201'
+    iata: ''
+    coordinates: '1257S 04506E'
     remarks: ''
 -
     ch: ''
@@ -52,11 +76,11 @@
     name: Koungou
     namewodiacritics: Koungou
     subdiv: ''
-    function: 1-3-----
-    status: RQ
-    date: '1001'
+    function: '--3-----'
+    status: RL
+    date: '1901'
     iata: ''
-    coordinates: '1244S 04215E'
+    coordinates: '1244S 04512E'
     remarks: ''
 -
     ch: ''
@@ -65,10 +89,10 @@
     namewodiacritics: Longoni
     subdiv: ''
     function: 1-3-----
-    status: RL
-    date: '0212'
+    status: AA
+    date: '1901'
     iata: ''
-    coordinates: '1245S 04510E'
+    coordinates: '1243S 04510E'
     remarks: ''
 -
     ch: ''
@@ -78,9 +102,33 @@
     subdiv: ''
     function: 1-------
     status: AI
-    date: '9912'
+    date: '1901'
     iata: ''
-    coordinates: ''
+    coordinates: '1247S 04514E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'YT MTS'
+    name: Mtsamboro
+    namewodiacritics: Mtsamboro
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '1901'
+    iata: ''
+    coordinates: '1242S 04504E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'YT PAS'
+    name: Passamainty
+    namewodiacritics: Passamainty
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '1901'
+    iata: ''
+    coordinates: '1248S 04513E'
     remarks: ''
 -
     ch: ''

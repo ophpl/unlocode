@@ -47,7 +47,19 @@
     coordinates: ''
     remarks: ''
 -
-    ch: ¦
+    ch: ''
+    locode: 'GQ KNT'
+    name: Ebebiyín
+    namewodiacritics: Ebebiyin
+    subdiv: KN
+    function: '-23-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '0209N 01119E'
+    remarks: ''
+-
+    ch: ''
     locode: 'GQ LUB'
     name: Luba
     namewodiacritics: Luba
@@ -57,21 +69,33 @@
     date: '1307'
     iata: ''
     coordinates: ''
-    remarks: '@Sub'
+    remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'GQ SSG'
     name: Malabo
     namewodiacritics: Malabo
     subdiv: BN
-    function: '---4----'
+    function: 1--4----
     status: AI
-    date: '1307'
+    date: '1801'
     iata: ''
     coordinates: ''
-    remarks: '@Sub'
+    remarks: ''
 -
-    ch: ¦
+    ch: ''
+    locode: 'GQ GEM'
+    name: Mongomeyen
+    namewodiacritics: Mongomeyen
+    subdiv: WN
+    function: '--34----'
+    status: AI
+    date: '1501'
+    iata: ''
+    coordinates: '0142N 01101E'
+    remarks: ''
+-
+    ch: ''
     locode: 'GQ MON'
     name: Mongomo
     namewodiacritics: Mongomo
@@ -81,7 +105,7 @@
     date: '1307'
     iata: ''
     coordinates: '0137N 01118E'
-    remarks: '@Sub'
+    remarks: ''
 -
     ch: ''
     locode: 'GQ PET'
@@ -107,7 +131,7 @@
     coordinates: ''
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'GQ ABU'
     name: 'San Antonio de Palé'
     namewodiacritics: 'San Antonio de Pale'
@@ -117,7 +141,7 @@
     date: '1307'
     iata: ''
     coordinates: '0124S 00536E'
-    remarks: '@Sub'
+    remarks: ''
 -
     ch: ''
     locode: 'GQ SIS'

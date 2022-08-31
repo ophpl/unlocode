@@ -443,7 +443,7 @@
     coordinates: '2009N 07726W'
     remarks: ''
 -
-    ch: +
+    ch: ''
     locode: 'CU MLG'
     name: Melgarejo
     namewodiacritics: Melgarejo
@@ -477,6 +477,18 @@
     date: '9601'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'CU MOR'
+    name: Morón
+    namewodiacritics: Moron
+    subdiv: '08'
+    function: '-23-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '2206N 07837W'
     remarks: ''
 -
     ch: ''

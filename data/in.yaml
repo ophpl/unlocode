@@ -48,6 +48,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'IN ACK'
+    name: Acharapakkam
+    namewodiacritics: Acharapakkam
+    subdiv: TN
+    function: '--3-----'
+    status: AA
+    date: '1601'
+    iata: ''
+    coordinates: '1223N 07948E'
+    remarks: ''
+-
+    ch: ''
     locode: 'IN ACH'
     name: Achra
     namewodiacritics: Achra
@@ -72,6 +84,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'IN AKM'
+    name: Adakamaranahalli
+    namewodiacritics: Adakamaranahalli
+    subdiv: KA
+    function: '--3-----'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '1304N 07726E'
+    remarks: ''
+-
+    ch: ''
     locode: 'IN ADK'
     name: Adambakkam
     namewodiacritics: Adambakkam
@@ -81,6 +105,18 @@
     date: '1201'
     iata: ''
     coordinates: '1259N 08012E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IN QRP'
+    name: 'Adani Icd/Kila Raipur'
+    namewodiacritics: 'Adani Icd/Kila Raipur'
+    subdiv: PB
+    function: '-----6--'
+    status: AA
+    date: '1807'
+    iata: ''
+    coordinates: '3045N 07551E'
     remarks: ''
 -
     ch: ''
@@ -120,6 +156,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'IN FMT'
+    name: Aditabla
+    namewodiacritics: Aditabla
+    subdiv: TG
+    function: '-----6--'
+    status: AA
+    date: '2007'
+    iata: ''
+    coordinates: '1723N 07854E'
+    remarks: ''
+-
+    ch: ''
     locode: 'IN ADY'
     name: Adyar
     namewodiacritics: Adyar
@@ -141,6 +189,18 @@
     date: '1207'
     iata: ''
     coordinates: '1250N 07943E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IN BWS'
+    name: Afs/Kapashera
+    namewodiacritics: Afs/Kapashera
+    subdiv: DL
+    function: '-----6--'
+    status: AA
+    date: '1907'
+    iata: ''
+    coordinates: '2852N 07708E'
     remarks: ''
 -
     ch: ''
@@ -180,6 +240,18 @@
     remarks: 'ICD/CFS = BLJ'
 -
     ch: ''
+    locode: 'IN AGA'
+    name: Agucha
+    namewodiacritics: Agucha
+    subdiv: RJ
+    function: '--3-----'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '2549N 07443E'
+    remarks: ''
+-
+    ch: ''
     locode: 'IN AMD'
     name: Ahmedabad
     namewodiacritics: Ahmedabad
@@ -201,6 +273,18 @@
     date: '0701'
     iata: ''
     coordinates: '1905N 07444E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IN BPS'
+    name: 'Air Parcel Sorting Office/Mumbai'
+    namewodiacritics: 'Air Parcel Sorting Office/Mumbai'
+    subdiv: MH
+    function: '----5---'
+    status: AA
+    date: '1807'
+    iata: ''
+    coordinates: '1855N 07248E'
     remarks: ''
 -
     ch: ''
@@ -285,6 +369,18 @@
     date: '1201'
     iata: ''
     coordinates: '2753N 07804E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IN APR'
+    name: Alipore
+    namewodiacritics: Alipore
+    subdiv: WB
+    function: '-23-----'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '2231N 08819E'
     remarks: ''
 -
     ch: ''
@@ -408,6 +504,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'IN AMT'
+    name: Amethi
+    namewodiacritics: Amethi
+    subdiv: UP
+    function: '--3-----'
+    status: AA
+    date: '1601'
+    iata: ''
+    coordinates: '2609N 08149E'
+    remarks: ''
+-
+    ch: ''
     locode: 'IN AMG'
     name: 'Amingaon (Gauhati)'
     namewodiacritics: 'Amingaon (Gauhati)'
@@ -514,6 +622,18 @@
     iata: ''
     coordinates: ''
     remarks: ICD/CFS
+-
+    ch: ''
+    locode: 'IN ADE'
+    name: 'Andheri East'
+    namewodiacritics: 'Andheri East'
+    subdiv: MH
+    function: '-23-----'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '1907N 07250E'
+    remarks: ''
 -
     ch: ''
     locode: 'IN AMI'
@@ -648,6 +768,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'IN DLH'
+    name: 'Apllp Sez/Bangalore'
+    namewodiacritics: 'Apllp Sez/Bangalore'
+    subdiv: KA
+    function: '-----6--'
+    status: AA
+    date: '1701'
+    iata: ''
+    coordinates: '1253N 07737E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IN GRW'
+    name: 'Apm Icd/Bhamboli-Khed'
+    namewodiacritics: 'Apm Icd/Bhamboli-Khed'
+    subdiv: MH
+    function: '-----6--'
+    status: AA
+    date: '1801'
+    iata: ''
+    coordinates: '1743N 07323E'
+    remarks: ''
+-
+    ch: ''
     locode: 'IN ARK'
     name: Arakkonam
     namewodiacritics: Arakkonam
@@ -708,6 +852,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'IN DAR'
+    name: 'Artha Sez/Greater Noida'
+    namewodiacritics: 'Artha Sez/Greater Noida'
+    subdiv: UP
+    function: '-----6--'
+    status: AA
+    date: '1601'
+    iata: ''
+    coordinates: '2849N 07753E'
+    remarks: ''
+-
+    ch: ''
     locode: 'IN SPE'
     name: Asdipl-SEZ/Nellore
     namewodiacritics: Asdipl-SEZ/Nellore
@@ -717,6 +873,18 @@
     date: '1001'
     iata: ''
     coordinates: '1426N 07958E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IN ASL'
+    name: Aslali
+    namewodiacritics: Aslali
+    subdiv: GJ
+    function: '--3-----'
+    status: AA
+    date: '1601'
+    iata: ''
+    coordinates: '2255N 07236E'
     remarks: ''
 -
     ch: ''
@@ -741,6 +909,18 @@
     date: '0006'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'IN ATU'
+    name: Attur
+    namewodiacritics: Attur
+    subdiv: TN
+    function: 1----6--
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '1244N 07957E'
     remarks: ''
 -
     ch: ''
@@ -834,7 +1014,7 @@
     subdiv: HP
     function: '--3-----'
     status: RL
-    date: '0701'
+    date: '1501'
     iata: ''
     coordinates: ''
     remarks: ''
@@ -885,6 +1065,18 @@
     date: '0701'
     iata: ''
     coordinates: '2841N 07655E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IN BUR'
+    name: Baharampur
+    namewodiacritics: Baharampur
+    subdiv: WB
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '2406N 08815E'
     remarks: ''
 -
     ch: ''
@@ -1104,6 +1296,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'IN BKR'
+    name: Bankura
+    namewodiacritics: Bankura
+    subdiv: WB
+    function: '-23-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '2315N 08704E'
+    remarks: ''
+-
+    ch: ''
     locode: 'IN BAN'
     name: Banswara
     namewodiacritics: Banswara
@@ -1164,6 +1368,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'IN BAE'
+    name: Bardhaman
+    namewodiacritics: Bardhaman
+    subdiv: WB
+    function: '-23-----'
+    status: RL
+    date: '1907'
+    iata: ''
+    coordinates: '2314N 08752E'
+    remarks: ''
+-
+    ch: ''
     locode: 'IN BEK'
     name: Bareilly
     namewodiacritics: Bareilly
@@ -1197,6 +1413,18 @@
     date: '1201'
     iata: ''
     coordinates: '2541N 07702E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IN BAC'
+    name: Bari
+    namewodiacritics: Bari
+    subdiv: HR
+    function: '-23--6--'
+    status: AM
+    date: '2101'
+    iata: ''
+    coordinates: '2907N 07702E'
     remarks: ''
 -
     ch: ''
@@ -1246,6 +1474,18 @@
     iata: ''
     coordinates: ''
     remarks: ICD/CFS
+-
+    ch: ''
+    locode: 'IN UPH'
+    name: Barotiwala
+    namewodiacritics: Barotiwala
+    subdiv: UP
+    function: '-23-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '3026N 07747E'
+    remarks: ''
 -
     ch: ''
     locode: 'IN BRP'
@@ -1350,9 +1590,33 @@
     subdiv: HR
     function: 1-------
     status: RL
-    date: '1107'
+    date: '1407'
     iata: ''
-    coordinates: '2805N 07635E'
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'IN KJR'
+    name: 'Bbrel Sez/Kundalahalli'
+    namewodiacritics: 'Bbrel Sez/Kundalahalli'
+    subdiv: KA
+    function: '-----6--'
+    status: AA
+    date: '1801'
+    iata: ''
+    coordinates: '1303N 07741E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IN KJM'
+    name: 'Bd Sez/Bangalore'
+    namewodiacritics: 'Bd Sez/Bangalore'
+    subdiv: KA
+    function: '-----6--'
+    status: AA
+    date: '1701'
+    iata: ''
+    coordinates: '1251N 07738E'
     remarks: ''
 -
     ch: ''
@@ -1428,6 +1692,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'IN BTL'
+    name: Beltola
+    namewodiacritics: Beltola
+    subdiv: AS
+    function: '--3-----'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '2607N 09148E'
+    remarks: ''
+-
+    ch: ''
     locode: 'IN BNY'
     name: Berhni
     namewodiacritics: Berhni
@@ -1435,18 +1711,6 @@
     function: '-------B'
     status: AA
     date: '0006'
-    iata: ''
-    coordinates: ''
-    remarks: ''
--
-    ch: ''
-    locode: 'IN BET'
-    name: Betul
-    namewodiacritics: Betul
-    subdiv: GA
-    function: 1-------
-    status: AA
-    date: '0002'
     iata: ''
     coordinates: ''
     remarks: ''
@@ -1461,6 +1725,18 @@
     date: '0207'
     iata: ''
     coordinates: '2155N 07753E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IN BET'
+    name: Betul
+    namewodiacritics: Betul
+    subdiv: GA
+    function: 1-------
+    status: AA
+    date: '0002'
+    iata: ''
+    coordinates: ''
     remarks: ''
 -
     ch: ''
@@ -1536,6 +1812,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'IN BHP'
+    name: Bhagwanpur
+    namewodiacritics: Bhagwanpur
+    subdiv: UT
+    function: '--3-----'
+    status: AA
+    date: '1801'
+    iata: ''
+    coordinates: '3006N 07708E'
+    remarks: ''
+-
+    ch: ''
     locode: 'IN BHA'
     name: Bharatpur
     namewodiacritics: Bharatpur
@@ -1596,6 +1884,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'IN BHW'
+    name: Bhawanigarh
+    namewodiacritics: Bhawanigarh
+    subdiv: PB
+    function: '--3-----'
+    status: AA
+    date: '1601'
+    iata: ''
+    coordinates: '3026N 07603E'
+    remarks: ''
+-
+    ch: ''
     locode: 'IN BYD'
     name: Bhayandar
     namewodiacritics: Bhayandar
@@ -1617,6 +1917,30 @@
     date: '0002'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'IN BTP'
+    name: Bhetapara
+    namewodiacritics: Bhetapara
+    subdiv: AS
+    function: '--3-----'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '2607N 09147E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IN BIL'
+    name: Bhilad
+    namewodiacritics: Bhilad
+    subdiv: MP
+    function: '--3-----'
+    status: AA
+    date: '1601'
+    iata: ''
+    coordinates: '2017N 07254E'
     remarks: ''
 -
     ch: ''
@@ -1642,6 +1966,18 @@
     iata: ''
     coordinates: ''
     remarks: ICD/CFS
+-
+    ch: ''
+    locode: 'IN 9BH'
+    name: Bhimasar
+    namewodiacritics: Bhimasar
+    subdiv: GJ
+    function: '--3-----'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '2332N 07052E'
+    remarks: ''
 -
     ch: ''
     locode: 'IN BMV'
@@ -1728,15 +2064,27 @@
     remarks: ''
 -
     ch: ''
+    locode: 'IN VGR'
+    name: 'Bhojva Icd/Viramgam'
+    namewodiacritics: 'Bhojva Icd/Viramgam'
+    subdiv: GJ
+    function: '-----6--'
+    status: AA
+    date: '1907'
+    iata: ''
+    coordinates: '2307N 07203E'
+    remarks: ''
+-
+    ch: ''
     locode: 'IN BHO'
     name: Bhopal
     namewodiacritics: Bhopal
-    subdiv: ''
+    subdiv: MP
     function: '---4----'
     status: AI
-    date: '9601'
+    date: '1401'
     iata: ''
-    coordinates: ''
+    coordinates: '2316N 07724E'
     remarks: ''
 -
     ch: ''
@@ -1872,6 +2220,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'IN DLO'
+    name: 'Birpara Lcs'
+    namewodiacritics: 'Birpara Lcs'
+    subdiv: WB
+    function: '-----6--'
+    status: AA
+    date: '1801'
+    iata: ''
+    coordinates: '2631N 08844E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IN BPR'
+    name: Bistupur
+    namewodiacritics: Bistupur
+    subdiv: JH
+    function: '--3-----'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '2247N 08610E'
+    remarks: ''
+-
+    ch: ''
     locode: 'IN BTR'
     name: 'Bitra Is'
     namewodiacritics: 'Bitra Is'
@@ -1932,6 +2304,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'IN BOP'
+    name: Bonthapally
+    namewodiacritics: Bonthapally
+    subdiv: TG
+    function: '--3-----'
+    status: AA
+    date: '1801'
+    iata: ''
+    coordinates: '1739N 07822E'
+    remarks: ''
+-
+    ch: ''
     locode: 'IN BRN'
     name: 'Boranada, Jodhpur'
     namewodiacritics: 'Boranada, Jodhpur'
@@ -1953,6 +2337,18 @@
     date: '1201'
     iata: ''
     coordinates: '2701N 07441E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IN BOK'
+    name: 'Borkhedi ICD/Nagpur'
+    namewodiacritics: 'Borkhedi ICD/Nagpur'
+    subdiv: MH
+    function: '-----6--'
+    status: AA
+    date: '1607'
+    iata: ''
+    coordinates: '2051N 07857E'
     remarks: ''
 -
     ch: ''
@@ -2051,6 +2447,18 @@
     coordinates: '3132N 07458E'
     remarks: ''
 -
+    ch: ''
+    locode: 'IN NGB'
+    name: 'Butibori ICD/Nagpur'
+    namewodiacritics: 'Butibori ICD/Nagpur'
+    subdiv: MH
+    function: '-----6--'
+    status: AA
+    date: '1501'
+    iata: ''
+    coordinates: '2109N 07906E'
+    remarks: ''
+-
     ch: '='
     locode: IN
     name: 'Calcutta = Kolkata (ex Calcutta)'
@@ -2080,18 +2488,6 @@
     name: Cambay
     namewodiacritics: Cambay
     subdiv: GJ
-    function: 1-------
-    status: RL
-    date: '0002'
-    iata: ''
-    coordinates: ''
-    remarks: ''
--
-    ch: ''
-    locode: 'IN CNN'
-    name: Cannanore
-    namewodiacritics: Cannanore
-    subdiv: KL
     function: 1-------
     status: RL
     date: '0002'
@@ -2148,6 +2544,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'IN SPC'
+    name: 'Cclpil Sez/Visakhapatnam'
+    namewodiacritics: 'Cclpil Sez/Visakhapatnam'
+    subdiv: AP
+    function: '-----6--'
+    status: AA
+    date: '1801'
+    iata: ''
+    coordinates: '1313N 07902E'
+    remarks: ''
+-
+    ch: ''
     locode: 'IN CPC'
     name: 'Cgml Cfs/Dadri'
     namewodiacritics: 'Cgml Cfs/Dadri'
@@ -2169,6 +2577,18 @@
     date: '1001'
     iata: ''
     coordinates: '2302N 07237E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IN CKN'
+    name: Chakan
+    namewodiacritics: Chakan
+    subdiv: MH
+    function: '--3-----'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '1845N 07351E'
     remarks: ''
 -
     ch: ''
@@ -2196,6 +2616,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'IN CSM'
+    name: Chanasma
+    namewodiacritics: Chanasma
+    subdiv: GJ
+    function: '-23-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '2343N 07207E'
+    remarks: ''
+-
+    ch: ''
     locode: 'IN CBL'
     name: Chandbali
     namewodiacritics: Chandbali
@@ -2208,37 +2640,13 @@
     remarks: ''
 -
     ch: ''
-    locode: 'IN CDQ'
-    name: Chandigarh
-    namewodiacritics: Chandigarh
-    subdiv: PB
-    function: '-----6--'
-    status: RL
-    date: '1201'
-    iata: ''
-    coordinates: '3044N 07647E'
-    remarks: ''
--
-    ch: ''
     locode: 'IN IXC'
     name: Chandigarh
     namewodiacritics: Chandigarh
-    subdiv: ''
+    subdiv: PB
     function: '---4----'
     status: AI
-    date: '9601'
-    iata: ''
-    coordinates: ''
-    remarks: ''
--
-    ch: ''
-    locode: 'IN CDR'
-    name: Chandigarh
-    namewodiacritics: Chandigarh
-    subdiv: PB
-    function: '-----6--'
-    status: RL
-    date: '1201'
+    date: '1401'
     iata: ''
     coordinates: '3044N 07647E'
     remarks: ''
@@ -2253,6 +2661,18 @@
     date: '1201'
     iata: ''
     coordinates: '1957N 07918E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IN CHG'
+    name: Changanacherry
+    namewodiacritics: Changanacherry
+    subdiv: KL
+    function: '--3-----'
+    status: AA
+    date: '1601'
+    iata: ''
+    coordinates: '0928N 07633E'
     remarks: ''
 -
     ch: ''
@@ -2289,6 +2709,18 @@
     date: '0701'
     iata: BOM
     coordinates: '1905N 07252E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IN CPR'
+    name: 'Chawapayal ICD/Samrala'
+    namewodiacritics: 'Chawapayal ICD/Samrala'
+    subdiv: PB
+    function: '-----6--'
+    status: AA
+    date: '1501'
+    iata: ''
+    coordinates: '3050N 07611E'
     remarks: ''
 -
     ch: ''
@@ -2337,6 +2769,18 @@
     date: '0006'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'IN PUZ'
+    name: Chetpet
+    namewodiacritics: Chetpet
+    subdiv: TN
+    function: '--3-----'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '1304N 08014E'
     remarks: ''
 -
     ch: ''
@@ -2412,6 +2856,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'IN CHY'
+    name: Chimakurthy
+    namewodiacritics: Chimakurthy
+    subdiv: AP
+    function: '--3-----'
+    status: AA
+    date: '1601'
+    iata: ''
+    coordinates: '1530N 08002E'
+    remarks: ''
+-
+    ch: ''
     locode: 'IN CHV'
     name: Chinchvad
     namewodiacritics: Chinchvad
@@ -2433,6 +2889,18 @@
     date: '1001'
     iata: ''
     coordinates: '1838N 07347E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IN CBC'
+    name: 'CHIPL SEZ/Coimbatore'
+    namewodiacritics: 'CHIPL SEZ/Coimbatore'
+    subdiv: TN
+    function: '-----6--'
+    status: AA
+    date: '1501'
+    iata: ''
+    coordinates: '1115N 07720E'
     remarks: ''
 -
     ch: ''
@@ -2458,6 +2926,18 @@
     iata: ''
     coordinates: ''
     remarks: ICD/CFS
+-
+    ch: ''
+    locode: 'IN CHW'
+    name: Chirawa
+    namewodiacritics: Chirawa
+    subdiv: RJ
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '2815N 07538E'
+    remarks: ''
 -
     ch: ''
     locode: 'IN CKA'
@@ -2580,6 +3060,54 @@
     remarks: ''
 -
     ch: ''
+    locode: 'IN BLE'
+    name: 'Concor ICD/Balasore'
+    namewodiacritics: 'Concor ICD/Balasore'
+    subdiv: OR
+    function: '-----6--'
+    status: AA
+    date: '1601'
+    iata: ''
+    coordinates: '2129N 08655E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IN JSG'
+    name: 'Concor ICD/Jharsuguda'
+    namewodiacritics: 'Concor ICD/Jharsuguda'
+    subdiv: OR
+    function: '-----6--'
+    status: AA
+    date: '1707'
+    iata: ''
+    coordinates: '2156N 08403E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IN KPK'
+    name: 'Concor Icd/Mihan'
+    namewodiacritics: 'Concor Icd/Mihan'
+    subdiv: MH
+    function: '-----6--'
+    status: AA
+    date: '1801'
+    iata: ''
+    coordinates: '2103N 07902E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IN RML'
+    name: 'Concor Icd/Nayaraipur'
+    namewodiacritics: 'Concor Icd/Nayaraipur'
+    subdiv: CT
+    function: '-----6--'
+    status: AA
+    date: '1801'
+    iata: ''
+    coordinates: '2116N 08107E'
+    remarks: ''
+-
+    ch: ''
     locode: 'IN BVC'
     name: Concor-ICD/Ballabhgarh
     namewodiacritics: Concor-ICD/Ballabhgarh
@@ -2589,6 +3117,18 @@
     date: '1101'
     iata: ''
     coordinates: '2821N 07719E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IN CON'
+    name: Contai
+    namewodiacritics: Contai
+    subdiv: WB
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '2146N 08745E'
     remarks: ''
 -
     ch: ''
@@ -2754,9 +3294,9 @@
     subdiv: UP
     function: '-----6--'
     status: RL
-    date: '0901'
+    date: '1707'
     iata: ''
-    coordinates: '2834N 77330E'
+    coordinates: '2834N 07732E'
     remarks: ''
 -
     ch: ''
@@ -3015,12 +3555,12 @@
     locode: 'IN DED'
     name: 'Dehra Dun'
     namewodiacritics: 'Dehra Dun'
-    subdiv: ''
+    subdiv: UT
     function: '---4----'
     status: AI
-    date: '0001'
+    date: '1601'
     iata: ''
-    coordinates: ''
+    coordinates: '3019N 07802E'
     remarks: ''
 -
     ch: ''
@@ -3028,11 +3568,23 @@
     name: Dehri
     namewodiacritics: Dehri
     subdiv: BR
-    function: 1-------
+    function: '--3-----'
     status: RQ
-    date: '1001'
+    date: '1707'
     iata: ''
-    coordinates: '2452N 84110E'
+    coordinates: '2452N 08410E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IN KML'
+    name: 'Deipl Sez/Kurubarapalli'
+    namewodiacritics: 'Deipl Sez/Kurubarapalli'
+    subdiv: TN
+    function: '-----6--'
+    status: AA
+    date: '1907'
+    iata: ''
+    coordinates: '1232N 07812E'
     remarks: ''
 -
     ch: ''
@@ -3168,6 +3720,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'IN DMQ'
+    name: 'Dhamra Port'
+    namewodiacritics: 'Dhamra Port'
+    subdiv: OR
+    function: 1-------
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '2049N 08657E'
+    remarks: ''
+-
+    ch: ''
     locode: 'IN DBD'
     name: Dhanbad
     namewodiacritics: Dhanbad
@@ -3201,6 +3765,18 @@
     date: '0006'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'IN HRD'
+    name: Dhar
+    namewodiacritics: Dhar
+    subdiv: HP
+    function: '-----6--'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '3128N 07743E'
     remarks: ''
 -
     ch: ''
@@ -3588,6 +4164,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'IN HSA'
+    name: 'ECTN SEZ/Krishnagiri'
+    namewodiacritics: 'ECTN SEZ/Krishnagiri'
+    subdiv: TN
+    function: '-----6--'
+    status: AA
+    date: '1501'
+    iata: ''
+    coordinates: '1232N 07814E'
+    remarks: ''
+-
+    ch: ''
     locode: 'IN MEC'
     name: 'ECTN SEZ/Madurai-I'
     namewodiacritics: 'ECTN SEZ/Madurai-I'
@@ -3624,6 +4212,42 @@
     remarks: ''
 -
     ch: ''
+    locode: 'IN TPJ'
+    name: 'ECTN SEZ/Tiruchirapalli'
+    namewodiacritics: 'ECTN SEZ/Tiruchirapalli'
+    subdiv: TN
+    function: '-----6--'
+    status: AA
+    date: '1501'
+    iata: ''
+    coordinates: '1049N 07841E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IN MAE'
+    name: 'ECTNL SEZ/Gangaikondan'
+    namewodiacritics: 'ECTNL SEZ/Gangaikondan'
+    subdiv: TN
+    function: '-----6--'
+    status: AF
+    date: '1401'
+    iata: ''
+    coordinates: '0844N 07742E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IN EDP'
+    name: Edappally
+    namewodiacritics: Edappally
+    subdiv: KL
+    function: '-23-----'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '0958N 07616E'
+    remarks: ''
+-
+    ch: ''
     locode: 'IN GMR'
     name: Egmore
     namewodiacritics: Egmore
@@ -3648,6 +4272,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'IN EOR'
+    name: Eloor
+    namewodiacritics: Eloor
+    subdiv: KL
+    function: '--3-----'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '1004N 07618E'
+    remarks: ''
+-
+    ch: ''
     locode: 'IN ESH'
     name: 'Elphinstone Harbour'
     namewodiacritics: 'Elphinstone Harbour'
@@ -3657,6 +4293,18 @@
     date: '0006'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'IN ELU'
+    name: Eluru
+    namewodiacritics: Eluru
+    subdiv: AP
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '1642N 08106E'
     remarks: ''
 -
     ch: ''
@@ -3672,25 +4320,25 @@
     remarks: ''
 -
     ch: ''
-    locode: 'IN EKM'
-    name: Ernakulam
-    namewodiacritics: Ernakulam
-    subdiv: KL
+    locode: 'IN PUE'
+    name: 'Eon SEZ/Kharadi'
+    namewodiacritics: 'Eon SEZ/Kharadi'
+    subdiv: MH
     function: '-----6--'
-    status: RL
-    date: '1201'
+    status: AA
+    date: '1707'
     iata: ''
-    coordinates: '0959N 07617E'
+    coordinates: '1935N 07323E'
     remarks: ''
 -
     ch: ''
-    locode: 'IN ERN'
+    locode: 'IN EKM'
     name: Ernakulam
     namewodiacritics: Ernakulam
     subdiv: KL
     function: 1-3-----
     status: RL
-    date: '1207'
+    date: '1401'
     iata: ''
     coordinates: '0959N 07617E'
     remarks: ''
@@ -3900,6 +4548,54 @@
     remarks: ''
 -
     ch: ''
+    locode: 'IN BPL'
+    name: 'FPO BHOPAL/BHOPAL'
+    namewodiacritics: 'FPO BHOPAL/BHOPAL'
+    subdiv: MP
+    function: '------7-'
+    status: AA
+    date: '1907'
+    iata: ''
+    coordinates: '2316N 07723E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IN PNF'
+    name: 'FPO PATNA/PATNA'
+    namewodiacritics: 'FPO PATNA/PATNA'
+    subdiv: BR
+    function: '------7-'
+    status: AA
+    date: '1907'
+    iata: ''
+    coordinates: '2536N 08507E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IN RNC'
+    name: 'FPO RANCHI/RANCHI'
+    namewodiacritics: 'FPO RANCHI/RANCHI'
+    subdiv: JH
+    function: '------7-'
+    status: AA
+    date: '1907'
+    iata: ''
+    coordinates: '2322N 08521E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IN FCH'
+    name: Fpo(Sea)/Chennai
+    namewodiacritics: Fpo(Sea)/Chennai
+    subdiv: TN
+    function: '----5---'
+    status: AA
+    date: '1807'
+    iata: ''
+    coordinates: '1307N 08018E'
+    remarks: ''
+-
+    ch: ''
     locode: 'IN CJF'
     name: Ftil-SEZ/Sriperumbudur
     namewodiacritics: Ftil-SEZ/Sriperumbudur
@@ -4044,6 +4740,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'IN GRR'
+    name: 'Garden Reach'
+    namewodiacritics: 'Garden Reach'
+    subdiv: WB
+    function: 123-----
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '2231N 08818E'
+    remarks: ''
+-
+    ch: ''
     locode: 'IN GHR'
     name: 'Garhi Harsaru'
     namewodiacritics: 'Garhi Harsaru'
@@ -4164,18 +4872,6 @@
     remarks: ''
 -
     ch: ''
-    locode: 'IN GZD'
-    name: Ghaziabad
-    namewodiacritics: Ghaziabad
-    subdiv: UP
-    function: '-23-----'
-    status: RL
-    date: '1207'
-    iata: ''
-    coordinates: '2839N 07725E'
-    remarks: ''
--
-    ch: ''
     locode: 'IN UDN'
     name: Ghb-SEZ/Surat
     namewodiacritics: Ghb-SEZ/Surat
@@ -4221,6 +4917,18 @@
     date: '1001'
     iata: ''
     coordinates: '2313N 07241E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IN GDB'
+    name: Gidderbaha
+    namewodiacritics: Gidderbaha
+    subdiv: PB
+    function: '--3-----'
+    status: RL
+    date: '2001'
+    iata: ''
+    coordinates: '3012N 07440E'
     remarks: ''
 -
     ch: ''
@@ -4284,6 +4992,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'IN HEB'
+    name: 'GOCL SEZ/Bangalore'
+    namewodiacritics: 'GOCL SEZ/Bangalore'
+    subdiv: KA
+    function: '-----6--'
+    status: AA
+    date: '1601'
+    iata: ''
+    coordinates: '1259N 07735E'
+    remarks: ''
+-
+    ch: ''
     locode: 'IN GAH'
     name: Godhra
     namewodiacritics: Godhra
@@ -4344,6 +5064,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'IN GDA'
+    name: Gondia
+    namewodiacritics: Gondia
+    subdiv: MH
+    function: '--3-----'
+    status: RL
+    date: '1907'
+    iata: ''
+    coordinates: '2128N 08012E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IN GPP'
+    name: Gopalpur
+    namewodiacritics: Gopalpur
+    subdiv: HR
+    function: '-23-----'
+    status: AA
+    date: '1601'
+    iata: ''
+    coordinates: '2827N 07657E'
+    remarks: ''
+-
+    ch: ''
     locode: 'IN GPR'
     name: Gopalpur
     namewodiacritics: Gopalpur
@@ -4368,6 +5112,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'IN GNP'
+    name: 'GPRPL SEZ/Gurgaon'
+    namewodiacritics: 'GPRPL SEZ/Gurgaon'
+    subdiv: HR
+    function: '-----6--'
+    status: AA
+    date: '1607'
+    iata: ''
+    coordinates: '2820N 07709E'
+    remarks: ''
+-
+    ch: ''
     locode: 'IN GND'
     name: 'Greater Nodia'
     namewodiacritics: 'Greater Nodia'
@@ -4383,12 +5139,36 @@
     locode: 'IN GNO'
     name: 'Greater Noida'
     namewodiacritics: 'Greater Noida'
-    subdiv: DL
+    subdiv: UP
     function: 1-------
     status: RQ
-    date: '1001'
+    date: '1701'
     iata: ''
     coordinates: '2828N 07731E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IN BFR'
+    name: 'GRFL ICD/Ballabhgarh'
+    namewodiacritics: 'GRFL ICD/Ballabhgarh'
+    subdiv: HR
+    function: '-----6--'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '2821N 07719E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IN SGF'
+    name: 'GRFL ICD/Sahnwewal'
+    namewodiacritics: 'GRFL ICD/Sahnwewal'
+    subdiv: PB
+    function: '-----6--'
+    status: AA
+    date: '1601'
+    iata: ''
+    coordinates: '3049N 07557E'
     remarks: ''
 -
     ch: ''
@@ -4512,28 +5292,28 @@
     remarks: ''
 -
     ch: ''
-    locode: 'IN DGA'
-    name: Gurgaon
-    namewodiacritics: Gurgaon
-    subdiv: DL
-    function: '-----6--'
-    status: RQ
-    date: '1001'
-    iata: ''
-    coordinates: '2828N 07702E'
-    remarks: ''
--
-    ch: ''
     locode: 'IN GGN'
     name: Gurgaon
     namewodiacritics: Gurgaon
-    subdiv: ''
+    subdiv: HR
     function: '-23-----'
     status: RL
-    date: '0002'
+    date: '1501'
     iata: ''
-    coordinates: ''
+    coordinates: '2828N 07702E'
     remarks: 'HR? MH?'
+-
+    ch: ''
+    locode: 'IN HHG'
+    name: Gurgaon
+    namewodiacritics: Gurgaon
+    subdiv: MH
+    function: '-----6--'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '1920N 07717E'
+    remarks: ''
 -
     ch: ''
     locode: 'IN GAW'
@@ -4740,6 +5520,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'IN LCH'
+    name: 'HCL SEZ/Lucknow'
+    namewodiacritics: 'HCL SEZ/Lucknow'
+    subdiv: UP
+    function: '-----6--'
+    status: AA
+    date: '1607'
+    iata: ''
+    coordinates: '2650N 08054E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IN HND'
+    name: 'Hemnagar Lcs'
+    namewodiacritics: 'Hemnagar Lcs'
+    subdiv: WB
+    function: '-----6-B'
+    status: AA
+    date: '1901'
+    iata: ''
+    coordinates: '2227N 08858E'
+    remarks: ''
+-
+    ch: ''
     locode: 'IN FMH'
     name: 'Hgsezl-SEZ/Ranga Reddy'
     namewodiacritics: 'Hgsezl-SEZ/Ranga Reddy'
@@ -4773,6 +5577,30 @@
     date: '0901'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'IN HNG'
+    name: Himatnagar
+    namewodiacritics: Himatnagar
+    subdiv: GJ
+    function: '-23-----'
+    status: AA
+    date: '1901'
+    iata: ''
+    coordinates: '2336N 07257E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IN HAN'
+    name: 'Hindaun ICD/Karauli'
+    namewodiacritics: 'Hindaun ICD/Karauli'
+    subdiv: RJ
+    function: '-----6--'
+    status: AA
+    date: '1601'
+    iata: ''
+    coordinates: '2630N 07701E'
     remarks: ''
 -
     ch: ''
@@ -4821,6 +5649,18 @@
     date: '0907'
     iata: ''
     coordinates: '1742N 08318E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IN HPR'
+    name: Hirapur
+    namewodiacritics: Hirapur
+    subdiv: CT
+    function: '--3-----'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '2133N 07947E'
     remarks: ''
 -
     ch: ''
@@ -4920,6 +5760,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'IN HSU'
+    name: 'HOSUR ICD'
+    namewodiacritics: 'HOSUR ICD'
+    subdiv: TN
+    function: '-----6--'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '1243N 07749E'
+    remarks: ''
+-
+    ch: ''
     locode: 'IN HOW'
     name: Howrah
     namewodiacritics: Howrah
@@ -4929,6 +5781,18 @@
     date: '1207'
     iata: ''
     coordinates: '2236N 08816E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IN TBS'
+    name: 'HTL SEZ/Siruseri'
+    namewodiacritics: 'HTL SEZ/Siruseri'
+    subdiv: TN
+    function: '-----6--'
+    status: AF
+    date: '1401'
+    iata: ''
+    coordinates: '1305N 08017E'
     remarks: ''
 -
     ch: ''
@@ -4944,16 +5808,52 @@
     remarks: ''
 -
     ch: ''
+    locode: 'IN TSI'
+    name: 'HVCPL SEZ/KADAYAM'
+    namewodiacritics: 'HVCPL SEZ/KADAYAM'
+    subdiv: TN
+    function: '-----6--'
+    status: AA
+    date: '1907'
+    iata: ''
+    coordinates: '0842N 07728E'
+    remarks: ''
+-
+    ch: ''
     locode: 'IN HYD'
     name: Hyderabad
     namewodiacritics: Hyderabad
-    subdiv: AP
+    subdiv: TG
     function: '--34-6--'
     status: AA
-    date: '0002'
+    date: '1607'
     iata: ''
     coordinates: ''
     remarks: 'ICD/CFS = SNF'
+-
+    ch: ''
+    locode: 'IN AIK'
+    name: 'Ibrahimpur Icd/Khurja'
+    namewodiacritics: 'Ibrahimpur Icd/Khurja'
+    subdiv: UP
+    function: '-----6--'
+    status: AA
+    date: '1601'
+    iata: ''
+    coordinates: '2816N 07752E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IN JJK'
+    name: 'ICD JSL/JAJPUR'
+    namewodiacritics: 'ICD JSL/JAJPUR'
+    subdiv: OR
+    function: '-----6--'
+    status: AA
+    date: '1907'
+    iata: ''
+    coordinates: '2050N 08621E'
+    remarks: ''
 -
     ch: ''
     locode: 'IN IDU'
@@ -4977,6 +5877,54 @@
     date: '1207'
     iata: ''
     coordinates: '1250N 07943E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IN PKD'
+    name: 'Igel Sez/Kodur-Settipali'
+    namewodiacritics: 'Igel Sez/Kodur-Settipali'
+    subdiv: AP
+    function: '-----6--'
+    status: AA
+    date: '1801'
+    iata: ''
+    coordinates: '1743N 07801E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IN AII'
+    name: 'IGGSL SEZ/Thane'
+    namewodiacritics: 'IGGSL SEZ/Thane'
+    subdiv: MH
+    function: '-----6--'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '1912N 07258E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IN INI'
+    name: 'IIPL SEZ/Indore'
+    namewodiacritics: 'IIPL SEZ/Indore'
+    subdiv: MP
+    function: '-----6--'
+    status: AF
+    date: '1401'
+    iata: ''
+    coordinates: '2243N 07550E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IN DWR'
+    name: 'Il Sez/Hubli'
+    namewodiacritics: 'Il Sez/Hubli'
+    subdiv: KA
+    function: '-----6--'
+    status: AA
+    date: '1701'
+    iata: ''
+    coordinates: '1520N 07507E'
     remarks: ''
 -
     ch: ''
@@ -5016,6 +5964,78 @@
     remarks: ''
 -
     ch: ''
+    locode: 'IN IND'
+    name: Indrad
+    namewodiacritics: Indrad
+    subdiv: GJ
+    function: '--3-----'
+    status: AA
+    date: '1601'
+    iata: ''
+    coordinates: '2318N 07224E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IN KNK'
+    name: 'INFOPARK SEZ/Koratty'
+    namewodiacritics: 'INFOPARK SEZ/Koratty'
+    subdiv: KL
+    function: '-----6--'
+    status: AA
+    date: '1601'
+    iata: ''
+    coordinates: '1029N 07629E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IN HLE'
+    name: 'Infosys Electronic City Sez/Begur Hobli'
+    namewodiacritics: 'Infosys Electronic City Sez/Begur Hobli'
+    subdiv: KA
+    function: '-----6--'
+    status: AA
+    date: '1707'
+    iata: ''
+    coordinates: '1156N 07641E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IN DEF'
+    name: 'Infosys Sez/Dadri'
+    namewodiacritics: 'Infosys Sez/Dadri'
+    subdiv: UP
+    function: '-----6--'
+    status: AA
+    date: '1701'
+    iata: ''
+    coordinates: '2833N 07734E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IN INN'
+    name: 'INFOSYS SEZ/Indore'
+    namewodiacritics: 'INFOSYS SEZ/Indore'
+    subdiv: MP
+    function: '-----6--'
+    status: AF
+    date: '1401'
+    iata: ''
+    coordinates: '2243N 07550E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IN SAS'
+    name: 'Infosys Sez/Mohali'
+    namewodiacritics: 'Infosys Sez/Mohali'
+    subdiv: PB
+    function: '-----6--'
+    status: AA
+    date: '1701'
+    iata: ''
+    coordinates: '3059N 07631E'
+    remarks: ''
+-
+    ch: ''
     locode: 'IN GBN'
     name: Ingau
     namewodiacritics: Ingau
@@ -5049,6 +6069,18 @@
     date: '1001'
     iata: ''
     coordinates: '1259N 07959E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IN ISP'
+    name: Islampur
+    namewodiacritics: Islampur
+    subdiv: WB
+    function: '--3-----'
+    status: AA
+    date: '1801'
+    iata: ''
+    coordinates: '2409N 08828E'
     remarks: ''
 -
     ch: ''
@@ -5136,6 +6168,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'IN WFT'
+    name: 'Itpl Sezii/Whitefield'
+    namewodiacritics: 'Itpl Sezii/Whitefield'
+    subdiv: KA
+    function: '-----6--'
+    status: AA
+    date: '1707'
+    iata: ''
+    coordinates: '1258N 07745E'
+    remarks: ''
+-
+    ch: ''
     locode: 'IN JLR'
     name: Jabalpur
     namewodiacritics: Jabalpur
@@ -5148,6 +6192,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'IN JCH'
+    name: Jadcheria
+    namewodiacritics: Jadcheria
+    subdiv: AP
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '1645N 07808E'
+    remarks: ''
+-
+    ch: ''
     locode: 'IN JBD'
     name: Jafarabad
     namewodiacritics: Jafarabad
@@ -5157,6 +6213,18 @@
     date: '0207'
     iata: ''
     coordinates: '2051N 07122E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IN JTD'
+    name: Jagatdal
+    namewodiacritics: Jagatdal
+    subdiv: WB
+    function: '--3-----'
+    status: AA
+    date: '1801'
+    iata: ''
+    coordinates: '2251N 08823E'
     remarks: ''
 -
     ch: ''
@@ -5391,12 +6459,24 @@
     locode: 'IN IXW'
     name: Jamshedpur
     namewodiacritics: Jamshedpur
-    subdiv: ''
-    function: '---4----'
+    subdiv: JH
+    function: '-234----'
     status: AI
-    date: '0001'
+    date: '1401'
     iata: ''
-    coordinates: ''
+    coordinates: '2248N 08611E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IN JNL'
+    name: Janaula
+    namewodiacritics: Janaula
+    subdiv: HR
+    function: '--3-----'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '2821N 07648E'
     remarks: ''
 -
     ch: ''
@@ -5472,6 +6552,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'IN CJG'
+    name: 'JGHIPL SEZ/Sriperumbudur'
+    namewodiacritics: 'JGHIPL SEZ/Sriperumbudur'
+    subdiv: TN
+    function: '-----6--'
+    status: AA
+    date: '1501'
+    iata: ''
+    coordinates: '1258N 07956E'
+    remarks: ''
+-
+    ch: ''
     locode: 'IN JHB'
     name: Jhabua
     namewodiacritics: Jhabua
@@ -5493,6 +6585,18 @@
     date: '1001'
     iata: ''
     coordinates: '2142N 07309E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IN JJR'
+    name: Jhajjar
+    namewodiacritics: Jhajjar
+    subdiv: HR
+    function: '--3-----'
+    status: AA
+    date: '1801'
+    iata: ''
+    coordinates: '2837N 07639E'
     remarks: ''
 -
     ch: ''
@@ -5541,6 +6645,18 @@
     date: '1201'
     iata: ''
     coordinates: '2808N 07524E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IN JIN'
+    name: Jind
+    namewodiacritics: Jind
+    subdiv: HR
+    function: '--3-----'
+    status: AA
+    date: '1601'
+    iata: ''
+    coordinates: '2919N 07619E'
     remarks: ''
 -
     ch: ''
@@ -5688,6 +6804,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'IN KGM'
+    name: Kachigam
+    namewodiacritics: Kachigam
+    subdiv: DD
+    function: '--3-----'
+    status: AA
+    date: '1601'
+    iata: ''
+    coordinates: '2023N 07352E'
+    remarks: ''
+-
+    ch: ''
     locode: 'IN KDI'
     name: 'Kadmat Is'
     namewodiacritics: 'Kadmat Is'
@@ -5733,6 +6861,18 @@
     date: '0001'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'IN KWH'
+    name: 'Kakarahawa Lcs'
+    namewodiacritics: 'Kakarahawa Lcs'
+    subdiv: UP
+    function: '-----6--'
+    status: AA
+    date: '1801'
+    iata: ''
+    coordinates: '2524N 08153E'
     remarks: ''
 -
     ch: ''
@@ -5856,6 +6996,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'IN PBL'
+    name: 'Kamardwisa Lcs'
+    namewodiacritics: 'Kamardwisa Lcs'
+    subdiv: AS
+    function: '-----6--'
+    status: AA
+    date: '1801'
+    iata: ''
+    coordinates: '2619N 09047E'
+    remarks: ''
+-
+    ch: ''
     locode: 'IN KAM'
     name: Kampur
     namewodiacritics: Kampur
@@ -5865,6 +7017,18 @@
     date: '1207'
     iata: ''
     coordinates: '2612N 09238E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IN KKP'
+    name: Kanakapura
+    namewodiacritics: Kanakapura
+    subdiv: KA
+    function: '-23-----'
+    status: RQ
+    date: '1901'
+    iata: ''
+    coordinates: '1233N 07725E'
     remarks: ''
 -
     ch: ''
@@ -5928,6 +7092,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'IN SNI'
+    name: 'Kanech ICD/Sahnewal'
+    namewodiacritics: 'Kanech ICD/Sahnewal'
+    subdiv: PB
+    function: '-----6--'
+    status: AA
+    date: '1501'
+    iata: ''
+    coordinates: '3051N 07559E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IN GRA'
+    name: Kangra
+    namewodiacritics: Kangra
+    subdiv: HP
+    function: '--3-----'
+    status: RL
+    date: '2001'
+    iata: ''
+    coordinates: '3206N 07616E'
+    remarks: ''
+-
+    ch: ''
     locode: 'IN KND'
     name: Kankudy
     namewodiacritics: Kankudy
@@ -5937,6 +7125,18 @@
     date: '0006'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'IN KNN'
+    name: Kannur
+    namewodiacritics: Kannur
+    subdiv: KL
+    function: '--34----'
+    status: AA
+    date: '2007'
+    iata: ''
+    coordinates: '1151N 07522E'
     remarks: ''
 -
     ch: ''
@@ -5950,6 +7150,18 @@
     iata: ''
     coordinates: ''
     remarks: 'ICD/CFS = CPC'
+-
+    ch: ''
+    locode: 'IN KBS'
+    name: Kansbahal
+    namewodiacritics: Kansbahal
+    subdiv: OR
+    function: '--3-----'
+    status: RL
+    date: '2001'
+    iata: ''
+    coordinates: '2213N 08439E'
+    remarks: ''
 -
     ch: ''
     locode: 'IN KKM'
@@ -6155,7 +7367,7 @@
     coordinates: ''
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'IN KSR'
     name: Kashipur
     namewodiacritics: Kashipur
@@ -6165,7 +7377,7 @@
     date: '1307'
     iata: ''
     coordinates: '2913N 07857E'
-    remarks: '@Sub'
+    remarks: ''
 -
     ch: ''
     locode: 'IN KWD'
@@ -6204,15 +7416,15 @@
     remarks: ''
 -
     ch: ''
-    locode: 'IN KNI'
-    name: Katni
-    namewodiacritics: Katni
-    subdiv: MP
-    function: '--3-----'
-    status: RL
-    date: '1207'
+    locode: 'IN CML'
+    name: 'Kathuwas Icd/Alwar'
+    namewodiacritics: 'Kathuwas Icd/Alwar'
+    subdiv: RJ
+    function: '-----6--'
+    status: AA
+    date: '1601'
     iata: ''
-    coordinates: '2349N 08024E'
+    coordinates: '2733N 07635E'
     remarks: ''
 -
     ch: ''
@@ -6360,6 +7572,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'IN MDU'
+    name: 'Kern Icd/Madurai'
+    namewodiacritics: 'Kern Icd/Madurai'
+    subdiv: TN
+    function: '-----6--'
+    status: AA
+    date: '1801'
+    iata: ''
+    coordinates: '0955N 07806E'
+    remarks: ''
+-
+    ch: ''
     locode: 'IN IXK'
     name: Keshod
     namewodiacritics: Keshod
@@ -6441,6 +7665,18 @@
     date: '1201'
     iata: ''
     coordinates: '1715N 08009E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IN KHS'
+    name: Khandsha
+    namewodiacritics: Khandsha
+    subdiv: HR
+    function: '--3-----'
+    status: AA
+    date: '1601'
+    iata: ''
+    coordinates: '2825N 07700E'
     remarks: ''
 -
     ch: ''
@@ -6684,6 +7920,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'IN PUI'
+    name: 'Kippl-Gdpl Sez/Kharadi'
+    namewodiacritics: 'Kippl-Gdpl Sez/Kharadi'
+    subdiv: MH
+    function: '-----6--'
+    status: AA
+    date: '1801'
+    iata: ''
+    coordinates: '1735N 07517E'
+    remarks: ''
+-
+    ch: ''
     locode: 'IN KRP'
     name: Kiranpani
     namewodiacritics: Kiranpani
@@ -6723,12 +7971,12 @@
     locode: 'IN KOC'
     name: Kochi
     namewodiacritics: Kochi
-    subdiv: ''
-    function: '----5---'
+    subdiv: KL
+    function: '--3-5---'
     status: AI
-    date: '9805'
+    date: '1601'
     iata: ''
-    coordinates: ''
+    coordinates: '0958N 07616E'
     remarks: ''
 -
     ch: ''
@@ -6744,6 +7992,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'IN KDA'
+    name: 'Kodarma (Koderma)'
+    namewodiacritics: 'Kodarma (Koderma)'
+    subdiv: JH
+    function: '-----6--'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '2428N 08536E'
+    remarks: ''
+-
+    ch: ''
     locode: 'IN KOD'
     name: Kodinar
     namewodiacritics: Kodinar
@@ -6753,6 +8013,18 @@
     date: '0002'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'IN KDR'
+    name: Kodungallur
+    namewodiacritics: Kodungallur
+    subdiv: KL
+    function: '----5---'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '1013N 07613E'
     remarks: ''
 -
     ch: ''
@@ -6852,15 +8124,39 @@
     remarks: ''
 -
     ch: ''
+    locode: 'IN BNK'
+    name: 'Kolkata IT Park/Bantala'
+    namewodiacritics: 'Kolkata IT Park/Bantala'
+    subdiv: WB
+    function: '-----6--'
+    status: AF
+    date: '1401'
+    iata: ''
+    coordinates: '2234N 08822E'
+    remarks: ''
+-
+    ch: ''
     locode: 'IN KUK'
     name: Kollam
     namewodiacritics: Kollam
     subdiv: KL
     function: '--3--6--'
     status: AA
-    date: '1207'
+    date: '1501'
     iata: ''
     coordinates: '1127N 07541E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IN KCI'
+    name: Konakanchi
+    namewodiacritics: Konakanchi
+    subdiv: AP
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '1619N 08011E'
     remarks: ''
 -
     ch: ''
@@ -6897,6 +8193,18 @@
     date: '1207'
     iata: ''
     coordinates: '1849N 08243E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IN KGN'
+    name: Koregaon
+    namewodiacritics: Koregaon
+    subdiv: MH
+    function: '--3-----'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '1839N 07405E'
     remarks: ''
 -
     ch: ''
@@ -6947,7 +8255,7 @@
     coordinates: '1733N 08038E'
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'IN KYM'
     name: Kottayam
     namewodiacritics: Kottayam
@@ -6957,7 +8265,7 @@
     date: '1307'
     iata: ''
     coordinates: '0935N 07631E'
-    remarks: ICD/CFS@Fun
+    remarks: ICD/CFS
 -
     ch: ''
     locode: 'IN KTT'
@@ -7104,6 +8412,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'IN KMA'
+    name: 'Kulkuli Lcs'
+    namewodiacritics: 'Kulkuli Lcs'
+    subdiv: WB
+    function: '-----6--'
+    status: AA
+    date: '1801'
+    iata: ''
+    coordinates: '2643N 08826E'
+    remarks: ''
+-
+    ch: ''
     locode: 'IN KUU'
     name: Kulu
     namewodiacritics: Kulu
@@ -7140,6 +8460,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'IN KMH'
+    name: Kumhrar
+    namewodiacritics: Kumhrar
+    subdiv: BR
+    function: '--3-----'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '2535N 08511E'
+    remarks: ''
+-
+    ch: ''
     locode: 'IN KNL'
     name: Kunauli
     namewodiacritics: Kunauli
@@ -7173,6 +8505,18 @@
     date: '9805'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'IN KUI'
+    name: Kundli
+    namewodiacritics: Kundli
+    subdiv: HR
+    function: '--3-----'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '2852N 07707E'
     remarks: ''
 -
     ch: ''
@@ -7248,6 +8592,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'IN YNT'
+    name: 'Landt Cel Sezi/Bangalore North'
+    namewodiacritics: 'Landt Cel Sezi/Bangalore North'
+    subdiv: KA
+    function: '-----6--'
+    status: AA
+    date: '1707'
+    iata: ''
+    coordinates: '1301N 07721E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IN YNL'
+    name: 'Landt Cel Sezii/Bangalore North'
+    namewodiacritics: 'Landt Cel Sezii/Bangalore North'
+    subdiv: KA
+    function: '-----6--'
+    status: AA
+    date: '1707'
+    iata: ''
+    coordinates: '1300N 07720E'
+    remarks: ''
+-
+    ch: ''
     locode: 'IN LNG'
     name: Lapanga
     namewodiacritics: Lapanga
@@ -7281,6 +8649,18 @@
     date: '0901'
     iata: ''
     coordinates: '1824N 07635E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IN LKQ'
+    name: 'Laukaha Lcs'
+    namewodiacritics: 'Laukaha Lcs'
+    subdiv: BR
+    function: '-----6--'
+    status: AA
+    date: '1801'
+    iata: ''
+    coordinates: '2633N 08627E'
     remarks: ''
 -
     ch: ''
@@ -7320,6 +8700,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'IN GNL'
+    name: 'LIPD SEZ/Navi Mumbai'
+    namewodiacritics: 'LIPD SEZ/Navi Mumbai'
+    subdiv: MH
+    function: '-----6--'
+    status: AA
+    date: '1607'
+    iata: ''
+    coordinates: '1906N 07253E'
+    remarks: ''
+-
+    ch: ''
     locode: 'IN GNR'
     name: Lipl-ICD/Marripalem
     namewodiacritics: Lipl-ICD/Marripalem
@@ -7353,6 +8745,18 @@
     date: '1201'
     iata: ''
     coordinates: '2326N 08441E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IN CRX'
+    name: 'Loksan Lcs'
+    namewodiacritics: 'Loksan Lcs'
+    subdiv: WB
+    function: '-----6--'
+    status: AA
+    date: '1801'
+    iata: ''
+    coordinates: '2631N 08843E'
     remarks: ''
 -
     ch: ''
@@ -7391,7 +8795,19 @@
     coordinates: '1827N 07402E'
     remarks: ''
 -
-    ch: ¦
+    ch: ''
+    locode: 'IN NOI'
+    name: 'Loni-1 LCD/Chaziabad'
+    namewodiacritics: 'Loni-1 LCD/Chaziabad'
+    subdiv: UP
+    function: '-----6--'
+    status: AF
+    date: '1401'
+    iata: ''
+    coordinates: '2845N 07717E'
+    remarks: ''
+-
+    ch: ''
     locode: 'IN RJN'
     name: 'LSPL SEZ/Rajnandgaon'
     namewodiacritics: 'LSPL SEZ/Rajnandgaon'
@@ -7401,7 +8817,7 @@
     date: '1307'
     iata: ''
     coordinates: '2110N 08100E'
-    remarks: '@Sub'
+    remarks: ''
 -
     ch: ''
     locode: 'IN TLT'
@@ -7488,6 +8904,18 @@
     remarks: 'ICD/CFS = MDG'
 -
     ch: ''
+    locode: 'IN MSH'
+    name: 'Madho Singhana'
+    namewodiacritics: 'Madho Singhana'
+    subdiv: HR
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '2927N 07455E'
+    remarks: ''
+-
+    ch: ''
     locode: 'IN MBS'
     name: Madhosingh/Allahabad
     namewodiacritics: Madhosingh/Allahabad
@@ -7524,6 +8952,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'IN MDT'
+    name: Maduranthakam
+    namewodiacritics: Maduranthakam
+    subdiv: TN
+    function: '--3-----'
+    status: AA
+    date: '1601'
+    iata: ''
+    coordinates: '1230N 07953E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IN MAG'
+    name: Magadi
+    namewodiacritics: Magadi
+    subdiv: KA
+    function: '-23-----'
+    status: RQ
+    date: '1901'
+    iata: ''
+    coordinates: '1258N 07714E'
+    remarks: ''
+-
+    ch: ''
     locode: 'IN MDA'
     name: Magdalla
     namewodiacritics: Magdalla
@@ -7557,6 +9009,18 @@
     date: '1201'
     iata: ''
     coordinates: '2622N 08117E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IN MHB'
+    name: Mahbubnagar
+    namewodiacritics: Mahbubnagar
+    subdiv: AP
+    function: '--3-----'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '1644N 07759E'
     remarks: ''
 -
     ch: ''
@@ -7704,6 +9168,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'IN MLY'
+    name: Maliya
+    namewodiacritics: Maliya
+    subdiv: GJ
+    function: '-23-----'
+    status: AM
+    date: '2107'
+    iata: ''
+    coordinates: '2305N 07046E'
+    remarks: ''
+-
+    ch: ''
     locode: 'IN MLP'
     name: Mallipuram
     namewodiacritics: Mallipuram
@@ -7749,6 +9225,42 @@
     date: '0006'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'IN MNI'
+    name: Manali
+    namewodiacritics: Manali
+    subdiv: HP
+    function: '--3-----'
+    status: AA
+    date: '1707'
+    iata: ''
+    coordinates: '3216N 07710E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IN MNT'
+    name: Manalithara
+    namewodiacritics: Manalithara
+    subdiv: KL
+    function: '--3-----'
+    status: AA
+    date: '1601'
+    iata: ''
+    coordinates: '1038N 07617E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IN MKK'
+    name: Manapakkam
+    namewodiacritics: Manapakkam
+    subdiv: TN
+    function: '--3-----'
+    status: AA
+    date: '1607'
+    iata: ''
+    coordinates: '1301N 08017E'
     remarks: ''
 -
     ch: ''
@@ -7812,18 +9324,6 @@
     remarks: ''
 -
     ch: ''
-    locode: 'IN IXE'
-    name: Mangalore
-    namewodiacritics: Mangalore
-    subdiv: KA
-    function: 1--4----
-    status: AA
-    date: '0002'
-    iata: ''
-    coordinates: ''
-    remarks: ''
--
-    ch: ''
     locode: 'IN MAI'
     name: Mangalore
     namewodiacritics: Mangalore
@@ -7833,6 +9333,18 @@
     date: '1201'
     iata: ''
     coordinates: '1252N 07453E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IN IXE'
+    name: Mangalore
+    namewodiacritics: Mangalore
+    subdiv: KA
+    function: 1--4----
+    status: AA
+    date: '0002'
+    iata: ''
+    coordinates: ''
     remarks: ''
 -
     ch: ''
@@ -7956,6 +9468,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'IN MKM'
+    name: Mathilakam
+    namewodiacritics: Mathilakam
+    subdiv: KL
+    function: '----5---'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '1017N 07610E'
+    remarks: ''
+-
+    ch: ''
     locode: 'IN MAT'
     name: Mathura
     namewodiacritics: Mathura
@@ -7980,6 +9504,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'IN MAV'
+    name: Mavalli
+    namewodiacritics: Mavalli
+    subdiv: KA
+    function: '--3-----'
+    status: AA
+    date: '1601'
+    iata: ''
+    coordinates: '1257N 07735E'
+    remarks: ''
+-
+    ch: ''
     locode: 'IN MYB'
     name: Mayabandar
     namewodiacritics: Mayabandar
@@ -7989,6 +9525,18 @@
     date: '0006'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'IN MYD'
+    name: Mayiladuthurai
+    namewodiacritics: Mayiladuthurai
+    subdiv: TN
+    function: '--3-----'
+    status: RL
+    date: '2001'
+    iata: ''
+    coordinates: '1105N 07938E'
     remarks: ''
 -
     ch: ''
@@ -8038,6 +9586,18 @@
     iata: ''
     coordinates: ''
     remarks: 'ICD/CFS = MTC'
+-
+    ch: ''
+    locode: 'IN MBZ'
+    name: 'Metia Bruz'
+    namewodiacritics: 'Metia Bruz'
+    subdiv: WB
+    function: '--3-----'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '2233N 08818E'
+    remarks: ''
 -
     ch: ''
     locode: 'IN MTT'
@@ -8109,6 +9669,42 @@
     date: '0401'
     iata: ''
     coordinates: '2128N 07214E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IN YNA'
+    name: 'Modern Asset Sezi/Yelahanka Hobli'
+    namewodiacritics: 'Modern Asset Sezi/Yelahanka Hobli'
+    subdiv: KA
+    function: '-----6--'
+    status: AA
+    date: '1707'
+    iata: ''
+    coordinates: '1306N 07737E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IN YMA'
+    name: 'Modern Asset Sezii/Yelahanka Hobli'
+    namewodiacritics: 'Modern Asset Sezii/Yelahanka Hobli'
+    subdiv: KA
+    function: '-----6--'
+    status: AA
+    date: '1707'
+    iata: ''
+    coordinates: '1306N 07736E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IN MUZ'
+    name: 'Modinagar Icd/Ghaziabad'
+    namewodiacritics: 'Modinagar Icd/Ghaziabad'
+    subdiv: UP
+    function: '-----6--'
+    status: AA
+    date: '1701'
+    iata: ''
+    coordinates: '2839N 07725E'
     remarks: ''
 -
     ch: ''
@@ -8241,6 +9837,18 @@
     date: '1207'
     iata: ''
     coordinates: '1832N 07352E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IN MHP'
+    name: Muhammadpur
+    namewodiacritics: Muhammadpur
+    subdiv: HR
+    function: '--3-----'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '2927N 07656E'
     remarks: ''
 -
     ch: ''
@@ -8472,6 +10080,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'IN NAB'
+    name: Nabarangapur
+    namewodiacritics: Nabarangapur
+    subdiv: OR
+    function: '--3-----'
+    status: RL
+    date: '2001'
+    iata: ''
+    coordinates: '1913N 08232E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IN NDD'
+    name: Nadiad
+    namewodiacritics: Nadiad
+    subdiv: GJ
+    function: '--3-----'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '2242N 07252E'
+    remarks: ''
+-
+    ch: ''
     locode: 'IN NGA'
     name: Nagaon
     namewodiacritics: Nagaon
@@ -8505,6 +10137,18 @@
     date: '9806'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'IN NGK'
+    name: 'Nagarkata Lcs'
+    namewodiacritics: 'Nagarkata Lcs'
+    subdiv: WB
+    function: '-----6--'
+    status: AA
+    date: '1907'
+    iata: ''
+    coordinates: '2654N 08855E'
     remarks: ''
 -
     ch: ''
@@ -8544,6 +10188,18 @@
     remarks: 'ICD/CFS = NGP'
 -
     ch: ''
+    locode: 'IN NAT'
+    name: Nainital
+    namewodiacritics: Nainital
+    subdiv: UT
+    function: '--3-----'
+    status: AA
+    date: '1601'
+    iata: ''
+    coordinates: '2923N 07927E'
+    remarks: ''
+-
+    ch: ''
     locode: 'IN NJD'
     name: Najibabad
     namewodiacritics: Najibabad
@@ -8553,6 +10209,18 @@
     date: '1301'
     iata: ''
     coordinates: '2938N 07820E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IN NAA'
+    name: Nalagarh
+    namewodiacritics: Nalagarh
+    subdiv: PB
+    function: '--3-----'
+    status: AA
+    date: '1601'
+    iata: ''
+    coordinates: '3103N 07643E'
     remarks: ''
 -
     ch: ''
@@ -8589,6 +10257,18 @@
     date: '0006'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'IN NMK'
+    name: Namkum
+    namewodiacritics: Namkum
+    subdiv: JH
+    function: '-23-----'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '2321N 08522E'
     remarks: ''
 -
     ch: ''
@@ -8652,6 +10332,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'IN NPK'
+    name: Nandiambakkam
+    namewodiacritics: Nandiambakkam
+    subdiv: TN
+    function: '-----6--'
+    status: AA
+    date: '2007'
+    iata: ''
+    coordinates: '1326N 08028E'
+    remarks: ''
+-
+    ch: ''
     locode: 'IN ISK'
     name: Nasik
     namewodiacritics: Nasik
@@ -8700,6 +10392,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'IN SAJ'
+    name: 'NAVKAR ICD/Umbergaon'
+    namewodiacritics: 'NAVKAR ICD/Umbergaon'
+    subdiv: GJ
+    function: '-----6--'
+    status: AA
+    date: '1601'
+    iata: ''
+    coordinates: '2037N 07255E'
+    remarks: ''
+-
+    ch: ''
     locode: 'IN NAV'
     name: Navlakhi
     namewodiacritics: Navlakhi
@@ -8745,6 +10449,18 @@
     date: '1207'
     iata: ''
     coordinates: '1250N 07943E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IN CJC'
+    name: 'NCTL(ENGG) SEZ/Kancheepuram'
+    namewodiacritics: 'NCTL(ENGG) SEZ/Kancheepuram'
+    subdiv: TN
+    function: '-----6--'
+    status: AA
+    date: '1501'
+    iata: ''
+    coordinates: '1249N 07943E'
     remarks: ''
 -
     ch: ''
@@ -8991,10 +10707,10 @@
     locode: 'IN NDA'
     name: Noida
     namewodiacritics: Noida
-    subdiv: ''
-    function: '--3--6--'
-    status: RL
-    date: '0307'
+    subdiv: UP
+    function: '--3-----'
+    status: AA
+    date: '1601'
     iata: ''
     coordinates: '2834N 07719E'
     remarks: ''
@@ -9012,6 +10728,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'IN JNJ'
+    name: 'NPLP SEZ/Thane'
+    namewodiacritics: 'NPLP SEZ/Thane'
+    subdiv: MH
+    function: '-----6--'
+    status: AA
+    date: '1607'
+    iata: ''
+    coordinates: '1911N 07257E'
+    remarks: ''
+-
+    ch: ''
     locode: 'IN NUA'
     name: Nuapada
     namewodiacritics: Nuapada
@@ -9021,6 +10749,30 @@
     date: '1201'
     iata: ''
     coordinates: '2049N 08231E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IN NUH'
+    name: Nuh
+    namewodiacritics: Nuh
+    subdiv: HR
+    function: '--3-----'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '2807N 07701E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IN KUR'
+    name: 'OIIDC SEZ/Khurda'
+    namewodiacritics: 'OIIDC SEZ/Khurda'
+    subdiv: OR
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '2011N 08537E'
     remarks: ''
 -
     ch: ''
@@ -9069,6 +10821,18 @@
     date: '0006'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'IN GAO'
+    name: 'OPGS SEZ/Gandhidham'
+    namewodiacritics: 'OPGS SEZ/Gandhidham'
+    subdiv: GJ
+    function: '-----6--'
+    status: AF
+    date: '1401'
+    iata: ''
+    coordinates: '2305N 07008E'
     remarks: ''
 -
     ch: ''
@@ -9288,6 +11052,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'IN PWL'
+    name: 'Palwal ICD'
+    namewodiacritics: 'Palwal ICD'
+    subdiv: HR
+    function: '-----6--'
+    status: AA
+    date: '1601'
+    iata: ''
+    coordinates: '2809N 07720E'
+    remarks: ''
+-
+    ch: ''
     locode: 'IN PMB'
     name: Pamban
     namewodiacritics: Pamban
@@ -9336,15 +11112,15 @@
     remarks: ''
 -
     ch: ''
-    locode: 'IN PAP'
-    name: Panipat
-    namewodiacritics: Panipat
-    subdiv: HR
-    function: '-23-----'
+    locode: 'IN 5PA'
+    name: Paneli
+    namewodiacritics: Paneli
+    subdiv: GJ
+    function: '--3-----'
     status: RL
-    date: '0002'
+    date: '1407'
     iata: ''
-    coordinates: ''
+    coordinates: '2152N 07009E'
     remarks: ''
 -
     ch: ''
@@ -9357,6 +11133,18 @@
     date: '1201'
     iata: ''
     coordinates: '2923N 07658E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IN PAP'
+    name: Panipat
+    namewodiacritics: Panipat
+    subdiv: HR
+    function: '-23-----'
+    status: RL
+    date: '0002'
+    iata: ''
+    coordinates: ''
     remarks: ''
 -
     ch: ''
@@ -9456,6 +11244,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'IN PJT'
+    name: Parantij
+    namewodiacritics: Parantij
+    subdiv: GJ
+    function: '--3-----'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '2326N 07251E'
+    remarks: ''
+-
+    ch: ''
     locode: 'IN PAR'
     name: Parbhani
     namewodiacritics: Parbhani
@@ -9521,10 +11321,10 @@
     namewodiacritics: Patiala
     subdiv: PB
     function: '-----6--'
-    status: RQ
-    date: '1001'
+    status: RL
+    date: '1707'
     iata: ''
-    coordinates: '1936N 76241E'
+    coordinates: '3020N 07622E'
     remarks: ''
 -
     ch: ''
@@ -9576,6 +11376,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'IN PNL'
+    name: 'PDPL SEZ/Raigarh'
+    namewodiacritics: 'PDPL SEZ/Raigarh'
+    subdiv: MH
+    function: '-----6--'
+    status: AA
+    date: '1607'
+    iata: ''
+    coordinates: '1852N 07303E'
+    remarks: ''
+-
+    ch: ''
     locode: 'IN PEE'
     name: Peenya
     namewodiacritics: Peenya
@@ -9621,6 +11433,18 @@
     date: '1207'
     iata: ''
     coordinates: '1319N 08003E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IN PRM'
+    name: Pernem
+    namewodiacritics: Pernem
+    subdiv: GA
+    function: '--3-----'
+    status: AA
+    date: '1701'
+    iata: ''
+    coordinates: '1543N 07348E'
     remarks: ''
 -
     ch: ''
@@ -9672,6 +11496,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'IN PHU'
+    name: Phursungi
+    namewodiacritics: Phursungi
+    subdiv: MH
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '1828N 07359E'
+    remarks: ''
+-
+    ch: ''
     locode: 'IN COP'
     name: Picpl-SEZ/Kakinada
     namewodiacritics: Picpl-SEZ/Kakinada
@@ -9681,6 +11517,18 @@
     date: '1001'
     iata: ''
     coordinates: '1656N 08213E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IN PLN'
+    name: Pilani
+    namewodiacritics: Pilani
+    subdiv: RJ
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '2822N 07536E'
     remarks: ''
 -
     ch: ''
@@ -9732,6 +11580,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'IN KJI'
+    name: 'Pipraun Lcs'
+    namewodiacritics: 'Pipraun Lcs'
+    subdiv: BR
+    function: '-----6--'
+    status: AA
+    date: '1801'
+    iata: ''
+    coordinates: '2620N 08605E'
+    remarks: ''
+-
+    ch: ''
     locode: 'IN PIR'
     name: Pithampur
     namewodiacritics: Pithampur
@@ -9742,6 +11602,30 @@
     iata: ''
     coordinates: ''
     remarks: 'ICD/CFS = IND'
+-
+    ch: ''
+    locode: 'IN PBH'
+    name: 'Piyala Block Hut'
+    namewodiacritics: 'Piyala Block Hut'
+    subdiv: HR
+    function: '-23-----'
+    status: RL
+    date: '2001'
+    iata: ''
+    coordinates: '2827N 07731E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IN POL'
+    name: Pollachi
+    namewodiacritics: Pollachi
+    subdiv: TN
+    function: '-23-----'
+    status: AM
+    date: '2101'
+    iata: ''
+    coordinates: '1040N 07701E'
+    remarks: ''
 -
     ch: ''
     locode: 'IN PNY'
@@ -9815,18 +11699,6 @@
     coordinates: ''
     remarks: ''
 -
-    ch: X
-    locode: 'IN JNP'
-    name: 'Port Jawaharlal Nehru'
-    namewodiacritics: 'Port Jawaharlal Nehru'
-    subdiv: ''
-    function: 1----6--
-    status: XX
-    date: '1307'
-    iata: ''
-    coordinates: '1857N 07257E'
-    remarks: ''
--
     ch: ''
     locode: 'IN PPV'
     name: 'Port Pipavav'
@@ -9864,6 +11736,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'IN PRK'
+    name: 'Powarkheda ICD/Hoshangabad'
+    namewodiacritics: 'Powarkheda ICD/Hoshangabad'
+    subdiv: MP
+    function: '-----6--'
+    status: AA
+    date: '1601'
+    iata: ''
+    coordinates: '2245N 07743E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IN PKM'
+    name: Prakasam
+    namewodiacritics: Prakasam
+    subdiv: AP
+    function: '--3-----'
+    status: RL
+    date: '1907'
+    iata: ''
+    coordinates: '1537N 07930E'
+    remarks: ''
+-
+    ch: ''
     locode: 'IN PTJ'
     name: Prantij
     namewodiacritics: Prantij
@@ -9873,6 +11769,18 @@
     date: '1001'
     iata: ''
     coordinates: '2326N 07251E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IN BPQ'
+    name: Pratapganj
+    namewodiacritics: Pratapganj
+    subdiv: BR
+    function: 1-3-----
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '2618N 08658E'
     remarks: ''
 -
     ch: ''
@@ -9897,6 +11805,18 @@
     date: '1101'
     iata: ''
     coordinates: '1904N 07250E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IN DDL'
+    name: 'PSWC ICD/Dhandari Kalan'
+    namewodiacritics: 'PSWC ICD/Dhandari Kalan'
+    subdiv: PB
+    function: '-----6--'
+    status: AA
+    date: '1601'
+    iata: ''
+    coordinates: '3051N 07552E'
     remarks: ''
 -
     ch: ''
@@ -9954,21 +11874,9 @@
     subdiv: MH
     function: '-234-6--'
     status: AA
-    date: '1207'
+    date: '1801'
     iata: ''
     coordinates: ''
-    remarks: ''
--
-    ch: ''
-    locode: 'IN PUM'
-    name: Pune
-    namewodiacritics: Pune
-    subdiv: MH
-    function: '-----6--'
-    status: RL
-    date: '1201'
-    iata: ''
-    coordinates: '1832N 07352E'
     remarks: ''
 -
     ch: ''
@@ -10020,6 +11928,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'IN TEY'
+    name: Puzhal
+    namewodiacritics: Puzhal
+    subdiv: TN
+    function: '--3-----'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '1310N 08012E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IN PYL'
+    name: Pyala
+    namewodiacritics: Pyala
+    subdiv: HR
+    function: '--3-----'
+    status: RL
+    date: '2001'
+    iata: ''
+    coordinates: '2826N 07731E'
+    remarks: ''
+-
+    ch: ''
     locode: 'IN BGQ'
     name: Quest-SEZ/Belgaum
     namewodiacritics: Quest-SEZ/Belgaum
@@ -10041,6 +11973,18 @@
     date: '0002'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'IN QUT'
+    name: Quthbullapur
+    namewodiacritics: Quthbullapur
+    subdiv: TG
+    function: '--3-----'
+    status: AA
+    date: '1601'
+    iata: ''
+    coordinates: '1730N 07827E'
     remarks: ''
 -
     ch: ''
@@ -10092,6 +12036,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'IN HYC'
+    name: Raidurg
+    namewodiacritics: Raidurg
+    subdiv: TG
+    function: '-----6--'
+    status: AA
+    date: '2007'
+    iata: ''
+    coordinates: '1741N 07838E'
+    remarks: ''
+-
+    ch: ''
     locode: 'IN RA7'
     name: Raigad
     namewodiacritics: Raigad
@@ -10103,7 +12059,19 @@
     coordinates: '1839N 07252E'
     remarks: ''
 -
-    ch: ¦
+    ch: ''
+    locode: 'IN RGJ'
+    name: 'Raiganj Railway Station Lcs'
+    namewodiacritics: 'Raiganj Railway Station Lcs'
+    subdiv: WB
+    function: '-2------'
+    status: AA
+    date: '1907'
+    iata: ''
+    coordinates: '2537N 08807E'
+    remarks: ''
+-
+    ch: ''
     locode: 'IN RIG'
     name: Raigarh
     namewodiacritics: Raigarh
@@ -10113,7 +12081,7 @@
     date: '1307'
     iata: ''
     coordinates: '3042N 07645E'
-    remarks: '@Sub'
+    remarks: ''
 -
     ch: ''
     locode: 'IN RGA'
@@ -10139,17 +12107,17 @@
     coordinates: ''
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'IN RPR'
     name: Raipur
     namewodiacritics: Raipur
     subdiv: CT
     function: '---4-6--'
     status: AA
-    date: '1307'
+    date: '1401'
     iata: ''
-    coordinates: ''
-    remarks: 'ICD/CFS = RAI@Sub'
+    coordinates: '2114N 08138E'
+    remarks: 'ICD/CFS = RAI'
 -
     ch: ''
     locode: 'IN RGP'
@@ -10175,7 +12143,7 @@
     coordinates: '2320N 07748E'
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'IN RNN'
     name: 'Raj Nandgaon'
     namewodiacritics: 'Raj Nandgaon'
@@ -10185,7 +12153,7 @@
     date: '1307'
     iata: ''
     coordinates: '2106N 08101E'
-    remarks: '@Sub'
+    remarks: ''
 -
     ch: ''
     locode: 'IN RJA'
@@ -10221,6 +12189,18 @@
     date: '1201'
     iata: ''
     coordinates: '2240N 07457E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IN RIR'
+    name: Rajgir
+    namewodiacritics: Rajgir
+    subdiv: BR
+    function: '--3-----'
+    status: AA
+    date: '1801'
+    iata: ''
+    coordinates: '2502N 08525E'
     remarks: ''
 -
     ch: ''
@@ -10368,6 +12348,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'IN RMT'
+    name: Ramtek
+    namewodiacritics: Ramtek
+    subdiv: MH
+    function: '-23-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '2124N 07920E'
+    remarks: ''
+-
+    ch: ''
     locode: 'IN RNG'
     name: Ranaghat
     namewodiacritics: Ranaghat
@@ -10425,6 +12417,18 @@
     date: '1101'
     iata: ''
     coordinates: '2932N 07450E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IN TN9'
+    name: Ranipet
+    namewodiacritics: Ranipet
+    subdiv: TN
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '1255N 07919E'
     remarks: ''
 -
     ch: ''
@@ -10524,6 +12528,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'IN RKO'
+    name: Renukoot
+    namewodiacritics: Renukoot
+    subdiv: UP
+    function: '-23-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '2413N 08302E'
+    remarks: ''
+-
+    ch: ''
     locode: 'IN RVD'
     name: Revdanda
     namewodiacritics: Revdanda
@@ -10557,6 +12573,30 @@
     date: '0501'
     iata: ''
     coordinates: '2811N 07637E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IN CRL'
+    name: 'Rga Sez/Chikkankannelli'
+    namewodiacritics: 'Rga Sez/Chikkankannelli'
+    subdiv: KA
+    function: '-----6--'
+    status: AA
+    date: '1701'
+    iata: ''
+    coordinates: '1325N 07637E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IN JPI'
+    name: 'Riico SEZ-I/Sitapura'
+    namewodiacritics: 'Riico SEZ-I/Sitapura'
+    subdiv: RJ
+    function: '-----6--'
+    status: AC
+    date: '1901'
+    iata: ''
+    coordinates: '2544N 07536E'
     remarks: ''
 -
     ch: ''
@@ -10667,7 +12707,7 @@
     coordinates: '0956N 07807E'
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'IN RUD'
     name: Rudrapur
     namewodiacritics: Rudrapur
@@ -10677,7 +12717,7 @@
     date: '1307'
     iata: ''
     coordinates: '2930N 07928E'
-    remarks: '@Sub'
+    remarks: ''
 -
     ch: ''
     locode: 'IN RPN'
@@ -10740,6 +12780,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'IN JKA'
+    name: 'Sachana ICD/Viramgam'
+    namewodiacritics: 'Sachana ICD/Viramgam'
+    subdiv: GJ
+    function: '-----6--'
+    status: AA
+    date: '1607'
+    iata: ''
+    coordinates: '2307N 07202E'
+    remarks: ''
+-
+    ch: ''
     locode: 'IN SAC'
     name: 'Sachin (Surat)'
     namewodiacritics: 'Sachin (Surat)'
@@ -10774,6 +12826,18 @@
     iata: ''
     coordinates: ''
     remarks: ICD/CFS
+-
+    ch: ''
+    locode: 'IN SHB'
+    name: Sahibabad
+    namewodiacritics: Sahibabad
+    subdiv: UP
+    function: '-23-----'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '2841N 07724E'
+    remarks: ''
 -
     ch: ''
     locode: 'IN SWA'
@@ -10821,6 +12885,18 @@
     date: '0401'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'IN DWN'
+    name: 'Samalkha ICD/Panipat'
+    namewodiacritics: 'Samalkha ICD/Panipat'
+    subdiv: HR
+    function: '-----6--'
+    status: AA
+    date: '1601'
+    iata: ''
+    coordinates: '2914N 07701E'
     remarks: ''
 -
     ch: ''
@@ -10872,6 +12948,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'IN HPI'
+    name: 'Sandkhera ICD/Kashipur'
+    namewodiacritics: 'Sandkhera ICD/Kashipur'
+    subdiv: UT
+    function: '-----6--'
+    status: AA
+    date: '1607'
+    iata: ''
+    coordinates: '2912N 07856E'
+    remarks: ''
+-
+    ch: ''
     locode: 'IN JPW'
     name: Sanganer
     namewodiacritics: Sanganer
@@ -10920,6 +13008,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'IN CAS'
+    name: 'SAPL SEZ/Ganjam'
+    namewodiacritics: 'SAPL SEZ/Ganjam'
+    subdiv: OR
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '1923N 08504E'
+    remarks: ''
+-
+    ch: ''
     locode: 'IN SCH'
     name: Sap-SEZ/Surat
     namewodiacritics: Sap-SEZ/Surat
@@ -10956,18 +13056,6 @@
     remarks: ''
 -
     ch: ''
-    locode: 'IN STA'
-    name: Satara
-    namewodiacritics: Satara
-    subdiv: MH
-    function: '--3-----'
-    status: RQ
-    date: '0901'
-    iata: ''
-    coordinates: ''
-    remarks: ''
--
-    ch: ''
     locode: 'IN STM'
     name: Satara
     namewodiacritics: Satara
@@ -10977,6 +13065,18 @@
     date: '1201'
     iata: ''
     coordinates: '1741N 07359E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IN STA'
+    name: Satara
+    namewodiacritics: Satara
+    subdiv: MH
+    function: '--3-----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: ''
     remarks: ''
 -
     ch: ''
@@ -11037,6 +13137,18 @@
     date: '1207'
     iata: ''
     coordinates: '1912N 07258E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IN HBB'
+    name: 'Sdpl Sez/Bangalore'
+    namewodiacritics: 'Sdpl Sez/Bangalore'
+    subdiv: KA
+    function: '-----6--'
+    status: AA
+    date: '1701'
+    iata: ''
+    coordinates: '1254N 07734E'
     remarks: ''
 -
     ch: ''
@@ -11172,6 +13284,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'IN SH2'
+    name: Shamli
+    namewodiacritics: Shamli
+    subdiv: UP
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '2927N 07719E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IN HIR'
+    name: 'SHB ICD/Surat'
+    namewodiacritics: 'SHB ICD/Surat'
+    subdiv: GJ
+    function: '-----6--'
+    status: AA
+    date: '1601'
+    iata: ''
+    coordinates: '2109N 07249E'
+    remarks: ''
+-
+    ch: ''
     locode: 'IN SBZ'
     name: 'Shella Bazar'
     namewodiacritics: 'Shella Bazar'
@@ -11193,6 +13329,18 @@
     date: '1201'
     iata: ''
     coordinates: '2240N 07642E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IN NTL'
+    name: 'Sherathang Lcs'
+    namewodiacritics: 'Sherathang Lcs'
+    subdiv: SK
+    function: '-----6--'
+    status: AA
+    date: '1801'
+    iata: ''
+    coordinates: '2721N 08836E'
     remarks: ''
 -
     ch: ''
@@ -11328,6 +13476,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'IN HDD'
+    name: 'Sidcul Icd/Pantnagar'
+    namewodiacritics: 'Sidcul Icd/Pantnagar'
+    subdiv: UT
+    function: '-----6--'
+    status: AA
+    date: '1607'
+    iata: ''
+    coordinates: '2903N 07931E'
+    remarks: ''
+-
+    ch: ''
     locode: 'IN SAP'
     name: Siddapur
     namewodiacritics: Siddapur
@@ -11406,9 +13566,21 @@
     subdiv: AN
     function: 1-3-----
     status: RL
-    date: '0607'
+    date: '1707'
     iata: ''
-    coordinates: '2702N 88040E'
+    coordinates: '2719N 08837E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IN STF'
+    name: 'Sikta Lcs'
+    namewodiacritics: 'Sikta Lcs'
+    subdiv: BR
+    function: '-----6--'
+    status: AA
+    date: '1801'
+    iata: ''
+    coordinates: '2703N 08406E'
     remarks: ''
 -
     ch: ''
@@ -11736,6 +13908,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'IN PVS'
+    name: 'Snpip Sez/Tambaram'
+    namewodiacritics: 'Snpip Sez/Tambaram'
+    subdiv: TN
+    function: '-----6--'
+    status: AA
+    date: '1801'
+    iata: ''
+    coordinates: '1255N 08006E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IN SKA'
+    name: Sokhana
+    namewodiacritics: Sokhana
+    subdiv: UP
+    function: '--3-----'
+    status: AA
+    date: '1601'
+    iata: ''
+    coordinates: '2736N 07804E'
+    remarks: ''
+-
+    ch: ''
     locode: 'IN QSL'
     name: Solan
     namewodiacritics: Solan
@@ -11820,6 +14016,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'IN TBP'
+    name: 'SPIPL SEZ/Perungalathur'
+    namewodiacritics: 'SPIPL SEZ/Perungalathur'
+    subdiv: TN
+    function: '-----6--'
+    status: AA
+    date: '1501'
+    iata: ''
+    coordinates: '1250N 07943E'
+    remarks: ''
+-
+    ch: ''
     locode: 'IN AIR'
     name: 'SPPL SEZ/Thane'
     namewodiacritics: 'SPPL SEZ/Thane'
@@ -11901,6 +14109,18 @@
     date: '1001'
     iata: ''
     coordinates: '1258N 07957E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IN TNS'
+    name: 'SSL SEZ/Tuticorin'
+    namewodiacritics: 'SSL SEZ/Tuticorin'
+    subdiv: TN
+    function: '-----6--'
+    status: AA
+    date: '1501'
+    iata: ''
+    coordinates: '0847N 07808E'
     remarks: ''
 -
     ch: ''
@@ -11998,18 +14218,6 @@
     iata: ''
     coordinates: '2831N 07729E'
     remarks: ICD
--
-    ch: ''
-    locode: 'IN DET'
-    name: Surajpur
-    namewodiacritics: Surajpur
-    subdiv: UP
-    function: '-----6--'
-    status: RL
-    date: '1201'
-    iata: ''
-    coordinates: '2831N 07729E'
-    remarks: ''
 -
     ch: ''
     locode: 'IN SRV'
@@ -12120,6 +14328,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'IN TLG'
+    name: Talegaon
+    namewodiacritics: Talegaon
+    subdiv: MH
+    function: '-----6--'
+    status: RQ
+    date: '2001'
+    iata: ''
+    coordinates: '1832N 07352E'
+    remarks: ''
+-
+    ch: ''
     locode: 'IN TGD'
     name: 'Talegaon Dabhade'
     namewodiacritics: 'Talegaon Dabhade'
@@ -12129,18 +14349,6 @@
     date: '0907'
     iata: ''
     coordinates: '1843N 07341E'
-    remarks: ''
--
-    ch: ''
-    locode: 'IN TLG'
-    name: Talegoan
-    namewodiacritics: Talegoan
-    subdiv: MH
-    function: '-----6--'
-    status: RQ
-    date: '0901'
-    iata: ''
-    coordinates: '1832N 07352E'
     remarks: ''
 -
     ch: ''
@@ -12165,6 +14373,18 @@
     date: '0006'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'IN TAL'
+    name: Talwara
+    namewodiacritics: Talwara
+    subdiv: PB
+    function: '-----6--'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '3156N 07552E'
     remarks: ''
 -
     ch: ''
@@ -12213,6 +14433,30 @@
     date: '1301'
     iata: ''
     coordinates: '3127N 07455E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IN CAG'
+    name: 'Tata Steel SEZ/Ganjam'
+    namewodiacritics: 'Tata Steel SEZ/Ganjam'
+    subdiv: OR
+    function: '-----6--'
+    status: AA
+    date: '1607'
+    iata: ''
+    coordinates: '1923N 08504E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IN INT'
+    name: 'TCS SEZ/Indore'
+    namewodiacritics: 'TCS SEZ/Indore'
+    subdiv: MP
+    function: '-----6--'
+    status: AF
+    date: '1401'
+    iata: ''
+    coordinates: '2243N 07550E'
     remarks: ''
 -
     ch: ''
@@ -12324,18 +14568,6 @@
     remarks: ''
 -
     ch: ''
-    locode: 'IN TAE'
-    name: Thane
-    namewodiacritics: Thane
-    subdiv: MH
-    function: '-----6--'
-    status: RQ
-    date: '1001'
-    iata: ''
-    coordinates: '1912N 07258E'
-    remarks: ''
--
-    ch: ''
     locode: 'IN THN'
     name: Thane
     namewodiacritics: Thane
@@ -12396,6 +14628,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'IN NTV'
+    name: 'Thootibari Lcs'
+    namewodiacritics: 'Thootibari Lcs'
+    subdiv: UP
+    function: '-----6--'
+    status: AA
+    date: '1801'
+    iata: ''
+    coordinates: '2615N 08307E'
+    remarks: ''
+-
+    ch: ''
     locode: 'IN TPP'
     name: Thoppumpady
     namewodiacritics: Thoppumpady
@@ -12441,6 +14685,18 @@
     date: '1107'
     iata: ''
     coordinates: '1031N 07613E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IN TI3'
+    name: Tihi
+    namewodiacritics: Tihi
+    subdiv: MP
+    function: '--3-----'
+    status: AA
+    date: '2007'
+    iata: ''
+    coordinates: '2237N 07544E'
     remarks: ''
 -
     ch: ''
@@ -12708,15 +14964,27 @@
     remarks: ''
 -
     ch: ''
+    locode: 'IN TUB'
+    name: TUMB
+    namewodiacritics: TUMB
+    subdiv: GJ
+    function: '--3-----'
+    status: AA
+    date: '1607'
+    iata: ''
+    coordinates: '2010N 07245E'
+    remarks: ''
+-
+    ch: ''
     locode: 'IN ZUM'
     name: Tumkur
     namewodiacritics: Tumkur
     subdiv: KA
     function: 1-3-----
     status: RL
-    date: '0607'
+    date: '1707'
     iata: ''
-    coordinates: '1631N 77060E'
+    coordinates: '1630N 07705E'
     remarks: ''
 -
     ch: ''
@@ -12873,6 +15141,18 @@
     date: '1001'
     iata: ''
     coordinates: '3129N 07617E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IN UNN'
+    name: Unnao
+    namewodiacritics: Unnao
+    subdiv: UP
+    function: '--3-----'
+    status: RL
+    date: '2001'
+    iata: ''
+    coordinates: '2653N 08048E'
     remarks: ''
 -
     ch: ''
@@ -13068,6 +15348,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'IN VSH'
+    name: Vashi
+    namewodiacritics: Vashi
+    subdiv: MH
+    function: '--3-----'
+    status: RL
+    date: '2001'
+    iata: ''
+    coordinates: '1907N 07300E'
+    remarks: ''
+-
+    ch: ''
     locode: 'IN VZJ'
     name: Vazhinjam
     namewodiacritics: Vazhinjam
@@ -13089,6 +15381,18 @@
     date: '1001'
     iata: ''
     coordinates: '1802N 07816E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IN JHV'
+    name: 'Vedanta SEZ/Jharsuguda'
+    namewodiacritics: 'Vedanta SEZ/Jharsuguda'
+    subdiv: OR
+    function: '-----6--'
+    status: AA
+    date: '1601'
+    iata: ''
+    coordinates: '2150N 08401E'
     remarks: ''
 -
     ch: ''
@@ -13212,6 +15516,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'IN GWM'
+    name: 'Vijayawada International Airport/Gannavaram'
+    namewodiacritics: 'Vijayawada International Airport/Gannavaram'
+    subdiv: AP
+    function: '---4----'
+    status: AA
+    date: '1907'
+    iata: ''
+    coordinates: '1631N 08037E'
+    remarks: ''
+-
+    ch: ''
     locode: 'IN VYD'
     name: Vijaydurg
     namewodiacritics: Vijaydurg
@@ -13284,18 +15600,6 @@
     remarks: ''
 -
     ch: ''
-    locode: 'IN VIZ'
-    name: Vizag
-    namewodiacritics: Vizag
-    subdiv: AP
-    function: 1----6--
-    status: RQ
-    date: '0907'
-    iata: ''
-    coordinates: '1742N 08315E'
-    remarks: ''
--
-    ch: ''
     locode: 'IN VIG'
     name: Vizagapatanam
     namewodiacritics: Vizagapatanam
@@ -13317,6 +15621,18 @@
     date: '1207'
     iata: ''
     coordinates: '1250N 07943E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IN TEV'
+    name: 'VVM SEZ/Tirunelveli'
+    namewodiacritics: 'VVM SEZ/Tirunelveli'
+    subdiv: TN
+    function: '-----6--'
+    status: AA
+    date: '1501'
+    iata: ''
+    coordinates: '0844N 07742E'
     remarks: ''
 -
     ch: ''
@@ -13440,6 +15756,54 @@
     remarks: ''
 -
     ch: ''
+    locode: 'IN CCI'
+    name: 'Wipro Sez/Hinjewadi'
+    namewodiacritics: 'Wipro Sez/Hinjewadi'
+    subdiv: MH
+    function: '-----6--'
+    status: AA
+    date: '1801'
+    iata: ''
+    coordinates: '1848N 07346E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IN KJW'
+    name: 'Wipro Sez/Kodathi'
+    namewodiacritics: 'Wipro Sez/Kodathi'
+    subdiv: KA
+    function: '-----6--'
+    status: AA
+    date: '1707'
+    iata: ''
+    coordinates: '1288N 07771E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IN BNW'
+    name: 'Wipro SEZ/Kolkata'
+    namewodiacritics: 'Wipro SEZ/Kolkata'
+    subdiv: WB
+    function: '-----6--'
+    status: AF
+    date: '1401'
+    iata: ''
+    coordinates: '2234N 08822E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IN VSP'
+    name: 'Wipro Sez/Resapuvanipalem'
+    namewodiacritics: 'Wipro Sez/Resapuvanipalem'
+    subdiv: AP
+    function: '-----6--'
+    status: AA
+    date: '1801'
+    iata: ''
+    coordinates: '1744N 08319E'
+    remarks: ''
+-
+    ch: ''
     locode: 'IN CHJ'
     name: 'WWIL ICD/Wardha'
     namewodiacritics: 'WWIL ICD/Wardha'
@@ -13500,6 +15864,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'IN ZHR'
+    name: Zahirabad
+    namewodiacritics: Zahirabad
+    subdiv: TG
+    function: '--3-----'
+    status: RL
+    date: '2001'
+    iata: ''
+    coordinates: '1740N 07736E'
+    remarks: ''
+-
+    ch: ''
     locode: 'IN ZER'
     name: 'Zero (Ziro)'
     namewodiacritics: 'Zero (Ziro)'
@@ -13521,4 +15897,16 @@
     date: '0907'
     iata: ''
     coordinates: '2302N 07237E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'IN ZIR'
+    name: Zirakpur
+    namewodiacritics: Zirakpur
+    subdiv: PB
+    function: '--3-----'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '3039N 07649E'
     remarks: ''

@@ -7,8 +7,8 @@ namespace UN\Locode\Model;
  * @package UN\Locode\Model
  * @description Location data model
  */
-class Location {
-
+class Location
+{
     protected $ch;
     protected $locode;
     protected $name;
@@ -26,8 +26,9 @@ class Location {
      *
      * @param array $data
      */
-    public function __construct(array $data) {
-        foreach($data as $key => $value) {
+    public function __construct(array $data)
+    {
+        foreach ($data as $key => $value) {
             $this->$key = $value;
         }
     }
@@ -137,5 +138,4 @@ class Location {
     {
         return substr($this->locode, 0, 2);
     }
-
 }

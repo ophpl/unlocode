@@ -96,6 +96,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'GM KFG'
+    name: Kanifing
+    namewodiacritics: Kanifing
+    subdiv: B
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '1326N 01640W'
+    remarks: ''
+-
+    ch: ''
     locode: 'GM KAR'
     name: Karanai
     namewodiacritics: Karanai
@@ -177,4 +189,28 @@
     date: '9601'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'GM SUK'
+    name: Sukuta
+    namewodiacritics: Sukuta
+    subdiv: W
+    function: 1----6--
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '1324N 01642W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GM YDM'
+    name: Yundum
+    namewodiacritics: Yundum
+    subdiv: W
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '1320N 01640W'
     remarks: ''

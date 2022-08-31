@@ -36,6 +36,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'NE DIF'
+    name: Diffa
+    namewodiacritics: Diffa
+    subdiv: '2'
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '1318N 01236E'
+    remarks: ''
+-
+    ch: ''
     locode: 'NE DOG'
     name: Dogodountchi
     namewodiacritics: Dogodountchi
@@ -59,7 +71,7 @@
     coordinates: '1303N 00312E'
     remarks: ''
 -
-    ch: +
+    ch: ''
     locode: 'NE GLM'
     name: Galmi
     namewodiacritics: Galmi
@@ -165,6 +177,30 @@
     date: '9601'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'NE TCH'
+    name: Tchirozerine
+    namewodiacritics: Tchirozerine
+    subdiv: '1'
+    function: '--3-----'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '1706N 00749E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NE TIL'
+    name: Tillabéri
+    namewodiacritics: Tillaberi
+    subdiv: '6'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '1412N 00127E'
     remarks: ''
 -
     ch: ''

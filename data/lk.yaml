@@ -1,5 +1,17 @@
 -
     ch: ''
+    locode: 'LK AGA'
+    name: Agalawatta
+    namewodiacritics: Agalawatta
+    subdiv: '1'
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '0632N 08009E'
+    remarks: ''
+-
+    ch: ''
     locode: 'LK AMP'
     name: Amparai
     namewodiacritics: Amparai
@@ -24,6 +36,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'LK ANG'
+    name: Angoda
+    namewodiacritics: Angoda
+    subdiv: '11'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '0656N 07955E'
+    remarks: ''
+-
+    ch: ''
     locode: 'LK ADP'
     name: Anuradhapura
     namewodiacritics: Anuradhapura
@@ -33,6 +57,18 @@
     date: '0001'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'LK ATA'
+    name: Attanagalla
+    namewodiacritics: Attanagalla
+    subdiv: '1'
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '0706N 08007E'
     remarks: ''
 -
     ch: ''
@@ -60,6 +96,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'LK BLA'
+    name: Badulla
+    namewodiacritics: Badulla
+    subdiv: '3'
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '0610N 08032E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LK BAN'
+    name: Bandaragama
+    namewodiacritics: Bandaragama
+    subdiv: '1'
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '0642N 07959E'
+    remarks: ''
+-
+    ch: ''
     locode: 'LK BTW'
     name: Bataduwa
     namewodiacritics: Bataduwa
@@ -69,6 +129,18 @@
     date: '1201'
     iata: ''
     coordinates: '0613N 08006E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LK BAT'
+    name: Battaramulla
+    namewodiacritics: Battaramulla
+    subdiv: '1'
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '0654N 07955E'
     remarks: ''
 -
     ch: ''
@@ -132,13 +204,25 @@
     remarks: ''
 -
     ch: ''
+    locode: 'LK BUT'
+    name: Bulathsinhala
+    namewodiacritics: Bulathsinhala
+    subdiv: '1'
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '0639N 08010E'
+    remarks: ''
+-
+    ch: ''
     locode: 'LK CMB'
     name: Colombo
     namewodiacritics: Colombo
-    subdiv: ''
+    subdiv: '11'
     function: 12345---
     status: AI
-    date: '0212'
+    date: '1601'
     iata: ''
     coordinates: '0655N 07951E'
     remarks: ''
@@ -192,6 +276,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'LK DEH'
+    name: Dehiwala
+    namewodiacritics: Dehiwala
+    subdiv: '1'
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '0651N 07951E'
+    remarks: ''
+-
+    ch: ''
     locode: 'LK DEK'
     name: Dekantana
     namewodiacritics: Dekantana
@@ -204,6 +300,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'LK AZX'
+    name: Dekatana
+    namewodiacritics: Dekatana
+    subdiv: '1'
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '0658N 08003E'
+    remarks: ''
+-
+    ch: ''
     locode: 'LK DIW'
     name: 'Dickwella Mawella Lagoon Apt'
     namewodiacritics: 'Dickwella Mawella Lagoon Apt'
@@ -213,6 +321,42 @@
     date: '0907'
     iata: ''
     coordinates: '0658N 08100E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LK DIV'
+    name: Divulapitiya
+    namewodiacritics: Divulapitiya
+    subdiv: '1'
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '0713N 08005E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LK DOD'
+    name: Dodangoda
+    namewodiacritics: Dodangoda
+    subdiv: '1'
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '0632N 08024E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LK DOM'
+    name: Dompe
+    namewodiacritics: Dompe
+    subdiv: '1'
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '0657N 08031E'
     remarks: ''
 -
     ch: ''
@@ -261,6 +405,18 @@
     date: '8311'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'LK GAM'
+    name: Gampaha
+    namewodiacritics: Gampaha
+    subdiv: '1'
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '0753N 07959E'
     remarks: ''
 -
     ch: ''
@@ -336,6 +492,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'LK HAN'
+    name: Hanwella
+    namewodiacritics: Hanwella
+    subdiv: '2'
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '0721N 08052E'
+    remarks: ''
+-
+    ch: ''
     locode: 'LK HAT'
     name: Hatton
     namewodiacritics: Hatton
@@ -396,6 +564,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'LK HOM'
+    name: Homagama
+    namewodiacritics: Homagama
+    subdiv: '1'
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '0650N 08005E'
+    remarks: ''
+-
+    ch: ''
     locode: 'LK KHN'
     name: Horana
     namewodiacritics: Horana
@@ -407,7 +587,7 @@
     coordinates: '0643N 08003E'
     remarks: ''
 -
-    ch: +
+    ch: ''
     locode: 'LK IBB'
     name: Ibbawala
     namewodiacritics: Ibbawala
@@ -417,6 +597,30 @@
     date: '1307'
     iata: ''
     coordinates: '0600N 08024E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LK ING'
+    name: Ingiriya
+    namewodiacritics: Ingiriya
+    subdiv: '1'
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '0645N 08010E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LK JAE'
+    name: Ja-Ela
+    namewodiacritics: Ja-Ela
+    subdiv: '1'
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '0754N 07953E'
     remarks: ''
 -
     ch: ''
@@ -444,6 +648,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'LK KAW'
+    name: Kadawala
+    namewodiacritics: Kadawala
+    subdiv: '2'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '0659N 08030E'
+    remarks: ''
+-
+    ch: ''
     locode: 'LK KGN'
     name: Kadugannawa
     namewodiacritics: Kadugannawa
@@ -453,6 +669,18 @@
     date: '1301'
     iata: ''
     coordinates: '0715N 08031E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LK KAD'
+    name: Kaduwela
+    namewodiacritics: Kaduwela
+    subdiv: '1'
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '0655N 07958E'
     remarks: ''
 -
     ch: ''
@@ -504,6 +732,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'LK KDA'
+    name: Kandana
+    namewodiacritics: Kandana
+    subdiv: '1'
+    function: '-----6--'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '0702N 07953E'
+    remarks: ''
+-
+    ch: ''
     locode: 'LK KAN'
     name: Kandy
     namewodiacritics: Kandy
@@ -525,6 +765,18 @@
     date: '8311'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'LK KWE'
+    name: 'Katana West'
+    namewodiacritics: 'Katana West'
+    subdiv: '1'
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '0715N 07954E'
     remarks: ''
 -
     ch: ''
@@ -588,6 +840,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'LK KEG'
+    name: Kegalle
+    namewodiacritics: Kegalle
+    subdiv: '9'
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '0715N 08021E'
+    remarks: ''
+-
+    ch: ''
     locode: 'LK KHT'
     name: Kehelwatta
     namewodiacritics: Kehelwatta
@@ -621,6 +885,18 @@
     date: '0907'
     iata: ''
     coordinates: '0657N 07953E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LK KES'
+    name: Kesbewa
+    namewodiacritics: Kesbewa
+    subdiv: '1'
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '0647N 07956E'
     remarks: ''
 -
     ch: ''
@@ -695,7 +971,7 @@
     coordinates: '0614N 08117E'
     remarks: ''
 -
-    ch: +
+    ch: ''
     locode: 'LK KOT'
     name: Kotugoda
     namewodiacritics: Kotugoda
@@ -744,6 +1020,42 @@
     remarks: ''
 -
     ch: ''
+    locode: 'LK MAD'
+    name: Madurawala
+    namewodiacritics: Madurawala
+    subdiv: '1'
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '0638N 08040E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LK MRA'
+    name: Mahara
+    namewodiacritics: Mahara
+    subdiv: '1'
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '0700N 07956E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LK MAH'
+    name: Maharagama
+    namewodiacritics: Maharagama
+    subdiv: '1'
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '0650N 07955E'
+    remarks: ''
+-
+    ch: ''
     locode: 'LK MHW'
     name: Mahaweli
     namewodiacritics: Mahaweli
@@ -768,6 +1080,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'LK MAL'
+    name: Malwana
+    namewodiacritics: Malwana
+    subdiv: '1'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '0656N 08000E'
+    remarks: ''
+-
+    ch: ''
     locode: 'LK MAN'
     name: Mannar
     namewodiacritics: Mannar
@@ -777,6 +1101,30 @@
     date: '8311'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'LK MLE'
+    name: Matale
+    namewodiacritics: Matale
+    subdiv: '2'
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '0728N 08037E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LK MTA'
+    name: Matara
+    namewodiacritics: Matara
+    subdiv: '3'
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '0556N 08032E'
     remarks: ''
 -
     ch: ''
@@ -792,6 +1140,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'LK MAT'
+    name: Matugama
+    namewodiacritics: Matugama
+    subdiv: '1'
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '0631N 08006E'
+    remarks: ''
+-
+    ch: ''
     locode: 'LK MAW'
     name: Mawella
     namewodiacritics: Mawella
@@ -801,6 +1161,18 @@
     date: '0601'
     iata: ''
     coordinates: '0559N 08044E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LK MIL'
+    name: Millaniya
+    namewodiacritics: Millaniya
+    subdiv: '13'
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '0639N 01448E'
     remarks: ''
 -
     ch: ''
@@ -816,6 +1188,42 @@
     remarks: ''
 -
     ch: ''
+    locode: 'LK MIN'
+    name: Minuwangoda
+    namewodiacritics: Minuwangoda
+    subdiv: '1'
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '0710N 07957E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LK MIR'
+    name: Mirigama
+    namewodiacritics: Mirigama
+    subdiv: '1'
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '0714N 08007E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LK MON'
+    name: Monaragala
+    namewodiacritics: Monaragala
+    subdiv: '8'
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '0652N 08121E'
+    remarks: ''
+-
+    ch: ''
     locode: 'LK MRG'
     name: Moragala
     namewodiacritics: Moragala
@@ -825,6 +1233,18 @@
     date: '1301'
     iata: ''
     coordinates: '0652N 08015E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LK MOR'
+    name: Moratuwa
+    namewodiacritics: Moratuwa
+    subdiv: '1'
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '0646N 07952E'
     remarks: ''
 -
     ch: ''
@@ -900,15 +1320,39 @@
     remarks: ''
 -
     ch: ''
+    locode: 'LK NEG'
+    name: Negombo
+    namewodiacritics: Negombo
+    subdiv: '12'
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '0712N 07950E'
+    remarks: ''
+-
+    ch: ''
     locode: 'LK NBW'
     name: Nittambuwa
     namewodiacritics: Nittambuwa
-    subdiv: ''
-    function: '--3-5---'
+    subdiv: '1'
+    function: '--3-----'
     status: RL
-    date: '0901'
+    date: '1707'
     iata: ''
-    coordinates: '7820N 80553E'
+    coordinates: '0709N 08006E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LK NUW'
+    name: Nuwaraeliya
+    namewodiacritics: Nuwaraeliya
+    subdiv: '2'
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '0658N 08046E'
     remarks: ''
 -
     ch: ''
@@ -933,6 +1377,42 @@
     date: '1007'
     iata: ''
     coordinates: '0656N 07952E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LK PDU'
+    name: Padukka
+    namewodiacritics: Padukka
+    subdiv: '1'
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '0649N 08055E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LK PAL'
+    name: Palindanuwara
+    namewodiacritics: Palindanuwara
+    subdiv: '1'
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '0630N 08016E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LK PAD'
+    name: Panadura
+    namewodiacritics: Panadura
+    subdiv: '13'
+    function: '--3-----'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '0642N 07954E'
     remarks: ''
 -
     ch: ''
@@ -1092,6 +1572,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'LK SUW'
+    name: Siduwa
+    namewodiacritics: Siduwa
+    subdiv: '1'
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '0707N 07953E'
+    remarks: ''
+-
+    ch: ''
     locode: 'LK SIG'
     name: Sigiriya
     namewodiacritics: Sigiriya
@@ -1188,6 +1680,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'LK VAV'
+    name: Vavuniya
+    namewodiacritics: Vavuniya
+    subdiv: '4'
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '0845N 08030E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LK WAD'
+    name: Wadakada
+    namewodiacritics: Wadakada
+    subdiv: '32'
+    function: '--3-----'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '0724N 08015E'
+    remarks: ''
+-
+    ch: ''
     locode: 'LK SLK'
     name: Wadduwa
     namewodiacritics: Wadduwa
@@ -1197,6 +1713,18 @@
     date: '1201'
     iata: ''
     coordinates: '0639N 07955E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LK WAL'
+    name: Walallawita
+    namewodiacritics: Walallawita
+    subdiv: '1'
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '0622N 08012E'
     remarks: ''
 -
     ch: ''
@@ -1221,6 +1749,18 @@
     date: '1001'
     iata: ''
     coordinates: '0659N 07953E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LK WLL'
+    name: Welisara
+    namewodiacritics: Welisara
+    subdiv: '11'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '0702N 07954E'
     remarks: ''
 -
     ch: ''
@@ -1257,4 +1797,16 @@
     date: '0907'
     iata: ''
     coordinates: '0615N 08114E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'LK YAT'
+    name: Yatiyantota
+    namewodiacritics: Yatiyantota
+    subdiv: '92'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '0701N 08018E'
     remarks: ''

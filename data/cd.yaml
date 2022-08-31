@@ -396,6 +396,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CD KSI'
+    name: Kasindi
+    namewodiacritics: Kasindi
+    subdiv: NK
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '0030N 02941E'
+    remarks: ''
+-
+    ch: ''
     locode: 'CD KGN'
     name: Kasongo-Lunda
     namewodiacritics: Kasongo-Lunda
@@ -648,6 +660,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CD MGH'
+    name: Mahagi
+    namewodiacritics: Mahagi
+    subdiv: OR
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '0218N 03059E'
+    remarks: ''
+-
+    ch: ''
     locode: 'CD MKL'
     name: Makala
     namewodiacritics: Makala
@@ -756,6 +780,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CD MWG'
+    name: Mwadingusha
+    namewodiacritics: Mwadingusha
+    subdiv: KA
+    function: '--34----'
+    status: RL
+    date: '1707'
+    iata: ''
+    coordinates: '1045S 02714E'
+    remarks: ''
+-
+    ch: ''
     locode: 'CD MEW'
     name: Mweka
     namewodiacritics: Mweka
@@ -801,6 +837,30 @@
     date: '9912'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'CD NYN'
+    name: Nyunzu
+    namewodiacritics: Nyunzu
+    subdiv: TA
+    function: '--3-----'
+    status: AM
+    date: '2007'
+    iata: ''
+    coordinates: '0557S 02801E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CD RR3'
+    name: Patra
+    namewodiacritics: Patra
+    subdiv: BC
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '0443S 01157E'
     remarks: ''
 -
     ch: ''
@@ -873,6 +933,30 @@
     date: '9805'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'CD WAL'
+    name: Walikale
+    namewodiacritics: Walikale
+    subdiv: NK
+    function: '--3-----'
+    status: AM
+    date: '2107'
+    iata: ''
+    coordinates: '0124S 02803E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CD WAT'
+    name: Watsa
+    namewodiacritics: Watsa
+    subdiv: OR
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '0303N 02932E'
     remarks: ''
 -
     ch: ''

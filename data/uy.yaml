@@ -1,5 +1,17 @@
 -
     ch: ''
+    locode: 'UY AIG'
+    name: Aigua
+    namewodiacritics: Aigua
+    subdiv: MA
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '3412S 05445W'
+    remarks: ''
+-
+    ch: ''
     locode: 'UY ABT'
     name: Arbolito
     namewodiacritics: Arbolito
@@ -48,6 +60,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'UY CDN'
+    name: Cardona
+    namewodiacritics: Cardona
+    subdiv: SO
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '3353S 05723W'
+    remarks: ''
+-
+    ch: ''
     locode: 'UY CAR'
     name: Carmelo
     namewodiacritics: Carmelo
@@ -57,6 +81,18 @@
     date: '9701'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'UY CAO'
+    name: Carrasco
+    namewodiacritics: Carrasco
+    subdiv: CO
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '3453S 05603W'
     remarks: ''
 -
     ch: ''
@@ -203,7 +239,7 @@
     coordinates: ''
     remarks: ''
 -
-    ch: +
+    ch: ''
     locode: 'UY JLC'
     name: 'Juan L. Lacaze'
     namewodiacritics: 'Juan L. Lacaze'
@@ -261,6 +297,18 @@
     date: '9701'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'UY LSC'
+    name: Lascano
+    namewodiacritics: Lascano
+    subdiv: RO
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '3340S 05412W'
     remarks: ''
 -
     ch: ''
@@ -384,6 +432,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'UY PAZ'
+    name: 'Pan de Azucar'
+    namewodiacritics: 'Pan de Azucar'
+    subdiv: MA
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '3448S 05514W'
+    remarks: ''
+-
+    ch: ''
     locode: 'UY PDO'
     name: Pando
     namewodiacritics: Pando
@@ -393,6 +453,18 @@
     date: '9701'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'UY PDC'
+    name: 'Paso de Carrasco'
+    namewodiacritics: 'Paso de Carrasco'
+    subdiv: MO
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '3451S 05603W'
     remarks: ''
 -
     ch: ''
@@ -407,7 +479,7 @@
     coordinates: ''
     remarks: ''
 -
-    ch: +
+    ch: ''
     locode: 'UY PIR'
     name: Piriápolis
     namewodiacritics: Piriapolis
@@ -429,6 +501,18 @@
     date: '0601'
     iata: ''
     coordinates: '3149S 05555W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'UY PRO'
+    name: Progreso
+    namewodiacritics: Progreso
+    subdiv: CA
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '3439S 05613W'
     remarks: ''
 -
     ch: ''
@@ -528,6 +612,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'UY SCA'
+    name: 'San Carlos'
+    namewodiacritics: 'San Carlos'
+    subdiv: MA
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '3448S 05455W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'UY SAO'
+    name: 'San Jacinto'
+    namewodiacritics: 'San Jacinto'
+    subdiv: CA
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '3432S 05552W'
+    remarks: ''
+-
+    ch: ''
     locode: 'UY SJS'
     name: 'San José'
     namewodiacritics: 'San Jose'
@@ -552,6 +660,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'UY SAA'
+    name: 'Santa Bernardina'
+    namewodiacritics: 'Santa Bernardina'
+    subdiv: DU
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '3322S 05629W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'UY SLA'
+    name: 'Santa Lucia'
+    namewodiacritics: 'Santa Lucia'
+    subdiv: CA
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '3427S 05623W'
+    remarks: ''
+-
+    ch: ''
     locode: 'UY SYM'
     name: Solymar
     namewodiacritics: Solymar
@@ -564,6 +696,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'UY SOO'
+    name: Soriano
+    namewodiacritics: Soriano
+    subdiv: SO
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '3324S 05819W'
+    remarks: ''
+-
+    ch: ''
     locode: 'UY TAW'
     name: Tacuarembo
     namewodiacritics: Tacuarembo
@@ -573,6 +717,18 @@
     date: '9701'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'UY TAS'
+    name: Tarariras
+    namewodiacritics: Tarariras
+    subdiv: CO
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '3417S 05737W'
     remarks: ''
 -
     ch: ''
@@ -600,6 +756,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'UY VAL'
+    name: Valdense
+    namewodiacritics: Valdense
+    subdiv: CO
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '3420S 05714W'
+    remarks: ''
+-
+    ch: ''
     locode: 'UY VCH'
     name: Vichadero
     namewodiacritics: Vichadero
@@ -609,6 +777,18 @@
     date: '9701'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'UY YOG'
+    name: Young
+    namewodiacritics: Young
+    subdiv: RN
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '3241S 05738W'
     remarks: ''
 -
     ch: ''

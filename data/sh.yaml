@@ -36,6 +36,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'SH LVW'
+    name: Levelwood
+    namewodiacritics: Levelwood
+    subdiv: HL
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '1508S 00541W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SH RPT'
+    name: 'Rupert''s Bay'
+    namewodiacritics: 'Rupert''s Bay'
+    subdiv: HL
+    function: 1-------
+    status: AA
+    date: '1801'
+    iata: ''
+    coordinates: '1555S 00542W'
+    remarks: ''
+-
+    ch: ''
     locode: 'SH TDC'
     name: 'Tristan da Cunha'
     namewodiacritics: 'Tristan da Cunha'

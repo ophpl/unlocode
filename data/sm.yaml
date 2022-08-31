@@ -24,6 +24,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'SM CHV'
+    name: Chiesanuova
+    namewodiacritics: Chiesanuova
+    subdiv: '02'
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '4354N 01225E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SM DGN'
+    name: Dogana
+    namewodiacritics: Dogana
+    subdiv: '09'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4358N 01229E'
+    remarks: ''
+-
+    ch: ''
     locode: 'SM DSS'
     name: Domagnano
     namewodiacritics: Domagnano
@@ -69,6 +93,30 @@
     date: '0901'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'SM AQ8'
+    name: Gualdicciolo
+    namewodiacritics: Gualdicciolo
+    subdiv: '01'
+    function: 1-3-----
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '4357N 01224E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SM RVT'
+    name: Rovereta
+    namewodiacritics: Rovereta
+    subdiv: '09'
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '4359N 01230E'
     remarks: ''
 -
     ch: ''

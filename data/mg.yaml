@@ -60,6 +60,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'MG AMS'
+    name: 'Amboasary Sud'
+    namewodiacritics: 'Amboasary Sud'
+    subdiv: U
+    function: '-23-----'
+    status: AM
+    date: '2007'
+    iata: ''
+    coordinates: '2502S 04623E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MG AMV'
+    name: Ambovombe
+    namewodiacritics: Ambovombe
+    subdiv: U
+    function: '--3-----'
+    status: AM
+    date: '2007'
+    iata: ''
+    coordinates: '2510S 04605E'
+    remarks: ''
+-
+    ch: ''
     locode: 'MG AMP'
     name: Ampanihy
     namewodiacritics: Ampanihy
@@ -389,10 +413,10 @@
     namewodiacritics: Ehoala
     subdiv: U
     function: 1-------
-    status: RQ
-    date: '0907'
+    status: RL
+    date: '1707'
     iata: ''
-    coordinates: '2506S 96646E'
+    coordinates: '2504S 04657E'
     remarks: ''
 -
     ch: ''
@@ -816,6 +840,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'MG TAN'
+    name: Tanjombato
+    namewodiacritics: Tanjombato
+    subdiv: T
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '1857S 04732E'
+    remarks: ''
+-
+    ch: ''
     locode: 'MG TLN'
     name: Taolagnaro
     namewodiacritics: Taolagnaro
@@ -849,6 +885,18 @@
     date: '9601'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'MG TSM'
+    name: Tsiombe
+    namewodiacritics: Tsiombe
+    subdiv: U
+    function: '--3-----'
+    status: AM
+    date: '2007'
+    iata: ''
+    coordinates: '2518S 04529E'
     remarks: ''
 -
     ch: ''

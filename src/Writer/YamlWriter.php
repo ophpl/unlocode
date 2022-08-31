@@ -11,7 +11,6 @@ use Symfony\Component\Yaml\Yaml;
  */
 class YamlWriter implements WriterInterface
 {
-
     /**
      * {@inheritdoc}
      */
@@ -25,5 +24,4 @@ class YamlWriter implements WriterInterface
             throw new \RuntimeException(sprintf("Unable to dump to file %s", $fileName));
         }
     }
-
 }

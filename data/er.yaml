@@ -1,5 +1,5 @@
 -
-    ch: ¦
+    ch: ''
     locode: 'ER ASM'
     name: Asmara
     namewodiacritics: Asmara
@@ -9,9 +9,9 @@
     date: '1307'
     iata: ''
     coordinates: '1520N 03856E'
-    remarks: '@Sub'
+    remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'ER ASA'
     name: Assab
     namewodiacritics: Assab
@@ -21,9 +21,9 @@
     date: '1307'
     iata: ''
     coordinates: '1300N 04244E'
-    remarks: '@Sub'
+    remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'ER MSW'
     name: 'Massawa (Mitsiwa)'
     namewodiacritics: 'Massawa (Mitsiwa)'
@@ -33,9 +33,9 @@
     date: '1307'
     iata: ''
     coordinates: '1536N 03927E'
-    remarks: '@Sub'
+    remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'ER TES'
     name: Tessenei
     namewodiacritics: Tessenei
@@ -45,4 +45,4 @@
     date: '1307'
     iata: ''
     coordinates: '1506N 03639E'
-    remarks: '@Sub@Coo'
+    remarks: ''

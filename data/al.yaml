@@ -24,6 +24,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'AL BQE'
+    name: Bulqizë
+    namewodiacritics: Bulqize
+    subdiv: '09'
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '4129N 02013E'
+    remarks: ''
+-
+    ch: ''
     locode: 'AL BUT'
     name: Butrint
     namewodiacritics: Butrint
@@ -121,14 +133,26 @@
 -
     ch: ''
     locode: 'AL KKU'
-    name: Kukes
+    name: Kukës
     namewodiacritics: Kukes
     subdiv: KU
     function: '--3--6--'
-    status: RQ
-    date: '0907'
+    status: RL
+    date: '1707'
     iata: ''
-    coordinates: '4204N 20251E'
+    coordinates: '4205N 02025E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AL LZE'
+    name: Lezhe
+    namewodiacritics: Lezhe
+    subdiv: LE
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4147N 01938E'
     remarks: ''
 -
     ch: ''
@@ -141,6 +165,42 @@
     date: '1301'
     iata: ''
     coordinates: '4056N 01942E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AL MBR'
+    name: Mbreshtan
+    namewodiacritics: Mbreshtan
+    subdiv: '01'
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '4042N 01952E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AL MIL'
+    name: Milot
+    namewodiacritics: Milot
+    subdiv: '08'
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '4140N 01943E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AL ROM'
+    name: 'Romano Port'
+    namewodiacritics: 'Romano Port'
+    subdiv: '02'
+    function: 1-3-----
+    status: RL
+    date: '1901'
+    iata: ''
+    coordinates: '4122N 01925E'
     remarks: ''
 -
     ch: ''
@@ -217,12 +277,24 @@
 -
     ch: ''
     locode: 'AL VOA'
-    name: Vlora
-    namewodiacritics: Vlora
-    subdiv: ''
+    name: Vlorë
+    namewodiacritics: Vlore
+    subdiv: VL
     function: 1-------
-    status: RQ
-    date: '8103'
+    status: RL
+    date: '1501'
     iata: ''
-    coordinates: ''
+    coordinates: '4028N 01929E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'AL VOR'
+    name: Vore
+    namewodiacritics: Vore
+    subdiv: TR
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '4123N 01939E'
     remarks: ''

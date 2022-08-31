@@ -12,7 +12,6 @@ use Doctrine\Common\Cache\Cache;
  */
 class CachedReader implements ReaderInterface
 {
-
     /**
      * @var Object $cache doctrine cache if provided
      */
@@ -55,7 +54,7 @@ class CachedReader implements ReaderInterface
 
         $data = $this->read($path, $country);
 
-        foreach($data as $entry) {
+        foreach ($data as $entry) {
             if ($entry[$field] == $value) {
                 return $entry;
             }
@@ -70,7 +69,8 @@ class CachedReader implements ReaderInterface
      * @param string $key
      * @return array
      */
-    protected function getCache($key) {
+    protected function getCache($key)
+    {
         if (null === $this->cache) {
             return null;
         }
@@ -89,7 +89,8 @@ class CachedReader implements ReaderInterface
      * @throws \RuntimeException thrown if data could not be saved to cache
      * @return array
      */
-    protected function saveCache($key, array $data) {
+    protected function saveCache($key, array $data)
+    {
         if (null === $this->cache) {
             return $data;
         }
@@ -100,5 +101,4 @@ class CachedReader implements ReaderInterface
 
         return $data;
     }
-
 }

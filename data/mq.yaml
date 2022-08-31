@@ -1,14 +1,26 @@
 -
     ch: ''
     locode: 'MQ BFT'
-    name: Bellefonaine
-    namewodiacritics: Bellefonaine
+    name: Bellefontaine
+    namewodiacritics: Bellefontaine
     subdiv: ''
     function: '--3-----'
     status: RL
-    date: '1301'
+    date: '2107'
     iata: ''
-    coordinates: '1440N 06109E'
+    coordinates: '1440N 06109W'
+    remarks: ''
+-
+    ch: +
+    locode: 'MQ WF3'
+    name: Case-Pilote
+    namewodiacritics: Case-Pilote
+    subdiv: ''
+    function: 1-3-----
+    status: AA
+    date: '2201'
+    iata: ''
+    coordinates: '1438N 06108W'
     remarks: ''
 -
     ch: ''
@@ -24,15 +36,39 @@
     remarks: ''
 -
     ch: ''
+    locode: 'MQ FSD'
+    name: Fonds-Saint-Denis
+    namewodiacritics: Fonds-Saint-Denis
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '1444N 06108W'
+    remarks: ''
+-
+    ch: ''
     locode: 'MQ FDF'
     name: Fort-de-France
     namewodiacritics: Fort-de-France
     subdiv: ''
-    function: 1--45---
+    function: 1-345---
     status: AI
-    date: '9601'
+    date: '2101'
     iata: ''
-    coordinates: ''
+    coordinates: '1436N 06103W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MQ GME'
+    name: Gros-Morne
+    namewodiacritics: Gros-Morne
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '1442N 06100W'
     remarks: ''
 -
     ch: ''
@@ -48,15 +84,39 @@
     remarks: ''
 -
     ch: ''
+    locode: 'MQ LEC'
+    name: 'Le Carbet'
+    namewodiacritics: 'Le Carbet'
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '1442N 06111W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MQ DMT'
+    name: 'Le Diamant'
+    namewodiacritics: 'Le Diamant'
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '1428N 06102W'
+    remarks: ''
+-
+    ch: ''
     locode: 'MQ LFR'
     name: 'Le François'
     namewodiacritics: 'Le Francois'
     subdiv: ''
     function: '-2--5---'
     status: RL
-    date: '0212'
+    date: '1907'
     iata: ''
-    coordinates: '1436N 06054W'
+    coordinates: '1437N 06053W'
     remarks: ''
 -
     ch: ''
@@ -64,14 +124,14 @@
     name: 'Le Lamentin'
     namewodiacritics: 'Le Lamentin'
     subdiv: ''
-    function: '-2--5---'
+    function: '--345---'
     status: RL
-    date: '0212'
+    date: '1901'
     iata: ''
     coordinates: '1436N 06100W'
     remarks: ''
 -
-    ch: +
+    ch: ''
     locode: 'MQ LLO'
     name: 'Le Lorrain'
     namewodiacritics: 'Le Lorrain'
@@ -83,16 +143,52 @@
     coordinates: '1450N 06104W'
     remarks: ''
 -
+    ch: +
+    locode: 'MQ PFI'
+    name: 'Le Marigot'
+    namewodiacritics: 'Le Marigot'
+    subdiv: ''
+    function: 1-3-----
+    status: AA
+    date: '2201'
+    iata: ''
+    coordinates: '1449N 06102W'
+    remarks: ''
+-
     ch: ''
     locode: 'MQ QMR'
     name: 'Le Marin'
     namewodiacritics: 'Le Marin'
     subdiv: ''
     function: '--3-----'
-    status: RQ
-    date: '1001'
+    status: RL
+    date: '1901'
     iata: ''
     coordinates: '1428N 06052W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MQ MRG'
+    name: 'Le Morne-Rouge'
+    namewodiacritics: 'Le Morne-Rouge'
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '1901'
+    iata: ''
+    coordinates: '1446N 06108W'
+    remarks: ''
+-
+    ch: +
+    locode: 'MQ SF4'
+    name: 'Le Precheur'
+    namewodiacritics: 'Le Precheur'
+    subdiv: ''
+    function: 1-3-----
+    status: AA
+    date: '2201'
+    iata: ''
+    coordinates: '1448N 06114W'
     remarks: ''
 -
     ch: ''
@@ -101,10 +197,46 @@
     namewodiacritics: 'Le Robert'
     subdiv: ''
     function: 1-3-----
-    status: RQ
-    date: '0907'
+    status: RL
+    date: '1901'
     iata: ''
     coordinates: '1440N 06056W'
+    remarks: ''
+-
+    ch: +
+    locode: 'MQ KF4'
+    name: 'Le Vauclin'
+    namewodiacritics: 'Le Vauclin'
+    subdiv: ''
+    function: 1-3-----
+    status: AA
+    date: '2201'
+    iata: ''
+    coordinates: '1433N 06051W'
+    remarks: ''
+-
+    ch: +
+    locode: 'MQ ADA'
+    name: 'Les Anses-d''Arlet'
+    namewodiacritics: 'Les Anses-d''Arlet'
+    subdiv: ''
+    function: 1-3-----
+    status: AA
+    date: '2201'
+    iata: ''
+    coordinates: '1429N 06105W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MQ LTI'
+    name: 'Les Trois-Îlets'
+    namewodiacritics: 'Les Trois-Ilets'
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '1432N 06102W'
     remarks: ''
 -
     ch: ''
@@ -121,29 +253,41 @@
 -
     ch: ''
     locode: 'MQ QPC'
-    name: 'Pointe Des Carrieres'
-    namewodiacritics: 'Pointe Des Carrieres'
+    name: 'Port de Fort-de-France Pt.'
+    namewodiacritics: 'Port de Fort-de-France Pt.'
     subdiv: ''
-    function: '--3-----'
-    status: RQ
-    date: '1001'
+    function: 1-3-----
+    status: RL
+    date: '1901'
     iata: ''
-    coordinates: '1435N 06103W'
+    coordinates: '1436N 06103W'
     remarks: ''
 -
     ch: ''
-    locode: 'MQ SPI'
-    name: 'Saint Pierre'
-    namewodiacritics: 'Saint Pierre'
+    locode: 'MQ RPT'
+    name: Rivière-Pilote
+    namewodiacritics: Riviere-Pilote
     subdiv: ''
-    function: 1-------
-    status: RQ
-    date: '1101'
+    function: '--3-----'
+    status: RL
+    date: '1801'
     iata: ''
-    coordinates: ''
+    coordinates: '1429N 06054W'
     remarks: ''
 -
-    ch: +
+    ch: ''
+    locode: 'MQ STA'
+    name: Sainte-Anne
+    namewodiacritics: Sainte-Anne
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '1426N 06053W'
+    remarks: ''
+-
+    ch: ''
     locode: 'MQ STM'
     name: Sainte-Marie
     namewodiacritics: Sainte-Marie
@@ -168,13 +312,25 @@
     remarks: ''
 -
     ch: ''
+    locode: 'MQ SPI'
+    name: Saint-Pierre
+    namewodiacritics: Saint-Pierre
+    subdiv: ''
+    function: 0-------
+    status: RL
+    date: '1901'
+    iata: ''
+    coordinates: '1445N 06110W'
+    remarks: ''
+-
+    ch: ''
     locode: 'MQ SHL'
     name: Schlcher
     namewodiacritics: Scholcher
     subdiv: ''
-    function: '-2--5---'
+    function: '----5---'
     status: RL
-    date: '0212'
+    date: '1901'
     iata: ''
     coordinates: '1436N 06106W'
     remarks: ''

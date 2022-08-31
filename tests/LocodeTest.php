@@ -1,7 +1,9 @@
 <?php
 
-namespace UN\Locode;
+namespace UN\Locode\Tests;
 
+use PHPUnit\Framework\TestCase;
+use UN\Locode\Locode;
 use UN\Locode\Reader\YamlReader;
 
 /**
@@ -9,9 +11,8 @@ use UN\Locode\Reader\YamlReader;
  * @package UN\Locode
  * @description Basic Locode Tests
  */
-class LocodeTest extends \PHPUnit_Framework_TestCase
+class LocodeTest extends TestCase
 {
-
     /**
      * @var Locode
      */
@@ -21,17 +22,9 @@ class LocodeTest extends \PHPUnit_Framework_TestCase
      * Sets up the fixture, for example, opens a network connection.
      * This method is called before a test is executed.
      */
-    protected function setUp()
+    protected function setUp(): void
     {
         $this->object = new Locode($GLOBALS['data_path'], new YamlReader());
-    }
-
-    /**
-     * Tears down the fixture, for example, closes a network connection.
-     * This method is called after a test is executed.
-     */
-    protected function tearDown()
-    {
     }
 
     /**
@@ -84,11 +77,10 @@ class LocodeTest extends \PHPUnit_Framework_TestCase
 
     /**
      * @covers {className}::{origMethodName}
-     * @expectedException \InvalidArgumentException
      */
     public function testGetByLocodeInvalidFormat()
     {
+        $this->expectException(\InvalidArgumentException::class);
         $this->object->getByLocode('EETLL');
     }
-
 }

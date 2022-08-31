@@ -24,6 +24,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'EC ATI'
+    name: Atuntaqui
+    namewodiacritics: Atuntaqui
+    subdiv: I
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '0020N 07813W'
+    remarks: ''
+-
+    ch: ''
     locode: 'EC BBA'
     name: Baba
     namewodiacritics: Baba
@@ -84,6 +96,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'EC BAS'
+    name: Banos
+    namewodiacritics: Banos
+    subdiv: T
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '0124S 07825W'
+    remarks: ''
+-
+    ch: ''
     locode: 'EC BLI'
     name: 'Bartolome Island'
     namewodiacritics: 'Bartolome Island'
@@ -131,7 +155,7 @@
     coordinates: '0015S 09122W'
     remarks: ''
 -
-    ch: +
+    ch: ''
     locode: 'EC CNT'
     name: Canuto
     namewodiacritics: Canuto
@@ -228,15 +252,39 @@
     remarks: ''
 -
     ch: ''
+    locode: 'EC CLE'
+    name: Clementina
+    namewodiacritics: Clementina
+    subdiv: R
+    function: '--3-----'
+    status: AM
+    date: '2107'
+    iata: ''
+    coordinates: '0147S 07928W'
+    remarks: ''
+-
+    ch: ''
     locode: 'EC OCC'
     name: Coca
     namewodiacritics: Coca
-    subdiv: N
+    subdiv: 'N'
     function: 1-34-6--
     status: RQ
     date: '0901'
     iata: ''
     coordinates: '0029S 07658W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'EC CMM'
+    name: 'Coronel Marcelino Mariduena'
+    namewodiacritics: 'Coronel Marcelino Mariduena'
+    subdiv: G
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '0212S 07925W'
     remarks: ''
 -
     ch: ''
@@ -261,6 +309,30 @@
     date: '1101'
     iata: ''
     coordinates: '0253S 07859W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'EC CHI'
+    name: Cumandá
+    namewodiacritics: Cumanda
+    subdiv: H
+    function: '--3-----'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '0212S 07908W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'EC CUA'
+    name: Cumbaya
+    namewodiacritics: Cumbaya
+    subdiv: P
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '0012S 07826W'
     remarks: ''
 -
     ch: ''
@@ -408,6 +480,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'EC GUO'
+    name: Gualaceo
+    namewodiacritics: Gualaceo
+    subdiv: A
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '0254S 07847W'
+    remarks: ''
+-
+    ch: ''
     locode: 'EC GNO'
     name: Guano
     namewodiacritics: Guano
@@ -444,6 +528,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'EC GBB'
+    name: Guayllabamba
+    namewodiacritics: Guayllabamba
+    subdiv: P
+    function: '--3-----'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '0030S 07820W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'EC HBL'
+    name: 'Hacienda Bolivia'
+    namewodiacritics: 'Hacienda Bolivia'
+    subdiv: P
+    function: '--3-----'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '0021S 07826W'
+    remarks: ''
+-
+    ch: ''
     locode: 'EC HGU'
     name: 'Hacienda Guayas'
     namewodiacritics: 'Hacienda Guayas'
@@ -468,6 +576,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'EC IBA'
+    name: Ibarra
+    namewodiacritics: Ibarra
+    subdiv: I
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '0021N 07807W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'EC IAR'
+    name: 'Isidro Ayora'
+    namewodiacritics: 'Isidro Ayora'
+    subdiv: G
+    function: '--3-----'
+    status: AM
+    date: '2107'
+    iata: ''
+    coordinates: '0153S 08010W'
+    remarks: ''
+-
+    ch: ''
     locode: 'EC WGL'
     name: 'Isle Baltra'
     namewodiacritics: 'Isle Baltra'
@@ -480,6 +612,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'EC JAO'
+    name: Jaramijó
+    namewodiacritics: Jaramijo
+    subdiv: M
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '0056S 08038W'
+    remarks: ''
+-
+    ch: ''
     locode: 'EC JIP'
     name: Jipijapa
     namewodiacritics: Jipijapa
@@ -489,6 +633,18 @@
     date: '0501'
     iata: ''
     coordinates: '0120S 08035W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'EC JQU'
+    name: Junquillal
+    namewodiacritics: Junquillal
+    subdiv: G
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0143S 07952W'
     remarks: ''
 -
     ch: ''
@@ -507,7 +663,7 @@
     locode: 'EC LJS'
     name: 'La Joya de los Sachas'
     namewodiacritics: 'La Joya de los Sachas'
-    subdiv: N
+    subdiv: 'N'
     function: '--3-----'
     status: RL
     date: '1301'
@@ -561,6 +717,18 @@
     date: '1301'
     iata: ''
     coordinates: '0224S 07920W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'EC LUN'
+    name: 'La Unión'
+    namewodiacritics: 'La Union'
+    subdiv: R
+    function: '--3-----'
+    status: RL
+    date: '1907'
+    iata: ''
+    coordinates: '0147S 07928W'
     remarks: ''
 -
     ch: ''
@@ -791,7 +959,7 @@
     coordinates: '0127S 07944W'
     remarks: ''
 -
-    ch: +
+    ch: ''
     locode: 'EC PTL'
     name: Palestina
     namewodiacritics: Palestina
@@ -804,18 +972,6 @@
     remarks: ''
 -
     ch: ''
-    locode: 'EC PAS'
-    name: Pasaje
-    namewodiacritics: Pasaje
-    subdiv: G
-    function: '--3-----'
-    status: RL
-    date: '1301'
-    iata: ''
-    coordinates: '0111S 07955W'
-    remarks: ''
--
-    ch: ''
     locode: 'EC PJE'
     name: Pasaje
     namewodiacritics: Pasaje
@@ -825,6 +981,18 @@
     date: '1301'
     iata: ''
     coordinates: '0320S 07949W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'EC PAS'
+    name: Pasaje
+    namewodiacritics: Pasaje
+    subdiv: G
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '0111S 07955W'
     remarks: ''
 -
     ch: ''
@@ -849,6 +1017,18 @@
     date: '0901'
     iata: ''
     coordinates: '0200S 07700W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'EC PPI'
+    name: 'Patricia Pilar'
+    namewodiacritics: 'Patricia Pilar'
+    subdiv: R
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '0034S 07921W'
     remarks: ''
 -
     ch: ''
@@ -900,6 +1080,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'EC PIF'
+    name: Pifo
+    namewodiacritics: Pifo
+    subdiv: P
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0014S 07820W'
+    remarks: ''
+-
+    ch: ''
     locode: 'EC PIN'
     name: Piñas
     namewodiacritics: Pinas
@@ -909,6 +1101,30 @@
     date: '1201'
     iata: ''
     coordinates: '0340N 07939W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'EC PYS'
+    name: Playas
+    namewodiacritics: Playas
+    subdiv: G
+    function: '--3--6--'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '0238S 08023W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'EC PVL'
+    name: Portovelo
+    namewodiacritics: Portovelo
+    subdiv: O
+    function: '--3-----'
+    status: AM
+    date: '2007'
+    iata: ''
+    coordinates: '0343S 07937W'
     remarks: ''
 -
     ch: ''
@@ -928,9 +1144,9 @@
     name: Posorja
     namewodiacritics: Posorja
     subdiv: G
-    function: '--3--6--'
+    function: 1-3--6--
     status: RL
-    date: '0501'
+    date: '2001'
     iata: ''
     coordinates: '0242S 08015W'
     remarks: ''
@@ -957,6 +1173,18 @@
     date: '1301'
     iata: ''
     coordinates: '0047S 07951W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'EC PUE'
+    name: Puebloviejo
+    namewodiacritics: Puebloviejo
+    subdiv: R
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '0133S 07932W'
     remarks: ''
 -
     ch: ''
@@ -1083,7 +1311,7 @@
     locode: 'EC PUY'
     name: Puyo
     namewodiacritics: Puyo
-    subdiv: Y
+    subdiv: 'Y'
     function: '-----6--'
     status: RL
     date: '1201'
@@ -1125,6 +1353,18 @@
     date: '0901'
     iata: ''
     coordinates: '0020N 07928W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'EC QSA'
+    name: Quinsaloma
+    namewodiacritics: Quinsaloma
+    subdiv: R
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '0112S 07918W'
     remarks: ''
 -
     ch: ''
@@ -1212,6 +1452,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'EC SCS'
+    name: 'San Carlos'
+    namewodiacritics: 'San Carlos'
+    subdiv: P
+    function: '--3-----'
+    status: RL
+    date: '1907'
+    iata: ''
+    coordinates: '0030S 07846W'
+    remarks: ''
+-
+    ch: ''
     locode: 'EC SCY'
     name: 'San Cristóbal'
     namewodiacritics: 'San Cristobal'
@@ -1248,6 +1500,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'EC SAI'
+    name: Sangolquí
+    namewodiacritics: Sangolqui
+    subdiv: P
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '0019S 07827W'
+    remarks: ''
+-
+    ch: ''
     locode: 'EC WSE'
     name: 'Santa Cecillia'
     namewodiacritics: 'Santa Cecillia'
@@ -1257,6 +1521,18 @@
     date: '0901'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'EC SEL'
+    name: 'Santa Elena'
+    namewodiacritics: 'Santa Elena'
+    subdiv: SE
+    function: '-23-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '0213S 08051W'
     remarks: ''
 -
     ch: ''
@@ -1271,11 +1547,11 @@
     coordinates: '0327S 07958W'
     remarks: ''
 -
-    ch: +
+    ch: ''
     locode: 'EC SGO'
     name: 'Santo Domingo'
     namewodiacritics: 'Santo Domingo'
-    subdiv: ''
+    subdiv: SD
     function: '-23-----'
     status: RL
     date: '1307'
@@ -1332,6 +1608,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'EC TAB'
+    name: Tabacundo
+    namewodiacritics: Tabacundo
+    subdiv: P
+    function: '--3-----'
+    status: AM
+    date: '2007'
+    iata: ''
+    coordinates: '0030N 07812W'
+    remarks: ''
+-
+    ch: ''
     locode: 'EC TSC'
     name: Taisha
     namewodiacritics: Taisha
@@ -1359,7 +1647,7 @@
     locode: 'EC TEN'
     name: Tena
     namewodiacritics: Tena
-    subdiv: N
+    subdiv: 'N'
     function: '-----6--'
     status: RL
     date: '1201'
@@ -1403,7 +1691,7 @@
     coordinates: '0042S 07620W'
     remarks: ''
 -
-    ch: +
+    ch: ''
     locode: 'EC TSL'
     name: Tisaleo
     namewodiacritics: Tisaleo
@@ -1425,6 +1713,42 @@
     date: '0901'
     iata: ''
     coordinates: '0048N 07742W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'EC TUO'
+    name: Tumbaco
+    namewodiacritics: Tumbaco
+    subdiv: P
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '0013S 07824W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'EC TDM'
+    name: Tundayme
+    namewodiacritics: Tundayme
+    subdiv: Z
+    function: '--3-----'
+    status: RL
+    date: '1907'
+    iata: ''
+    coordinates: '0334S 07829W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'EC VLC'
+    name: Valencia
+    namewodiacritics: Valencia
+    subdiv: R
+    function: '-23-----'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '0057S 07920W'
     remarks: ''
 -
     ch: ''
@@ -1485,6 +1809,18 @@
     date: '1301'
     iata: ''
     coordinates: '0133S 07944W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'EC VFT'
+    name: 'Virgen de Fatima'
+    namewodiacritics: 'Virgen de Fatima'
+    subdiv: G
+    function: '--34----'
+    status: AM
+    date: '2101'
+    iata: ''
+    coordinates: '0215S 07938W'
     remarks: ''
 -
     ch: ''

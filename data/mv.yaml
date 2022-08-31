@@ -11,17 +11,53 @@
     coordinates: ''
     remarks: ''
 -
-    ch: ¦
+    ch: ''
+    locode: 'MV BAL'
+    name: 'Baa Atoll'
+    namewodiacritics: 'Baa Atoll'
+    subdiv: 'NO'
+    function: 1-------
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '0508N 07257E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MV CPP'
+    name: 'Coastline Private Port'
+    namewodiacritics: 'Coastline Private Port'
+    subdiv: MLE
+    function: 1-------
+    status: AA
+    date: '1807'
+    iata: ''
+    coordinates: '0410N 07327E'
+    remarks: ''
+-
+    ch: ''
     locode: 'MV GAN'
     name: Gan
     namewodiacritics: Gan
-    subdiv: ''
+    subdiv: SU
     function: '---4----'
     status: AI
     date: '1307'
     iata: ''
     coordinates: '0042S 07309E'
-    remarks: '@Sub'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MV HID'
+    name: Halaveli
+    namewodiacritics: Halaveli
+    subdiv: NC
+    function: 1-------
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '0402N 07255E'
+    remarks: ''
 -
     ch: ''
     locode: 'MV HAQ'
@@ -35,29 +71,53 @@
     coordinates: ''
     remarks: ''
 -
-    ch: ¦
-    locode: 'MV HOO'
-    name: Hithadhoo
-    namewodiacritics: Hithadhoo
-    subdiv: ''
-    function: '-----6--'
-    status: RL
-    date: '1307'
-    iata: ''
-    coordinates: '0036S 07305E'
-    remarks: '@Sub'
--
-    ch: ¦
+    ch: ''
     locode: 'MV HDO'
     name: Hithadhoo
     namewodiacritics: Hithadhoo
-    subdiv: '28'
+    subdiv: SC
     function: '--3-----'
     status: RQ
     date: '1307'
     iata: ''
     coordinates: '0146N 07322E'
-    remarks: '@Sub'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MV HOO'
+    name: Hithadhoo
+    namewodiacritics: Hithadhoo
+    subdiv: SU
+    function: '-----6--'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '0036S 07305E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MV HTP'
+    name: 'Hithadhoo Port'
+    namewodiacritics: 'Hithadhoo Port'
+    subdiv: '01'
+    function: 1-------
+    status: AA
+    date: '1807'
+    iata: ''
+    coordinates: '0038S 07306E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MV HHE'
+    name: 'Hulhulé Island'
+    namewodiacritics: 'Hulhule Island'
+    subdiv: MLE
+    function: 1-------
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '0411N 07331E'
+    remarks: ''
 -
     ch: ''
     locode: 'MV KDM'
@@ -83,19 +143,79 @@
     coordinates: ''
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'MV KEL'
     name: Kelai
     namewodiacritics: Kelai
-    subdiv: ''
+    subdiv: UN
     function: 1-------
     status: RQ
     date: '1307'
     iata: ''
     coordinates: ''
-    remarks: '@Sub'
+    remarks: ''
 -
-    ch: ¦
+    ch: ''
+    locode: 'MV KFP'
+    name: 'Koodoo Fisheries'
+    namewodiacritics: 'Koodoo Fisheries'
+    subdiv: '27'
+    function: 1-------
+    status: AA
+    date: '1807'
+    iata: ''
+    coordinates: '0044N 07326E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MV KUL'
+    name: Kulhudhuffushi
+    namewodiacritics: Kulhudhuffushi
+    subdiv: '23'
+    function: 1-3-----
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '0637N 07303E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MV KDP'
+    name: 'Kulhudhuffushi Port'
+    namewodiacritics: 'Kulhudhuffushi Port'
+    subdiv: '23'
+    function: 1-------
+    status: AA
+    date: '1807'
+    iata: ''
+    coordinates: '0637N 07304E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MV MMP'
+    name: 'Maamigili Port'
+    namewodiacritics: 'Maamigili Port'
+    subdiv: '00'
+    function: 1-------
+    status: AA
+    date: '1807'
+    iata: ''
+    coordinates: '0328N 07250E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MV MGP'
+    name: 'Maldive Gas'
+    namewodiacritics: 'Maldive Gas'
+    subdiv: MLE
+    function: 1-------
+    status: AA
+    date: '1807'
+    iata: ''
+    coordinates: '0411N 07327E'
+    remarks: ''
+-
+    ch: ''
     locode: 'MV MLE'
     name: Male
     namewodiacritics: Male
@@ -105,16 +225,52 @@
     date: '1307'
     iata: ''
     coordinates: '0410N 07330E'
-    remarks: '@Sub'
+    remarks: ''
 -
-    ch: ¦
+    ch: ''
+    locode: 'MV MCP'
+    name: 'Male'' Commercial Harbor'
+    namewodiacritics: 'Male'' Commercial Harbor'
+    subdiv: MLE
+    function: 1-------
+    status: AA
+    date: '1807'
+    iata: ''
+    coordinates: '0410N 07330E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MV RGI'
+    name: Rangali
+    namewodiacritics: Rangali
+    subdiv: NC
+    function: 1-------
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '0336N 07242E'
+    remarks: ''
+-
+    ch: ''
     locode: 'MV VGI'
     name: Viligili
     namewodiacritics: Viligili
-    subdiv: '13'
+    subdiv: US
     function: '--3-----'
     status: RQ
     date: '1307'
     iata: ''
     coordinates: '0045N 07322E'
-    remarks: '@Sub'
+    remarks: ''
+-
+    ch: ''
+    locode: 'MV VHP'
+    name: 'Villa Hakatha'
+    namewodiacritics: 'Villa Hakatha'
+    subdiv: MLE
+    function: 1-------
+    status: AA
+    date: '1807'
+    iata: ''
+    coordinates: '0411N 07326E'
+    remarks: ''

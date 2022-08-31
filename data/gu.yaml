@@ -60,6 +60,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'GU HGT'
+    name: Hagatna
+    namewodiacritics: Hagatna
+    subdiv: ''
+    function: '--3-----'
+    status: AA
+    date: '1601'
+    iata: ''
+    coordinates: '1328N 14444E'
+    remarks: ''
+-
+    ch: ''
     locode: 'GU INA'
     name: Inarajan
     namewodiacritics: Inarajan
@@ -72,6 +84,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'GU GUA'
+    name: Mongmong-Toto-Maite
+    namewodiacritics: Mongmong-Toto-Maite
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '1328N 14446E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GU PIT'
+    name: Piti
+    namewodiacritics: Piti
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '1707'
+    iata: ''
+    coordinates: '1326N 14441E'
+    remarks: ''
+-
+    ch: ''
     locode: 'GU SAN'
     name: 'Santa Rita'
     namewodiacritics: 'Santa Rita'
@@ -81,4 +117,52 @@
     date: '0901'
     iata: ''
     coordinates: '1323N 14440W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GU SJA'
+    name: Sinajana
+    namewodiacritics: Sinajana
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '1327N 14445E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GU TMG'
+    name: Tamuning
+    namewodiacritics: Tamuning
+    subdiv: ''
+    function: '--3-----'
+    status: AA
+    date: '1601'
+    iata: ''
+    coordinates: '1329N 14446E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GU TMN'
+    name: Tumon
+    namewodiacritics: Tumon
+    subdiv: ''
+    function: '--3-----'
+    status: AA
+    date: '1601'
+    iata: ''
+    coordinates: '1330N 14448E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GU YGO'
+    name: Yigo
+    namewodiacritics: Yigo
+    subdiv: ''
+    function: '--34----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '1332N 14453E'
     remarks: ''

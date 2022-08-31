@@ -60,18 +60,6 @@
     remarks: ''
 -
     ch: ''
-    locode: 'GY BAR'
-    name: Bartica
-    namewodiacritics: Bartica
-    subdiv: UD
-    function: '-----6--'
-    status: RL
-    date: '1107'
-    iata: ''
-    coordinates: '0547N 05738W'
-    remarks: ''
--
-    ch: ''
     locode: 'GY GFO'
     name: Bartica
     namewodiacritics: Bartica
@@ -81,6 +69,18 @@
     date: '9506'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'GY BAR'
+    name: Bartica
+    namewodiacritics: Bartica
+    subdiv: UD
+    function: '-----6--'
+    status: RL
+    date: '1107'
+    iata: ''
+    coordinates: '0547N 05738W'
     remarks: ''
 -
     ch: ''
@@ -105,6 +105,30 @@
     date: '1101'
     iata: ''
     coordinates: '0649N 05809W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GY CAY'
+    name: Cayenne
+    namewodiacritics: Cayenne
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '0456N 05219W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GY DMD'
+    name: Diamond
+    namewodiacritics: Diamond
+    subdiv: ES
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '0643N 05811W'
     remarks: ''
 -
     ch: ''
@@ -438,7 +462,7 @@
     subdiv: ''
     function: '---4----'
     status: AI
-    date: '0001'
+    date: '2101'
     iata: ''
     coordinates: ''
     remarks: ''

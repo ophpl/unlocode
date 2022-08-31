@@ -1,5 +1,5 @@
 -
-    ch: +
+    ch: ''
     locode: 'PE AB4'
     name: Abancay
     namewodiacritics: Abancay
@@ -12,6 +12,54 @@
     remarks: ''
 -
     ch: ''
+    locode: 'PE ACA'
+    name: Acarí
+    namewodiacritics: Acari
+    subdiv: ARE
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '1525S 07436W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PE ACB'
+    name: Acobamba
+    namewodiacritics: Acobamba
+    subdiv: HUV
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '1250S 07434W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PE ACO'
+    name: Acomayo
+    namewodiacritics: Acomayo
+    subdiv: CUS
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '1355S 07140W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PE AIJ'
+    name: Aija
+    namewodiacritics: Aija
+    subdiv: ANC
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0946S 07738W'
+    remarks: ''
+-
+    ch: ''
     locode: 'PE ALD'
     name: Alerta
     namewodiacritics: Alerta
@@ -21,6 +69,18 @@
     date: '0001'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PE HAN'
+    name: Ambo
+    namewodiacritics: Ambo
+    subdiv: HUC
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '1008S 07612W'
     remarks: ''
 -
     ch: ''
@@ -72,6 +132,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'PE ANT'
+    name: Antabamba
+    namewodiacritics: Antabamba
+    subdiv: APU
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '1422S 07253W'
+    remarks: ''
+-
+    ch: ''
     locode: 'PE AQP'
     name: Arequipa
     namewodiacritics: Arequipa
@@ -96,6 +168,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'PE ATY'
+    name: Atalaya
+    namewodiacritics: Atalaya
+    subdiv: UCA
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '1044S 07345W'
+    remarks: ''
+-
+    ch: ''
     locode: 'PE ATI'
     name: Atico
     namewodiacritics: Atico
@@ -117,6 +201,30 @@
     date: '9601'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PE AZA'
+    name: Azángaro
+    namewodiacritics: Azangaro
+    subdiv: PUN
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '1454S 07011W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PE BAG'
+    name: Bagua
+    namewodiacritics: Bagua
+    subdiv: AMA
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0538S 07832W'
     remarks: ''
 -
     ch: ''
@@ -180,6 +288,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'PE CAJ'
+    name: Cajabamba
+    namewodiacritics: Cajabamba
+    subdiv: CAJ
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0737S 07802W'
+    remarks: ''
+-
+    ch: ''
     locode: 'PE CJA'
     name: Cajamarca
     namewodiacritics: Cajamarca
@@ -192,6 +312,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'PE CJT'
+    name: Cajatambo
+    namewodiacritics: Cajatambo
+    subdiv: LIM
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '1029S 07702W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PE CAC'
+    name: Calca
+    namewodiacritics: Calca
+    subdiv: CUS
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '1319S 07157W'
+    remarks: ''
+-
+    ch: ''
     locode: 'PE CLL'
     name: Callao
     namewodiacritics: Callao
@@ -201,6 +345,66 @@
     date: '9401'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PE CND'
+    name: Candarave
+    namewodiacritics: Candarave
+    subdiv: TAC
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '1716S 07015W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PE CAN'
+    name: Cangallo
+    namewodiacritics: Cangallo
+    subdiv: AYA
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '1337S 07408W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PE CTA'
+    name: Canta
+    namewodiacritics: Canta
+    subdiv: LIM
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '1128S 07637W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PE L8M'
+    name: Carabayllo
+    namewodiacritics: Carabayllo
+    subdiv: LIM
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '1151S 07702W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PE CHZ'
+    name: Carhuaz
+    namewodiacritics: Carhuaz
+    subdiv: ANC
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '0916S 07738W'
     remarks: ''
 -
     ch: ''
@@ -225,6 +429,30 @@
     date: '0501'
     iata: ''
     coordinates: '0928S 07819W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PE CTY'
+    name: Castrovirreyna
+    namewodiacritics: Castrovirreyna
+    subdiv: HUV
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '1316S 07519W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PE CEL'
+    name: Celendín
+    namewodiacritics: Celendin
+    subdiv: CAJ
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0651S 07808W'
     remarks: ''
 -
     ch: ''
@@ -300,6 +528,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'PE CHE'
+    name: Chepen
+    namewodiacritics: Chepen
+    subdiv: LAL
+    function: '-23-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '0713S 07927W'
+    remarks: ''
+-
+    ch: ''
     locode: 'PE CIX'
     name: Chiclayo
     namewodiacritics: Chiclayo
@@ -360,6 +600,102 @@
     remarks: ''
 -
     ch: ''
+    locode: 'PE CHS'
+    name: Chincheros
+    namewodiacritics: Chincheros
+    subdiv: APU
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '1331S 07343W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PE CHO'
+    name: Chorillos
+    namewodiacritics: Chorillos
+    subdiv: LIM
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '1210S 07702W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PE CHT'
+    name: Chota
+    namewodiacritics: Chota
+    subdiv: CAJ
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0633S 07838W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PE CHC'
+    name: Chucuito
+    namewodiacritics: Chucuito
+    subdiv: PUN
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '1553S 06953W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PE CUP'
+    name: Chupaca
+    namewodiacritics: Chupaca
+    subdiv: JUN
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '1203S 07517W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PE CHP'
+    name: Churcampa
+    namewodiacritics: Churcampa
+    subdiv: HUV
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '1244S 07423W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PE COM'
+    name: Comas
+    namewodiacritics: Comas
+    subdiv: LIM
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '1157S 07704W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PE CCP'
+    name: Concepción
+    namewodiacritics: Concepcion
+    subdiv: JUN
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '1155S 07518W'
+    remarks: ''
+-
+    ch: ''
     locode: 'PE CON'
     name: Conchán
     namewodiacritics: Conchan
@@ -369,6 +705,18 @@
     date: '0701'
     iata: ''
     coordinates: '0625S 07840W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PE COZ'
+    name: Contumazá
+    namewodiacritics: Contumaza
+    subdiv: CAJ
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0721S 07848W'
     remarks: ''
 -
     ch: ''
@@ -384,6 +732,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'PE COR'
+    name: Corongo
+    namewodiacritics: Corongo
+    subdiv: ANC
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0835S 07755W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PE CUT'
+    name: Cutervo
+    namewodiacritics: Cutervo
+    subdiv: CAJ
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0622S 07849W'
+    remarks: ''
+-
+    ch: ''
     locode: 'PE CUZ'
     name: Cuzco
     namewodiacritics: Cuzco
@@ -393,6 +765,18 @@
     date: '1101'
     iata: ''
     coordinates: '1332S 07159W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PE DES'
+    name: Desaguadero
+    namewodiacritics: Desaguadero
+    subdiv: PUN
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '1634S 06903W'
     remarks: ''
 -
     ch: ''
@@ -408,6 +792,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'PE FER'
+    name: Ferreñafe
+    namewodiacritics: Ferrenafe
+    subdiv: LAM
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0643S 07946W'
+    remarks: ''
+-
+    ch: ''
     locode: 'PE GSM'
     name: 'General San Martin'
     namewodiacritics: 'General San Martin'
@@ -420,6 +816,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'PE GDP'
+    name: Guadalupe
+    namewodiacritics: Guadalupe
+    subdiv: LAL
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '0715S 07929W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PE HYB'
+    name: Huacaybamba
+    namewodiacritics: Huacaybamba
+    subdiv: HUC
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0902S 07657W'
+    remarks: ''
+-
+    ch: ''
     locode: 'PE HCO'
     name: Huacho
     namewodiacritics: Huacho
@@ -429,6 +849,42 @@
     date: '9401'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PE HSA'
+    name: 'Huanca Sancos'
+    namewodiacritics: 'Huanca Sancos'
+    subdiv: AYA
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '1346S 07419W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PE HCB'
+    name: Huancabamba
+    namewodiacritics: Huancabamba
+    subdiv: PIU
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0514S 07926W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PE HNC'
+    name: Huancané
+    namewodiacritics: Huancane
+    subdiv: PUN
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '1512S 06945W'
     remarks: ''
 -
     ch: ''
@@ -453,6 +909,18 @@
     date: '1301'
     iata: ''
     coordinates: '1204S 07514W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PE HNT'
+    name: Huanta
+    namewodiacritics: Huanta
+    subdiv: AYA
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '1256S 07414W'
     remarks: ''
 -
     ch: ''
@@ -492,6 +960,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'PE HUI'
+    name: Huari
+    namewodiacritics: Huari
+    subdiv: ANC
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0922S 07714W'
+    remarks: ''
+-
+    ch: ''
     locode: 'PE HUY'
     name: Huarmey
     namewodiacritics: Huarmey
@@ -501,6 +981,18 @@
     date: '8103'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PE HYT'
+    name: Huaytará
+    namewodiacritics: Huaytara
+    subdiv: HUV
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '1336S 07521W'
     remarks: ''
 -
     ch: ''
@@ -599,7 +1091,19 @@
     coordinates: ''
     remarks: ''
 -
-    ch: +
+    ch: ''
+    locode: 'PE JUN'
+    name: Junín
+    namewodiacritics: Junin
+    subdiv: JUN
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '1109S 07559W'
+    remarks: ''
+-
+    ch: ''
     locode: 'PE LMC'
     name: 'La Merced'
     namewodiacritics: 'La Merced'
@@ -609,6 +1113,18 @@
     date: '1307'
     iata: ''
     coordinates: '1103S 07520W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PE LAM'
+    name: 'La Molina'
+    namewodiacritics: 'La Molina'
+    subdiv: LIM
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '1205S 07657W'
     remarks: ''
 -
     ch: ''
@@ -672,6 +1188,42 @@
     remarks: ''
 -
     ch: ''
+    locode: 'PE LBQ'
+    name: Lambayeque
+    namewodiacritics: Lambayeque
+    subdiv: LAM
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '0642S 07954W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PE LMP'
+    name: Lampa
+    namewodiacritics: Lampa
+    subdiv: PUN
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '1521S 07021W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PE LCH'
+    name: Lauricocha
+    namewodiacritics: Lauricocha
+    subdiv: HUC
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '1019S 07640W'
+    remarks: ''
+-
+    ch: ''
     locode: 'PE LIM'
     name: Lima
     namewodiacritics: Lima
@@ -731,7 +1283,7 @@
     coordinates: '0411S 08107W'
     remarks: ''
 -
-    ch: +
+    ch: ''
     locode: 'PE LUR'
     name: Lurín
     namewodiacritics: Lurin
@@ -792,6 +1344,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'PE MAR'
+    name: Mara
+    namewodiacritics: Mara
+    subdiv: CUS
+    function: '--3-----'
+    status: RL
+    date: '1707'
+    iata: ''
+    coordinates: '1319S 07209W'
+    remarks: ''
+-
+    ch: ''
     locode: 'PE MRI'
     name: Matarani
     namewodiacritics: Matarani
@@ -801,6 +1365,18 @@
     date: '9401'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PE MOH'
+    name: Moho
+    namewodiacritics: Moho
+    subdiv: PUN
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '1521S 06929W'
     remarks: ''
 -
     ch: ''
@@ -839,7 +1415,7 @@
     coordinates: '1711S 07056W'
     remarks: ''
 -
-    ch: +
+    ch: ''
     locode: 'PE MRL'
     name: Morales
     namewodiacritics: Morales
@@ -849,18 +1425,6 @@
     date: '1307'
     iata: ''
     coordinates: '0628S 07628W'
-    remarks: ''
--
-    ch: ''
-    locode: 'PE MBA'
-    name: Moyobamba
-    namewodiacritics: Moyobamba
-    subdiv: AYA
-    function: '--3-----'
-    status: RL
-    date: '0907'
-    iata: ''
-    coordinates: '1423S 07354W'
     remarks: ''
 -
     ch: ''
@@ -876,6 +1440,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'PE MBA'
+    name: Moyobamba
+    namewodiacritics: Moyobamba
+    subdiv: AYA
+    function: '--3-----'
+    status: RL
+    date: '0907'
+    iata: ''
+    coordinates: '1423S 07354W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PE NS8'
+    name: Nasca
+    namewodiacritics: Nasca
+    subdiv: ICA
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '1449S 07456W'
+    remarks: ''
+-
+    ch: ''
     locode: 'PE NGS'
     name: Negritos
     namewodiacritics: Negritos
@@ -887,7 +1475,19 @@
     coordinates: ''
     remarks: ''
 -
-    ch: ¦
+    ch: ''
+    locode: 'PE OCR'
+    name: Ocros
+    namewodiacritics: Ocros
+    subdiv: ANC
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '1024S 07723W'
+    remarks: ''
+-
+    ch: ''
     locode: 'PE OLM'
     name: Olmos
     namewodiacritics: Olmos
@@ -897,7 +1497,7 @@
     date: '1307'
     iata: ''
     coordinates: '0559S 07944W'
-    remarks: '@Sub'
+    remarks: ''
 -
     ch: ''
     locode: 'PE OQU'
@@ -909,6 +1509,30 @@
     date: '0501'
     iata: ''
     coordinates: '1158S 07708W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PE OTU'
+    name: Otuzco
+    namewodiacritics: Otuzco
+    subdiv: LAL
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0754S 07835W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PE OYO'
+    name: Oyon
+    namewodiacritics: Oyon
+    subdiv: LIM
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '1040S 07646W'
     remarks: ''
 -
     ch: ''
@@ -924,6 +1548,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'PE PCM'
+    name: Pachacamac
+    namewodiacritics: Pachacamac
+    subdiv: LIM
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '1214S 07653W'
+    remarks: ''
+-
+    ch: ''
     locode: 'PE PAI'
     name: Paita
     namewodiacritics: Paita
@@ -933,6 +1569,18 @@
     date: '9401'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PE PAP'
+    name: Palpa
+    namewodiacritics: Palpa
+    subdiv: ICA
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '1432S 07511W'
     remarks: ''
 -
     ch: ''
@@ -948,6 +1596,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'PE PRC'
+    name: Paracas
+    namewodiacritics: Paracas
+    subdiv: ICA
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '1352S 07616W'
+    remarks: ''
+-
+    ch: ''
     locode: 'PE PAM'
     name: Paramonga
     namewodiacritics: Paramonga
@@ -957,6 +1617,30 @@
     date: '9506'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PE PAO'
+    name: Paruro
+    namewodiacritics: Paruro
+    subdiv: CUS
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '1345S 07150W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PE PAU'
+    name: Paucartambo
+    namewodiacritics: Paucartambo
+    subdiv: CUS
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '1318S 07135W'
     remarks: ''
 -
     ch: ''
@@ -996,6 +1680,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'PE POM'
+    name: Pomabamba
+    namewodiacritics: Pomabamba
+    subdiv: ANC
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0849S 07727W'
+    remarks: ''
+-
+    ch: ''
     locode: 'PE PCL'
     name: Pucallpa
     namewodiacritics: Pucallpa
@@ -1007,7 +1703,7 @@
     coordinates: ''
     remarks: ''
 -
-    ch: +
+    ch: ''
     locode: 'PE CXZ'
     name: 'Pueblo Libre'
     namewodiacritics: 'Pueblo Libre'
@@ -1017,6 +1713,18 @@
     date: '1307'
     iata: ''
     coordinates: '0831S 07707W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PE PPA'
+    name: 'Puente Piedra'
+    namewodiacritics: 'Puente Piedra'
+    subdiv: LIM
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '1152S 07703W'
     remarks: ''
 -
     ch: ''
@@ -1044,6 +1752,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'PE PIA'
+    name: 'Puerto Inca'
+    namewodiacritics: 'Puerto Inca'
+    subdiv: HUC
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0922S 07457W'
+    remarks: ''
+-
+    ch: ''
     locode: 'PE PEM'
     name: 'Puerto Maldonado'
     namewodiacritics: 'Puerto Maldonado'
@@ -1056,6 +1776,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'PE PUA'
+    name: Punchana
+    namewodiacritics: Punchana
+    subdiv: LOR
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '0343S 07314W'
+    remarks: ''
+-
+    ch: ''
     locode: 'PE PUN'
     name: Puno
     namewodiacritics: Puno
@@ -1065,6 +1797,18 @@
     date: '9401'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PE PHM'
+    name: 'Punta Hermosa'
+    namewodiacritics: 'Punta Hermosa'
+    subdiv: LIM
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '1220S 07649W'
     remarks: ''
 -
     ch: ''
@@ -1101,6 +1845,30 @@
     date: '0607'
     iata: ''
     coordinates: '1218S 07608W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PE REC'
+    name: Recuay
+    namewodiacritics: Recuay
+    subdiv: ANC
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0943S 07727W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PE REQ'
+    name: Requena
+    namewodiacritics: Requena
+    subdiv: LOR
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0503S 07351W'
     remarks: ''
 -
     ch: ''
@@ -1236,6 +2004,42 @@
     remarks: ''
 -
     ch: ''
+    locode: 'PE SNP'
+    name: 'San Pablo'
+    namewodiacritics: 'San Pablo'
+    subdiv: CAJ
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0706S 07849W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PE L9M'
+    name: 'San Vicente De Canete'
+    namewodiacritics: 'San Vicente De Canete'
+    subdiv: LIM
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '1305S 07624W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PE SDA'
+    name: Sandia
+    namewodiacritics: Sandia
+    subdiv: PUN
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '1414S 06926W'
+    remarks: ''
+-
+    ch: ''
     locode: 'PE SMG'
     name: 'Santa Maria'
     namewodiacritics: 'Santa Maria'
@@ -1245,6 +2049,18 @@
     date: '0001'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PE SDC'
+    name: 'Santiago de Chuco'
+    namewodiacritics: 'Santiago de Chuco'
+    subdiv: LAL
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0809S 07810W'
     remarks: ''
 -
     ch: ''
@@ -1260,6 +2076,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'PE SIP'
+    name: Satipo
+    namewodiacritics: Satipo
+    subdiv: JUN
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '1115S 07438W'
+    remarks: ''
+-
+    ch: ''
     locode: 'PE SYC'
     name: Shiringayoc
     namewodiacritics: Shiringayoc
@@ -1269,6 +2097,18 @@
     date: '0001'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PE SIH'
+    name: Sihuas
+    namewodiacritics: Sihuas
+    subdiv: ANC
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0833S 07737W'
     remarks: ''
 -
     ch: ''
@@ -1380,6 +2220,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'PE TAR'
+    name: Tarata
+    namewodiacritics: Tarata
+    subdiv: TAC
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '1728S 07001W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PE TRM'
+    name: Tarma
+    namewodiacritics: Tarma
+    subdiv: JUN
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '1125S 07541W'
+    remarks: ''
+-
+    ch: ''
     locode: 'PE TGI'
     name: 'Tingo María'
     namewodiacritics: 'Tingo Maria'
@@ -1389,6 +2253,18 @@
     date: '0212'
     iata: ''
     coordinates: '0918S 07559W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PE HCT'
+    name: Tocache
+    namewodiacritics: Tocache
+    subdiv: SAM
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '0811S 07630W'
     remarks: ''
 -
     ch: ''
@@ -1416,6 +2292,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'PE URU'
+    name: Urubamba
+    namewodiacritics: Urubamba
+    subdiv: CUS
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '1318S 07207W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PE VHN'
+    name: Vilcashuamán
+    namewodiacritics: Vilcashuaman
+    subdiv: AYA
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '1339S 07357W'
+    remarks: ''
+-
+    ch: ''
     locode: 'PE VES'
     name: 'Villa El Salvador'
     namewodiacritics: 'Villa El Salvador'
@@ -1440,6 +2340,42 @@
     remarks: ''
 -
     ch: ''
+    locode: 'PE YAY'
+    name: Yauyos
+    namewodiacritics: Yauyos
+    subdiv: LIM
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '1227S 07554W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PE YUN'
+    name: Yungay
+    namewodiacritics: Yungay
+    subdiv: ANC
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0908S 07744W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'PE YUG'
+    name: Yunguyo
+    namewodiacritics: Yunguyo
+    subdiv: PUN
+    function: '--3-----'
+    status: RQ
+    date: '1807'
+    iata: ''
+    coordinates: '1614S 06905W'
+    remarks: ''
+-
+    ch: ''
     locode: 'PE YMS'
     name: Yurimaguas
     namewodiacritics: Yurimaguas
@@ -1449,6 +2385,18 @@
     date: '9401'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'PE ZAR'
+    name: Zarumilla
+    namewodiacritics: Zarumilla
+    subdiv: TUM
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0330S 08016W'
     remarks: ''
 -
     ch: ''

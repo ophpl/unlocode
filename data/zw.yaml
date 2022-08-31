@@ -107,7 +107,7 @@
     coordinates: '1948S 03252E'
     remarks: ''
 -
-    ch: +
+    ch: ''
     locode: 'ZW Z45'
     name: Chinhoyi
     namewodiacritics: Chinhoyi
@@ -156,6 +156,42 @@
     remarks: ''
 -
     ch: ''
+    locode: 'ZW DW3'
+    name: Darwendale
+    namewodiacritics: Darwendale
+    subdiv: MW
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '1743S 03033E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZW FLU'
+    name: Filabusi
+    namewodiacritics: Filabusi
+    subdiv: MS
+    function: 1----6--
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '2032S 02917E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZW GDE'
+    name: Glendale
+    namewodiacritics: Glendale
+    subdiv: MC
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '1721S 03103E'
+    remarks: ''
+-
+    ch: ''
     locode: 'ZW GOK'
     name: Gokwe
     namewodiacritics: Gokwe
@@ -167,7 +203,7 @@
     coordinates: '1813S 02856E'
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'ZW GTS'
     name: Graniteside
     namewodiacritics: Graniteside
@@ -177,7 +213,19 @@
     date: '1307'
     iata: ''
     coordinates: '1751S 03103E'
-    remarks: '@Coo'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZW GUI'
+    name: Guruve
+    namewodiacritics: Guruve
+    subdiv: MC
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '1639S 03042E'
+    remarks: ''
 -
     ch: ''
     locode: 'ZW GTU'
@@ -191,7 +239,7 @@
     coordinates: '1939S 03110E'
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'ZW GWA'
     name: Gwanda
     namewodiacritics: Gwanda
@@ -201,7 +249,7 @@
     date: '1307'
     iata: ''
     coordinates: '2056S 02900E'
-    remarks: '@Sta@Coo'
+    remarks: ''
 -
     ch: ''
     locode: 'ZW GWE'
@@ -225,6 +273,18 @@
     date: '9501'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZW HUI'
+    name: Hauna
+    namewodiacritics: Hauna
+    subdiv: MA
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '1829S 03250E'
     remarks: ''
 -
     ch: ''
@@ -300,6 +360,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'ZW LI4'
+    name: Lalapansi
+    namewodiacritics: Lalapansi
+    subdiv: MI
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '1920S 03011E'
+    remarks: ''
+-
+    ch: ''
     locode: 'ZW MJW'
     name: Mahenye
     namewodiacritics: Mahenye
@@ -309,6 +381,18 @@
     date: '0001'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZW MAP'
+    name: Mapanzure
+    namewodiacritics: Mapanzure
+    subdiv: MV
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '2023S 03051E'
     remarks: ''
 -
     ch: ''
@@ -345,6 +429,30 @@
     date: '0001'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZW MZW'
+    name: Mazowe
+    namewodiacritics: Mazowe
+    subdiv: MC
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '1731S 03058E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZW MGU'
+    name: Mhangura
+    namewodiacritics: Mhangura
+    subdiv: MW
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '1654S 03009E'
     remarks: ''
 -
     ch: ''
@@ -396,6 +504,78 @@
     remarks: ''
 -
     ch: ''
+    locode: 'ZW NBD'
+    name: Nembudziya
+    namewodiacritics: Nembudziya
+    subdiv: MI
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '1741S 02901E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZW NGE'
+    name: Ngezi
+    namewodiacritics: Ngezi
+    subdiv: MI
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '2034S 03024E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZW NAG'
+    name: Norton
+    namewodiacritics: Norton
+    subdiv: MW
+    function: '-----6--'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '1753S 03042E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZW RSP'
+    name: Rusape
+    namewodiacritics: Rusape
+    subdiv: MA
+    function: 12------
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '1832S 03207E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZW ZMW'
+    name: Selous
+    namewodiacritics: Selous
+    subdiv: MW
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '1805S 03027E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZW VM8'
+    name: Shamva
+    namewodiacritics: Shamva
+    subdiv: MC
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '1718S 03134E'
+    remarks: ''
+-
+    ch: ''
     locode: 'ZW SGW'
     name: Shurugwi
     namewodiacritics: Shurugwi
@@ -441,6 +621,18 @@
     date: '9501'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'ZW ZMZ'
+    name: Zimbabwe
+    namewodiacritics: Zimbabwe
+    subdiv: MV
+    function: 1-3-----
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '2016S 03055E'
     remarks: ''
 -
     ch: ''

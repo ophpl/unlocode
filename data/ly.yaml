@@ -23,7 +23,7 @@
     coordinates: '3251N 01310E'
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'LY QGG'
     name: Ajdabiya
     namewodiacritics: Ajdabiya
@@ -33,7 +33,7 @@
     date: '1307'
     iata: ''
     coordinates: '3045N 02013E'
-    remarks: '@Sub'
+    remarks: ''
 -
     ch: ''
     locode: 'LY ABA'
@@ -135,10 +135,10 @@
     locode: 'LY AZT'
     name: 'Az Zintan'
     namewodiacritics: 'Az Zintan'
-    subdiv: YJ
+    subdiv: JG
     function: '--3-----'
     status: RL
-    date: '1107'
+    date: '1401'
     iata: ''
     coordinates: '3156N 01214E'
     remarks: ''
@@ -147,10 +147,10 @@
     locode: 'LY QBL'
     name: 'Bani Walid'
     namewodiacritics: 'Bani Walid'
-    subdiv: BW
+    subdiv: MI
     function: '--3-----'
     status: RL
-    date: '0907'
+    date: '1401'
     iata: ''
     coordinates: '3446N 01358E'
     remarks: ''
@@ -288,6 +288,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'LY JAZ'
+    name: Janzur
+    namewodiacritics: Janzur
+    subdiv: ZA
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '3249N 01300E'
+    remarks: ''
+-
+    ch: ''
     locode: 'LY KHM'
     name: Khoms
     namewodiacritics: Khoms
@@ -383,7 +395,7 @@
     coordinates: '3236N 01521E'
     remarks: ''
 -
-    ch: +
+    ch: ''
     locode: 'LY MIS'
     name: Misratah
     namewodiacritics: Misratah

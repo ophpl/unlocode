@@ -39,12 +39,24 @@
     locode: 'DO BQL'
     name: Barcequillo
     namewodiacritics: Barcequillo
-    subdiv: CR
+    subdiv: '21'
     function: 1-------
-    status: RQ
-    date: '0901'
+    status: RL
+    date: '1401'
     iata: ''
-    coordinates: ''
+    coordinates: '1826N 07002W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DO BAV'
+    name: Bavaro
+    namewodiacritics: Bavaro
+    subdiv: '18'
+    function: 1-------
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '1843S 06827W'
     remarks: ''
 -
     ch: ''
@@ -87,10 +99,10 @@
     locode: 'DO CDC'
     name: 'Casa de Campo'
     namewodiacritics: 'Casa de Campo'
-    subdiv: RO
+    subdiv: '12'
     function: 1-------
-    status: RQ
-    date: '0901'
+    status: RL
+    date: '1401'
     iata: ''
     coordinates: '1824N 06854W'
     remarks: ''
@@ -99,10 +111,10 @@
     locode: 'DO CAI'
     name: 'Catalina Island'
     namewodiacritics: 'Catalina Island'
-    subdiv: RO
+    subdiv: '12'
     function: 1-------
-    status: RQ
-    date: '0901'
+    status: RL
+    date: '1401'
     iata: ''
     coordinates: '1822N 06900W'
     remarks: ''
@@ -123,12 +135,12 @@
     locode: 'DO CAL'
     name: 'Cayo Levantado'
     namewodiacritics: 'Cayo Levantado'
-    subdiv: DU
+    subdiv: '20'
     function: 1-------
-    status: RQ
-    date: '0901'
+    status: RL
+    date: '1401'
     iata: ''
-    coordinates: '1910N 06917W'
+    coordinates: '1912N 06919W'
     remarks: ''
 -
     ch: ''
@@ -180,6 +192,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'DO EPI'
+    name: 'Ensanche Piantini'
+    namewodiacritics: 'Ensanche Piantini'
+    subdiv: '32'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '1828N 06957W'
+    remarks: ''
+-
+    ch: ''
     locode: 'DO ESP'
     name: Esperanza
     namewodiacritics: Esperanza
@@ -192,6 +216,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'DO GAZ'
+    name: 'Gaspar Hernandez'
+    namewodiacritics: 'Gaspar Hernandez'
+    subdiv: '09'
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '1937S 07017W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DO GYB'
+    name: Guayubín
+    namewodiacritics: Guayubin
+    subdiv: '15'
+    function: '-2------'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '1937S 07119W'
+    remarks: ''
+-
+    ch: ''
     locode: 'DO GRA'
     name: Guerra
     namewodiacritics: Guerra
@@ -201,6 +249,18 @@
     date: '1007'
     iata: ''
     coordinates: '1833N 06942W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DO GRB'
+    name: Gurabo
+    namewodiacritics: Gurabo
+    subdiv: '25'
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '1920S 07047W'
     remarks: ''
 -
     ch: ''
@@ -240,6 +300,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'DO HMR'
+    name: 'Hato Mayor del Rey'
+    namewodiacritics: 'Hato Mayor del Rey'
+    subdiv: '30'
+    function: '--3-----'
+    status: AM
+    date: '2007'
+    iata: ''
+    coordinates: '1846S 06915W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DO HAN'
+    name: 'Hato Nuevo'
+    namewodiacritics: 'Hato Nuevo'
+    subdiv: '29'
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '1847N 06943W'
+    remarks: ''
+-
+    ch: ''
     locode: 'DO JQB'
     name: Higuero
     namewodiacritics: Higuero
@@ -253,14 +337,14 @@
 -
     ch: ''
     locode: 'DO HIG'
-    name: Higuey
+    name: Higüey
     namewodiacritics: Higuey
-    subdiv: AZ
+    subdiv: '21'
     function: 1-------
-    status: RQ
-    date: '0901'
+    status: RL
+    date: '1401'
     iata: ''
-    coordinates: ''
+    coordinates: '1827N 07016W'
     remarks: ''
 -
     ch: ''
@@ -318,9 +402,9 @@
     subdiv: ''
     function: '------7-'
     status: RL
-    date: '0901'
+    date: '1707'
     iata: ''
-    coordinates: '1913N 70310W'
+    coordinates: '1913N 07031W'
     remarks: ''
 -
     ch: ''
@@ -432,6 +516,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'DO MTZ'
+    name: Matanza
+    namewodiacritics: Matanza
+    subdiv: '25'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '1924N 07040W'
+    remarks: ''
+-
+    ch: ''
     locode: 'DO MCA'
     name: Moca
     namewodiacritics: Moca
@@ -467,7 +563,7 @@
     coordinates: '1923N 06950W'
     remarks: ''
 -
-    ch: +
+    ch: ''
     locode: 'DO NEI'
     name: Neiba
     namewodiacritics: Neiba
@@ -537,6 +633,18 @@
     date: '1007'
     iata: ''
     coordinates: '1832N 07006W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DO PIA'
+    name: 'Piedra Blanca'
+    namewodiacritics: 'Piedra Blanca'
+    subdiv: '28'
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '1850S 07018W'
     remarks: ''
 -
     ch: ''
@@ -624,6 +732,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'DO PCN'
+    name: 'Punta Cana'
+    namewodiacritics: 'Punta Cana'
+    subdiv: '22'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '1848N 07134W'
+    remarks: ''
+-
+    ch: ''
     locode: 'DO PUJ'
     name: 'Punta Cana Apt'
     namewodiacritics: 'Punta Cana Apt'
@@ -707,7 +827,7 @@
     coordinates: ''
     remarks: ''
 -
-    ch: +
+    ch: ''
     locode: 'DO SFP'
     name: 'San Felipe'
     namewodiacritics: 'San Felipe'
@@ -864,6 +984,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'DO TDR'
+    name: Tamboril
+    namewodiacritics: Tamboril
+    subdiv: '25'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '1929N 07036W'
+    remarks: ''
+-
+    ch: ''
     locode: 'DO VAL'
     name: 'Villa Altagracia'
     namewodiacritics: 'Villa Altagracia'
@@ -897,4 +1029,16 @@
     date: '1007'
     iata: ''
     coordinates: '1833N 06954W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'DO VVA'
+    name: 'Villa Vásquez'
+    namewodiacritics: 'Villa Vasquez'
+    subdiv: '15'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '1945N 07127W'
     remarks: ''

@@ -72,6 +72,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'GH ASB'
+    name: Akosombo
+    namewodiacritics: Akosombo
+    subdiv: EP
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '0618N 00030E'
+    remarks: ''
+-
+    ch: ''
     locode: 'GH AMA'
     name: Amasaman
     namewodiacritics: Amasaman
@@ -132,6 +144,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'GH BEN'
+    name: Benin
+    namewodiacritics: Benin
+    subdiv: CP
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '0536N 00100W'
+    remarks: ''
+-
+    ch: ''
     locode: 'GH BKM'
     name: Berekum
     namewodiacritics: Berekum
@@ -165,6 +189,18 @@
     date: '1201'
     iata: ''
     coordinates: '1047N 00051W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GH NPU'
+    name: Buipe
+    namewodiacritics: Buipe
+    subdiv: NP
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '0847N 00132W'
     remarks: ''
 -
     ch: ''
@@ -237,6 +273,18 @@
     date: '1001'
     iata: ''
     coordinates: '0609N 00018W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GH KSA'
+    name: Kasoa
+    namewodiacritics: Kasoa
+    subdiv: CP
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '0531N 00028W'
     remarks: ''
 -
     ch: ''
@@ -336,6 +384,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'GH KAI'
+    name: Kumasi
+    namewodiacritics: Kumasi
+    subdiv: AH
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '0641N 00137W'
+    remarks: ''
+-
+    ch: ''
     locode: 'GH KMS'
     name: Kumasi
     namewodiacritics: Kumasi
@@ -357,6 +417,30 @@
     date: '0607'
     iata: ''
     coordinates: '0654N 00116W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GH KYB'
+    name: Kyebi
+    namewodiacritics: Kyebi
+    subdiv: EP
+    function: '-23-----'
+    status: RL
+    date: '2001'
+    iata: ''
+    coordinates: '0610N 00033W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GH LAW'
+    name: Lawra
+    namewodiacritics: Lawra
+    subdiv: UW
+    function: '--3-----'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '1039N 00252W'
     remarks: ''
 -
     ch: ''
@@ -393,6 +477,18 @@
     date: '1107'
     iata: ''
     coordinates: '0654N 00234W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GH NAV'
+    name: Navrongo
+    namewodiacritics: Navrongo
+    subdiv: UE
+    function: '--3-----'
+    status: RL
+    date: '2001'
+    iata: ''
+    coordinates: '1053N 00015W'
     remarks: ''
 -
     ch: ''
@@ -540,6 +636,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'GH T8G'
+    name: Techiman
+    namewodiacritics: Techiman
+    subdiv: BA
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '0735N 00156W'
+    remarks: ''
+-
+    ch: ''
     locode: 'GH TEM'
     name: Tema
     namewodiacritics: Tema
@@ -561,6 +669,42 @@
     date: '1201'
     iata: ''
     coordinates: '0536N 00013W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GH TSH'
+    name: Teshie
+    namewodiacritics: Teshie
+    subdiv: AA
+    function: '-23-----'
+    status: RL
+    date: '2001'
+    iata: ''
+    coordinates: '0535N 00006W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GH WA2'
+    name: Wa
+    namewodiacritics: Wa
+    subdiv: UW
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '1004N 00230W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'GH WWL'
+    name: Walewale
+    namewodiacritics: Walewale
+    subdiv: NP
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '1021N 00048W'
     remarks: ''
 -
     ch: ''

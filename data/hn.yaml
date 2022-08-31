@@ -36,6 +36,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'HN AW4'
+    name: Apacilagua
+    namewodiacritics: Apacilagua
+    subdiv: CH
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '1328N 08704W'
+    remarks: ''
+-
+    ch: ''
     locode: 'HN AZA'
     name: Arizona
     namewodiacritics: Arizona
@@ -93,6 +105,18 @@
     date: '9601'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'HN BVA'
+    name: 'Buena Vista'
+    namewodiacritics: 'Buena Vista'
+    subdiv: CP
+    function: '--3-----'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '1500N 08856W'
     remarks: ''
 -
     ch: ''
@@ -420,6 +444,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'HN ELR'
+    name: 'El Porvenir'
+    namewodiacritics: 'El Porvenir'
+    subdiv: CH
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '1320N 08703W'
+    remarks: ''
+-
+    ch: ''
     locode: 'HN EPY'
     name: 'El Poy'
     namewodiacritics: 'El Poy'
@@ -551,7 +587,7 @@
     coordinates: ''
     remarks: ''
 -
-    ch: +
+    ch: ''
     locode: 'HN 4IS'
     name: Isleta
     namewodiacritics: Isleta
@@ -605,10 +641,10 @@
     namewodiacritics: 'La Entrada'
     subdiv: CP
     function: '-----6--'
-    status: RQ
-    date: '1001'
+    status: RL
+    date: '1607'
     iata: ''
-    coordinates: '8844S 01503E'
+    coordinates: '1503N 08844W'
     remarks: ''
 -
     ch: ''
@@ -708,6 +744,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'HN LEP'
+    name: Lepaera
+    namewodiacritics: Lepaera
+    subdiv: LE
+    function: '--3-----'
+    status: AM
+    date: '2101'
+    iata: ''
+    coordinates: '1447N 08835W'
+    remarks: ''
+-
+    ch: ''
     locode: 'HN LMH'
     name: Limon
     namewodiacritics: Limon
@@ -729,6 +777,18 @@
     date: '0001'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'HN CTG'
+    name: Marcovia
+    namewodiacritics: Marcovia
+    subdiv: CH
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '1317N 08718W'
     remarks: ''
 -
     ch: ''
@@ -756,15 +816,39 @@
     remarks: ''
 -
     ch: ''
+    locode: 'HN NA6'
+    name: Nacaome
+    namewodiacritics: Nacaome
+    subdiv: VA
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '1332N 08729W'
+    remarks: ''
+-
+    ch: ''
     locode: 'HN NAC'
     name: Naco
     namewodiacritics: Naco
     subdiv: SB
     function: '--3-----'
     status: RL
-    date: '0307'
+    date: '2007'
     iata: ''
-    coordinates: '1523N 00014W'
+    coordinates: '1522N 08811W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'HN 4NC'
+    name: Namasigue
+    namewodiacritics: Namasigue
+    subdiv: CH
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '1312N 08708W'
     remarks: ''
 -
     ch: ''
@@ -789,6 +873,18 @@
     date: '0901'
     iata: ''
     coordinates: '1426N 08911W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'HN ODA'
+    name: 'Ojos De Agua'
+    namewodiacritics: 'Ojos De Agua'
+    subdiv: CM
+    function: '--3-----'
+    status: RL
+    date: '2001'
+    iata: ''
+    coordinates: '1445N 08739W'
     remarks: ''
 -
     ch: ''
@@ -828,15 +924,27 @@
     remarks: ''
 -
     ch: ''
-    locode: 'HN HAB'
-    name: Pimienta
-    namewodiacritics: Pimienta
-    subdiv: CM
-    function: '-----6--'
+    locode: 'HN PDV'
+    name: 'Paso de Velas'
+    namewodiacritics: 'Paso de Velas'
+    subdiv: VA
+    function: '--3-----'
     status: RL
-    date: '0901'
+    date: '1401'
     iata: ''
-    coordinates: '1451N 08730W'
+    coordinates: '1326N 08733W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'HN PBA'
+    name: 'Pena Blanca'
+    namewodiacritics: 'Pena Blanca'
+    subdiv: CR
+    function: '--3-----'
+    status: AM
+    date: '2107'
+    iata: ''
+    coordinates: '1519N 00052W'
     remarks: ''
 -
     ch: ''
@@ -852,6 +960,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'HN HAB'
+    name: Pimienta
+    namewodiacritics: Pimienta
+    subdiv: '04'
+    function: '-----6--'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '1451N 08730W'
+    remarks: ''
+-
+    ch: ''
     locode: 'HN PAJ'
     name: Pinalejo
     namewodiacritics: Pinalejo
@@ -861,18 +981,6 @@
     date: '1107'
     iata: ''
     coordinates: '1454N 08818W'
-    remarks: ''
--
-    ch: +
-    locode: 'HN PTC'
-    name: Potrerillos
-    namewodiacritics: Potrerillos
-    subdiv: CR
-    function: '--3-----'
-    status: RL
-    date: '1307'
-    iata: ''
-    coordinates: '1514N 08758W'
     remarks: ''
 -
     ch: ''
@@ -885,6 +993,18 @@
     date: '0201'
     iata: ''
     coordinates: '1400N 08646W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'HN PTC'
+    name: Potrerillos
+    namewodiacritics: Potrerillos
+    subdiv: CR
+    function: '--3-----'
+    status: RL
+    date: '1307'
+    iata: ''
+    coordinates: '1514N 08758W'
     remarks: ''
 -
     ch: ''
@@ -1020,6 +1140,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'HN VBS'
+    name: 'San Buenaventura'
+    namewodiacritics: 'San Buenaventura'
+    subdiv: FM
+    function: '--3-----'
+    status: RL
+    date: '1707'
+    iata: ''
+    coordinates: '1354N 08712W'
+    remarks: ''
+-
+    ch: ''
     locode: 'HN SET'
     name: 'San Esteban'
     namewodiacritics: 'San Esteban'
@@ -1053,6 +1185,30 @@
     date: '0901'
     iata: ''
     coordinates: '1439N 08702W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'HN SJR'
+    name: 'San Jerónimo'
+    namewodiacritics: 'San Jeronimo'
+    subdiv: CH
+    function: '--3-----'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '1310N 08708W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'HN XZQ'
+    name: 'San Juan de Flores'
+    namewodiacritics: 'San Juan de Flores'
+    subdiv: FM
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '1416N 08702W'
     remarks: ''
 -
     ch: ''
@@ -1152,15 +1308,15 @@
     remarks: ''
 -
     ch: ''
-    locode: 'HN SRI'
-    name: 'Santa Rita'
-    namewodiacritics: 'Santa Rita'
-    subdiv: LE
-    function: '--3--6--'
+    locode: 'HN SLA'
+    name: 'Santa Lucía'
+    namewodiacritics: 'Santa Lucia'
+    subdiv: FM
+    function: '--3-----'
     status: RL
-    date: '0501'
+    date: '1707'
     iata: ''
-    coordinates: '1402N 08832W'
+    coordinates: '1406N 08707W'
     remarks: ''
 -
     ch: ''
@@ -1173,6 +1329,18 @@
     date: '0507'
     iata: ''
     coordinates: '1512N 08753W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'HN SRI'
+    name: 'Santa Rita'
+    namewodiacritics: 'Santa Rita'
+    subdiv: LE
+    function: '--3--6--'
+    status: RL
+    date: '0501'
+    iata: ''
+    coordinates: '1402N 08832W'
     remarks: ''
 -
     ch: ''
@@ -1356,6 +1524,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'HN VDJ'
+    name: 'Valle de Jamastrán'
+    namewodiacritics: 'Valle de Jamastran'
+    subdiv: EP
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '1400N 08625W'
+    remarks: ''
+-
+    ch: ''
     locode: 'HN VDZ'
     name: 'Valle del Zamorano'
     namewodiacritics: 'Valle del Zamorano'
@@ -1377,6 +1557,18 @@
     date: '0001'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'HN VAA'
+    name: 'Villa de San Antonio'
+    namewodiacritics: 'Villa de San Antonio'
+    subdiv: CM
+    function: '--3-----'
+    status: RL
+    date: '1907'
+    iata: ''
+    coordinates: '1419N 08737W'
     remarks: ''
 -
     ch: ''
@@ -1425,4 +1617,28 @@
     date: '0607'
     iata: ''
     coordinates: '1508N 08708W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'HN ZBN'
+    name: Zambrano
+    namewodiacritics: Zambrano
+    subdiv: FM
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '1416N 08724W'
+    remarks: ''
+-
+    ch: ''
+    locode: 'HN ZMR'
+    name: Zambrano
+    namewodiacritics: Zambrano
+    subdiv: SB
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '1507N 08839W'
     remarks: ''

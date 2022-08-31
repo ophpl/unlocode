@@ -15,10 +15,10 @@
     locode: 'KE ARI'
     name: 'Athi River'
     namewodiacritics: 'Athi River'
-    subdiv: '400'
+    subdiv: '22'
     function: '--3-----'
     status: RL
-    date: '1101'
+    date: '1601'
     iata: ''
     coordinates: '0127S 03659E'
     remarks: ''
@@ -36,13 +36,37 @@
     remarks: ''
 -
     ch: ''
+    locode: 'KE BUN'
+    name: Bungoma
+    namewodiacritics: Bungoma
+    subdiv: '03'
+    function: '-----6--'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '0034N 03434E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'KE BUS'
+    name: Busia
+    namewodiacritics: Busia
+    subdiv: '04'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '0028N 03406E'
+    remarks: ''
+-
+    ch: ''
     locode: 'KE DDB'
     name: Dadaab
     namewodiacritics: Dadaab
-    subdiv: '500'
+    subdiv: '07'
     function: '--3-----'
-    status: RQ
-    date: '1001'
+    status: RL
+    date: '1601'
     iata: ''
     coordinates: '0003N 04019E'
     remarks: ''
@@ -108,6 +132,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'KE GIL'
+    name: Gilgil
+    namewodiacritics: Gilgil
+    subdiv: '31'
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '0013S 03616E'
+    remarks: ''
+-
+    ch: ''
     locode: 'KE HOA'
     name: Hola
     namewodiacritics: Hola
@@ -117,6 +153,18 @@
     date: '0001'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'KE ISL'
+    name: Isiolo
+    namewodiacritics: Isiolo
+    subdiv: '09'
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '0021N 03735E'
     remarks: ''
 -
     ch: ''
@@ -141,6 +189,18 @@
     date: '0507'
     iata: ''
     coordinates: '0016N 03444E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'KE KKM'
+    name: Kakuma
+    namewodiacritics: Kakuma
+    subdiv: '10'
+    function: '--3-----'
+    status: AM
+    date: '2007'
+    iata: ''
+    coordinates: '0343N 03452E'
     remarks: ''
 -
     ch: ''
@@ -192,6 +252,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'KE KIA'
+    name: Kiambu
+    namewodiacritics: Kiambu
+    subdiv: '13'
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '0110S 03650E'
+    remarks: ''
+-
+    ch: ''
     locode: 'KE ILU'
     name: Kilaguni
     namewodiacritics: Kilaguni
@@ -201,6 +273,18 @@
     date: '0001'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'KE KLF'
+    name: Kilifi
+    namewodiacritics: Kilifi
+    subdiv: '14'
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '0338S 03951E'
     remarks: ''
 -
     ch: ''
@@ -237,6 +321,18 @@
     date: '0001'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'KE KIT'
+    name: Kitui
+    namewodiacritics: Kitui
+    subdiv: '18'
+    function: '--3-----'
+    status: RL
+    date: '1707'
+    iata: ''
+    coordinates: '0122S 03801E'
     remarks: ''
 -
     ch: ''
@@ -315,10 +411,10 @@
     locode: 'KE LIM'
     name: Limuru
     namewodiacritics: Limuru
-    subdiv: '200'
+    subdiv: '13'
     function: '--3-----'
     status: RL
-    date: '1207'
+    date: '1601'
     iata: ''
     coordinates: '0106S 03639E'
     remarks: ''
@@ -333,6 +429,18 @@
     date: '0001'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'KE LRV'
+    name: Lokichar
+    namewodiacritics: Lokichar
+    subdiv: '14'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '0223N 03539E'
     remarks: ''
 -
     ch: ''
@@ -357,6 +465,18 @@
     date: '0001'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'KE MAC'
+    name: Machakos
+    namewodiacritics: Machakos
+    subdiv: '22'
+    function: '--3-----'
+    status: RL
+    date: '1707'
+    iata: ''
+    coordinates: '0131S 03716E'
     remarks: ''
 -
     ch: ''
@@ -420,6 +540,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'KE MER'
+    name: Meru
+    namewodiacritics: Meru
+    subdiv: '26'
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '0030N 03739E'
+    remarks: ''
+-
+    ch: ''
     locode: 'KE MBA'
     name: Mombasa
     namewodiacritics: Mombasa
@@ -447,10 +579,10 @@
     locode: 'KE MUH'
     name: Muhoroni
     namewodiacritics: Muhoroni
-    subdiv: '600'
+    subdiv: '17'
     function: '--3-----'
     status: RL
-    date: '1101'
+    date: '1601'
     iata: ''
     coordinates: '0009S 03511E'
     remarks: ''
@@ -471,10 +603,10 @@
     locode: 'KE MWI'
     name: Mwingi
     namewodiacritics: Mwingi
-    subdiv: '400'
+    subdiv: '18'
     function: '--3--6--'
-    status: RQ
-    date: '0907'
+    status: RL
+    date: '1601'
     iata: ''
     coordinates: '0056S 03804E'
     remarks: ''
@@ -495,10 +627,10 @@
     locode: 'KE RNA'
     name: Naivasha
     namewodiacritics: Naivasha
-    subdiv: '700'
+    subdiv: '31'
     function: '-----6--'
     status: RL
-    date: '0901'
+    date: '1601'
     iata: ''
     coordinates: '0043S 03626E'
     remarks: ''
@@ -576,13 +708,25 @@
     remarks: ''
 -
     ch: ''
+    locode: 'KE SMN'
+    name: Shimoni
+    namewodiacritics: Shimoni
+    subdiv: '19'
+    function: 1-3-----
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '0439S 03923E'
+    remarks: ''
+-
+    ch: ''
     locode: 'KE SIA'
     name: Siaya
     namewodiacritics: Siaya
-    subdiv: '600'
+    subdiv: '38'
     function: 1-------
     status: RL
-    date: '1107'
+    date: '1601'
     iata: ''
     coordinates: '0004N 03417E'
     remarks: ''
@@ -633,6 +777,18 @@
     date: '0001'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'KE WEB'
+    name: Webuye
+    namewodiacritics: Webuye
+    subdiv: '03'
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '0037N 03446E'
     remarks: ''
 -
     ch: ''

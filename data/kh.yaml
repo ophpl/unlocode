@@ -36,6 +36,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'KH KPC'
+    name: 'Kâmpóng Cham'
+    namewodiacritics: 'Kampong Cham'
+    subdiv: '3'
+    function: '-----6--'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '1200N 10527E'
+    remarks: ''
+-
+    ch: ''
     locode: 'KH KZC'
     name: 'Kâmpóng Chhnang'
     namewodiacritics: 'Kampong Chhnang'
@@ -132,6 +144,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'KH MMT'
+    name: Mémót
+    namewodiacritics: Memot
+    subdiv: '3'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '1149N 10611E'
+    remarks: ''
+-
+    ch: ''
     locode: 'KH MWV'
     name: Mundulkiri
     namewodiacritics: Mundulkiri
@@ -192,6 +216,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'KH SVY'
+    name: 'Phumi Svay Rolum'
+    namewodiacritics: 'Phumi Svay Rolum'
+    subdiv: '20'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '1116N 10549E'
+    remarks: ''
+-
+    ch: ''
     locode: 'KH PPT'
     name: 'Poipet (Paôy Pêt)'
     namewodiacritics: 'Poipet (Paoy Pet)'
@@ -201,6 +237,18 @@
     date: '0507'
     iata: ''
     coordinates: '1339N 10233E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'KH PUS'
+    name: Pursat
+    namewodiacritics: Pursat
+    subdiv: '15'
+    function: '-----6--'
+    status: RQ
+    date: '1801'
+    iata: ''
+    coordinates: '1232N 10355E'
     remarks: ''
 -
     ch: ''
@@ -240,6 +288,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'KH SRE'
+    name: 'Sre Ambel'
+    namewodiacritics: 'Sre Ambel'
+    subdiv: '9'
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '1107N 10346E'
+    remarks: ''
+-
+    ch: ''
     locode: 'KH TNX'
     name: 'Stung Treng'
     namewodiacritics: 'Stung Treng'
@@ -261,4 +321,16 @@
     date: '0001'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'KH TKH'
+    name: 'Ta Khmau'
+    namewodiacritics: 'Ta Khmau'
+    subdiv: '12'
+    function: 1-------
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '1129N 10457E'
     remarks: ''

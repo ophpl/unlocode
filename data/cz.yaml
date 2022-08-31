@@ -12,6 +12,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CZ ADP'
+    name: Adrspach
+    namewodiacritics: Adrspach
+    subdiv: KA
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '5037N 01606E'
+    remarks: ''
+-
+    ch: ''
     locode: 'CZ ALB'
     name: Albrechtice
     namewodiacritics: Albrechtice
@@ -45,6 +57,18 @@
     date: '9701'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'CZ ATN'
+    name: Asten
+    namewodiacritics: Asten
+    subdiv: OL
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '4813N 01425E'
     remarks: ''
 -
     ch: ''
@@ -96,6 +120,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CZ BAR'
+    name: Bartosovice
+    namewodiacritics: Bartosovice
+    subdiv: MO
+    function: 1-3-----
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '4940N 01803E'
+    remarks: ''
+-
+    ch: ''
     locode: 'CZ BSK'
     name: Baska
     namewodiacritics: Baska
@@ -132,6 +168,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CZ BAV'
+    name: Bavorov
+    namewodiacritics: Bavorov
+    subdiv: JC
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4907N 01405E'
+    remarks: ''
+-
+    ch: ''
     locode: 'CZ TPZ'
     name: Bechovice
     namewodiacritics: Bechovice
@@ -153,6 +201,18 @@
     date: '0901'
     iata: ''
     coordinates: '4918N 01429E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CZ BVR'
+    name: Becváry
+    namewodiacritics: Becvary
+    subdiv: ST
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '4957N 01504E'
     remarks: ''
 -
     ch: ''
@@ -191,7 +251,19 @@
     coordinates: '5030N 01448E'
     remarks: ''
 -
-    ch: +
+    ch: ''
+    locode: 'CZ BPK'
+    name: 'Belá pod Kozákovem'
+    namewodiacritics: 'Bela pod Kozakovem'
+    subdiv: LI
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '5035N 01511E'
+    remarks: ''
+-
+    ch: ''
     locode: 'CZ BPP'
     name: 'Belá pod Pradedem'
     namewodiacritics: 'Bela pod Pradedem'
@@ -203,7 +275,19 @@
     coordinates: '5010N 01711E'
     remarks: ''
 -
-    ch: +
+    ch: ''
+    locode: 'CZ BLH'
+    name: Belohrad
+    namewodiacritics: Belohrad
+    subdiv: '20'
+    function: '--3-----'
+    status: RL
+    date: '1707'
+    iata: ''
+    coordinates: '4942N 01412E'
+    remarks: ''
+-
+    ch: ''
     locode: 'CZ BEL'
     name: Belotín
     namewodiacritics: Belotin
@@ -273,6 +357,18 @@
     date: '9509'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'CZ BES'
+    name: Bestovice
+    namewodiacritics: Bestovice
+    subdiv: PA
+    function: '--3-----'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '5001N 01613E'
     remarks: ''
 -
     ch: ''
@@ -384,6 +480,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CZ BVS'
+    name: Bitozeves
+    namewodiacritics: Bitozeves
+    subdiv: US
+    function: '--3-----'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '5022N 01339E'
+    remarks: ''
+-
+    ch: ''
     locode: 'CZ BLA'
     name: Blansko
     namewodiacritics: Blansko
@@ -477,6 +585,18 @@
     date: '1301'
     iata: ''
     coordinates: '4904N 01639E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CZ BLU'
+    name: Bludov
+    namewodiacritics: Bludov
+    subdiv: OL
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4957N 01656E'
     remarks: ''
 -
     ch: ''
@@ -612,18 +732,6 @@
     remarks: ''
 -
     ch: ''
-    locode: 'CZ BOL'
-    name: Bolatice
-    namewodiacritics: Bolatice
-    subdiv: ''
-    function: 1-3-----
-    status: RQ
-    date: '0607'
-    iata: ''
-    coordinates: ''
-    remarks: ''
--
-    ch: ''
     locode: 'CZ BLT'
     name: Bolatice
     namewodiacritics: Bolatice
@@ -633,6 +741,18 @@
     date: '0901'
     iata: ''
     coordinates: '4958N 01805E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CZ BOL'
+    name: Bolatice
+    namewodiacritics: Bolatice
+    subdiv: ''
+    function: 1-3-----
+    status: RQ
+    date: '0607'
+    iata: ''
+    coordinates: ''
     remarks: ''
 -
     ch: ''
@@ -648,6 +768,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CZ BLR'
+    name: Boleradice
+    namewodiacritics: Boleradice
+    subdiv: JM
+    function: '--3-----'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '4858N 01649E'
+    remarks: ''
+-
+    ch: ''
     locode: 'CZ BLE'
     name: Boletice
     namewodiacritics: Boletice
@@ -657,6 +789,18 @@
     date: '0907'
     iata: ''
     coordinates: '4849N 01413E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CZ B3R'
+    name: Bor
+    namewodiacritics: Bor
+    subdiv: KA
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '5011N 01228E'
     remarks: ''
 -
     ch: ''
@@ -729,6 +873,18 @@
     date: '1207'
     iata: ''
     coordinates: '5006N 01606E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CZ BNY'
+    name: Borotín
+    namewodiacritics: Borotin
+    subdiv: '64'
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '4935N 01640E'
     remarks: ''
 -
     ch: ''
@@ -875,7 +1031,7 @@
     coordinates: '5004N 01737E'
     remarks: ''
 -
-    ch: +
+    ch: ''
     locode: 'CZ BRS'
     name: Braskov
     namewodiacritics: Braskov
@@ -912,6 +1068,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CZ BTO'
+    name: Bratronice
+    namewodiacritics: Bratronice
+    subdiv: '20'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '5004N 01401E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CZ BRX'
+    name: Bravantice
+    namewodiacritics: Bravantice
+    subdiv: '80'
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '4945N 01805E'
+    remarks: ''
+-
+    ch: ''
     locode: 'CZ BVA'
     name: Breclav
     namewodiacritics: Breclav
@@ -919,18 +1099,6 @@
     function: '-23-5---'
     status: AA
     date: '9701'
-    iata: ''
-    coordinates: ''
-    remarks: ''
--
-    ch: ''
-    locode: 'CZ BRZ'
-    name: Bremerhaven
-    namewodiacritics: Bremerhaven
-    subdiv: KA
-    function: 1-------
-    status: RQ
-    date: '0901'
     iata: ''
     coordinates: ''
     remarks: ''
@@ -1008,6 +1176,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CZ BNS'
+    name: 'Brezová nad Svitavou'
+    namewodiacritics: 'Brezova nad Svitavou'
+    subdiv: PA
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '4939N 01631E'
+    remarks: ''
+-
+    ch: ''
     locode: 'CZ BZY'
     name: Brezuvky
     namewodiacritics: Brezuvky
@@ -1044,15 +1224,27 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CZ BIS'
+    name: Brniste
+    namewodiacritics: Brniste
+    subdiv: '51'
+    function: '--3-----'
+    status: RL
+    date: '2001'
+    iata: ''
+    coordinates: '5044N 01442E'
+    remarks: ''
+-
+    ch: ''
     locode: 'CZ BRQ'
     name: Brno
     namewodiacritics: Brno
-    subdiv: ''
+    subdiv: JM
     function: '-2345---'
     status: AA
-    date: '9606'
+    date: '1601'
     iata: ''
-    coordinates: ''
+    coordinates: '4912N 01638E'
     remarks: ''
 -
     ch: ''
@@ -1152,6 +1344,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CZ KKR'
+    name: Budceves
+    namewodiacritics: Budceves
+    subdiv: KR
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5019N 01515E'
+    remarks: ''
+-
+    ch: ''
     locode: 'CZ BUD'
     name: Budinek
     namewodiacritics: Budinek
@@ -1173,6 +1377,18 @@
     date: '0901'
     iata: ''
     coordinates: '4948N 01738E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CZ BUL'
+    name: 'Budyne nad Ohri'
+    namewodiacritics: 'Budyne nad Ohri'
+    subdiv: US
+    function: '--3-----'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '5024N 01409E'
     remarks: ''
 -
     ch: ''
@@ -1344,6 +1560,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CZ CEJ'
+    name: Cejkovice
+    namewodiacritics: Cejkovice
+    subdiv: JM
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '4854N 01657E'
+    remarks: ''
+-
+    ch: ''
     locode: 'CZ CLK'
     name: Celákovice
     namewodiacritics: Celakovice
@@ -1365,6 +1593,18 @@
     date: '0901'
     iata: ''
     coordinates: '4959N 01542E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CZ CY2'
+    name: Cepirohy
+    namewodiacritics: Cepirohy
+    subdiv: '42'
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '5029N 01337E'
     remarks: ''
 -
     ch: ''
@@ -1416,6 +1656,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CZ C53'
+    name: 'Cerná za Bory'
+    namewodiacritics: 'Cerna za Bory'
+    subdiv: PA
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '5001N 01550E'
+    remarks: ''
+-
+    ch: ''
     locode: 'CZ CNI'
     name: Cernice
     namewodiacritics: Cernice
@@ -1431,12 +1683,12 @@
     locode: 'CZ CRC'
     name: Cernice
     namewodiacritics: Cernice
-    subdiv: CZC
+    subdiv: PL
     function: '--3-----'
-    status: RQ
-    date: '0901'
+    status: RL
+    date: '1401'
     iata: ''
-    coordinates: '3802N 07749W'
+    coordinates: '4925N 01341E'
     remarks: ''
 -
     ch: ''
@@ -1488,6 +1740,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CZ C7V'
+    name: 'Cervená Voda'
+    namewodiacritics: 'Cervena Voda'
+    subdiv: PA
+    function: 1-------
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '5002N 01645E'
+    remarks: ''
+-
+    ch: ''
     locode: 'CZ CVA'
     name: 'Cervená Voda'
     namewodiacritics: 'Cervena Voda'
@@ -1512,15 +1776,51 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CZ CVK'
+    name: Cervenka
+    namewodiacritics: Cervenka
+    subdiv: OL
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '4943N 01705E'
+    remarks: ''
+-
+    ch: ''
     locode: 'CZ CVY'
     name: 'Cervený Kostelec'
     namewodiacritics: 'Cerveny Kostelec'
-    subdiv: CVC
+    subdiv: KR
     function: '--3-----'
     status: RL
-    date: '0207'
+    date: '1401'
     iata: ''
     coordinates: '5029N 01605E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CZ CS4'
+    name: Ceská
+    namewodiacritics: Ceska
+    subdiv: JM
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4917N 01634E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CZ U7J'
+    name: 'Ceska Kamenice'
+    namewodiacritics: 'Ceska Kamenice'
+    subdiv: US
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5048N 01426E'
     remarks: ''
 -
     ch: ''
@@ -1584,6 +1884,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CZ CEV'
+    name: 'Ceská Ves'
+    namewodiacritics: 'Ceska Ves'
+    subdiv: OL
+    function: 1-3-----
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '5015N 01714E'
+    remarks: ''
+-
+    ch: ''
     locode: 'CZ CKB'
     name: 'Ceské Budejovice'
     namewodiacritics: 'Ceske Budejovice'
@@ -1644,6 +1956,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CZ CYB'
+    name: 'Cesky Dub'
+    namewodiacritics: 'Cesky Dub'
+    subdiv: LI
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5039N 01459E'
+    remarks: ''
+-
+    ch: ''
     locode: 'CZ CKR'
     name: 'Cesky Krumlov'
     namewodiacritics: 'Cesky Krumlov'
@@ -1656,6 +1980,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CZ CEY'
+    name: 'Cesky Rudolec'
+    namewodiacritics: 'Cesky Rudolec'
+    subdiv: '31'
+    function: '--3-----'
+    status: AM
+    date: '2107'
+    iata: ''
+    coordinates: '4904N 01520E'
+    remarks: ''
+-
+    ch: ''
     locode: 'CZ TEA'
     name: 'Cesky Tesín'
     namewodiacritics: 'Cesky Tesin'
@@ -1665,6 +2001,30 @@
     date: '0212'
     iata: ''
     coordinates: '4945N 01837E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CZ CTC'
+    name: Cestice
+    namewodiacritics: Cestice
+    subdiv: JC
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '4910N 01349E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CZ U6R'
+    name: Cestín
+    namewodiacritics: Cestin
+    subdiv: ST
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '4940N 01446E'
     remarks: ''
 -
     ch: ''
@@ -1728,6 +2088,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CZ CLV'
+    name: Chlístov
+    namewodiacritics: Chlistov
+    subdiv: '63'
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '4912N 01544E'
+    remarks: ''
+-
+    ch: ''
     locode: 'CZ CLM'
     name: Chlum
     namewodiacritics: Chlum
@@ -1737,6 +2109,18 @@
     date: '0701'
     iata: ''
     coordinates: '4851N 01355E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CZ C5U'
+    name: Chlumcany
+    namewodiacritics: Chlumcany
+    subdiv: US
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '5020N 01351E'
     remarks: ''
 -
     ch: ''
@@ -1800,13 +2184,25 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CZ CML'
+    name: Chocomysl
+    namewodiacritics: Chocomysl
+    subdiv: PL
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '4928N 01307E'
+    remarks: ''
+-
+    ch: ''
     locode: 'CZ CHO'
     name: Chodov
     namewodiacritics: Chodov
-    subdiv: CZC
+    subdiv: PL
     function: '--3--6--'
     status: RL
-    date: '0407'
+    date: '1401'
     iata: ''
     coordinates: '4925N 01249E'
     remarks: ''
@@ -1893,6 +2289,18 @@
     date: '0901'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'CZ CTB'
+    name: Chotysany
+    namewodiacritics: Chotysany
+    subdiv: ST
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '4945N 01449E'
     remarks: ''
 -
     ch: ''
@@ -1992,6 +2400,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CZ CSE'
+    name: Chroustovice
+    namewodiacritics: Chroustovice
+    subdiv: PA
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4958N 01600E'
+    remarks: ''
+-
+    ch: ''
     locode: 'CZ CHR'
     name: Chrudim
     namewodiacritics: Chrudim
@@ -2016,18 +2436,6 @@
     remarks: ''
 -
     ch: ''
-    locode: 'CZ CHA'
-    name: Chuchelna
-    namewodiacritics: Chuchelna
-    subdiv: LI
-    function: '-----6--'
-    status: RQ
-    date: '0907'
-    iata: ''
-    coordinates: '5036N 01517E'
-    remarks: ''
--
-    ch: ''
     locode: 'CZ CLA'
     name: Chuchelna
     namewodiacritics: Chuchelna
@@ -2037,6 +2445,18 @@
     date: '0907'
     iata: ''
     coordinates: '4959N 01807E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CZ CHA'
+    name: Chuchelna
+    namewodiacritics: Chuchelna
+    subdiv: LI
+    function: '-----6--'
+    status: RQ
+    date: '0907'
+    iata: ''
+    coordinates: '5036N 01517E'
     remarks: ''
 -
     ch: ''
@@ -2064,6 +2484,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CZ CCV'
+    name: Chvalcov
+    namewodiacritics: Chvalcov
+    subdiv: ZL
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '4923N 01743E'
+    remarks: ''
+-
+    ch: ''
     locode: 'CZ CHV'
     name: Chvaletice
     namewodiacritics: Chvaletice
@@ -2073,6 +2505,18 @@
     date: '0501'
     iata: ''
     coordinates: '5002N 01525E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CZ AQW'
+    name: Chvalovice
+    namewodiacritics: Chvalovice
+    subdiv: JM
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '4847N 01605E'
     remarks: ''
 -
     ch: ''
@@ -2097,6 +2541,18 @@
     date: '0901'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'CZ CN8'
+    name: Cicenice
+    namewodiacritics: Cicenice
+    subdiv: '31'
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '4909N 01414E'
     remarks: ''
 -
     ch: ''
@@ -2147,7 +2603,7 @@
     coordinates: '4908N 01321E'
     remarks: ''
 -
-    ch: +
+    ch: ''
     locode: 'CZ CLU'
     name: Clunek
     namewodiacritics: Clunek
@@ -2169,6 +2625,18 @@
     date: '0901'
     iata: ''
     coordinates: '5023N 01419E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CZ CTV'
+    name: Ctverín
+    namewodiacritics: Ctverin
+    subdiv: LI
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5036N 01506E'
     remarks: ''
 -
     ch: ''
@@ -2244,6 +2712,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CZ XC3'
+    name: Deblín
+    namewodiacritics: Deblin
+    subdiv: JM
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '4919N 01621E'
+    remarks: ''
+-
+    ch: ''
     locode: 'CZ DCB'
     name: Decín
     namewodiacritics: Decin
@@ -2268,6 +2748,42 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CZ DEP'
+    name: Depoltovice
+    namewodiacritics: Depoltovice
+    subdiv: '41'
+    function: '--3-----'
+    status: RL
+    date: '1901'
+    iata: ''
+    coordinates: '5018N 01249E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CZ DST'
+    name: Destná
+    namewodiacritics: Destna
+    subdiv: JC
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '4016N 01456E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CZ DEJ'
+    name: Destné
+    namewodiacritics: Destne
+    subdiv: '80'
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '4954N 01741E'
+    remarks: ''
+-
+    ch: ''
     locode: 'CZ DOH'
     name: 'Destne v Orlickych Horach'
     namewodiacritics: 'Destne v Orlickych Horach'
@@ -2280,15 +2796,39 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CZ DTE'
+    name: Detkovice
+    namewodiacritics: Detkovice
+    subdiv: OL
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '4925N 01705E'
+    remarks: ''
+-
+    ch: ''
     locode: 'CZ DMV'
     name: Detmarovice
     namewodiacritics: Detmarovice
-    subdiv: ''
+    subdiv: MO
     function: '--3-----'
     status: RL
-    date: '0901'
+    date: '1601'
     iata: ''
-    coordinates: '4957N 18235E'
+    coordinates: '4957N 01823E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CZ DIH'
+    name: 'Dívcí Hrad'
+    namewodiacritics: 'Divci Hrad'
+    subdiv: '80'
+    function: '-----6--'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '5015N 01738E'
     remarks: ''
 -
     ch: ''
@@ -2388,6 +2928,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CZ DBH'
+    name: Dobrichovice
+    namewodiacritics: Dobrichovice
+    subdiv: ST
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '4956N 01417E'
+    remarks: ''
+-
+    ch: ''
     locode: 'CZ DRS'
     name: Dobris
     namewodiacritics: Dobris
@@ -2469,6 +3021,18 @@
     date: '0901'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'CZ DSI'
+    name: Dobsice
+    namewodiacritics: Dobsice
+    subdiv: JM
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4851N 01605E'
     remarks: ''
 -
     ch: ''
@@ -2556,6 +3120,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CZ DOD'
+    name: 'Dolní Dobrouc'
+    namewodiacritics: 'Dolni Dobrouc'
+    subdiv: '53'
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '4959N 01630E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CZ Z4D'
+    name: 'Dolni Dunajovice'
+    namewodiacritics: 'Dolni Dunajovice'
+    subdiv: JM
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '4851N 01636E'
+    remarks: ''
+-
+    ch: ''
     locode: 'CZ DDA'
     name: 'Dolní Dvoriste'
     namewodiacritics: 'Dolni Dvoriste'
@@ -2565,6 +3153,18 @@
     date: '0212'
     iata: ''
     coordinates: '4839N 01427E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CZ SK5'
+    name: 'Dolní Jircany'
+    namewodiacritics: 'Dolni Jircany'
+    subdiv: ST
+    function: 1-3-----
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '4957N 01432E'
     remarks: ''
 -
     ch: ''
@@ -2589,6 +3189,18 @@
     date: '0907'
     iata: ''
     coordinates: '4940N 16280E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CZ DKR'
+    name: 'Dolní Kralovice'
+    namewodiacritics: 'Dolni Kralovice'
+    subdiv: '20'
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '4940N 01509E'
     remarks: ''
 -
     ch: ''
@@ -2628,6 +3240,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CZ DO7'
+    name: 'Dolni Loucky'
+    namewodiacritics: 'Dolni Loucky'
+    subdiv: VY
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '4922N 01621E'
+    remarks: ''
+-
+    ch: ''
     locode: 'CZ DJC'
     name: 'Dolni Pena'
     namewodiacritics: 'Dolni Pena'
@@ -2637,6 +3261,18 @@
     date: '1001'
     iata: ''
     coordinates: '4907N 01501E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CZ DPL'
+    name: 'Dolní Podluzí'
+    namewodiacritics: 'Dolni Podluzi'
+    subdiv: US
+    function: '--3-----'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '5053N 01436E'
     remarks: ''
 -
     ch: ''
@@ -2712,6 +3348,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CZ M6T'
+    name: 'Dolní Zivotice'
+    namewodiacritics: 'Dolni Zivotice'
+    subdiv: MO
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4954N 01747E'
+    remarks: ''
+-
+    ch: ''
     locode: 'CZ DMS'
     name: Domasov
     namewodiacritics: Domasov
@@ -2724,6 +3372,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CZ DMZ'
+    name: Domazelice
+    namewodiacritics: Domazelice
+    subdiv: '71'
+    function: '-----6--'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '4926N 01733E'
+    remarks: ''
+-
+    ch: ''
     locode: 'CZ DOM'
     name: Domazlice
     namewodiacritics: Domazlice
@@ -2733,6 +3393,54 @@
     date: '9509'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'CZ DMU'
+    name: Domousnice
+    namewodiacritics: Domousnice
+    subdiv: '20'
+    function: '--3-----'
+    status: RL
+    date: '1707'
+    iata: ''
+    coordinates: '5023N 01506E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CZ DBX'
+    name: Doubi
+    namewodiacritics: Doubi
+    subdiv: KA
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '5012N 01249E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CZ DNS'
+    name: 'Doubravice nad Svitavou'
+    namewodiacritics: 'Doubravice nad Svitavou'
+    subdiv: JM
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '4926N 01638E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CZ V8D'
+    name: Doubravnik
+    namewodiacritics: Doubravnik
+    subdiv: '64'
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '4925N 01621E'
     remarks: ''
 -
     ch: ''
@@ -2772,6 +3480,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CZ DRH'
+    name: Drhovice
+    namewodiacritics: Drhovice
+    subdiv: JC
+    function: '--3-----'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '4926N 01434E'
+    remarks: ''
+-
+    ch: ''
     locode: 'CZ DSY'
     name: Drisy
     namewodiacritics: Drisy
@@ -2781,6 +3501,18 @@
     date: '0607'
     iata: ''
     coordinates: '5014N 01439E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CZ DRI'
+    name: Dríten
+    namewodiacritics: Driten
+    subdiv: JC
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4909N 01421E'
     remarks: ''
 -
     ch: ''
@@ -2832,6 +3564,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CZ DNC'
+    name: Dubenec
+    namewodiacritics: Dubenec
+    subdiv: KR
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5023N 01548E'
+    remarks: ''
+-
+    ch: ''
     locode: 'CZ DBI'
     name: Dubi
     namewodiacritics: Dubi
@@ -2865,6 +3609,18 @@
     date: '1007'
     iata: ''
     coordinates: '4940N 01422E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CZ 8KJ'
+    name: Dubnany
+    namewodiacritics: Dubnany
+    subdiv: JM
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4855N 01706E'
     remarks: ''
 -
     ch: ''
@@ -2928,6 +3684,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CZ DYJ'
+    name: Dyje
+    namewodiacritics: Dyje
+    subdiv: JM
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '4851N 01607E'
+    remarks: ''
+-
+    ch: ''
     locode: 'CZ DYM'
     name: Dymokury
     namewodiacritics: Dymokury
@@ -2955,10 +3723,10 @@
     locode: 'CZ DYY'
     name: Dysina
     namewodiacritics: Dysina
-    subdiv: CZC
+    subdiv: PL
     function: '--3-----'
     status: RL
-    date: '0212'
+    date: '1401'
     iata: ''
     coordinates: '4946N 01329E'
     remarks: ''
@@ -3024,6 +3792,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CZ FRE'
+    name: Frycovice
+    namewodiacritics: Frycovice
+    subdiv: MO
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '4940N 01814E'
+    remarks: ''
+-
+    ch: ''
     locode: 'CZ FRM'
     name: Frydek-Místek
     namewodiacritics: Frydek-Mistek
@@ -3072,6 +3852,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CZ FLK'
+    name: Fulnek
+    namewodiacritics: Fulnek
+    subdiv: '80'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '4943N 01755E'
+    remarks: ''
+-
+    ch: ''
     locode: 'CZ GOL'
     name: 'Golcuv Jeníkov'
     namewodiacritics: 'Golcuv Jenikov'
@@ -3081,6 +3873,18 @@
     date: '0601'
     iata: ''
     coordinates: '4949N 01529E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CZ GRM'
+    name: 'Greslové Myto'
+    namewodiacritics: 'Greslove Myto'
+    subdiv: '64'
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '4859N 01553E'
     remarks: ''
 -
     ch: ''
@@ -3099,10 +3903,10 @@
     locode: 'CZ HTA'
     name: Habartice
     namewodiacritics: Habartice
-    subdiv: CSC
+    subdiv: LI
     function: '--3-----'
     status: RL
-    date: '0207'
+    date: '1401'
     iata: ''
     coordinates: '5100N 01504E'
     remarks: ''
@@ -3276,6 +4080,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CZ HEL'
+    name: Helvíkovice
+    namewodiacritics: Helvikovice
+    subdiv: PA
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5005N 01626E'
+    remarks: ''
+-
+    ch: ''
     locode: 'CZ HEK'
     name: Herink
     namewodiacritics: Herink
@@ -3303,10 +4119,10 @@
     locode: 'CZ HER'
     name: 'Hermanova Hut'
     namewodiacritics: 'Hermanova Hut'
-    subdiv: CZC
+    subdiv: PL
     function: '-2------'
     status: RL
-    date: '0207'
+    date: '1401'
     iata: ''
     coordinates: '4942N 01305E'
     remarks: ''
@@ -3336,6 +4152,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CZ MOZ'
+    name: 'Hladke Zivotice'
+    namewodiacritics: 'Hladke Zivotice'
+    subdiv: MO
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4941N 01757E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CZ HLA'
+    name: Hlavenec
+    namewodiacritics: Hlavenec
+    subdiv: '20'
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '5014N 01442E'
+    remarks: ''
+-
+    ch: ''
     locode: 'CZ HLN'
     name: Hlinsko
     namewodiacritics: Hlinsko
@@ -3345,6 +4185,18 @@
     date: '9509'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'CZ HLH'
+    name: Hlohovec
+    namewodiacritics: Hlohovec
+    subdiv: '64'
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '4847N 01646E'
     remarks: ''
 -
     ch: ''
@@ -3420,6 +4272,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CZ HHN'
+    name: Hnanice
+    namewodiacritics: Hnanice
+    subdiv: '64'
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '4848N 01559E'
+    remarks: ''
+-
+    ch: ''
     locode: 'CZ HTN'
     name: Hnátnice
     namewodiacritics: Hnatnice
@@ -3468,6 +4332,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CZ TAO'
+    name: Hnojník
+    namewodiacritics: Hnojnik
+    subdiv: '80'
+    function: '--3-----'
+    status: RL
+    date: '1707'
+    iata: ''
+    coordinates: '4940N 01832E'
+    remarks: ''
+-
+    ch: ''
     locode: 'CZ HSV'
     name: Hobsovice
     namewodiacritics: Hobsovice
@@ -3483,10 +4359,10 @@
     locode: 'CZ HOM'
     name: 'Hodkovice nad Mohelkou'
     namewodiacritics: 'Hodkovice nad Mohelkou'
-    subdiv: CSC
+    subdiv: LI
     function: '-23-----'
     status: RL
-    date: '0401'
+    date: '1401'
     iata: ''
     coordinates: '5039N 01505E'
     remarks: ''
@@ -3537,6 +4413,18 @@
     date: '9509'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'CZ HOE'
+    name: Holasice
+    namewodiacritics: Holasice
+    subdiv: '64'
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '4904N 01637E'
     remarks: ''
 -
     ch: ''
@@ -3600,6 +4488,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CZ BVH'
+    name: Holubov
+    namewodiacritics: Holubov
+    subdiv: JC
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '4853N 01419E'
+    remarks: ''
+-
+    ch: ''
     locode: 'CZ YOV'
     name: Holýsov
     namewodiacritics: Holysov
@@ -3645,6 +4545,18 @@
     date: '0907'
     iata: ''
     coordinates: '4919N 01342E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CZ HRD'
+    name: Horesedly
+    namewodiacritics: Horesedly
+    subdiv: ST
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '5010N 01337E'
     remarks: ''
 -
     ch: ''
@@ -3792,6 +4704,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CZ HPN'
+    name: 'Horní Pocernice'
+    namewodiacritics: 'Horni Pocernice'
+    subdiv: ST
+    function: '--3-----'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '5007N 01438E'
+    remarks: ''
+-
+    ch: ''
     locode: 'CZ HSO'
     name: 'Horní Slavkov'
     namewodiacritics: 'Horni Slavkov'
@@ -3888,6 +4812,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CZ HS5'
+    name: Horusice
+    namewodiacritics: Horusice
+    subdiv: '20'
+    function: '-----6--'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '5000N 01526E'
+    remarks: ''
+-
+    ch: ''
     locode: 'CZ HRY'
     name: Hory
     namewodiacritics: Hory
@@ -3948,6 +4884,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CZ HOV'
+    name: Hovezí
+    namewodiacritics: Hovezi
+    subdiv: ZL
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '4918N 01804E'
+    remarks: ''
+-
+    ch: ''
     locode: 'CZ HKR'
     name: 'Hradec Králové'
     namewodiacritics: 'Hradec Kralove'
@@ -3957,6 +4905,18 @@
     date: '0212'
     iata: ''
     coordinates: '5013N 01551E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CZ HNS'
+    name: 'Hradec nad Svitavou'
+    namewodiacritics: 'Hradec nad Svitavou'
+    subdiv: PA
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '4943N 01629E'
     remarks: ''
 -
     ch: ''
@@ -4080,6 +5040,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CZ HCK'
+    name: Hrebecniky
+    namewodiacritics: Hrebecniky
+    subdiv: ST
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '4959N 01345E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CZ HRE'
+    name: Hredle
+    namewodiacritics: Hredle
+    subdiv: ST
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5011N 01345E'
+    remarks: ''
+-
+    ch: ''
     locode: 'CZ HSA'
     name: Hrensko
     namewodiacritics: Hrensko
@@ -4101,6 +5085,42 @@
     date: '1301'
     iata: ''
     coordinates: '5040N 01343E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CZ HRC'
+    name: Hrobce
+    namewodiacritics: Hrobce
+    subdiv: US
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '5028N 01414E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CZ HCI'
+    name: Hrobcice
+    namewodiacritics: Hrobcice
+    subdiv: US
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5030N 01347E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CZ HTY'
+    name: 'Hrochuv Týnec'
+    namewodiacritics: 'Hrochuv Tynec'
+    subdiv: PA
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4958N 01555E'
     remarks: ''
 -
     ch: ''
@@ -4176,6 +5196,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CZ HRS'
+    name: Hrusov
+    namewodiacritics: Hrusov
+    subdiv: ST
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5021N 01451E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CZ HXJ'
+    name: 'Hrusovany nad Jevisovkou'
+    namewodiacritics: 'Hrusovany nad Jevisovkou'
+    subdiv: '64'
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '4850N 01624E'
+    remarks: ''
+-
+    ch: ''
     locode: 'CZ HUB'
     name: 'Hrusovany u Brna'
     namewodiacritics: 'Hrusovany u Brna'
@@ -4248,6 +5292,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CZ ZLL'
+    name: Hvozdna
+    namewodiacritics: Hvozdna
+    subdiv: ZL
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '4915N 01745E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CZ HYK'
+    name: Hyncice
+    namewodiacritics: Hyncice
+    subdiv: '80'
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '5011N 01732E'
+    remarks: ''
+-
+    ch: ''
     locode: 'CZ ICE'
     name: Ivancice
     namewodiacritics: Ivancice
@@ -4257,6 +5325,18 @@
     date: '9806'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'CZ IVA'
+    name: 'Ivanovice na Hané'
+    namewodiacritics: 'Ivanovice na Hane'
+    subdiv: '64'
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '4919N 01706E'
     remarks: ''
 -
     ch: ''
@@ -4335,10 +5415,10 @@
     locode: 'CZ JAR'
     name: Jaromer
     namewodiacritics: Jaromer
-    subdiv: CVC
+    subdiv: KR
     function: '-23-----'
     status: RL
-    date: '0401'
+    date: '1401'
     iata: ''
     coordinates: '5021N 01555E'
     remarks: ''
@@ -4356,6 +5436,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CZ JRV'
+    name: Jaroslav
+    namewodiacritics: Jaroslav
+    subdiv: PA
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5001N 01605E'
+    remarks: ''
+-
+    ch: ''
     locode: 'CZ JZY'
     name: Jazlovice
     namewodiacritics: Jazlovice
@@ -4365,6 +5457,30 @@
     date: '0701'
     iata: ''
     coordinates: '4958N 01438E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CZ JVN'
+    name: Jedovnice
+    namewodiacritics: Jedovnice
+    subdiv: '64'
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '4921N 01646E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CZ JEC'
+    name: Jelenice
+    namewodiacritics: Jelenice
+    subdiv: MO
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '4948N 01750E'
     remarks: ''
 -
     ch: ''
@@ -4404,6 +5520,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CZ JSE'
+    name: Jenisovice
+    namewodiacritics: Jenisovice
+    subdiv: LI
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '5038N 01509E'
+    remarks: ''
+-
+    ch: ''
     locode: 'CZ JST'
     name: Jenstejn
     namewodiacritics: Jenstejn
@@ -4416,15 +5544,15 @@
     remarks: ''
 -
     ch: ''
-    locode: 'CZ JES'
-    name: Jesenice
-    namewodiacritics: Jesenice
-    subdiv: ST
-    function: '-23-----'
+    locode: 'CZ JER'
+    name: Jersín
+    namewodiacritics: Jersin
+    subdiv: '63'
+    function: '--3-----'
     status: RL
-    date: '0701'
+    date: '1807'
     iata: ''
-    coordinates: '5006N 01328E'
+    coordinates: '4925N 01550E'
     remarks: ''
 -
     ch: ''
@@ -4440,6 +5568,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CZ JES'
+    name: Jesenice
+    namewodiacritics: Jesenice
+    subdiv: ST
+    function: '-23-----'
+    status: RL
+    date: '0701'
+    iata: ''
+    coordinates: '5006N 01328E'
+    remarks: ''
+-
+    ch: ''
     locode: 'CZ JSN'
     name: Jeseník
     namewodiacritics: Jesenik
@@ -4452,6 +5592,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CZ JNO'
+    name: 'Jeseník nad Odrou'
+    namewodiacritics: 'Jesenik nad Odrou'
+    subdiv: MO
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4936N 01756E'
+    remarks: ''
+-
+    ch: ''
     locode: 'CZ JTV'
     name: Jetrichov
     namewodiacritics: Jetrichov
@@ -4461,6 +5613,18 @@
     date: '1301'
     iata: ''
     coordinates: '5036N 01616E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CZ JNY'
+    name: Jevany
+    namewodiacritics: Jevany
+    subdiv: ST
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '4958N 01449E'
     remarks: ''
 -
     ch: ''
@@ -4596,6 +5760,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CZ JIY'
+    name: Jinocany
+    namewodiacritics: Jinocany
+    subdiv: '20'
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '5002N 01416E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CZ JPJ'
+    name: 'Jiretín Pod Jedlovou'
+    namewodiacritics: 'Jiretin Pod Jedlovou'
+    subdiv: US
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '5052N 01434E'
+    remarks: ''
+-
+    ch: ''
     locode: 'CZ JRA'
     name: Jirikov
     namewodiacritics: Jirikov
@@ -4632,6 +5820,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CZ ISB'
+    name: Jistebnice
+    namewodiacritics: Jistebnice
+    subdiv: JC
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4929N 01432E'
+    remarks: ''
+-
+    ch: ''
     locode: 'CZ KAD'
     name: Kadan
     namewodiacritics: Kadan
@@ -4644,18 +5844,6 @@
     remarks: ''
 -
     ch: ''
-    locode: 'CZ KAM'
-    name: Kamenice
-    namewodiacritics: Kamenice
-    subdiv: ST
-    function: '--3-----'
-    status: RL
-    date: '1301'
-    iata: ''
-    coordinates: '4954N 01435E'
-    remarks: ''
--
-    ch: ''
     locode: 'CZ KMC'
     name: Kamenice
     namewodiacritics: Kamenice
@@ -4665,6 +5853,18 @@
     date: '1007'
     iata: ''
     coordinates: '4922N 01547E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CZ KAM'
+    name: Kamenice
+    namewodiacritics: Kamenice
+    subdiv: ST
+    function: '--3-----'
+    status: RL
+    date: '1301'
+    iata: ''
+    coordinates: '4954N 01435E'
     remarks: ''
 -
     ch: ''
@@ -4704,6 +5904,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CZ KUJ'
+    name: 'Kamenný Újezd'
+    namewodiacritics: 'Kamenny Ujezd'
+    subdiv: JC
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4854N 01427E'
+    remarks: ''
+-
+    ch: ''
     locode: 'CZ KVO'
     name: 'Kamyk nad Vltavou'
     namewodiacritics: 'Kamyk nad Vltavou'
@@ -4728,6 +5940,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CZ K2N'
+    name: Káranice
+    namewodiacritics: Karanice
+    subdiv: KR
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5009N 01533E'
+    remarks: ''
+-
+    ch: ''
     locode: 'CZ SYA'
     name: Karany
     namewodiacritics: Karany
@@ -4737,6 +5961,18 @@
     date: '0901'
     iata: ''
     coordinates: '5010N 01444E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CZ KRO'
+    name: 'Kardasova Recice'
+    namewodiacritics: 'Kardasova Recice'
+    subdiv: JC
+    function: '--3-----'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '4912N 01453E'
     remarks: ''
 -
     ch: ''
@@ -4812,6 +6048,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CZ KPH'
+    name: 'Kasperske Hory'
+    namewodiacritics: 'Kasperske Hory'
+    subdiv: PL
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4909N 01334E'
+    remarks: ''
+-
+    ch: ''
     locode: 'CZ KTR'
     name: Katerinice
     namewodiacritics: Katerinice
@@ -4821,6 +6069,18 @@
     date: '1107'
     iata: ''
     coordinates: '4923N 01754E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CZ VKT'
+    name: Katovice
+    namewodiacritics: Katovice
+    subdiv: '31'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '4916N 01350E'
     remarks: ''
 -
     ch: ''
@@ -5004,6 +6264,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CZ KCX'
+    name: Klucov
+    namewodiacritics: Klucov
+    subdiv: ST
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5006N 01455E'
+    remarks: ''
+-
+    ch: ''
     locode: 'CZ KZE'
     name: Knezeves
     namewodiacritics: Knezeves
@@ -5016,6 +6288,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CZ KNE'
+    name: Knezice
+    namewodiacritics: Knezice
+    subdiv: KR
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '5038N 01535E'
+    remarks: ''
+-
+    ch: ''
     locode: 'CZ KZM'
     name: Knezmost
     namewodiacritics: Knezmost
@@ -5025,6 +6309,18 @@
     date: '0701'
     iata: ''
     coordinates: '5029N 01503E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CZ KNZ'
+    name: Kneznice
+    namewodiacritics: Kneznice
+    subdiv: KR
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '5030N 01519E'
     remarks: ''
 -
     ch: ''
@@ -5049,6 +6345,18 @@
     date: '0901'
     iata: ''
     coordinates: '4959N 01803E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CZ KOB'
+    name: Kobyli
+    namewodiacritics: Kobyli
+    subdiv: PA
+    function: '--3-----'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '4943N 01609E'
     remarks: ''
 -
     ch: ''
@@ -5136,6 +6444,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CZ KOE'
+    name: Kornice
+    namewodiacritics: Kornice
+    subdiv: '53'
+    function: '--3-----'
+    status: RL
+    date: '1707'
+    iata: ''
+    coordinates: '4954N 01618E'
+    remarks: ''
+-
+    ch: ''
     locode: 'CZ ORO'
     name: Korotice
     namewodiacritics: Korotice
@@ -5157,6 +6477,18 @@
     date: '0901'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'CZ KSI'
+    name: Kosice
+    namewodiacritics: Kosice
+    subdiv: '20'
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '4954N 01509E'
     remarks: ''
 -
     ch: ''
@@ -5199,12 +6531,24 @@
     locode: 'CZ KOS'
     name: Kostany
     namewodiacritics: Kostany
-    subdiv: CSC
+    subdiv: US
     function: '--3-----'
     status: RL
-    date: '0407'
+    date: '1401'
     iata: ''
     coordinates: '5039N 01346E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CZ KAY'
+    name: 'Kostelany nad Moravou'
+    namewodiacritics: 'Kostelany nad Moravou'
+    subdiv: '72'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '4903N 01724E'
     remarks: ''
 -
     ch: ''
@@ -5217,6 +6561,18 @@
     date: '0901'
     iata: ''
     coordinates: '4920N 01709E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CZ KHK'
+    name: 'Kostelec na Hané'
+    namewodiacritics: 'Kostelec na Hane'
+    subdiv: OL
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4931N 01704E'
     remarks: ''
 -
     ch: ''
@@ -5256,6 +6612,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CZ KSN'
+    name: Kostenice
+    namewodiacritics: Kostenice
+    subdiv: JC
+    function: '--3-----'
+    status: RQ
+    date: '0901'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
     locode: 'CZ KTC'
     name: Kostenice
     namewodiacritics: Kostenice
@@ -5268,15 +6636,15 @@
     remarks: ''
 -
     ch: ''
-    locode: 'CZ KSN'
-    name: Kostenice
-    namewodiacritics: Kostenice
-    subdiv: JC
+    locode: 'CZ KTE'
+    name: Kostice
+    namewodiacritics: Kostice
+    subdiv: JM
     function: '--3-----'
-    status: RQ
-    date: '0901'
+    status: RL
+    date: '1601'
     iata: ''
-    coordinates: ''
+    coordinates: '4845N 01659E'
     remarks: ''
 -
     ch: ''
@@ -5388,6 +6756,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CZ KZC'
+    name: Kozmice
+    namewodiacritics: Kozmice
+    subdiv: ST
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '4949N 01448E'
+    remarks: ''
+-
+    ch: ''
     locode: 'CZ KZY'
     name: Kozojedy
     namewodiacritics: Kozojedy
@@ -5399,7 +6779,7 @@
     coordinates: '4956N 01332E'
     remarks: ''
 -
-    ch: +
+    ch: ''
     locode: 'CZ KZO'
     name: Kozomin
     namewodiacritics: Kozomin
@@ -5436,6 +6816,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CZ KHO'
+    name: Krahulov
+    namewodiacritics: Krahulov
+    subdiv: VY
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '4913N 01548E'
+    remarks: ''
+-
+    ch: ''
     locode: 'CZ KME'
     name: Kralice
     namewodiacritics: Kralice
@@ -5469,6 +6861,18 @@
     date: '9701'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'CZ KLO'
+    name: Králov
+    namewodiacritics: Kralov
+    subdiv: '72'
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '4900N 01741E'
     remarks: ''
 -
     ch: ''
@@ -5640,6 +7044,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CZ KCP'
+    name: 'Kravare u Ceske Lipa'
+    namewodiacritics: 'Kravare u Ceske Lipa'
+    subdiv: LI
+    function: '--3-----'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '5037N 01423E'
+    remarks: ''
+-
+    ch: ''
     locode: 'CZ KSU'
     name: 'Kravare ve Slezsku'
     namewodiacritics: 'Kravare ve Slezsku'
@@ -5651,7 +7067,7 @@
     coordinates: '4956N 01801E'
     remarks: ''
 -
-    ch: +
+    ch: ''
     locode: 'CZ KBR'
     name: Krelov
     namewodiacritics: Krelov
@@ -5663,7 +7079,7 @@
     coordinates: '4937N 01712E'
     remarks: ''
 -
-    ch: +
+    ch: ''
     locode: 'CZ KRC'
     name: Krenice
     namewodiacritics: Krenice
@@ -5676,6 +7092,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CZ NOV'
+    name: Krenovice
+    namewodiacritics: Krenovice
+    subdiv: JM
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '4905N 01603E'
+    remarks: ''
+-
+    ch: ''
     locode: 'CZ KRE'
     name: Kresice
     namewodiacritics: Kresice
@@ -5685,6 +7113,18 @@
     date: '0901'
     iata: ''
     coordinates: '5045N 01412E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CZ KVA'
+    name: Krhová
+    namewodiacritics: Krhova
+    subdiv: '72'
+    function: '--3-----'
+    status: RL
+    date: '1901'
+    iata: ''
+    coordinates: '4929N 01800E'
     remarks: ''
 -
     ch: ''
@@ -5808,6 +7248,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CZ MZ4'
+    name: 'Kuncice Pod Ondrejnikem'
+    namewodiacritics: 'Kuncice Pod Ondrejnikem'
+    subdiv: MO
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4933N 01816E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CZ KUB'
+    name: 'Kuncicky u Basky'
+    namewodiacritics: 'Kuncicky u Basky'
+    subdiv: MO
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4939N 01822E'
+    remarks: ''
+-
+    ch: ''
     locode: 'CZ PUA'
     name: Kuncina
     namewodiacritics: Kuncina
@@ -5832,6 +7296,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CZ KUS'
+    name: Kunice
+    namewodiacritics: Kunice
+    subdiv: ST
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4956N 01440E'
+    remarks: ''
+-
+    ch: ''
     locode: 'CZ KNN'
     name: Kunín
     namewodiacritics: Kunin
@@ -5847,10 +7323,10 @@
     locode: 'CZ KVC'
     name: Kunovice
     namewodiacritics: Kunovice
-    subdiv: CSM
+    subdiv: ZL
     function: '-23-----'
     status: RL
-    date: '0401'
+    date: '1401'
     iata: ''
     coordinates: '4927N 01749E'
     remarks: ''
@@ -5928,6 +7404,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CZ ZLY'
+    name: Kvasice
+    namewodiacritics: Kvasice
+    subdiv: ZL
+    function: 1-3-----
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '4915N 01728E'
+    remarks: ''
+-
+    ch: ''
     locode: 'CZ KVS'
     name: Kvasiny
     namewodiacritics: Kvasiny
@@ -5973,6 +7461,18 @@
     date: '0901'
     iata: ''
     coordinates: '4902N 01747E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CZ KSC'
+    name: Kysice
+    namewodiacritics: Kysice
+    subdiv: PL
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '4945N 01329E'
     remarks: ''
 -
     ch: ''
@@ -6048,6 +7548,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CZ LKZ'
+    name: 'Lázne Kynzvart'
+    namewodiacritics: 'Lazne Kynzvart'
+    subdiv: '41'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '5001N 01238E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CZ L8S'
+    name: 'Lazne Tousen'
+    namewodiacritics: 'Lazne Tousen'
+    subdiv: ST
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5010N 01442E'
+    remarks: ''
+-
+    ch: ''
     locode: 'CZ LEC'
     name: Lechovice
     namewodiacritics: Lechovice
@@ -6081,6 +7605,66 @@
     date: '0901'
     iata: ''
     coordinates: '4942N 01517E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CZ LDC'
+    name: Ledenice
+    namewodiacritics: Ledenice
+    subdiv: JC
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '4856N 01438E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CZ L4E'
+    name: Lednice
+    namewodiacritics: Lednice
+    subdiv: JM
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '4848N 01648E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CZ LSK'
+    name: Leskovec
+    namewodiacritics: Leskovec
+    subdiv: '72'
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '4917N 01800E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CZ JML'
+    name: Lesonice
+    namewodiacritics: Lesonice
+    subdiv: JM
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '4900N 01618E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CZ LTN'
+    name: Lestina
+    namewodiacritics: Lestina
+    subdiv: '52'
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '5026N 01514E'
     remarks: ''
 -
     ch: ''
@@ -6132,6 +7716,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CZ LBA'
+    name: Libán
+    namewodiacritics: Liban
+    subdiv: '52'
+    function: '--3-----'
+    status: RL
+    date: '1707'
+    iata: ''
+    coordinates: '5022N 01513E'
+    remarks: ''
+-
+    ch: ''
     locode: 'CZ VSK'
     name: 'Libavské Údolí'
     namewodiacritics: 'Libavske Udoli'
@@ -6141,6 +7737,18 @@
     date: '0901'
     iata: ''
     coordinates: '5007N 01234E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CZ LK3'
+    name: Libcany
+    namewodiacritics: Libcany
+    subdiv: KR
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '5012N 01541E'
     remarks: ''
 -
     ch: ''
@@ -6216,6 +7824,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CZ LBL'
+    name: Liblice
+    namewodiacritics: Liblice
+    subdiv: '20'
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '5018N 01435E'
+    remarks: ''
+-
+    ch: ''
     locode: 'CZ LIC'
     name: Libochovany
     namewodiacritics: Libochovany
@@ -6228,13 +7848,25 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CZ LBI'
+    name: Libochovice
+    namewodiacritics: Libochovice
+    subdiv: US
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '5024N 01402E'
+    remarks: ''
+-
+    ch: ''
     locode: 'CZ LIB'
     name: Libosovice
     namewodiacritics: Libosovice
-    subdiv: CVC
+    subdiv: KR
     function: '-2------'
     status: RL
-    date: '0207'
+    date: '1401'
     iata: ''
     coordinates: '5029N 01510E'
     remarks: ''
@@ -6249,6 +7881,30 @@
     date: '0907'
     iata: ''
     coordinates: '5034N 01525E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CZ LAB'
+    name: Libun
+    namewodiacritics: Libun
+    subdiv: KR
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '5030N 01518E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CZ LBN'
+    name: Libusin
+    namewodiacritics: Libusin
+    subdiv: ST
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5010N 01413E'
     remarks: ''
 -
     ch: ''
@@ -6273,6 +7929,30 @@
     date: '0901'
     iata: ''
     coordinates: '4942N 01316E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CZ LNY'
+    name: Líny
+    namewodiacritics: Liny
+    subdiv: '20'
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '5027N 01449E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CZ LPI'
+    name: Lípa
+    namewodiacritics: Lipa
+    subdiv: ZL
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '4912N 01746E'
     remarks: ''
 -
     ch: ''
@@ -6372,6 +8052,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CZ LIT'
+    name: Liten
+    namewodiacritics: Liten
+    subdiv: ST
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '4954N 01409E'
+    remarks: ''
+-
+    ch: ''
     locode: 'CZ LCE'
     name: Litice
     namewodiacritics: Litice
@@ -6444,6 +8136,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CZ LNI'
+    name: Lochenice
+    namewodiacritics: Lochenice
+    subdiv: '52'
+    function: '-----6--'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '5016N 01549E'
+    remarks: ''
+-
+    ch: ''
     locode: 'CZ LUK'
     name: Lochovice
     namewodiacritics: Lochovice
@@ -6492,6 +8196,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CZ LCN'
+    name: Loucen
+    namewodiacritics: Loucen
+    subdiv: '20'
+    function: '--3-----'
+    status: RL
+    date: '2001'
+    iata: ''
+    coordinates: '5028N 01502E'
+    remarks: ''
+-
+    ch: ''
     locode: 'CZ OOU'
     name: 'Loucna Nad Desnou'
     namewodiacritics: 'Loucna Nad Desnou'
@@ -6516,18 +8232,6 @@
     remarks: ''
 -
     ch: ''
-    locode: 'CZ LKA'
-    name: Louka
-    namewodiacritics: Louka
-    subdiv: JM
-    function: '--3-----'
-    status: RL
-    date: '0901'
-    iata: ''
-    coordinates: '4855N 01730E'
-    remarks: ''
--
-    ch: ''
     locode: 'CZ LUT'
     name: Louka
     namewodiacritics: Louka
@@ -6537,6 +8241,18 @@
     date: '0901'
     iata: ''
     coordinates: '5035N 01339E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CZ LKA'
+    name: Louka
+    namewodiacritics: Louka
+    subdiv: JM
+    function: '--3-----'
+    status: RL
+    date: '0901'
+    iata: ''
+    coordinates: '4855N 01730E'
     remarks: ''
 -
     ch: ''
@@ -6684,6 +8400,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CZ LUP'
+    name: 'Lukavec u Pacova'
+    namewodiacritics: 'Lukavec u Pacova'
+    subdiv: '63'
+    function: '--3-----'
+    status: RL
+    date: '2001'
+    iata: ''
+    coordinates: '4934N 01500E'
+    remarks: ''
+-
+    ch: ''
     locode: 'CZ LUE'
     name: Lukavice
     namewodiacritics: Lukavice
@@ -6828,15 +8556,63 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CZ 3LZ'
+    name: Machova
+    namewodiacritics: Machova
+    subdiv: ZL
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '4915N 01733E'
+    remarks: ''
+-
+    ch: ''
     locode: 'CZ MSV'
     name: 'Malé Svatonovice'
     namewodiacritics: 'Male Svatonovice'
-    subdiv: CVC
+    subdiv: KR
     function: '-23-----'
     status: RL
-    date: '0501'
+    date: '1401'
     iata: ''
     coordinates: '5032N 01603E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CZ MVE'
+    name: Malenovice
+    namewodiacritics: Malenovice
+    subdiv: '80'
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '4935N 01824E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CZ M2V'
+    name: Malkov
+    namewodiacritics: Malkov
+    subdiv: US
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5027N 01320E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CZ MAN'
+    name: Manetín
+    namewodiacritics: Manetin
+    subdiv: PL
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '4959N 01314E'
     remarks: ''
 -
     ch: ''
@@ -6933,6 +8709,18 @@
     date: '1107'
     iata: ''
     coordinates: '5021N 01429E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CZ MEJ'
+    name: Menín
+    namewodiacritics: Menin
+    subdiv: JM
+    function: '--3-----'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '4905N 01643E'
     remarks: ''
 -
     ch: ''
@@ -7104,6 +8892,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CZ MII'
+    name: Milotice
+    namewodiacritics: Milotice
+    subdiv: JM
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4858N 01708E'
+    remarks: ''
+-
+    ch: ''
     locode: 'CZ MIB'
     name: 'Milotice nad Becvou'
     namewodiacritics: 'Milotice nad Becvou'
@@ -7185,6 +8985,18 @@
     date: '0212'
     iata: ''
     coordinates: '5025N 01454E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CZ MVZ'
+    name: 'Mlada Vozice'
+    namewodiacritics: 'Mlada Vozice'
+    subdiv: '31'
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '4932N 01449E'
     remarks: ''
 -
     ch: ''
@@ -7320,6 +9132,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CZ MHL'
+    name: Mohelnice
+    namewodiacritics: Mohelnice
+    subdiv: ''
+    function: '-23-----'
+    status: AA
+    date: '9701'
+    iata: ''
+    coordinates: ''
+    remarks: ''
+-
+    ch: ''
     locode: 'CZ MHI'
     name: Mohelnice
     namewodiacritics: Mohelnice
@@ -7332,18 +9156,6 @@
     remarks: ''
 -
     ch: ''
-    locode: 'CZ MHL'
-    name: Mohelnice
-    namewodiacritics: Mohelnice
-    subdiv: ''
-    function: '-23-----'
-    status: AA
-    date: '9701'
-    iata: ''
-    coordinates: ''
-    remarks: ''
--
-    ch: +
     locode: 'CZ MK8'
     name: Mokrá
     namewodiacritics: Mokra
@@ -7368,15 +9180,39 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CZ MKH'
+    name: Mokrá-Horákov
+    namewodiacritics: Mokra-Horakov
+    subdiv: '64'
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '4913N 01645E'
+    remarks: ''
+-
+    ch: ''
     locode: 'CZ MOL'
     name: 'Mokre Lazce'
     namewodiacritics: 'Mokre Lazce'
-    subdiv: ''
+    subdiv: '80'
     function: '--3-----'
     status: RL
-    date: '0901'
+    date: '1707'
     iata: ''
-    coordinates: '4954N 18014E'
+    coordinates: '4953N 01801E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CZ MK3'
+    name: Mokrovraty
+    namewodiacritics: Mokrovraty
+    subdiv: ST
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '4947N 01414E'
     remarks: ''
 -
     ch: ''
@@ -7389,6 +9225,18 @@
     date: '1301'
     iata: ''
     coordinates: '5043N 01339E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CZ MTV'
+    name: Molitorov
+    namewodiacritics: Molitorov
+    subdiv: '20'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '5000N 01458E'
     remarks: ''
 -
     ch: ''
@@ -7428,6 +9276,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CZ MNS'
+    name: 'Moravská Nová Ves'
+    namewodiacritics: 'Moravska Nova Ves'
+    subdiv: JM
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '4848N 01701E'
+    remarks: ''
+-
+    ch: ''
     locode: 'CZ MVB'
     name: 'Moravská Trebová'
     namewodiacritics: 'Moravska Trebova'
@@ -7455,10 +9315,10 @@
     locode: 'CZ MYB'
     name: 'Moravský Beroun'
     namewodiacritics: 'Moravsky Beroun'
-    subdiv: MO
+    subdiv: '71'
     function: '--3--6--'
     status: RL
-    date: '0507'
+    date: '1801'
     iata: ''
     coordinates: '4948N 01727E'
     remarks: ''
@@ -7497,6 +9357,18 @@
     date: '1001'
     iata: ''
     coordinates: '4849N 01655E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CZ MKO'
+    name: Morkov
+    namewodiacritics: Morkov
+    subdiv: '80'
+    function: '--3-----'
+    status: RQ
+    date: '1801'
+    iata: ''
+    coordinates: '4932N 01804E'
     remarks: ''
 -
     ch: ''
@@ -7584,6 +9456,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CZ MZL'
+    name: Msené-Lázne
+    namewodiacritics: Msene-Lazne
+    subdiv: '42'
+    function: '--3-----'
+    status: AM
+    date: '2101'
+    iata: ''
+    coordinates: '5022N 01407E'
+    remarks: ''
+-
+    ch: ''
     locode: 'CZ SOM'
     name: Mseno
     namewodiacritics: Mseno
@@ -7617,6 +9501,18 @@
     date: '0507'
     iata: ''
     coordinates: '4855N 01701E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CZ MDY'
+    name: Mydlovary
+    namewodiacritics: Mydlovary
+    subdiv: '32'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '4951N 01303E'
     remarks: ''
 -
     ch: ''
@@ -7668,6 +9564,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CZ NHY'
+    name: Nahorany
+    namewodiacritics: Nahorany
+    subdiv: KR
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5021N 01605E'
+    remarks: ''
+-
+    ch: ''
     locode: 'CZ NAM'
     name: 'Námest nad Oslavou'
     namewodiacritics: 'Namest nad Oslavou'
@@ -7689,6 +9597,42 @@
     date: '0607'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'CZ NSY'
+    name: Nasavrky
+    namewodiacritics: Nasavrky
+    subdiv: '53'
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '5002N 01616E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CZ NUB'
+    name: Nebovidy
+    namewodiacritics: Nebovidy
+    subdiv: JM
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4908N 01633E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CZ NEC'
+    name: Nechanice
+    namewodiacritics: Nechanice
+    subdiv: KR
+    function: '-23-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5014N 01538E'
     remarks: ''
 -
     ch: ''
@@ -7788,6 +9732,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CZ NMT'
+    name: Nemetice
+    namewodiacritics: Nemetice
+    subdiv: '31'
+    function: '--3-----'
+    status: RL
+    date: '2001'
+    iata: ''
+    coordinates: '4912N 01353E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CZ NIE'
+    name: Nemile
+    namewodiacritics: Nemile
+    subdiv: '71'
+    function: '--3-----'
+    status: RL
+    date: '1707'
+    iata: ''
+    coordinates: '4953N 01651E'
+    remarks: ''
+-
+    ch: ''
     locode: 'CZ NPH'
     name: Neplachov
     namewodiacritics: Neplachov
@@ -7863,12 +9831,36 @@
     locode: 'CZ NIC'
     name: Nestemice
     namewodiacritics: Nestemice
-    subdiv: CSC
+    subdiv: US
     function: '--3-----'
     status: RL
-    date: '0212'
+    date: '1401'
     iata: ''
     coordinates: '5040N 01406E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CZ NTN'
+    name: Netín
+    namewodiacritics: Netin
+    subdiv: VY
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4926N 01557E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CZ NET'
+    name: Netolice
+    namewodiacritics: Netolice
+    subdiv: JC
+    function: 1-3-----
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '4903N 01412E'
     remarks: ''
 -
     ch: ''
@@ -7944,6 +9936,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CZ MK4'
+    name: 'Nizni Lhoty'
+    namewodiacritics: 'Nizni Lhoty'
+    subdiv: MO
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4939N 01826E'
+    remarks: ''
+-
+    ch: ''
     locode: 'CZ NVS'
     name: Nosovice
     namewodiacritics: Nosovice
@@ -7953,6 +9957,18 @@
     date: '0001'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'CZ NOU'
+    name: Noutonice
+    namewodiacritics: Noutonice
+    subdiv: ST
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '5010N 01417E'
     remarks: ''
 -
     ch: ''
@@ -8004,6 +10020,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CZ NOE'
+    name: 'Nová Ves'
+    namewodiacritics: 'Nova Ves'
+    subdiv: '63'
+    function: '--3-----'
+    status: RL
+    date: '1707'
+    iata: ''
+    coordinates: '4909N 01553E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CZ NVB'
+    name: 'Nové Bránice'
+    namewodiacritics: 'Nove Branice'
+    subdiv: JM
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4904N 01627E'
+    remarks: ''
+-
+    ch: ''
     locode: 'CZ NVY'
     name: 'Nove Dvory'
     namewodiacritics: 'Nove Dvory'
@@ -8013,6 +10053,18 @@
     date: '0207'
     iata: ''
     coordinates: '4958N 01519E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CZ NHD'
+    name: 'Nové Hrady'
+    namewodiacritics: 'Nove Hrady'
+    subdiv: '31'
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '4847N 01447E'
     remarks: ''
 -
     ch: ''
@@ -8049,6 +10101,30 @@
     date: '0201'
     iata: ''
     coordinates: '5021N 01608E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CZ NWS'
+    name: 'Nové Mesto pod Smrkem'
+    namewodiacritics: 'Nove Mesto pod Smrkem'
+    subdiv: '51'
+    function: '-23-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '5055N 01513E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CZ 5MJ'
+    name: 'Nove Mlyny'
+    namewodiacritics: 'Nove Mlyny'
+    subdiv: JM
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4852N 01644E'
     remarks: ''
 -
     ch: ''
@@ -8163,10 +10239,10 @@
     locode: 'CZ NHV'
     name: 'Novy Hrozenkov'
     namewodiacritics: 'Novy Hrozenkov'
-    subdiv: CSM
+    subdiv: ZL
     function: '--3-----'
     status: RL
-    date: '0212'
+    date: '1401'
     iata: ''
     coordinates: '4920N 01812E'
     remarks: ''
@@ -8205,6 +10281,18 @@
     date: '0901'
     iata: ''
     coordinates: '4923N 01522E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CZ 8PL'
+    name: 'Novy Saldorf'
+    namewodiacritics: 'Novy Saldorf'
+    subdiv: JM
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '4850N 01604E'
     remarks: ''
 -
     ch: ''
@@ -8304,18 +10392,6 @@
     remarks: ''
 -
     ch: ''
-    locode: 'CZ ODV'
-    name: 'Odolena Voda'
-    namewodiacritics: 'Odolena Voda'
-    subdiv: ''
-    function: '--3-----'
-    status: RL
-    date: '0601'
-    iata: ''
-    coordinates: '5014N 01423E'
-    remarks: ''
--
-    ch: ''
     locode: 'CZ ODO'
     name: 'Odolena Voda'
     namewodiacritics: 'Odolena Voda'
@@ -8325,6 +10401,18 @@
     date: '0607'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'CZ ODV'
+    name: 'Odolena Voda'
+    namewodiacritics: 'Odolena Voda'
+    subdiv: ''
+    function: '--3-----'
+    status: RL
+    date: '0601'
+    iata: ''
+    coordinates: '5014N 01423E'
     remarks: ''
 -
     ch: ''
@@ -8373,6 +10461,18 @@
     date: '1301'
     iata: ''
     coordinates: '4938N 01530E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CZ OLH'
+    name: 'Oldrichov v Hájích'
+    namewodiacritics: 'Oldrichov v Hajich'
+    subdiv: '51'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '5051N 01505E'
     remarks: ''
 -
     ch: ''
@@ -8472,6 +10572,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CZ OEC'
+    name: Olsovec
+    namewodiacritics: Olsovec
+    subdiv: ZL
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4856N 01746E'
+    remarks: ''
+-
+    ch: ''
     locode: 'CZ OMO'
     name: Omoljica
     namewodiacritics: Omoljica
@@ -8507,7 +10619,7 @@
     coordinates: '4924N 01429E'
     remarks: ''
 -
-    ch: +
+    ch: ''
     locode: 'CZ OPV'
     name: Opatov
     namewodiacritics: Opatov
@@ -8640,6 +10752,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CZ OZ9'
+    name: Oskava
+    namewodiacritics: Oskava
+    subdiv: OL
+    function: '--3-----'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '4954N 01707E'
+    remarks: ''
+-
+    ch: ''
     locode: 'CZ OSY'
     name: Oslavany
     namewodiacritics: Oslavany
@@ -8661,6 +10785,18 @@
     date: '0901'
     iata: ''
     coordinates: '5016N 01743E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CZ OSV'
+    name: Osov
+    namewodiacritics: Osov
+    subdiv: ST
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '4951N 01405E'
     remarks: ''
 -
     ch: ''
@@ -8760,6 +10896,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CZ OAE'
+    name: Ostrovacice
+    namewodiacritics: Ostrovacice
+    subdiv: JM
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4913N 01625E'
+    remarks: ''
+-
+    ch: ''
     locode: 'CZ ONV'
     name: 'Ostrozská Nová Ves'
     namewodiacritics: 'Ostrozska Nova Ves'
@@ -8771,7 +10919,7 @@
     coordinates: '4901N 01726E'
     remarks: ''
 -
-    ch: +
+    ch: ''
     locode: 'CZ OTI'
     name: Otice
     namewodiacritics: Otice
@@ -8832,6 +10980,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CZ OUC'
+    name: Oucmanice
+    namewodiacritics: Oucmanice
+    subdiv: PA
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4959N 01617E'
+    remarks: ''
+-
+    ch: ''
     locode: 'CZ OVY'
     name: Ovcáry
     namewodiacritics: Ovcary
@@ -8880,6 +11040,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CZ PND'
+    name: 'Paseky nad Jizerou'
+    namewodiacritics: 'Paseky nad Jizerou'
+    subdiv: LI
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '5043N 01524E'
+    remarks: ''
+-
+    ch: ''
     locode: 'CZ PSV'
     name: Paskov
     namewodiacritics: Paskov
@@ -8891,7 +11063,7 @@
     coordinates: '4944N 01818E'
     remarks: ''
 -
-    ch: +
+    ch: ''
     locode: 'CZ 5PV'
     name: Pastviny
     namewodiacritics: Pastviny
@@ -8904,15 +11076,15 @@
     remarks: ''
 -
     ch: ''
-    locode: 'CZ PVV'
+    locode: 'CZ PAV'
     name: Pavlov
     namewodiacritics: Pavlov
-    subdiv: VY
+    subdiv: ST
     function: '--3-----'
     status: RL
-    date: '0901'
+    date: '1301'
     iata: ''
-    coordinates: '4924N 01515E'
+    coordinates: '5006N 01410E'
     remarks: ''
 -
     ch: ''
@@ -8928,15 +11100,15 @@
     remarks: ''
 -
     ch: ''
-    locode: 'CZ PAV'
+    locode: 'CZ PVV'
     name: Pavlov
     namewodiacritics: Pavlov
-    subdiv: ST
+    subdiv: VY
     function: '--3-----'
     status: RL
-    date: '1301'
+    date: '0901'
     iata: ''
-    coordinates: '5006N 01410E'
+    coordinates: '4924N 01515E'
     remarks: ''
 -
     ch: ''
@@ -8976,6 +11148,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CZ MMJ'
+    name: Pelhrimovy
+    namewodiacritics: Pelhrimovy
+    subdiv: MO
+    function: '--3-----'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '5011N 01740E'
+    remarks: ''
+-
+    ch: ''
     locode: 'CZ PEN'
     name: Pencin
     namewodiacritics: Pencin
@@ -8988,6 +11172,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CZ PNC'
+    name: Pencín
+    namewodiacritics: Pencin
+    subdiv: LI
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5041N 01514E'
+    remarks: ''
+-
+    ch: ''
     locode: 'CZ PTV'
     name: Petrov
     namewodiacritics: Petrov
@@ -8997,6 +11193,18 @@
     date: '9701'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'CZ SKP'
+    name: Petrovice
+    namewodiacritics: Petrovice
+    subdiv: '20'
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '5004N 01339E'
     remarks: ''
 -
     ch: ''
@@ -9051,12 +11259,12 @@
     locode: 'CZ PSK'
     name: Pisek
     namewodiacritics: Pisek
-    subdiv: ''
+    subdiv: JC
     function: '-23-----'
     status: AA
-    date: '9701'
+    date: '1607'
     iata: ''
-    coordinates: ''
+    coordinates: '4918N 01409E'
     remarks: ''
 -
     ch: ''
@@ -9117,6 +11325,18 @@
     date: '0901'
     iata: ''
     coordinates: '4952N 01245E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CZ PLA'
+    name: Planany
+    namewodiacritics: Planany
+    subdiv: '20'
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '5002N 01501E'
     remarks: ''
 -
     ch: ''
@@ -9216,6 +11436,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CZ EZI'
+    name: Podbrezí
+    namewodiacritics: Podbrezi
+    subdiv: KR
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '5016N 01613E'
+    remarks: ''
+-
+    ch: ''
     locode: 'CZ POD'
     name: Podebrady
     namewodiacritics: Podebrady
@@ -9239,7 +11471,7 @@
     coordinates: '4850N 01651E'
     remarks: ''
 -
-    ch: +
+    ch: ''
     locode: 'CZ VXC'
     name: Podolanka
     namewodiacritics: Podolanka
@@ -9249,6 +11481,30 @@
     date: '1307'
     iata: ''
     coordinates: '5009N 01436E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CZ PDL'
+    name: Podoli
+    namewodiacritics: Podoli
+    subdiv: JM
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '4911N 01644E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CZ PDX'
+    name: Podomí
+    namewodiacritics: Podomi
+    subdiv: '64'
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '4921N 01650E'
     remarks: ''
 -
     ch: ''
@@ -9276,6 +11532,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CZ PLY'
+    name: Polepy
+    namewodiacritics: Polepy
+    subdiv: US
+    function: '--3-----'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '5030N 01416E'
+    remarks: ''
+-
+    ch: ''
     locode: 'CZ POL'
     name: Polerady
     namewodiacritics: Polerady
@@ -9285,6 +11553,18 @@
     date: '0001'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'CZ 4PO'
+    name: Polesovice
+    namewodiacritics: Polesovice
+    subdiv: ZL
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '4902N 01720E'
     remarks: ''
 -
     ch: ''
@@ -9369,6 +11649,42 @@
     date: '0901'
     iata: ''
     coordinates: '5039N 01527E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CZ POP'
+    name: Popuvky
+    namewodiacritics: Popuvky
+    subdiv: OL
+    function: 1-3-----
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '4920N 01718E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CZ POU'
+    name: Popuvky
+    namewodiacritics: Popuvky
+    subdiv: JM
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4911N 01629E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CZ PCN'
+    name: Porícany
+    namewodiacritics: Poricany
+    subdiv: ST
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5006N 01456E'
     remarks: ''
 -
     ch: ''
@@ -9503,6 +11819,30 @@
     coordinates: ''
     remarks: ''
 -
+    ch: ''
+    locode: 'CZ P4A'
+    name: Prachovice
+    namewodiacritics: Prachovice
+    subdiv: PA
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '4954N 01538E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CZ PDO'
+    name: Prádlo
+    namewodiacritics: Pradlo
+    subdiv: '32'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '4930N 01332E'
+    remarks: ''
+-
     ch: '='
     locode: CZ
     name: 'Prague = Praha'
@@ -9513,6 +11853,18 @@
     date: ''
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'CZ XUY'
+    name: Prague-Vinohrady
+    namewodiacritics: Prague-Vinohrady
+    subdiv: ST
+    function: 1-3-----
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '5004N 01427E'
     remarks: ''
 -
     ch: ''
@@ -9527,7 +11879,7 @@
     coordinates: ''
     remarks: ''
 -
-    ch: +
+    ch: ''
     locode: 'CZ PKC'
     name: Praskacka
     namewodiacritics: Praskacka
@@ -9549,6 +11901,42 @@
     date: '1301'
     iata: ''
     coordinates: '4936N 01829E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CZ POJ'
+    name: Predboj
+    namewodiacritics: Predboj
+    subdiv: ST
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5014N 01429E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CZ PRD'
+    name: Predín
+    namewodiacritics: Predin
+    subdiv: '63'
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '4911N 01540E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CZ PUT'
+    name: Predklásteri
+    namewodiacritics: Predklasteri
+    subdiv: JM
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '4921N 01624E'
     remarks: ''
 -
     ch: ''
@@ -9708,6 +12096,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CZ PII'
+    name: Prichovice
+    namewodiacritics: Prichovice
+    subdiv: PL
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4934N 01320E'
+    remarks: ''
+-
+    ch: ''
     locode: 'CZ PIC'
     name: Prisovice
     namewodiacritics: Prisovice
@@ -9732,6 +12132,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CZ PBT'
+    name: Probostov
+    namewodiacritics: Probostov
+    subdiv: US
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5040N 01350E'
+    remarks: ''
+-
+    ch: ''
     locode: 'CZ PSE'
     name: Prosenice
     namewodiacritics: Prosenice
@@ -9753,6 +12165,18 @@
     date: '1301'
     iata: ''
     coordinates: '4941N 01429E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CZ PRM'
+    name: Prosimerice
+    namewodiacritics: Prosimerice
+    subdiv: JM
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '4854N 01611E'
     remarks: ''
 -
     ch: ''
@@ -9828,6 +12252,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CZ 7JK'
+    name: Psáry
+    namewodiacritics: Psary
+    subdiv: ST
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '4956N 01431E'
+    remarks: ''
+-
+    ch: ''
     locode: 'CZ PTI'
     name: Ptení
     namewodiacritics: Pteni
@@ -9852,6 +12288,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CZ RAB'
+    name: Ráby
+    namewodiacritics: Raby
+    subdiv: '53'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '5004N 01548E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CZ RAC'
+    name: Racice
+    namewodiacritics: Racice
+    subdiv: US
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '5028N 01421E'
+    remarks: ''
+-
+    ch: ''
     locode: 'CZ RVC'
     name: Rácovice
     namewodiacritics: Racovice
@@ -9861,6 +12321,18 @@
     date: '0601'
     iata: ''
     coordinates: '4901N 01541E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CZ RDR'
+    name: Radimer
+    namewodiacritics: Radimer
+    subdiv: PA
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '4943N 01627E'
     remarks: ''
 -
     ch: ''
@@ -9897,6 +12369,18 @@
     date: '0901'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'CZ RNO'
+    name: 'Radostín nad Oslavou'
+    namewodiacritics: 'Radostin nad Oslavou'
+    subdiv: VY
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '4927N 01557E'
     remarks: ''
 -
     ch: ''
@@ -10011,15 +12495,15 @@
     locode: 'CZ RAT'
     name: Rapotín
     namewodiacritics: Rapotin
-    subdiv: CSM
+    subdiv: OL
     function: '--3-----'
     status: RL
-    date: '0212'
+    date: '1401'
     iata: ''
     coordinates: '4959N 01700E'
     remarks: ''
 -
-    ch: +
+    ch: ''
     locode: 'CZ RSS'
     name: Rasosky
     namewodiacritics: Rasosky
@@ -10068,6 +12552,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CZ REP'
+    name: Repníky
+    namewodiacritics: Repniky
+    subdiv: PA
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '4955N 01605E'
+    remarks: ''
+-
+    ch: ''
     locode: 'CZ REV'
     name: Repov
     namewodiacritics: Repov
@@ -10079,7 +12575,7 @@
     coordinates: '5024N 01457E'
     remarks: ''
 -
-    ch: +
+    ch: ''
     locode: 'CZ REC'
     name: Revnice
     namewodiacritics: Revnice
@@ -10125,6 +12621,18 @@
     date: '0901'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'CZ RIV'
+    name: Ríkov
+    namewodiacritics: Rikov
+    subdiv: KA
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5023N 01601E'
     remarks: ''
 -
     ch: ''
@@ -10248,6 +12756,42 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CZ S4Y'
+    name: 'Rovensko pod Troskami'
+    namewodiacritics: 'Rovensko pod Troskami'
+    subdiv: KR
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '5030N 01515E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CZ RZD'
+    name: 'Rozd''alovice'
+    namewodiacritics: 'Rozd''alovice'
+    subdiv: '20'
+    function: '--3-----'
+    status: RL
+    date: '1707'
+    iata: ''
+    coordinates: '5018N 01510E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CZ RPT'
+    name: 'Rozmitál pod Tremsinem'
+    namewodiacritics: 'Rozmital pod Tremsinem'
+    subdiv: ST
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '4936N 01353E'
+    remarks: ''
+-
+    ch: ''
     locode: 'CZ RVR'
     name: 'Roznov pod Radhostem'
     namewodiacritics: 'Roznov pod Radhostem'
@@ -10269,6 +12813,18 @@
     date: '9806'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: +
+    locode: 'CZ RZI'
+    name: Rozstani
+    namewodiacritics: Rozstani
+    subdiv: '71'
+    function: '--3-----'
+    status: AM
+    date: '2201'
+    iata: ''
+    coordinates: '4924N 01650E'
     remarks: ''
 -
     ch: ''
@@ -10308,6 +12864,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CZ RPD'
+    name: 'Rtyne V Podkrkonosi'
+    namewodiacritics: 'Rtyne V Podkrkonosi'
+    subdiv: KR
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5030N 01604E'
+    remarks: ''
+-
+    ch: ''
     locode: 'CZ RUD'
     name: Rudná
     namewodiacritics: Rudna
@@ -10329,6 +12897,18 @@
     date: '0901'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'CZ RDK'
+    name: Rudník
+    namewodiacritics: Rudnik
+    subdiv: KR
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '5036N 01544E'
     remarks: ''
 -
     ch: ''
@@ -10392,6 +12972,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CZ RYH'
+    name: Rychnovek
+    namewodiacritics: Rychnovek
+    subdiv: '52'
+    function: '--3-----'
+    status: RL
+    date: '1707'
+    iata: ''
+    coordinates: '5021N 01558E'
+    remarks: ''
+-
+    ch: ''
     locode: 'CZ RCV'
     name: Rychvald
     namewodiacritics: Rychvald
@@ -10401,6 +12993,18 @@
     date: '0901'
     iata: ''
     coordinates: '4952N 01822E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CZ RYM'
+    name: Rymarov
+    namewodiacritics: Rymarov
+    subdiv: '80'
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '4956N 01716E'
     remarks: ''
 -
     ch: ''
@@ -10416,6 +13020,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CZ SDV'
+    name: Sadov
+    namewodiacritics: Sadov
+    subdiv: KA
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '5016N 01254E'
+    remarks: ''
+-
+    ch: ''
     locode: 'CZ SAD'
     name: Sadská
     namewodiacritics: Sadska
@@ -10425,6 +13041,30 @@
     date: '0901'
     iata: ''
     coordinates: '5008N 01459E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CZ JK6'
+    name: Sakvice
+    namewodiacritics: Sakvice
+    subdiv: JM
+    function: 1-3-----
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '4854N 01642E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CZ SAP'
+    name: Saplava
+    namewodiacritics: Saplava
+    subdiv: KR
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '5019N 01532E'
     remarks: ''
 -
     ch: ''
@@ -10464,6 +13104,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CZ SAC'
+    name: Sebranice
+    namewodiacritics: Sebranice
+    subdiv: JM
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '4930N 01635E'
+    remarks: ''
+-
+    ch: ''
     locode: 'CZ SAI'
     name: Sebranice
     namewodiacritics: Sebranice
@@ -10487,7 +13139,19 @@
     coordinates: '4940N 01425E'
     remarks: ''
 -
-    ch: +
+    ch: ''
+    locode: 'CZ NKN'
+    name: Sedlec
+    namewodiacritics: Sedlec
+    subdiv: JC
+    function: 1-3-----
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '4910N 01420E'
+    remarks: ''
+-
+    ch: ''
     locode: 'CZ SSP'
     name: Sedlec-Prcice
     namewodiacritics: Sedlec-Prcice
@@ -10509,6 +13173,18 @@
     date: '0907'
     iata: ''
     coordinates: '4922N 01356E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CZ SDL'
+    name: Sedliste
+    namewodiacritics: Sedliste
+    subdiv: MO
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '4943N 01821E'
     remarks: ''
 -
     ch: ''
@@ -10545,6 +13221,18 @@
     date: '0507'
     iata: ''
     coordinates: '4938N 01706E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CZ BTS'
+    name: Senicka
+    namewodiacritics: Senicka
+    subdiv: OL
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '4938N 01703E'
     remarks: ''
 -
     ch: ''
@@ -10644,6 +13332,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CZ SIV'
+    name: Sivice
+    namewodiacritics: Sivice
+    subdiv: JM
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4912N 01647E'
+    remarks: ''
+-
+    ch: ''
     locode: 'CZ SKU'
     name: Skalice
     namewodiacritics: Skalice
@@ -10653,6 +13353,18 @@
     date: '1301'
     iata: ''
     coordinates: '5034N 01408E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CZ SSX'
+    name: 'Skalice nad Svitavou'
+    namewodiacritics: 'Skalice nad Svitavou'
+    subdiv: JM
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4929N 01636E'
     remarks: ''
 -
     ch: ''
@@ -10677,6 +13389,18 @@
     date: '0701'
     iata: ''
     coordinates: '5010N 01222E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CZ SKR'
+    name: Skrivany
+    namewodiacritics: Skrivany
+    subdiv: KR
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5016N 01530E'
     remarks: ''
 -
     ch: ''
@@ -10788,6 +13512,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CZ SUH'
+    name: Slavkov
+    namewodiacritics: Slavkov
+    subdiv: ZL
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '4857N 01737E'
+    remarks: ''
+-
+    ch: ''
     locode: 'CZ SVB'
     name: 'Slavkov u Brna'
     namewodiacritics: 'Slavkov u Brna'
@@ -10847,7 +13583,7 @@
     coordinates: '5004N 01424E'
     remarks: ''
 -
-    ch: +
+    ch: ''
     locode: 'CZ SDY'
     name: Smidary
     namewodiacritics: Smidary
@@ -10919,7 +13655,7 @@
     coordinates: '4919N 01443E'
     remarks: ''
 -
-    ch: +
+    ch: ''
     locode: 'CZ SOV'
     name: Sobesovice
     namewodiacritics: Sobesovice
@@ -10935,10 +13671,10 @@
     locode: 'CZ SOB'
     name: Sobotín
     namewodiacritics: Sobotin
-    subdiv: CSM
+    subdiv: OL
     function: '--3-----'
     status: RL
-    date: '0212'
+    date: '1401'
     iata: ''
     coordinates: '5001N 01705E'
     remarks: ''
@@ -10980,6 +13716,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CZ SOE'
+    name: Sousedovice
+    namewodiacritics: Sousedovice
+    subdiv: '31'
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '4914N 01352E'
+    remarks: ''
+-
+    ch: ''
     locode: 'CZ SPR'
     name: 'Spáléne Porící'
     namewodiacritics: 'Spalene Porici'
@@ -11015,7 +13763,19 @@
     coordinates: '4909N 01731E'
     remarks: ''
 -
-    ch: +
+    ch: ''
+    locode: 'CZ 7OW'
+    name: Srbská
+    namewodiacritics: Srbska
+    subdiv: LI
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '5058N 01513E'
+    remarks: ''
+-
+    ch: ''
     locode: 'CZ SRH'
     name: Srch
     namewodiacritics: Srch
@@ -11079,12 +13839,24 @@
     locode: 'CZ SRO'
     name: 'Stará Role'
     namewodiacritics: 'Stara Role'
-    subdiv: CZC
+    subdiv: KA
     function: '-23-----'
     status: RL
-    date: '0212'
+    date: '1401'
     iata: ''
     coordinates: '5014N 01249E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CZ SAV'
+    name: 'Stará Voda'
+    namewodiacritics: 'Stara Voda'
+    subdiv: KA
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '5500N 01236E'
     remarks: ''
 -
     ch: ''
@@ -11100,6 +13872,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CZ KCY'
+    name: 'Stare Krecany'
+    namewodiacritics: 'Stare Krecany'
+    subdiv: US
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5057N 01430E'
+    remarks: ''
+-
+    ch: ''
     locode: 'CZ STM'
     name: 'Staré Mesto'
     namewodiacritics: 'Stare Mesto'
@@ -11107,6 +13891,18 @@
     function: '-23-----'
     status: RL
     date: '0701'
+    iata: ''
+    coordinates: '5010N 01657E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CZ ST2'
+    name: 'Staré Mesto pod Sneznikem'
+    namewodiacritics: 'Stare Mesto pod Sneznikem'
+    subdiv: OL
+    function: '--3-----'
+    status: RL
+    date: '1601'
     iata: ''
     coordinates: '5010N 01657E'
     remarks: ''
@@ -11124,6 +13920,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CZ SZD'
+    name: 'Staré Zdánice'
+    namewodiacritics: 'Stare Zdanice'
+    subdiv: '53'
+    function: '--3-----'
+    status: RL
+    date: '2001'
+    iata: ''
+    coordinates: '5008N 01543E'
+    remarks: ''
+-
+    ch: ''
     locode: 'CZ SRC'
     name: Staríc
     namewodiacritics: Staric
@@ -11133,6 +13941,18 @@
     date: '1207'
     iata: ''
     coordinates: '4941N 01816E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CZ SVC'
+    name: Starovice
+    namewodiacritics: Starovice
+    subdiv: '64'
+    function: '--3-----'
+    status: RL
+    date: '1707'
+    iata: ''
+    coordinates: '4857N 01643E'
     remarks: ''
 -
     ch: ''
@@ -11169,6 +13989,18 @@
     date: '0607'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'CZ SYV'
+    name: 'Starý Vestec'
+    namewodiacritics: 'Stary Vestec'
+    subdiv: ST
+    function: '--3-----'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '5009N 01451E'
     remarks: ''
 -
     ch: ''
@@ -11220,6 +14052,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CZ STP'
+    name: Stepánov
+    namewodiacritics: Stepanov
+    subdiv: OL
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '4941N 01713E'
+    remarks: ''
+-
+    ch: ''
     locode: 'CZ SNK'
     name: 'Stepanov nad Svratkou'
     namewodiacritics: 'Stepanov nad Svratkou'
@@ -11235,10 +14079,10 @@
     locode: 'CZ STB'
     name: Sternberk
     namewodiacritics: Sternberk
-    subdiv: CSM
+    subdiv: OL
     function: '--3-----'
     status: RL
-    date: '0207'
+    date: '1401'
     iata: ''
     coordinates: '4943N 01717E'
     remarks: ''
@@ -11265,6 +14109,18 @@
     date: '0901'
     iata: ''
     coordinates: '5013N 01545E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CZ SIT'
+    name: Stitina
+    namewodiacritics: Stitina
+    subdiv: MO
+    function: '-23-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '4955N 01801E'
     remarks: ''
 -
     ch: ''
@@ -11304,6 +14160,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CZ S9N'
+    name: Strachotín
+    namewodiacritics: Strachotin
+    subdiv: JM
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '4854N 01639E'
+    remarks: ''
+-
+    ch: ''
     locode: 'CZ SKN'
     name: Strakonice
     namewodiacritics: Strakonice
@@ -11337,6 +14205,18 @@
     date: '0212'
     iata: ''
     coordinates: '4854N 01744E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CZ SSC'
+    name: Strasice
+    namewodiacritics: Strasice
+    subdiv: PL
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4944N 01346E'
     remarks: ''
 -
     ch: ''
@@ -11448,6 +14328,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CZ SZ2'
+    name: Strázovice
+    namewodiacritics: Strazovice
+    subdiv: ST
+    function: '--3-----'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '4943N 01431E'
+    remarks: ''
+-
+    ch: ''
     locode: 'CZ SEY'
     name: Stredokluky
     namewodiacritics: Stredokluky
@@ -11544,6 +14436,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CZ SRT'
+    name: Struharov
+    namewodiacritics: Struharov
+    subdiv: ST
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4957N 01445E'
+    remarks: ''
+-
+    ch: ''
     locode: 'CZ SEB'
     name: 'Strunkovice nad Blanicí'
     namewodiacritics: 'Strunkovice nad Blanici'
@@ -11625,6 +14529,42 @@
     date: '1301'
     iata: ''
     coordinates: '4938N 01756E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CZ OSL'
+    name: 'Suché Lazce'
+    namewodiacritics: 'Suche Lazce'
+    subdiv: MO
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '4954N 01759E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CZ SCM'
+    name: Suchohrdly
+    namewodiacritics: Suchohrdly
+    subdiv: JM
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '4857N 01622E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CZ UHY'
+    name: Suchy
+    namewodiacritics: Suchy
+    subdiv: JM
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4929N 01646E'
     remarks: ''
 -
     ch: ''
@@ -11736,6 +14676,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CZ VSR'
+    name: Svatoborice
+    namewodiacritics: Svatoborice
+    subdiv: JM
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '4859N 01706E'
+    remarks: ''
+-
+    ch: ''
     locode: 'CZ SVK'
     name: 'Svaty Kriz'
     namewodiacritics: 'Svaty Kriz'
@@ -11772,6 +14724,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CZ SPJ'
+    name: 'Svetlá pod Jestedem'
+    namewodiacritics: 'Svetla pod Jestedem'
+    subdiv: LI
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5043N 01459E'
+    remarks: ''
+-
+    ch: ''
     locode: 'CZ SDO'
     name: Sviadnov
     namewodiacritics: Sviadnov
@@ -11781,6 +14745,30 @@
     date: '0601'
     iata: ''
     coordinates: '4942N 01821E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CZ SVY'
+    name: Svijany
+    namewodiacritics: Svijany
+    subdiv: '20'
+    function: '--3-----'
+    status: RL
+    date: '1707'
+    iata: ''
+    coordinates: '5034N 01504E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CZ SVI'
+    name: Svitávka
+    namewodiacritics: Svitavka
+    subdiv: '64'
+    function: '--3-----'
+    status: RL
+    date: '1707'
+    iata: ''
+    coordinates: '4930N 01636E'
     remarks: ''
 -
     ch: ''
@@ -11820,6 +14808,42 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CZ OEV'
+    name: Syrovice
+    namewodiacritics: Syrovice
+    subdiv: US
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '5016N 01328E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CZ SXR'
+    name: Syrovice
+    namewodiacritics: Syrovice
+    subdiv: '64'
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '4905N 01633E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CZ SYR'
+    name: Syrovín
+    namewodiacritics: Syrovin
+    subdiv: JM
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4902N 01716E'
+    remarks: ''
+-
+    ch: ''
     locode: 'CZ TBR'
     name: Tabor
     namewodiacritics: Tabor
@@ -11841,6 +14865,18 @@
     date: '1107'
     iata: ''
     coordinates: '4924N 01439E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CZ TAH'
+    name: Tachlovice
+    namewodiacritics: Tachlovice
+    subdiv: '20'
+    function: '--3-----'
+    status: RL
+    date: '2001'
+    iata: ''
+    coordinates: '5001N 01415E'
     remarks: ''
 -
     ch: ''
@@ -11880,6 +14916,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CZ TCV'
+    name: Tecovice
+    namewodiacritics: Tecovice
+    subdiv: '72'
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '4913N 01735E'
+    remarks: ''
+-
+    ch: ''
     locode: 'CZ SHC'
     name: Tehovec
     namewodiacritics: Tehovec
@@ -11903,7 +14951,7 @@
     coordinates: '4911N 01528E'
     remarks: ''
 -
-    ch: +
+    ch: ''
     locode: 'CZ TC9'
     name: Telce
     namewodiacritics: Telce
@@ -11937,6 +14985,18 @@
     date: '0901'
     iata: ''
     coordinates: '4912N 01421E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CZ TPL'
+    name: Teplá
+    namewodiacritics: Tepla
+    subdiv: KA
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '4959N 01252E'
     remarks: ''
 -
     ch: ''
@@ -12120,6 +15180,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CZ TBE'
+    name: Treben
+    namewodiacritics: Treben
+    subdiv: '41'
+    function: '--3-----'
+    status: RL
+    date: '1707'
+    iata: ''
+    coordinates: '5008N 01224E'
+    remarks: ''
+-
+    ch: ''
     locode: 'CZ TRN'
     name: Trebenice
     namewodiacritics: Trebenice
@@ -12204,13 +15276,25 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CZ TMS'
+    name: Tremosná
+    namewodiacritics: Tremosna
+    subdiv: PL
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4949N 01324E'
+    remarks: ''
+-
+    ch: ''
     locode: 'CZ TMO'
     name: Tremosnice
     namewodiacritics: Tremosnice
-    subdiv: CVC
+    subdiv: PA
     function: '--3-----'
     status: RL
-    date: '0401'
+    date: '1401'
     iata: ''
     coordinates: '4953N 01535E'
     remarks: ''
@@ -12228,6 +15312,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CZ THV'
+    name: Trhanov
+    namewodiacritics: Trhanov
+    subdiv: PL
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4925N 01251E'
+    remarks: ''
+-
+    ch: ''
     locode: 'CZ TSY'
     name: 'Trhove Sviny'
     namewodiacritics: 'Trhove Sviny'
@@ -12239,7 +15335,7 @@
     coordinates: ''
     remarks: ''
 -
-    ch: +
+    ch: ''
     locode: 'CZ THS'
     name: 'Trhové Sviny'
     namewodiacritics: 'Trhove Sviny'
@@ -12324,6 +15420,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CZ TRS'
+    name: Trsice
+    namewodiacritics: Trsice
+    subdiv: OL
+    function: '--3-----'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '4933N 01726E'
+    remarks: ''
+-
+    ch: ''
     locode: 'CZ TRU'
     name: Trutnov
     namewodiacritics: Trutnov
@@ -12333,6 +15441,18 @@
     date: '9701'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'CZ TPC'
+    name: Tucapy
+    namewodiacritics: Tucapy
+    subdiv: ZL
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '4902N 01719E'
     remarks: ''
 -
     ch: ''
@@ -12516,6 +15636,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CZ UKY'
+    name: Uholicky
+    namewodiacritics: Uholicky
+    subdiv: '20'
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '5010N 01420E'
+    remarks: ''
+-
+    ch: ''
     locode: 'CZ UJZ'
     name: Ujezd
     namewodiacritics: Ujezd
@@ -12525,6 +15657,18 @@
     date: '1207'
     iata: ''
     coordinates: '4910N 01754E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CZ UJE'
+    name: Ujezdecek
+    namewodiacritics: Ujezdecek
+    subdiv: '42'
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '5038N 01350E'
     remarks: ''
 -
     ch: ''
@@ -12567,12 +15711,24 @@
     locode: 'CZ UPI'
     name: Upice
     namewodiacritics: Upice
-    subdiv: CVC
+    subdiv: KR
     function: '--3-----'
     status: RL
-    date: '0212'
+    date: '1401'
     iata: ''
     coordinates: '5031N 01601E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CZ UBO'
+    name: Úsobrno
+    namewodiacritics: Usobrno
+    subdiv: JM
+    function: '--3-----'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '4936N 01646E'
     remarks: ''
 -
     ch: ''
@@ -12585,6 +15741,18 @@
     date: '0212'
     iata: ''
     coordinates: '4948N 01701E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CZ UST'
+    name: Ústek
+    namewodiacritics: Ustek
+    subdiv: US
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5035N 01421E'
     remarks: ''
 -
     ch: ''
@@ -12660,6 +15828,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CZ VPK'
+    name: 'Valasska Polanka'
+    namewodiacritics: 'Valasska Polanka'
+    subdiv: ZL
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '4915N 01800E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CZ VPL'
+    name: 'Valasská Polanka'
+    namewodiacritics: 'Valasska Polanka'
+    subdiv: '72'
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '4915N 01800E'
+    remarks: ''
+-
+    ch: ''
     locode: 'CZ ZVY'
     name: 'Valasske Klobouky'
     namewodiacritics: 'Valasske Klobouky'
@@ -12720,6 +15912,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CZ VNA'
+    name: Vanovice
+    namewodiacritics: Vanovice
+    subdiv: JM
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '4934N 01640E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CZ VNE'
+    name: Vanovice
+    namewodiacritics: Vanovice
+    subdiv: ST
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '5015N 01457E'
+    remarks: ''
+-
+    ch: ''
     locode: 'CZ VFA'
     name: Varnsdorf
     namewodiacritics: Varnsdorf
@@ -12729,6 +15945,18 @@
     date: '9701'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'CZ VAS'
+    name: Vasirov
+    namewodiacritics: Vasirov
+    subdiv: ST
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '5008N 01357E'
     remarks: ''
 -
     ch: ''
@@ -12765,6 +15993,42 @@
     date: '0901'
     iata: ''
     coordinates: '5005N 01324E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CZ VB2'
+    name: Veleliby
+    namewodiacritics: Veleliby
+    subdiv: ST
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5013N 01501E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CZ MIN'
+    name: Velemin
+    namewodiacritics: Velemin
+    subdiv: '42'
+    function: '--3-----'
+    status: RL
+    date: '2001'
+    iata: ''
+    coordinates: '5032N 01359E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CZ VMY'
+    name: Velemysleves
+    namewodiacritics: Velemysleves
+    subdiv: US
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '5024N 01334E'
     remarks: ''
 -
     ch: ''
@@ -12840,6 +16104,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CZ VBT'
+    name: 'Velká Bystrice'
+    namewodiacritics: 'Velka Bystrice'
+    subdiv: OL
+    function: '--3-----'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '4936N 01721E'
+    remarks: ''
+-
+    ch: ''
     locode: 'CZ VDA'
     name: 'Velka Dobra'
     namewodiacritics: 'Velka Dobra'
@@ -12861,6 +16137,18 @@
     date: '0901'
     iata: ''
     coordinates: '4958N 01240E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CZ VLX'
+    name: 'Velká Losenice'
+    namewodiacritics: 'Velka Losenice'
+    subdiv: '63'
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '4935N 01550E'
     remarks: ''
 -
     ch: ''
@@ -12900,6 +16188,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CZ LKE'
+    name: 'Velké Brezno'
+    namewodiacritics: 'Velke Brezno'
+    subdiv: '42'
+    function: '--3-----'
+    status: RL
+    date: '1707'
+    iata: ''
+    coordinates: '5040N 01409E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CZ CMO'
+    name: 'Velke Hostice'
+    namewodiacritics: 'Velke Hostice'
+    subdiv: MO
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4956N 01758E'
+    remarks: ''
+-
+    ch: ''
     locode: 'CZ VKC'
     name: 'Velké Karlovice'
     namewodiacritics: 'Velke Karlovice'
@@ -12921,6 +16233,18 @@
     date: '0212'
     iata: ''
     coordinates: '4921N 01601E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CZ VMC'
+    name: 'Velké Nemcice'
+    namewodiacritics: 'Velke Nemcice'
+    subdiv: '64'
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '4859N 01640E'
     remarks: ''
 -
     ch: ''
@@ -12983,7 +16307,7 @@
     coordinates: '5006N 01510E'
     remarks: ''
 -
-    ch: '#'
+    ch: ''
     locode: 'CZ VKS'
     name: 'Velký Senov'
     namewodiacritics: 'Velky Senov'
@@ -12993,7 +16317,7 @@
     date: '1307'
     iata: ''
     coordinates: '5059N 01423E'
-    remarks: '@Sub@Coo'
+    remarks: ''
 -
     ch: ''
     locode: 'CZ TYC'
@@ -13068,6 +16392,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CZ VER'
+    name: Verovice
+    namewodiacritics: Verovice
+    subdiv: '80'
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '4933N 01807E'
+    remarks: ''
+-
+    ch: ''
     locode: 'CZ JVI'
     name: 'Veseli nad Luznici'
     namewodiacritics: 'Veseli nad Luznici'
@@ -13116,6 +16452,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CZ VTK'
+    name: Vetrkovice
+    namewodiacritics: Vetrkovice
+    subdiv: MO
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '4947N 01750E'
+    remarks: ''
+-
+    ch: ''
     locode: 'CZ VTI'
     name: Vetrní
     namewodiacritics: Vetrni
@@ -13161,6 +16509,18 @@
     date: '0901'
     iata: ''
     coordinates: '5038N 01530E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CZ VVC'
+    name: Vidovice
+    namewodiacritics: Vidovice
+    subdiv: ST
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '4956N 01440E'
     remarks: ''
 -
     ch: ''
@@ -13296,6 +16656,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CZ VDY'
+    name: Vodnany
+    namewodiacritics: Vodnany
+    subdiv: '31'
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '4909N 01411E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CZ VOO'
+    name: Vodochody
+    namewodiacritics: Vodochody
+    subdiv: US
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5022N 01415E'
+    remarks: ''
+-
+    ch: ''
     locode: 'CZ VJO'
     name: Vojkovice
     namewodiacritics: Vojkovice
@@ -13356,6 +16740,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CZ VRV'
+    name: Vortová
+    namewodiacritics: Vortova
+    subdiv: PA
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4943N 01556E'
+    remarks: ''
+-
+    ch: ''
     locode: 'CZ VOT'
     name: Votice
     namewodiacritics: Votice
@@ -13367,7 +16763,19 @@
     coordinates: '4939N 01439E'
     remarks: ''
 -
-    ch: +
+    ch: ''
+    locode: 'CZ VRX'
+    name: Vraclav
+    namewodiacritics: Vraclav
+    subdiv: PA
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '4958N 01605E'
+    remarks: ''
+-
+    ch: ''
     locode: 'CZ VVR'
     name: Vracov
     namewodiacritics: Vracov
@@ -13428,6 +16836,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CZ VTW'
+    name: Vrbatky
+    namewodiacritics: Vrbatky
+    subdiv: OL
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '4930N 01712E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CZ VRB'
+    name: Vrbicany
+    namewodiacritics: Vrbicany
+    subdiv: US
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '5028N 01405E'
+    remarks: ''
+-
+    ch: ''
     locode: 'CZ VPP'
     name: 'Vrbno pod Pradedem'
     namewodiacritics: 'Vrbno pod Pradedem'
@@ -13461,6 +16893,18 @@
     date: '0212'
     iata: ''
     coordinates: '5037N 01536E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CZ VRJ'
+    name: 'Vrchotovy Janovice'
+    namewodiacritics: 'Vrchotovy Janovice'
+    subdiv: '20'
+    function: '--3-----'
+    status: RL
+    date: '1707'
+    iata: ''
+    coordinates: '4941N 01436E'
     remarks: ''
 -
     ch: ''
@@ -13499,7 +16943,7 @@
     coordinates: '4926N 01437E'
     remarks: ''
 -
-    ch: +
+    ch: ''
     locode: 'CZ VHV'
     name: Vsechovice
     namewodiacritics: Vsechovice
@@ -13533,6 +16977,18 @@
     date: '0901'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'CZ VSX'
+    name: Vseliby
+    namewodiacritics: Vseliby
+    subdiv: '52'
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '5026N 01605E'
     remarks: ''
 -
     ch: ''
@@ -13632,6 +17088,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CZ SVP'
+    name: 'Vysoká Pec'
+    namewodiacritics: 'Vysoka Pec'
+    subdiv: US
+    function: '--3-----'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '5031N 01328E'
+    remarks: ''
+-
+    ch: ''
     locode: 'CZ VMO'
     name: 'Vysoké Myto'
     namewodiacritics: 'Vysoke Myto'
@@ -13677,6 +17145,30 @@
     date: '0901'
     iata: ''
     coordinates: '4925N 01708E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CZ VYB'
+    name: 'Vyssi Brod'
+    namewodiacritics: 'Vyssi Brod'
+    subdiv: '31'
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '4837N 01419E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CZ ZBC'
+    name: Zabcice
+    namewodiacritics: Zabcice
+    subdiv: JM
+    function: '--3-----'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '4901N 01636E'
     remarks: ''
 -
     ch: ''
@@ -13800,6 +17292,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CZ ZLA'
+    name: Zalany
+    namewodiacritics: Zalany
+    subdiv: US
+    function: '--3-----'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '5035N 01354E'
+    remarks: ''
+-
+    ch: ''
     locode: 'CZ ZAZ'
     name: Zaluzany
     namewodiacritics: Zaluzany
@@ -13836,6 +17340,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CZ SWQ'
+    name: Zaravice
+    namewodiacritics: Zaravice
+    subdiv: PA
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '5006N 01534E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CZ ZRY'
+    name: Záryby
+    namewodiacritics: Zaryby
+    subdiv: '20'
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '5013N 01438E'
+    remarks: ''
+-
+    ch: ''
     locode: 'CZ ZAS'
     name: Zasmuky
     namewodiacritics: Zasmuky
@@ -13848,6 +17376,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CZ ZSV'
+    name: Zasová
+    namewodiacritics: Zasova
+    subdiv: ZL
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4929N 01803E'
+    remarks: ''
+-
+    ch: ''
     locode: 'CZ ZUB'
     name: Zastávka
     namewodiacritics: Zastavka
@@ -13857,6 +17397,18 @@
     date: '0901'
     iata: ''
     coordinates: '4912N 01622E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CZ Z2Q'
+    name: Zatcany
+    namewodiacritics: Zatcany
+    subdiv: JM
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4905N 01644E'
     remarks: ''
 -
     ch: ''
@@ -13881,6 +17433,18 @@
     date: '0901'
     iata: ''
     coordinates: '4915N 01717E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CZ ZBV'
+    name: Zbraslav
+    namewodiacritics: Zbraslav
+    subdiv: '10'
+    function: '--3-----'
+    status: AM
+    date: '2107'
+    iata: ''
+    coordinates: '4959N 01424E'
     remarks: ''
 -
     ch: ''
@@ -13920,6 +17484,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CZ ZBL'
+    name: Zbyslavice
+    namewodiacritics: Zbyslavice
+    subdiv: MO
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4948N 01805E'
+    remarks: ''
+-
+    ch: ''
     locode: 'CZ JZB'
     name: Zbysov
     namewodiacritics: Zbysov
@@ -13929,6 +17505,18 @@
     date: '0901'
     iata: ''
     coordinates: '4909N 01620E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CZ ZCE'
+    name: Zdánice
+    namewodiacritics: Zdanice
+    subdiv: JM
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '4904N 01702E'
     remarks: ''
 -
     ch: ''
@@ -13979,7 +17567,7 @@
     coordinates: '4934N 01557E'
     remarks: ''
 -
-    ch: +
+    ch: ''
     locode: 'CZ ZDR'
     name: 'Zd''ár u Mnichova Hradiste'
     namewodiacritics: 'Zd''ar u Mnichova Hradiste'
@@ -13989,6 +17577,18 @@
     date: '1307'
     iata: ''
     coordinates: '5032N 01504E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CZ ZDE'
+    name: Zdechovice
+    namewodiacritics: Zdechovice
+    subdiv: PA
+    function: '--3-----'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '5001N 01528E'
     remarks: ''
 -
     ch: ''
@@ -14049,6 +17649,42 @@
     date: '0507'
     iata: ''
     coordinates: '4942N 01549E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CZ ZDV'
+    name: Zdislavice
+    namewodiacritics: Zdislavice
+    subdiv: '20'
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '4941N 01459E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CZ ZDC'
+    name: Zdislavice
+    namewodiacritics: Zdislavice
+    subdiv: ST
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '4941N 01459E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CZ L4L'
+    name: Zdislavice
+    namewodiacritics: Zdislavice
+    subdiv: ZL
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '4913N 01716E'
     remarks: ''
 -
     ch: ''
@@ -14160,6 +17796,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'CZ Z8K'
+    name: Zeleznice
+    namewodiacritics: Zeleznice
+    subdiv: KR
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '5028N 01522E'
+    remarks: ''
+-
+    ch: ''
     locode: 'CZ ZYB'
     name: 'Zelezny Brod'
     namewodiacritics: 'Zelezny Brod'
@@ -14193,6 +17841,42 @@
     date: '0207'
     iata: ''
     coordinates: '4919N 01511E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CZ ZIT'
+    name: Zitkova
+    namewodiacritics: Zitkova
+    subdiv: ZL
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4859N 01753E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CZ ZIZ'
+    name: Zizice
+    namewodiacritics: Zizice
+    subdiv: ST
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '5015N 01409E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'CZ KOA'
+    name: 'Zlata Koruna'
+    namewodiacritics: 'Zlata Koruna'
+    subdiv: JC
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '4851N 01423E'
     remarks: ''
 -
     ch: ''
@@ -14289,6 +17973,18 @@
     date: '9701'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'CZ ZUC'
+    name: Zruc
+    namewodiacritics: Zruc
+    subdiv: '32'
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '4948N 01326E'
     remarks: ''
 -
     ch: ''

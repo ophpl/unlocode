@@ -1,5 +1,5 @@
 -
-    ch: ¦
+    ch: ''
     locode: 'NR INU'
     name: 'Nauru Island'
     namewodiacritics: 'Nauru Island'
@@ -9,4 +9,16 @@
     date: '1307'
     iata: ''
     coordinates: '0033S 16655E'
-    remarks: '@Coo'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NR YRN'
+    name: Yaren
+    namewodiacritics: Yaren
+    subdiv: '14'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '0032S 16655E'
+    remarks: ''

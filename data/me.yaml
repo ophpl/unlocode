@@ -47,7 +47,7 @@
     coordinates: '4302N 01944E'
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'ME BUD'
     name: Budva
     namewodiacritics: Budva
@@ -57,7 +57,7 @@
     date: '1307'
     iata: ''
     coordinates: '4217N 01850E'
-    remarks: '@Sub'
+    remarks: ''
 -
     ch: ''
     locode: 'ME CET'
@@ -69,6 +69,18 @@
     date: '1207'
     iata: ''
     coordinates: '4222N 01855E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ME DNL'
+    name: Danilovgrad
+    namewodiacritics: Danilovgrad
+    subdiv: '07'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4233N 01906E'
     remarks: ''
 -
     ch: ''
@@ -95,7 +107,7 @@
     coordinates: '4228N 01831E'
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'ME KOT'
     name: Kotor
     namewodiacritics: Kotor
@@ -105,9 +117,33 @@
     date: '1307'
     iata: ''
     coordinates: '4225N 01846E'
-    remarks: '@Sub'
+    remarks: ''
 -
-    ch: ¦
+    ch: ''
+    locode: 'ME LJA'
+    name: Ljajkovici
+    namewodiacritics: Ljajkovici
+    subdiv: '16'
+    function: '--3-----'
+    status: RL
+    date: '1907'
+    iata: ''
+    coordinates: '4222N 01912E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'ME MKV'
+    name: Mojkovac
+    namewodiacritics: Mojkovac
+    subdiv: '11'
+    function: '--3-----'
+    status: AM
+    date: '2007'
+    iata: ''
+    coordinates: '4257N 01934E'
+    remarks: ''
+-
+    ch: ''
     locode: 'ME NIK'
     name: Niksic
     namewodiacritics: Niksic
@@ -117,7 +153,7 @@
     date: '1307'
     iata: ''
     coordinates: '4246N 01856E'
-    remarks: '@Sub'
+    remarks: ''
 -
     ch: ''
     locode: 'ME PVC'
@@ -131,7 +167,7 @@
     coordinates: '4212N 01856E'
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'ME PLJ'
     name: Pljevlja
     namewodiacritics: Pljevlja
@@ -141,7 +177,7 @@
     date: '1307'
     iata: ''
     coordinates: '4321N 01921E'
-    remarks: '@Sub'
+    remarks: ''
 -
     ch: ''
     locode: 'ME TGD'
@@ -161,10 +197,10 @@
     namewodiacritics: 'Rijeka Crnojevica'
     subdiv: '16'
     function: '--3-----'
-    status: RQ
-    date: '0907'
+    status: RL
+    date: '1707'
     iata: ''
-    coordinates: '4231N 19158E'
+    coordinates: '4221N 01902E'
     remarks: ''
 -
     ch: ''
@@ -179,7 +215,7 @@
     coordinates: '4231N 01842E'
     remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'ME TIV'
     name: Tivat
     namewodiacritics: Tivat
@@ -189,9 +225,9 @@
     date: '1307'
     iata: ''
     coordinates: '4226N 01842E'
-    remarks: '@Sub'
+    remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'ME ULC'
     name: Ulcinj
     namewodiacritics: Ulcinj
@@ -201,9 +237,9 @@
     date: '1307'
     iata: ''
     coordinates: '4155N 01912E'
-    remarks: '@Sub'
+    remarks: ''
 -
-    ch: ¦
+    ch: ''
     locode: 'ME ZBK'
     name: Zabljak
     namewodiacritics: Zabljak
@@ -213,7 +249,7 @@
     date: '1307'
     iata: ''
     coordinates: '4309N 01907E'
-    remarks: '@Sub'
+    remarks: ''
 -
     ch: ''
     locode: 'ME ZEL'

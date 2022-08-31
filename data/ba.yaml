@@ -12,6 +12,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'BA BER'
+    name: Berkovici
+    namewodiacritics: Berkovici
+    subdiv: SRP
+    function: '--3-----'
+    status: RL
+    date: '1707'
+    iata: ''
+    coordinates: '4305N 01810E'
+    remarks: ''
+-
+    ch: ''
     locode: 'BA BHC'
     name: Bihac
     namewodiacritics: Bihac
@@ -84,6 +96,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'BA BPE'
+    name: 'Bosanski Petrovac'
+    namewodiacritics: 'Bosanski Petrovac'
+    subdiv: BIH
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '4433N 01622E'
+    remarks: ''
+-
+    ch: ''
     locode: 'BA BKO'
     name: Brcko
     namewodiacritics: Brcko
@@ -117,6 +141,42 @@
     date: '0701'
     iata: ''
     coordinates: '4403N 01726E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BA BAA'
+    name: Busovaca
+    namewodiacritics: Busovaca
+    subdiv: '06'
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '4405N 01752E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BA 4CA'
+    name: Cazin
+    namewodiacritics: Cazin
+    subdiv: BIH
+    function: 1-3-----
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '4458N 01556E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BA CEL'
+    name: Celinac
+    namewodiacritics: Celinac
+    subdiv: SRP
+    function: '--3-----'
+    status: RL
+    date: '1707'
+    iata: ''
+    coordinates: '4443N 01719E'
     remarks: ''
 -
     ch: ''
@@ -192,6 +252,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'BA DUK'
+    name: Durdevik
+    namewodiacritics: Durdevik
+    subdiv: BIH
+    function: '--3-----'
+    status: RL
+    date: '2001'
+    iata: ''
+    coordinates: '4424N 01839E'
+    remarks: ''
+-
+    ch: ''
     locode: 'BA FOJ'
     name: Fojnica
     namewodiacritics: Fojnica
@@ -213,6 +285,30 @@
     date: '0901'
     iata: ''
     coordinates: '4340N 01859E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BA BGV'
+    name: 'Gornji Vakuf-Uskoplje'
+    namewodiacritics: 'Gornji Vakuf-Uskoplje'
+    subdiv: '06'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4356N 01735E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BA C6G'
+    name: Gracanica
+    namewodiacritics: Gracanica
+    subdiv: BIH
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '4442N 01818E'
     remarks: ''
 -
     ch: ''
@@ -300,6 +396,30 @@
     remarks: ''
 -
     ch: ''
+    locode: 'BA KAC'
+    name: Kacuni
+    namewodiacritics: Kacuni
+    subdiv: '07'
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '4403N 01756E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BA KAJ'
+    name: Kakanj
+    namewodiacritics: Kakanj
+    subdiv: BIH
+    function: '--3-----'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '4407N 01807E'
+    remarks: ''
+-
+    ch: ''
     locode: 'BA KSA'
     name: Kalesija
     namewodiacritics: Kalesija
@@ -321,6 +441,18 @@
     date: '0407'
     iata: ''
     coordinates: '4356N 01804E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BA KDJ'
+    name: Kladanj
+    namewodiacritics: Kladanj
+    subdiv: BIH
+    function: '--3-----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '4413N 01841E'
     remarks: ''
 -
     ch: ''
@@ -516,6 +648,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'BA NEV'
+    name: Nevesinje
+    namewodiacritics: Nevesinje
+    subdiv: SRP
+    function: '--3-----'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '4315N 01806E'
+    remarks: ''
+-
+    ch: ''
     locode: 'BA ORA'
     name: Orasje
     namewodiacritics: Orasje
@@ -525,6 +669,42 @@
     date: '1007'
     iata: ''
     coordinates: '4502N 01842E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BA OSM'
+    name: Osmaci
+    namewodiacritics: Osmaci
+    subdiv: BIH
+    function: '--3-----'
+    status: RL
+    date: '1807'
+    iata: ''
+    coordinates: '4424N 01854E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BA OZM'
+    name: Ozimica
+    namewodiacritics: Ozimica
+    subdiv: BIH
+    function: '--3-----'
+    status: RL
+    date: '1701'
+    iata: ''
+    coordinates: '4428N 01802E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BA PAL'
+    name: Pale
+    namewodiacritics: Pale
+    subdiv: SRP
+    function: '--3-----'
+    status: RL
+    date: '1707'
+    iata: ''
+    coordinates: '4348N 01834E'
     remarks: ''
 -
     ch: ''
@@ -681,6 +861,18 @@
     date: '0407'
     iata: ''
     coordinates: '4456N 01601E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'BA STC'
+    name: Stolac
+    namewodiacritics: Stolac
+    subdiv: BIH
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '4305N 01757E'
     remarks: ''
 -
     ch: ''

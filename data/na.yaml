@@ -28,11 +28,11 @@
     name: Ariamsvlei
     namewodiacritics: Ariamsvlei
     subdiv: KA
-    function: 1----6--
-    status: RQ
-    date: '1001'
+    function: '--3-----'
+    status: RL
+    date: '1601'
     iata: ''
-    coordinates: '2870N 19490W'
+    coordinates: '2807S 01949E'
     remarks: ''
 -
     ch: ''
@@ -96,6 +96,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'NA HTN'
+    name: 'Henties Bay (Hentiesbaai)'
+    namewodiacritics: 'Henties Bay (Hentiesbaai)'
+    subdiv: ER
+    function: '--3-----'
+    status: RL
+    date: '1501'
+    iata: ''
+    coordinates: '2207S 01417E'
+    remarks: ''
+-
+    ch: ''
     locode: 'NA KAS'
     name: Karasburg
     namewodiacritics: Karasburg
@@ -117,6 +129,18 @@
     date: '0201'
     iata: ''
     coordinates: '2156S 01551E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NA KAT'
+    name: 'Katima Mulilo'
+    namewodiacritics: 'Katima Mulilo'
+    subdiv: CA
+    function: '--3-----'
+    status: RL
+    date: '1707'
+    iata: ''
+    coordinates: '1730S 02416E'
     remarks: ''
 -
     ch: ''
@@ -240,6 +264,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'NA OOZ'
+    name: Okahandja
+    namewodiacritics: Okahandja
+    subdiv: OD
+    function: '-----6--'
+    status: RL
+    date: '1401'
+    iata: ''
+    coordinates: '2159S 01655E'
+    remarks: ''
+-
+    ch: ''
     locode: 'NA OKF'
     name: Okaukuejo
     namewodiacritics: Okaukuejo
@@ -300,6 +336,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'NA ONG'
+    name: Ongwediva
+    namewodiacritics: Ongwediva
+    subdiv: 'ON'
+    function: '--3-----'
+    status: RL
+    date: '1901'
+    iata: ''
+    coordinates: '1746S 01545E'
+    remarks: ''
+-
+    ch: ''
     locode: 'NA OPW'
     name: Opuwa
     namewodiacritics: Opuwa
@@ -336,6 +384,42 @@
     remarks: ''
 -
     ch: ''
+    locode: 'NA OSH'
+    name: Oshikango
+    namewodiacritics: Oshikango
+    subdiv: OW
+    function: '-----6--'
+    status: RL
+    date: '1407'
+    iata: ''
+    coordinates: '1724S 01553E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NA OVO'
+    name: Oshivelo
+    namewodiacritics: Oshivelo
+    subdiv: OT
+    function: '--3-----'
+    status: RL
+    date: '1707'
+    iata: ''
+    coordinates: '1837S 01710E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NA OTP'
+    name: Otavi
+    namewodiacritics: Otavi
+    subdiv: OD
+    function: '--3-----'
+    status: RL
+    date: '1601'
+    iata: ''
+    coordinates: '1939S 01720E'
+    remarks: ''
+-
+    ch: ''
     locode: 'NA OTJ'
     name: Otjiwarongo
     namewodiacritics: Otjiwarongo
@@ -345,6 +429,18 @@
     date: '9805'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'NA OUT'
+    name: Outjo
+    namewodiacritics: Outjo
+    subdiv: KU
+    function: '--3-----'
+    status: RL
+    date: '1901'
+    iata: ''
+    coordinates: '2007S 01609E'
     remarks: ''
 -
     ch: ''
@@ -420,6 +516,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'NA UIS'
+    name: Uis
+    namewodiacritics: Uis
+    subdiv: ER
+    function: '--3-----'
+    status: RL
+    date: '1801'
+    iata: ''
+    coordinates: '2113S 01451E'
+    remarks: ''
+-
+    ch: ''
     locode: 'NA WVB'
     name: 'Walvis Bay'
     namewodiacritics: 'Walvis Bay'
@@ -441,4 +549,16 @@
     date: '9601'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'NA ERS'
+    name: 'Windhoek Eros Airport'
+    namewodiacritics: 'Windhoek Eros Airport'
+    subdiv: KH
+    function: '---4----'
+    status: RL
+    date: '1607'
+    iata: ''
+    coordinates: '2236S 01704E'
     remarks: ''

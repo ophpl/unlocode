@@ -5,10 +5,34 @@
     namewodiacritics: Barentsburg
     subdiv: ''
     function: 1-------
-    status: AF
-    date: '9601'
+    status: AA
+    date: '1601'
     iata: ''
-    coordinates: ''
+    coordinates: '7804N 01412E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SJ HOP'
+    name: Hopen
+    namewodiacritics: Hopen
+    subdiv: ''
+    function: 0-------
+    status: AA
+    date: '1601'
+    iata: ''
+    coordinates: '7635N 02510E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'SJ JAM'
+    name: 'Jan Mayen'
+    namewodiacritics: 'Jan Mayen'
+    subdiv: ''
+    function: 0-------
+    status: AA
+    date: '1601'
+    iata: ''
+    coordinates: '7635N 02510E'
     remarks: ''
 -
     ch: ''
@@ -41,8 +65,8 @@
     namewodiacritics: Sveagruva
     subdiv: ''
     function: 1-------
-    status: AF
-    date: '9601'
+    status: AA
+    date: '1601'
     iata: ''
-    coordinates: ''
+    coordinates: '7751N 01639E'
     remarks: ''

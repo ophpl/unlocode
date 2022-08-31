@@ -72,6 +72,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'NP BBI'
+    name: Bhairahawa
+    namewodiacritics: Bhairahawa
+    subdiv: LU
+    function: '-----6--'
+    status: AA
+    date: '1907'
+    iata: ''
+    coordinates: '2730N 08327E'
+    remarks: ''
+-
+    ch: ''
     locode: 'NP BWA'
     name: Bhairawa
     namewodiacritics: Bhairawa
@@ -120,6 +132,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'NP BRI'
+    name: Biratnagar
+    namewodiacritics: Biratnagar
+    subdiv: KO
+    function: '-----6--'
+    status: AA
+    date: '1907'
+    iata: ''
+    coordinates: '2629N 08717E'
+    remarks: ''
+-
+    ch: ''
     locode: 'NP BRG'
     name: Birgunj
     namewodiacritics: Birgunj
@@ -129,6 +153,30 @@
     date: '8103'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'NP BSI'
+    name: 'Birgunj ICD'
+    namewodiacritics: 'Birgunj ICD'
+    subdiv: NA
+    function: '-----6--'
+    status: AA
+    date: '1407'
+    iata: ''
+    coordinates: '2701N 08452E'
+    remarks: ''
+-
+    ch: ''
+    locode: 'NP BTW'
+    name: Butwal
+    namewodiacritics: Butwal
+    subdiv: LU
+    function: '--3-----'
+    status: AM
+    date: '2101'
+    iata: ''
+    coordinates: '2742N 08327E'
     remarks: ''
 -
     ch: ''
@@ -179,7 +227,7 @@
     coordinates: ''
     remarks: ''
 -
-    ch: +
+    ch: ''
     locode: 'NP DDG'
     name: Dhading
     namewodiacritics: Dhading
@@ -357,6 +405,18 @@
     date: '9401'
     iata: ''
     coordinates: ''
+    remarks: ''
+-
+    ch: ''
+    locode: 'NP KRI'
+    name: Krishnanagar
+    namewodiacritics: Krishnanagar
+    subdiv: LU
+    function: '--3-----'
+    status: AA
+    date: '1801'
+    iata: ''
+    coordinates: '2730N 08247E'
     remarks: ''
 -
     ch: ''
@@ -552,6 +612,18 @@
     remarks: ''
 -
     ch: ''
+    locode: 'NP RUP'
+    name: Rupandehi
+    namewodiacritics: Rupandehi
+    subdiv: P5
+    function: '--3-----'
+    status: RL
+    date: '2001'
+    iata: ''
+    coordinates: '2735N 08326E'
+    remarks: ''
+-
+    ch: ''
     locode: 'NP FEB'
     name: Sanfebagar
     namewodiacritics: Sanfebagar
@@ -658,6 +730,18 @@
     iata: ''
     coordinates: ''
     remarks: ''
+-
+    ch: +
+    locode: 'NP TRV'
+    name: Triveni
+    namewodiacritics: Triveni
+    subdiv: GA
+    function: '--3--6--'
+    status: AA
+    date: '2201'
+    iata: ''
+    coordinates: '2727N 08354E'
+    remarks: Border
 -
     ch: ''
     locode: 'NP TMI'
