@@ -30,7 +30,7 @@ class Locode implements LocodeInterface
     public function __construct($path = null, ReaderInterface $reader = null)
     {
         if (null === $path) {
-            $path = __DIR__."/../../../data";
+            $path = __DIR__."/../data";
         }
 
         if (null === $reader) {

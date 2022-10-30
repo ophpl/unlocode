@@ -14,34 +14,33 @@ use UN\Locode\Reader\YamlReader;
 class LocodeTest extends TestCase
 {
     /**
-     * @var Locode
+     * @return Locode[][]
      */
-    protected $object;
-
-    /**
-     * Sets up the fixture, for example, opens a network connection.
-     * This method is called before a test is executed.
-     */
-    protected function setUp(): void
+    public function locodeObjectProvider()
     {
-        $this->object = new Locode($GLOBALS['data_path'], new YamlReader());
+        return [
+            'data path and reader are provided' => [new Locode($GLOBALS['data_path'], new YamlReader())],
+            'data path and reader are empty' => [new Locode()],
+        ];
     }
 
     /**
+     * @dataProvider locodeObjectProvider
      * @covers {className}::{origMethodName}
      */
-    public function testGetListByCountry()
+    public function testGetListByCountry(Locode $object)
     {
-        $list = $this->object->getListByCountry('EE');
+        $list = $object->getListByCountry('EE');
         $this->assertNotEmpty($list, "The code list is empty");
     }
 
     /**
+     * @dataProvider locodeObjectProvider
      * @covers {className}::{origMethodName}
      */
-    public function testGetByCountryAndName()
+    public function testGetByCountryAndName(Locode $object)
     {
-        $entry = $this->object->getByCountryAndName('EE', 'Tallinn');
+        $entry = $object->getByCountryAndName('EE', 'Tallinn');
 
         $this->assertNotNull($entry, 'Entry not found');
         $this->assertEquals('EE TLL', $entry->getLocode(), 'Invalid entry code');
@@ -50,11 +49,12 @@ class LocodeTest extends TestCase
     }
 
     /**
+     * @dataProvider locodeObjectProvider
      * @covers {className}::{origMethodName}
      */
-    public function testGetByCountryAndLocode()
+    public function testGetByCountryAndLocode(Locode $object)
     {
-        $entry = $this->object->getByCountryAndCode('EE', 'TLL');
+        $entry = $object->getByCountryAndCode('EE', 'TLL');
 
         $this->assertNotNull($entry, 'Entry not found');
         $this->assertEquals('Tallinn', $entry->getName(), 'Invalid entry name');
@@ -63,11 +63,12 @@ class LocodeTest extends TestCase
     }
 
     /**
+     * @dataProvider locodeObjectProvider
      * @covers {className}::{origMethodName}
      */
-    public function testGetByLocode()
+    public function testGetByLocode(Locode $object)
     {
-        $entry = $this->object->getByLocode('DE FRA');
+        $entry = $object->getByLocode('DE FRA');
 
         $this->assertNotNull($entry, 'Entry not found');
         $this->assertEquals('Frankfurt am Main', $entry->getName(), 'Invalid entry name');
@@ -76,11 +77,12 @@ class LocodeTest extends TestCase
     }
 
     /**
+     * @dataProvider locodeObjectProvider
      * @covers {className}::{origMethodName}
      */
-    public function testGetByLocodeInvalidFormat()
+    public function testGetByLocodeInvalidFormat(Locode $object)
     {
         $this->expectException(\InvalidArgumentException::class);
-        $this->object->getByLocode('EETLL');
+        $object->getByLocode('EETLL');
     }
 }
