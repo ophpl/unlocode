@@ -6,8 +6,8 @@ use Symfony\Component\Console\Application;
 use UN\Locode\Command\Build;
 
 /**
- * Class Console
- * @package UN\Locode
+ * Class Console.
+ *
  * @description Console Application
  */
 class Console extends Application
@@ -19,8 +19,8 @@ class Console extends Application
     {
         parent::__construct('Welcome to UN\LOCODE console', '1.0');
 
-        $this->addCommands(array(
-            new Build()
-        ));
+        $this->addCommands([
+            new Build(),
+        ]);
     }
 }

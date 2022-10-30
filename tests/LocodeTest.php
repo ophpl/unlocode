@@ -7,8 +7,8 @@ use UN\Locode\Locode;
 use UN\Locode\Reader\YamlReader;
 
 /**
- * Class LocodeTest
- * @package UN\Locode
+ * Class LocodeTest.
+ *
  * @description Basic Locode Tests
  */
 class LocodeTest extends TestCase
@@ -31,7 +31,7 @@ class LocodeTest extends TestCase
     public function testGetListByCountry(Locode $object)
     {
         $list = $object->getListByCountry('EE');
-        $this->assertNotEmpty($list, "The code list is empty");
+        $this->assertNotEmpty($list, 'The code list is empty');
     }
 
     /**

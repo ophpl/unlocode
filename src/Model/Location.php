@@ -3,8 +3,8 @@
 namespace UN\Locode\Model;
 
 /**
- * Class Location
- * @package UN\Locode\Model
+ * Class Location.
+ *
  * @description Location data model
  */
 class Location
@@ -22,9 +22,7 @@ class Location
     protected $remarks;
 
     /**
-     * Construct model from data array
-     *
-     * @param array $data
+     * Construct model from data array.
      */
     public function __construct(array $data)
     {
@@ -123,7 +121,7 @@ class Location
     }
 
     /**
-     * Get city code
+     * Get city code.
      *
      * @return string
      */

@@ -3,8 +3,8 @@
 namespace UN\Locode\Writer;
 
 /**
- * Interface WriterInterface
- * @package UN\Locode\Writer
+ * Interface WriterInterface.
+ *
  * @description Writer interface
  */
 interface WriterInterface
@@ -14,7 +14,7 @@ interface WriterInterface
      *
      * @param string $path
      * @param string $country
-     * @param array $data
+     *
      * @return
      */
     public function write($path, $country, array $data);

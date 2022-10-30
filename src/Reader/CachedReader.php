@@ -2,18 +2,17 @@
 
 namespace UN\Locode\Reader;
 
-use Symfony\Component\Yaml\Yaml;
 use Doctrine\Common\Cache\Cache;
 
 /**
- * Class CachedReader
- * @package UN\Locode\Reader
+ * Class CachedReader.
+ *
  * @description Cached reader
  */
 class CachedReader implements ReaderInterface
 {
     /**
-     * @var Object $cache doctrine cache if provided
+     * @var object doctrine cache if provided
      */
     protected $cache = null;
 
@@ -21,7 +20,7 @@ class CachedReader implements ReaderInterface
 
     /**
      * @param ReaderInterface $reader actual cache reader
-     * @param Cache $cache doctrine cache instance
+     * @param Cache           $cache  doctrine cache instance
      */
     public function __construct(ReaderInterface $reader, Cache $cache)
     {
@@ -64,9 +63,10 @@ class CachedReader implements ReaderInterface
     }
 
     /**
-     * Get data from cache, if cache provider is set
+     * Get data from cache, if cache provider is set.
      *
      * @param string $key
+     *
      * @return array
      */
     protected function getCache($key)
@@ -83,11 +83,13 @@ class CachedReader implements ReaderInterface
     }
 
     /**
-     * Save data to cache
+     * Save data to cache.
+     *
      * @param string $key
-     * @param array $data
-     * @throws \RuntimeException thrown if data could not be saved to cache
+     *
      * @return array
+     *
+     * @throws \RuntimeException thrown if data could not be saved to cache
      */
     protected function saveCache($key, array $data)
     {
@@ -96,7 +98,7 @@ class CachedReader implements ReaderInterface
         }
 
         if (!$this->cache->save($key, $data)) {
-            throw new \RuntimeException("Unable to save data to cache");
+            throw new \RuntimeException('Unable to save data to cache');
         }
 
         return $data;

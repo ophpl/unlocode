@@ -6,8 +6,8 @@ use PHPUnit\Framework\TestCase;
 use UN\Locode\Model\Location;
 
 /**
- * Class LocationTest
- * @package UN\Locode\Model
+ * Class LocationTest.
+ *
  * @description Location Model Tests
  */
 class LocationTest extends TestCase
@@ -18,33 +18,33 @@ class LocationTest extends TestCase
             'array with lowercase key' => [
                 [
                     'ch' => '',
-                    'locode'=> 'EE AAR',
-                    'name'=> 'Aaravete',
-                    'namewodiacritics'=> 'Aaravete',
-                    'subdiv'=> '52',
-                    'function'=> '--3-----',
-                    'status'=> 'RL',
-                    'date'=> '1301',
-                    'iata'=> '',
-                    'coordinates'=> '5908N 02545E',
-                    'remarks'=> '',
-                ]
+                    'locode' => 'EE AAR',
+                    'name' => 'Aaravete',
+                    'namewodiacritics' => 'Aaravete',
+                    'subdiv' => '52',
+                    'function' => '--3-----',
+                    'status' => 'RL',
+                    'date' => '1301',
+                    'iata' => '',
+                    'coordinates' => '5908N 02545E',
+                    'remarks' => '',
+                ],
             ],
             'array with camelcase key' => [
                 [
                     'ch' => '',
-                    'locode'=> 'EE AAR',
-                    'name'=> 'Aaravete',
-                    'nameWoDiacritics'=> 'Aaravete',
-                    'subDiv'=> '52',
-                    'function'=> '--3-----',
-                    'status'=> 'RL',
-                    'date'=> '1301',
-                    'IATA'=> '',
-                    'coordinates'=> '5908N 02545E',
-                    'remarks'=> '',
-                ]
-            ]
+                    'locode' => 'EE AAR',
+                    'name' => 'Aaravete',
+                    'nameWoDiacritics' => 'Aaravete',
+                    'subDiv' => '52',
+                    'function' => '--3-----',
+                    'status' => 'RL',
+                    'date' => '1301',
+                    'IATA' => '',
+                    'coordinates' => '5908N 02545E',
+                    'remarks' => '',
+                ],
+            ],
         ];
     }
 

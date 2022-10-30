@@ -5,8 +5,8 @@ namespace UN\Locode\Reader;
 use Symfony\Component\Yaml\Yaml;
 
 /**
- * Class YamlReader
- * @package UN\Locode\Reader
+ * Class YamlReader.
+ *
  * @description Yaml reader
  */
 class YamlReader implements ReaderInterface
@@ -18,7 +18,7 @@ class YamlReader implements ReaderInterface
     {
         $country = strtolower($country);
 
-        $fileName = $path . '/' . $country . '.yaml';
+        $fileName = $path.'/'.$country.'.yaml';
 
         return Yaml::parseFile($fileName);
     }

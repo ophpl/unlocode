@@ -6,8 +6,8 @@ use PHPUnit\Framework\TestCase;
 use UN\Locode\Reader\CachedReader;
 
 /**
- * Class CachedReaderTest
- * @package UN\Locode\Reader
+ * Class CachedReaderTest.
+ *
  * @description Cached Reader Tests
  */
 class CachedReaderTest extends TestCase

@@ -5,8 +5,8 @@ namespace UN\Locode\Writer;
 use Symfony\Component\Yaml\Yaml;
 
 /**
- * Class YamlWriter
- * @package UN\Locode\Writer
+ * Class YamlWriter.
+ *
  * @description Yaml writer
  */
 class YamlWriter implements WriterInterface
@@ -21,7 +21,7 @@ class YamlWriter implements WriterInterface
         $fileName = $path.'/'.$country.'.yaml';
 
         if (!file_put_contents($fileName, Yaml::dump($data))) {
-            throw new \RuntimeException(sprintf("Unable to dump to file %s", $fileName));
+            throw new \RuntimeException(sprintf('Unable to dump to file %s', $fileName));
         }
     }
 }

@@ -7,30 +7,30 @@ use UN\Locode\Reader\ReaderInterface;
 use UN\Locode\Reader\YamlReader;
 
 /**
- * Class Locode
- * @package UN\Locode
+ * Class Locode.
+ *
  * @description Locode API
  */
 class Locode implements LocodeInterface
 {
     /**
-     * @var string $path path to data folder
+     * @var string path to data folder
      */
     private $path;
 
     /**
-     * @var ReaderInterface $reader data reader
+     * @var ReaderInterface data reader
      */
     private $reader;
 
     /**
-     * @param string $path path to data folder
+     * @param string          $path   path to data folder
      * @param ReaderInterface $reader data reader, by default yaml reader
      */
     public function __construct($path = null, ReaderInterface $reader = null)
     {
         if (null === $path) {
-            $path = __DIR__."/../data";
+            $path = __DIR__.'/../data';
         }
 
         if (null === $reader) {
@@ -48,7 +48,7 @@ class Locode implements LocodeInterface
     {
         $list = $this->reader->read($this->path, $country);
 
-        if ($list === null) {
+        if (null === $list) {
             return null;
         }
 
@@ -92,11 +92,11 @@ class Locode implements LocodeInterface
      */
     public function getByLocode($locode)
     {
-        if (!preg_match("/^[A-Z]{2}\\s[A-Z0-9]{3}$/i", $locode)) {
-            throw new \InvalidArgumentException(sprintf("Invalid locode value `%s`", $locode));
+        if (!preg_match('/^[A-Z]{2}\\s[A-Z0-9]{3}$/i', $locode)) {
+            throw new \InvalidArgumentException(sprintf('Invalid locode value `%s`', $locode));
         }
 
-        list($country, $code) = explode(" ", $locode, 2);
+        list($country, $code) = explode(' ', $locode, 2);
 
         return $this->getByCountryAndCode($country, $code);
     }

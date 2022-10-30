@@ -40,10 +40,10 @@
             "@php -d date.timezone=UTC vendor/bin/phpunit -c phpunit.xml.dist"
         ],
         "lint": [
-            "vendor/bin/php-cs-fixer fix src --no-interaction --dry-run --diff"
+            "vendor/bin/php-cs-fixer fix --ansi --no-interaction --dry-run --verbose --diff --show-progress=dots --config=.php-cs-fixer.php"
         ],
         "fix": [
-            "vendor/bin/php-cs-fixer fix src"
+            "vendor/bin/php-cs-fixer fix --config=.php-cs-fixer.php"
         ]
     }
 }

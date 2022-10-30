@@ -6,8 +6,8 @@ use PHPUnit\Framework\TestCase;
 use UN\Locode\Reader\YamlReader;
 
 /**
- * Class YamlReaderTest
- * @package UN\Locode\Reader
+ * Class YamlReaderTest.
+ *
  * @description Yaml Reader Tests
  */
 class YamlReaderTest extends TestCase
