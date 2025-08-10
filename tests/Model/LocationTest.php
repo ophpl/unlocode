@@ -2,6 +2,7 @@
 
 namespace UN\Locode\Tests\Model;
 
+use PHPUnit\Framework\Attributes\DataProvider;
 use PHPUnit\Framework\TestCase;
 use UN\Locode\Model\Location;
 
@@ -12,7 +13,7 @@ use UN\Locode\Model\Location;
  */
 class LocationTest extends TestCase
 {
-    public function locationDataProvider()
+    public static function locationDataProvider()
     {
         return [
             'array with lowercase key' => [
@@ -52,6 +53,7 @@ class LocationTest extends TestCase
      * @dataProvider locationDataProvider
      * @covers {className}::{origMethodName}
      */
+    #[DataProvider('locationDataProvider')]
     public function testLocationModel(array $data)
     {
         $location = new Location($data);

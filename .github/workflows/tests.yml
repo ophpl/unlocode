@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     strategy:
       matrix:
-        php: ['8.0', '8.1']
+        php: ['8.0', '8.1', '8.2', '8.3', '8.4']
         coverage-driver: [pcov]
     name: PHP ${{ matrix.php }}
     steps:
@@ -30,6 +30,9 @@ jobs:
 
       - name: Composer install
         run: composer install -n
+
+      - name: Install doctrine/cache for tests
+        run: composer require --dev doctrine/cache
 
       - run: vendor/bin/phpunit
         env:

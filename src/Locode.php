@@ -24,10 +24,10 @@ class Locode implements LocodeInterface
     private $reader;
 
     /**
-     * @param string          $path   path to data folder
-     * @param ReaderInterface $reader data reader, by default yaml reader
+     * @param string|null          $path   path to data folder
+     * @param ReaderInterface|null $reader data reader, by default yaml reader
      */
-    public function __construct($path = null, ReaderInterface $reader = null)
+    public function __construct(?string $path = null, ?ReaderInterface $reader = null)
     {
         if (null === $path) {
             $path = __DIR__.'/../data';

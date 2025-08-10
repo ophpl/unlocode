@@ -2,6 +2,7 @@
 
 namespace UN\Locode\Tests;
 
+use PHPUnit\Framework\Attributes\DataProvider;
 use PHPUnit\Framework\TestCase;
 use UN\Locode\Locode;
 use UN\Locode\Reader\YamlReader;
@@ -16,7 +17,7 @@ class LocodeTest extends TestCase
     /**
      * @return Locode[][]
      */
-    public function locodeObjectProvider()
+    public static function locodeObjectProvider()
     {
         return [
             'data path and reader are provided' => [new Locode($GLOBALS['data_path'], new YamlReader())],
@@ -28,6 +29,7 @@ class LocodeTest extends TestCase
      * @dataProvider locodeObjectProvider
      * @covers {className}::{origMethodName}
      */
+    #[DataProvider('locodeObjectProvider')]
     public function testGetListByCountry(Locode $object)
     {
         $list = $object->getListByCountry('EE');
@@ -38,6 +40,7 @@ class LocodeTest extends TestCase
      * @dataProvider locodeObjectProvider
      * @covers {className}::{origMethodName}
      */
+    #[DataProvider('locodeObjectProvider')]
     public function testGetByCountryAndName(Locode $object)
     {
         $entry = $object->getByCountryAndName('EE', 'Tallinn');
@@ -52,6 +55,7 @@ class LocodeTest extends TestCase
      * @dataProvider locodeObjectProvider
      * @covers {className}::{origMethodName}
      */
+    #[DataProvider('locodeObjectProvider')]
     public function testGetByCountryAndLocode(Locode $object)
     {
         $entry = $object->getByCountryAndCode('EE', 'TLL');
@@ -66,6 +70,7 @@ class LocodeTest extends TestCase
      * @dataProvider locodeObjectProvider
      * @covers {className}::{origMethodName}
      */
+    #[DataProvider('locodeObjectProvider')]
     public function testGetByLocode(Locode $object)
     {
         $entry = $object->getByLocode('DE FRA');
@@ -80,6 +85,7 @@ class LocodeTest extends TestCase
      * @dataProvider locodeObjectProvider
      * @covers {className}::{origMethodName}
      */
+    #[DataProvider('locodeObjectProvider')]
     public function testGetByLocodeInvalidFormat(Locode $object)
     {
         $this->expectException(\InvalidArgumentException::class);
